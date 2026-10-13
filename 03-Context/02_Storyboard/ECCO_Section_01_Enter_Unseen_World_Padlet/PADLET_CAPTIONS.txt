@@ -1,0 +1,19 @@
+ECCO ENP3 — SECTION 1: ENTER THE UNSEEN WORLD (0:00–0:10)
+
+Panel 1 — Surface world / starting point (0:00–0:02)
+We begin in the visible world at the drilling rig. This establishes the real operational context before moving into the hidden subsurface environment.
+
+Panel 2 — Descending from the rig (0:02–0:05)
+The camera follows the drill string downward, moving from the offshore surface through the water and toward the seabed. This begins the transition from the visible world into the unseen world below.
+
+Panel 3 — Through earth layers (0:05–0:07)
+We are now underground, following the drill string through the subsurface. This panel establishes the hidden geological world where direct human vision is no longer possible.
+
+Panel 4 — Deep underground / ECCO in darkness (0:07–0:10)
+We arrive deep underground near ECCO. The environment is dark and inaccessible. This establishes the core problem: the well cannot simply be “looked at” directly, which is why ECCO’s sensing capability is needed.
+
+SECTION INTRODUCTION
+The film opens in the visible world at the drilling rig, then follows the drill string down through water, seabed and rock layers into the dark, inaccessible subsurface where ECCO operates. This sequence establishes the real operational context and the core problem: the well cannot be inspected directly, which is why ECCO’s ultrasonic sensing capability is needed.
+
+CLIENT ENGINEERING REVIEW NOTE
+Panels are storyboard descriptions for narrative staging, not engineering drawings. Rig, drill-string and offshore deployment context should be checked against approved references before final production. The dark subsurface treatment is a storytelling device; it does not imply that actual downhole conditions or tool appearance are as depicted.
