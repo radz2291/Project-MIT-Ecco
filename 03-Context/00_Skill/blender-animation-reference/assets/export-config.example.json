@@ -1,0 +1,19 @@
+{
+  "source_blend": "./source.blend",
+  "scene": null,
+  "camera": null,
+  "output_dir": "./generation-reference",
+  "overwrite": false,
+  "fps": 24,
+  "resolution": [1280, 720],
+  "inspect": {"sample_step": 1, "extra_frames": [], "objects": [], "pose_bones": false, "evaluated_geometry": false},
+  "render": {
+    "base_grey": 0.62, "background_grey": 0.15, "studio_light": "paint.sl", "anti_aliasing": "32",
+    "shadows": false, "cavity": false, "grey_groups": [], "alpha_groups": [], "hide_objects": [],
+    "suppress_volume_only": true, "suppress_particle_systems": true,
+    "verify_evaluated_geometry": false, "save_reference_blend": false
+  },
+  "generator": {"name": "unspecified", "verified_inputs": [], "style": "hyper-realistic", "appearance_references": []},
+  "adaptations": [],
+  "segments": [{"id": "segment-01", "source_start": 55, "source_end": 86, "duration": 4, "event_frames": [70, 82], "landmarks": []}]
+}

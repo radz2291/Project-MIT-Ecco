@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Animation Reference"
+  short_description: "Blender motion references and timed video prompts"
+  default_prompt: "Use $blender-animation-reference to turn my Blender animation into verified texture-free motion references and ready-to-use video generation prompts."

@@ -1,0 +1,10 @@
+{
+  "segments": {
+    "segment-01": {
+      "approved_for_handoff": false,
+      "inspected_assets": ["first_frame.png", "last_frame.png", "review_sheet.jpg"],
+      "findings": "Replace with actual observations after viewing the exported assets; include every exported event image in inspected_assets.",
+      "warning_disposition": "Explain any warnings as intentional or resolved. Leave empty when there are no warnings."
+    }
+  }
+}
