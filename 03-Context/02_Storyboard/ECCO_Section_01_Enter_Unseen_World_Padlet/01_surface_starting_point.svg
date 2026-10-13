@@ -1,0 +1,16 @@
+<svg viewBox="0 0 360 220" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="220" fill="#dff3ff"></rect>
+  <rect y="150" width="360" height="70" fill="#4b8fc7"></rect>
+  <rect y="180" width="360" height="40" fill="#2f6289"></rect>
+
+  <rect x="115" y="120" width="130" height="18" fill="#666"></rect>
+  <rect x="130" y="138" width="12" height="30" fill="#666"></rect>
+  <rect x="218" y="138" width="12" height="30" fill="#666"></rect>
+
+  <polygon points="180,45 150,120 210,120" fill="none" stroke="#444" stroke-width="3"></polygon>
+  <line x1="180" y1="45" x2="180" y2="120" stroke="#444" stroke-width="2"></line>
+  <line x1="165" y1="82" x2="195" y2="82" stroke="#444" stroke-width="2"></line>
+  <line x1="158" y1="100" x2="202" y2="100" stroke="#444" stroke-width="2"></line>
+
+  <rect x="176" y="120" width="8" height="60" fill="#222"></rect>
+</svg>

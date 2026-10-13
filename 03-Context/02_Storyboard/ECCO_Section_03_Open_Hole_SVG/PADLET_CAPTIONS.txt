@@ -1,21 +1,23 @@
-ECCO ENP3 — SECTION 3: OPEN HOLE — GEOMETRY & FORMATION IMAGING (0:22–0:40)
+ECCO ENP3 — SECTION 3: OPEN HOLE — REVEAL THE RAW EARTH (0:22–0:40)
 
-Panel 1 — Ideal borehole diameter (0:22–0:26)
+This section introduces ECCO's first two capabilities: borehole geometry and formation imaging.
+
+Panel 1 — Ideal borehole diameter (0:22–0:25)
 We begin with the expected borehole diameter based on the drill bit size. The circular reference represents the intended hole size before comparing it with the actual underground conditions.
 
-Panel 2 — Actual borehole geometry / washout (0:26–0:31)
+Panel 2 — Actual borehole geometry / washout (0:25–0:29)
 As drilling progresses, the surrounding formation may break away or become enlarged, creating an irregular hole known as washout.
 
 ECCO measures the distance to the wall in different directions, allowing the actual borehole shape to be compared with the intended diameter. The highlighted section represents an enlarged area.
 
-Panel 3 — Geometry through depth (0:31–0:34)
+Panel 3 — Geometry through depth (0:29–0:32)
 As ECCO rotates and travels through the well, measurements are collected at successive depths.
 
 These measurements are combined to reconstruct the changing borehole geometry, including enlarged, narrowed or irregular sections.
 
 The result is a continuous 3D representation of the actual drilled hole.
 
-Panel 4 — The same echo provides another measurement (0:34–0:37)
+Panel 4 — The same echo provides another measurement (0:32–0:35)
 The same ultrasonic echo used to calculate distance also carries information about the strength of the reflected signal.
 ECCO analyses two properties:
 • Time of Flight: How long the echo takes to return, used to determine distance and borehole geometry.
@@ -23,15 +25,14 @@ ECCO analyses two properties:
 
 These are two different measurements extracted from the ultrasonic response.
 
-Panel 5 — Amplitude becomes a formation image (0:37–0:40)
+Panel 5 — Amplitude becomes a formation image (0:35–0:40)
 As ECCO rotates and moves through depth, amplitude measurements accumulate around the borehole wall.
 
 These measurements are arranged into a continuous 360° image, displayed using different color shades to represent variations in the ultrasonic reflections.
 
 The resulting formation image helps geologists identify patterns and changes in the surrounding rock. The colors represent measured acoustic responses, not the actual color of the formation.
 
-SECTION INTRODUCTION
-With the sensing principle established, the film applies it to the open-hole environment. ECCO compares measured geometry against the ideal bit-size circle, reconstructs washouts and irregular sections through depth, and extracts a second property — amplitude — from the same echo. Amplitude measurements accumulate into a continuous 360° formation image that helps geologists identify patterns and changes in the surrounding rock.
+IMPORTANT POINT FOR AHMED'S REVIEW
+Panels 3 and 5 show two separate outputs from the same sensing system. We are not suggesting that geometry is converted into amplitude. The transition is about revealing another property of the returned signal.
 
-CLIENT ENGINEERING REVIEW NOTE
-The five panels correspond to the existing frames 01_ideal_borehole, 02_actual_washout, 03_geometry_by_depth, 04_echo_two_properties and 05_amplitude_unwrapped. Drawings are conceptual storyboard illustrations, not verified mechanical drawings or calibrated log interpretations. The washout depiction, the Time-of-Flight and Amplitude wording, and the formation-image treatment should be confirmed against the ENP3 datasheet and MIT’s technical review before final animation.
+These panels are conceptual diagrams for confirming the story mechanics, not exact representations of ECCO's final hardware or processed field data.

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 360 260" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="260" fill="#1a1f25"></rect>
+
+  <rect x="0" y="0" width="360" height="55" fill="#6e573f"></rect>
+  <rect x="0" y="55" width="360" height="55" fill="#816649"></rect>
+  <rect x="0" y="110" width="360" height="55" fill="#5e4b38"></rect>
+  <rect x="0" y="165" width="360" height="95" fill="#43352a"></rect>
+
+  <path d="M0,55 C60,48 120,62 180,55 C240,48 300,60 360,55" fill="none" stroke="#a98b6d" stroke-width="2"></path>
+  <path d="M0,110 C70,103 130,118 190,111 C250,104 310,116 360,110" fill="none" stroke="#9b7e61" stroke-width="2"></path>
+  <path d="M0,165 C70,158 130,175 190,166 C260,157 320,174 360,165" fill="none" stroke="#85684f" stroke-width="2"></path>
+
+  <rect x="176" y="0" width="8" height="260" fill="#d9dde2"></rect>
+
+  <line x1="205" y1="75" x2="205" y2="200" stroke="#6fd3ff" stroke-width="3" opacity="0.8"></line>
+  <polygon points="205,212 197,198 213,198" fill="#6fd3ff"></polygon>
+</svg>

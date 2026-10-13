@@ -1,0 +1,32 @@
+<svg viewBox="0 0 360 250" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="250" fill="#0b1016"></rect>
+
+  <circle cx="180" cy="118" r="86" fill="none" stroke="#5d4b3d" stroke-width="18"></circle>
+  <circle cx="180" cy="118" r="18" fill="#7a8790" stroke="#d9e1e6" stroke-width="2"></circle>
+
+  <g fill="#7edcff">
+    <circle cx="266" cy="118" r="4"></circle>
+    <circle cx="260" cy="89" r="4"></circle>
+    <circle cx="244" cy="64" r="4"></circle>
+    <circle cx="219" cy="45" r="4"></circle>
+    <circle cx="190" cy="33" r="4"></circle>
+    <circle cx="160" cy="35" r="4"></circle>
+    <circle cx="132" cy="46" r="4"></circle>
+    <circle cx="108" cy="65" r="4"></circle>
+    <circle cx="94" cy="91" r="4"></circle>
+    <circle cx="89" cy="120" r="4"></circle>
+    <circle cx="95" cy="149" r="4"></circle>
+    <circle cx="109" cy="174" r="4"></circle>
+    <circle cx="133" cy="193" r="4"></circle>
+    <circle cx="160" cy="203" r="4"></circle>
+    <circle cx="190" cy="203" r="4"></circle>
+    <circle cx="218" cy="193" r="4"></circle>
+    <circle cx="242" cy="175" r="4"></circle>
+    <circle cx="258" cy="150" r="4"></circle>
+  </g>
+
+  <circle cx="180" cy="118" r="86" fill="none" stroke="#6fd3ff" stroke-width="1.5" opacity="0.45"></circle>
+
+  <line x1="180" y1="22" x2="180" y2="214" stroke="#35566b" stroke-width="1"></line>
+  <line x1="84" y1="118" x2="276" y2="118" stroke="#35566b" stroke-width="1"></line>
+</svg>

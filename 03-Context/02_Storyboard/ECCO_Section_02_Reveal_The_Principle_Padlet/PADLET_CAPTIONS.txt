@@ -1,22 +1,26 @@
-ECCO ENP3 — SECTION 2: REVEAL THE PRINCIPLE (0:10–0:22)
+ECCO ENP3 — SECTION 2: THE FIRST PING / REVEAL THE PRINCIPLE (0:10–0:22)
 
-Panel 1 — First pulse (0:10–0:12)
+The purpose of this section is to teach one thing only: ECCO sends sound, listens to the echo, and turns the invisible wall into data.
+
+Panel 1 — First pulse
 ECCO begins the measurement process by sending one ultrasonic pulse outward toward the borehole wall. This introduces the basic sensing principle.
 
-Panel 2 — Echo returns (0:12–0:14)
+Panel 2 — Echo returns
 The pulse reflects from the borehole wall and returns to ECCO. This is the crucial pulse-echo step: ECCO measures by transmitting and then listening.
 
-Panel 3 — One measurement point (0:14–0:16)
+Panel 3 — One measurement point
 One pulse and one returned echo produce one measured point on the wall. At this stage, ECCO is not creating an optical image — it is building measurement data.
 
-Panel 4 — More pulses while rotating (0:16–0:19)
+Panel 4 — More pulses while rotating
 As the drill string rotates, ECCO rotates with it. More pulses are sent in different directions, and more measured points accumulate around the borehole wall.
 
-Panel 5 — One complete ring (0:19–0:22)
+Panel 5 — One complete ring
 After enough rotation and repeated pulse-echo measurements, one circular ring of wall data is formed at that depth. This is the basic unit of ECCO’s borehole reconstruction.
 
 SECTION INTRODUCTION
-In darkness, ECCO reveals how sensing makes the unseen environment readable. One ultrasonic pulse travels outward, reflects from the borehole wall and returns; one pulse-echo pair yields one measured point. As the drill string rotates, repeated measurements accumulate into a circular ring of wall data — the basic unit of ECCO’s borehole reconstruction.
+This section explains the core sensing mechanism of ECCO. A sensor sends an ultrasonic pulse outward, receives the reflected echo, and converts that event into a measured point. As ECCO rotates with the drill string, repeated pulse-echo measurements accumulate around the borehole wall until one full ring of data is formed. The purpose of this section is to make clear that ECCO does not “see” underground optically — it reconstructs the wall from sound measurements.
 
-CLIENT ENGINEERING REVIEW NOTE
-The pulse, echo and rotating-scan behaviour shown here is the simplified sensing principle used for storytelling. Emission geometry, pulse repetition, rotation rate and the visual treatment of measurement points must be reconciled with MIT’s technical explanation and the engineering baseline before final animation. No claim is made about specific sensor hardware, frequencies or data rates.
+ENGINEERING DETAILS TO PRESERVE
+ECCO has three outward-facing sensors arranged at 120° intervals on the same axial plane. They rotate with the entire drill string, not independently.
+
+The glowing pulses are a cinematic illustration of ultrasound, not literal visible light.
