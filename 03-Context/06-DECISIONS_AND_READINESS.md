@@ -75,7 +75,7 @@ Append future answers with date, reviewer, exact preview/document version and ev
 | SRC02 | [ENP3 datasheet](../01-Brief/ECCO_ENP3_Datasheet-1.pdf), 3 pages | Model-specific dimensions, sensors, memory acquisition and hydraulic stages; read during packaging |
 | SRC03 | [Client photo folder](../01-Brief/Image/) | Existing hardware references; not fully audited/assigned during packaging |
 | SRC04 | [Existing reference images](../02-Reference/) | Creative references; not validated geometry, technical approval or selected final anchors |
-| SRC05 | [Production identity v0.1](MIT_Cinematic_Production_Identity_v0.1.md) | Existing 249-line file supplied from prior discussion; preserved unchanged |
+| SRC05 | [Production identity v0.1](03-MIT_Cinematic_Production_Identity_v0.1.md) | Existing 249-line file supplied from prior discussion; preserved unchanged |
 | SRC06 | 8 October `02 - Storyboard` discussion | Seven sequence names and 10/12/18/18/12/12/8-second timing recovered from prior conversation; current Padlet not inspected |
 | SRC07 | 13 October project/Phase A discussion | Producer reports quote acceptance; unresolved client comment; instruction to include branding |
 | SRC08 | Accepted quote discussed as QTE-MIT-001 | Exact accepted snapshot not imported; earlier calculator rules are not contractual authority |

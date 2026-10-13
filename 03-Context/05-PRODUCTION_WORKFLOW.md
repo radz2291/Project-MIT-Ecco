@@ -1,7 +1,7 @@
 # MIT / ECCO — Production Workflow
 
 **Version:** 0.1 · 13 October 2026  
-**Applies with:** [Production identity](MIT_Cinematic_Production_Identity_v0.1.md), [engineering baseline](ENGINEERING_BASELINE.md) and [shot plan](STORYBOARD_AND_SHOT_PLAN.md).
+**Applies with:** [Production identity](03-MIT_Cinematic_Production_Identity_v0.1.md), [engineering baseline](02-ENGINEERING_BASELINE.md) and [shot plan](04-STORYBOARD_AND_SHOT_PLAN.md).
 
 ## Division of control
 

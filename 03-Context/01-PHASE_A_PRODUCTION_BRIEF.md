@@ -11,12 +11,12 @@
 
 Explain locally developed ECCO technology through a cinematic journey from the surface into an unseen well, then make sensing, interpretation and hydraulic behavior understandable. Non-engineers should grasp the value; engineering viewers should recognize credible hardware and mechanisms.
 
-The product and its real behavior take priority. Our internal visual identity supplies consistency across the entire film, starting in Phase A. Every shot inherits the [production identity](MIT_Cinematic_Production_Identity_v0.1.md).
+The product and its real behavior take priority. Our internal visual identity supplies consistency across the entire film, starting in Phase A. Every shot inherits the [production identity](03-MIT_Cinematic_Production_Identity_v0.1.md).
 
 ## What is established
 
 - Radzi reports that the client received the sample videos, accepted the quotation and gave the green light to proceed on 13 October 2026.
-- The existing narrative baseline is seven sequences totaling approximately 90 seconds. The recovered timing is in the [storyboard](STORYBOARD_AND_SHOT_PLAN.md).
+- The existing narrative baseline is seven sequences totaling approximately 90 seconds. The recovered timing is in the [storyboard](04-STORYBOARD_AND_SHOT_PLAN.md).
 - Five application topics are in the client's brief: open-hole geometry, geological/formation indications, cement conditions, casing integrity and optimized mud-flow hydraulics.
 - The four-second sample demonstrated a usable Blender → AI still → AI video approach by Radzi's assessment. Exact temporal fidelity and savings have not been measured.
 - The client's sample feedback remains unresolved: “Bing and light not exactly what I wanted.. can discuss after”. Preserve the wording; do not infer which effect or light treatment he meant.
@@ -47,7 +47,7 @@ The earlier RM20,000 ceiling and roughly two-week production estimate were plann
 
 ## A2 — Engineering foundation
 
-Use the [engineering baseline](ENGINEERING_BASELINE.md) and source register to establish:
+Use the [engineering baseline](02-ENGINEERING_BASELINE.md) and source register to establish:
 
 - The actual ENP3 CAD version, units, dimensions, visible feature placement and presentation-only modifications.
 - Approved open-hole and cased-hole configurations that physically accommodate the tool.
@@ -74,7 +74,7 @@ Every shot needs an engineering purpose, visual event, source, initial/final sta
 
 ## A5 — Readiness
 
-Use the [readiness checklist](DECISIONS_AND_READINESS.md#phase-a-closure) to release Phase B. An unresolved issue only blocks the work it affects. Organization, asset inventory and non-disputed tests can continue now; expensive finishing of a disputed mechanism waits for technical acceptance.
+Use the [readiness checklist](06-DECISIONS_AND_READINESS.md#phase-a-closure) to release Phase B. An unresolved issue only blocks the work it affects. Organization, asset inventory and non-disputed tests can continue now; expensive finishing of a disputed mechanism waits for technical acceptance.
 
 ## Responsibilities and reviews
 

@@ -9,14 +9,14 @@ The client has accepted the quotation and authorized the project, as reported by
 
 ## Start here
 
-| Document | Use |
-|---|---|
-| [Phase A production brief](PHASE_A_PRODUCTION_BRIEF.md) | Project purpose, scope, A1–A5, responsibilities and review model |
-| [Engineering baseline](ENGINEERING_BASELINE.md) | Sourced product facts, scenario checks and technical review criteria |
-| [Cinematic production identity v0.1](MIT_Cinematic_Production_Identity_v0.1.md) | Mandatory internal visual reference for every sequence |
-| [Storyboard and shot plan](STORYBOARD_AND_SHOT_PLAN.md) | Recovered seven-sequence / 90-second narrative and proposed executable shots |
-| [Production workflow](PRODUCTION_WORKFLOW.md) | Modular Blender assets, boundary-frame AI finishing, review and delivery |
-| [Decisions and readiness](DECISIONS_AND_READINESS.md) | Open questions, evidence, source register and Phase A closure |
+| Order | Document | Use |
+|---|---|---|
+| 01 | [Phase A production brief](01-PHASE_A_PRODUCTION_BRIEF.md) | Project purpose, scope, A1–A5, responsibilities and review model |
+| 02 | [Engineering baseline](02-ENGINEERING_BASELINE.md) | Sourced product facts, scenario checks and technical review criteria |
+| 03 | [Cinematic production identity v0.1](03-MIT_Cinematic_Production_Identity_v0.1.md) | Mandatory internal visual reference for every sequence |
+| 04 | [Storyboard and shot plan](04-STORYBOARD_AND_SHOT_PLAN.md) | Recovered seven-sequence / 90-second narrative and proposed executable shots |
+| 05 | [Production workflow](05-PRODUCTION_WORKFLOW.md) | Modular Blender assets, boundary-frame AI finishing, review and delivery |
+| 06 | [Decisions and readiness](06-DECISIONS_AND_READINESS.md) | Open questions, evidence, source register and Phase A closure |
 
 ## Phase A at a glance
 

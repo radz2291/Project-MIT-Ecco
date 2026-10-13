@@ -95,4 +95,4 @@ Client technical review (reviewed version/date/answer):
 Final review:
 ```
 
-No shot is technically approved merely because its card is filled in. Save the approval evidence and the exact preview version in the [decision register](DECISIONS_AND_READINESS.md).
+No shot is technically approved merely because its card is filled in. Save the approval evidence and the exact preview version in the [decision register](06-DECISIONS_AND_READINESS.md).
