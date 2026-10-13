@@ -1,0 +1,8 @@
+ECCO Section 04 — Cased Hole (0:40–0:58)
+Five illustrated storyboard frames for client review. Artwork is conceptual, not a verified mechanical drawing, field log or calibrated cement-bond interpretation. No labels are placed inside the images.
+
+01 (0:40–0:43) — Introduce cased-hole environment. Contrast raw open-hole rock with a completed well where steel casing is installed and cement occupies the annulus outside the casing.
+02 (0:43–0:46) — Ultrasonic pulse travels through borehole fluid, interacts with the steel casing, causes a casing response, and an echo is received by the tool.
+03 (0:46–0:50) — Well-supported or bonded steel casing generally produces more damped, shorter-lived ringing; unsupported or weakly bonded sections may ring longer. The void drawn is a conceptual example, not a guaranteed physical diagnosis from a single waveform.
+04 (0:50–0:54) — Repeated measurements around circumference and depth can be processed into a 360-degree cement condition map. Colors are illustrative only.
+05 (0:54–0:58) — From ultrasonic timing and sensor-to-inner-wall distance, ECCO assesses casing internal geometry and possible localized wear or deformation. The dashed circle is a nominal reference, not a second measurement.

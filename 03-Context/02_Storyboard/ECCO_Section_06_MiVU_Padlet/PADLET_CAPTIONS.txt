@@ -1,0 +1,26 @@
+SECTION 6 — FROM MEASUREMENTS TO REAL ENGINEERING OUTPUT (1:10–1:22)
+
+Panel 1 (1:10–1:12) — Recorded measurements become Mi-VU outputs
+ECCO records detailed ultrasonic measurements in the tool during the run. After the tool is retrieved, the stored information can be processed using MIT's Mi-VU software. The animation moves away from the downhole environment and into real engineering analysis. This transition represents post-run processing, not a live data transmission to the surface.
+
+Panel 2 (1:12–1:14) — Hole diameter and circular cross-sections
+The first recognizable Mi-VU outputs are the hole-diameter curves and circular cross-sections. The diameter track shows how the measured hole size changes through depth. Cross-sections show the shape of the borehole at selected depths. These visuals are simplified interpretations of the report's Hole Diameter MIN/AVG/MAX and Cross Section — RIH tracks.
+
+Panel 3 (1:14–1:17) — Building the 3D hole image
+The measurements from successive depths are combined into a continuous representation of the borehole. The look transitions from our dramatic 3D animation to the pale-blue, vertically striated style of Mi-VU's 3D Hole Image track. This demonstrates how a series of local measurements becomes a view of the complete measured interval.
+
+Panel 4 (1:17–1:20) — The 360-degree measurement tracks
+Mi-VU also presents measurements as flat, 360-degree images that run continuously through depth. The provided field report includes separate Hole Size — RIH and Hole Size — POOH tracks, a 4D Variance track and an Amplitude track. The blue-toned panels represent hole-size variation; the brown panel represents measured acoustic amplitude. These colors are not photographs or natural rock colors.
+
+Panel 5 (1:20–1:22) — Reveal the real Mi-VU field log
+The individual visualizations now resolve into the complete engineering log, using the same track order and visual conventions seen in MIT's supplied report. Ideally, the final animation should finish this section by transitioning from our simplified graphic to a genuine Mi-VU report or software capture provided by MIT. The supplied LipanBara example is labelled ENP1, so it should not be presented as verified ENP3 field-test output.
+
+INTRO FOR PADLET
+Section 6 — Turning invisible measurements into engineering information
+ECCO's ultrasonic measurements are recorded inside the tool and processed after the run. MIT's Mi-VU software converts these measurements into engineering outputs, including hole-diameter curves, circular cross-sections, a 3D hole image, 360-degree hole-size tracks, variance and amplitude imaging. The sequence bridges the conceptual animation and an example of actual field-report data from the LipanBara run.
+
+KEY MESSAGE
+ECCO's ultrasonic sensing becomes measurable, reviewable engineering information rather than remaining an abstract visual effect.
+
+ENGINEERING REVIEW NOTE
+The source Mi-VU LipanBara report identifies its tool as ENP1. It is a valuable real-output reference, but do not label these screenshots as ENP3 data. Illustrations and curves in the five diagrams are representative only, not extracted numeric logging measurements.

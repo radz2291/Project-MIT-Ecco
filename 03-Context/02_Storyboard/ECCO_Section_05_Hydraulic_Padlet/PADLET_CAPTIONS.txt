@@ -1,0 +1,22 @@
+ECCO ENP3 — SECTION 5: HYDRAULIC ENHANCEMENT (0:58–1:10)
+
+Panel 1 — The circulation path (0:58–1:00)
+Drilling mud is pumped down through the inside of the drill string and exits through the drill bit. It then returns toward the surface through the annular space between the outside of the drill string and the borehole wall, carrying drilled rock cuttings. This establishes the direction of flow before we examine ECCO's hydraulic body features.
+
+Panel 2 — Stage 1: Hydraulic accelerator pads (1:00–1:02)
+The first hydraulic function comes from accelerator pads built into ENP3's outer geometry. As returning mud flows around these raised surfaces, its local velocity increases, helping to lift and transport cuttings through the annulus. The illustrated pad and streamlines are conceptual rather than an exact cross-section or flow simulation.
+
+Panel 3 — Stage 2: Twisted pads (1:02–1:05)
+Two sets of twisted pads are designed to redirect and agitate the surrounding mud, producing local jetting and controlled turbulence that help prevent rock cuttings from settling into beds. The twisting action is provided by the physical geometry; according to the datasheet, it can contribute during rotation, axial tool movement, and/or circulating mud.
+
+Panel 4 — Stage 3: Diffuser (1:05–1:07)
+After the accelerated and agitated flow passes the pads, the diffuser shapes its exit path to recover pressure and reduce the low-pressure wake where cuttings could otherwise gather. This is intended to lower the risk of accumulation and pack-off. The visual shows the intended flow principle, not verified computational fluid dynamics.
+
+Panel 5 — Three stages working together (1:07–1:10)
+The camera pulls back to reveal that Stage 1 (accelerator), Stage 2 (twisted pads) and Stage 3 (diffuser) are not separate operating modes. They are three integrated functional sections of the ENP3 body. As mud moves through the annulus it encounters them in sequence; fluid flows through all sections continuously and each contributes to cuttings transport and hole cleaning.
+
+SECTION INTRODUCTION
+ECCO ENP3 combines ultrasonic sensing with a proprietary three-stage hydraulic enhancement module built into the geometry of the tool body. The return mud flow is acted on in sequence: accelerator pads raise local annular velocity; two sets of twisted pads generate controlled jetting and agitation; and a diffuser recovers pressure and reduces low-pressure wake formation. This flow-conditioning design is intended to improve cuttings transport and reduce pack-off risk. The module can operate through rotation, tripping, circulation, or their combined effects.
+
+CLIENT ENGINEERING REVIEW NOTE
+All five drawings are simplified longitudinal cutaways for story and mechanical explanation. The exact visible profile, position and azimuthal arrangement of pads, and their axial order on the production ENP3, should be confirmed with MIT's CAD or Ahmed before any final product-accurate animation. In the illustrations, Stage 1 is placed below Stage 2 and Stage 3 above it to communicate flow sequence during upward annular circulation, not as verified production-drawing dimensions. Mud-flow arrows represent direction and intended effect, not a physical CFD analysis. No claim of zero pack-off risk is implied.
