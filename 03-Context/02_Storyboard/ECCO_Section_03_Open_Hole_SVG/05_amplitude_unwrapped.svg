@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 360 240" role="img">
+<rect width="360" height="240" rx="10" fill="#101b27"/>
+<path d="M0 0 H39 Q28 45 40 95 Q29 151 41 240 H0Z" fill="#56432f"/>
+<path d="M163 0 H123 Q134 45 122 95 Q135 151 121 240 H163Z" fill="#56432f"/>
+<rect x="72" y="22" width="27" height="191" rx="5" fill="#8096a5" stroke="#d5e3e9" stroke-width="1.6"/>
+<rect x="69" y="94" width="33" height="34" rx="3" fill="#668293" stroke="#d5e3e9"/>
+<circle cx="100" cy="108" r="4" fill="#78d9ff"/>
+<g stroke="#70cffa" stroke-width="1.4" fill="none" opacity=".8"><path d="M105 108 L124 102 M105 108 L125 118 M105 108 L124 88"/></g>
+<path d="M124 23 Q135 36 122 55 Q110 78 126 95 Q134 116 119 140 Q112 165 126 187 Q134 206 124 220" stroke="#e0b45e" stroke-width="5" fill="none" opacity=".9"/>
+<path d="M133 36 Q153 53 173 53 H188 M132 102 Q153 118 173 118 H188 M132 176 Q152 194 173 194 H188" stroke="#79c8e9" stroke-width="1.8" opacity=".7" fill="none"/>
+<g fill="#79c8e9"><path d="M189 53 l-9 -5 v10Z M189 118 l-9 -5 v10Z M189 194 l-9 -5 v10Z"/></g>
+<rect x="201" y="17" width="143" height="206" rx="2" fill="#a27736" stroke="#c8a86c" stroke-width="1.5"/>
+<path d="M201 17 H344 V48 Q304 37 273 46 Q236 55 201 43Z" fill="#895321"/>
+<path d="M201 43 Q236 55 273 46 Q304 37 344 48 V79 Q308 92 276 81 Q232 71 201 84Z" fill="#d0a14b"/>
+<path d="M201 84 Q232 71 276 81 Q308 92 344 79 V109 Q307 103 273 117 Q236 125 201 113Z" fill="#e8bf68"/>
+<path d="M201 113 Q236 125 273 117 Q307 103 344 109 V142 Q311 155 270 139 Q233 131 201 148Z" fill="#7f4b22"/>
+<path d="M201 148 Q233 131 270 139 Q311 155 344 142 V175 Q307 160 273 177 Q235 188 201 171Z" fill="#b98637"/>
+<path d="M201 171 Q235 188 273 177 Q307 160 344 175 V203 Q304 209 270 193 Q237 186 201 201Z" fill="#f0cc7a"/>
+<path d="M201 201 Q237 186 270 193 Q304 209 344 203 V223 H201Z" fill="#915a26"/>
+<g stroke="#eac676" stroke-width="1" fill="none" opacity=".27">
+<path d="M212 17 Q202 72 218 126 T209 223 M244 17 Q258 79 240 124 T249 223 M281 17 Q263 90 285 137 T283 223 M316 17 Q329 91 311 135 T319 223"/>
+</g>
+</svg>
