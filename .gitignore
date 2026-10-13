@@ -1,0 +1,22 @@
+# ---------- Videos ----------
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4v
+*.wmv
+
+# ---------- Heavy documents (11 MB borehole report) ----------
+*BoreholeLog_Report*.pdf
+
+# ---------- CAD / 3D binaries ----------
+*.stp
+*.step
+*.igs
+*.iges
+
+# ---------- OS / editor junk ----------
+Thumbs.db
+Desktop.ini
+.DS_Store
