@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Knowledge-to-Execution Engineering"
+  short_description: "Turn creative decisions into verifiable agent tasks"
+  default_prompt: "Use $creative-knowledge-to-execution-engineering to turn this creative direction and source evidence into a focused agent task, preserving constraints, useful discretion, deliverables, and verifiable acceptance checks."
