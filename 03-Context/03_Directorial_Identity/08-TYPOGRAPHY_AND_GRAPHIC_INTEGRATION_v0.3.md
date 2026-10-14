@@ -97,6 +97,10 @@ Typography should be authored as controllable text/graphics in an appropriate sc
 
 **Motion-graphics design language not yet assessed:** technical linework, annotation density, measurement appearance, graphic transitions, data animation systems, line thicknesses, chart treatment, and whether particular visual metaphors feel sophisticated or excessive. These **must not** be invented as confirmed tastes from Territory alone.
 
+## Active comparison awaiting director reaction
+
+[S02 technical motion-graphics taste test 01](studies/2026-10-14_S02_motion_graphics_test_01/README.md) compares three editable SVG treatments of the **same** conceptual pulse-echo measurement. These are **not confirmed preferences** and are not a replacement for the V2 storyboard. Record the director's selection/reason in the evidence register before revising G01 or choosing a house technical-graphics style.
+
 ## Evidence upgrade rule
 
 Before turning an illustrative choice into Rolladice preference, collect real still/video comparison(s), specific shot/timestamp, the director's choice and reasoning, exceptions, and approval state in the [evidence register](02-TASTE_EVIDENCE_REGISTER.md). This module records **taste preference**, not client approval of any ECCO panel.
