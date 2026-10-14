@@ -1,6 +1,6 @@
 # Rolladice Directorial Identity — Context Index
 
-**Version:** 0.1 · 14 October 2026  
+**Version:** 0.2 · 14 October 2026 (v0.1 foundation retained)  
 **Status:** Internal working taste knowledge; explicitly provisional and expandable  
 **Owner:** Rolladice creative direction  
 **Initial application:** MIT Technologies / ECCO, **not** an official MIT brand specification
@@ -17,7 +17,18 @@ It is reusable across future Rolladice projects. A client's identity, engineerin
 |---|---|---|
 | 01 | [Rolladice Creative Personality v0.1](01-ROLLADICE_CREATIVE_PERSONALITY_v0.1.md) | Current artistic point of view, strengths, boundaries and open taste questions |
 | 02 | [Taste Evidence Register](02-TASTE_EVIDENCE_REGISTER.md) | Exact user feedback, reference reactions, confidence and assumptions |
-| 03 | [AI Director Interpretation Guide](03-AI_DIRECTOR_INTERPRETATION_GUIDE_v0.1.md) | How an agent turns aesthetic judgment into testable shot decisions and critiques |
+| 03 | [AI Director Interpretation Guide](03-AI_DIRECTOR_INTERPRETATION_GUIDE_v0.1.md) | v0.1 reasoning baseline (preserved) |
+| 04 | [Visual Decision Casebook v0.2](04-VISUAL_DECISION_CASEBOOK_v0.2.md) | Candidate A/B judgments, failure modes, exceptions, validation protocol |
+| 05 | [Camera & Motion Language v0.2](05-CAMERA_AND_MOTION_LANGUAGE_v0.2.md) | Meaningful camera arrivals, rhythmic travel, path/target/velocity guidance |
+| 06 | [Look, Lighting & Materials v0.2](06-LOOK_LIGHTING_AND_MATERIAL_DIRECTION_v0.2.md) | Practical look decisions and comparisons without inventing favorites |
+| 07 | [Scene Direction Contract v0.2](07-SCENE_DIRECTION_CONTRACT_v0.2.md) | Machine-readable handoff, review gates and implementability checks |
+| Example | [ECCO S07-01 direction study](examples/ECCO_S07-01_direction_study.md) · [camera plan SVG](examples/camera-plan.svg) | First **unapproved conceptual** worked study; actual camera and renders pending |
+
+## v0.2 scope boundary
+
+**In this revision:** composition casebook, camera language, lighting/material look choices, execution contract, one unvalidated study, and [experimental scene-director skill](../00_Skill/rolladice-scene-director/SKILL.md).
+
+**Explicitly deferred:** typography, motion graphics and their aesthetic personality. Their source/client obligations remain applicable, but no Rolladice taste is presumed. The camera diagram is schematic, not physically derived or approved. Next validation is to inspect actual model geometry and produce a playblast before promoting any proposal to an accepted taste exemplar.
 
 ## Relationship to existing files
 
@@ -38,4 +49,4 @@ It is reusable across future Rolladice projects. A client's identity, engineerin
 
 ## Future evolution
 
-Append new reference observations to the evidence register first, compare with existing preferences, then revise the personality and interpretation guide when supported. Keep v0.1 as a baseline. Build a dedicated reusable scene-director skill only after the taste model has been exercised on real shots and corrected by the director.
+Append new reference observations to the evidence register first, compare with existing preferences, then revise the personality and interpretation guide when supported. Keep v0.1 as a baseline. A provisional scene-director skill now exists for experimentation; treat it as **untested** until exercised on actual shot construction and corrected by the director.
