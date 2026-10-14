@@ -1,0 +1,15 @@
+SECTION 7 — ECCO ENP3 — PRODUCT HERO / CLOSING (1:22–1:30)
+
+Panel 1 — The results lead back to ECCO (1:22–1:24)
+We move away from the final Mi-VU field log and reveal the physical ECCO ENP3. The camera connects the engineering information shown in the previous scene with the tool behind the measurements. This links the data output to the hardware rather than introducing a new capability. The transition is conceptual; the field data is processed after tool retrieval.
+
+Panel 2 — Complete product hero (1:24–1:26)
+The technical charts and supporting visuals fade away, leaving a clean, confident view of ECCO ENP3. We emphasize that ultrasonic measurement and hydraulic enhancement belong to one integrated downhole tool. The final 3D model should use MIT-approved CAD and accurate product geometry; this drawing is a storyboard placeholder.
+
+Panel 3 — Five capabilities, one integrated solution (1:26–1:28)
+Five familiar visual symbols briefly appear around ECCO ENP3, recalling what the audience has already learned: wellbore geometry, formation imaging, cement evaluation, casing integrity and hydraulic enhancement. This is a visual summary, not five new explanations. The final motion may introduce the labels in post-production if approved by MIT.
+
+Panel 4 — MIT Technologies closing identity (1:28–1:30)
+The five capability symbols fade out. We finish with the complete ECCO ENP3 product and the official MIT Technologies logo, including its existing tagline. This is the final brand impression. The supplied MIT logo has been included without altering its content or proportions.
+
+Technical note: ENP3 hardware silhouettes are conceptual storyboard representations, not engineering-approved geometry. Ask MIT to verify geometry and provide approved CAD or product photography for final production. The supplied MIT logo is incorporated unchanged into Panel 4.
