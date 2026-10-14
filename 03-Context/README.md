@@ -13,7 +13,7 @@
 | Production | [Workflow](01_Foundation/05-PRODUCTION_WORKFLOW.md) | Asset ownership, Blender→AI finishing, QA and delivery | Creative taste and camera directing |
 | Open decisions | [Decision Register](01_Foundation/06-DECISIONS_AND_READINESS.md) | Approvals, unknowns, blockers, exact evidence/status | Second copies of engineering facts |
 | Storyboard | [Storyboard Index](02_Storyboard/README.md) | V1 archive; V2 working panel assets and client reconciliation notes | Product fact authority or final client approval |
-| Directorial identity | [Rolladice Taste Index](03_Directorial_Identity/README.md) | Preferred/rejected artistic judgments, camera, lighting, agent directing contract | Official MIT brand or engineering truth |
+| Directorial identity | [Rolladice Taste Index](03_Directorial_Identity/README.md) | Preferred/rejected artistic judgments, camera, lighting, information choreography and agent directing contract | Official MIT brand or engineering truth |
 | Agent skills | [Skill Index](00_Skill/README.md) | Task execution triggers and workflows | Duplicated style specifications |
 
 **Authority precedence:** MIT-approved geometry/engineering and contractual/client branding constraints → agreed narrative purpose → Rolladice's evidence-backed taste → individual shot decisions → execution convenience. A storyboard is a **proposal**, not a source of independently verified physics.
@@ -34,4 +34,4 @@ V2 materials exist for several storyboard sections; **presence in Git is not MIT
 
 **Security check required:** this repository is public; a V2 storyboard asset is identified as an actual ENP1 field-log example and its accompanying notes mention operator confidentiality. Confirm publication rights promptly; do not redistribute the asset or assume it is approved for public hosting. Removing it from the current branch alone would not erase Git history.
 
-**Partly evidenced, not locked:** Rolladice typography now has a [working taste module](03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md). Technical motion-graphics details and named fonts remain undiscovered; preserve all client-required labeling and engineering meaning.
+**Partly evidenced, not locked:** Rolladice typography and situation-based cinematic graphic integration have a [working taste module 08](03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md). [Module 09](03_Directorial_Identity/09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md) separately describes engineering information provenance and on-screen lifecycle, **not** a competing taste/shot specification. Precise technical-graphics design and named fonts remain unselected; preserve client-required labeling and engineering meaning.
