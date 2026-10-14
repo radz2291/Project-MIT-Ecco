@@ -11,6 +11,6 @@
 
 ## Non-negotiable boundaries
 
-Do not confuse storyboard drafts, artistic hypotheses or local examples with client approvals or engineering truth. Do not invent product geometry, physical simulation, actual camera transforms or evidence of a successful render. **Typography and motion-graphics taste are deferred**; retain client-required information without inventing a style.
+Do not confuse storyboard drafts, artistic hypotheses or local examples with client approvals or engineering truth. Do not invent product geometry, physical simulation, actual camera transforms or evidence of a successful render. **Typography has an initial evidenced preference profile** ([module 08](03-Context/03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md)): quiet elegant sans-serif editorial; meaningful wording/composition; gentle fades or motion; screen-space or spatial as appropriate. Technical motion-graphics details remain largely untested. Retain client-required information without inventing a finished design system.
 
 **Publication caution:** The public repository contains a sample ENP1 field-log illustration with rights/permissions unresolved; do not republish or export it until the producer confirms permission in the decision register.
