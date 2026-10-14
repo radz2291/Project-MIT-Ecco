@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Option C Cinematic Spatial: same ultrasonic pulse echo with graphics integrated into a depth-rich environmental illustration">
+<defs><marker id="outArrow" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" stroke="#69B6C7" stroke-width="1.5" fill="none"/></marker><marker id="inArrow" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" stroke="#E4AD7A" stroke-width="1.5" fill="none"/></marker>
+<linearGradient id="bgc" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12212B"/><stop offset=".64" stop-color="#0B1921"/><stop offset="1" stop-color="#1F3436"/></linearGradient>
+<linearGradient id="cyl" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1E343D"/><stop offset=".2" stop-color="#5C7E82"/><stop offset=".47" stop-color="#C6D8CF"/><stop offset=".67" stop-color="#557E85"/><stop offset="1" stop-color="#1D3642"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#80C7BB" stop-opacity=".27"/><stop offset="1" stop-color="#7BC7B9" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="720" fill="url(#bgc)"/>
+<path d="M924 0Q884 115 917 211T921 415T911 720H1280V0Z" fill="#3F4C46" stroke="#62756A" stroke-width="2"/><path d="M972 0Q936 104 971 211T977 405T960 720" fill="none" stroke="#718478" stroke-width="2" opacity=".43"/>
+<path d="M1046 0Q998 114 1045 238T1034 492T1074 720" fill="none" stroke="#6F7B6D" stroke-width="1" opacity=".4"/>
+<ellipse cx="909" cy="331" rx="180" ry="206" fill="url(#halo)"/>
+<rect x="186" y="-58" width="160" height="562" rx="24" fill="url(#cyl)" stroke="#A4C0C1" stroke-width="1.5"/><path d="M206 -52V493M315 -52V493" stroke="#DFE8DE" opacity=".23" stroke-width="3"/>
+<rect x="171" y="244" width="194" height="104" rx="14" fill="#315363" stroke="#7AABAC" stroke-width="2"/>
+<rect x="342" y="273" width="22" height="50" rx="7" fill="#142F3B" stroke="#A6D2CE" stroke-width="1.8"/><circle cx="364" cy="298" r="7" fill="#B0EBE1"/>
+<path d="M377 286Q600 220 905 307" fill="none" stroke="#72CDD4" stroke-width="2.2" stroke-dasharray="12 10" marker-end="url(#outArrow)"/>
+<path d="M905 337Q616 413 380 321" fill="none" stroke="#E4AD7A" stroke-width="2.3" stroke-dasharray="11 11" marker-end="url(#inArrow)"/>
+<ellipse cx="919" cy="315" rx="33" ry="71" fill="none" stroke="#93D6C0" stroke-width="1.6" opacity=".65"/>
+<ellipse cx="919" cy="315" rx="73" ry="114" fill="none" stroke="#93D6C0" stroke-width="1" opacity=".35"/>
+<path d="M368 300L476 162" stroke="#ACD7D1" stroke-width=".8" stroke-dasharray="4 6" opacity=".45"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="54" y="49" fill="#95BFB4" font-size="13" letter-spacing="3">S02 / PULSE–ECHO</text>
+<text x="54" y="117" fill="#E3EBE5" font-size="40" font-weight="400" letter-spacing="-1.4">One pulse. One returning echo.</text>
+<text x="54" y="154" fill="#A0B9AF" font-size="16">A single measurement, made visible.</text>
+<text x="155" y="524" fill="#AEC9C1" letter-spacing="2" font-size="13">SENSOR</text><text x="918" y="524" fill="#AEC9C1" letter-spacing="2" font-size="13">WALL</text>
+<text x="640" y="230" fill="#93D7DC" font-size="13" text-anchor="middle" letter-spacing="2">PULSE OUT</text>
+<text x="655" y="386" fill="#EDBD91" font-size="13" text-anchor="middle" letter-spacing="2">ECHO BACK</text>
+</g>
+<rect x="46" y="418" width="730" height="231" rx="8" fill="#0A1C25" fill-opacity=".86" stroke="#597B7C" stroke-width="1"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="70" y="452" font-size="12" fill="#9CBDB5" letter-spacing="1.7">ILLUSTRATIVE WAVEFORM</text>
+<path d="M72 556H705" stroke="#698C87" stroke-width="1.2"/>
+<path d="M72.0 556.0 L74.6 556.0 L77.3 556.0 L79.9 556.0 L82.5 556.0 L85.2 556.0 L87.8 556.0 L90.5 556.0 L93.1 556.0 L95.7 556.0 L98.4 556.0 L101.0 556.0 L103.7 556.0 L106.3 556.0 L108.9 556.0 L111.6 556.0 L114.2 556.0 L116.8 556.0 L119.5 556.0 L122.1 556.0 L124.8 556.0 L127.4 556.0 L130.0 556.0 L132.7 556.0 L135.3 556.0 L137.9 556.0 L140.6 556.0 L143.2 556.0 L145.8 556.0 L148.5 556.0 L151.1 556.0 L153.8 555.9 L156.4 555.8 L159.0 556.2 L161.7 556.8 L164.3 556.1 L166.9 554.2 L169.6 554.4 L172.2 559.0 L174.9 561.3 L177.5 553.5 L180.1 544.7 L182.8 553.5 L185.4 572.6 L188.1 569.2 L190.7 539.9 L193.3 530.1 L196.0 562.5 L198.6 589.2 L201.2 565.0 L203.9 526.5 L206.5 534.2 L209.2 572.7 L211.8 581.2 L214.4 553.3 L217.1 536.6 L219.7 550.4 L222.3 566.4 L225.0 563.1 L227.6 552.6 L230.3 551.2 L232.9 556.1 L235.5 558.3 L238.2 556.6 L240.8 555.3 L243.4 555.5 L246.1 556.1 L248.7 556.2 L251.3 556.0 L254.0 555.9 L256.6 556.0 L259.3 556.0 L261.9 556.0 L264.5 556.0 L267.2 556.0 L269.8 556.0 L272.4 556.0 L275.1 556.0 L277.7 556.0 L280.4 556.0 L283.0 556.0 L285.6 556.0 L288.3 556.0 L290.9 556.0 L293.5 556.0 L296.2 556.0 L298.8 556.0 L301.5 556.0 L304.1 556.0 L306.7 556.0 L309.4 556.0 L312.0 556.0 L314.6 556.0 L317.3 556.0 L319.9 556.0 L322.6 556.0 L325.2 556.0 L327.8 556.0 L330.5 556.0 L333.1 556.0 L335.8 556.0 L338.4 556.0 L341.0 556.0 L343.7 556.0 L346.3 556.0 L348.9 556.0 L351.6 556.0 L354.2 556.0 L356.9 556.0 L359.5 556.0 L362.1 556.0 L364.8 556.0 L367.4 556.0 L370.0 556.0 L372.7 556.0 L375.3 556.0 L377.9 556.0 L380.6 556.0 L383.2 556.0 L385.9 556.0 L388.5 556.0 L391.1 556.0 L393.8 556.0 L396.4 556.0 L399.1 556.0 L401.7 556.0 L404.3 556.0 L407.0 556.0 L409.6 556.0 L412.2 556.0 L414.9 556.0 L417.5 556.0 L420.2 556.0 L422.8 556.0 L425.4 556.0 L428.1 556.0 L430.7 556.0 L433.3 556.0 L436.0 556.0 L438.6 556.0 L441.3 556.0 L443.9 556.0 L446.5 556.0 L449.2 556.0 L451.8 555.9 L454.4 556.0 L457.1 556.1 L459.7 556.1 L462.4 555.7 L465.0 555.6 L467.6 556.3 L470.3 557.0 L472.9 556.1 L475.5 554.2 L478.2 554.7 L480.8 558.5 L483.4 559.7 L486.1 554.1 L488.7 549.0 L491.4 554.9 L494.0 565.8 L496.6 563.1 L499.3 546.3 L501.9 541.1 L504.6 560.8 L507.2 577.3 L509.8 561.2 L512.5 533.5 L515.1 538.9 L517.7 572.4 L520.4 582.2 L523.0 551.5 L525.6 527.8 L528.3 547.5 L530.9 578.4 L533.6 573.6 L536.2 544.2 L538.8 536.2 L541.5 557.3 L544.1 572.1 L546.8 561.6 L549.4 546.4 L552.0 548.3 L554.7 559.6 L557.3 562.5 L559.9 556.1 L562.6 552.0 L565.2 554.5 L567.9 557.8 L570.5 557.5 L573.1 555.5 L575.8 555.1 L578.4 555.9 L581.0 556.4 L583.7 556.2 L586.3 555.9 L589.0 555.9 L591.6 556.0 L594.2 556.1 L596.9 556.0 L599.5 556.0 L602.1 556.0 L604.8 556.0 L607.4 556.0 L610.0 556.0 L612.7 556.0 L615.3 556.0 L618.0 556.0 L620.6 556.0 L623.2 556.0 L625.9 556.0 L628.5 556.0 L631.1 556.0 L633.8 556.0 L636.4 556.0 L639.1 556.0 L641.7 556.0 L644.3 556.0 L647.0 556.0 L649.6 556.0 L652.3 556.0 L654.9 556.0 L657.5 556.0 L660.2 556.0 L662.8 556.0 L665.4 556.0 L668.1 556.0 L670.7 556.0 L673.4 556.0 L676.0 556.0 L678.6 556.0 L681.3 556.0 L683.9 556.0 L686.5 556.0 L689.2 556.0 L691.8 556.0 L694.4 556.0 L697.1 556.0 L699.7 556.0 L702.4 556.0 L705.0 556.0" stroke="#83D1C9" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#B1D2C9">
+ <path d="M201.765 492V624 M522.6959999999999 492V624" stroke="#86AAA6" stroke-width="1.5" stroke-dasharray="4 5" opacity=".7"/>
+ <path d="M201.765 473H522.6959999999999" stroke="#86AAA6" stroke-width="1.6"/>
+ <path d="M208.765 467L201.765 473L208.765 479 M515.6959999999999 467L522.6959999999999 473L515.6959999999999 479" stroke="#86AAA6" stroke-width="1.6" fill="none"/>
+ <text x="362.23049999999995" y="462" text-anchor="middle" letter-spacing="1.8">Δt — TWO-WAY TRAVEL TIME</text>
+ <text x="201.765" y="644" text-anchor="middle" font-size="12" letter-spacing="1">TRANSMIT</text>
+ <text x="522.6959999999999" y="644" text-anchor="middle" font-size="12" letter-spacing="1">RETURN</text></g>
+</g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="833" y="572" fill="#93B6A8" letter-spacing="1.3" font-size="13">SENSOR–WALL STANDOFF</text>
+<text x="833" y="614" fill="#E0EDE6" font-size="27">s = (c × Δt) / 2</text>
+<text x="833" y="644" fill="#9BB9AD" font-size="13">c = mud sound speed, measured in situ</text></g>
+<text x="47" y="695" fill="#97AFA8" letter-spacing="1.1" font-family="Arial,Helvetica,sans-serif" font-size="11">CONCEPT DIAGRAM · NOT TO SCALE · NOT FIELD DATA</text>
+<text x="1210" y="695" text-anchor="end" fill="#97AFA8" font-family="Arial,Helvetica,sans-serif" font-size="12">03 / SPATIAL CINEMATIC</text>
+</svg>
