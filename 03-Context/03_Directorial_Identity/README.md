@@ -18,6 +18,7 @@ For the global authority hierarchy and task-specific reading order, use the [Con
 | [06 — Look, Lighting & Materials](06-LOOK_LIGHTING_AND_MATERIAL_DIRECTION_v0.2.md) | Lighting/material/depth decisions and comparison methods; preferences still being tested |
 | [07 — Scene Direction Contract](07-SCENE_DIRECTION_CONTRACT_v0.2.md) | **Only** schema, shot handoff and directorial stage gates |
 | [08 — Typography & Graphic Integration v0.3](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md) | **Only** active interpretation of typography preferences and optional 3D/on-screen graphic integration; data-graphics style remains open |
+| [09 — Engineering Information Direction (Discovery)](09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md) | **Only** semantic/lifecycle framing for measured, derived, simulated or illustrative engineering information; not a style or secondary scene contract |
 | [Examples](examples/ECCO_S07-01_direction_study.md) | Proposed ECCO S07-01 study + [SVG](examples/camera-plan.svg); **not built or approved** |
 | [S02 Technical Motion Graphics Taste Test 01](studies/2026-10-14_S02_motion_graphics_test_01/README.md) | A/B/C SVG treatments of identical pulse-echo content; **C — Spatial Cinematic is current S02 preference (E016); A1 when simple**, superseding historical A (E015); A1/A2 guide-density test deferred; not a storyboard replacement |
 
@@ -36,7 +37,7 @@ The [rolladice-scene-director skill](../00_Skill/rolladice-scene-director/SKILL.
 
 **Now evidenced:** quiet, elegant sans-serif editorial typography; emphasis on wording/composition; gentle fades or graceful motion; typography composed with imagery; either screen-space or spatial type by situation. Territory-style 3D/camera graphic integration is appreciated but optional. Read [08](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md) for evidence boundaries.
 
-**Still undiscovered:** exact font family/typographic metrics and the technical motion-graphics design language (linework, data graphics, annotation density, transitions). MIT-required labeling and approved branding remain obligations.
+**Still undiscovered:** exact font family/typographic metrics and many technical motion-graphics specifics (linework, data graphics, annotation density, transitions). Module [09](09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md) defines *what engineering information is and how its truth is carried through a scene* without presuming a graphic style. MIT-required labeling and approved branding remain obligations.
 
 ## Next validation
 
