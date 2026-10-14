@@ -53,15 +53,26 @@ All treatments show the same narrative and technical information:
 - **Benefit to test:** a visual explanation that shares the scene's depth and narrative.
 - **Failure to watch:** dimensional illustration could be mistaken for accurate CAD/physics, or the moving camera could distract from the travel-time relationship.
 
-## Selection record — first round
+## Selection record — first round (superseded by revised direction)
 
 **E015 · 14 October 2026 — Director's exact selection:** “A — Editorial Minimal”.
 
-This selects the **overall treatment** for the S02 first waveform / travel-time visualization. The director did not yet state whether negative space, typography, linework, color or absent 3D integration was the decisive factor. It does **not** reject the usefulness of B or C in other shots. No technical/client approval is implied.
+This was the director's **original** overall-treatment selection for S02. It is now **historical evidence only**, superseded by E016 below. The director had not identified which specific variable drove the first choice; no technical/client approval was implied.
 
-## Focused refinement: How much measurement scaffolding?
+## Updated direction — current selection
 
-The next test holds the original light palette, layout, wording, subject/return arrows, waveform, symbolic formula and technical content fixed, varying **only the presence of subtle guide marks around the waveform**. Unlike the first-round comparison, this does not simultaneously change background, type scale, framing and integration approach.
+**E016 · 14 October 2026 — Director, verbatim:**
+> "You know what? Right now I think I changed my mind. I like... Spatial Cinematic.. But on simple situation then we can use A1."
+
+**Current S02 visual direction:** **C — Spatial Cinematic** is the preferred **conceptual direction to develop** for the fuller pulse/echo explanation. **A1 — Pure Editorial Minimal** remains an appropriate alternate treatment for a simple explanatory beat.
+
+The revision reflects context-sensitive choice, **not** rejection of the original A or a new rule to always integrate data into 3D. We have **not** isolated whether camera treatment, depth, restrained overlays, light, or the overall cinematic image caused the preference.
+
+**Proposed next action:** Test the C treatment as an **actual timed Blender/SVG previs** against authentic MIT reference geometry; keep precise time-of-flight information legible and distinguish illustrative sound from physical product geometry. Compare A1 only for a specific simpler beat if the story needs one. **Do not modify live S02 V2 storyboard/Padlet, client approvals, or engineering claims automatically.**
+
+## Deferred refinement — A1 versus A2 measurement scaffolding
+
+This earlier proposed test would hold the original light palette, layout, wording, subject/return arrows, waveform, symbolic formula and technical content fixed, varying **only the presence of subtle guide marks around the waveform**. **Deferred after E016**: the director has already indicated C as their current S02 choice, and A1 for simple situations. A2 has not been evaluated.
 
 | Refined option | Graphic | Hypothesis |
 |---|---|---|
@@ -72,18 +83,18 @@ Open full-size: [A1 original](01_minimal_technical.svg) · [A2 with guides](04_e
 
 **Only isolated variable:** very restrained **uncalibrated vertical waveform guides/ticks** in A2. They are not time graduations, do not contain sample counts or values, and make no quantified claim.
 
-**Feedback sought:** Prefer A1, A2, both equally, or neither? What specifically changes the sense of precision, elegance or readability? This does not decide a universal grid style.
+**Status:** Retained as an editable design variant only. No A1-vs-A2 comparison result exists; do not present it as the next required taste test.
 
 ## Original first-round review questions (record retained)
 
-**Original prompt (answered):** Choose the most appealing visual treatment for this specific S02 moment: A, B, C, a combination (specify which qualities), or none. **Director selected A.** Add *why*: typography, linework, space, complexity, engineering clarity, integration, or something else. Also identify one detail that feels unnecessary or weak.
+**Original prompt (answered):** Choose the most appealing visual treatment for this specific S02 moment: A, B, C, a combination (specify which qualities), or none. **Director initially selected A, later revised to C with A1 for simpler moments (E016).** Add *why*: typography, linework, space, complexity, engineering clarity, integration, or something else. Also identify one detail that feels unnecessary or weak.
 
 Do **not** treat an early choice as a universal rule. Repeat a tighter A/B comparison after the director names the particular attributes that matter.
 
 ## Agent handoff / next decision
 
-1. **First-round selection E015 is recorded** in [Taste Evidence Register](../../02-TASTE_EVIDENCE_REGISTER.md), linked to this exact study.
-2. The [Typography & Graphic Integration Module](../../08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md) reflects the contextual A selection. The A1/A2 density refinement is **still awaiting director feedback**; never infer its result.
+1. **Both E015 (historical A selection) and E016 (current C with A1-for-simple revision) are recorded** in [Taste Evidence Register](../../02-TASTE_EVIDENCE_REGISTER.md).
+2. The [Typography & Graphic Integration Module](../../08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md) reflects the **current E016 direction**. The A1/A2 density refinement is **deferred and unanswered**; never infer its result.
 3. If one treatment becomes a real S02 contender, redesign with **verified Blender/CAD geometry and client technical feedback** under [Scene Direction Contract](../../07-SCENE_DIRECTION_CONTRACT_v0.2.md).
 4. Final graphic motion curves and content still require a real playblast/review.
 
