@@ -1,7 +1,7 @@
 # Look, Lighting and Material Direction — v0.2
 
 **Status:** Working methods and candidate visual treatments, **not director-approved lighting presets**.  
-**Scope:** Lighting, environment, material expression, depth, render look. **Typography and motion graphics are deferred** to later discovery.
+**Scope:** Lighting, environment, material expression, depth and render look. Typography/graphic taste is owned separately by [module 08](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md), not by this guide.
 
 ## Taste evidence and boundaries
 
@@ -61,4 +61,4 @@ Treat 'invisible' as **a narrative information state**, not an instruction to ma
 
 Actual preferences for color contrast, shadow quality, exposure, reflections, volumetrics, atmosphere and physical material finish have not been selected. Use professional judgment and label proposed solutions; build evidence from real iterations instead of inventing permanent presets.
 
-**Intentionally out of scope:** font systems, title animation, data labels, graphical overlays, motion graphics and compositing of textual content. Preserve any client-required elements as placeholders with unresolved art direction; do not omit required information.
+**Intentionally out of scope here:** font systems, title animation, data labels, graphical overlays and motion graphics. Use [module 08](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md) for evidenced preferences, and preserve required client elements; detailed technical graphics treatment still needs shot-specific direction.
