@@ -19,6 +19,7 @@ For the global authority hierarchy and task-specific reading order, use the [Con
 | [07 — Scene Direction Contract](07-SCENE_DIRECTION_CONTRACT_v0.2.md) | **Only** schema, shot handoff and directorial stage gates |
 | [08 — Typography & Graphic Integration v0.3](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md) | **Only** active interpretation of typography preferences and optional 3D/on-screen graphic integration; data-graphics style remains open |
 | [Examples](examples/ECCO_S07-01_direction_study.md) | Proposed ECCO S07-01 study + [SVG](examples/camera-plan.svg); **not built or approved** |
+| [S02 Technical Motion Graphics Taste Test 01](studies/2026-10-14_S02_motion_graphics_test_01/README.md) | Three editable SVG visual treatments on identical pulse-echo content; **director preference pending**, not a storyboard replacement |
 
 **Legacy pointer:** [03 — AI Director Interpretation Guide v0.1](03-AI_DIRECTOR_INTERPRETATION_GUIDE_v0.1.md) is superseded by files 04–07. It is not an additional set of live instructions; its original text remains in Git history.
 
