@@ -1,7 +1,7 @@
 # MIT / ECCO — Production Workflow
 
-**Version:** 0.1 · 13 October 2026  
-**Applies with:** [Production identity](03-MIT_Cinematic_Production_Identity_v0.1.md), [engineering baseline](02-ENGINEERING_BASELINE.md) and [shot plan](04-STORYBOARD_AND_SHOT_PLAN.md).
+**Version:** 0.2 routing update · 14 October 2026  
+**Sole owner:** Blender asset structure, reference-generation/AI finishing process, QC and actual output records. For design decisions, read [MIT identity](03-MIT_PRODUCTION_IDENTITY.md), [Engineering Baseline](02-ENGINEERING_BASELINE.md) and [Rolladice Scene Contract](../03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md). For content use [Storyboard V2](../02_Storyboard/README.md).
 
 ## Division of control
 
@@ -17,7 +17,7 @@ Build the minimum editable 3D structure that makes the visual event unambiguous.
 
 ## Current asset map
 
-The repository presently contains the client chat, ENP3 PDF and still images. It does not contain the production CAD, Blender files, motion references, generated videos, accepted quote export or complete Padlet export. The producer reports that a product model and sample animation exist locally; their locations and versions remain to be registered.
+The repository presently contains the client chat, ENP3 PDF and still images. It does not contain the registered production CAD, Blender shot files, motion references, selected generated videos or accepted quote export. The repository **does contain V1/V2 storyboard panel assets and V2 notes**; no synchronized live Padlet snapshot or approvals have been verified. The producer reports that a product model and sample animation exist locally; their locations and versions remain to be registered.
 
 | Asset group | Present record | Needed before use |
 |---|---|---|
@@ -51,7 +51,7 @@ Use linked library assets and suitable overrides so a product correction can pro
 
 ## Per-shot execution
 
-1. **Define the event.** Complete the shot card: one technical point, initial/final states, source and unresolved questions.
+1. **Receive directed shot.** Use the [Scene Direction Contract](../03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md) for one technical point, source, initial/final state, camera/lighting and unresolved questions. Do not independently redefine the creative brief.
 2. **Build the motion reference.** Correct hardware, camera, parallax, occlusion and essential effect timing. Distinguish the tool, travelling effect, local borehole and distant background.
 3. **Review the technical preview.** Check geometry and meaning internally, then obtain MIT's answer on any mechanism or claim needing acceptance. Record the version.
 4. **Choose boundary controls.** For a continuous shot, select first, last or both according to the opening identity and intended final reveal. Generate finishing stills from those exact Blender frames; match their finish.
@@ -61,14 +61,11 @@ Use linked library assets and suitable overrides so a product correction can pro
 
 **Boundary-frame finding:** Radzi's experiments favored first/last appearance anchors over isolated middle anchors for continuous single-camera animation. Independent middle images were hard to keep consistent and made the beginning/ending less controlled. Add middle anchors when reliable continuous appearance consistency makes them useful. For multi-camera edits, apply the rule separately to each shot; a middle timeline frame may be another shot's boundary.
 
-## Lessons retained from the sample
+## Prototype findings and provenance
 
-- Orthogonal rings read as an atomic symbol: use a meaningful sensing origin and travelling effect.
-- Cage-like linework and floating patches confused the borehole: use a readable volume with restrained contours.
-- A disappearing ending lost the discovery: retain the intended revealed state.
-- Curved background geometry supplied parallax cues: keep it distinct from the local borehole.
-- Calm, concise finishing prompts worked well: preserve the tested approach rather than adding redundant constraints and long negatives.
-- Attractive output is a workflow result, not proof of exact geometry, acoustic physics or repeatable savings.
+The [Visual Decision Casebook, V03](../03_Directorial_Identity/04-VISUAL_DECISION_CASEBOOK_v0.2.md) owns artistic comparison of meaningful sensing versus decorative rings, cage-like clutter and nonpersistent reveals. **Do not duplicate those aesthetic decisions here.**
+
+Production observations retained here: curved distant geometry can help parallax when distinguished from the local borehole; concise and calm finishing prompts worked better than verbose constraint-heavy ones in the ECCO experiment. These are empirical heuristics, not universal AI guarantees. Attractive renders are workflow outputs, not independent proof of acoustic physics or cost/temporal fidelity.
 
 ## Minimum review record
 
