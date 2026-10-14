@@ -48,7 +48,7 @@ These fractional ranges are **design hypotheses** only. No claimed timing curve,
 
 ## Typography / motion-graphics hold
 
-**Not designed in v0.2.** Reserve safe compositional space only if the approved delivery demands product name/official MIT signoff. Never invent text style, font family, data aesthetics, overlay choreography or graphic transition taste. This does not cancel existing client delivery needs.
+**This study predates the v0.3 typography discovery and contains no approved typography design.** For future revisions, consider the preference for quiet sans-serif editorial typography and type sharing the frame with imagery, per [module 08](../08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md). Reserve safe composition space if the approved delivery requires name/official MIT signoff. Do not invent exact fonts, data aesthetics or unapproved client identity. This does not cancel existing delivery needs.
 
 ## Review gates and expected assets
 
