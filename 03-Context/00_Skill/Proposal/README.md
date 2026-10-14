@@ -7,7 +7,7 @@ Each proposal is portable across clients, media, and projects. It describes a re
 | Order | Skill | State | Purpose |
 |---|---|---|---|
 | **01** | [Discover Creative Taste](discover-creative-taste/SKILL.md) | **Draft v0.1 — ready for trial** | Elicit, distinguish, test, and revise someone's aesthetic preferences from references and feedback |
-| 02 | Contextual Aesthetic Judgment | Not yet created | Decide which treatment fits a purpose and where exceptions are warranted |
+| **02** | [Contextual Aesthetic Judgment](contextual-aesthetic-judgment/SKILL.md) | **Draft v0.1 — ready for trial** | Recommend treatments through purpose, taste evidence, constraints, trade-offs and justified exceptions |
 | 03 | Spatial Storytelling & Camera Choreography | Not yet created | Compose meaningful spatial and motion narratives |
 | 04 | Information-to-Visual Storytelling | Not yet created | Translate information into accurate, meaningful visual experiences |
 | 05 | Creative Knowledge-to-Execution Engineering | Not yet created | Package artistic direction into agent-consumable specifications and evidence |
@@ -16,7 +16,7 @@ Each proposal is portable across clients, media, and projects. It describes a re
 
 - **Proposal status:** These are candidate skills, not automatically enabled agents or production policy.
 - **Knowledge ownership:** Use external, project-specific taste profiles and technical sources at runtime. Do not copy Rolladice or MIT preferences into the agnostic skill.
-- **Overlap avoidance:** 01 discovers and records taste; 02 evaluates contextual choices; 03/04 specialize in production direction; 05 packages/validates execution. The other four skills will be implemented in separate sessions.
+- **Overlap avoidance:** 01 discovers and records taste; 02 evaluates contextual choices; 03/04 specialize in production direction; 05 packages/validates execution. Skills 03–05 remain uncreated; each will be implemented in its own focused session.
 - **Acceptance:** At minimum, validate the skill folder's format, exercise the workflow on realistic positive/negative/revision cases, and get the user's approval before promotion.
 
 The [parent skills index](../README.md) lists **active** workflows separately.
