@@ -6,7 +6,7 @@
 
 ## Purpose and authority
 
-This is the **single active home for typography and emerging graphic-integration taste**. Direct quotations and reference reactions live only in the [Taste Evidence Register](02-TASTE_EVIDENCE_REGISTER.md) (E006–E016). This document interprets them as practical preferences; the [Scene Direction Contract](07-SCENE_DIRECTION_CONTRACT_v0.2.md) owns the handoff fields and approval gates.
+This is the **single active home for typography and emerging graphic-integration taste**. Engineering information *meaning, kinds, provenance and narrative lifecycle* belong to the separate [Engineering Information Direction module 09](09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md), not to this taste profile. Direct quotations and reference reactions live only in the [Taste Evidence Register](02-TASTE_EVIDENCE_REGISTER.md) (E006–E016). This document interprets them as practical preferences; the [Scene Direction Contract](07-SCENE_DIRECTION_CONTRACT_v0.2.md) owns the handoff fields and approval gates.
 
 Do not misread a preferred treatment as a required one. Choose graphics for the actual story, product, viewer and visual context. Existing client typography/identity specifications, technical labeling and factual constraints always take precedence.
 
