@@ -3,7 +3,7 @@
 **Working collection:** v0.3 typography update · 14 October 2026; foundational v0.1/v0.2 documents retained  
 **Owner:** Rolladice, independent of client. **Not** an MIT brand guideline.
 
-**Mission:** Help agents recognize and choose better creative solutions—space, presence, camera phrasing and deliberate lighting—rather than merely operate Blender.
+**Mission:** Help agents recognize and choose better creative solutions—space, presence, camera phrasing, lighting, typography and engineering-information choreography—rather than merely operate Blender.
 
 For the global authority hierarchy and task-specific reading order, use the [Context Map](../README.md). This folder does **not** own product truths, MIT branding, client approvals or the Blender/AI execution workflow.
 
@@ -39,6 +39,12 @@ The [rolladice-scene-director skill](../00_Skill/rolladice-scene-director/SKILL.
 
 **Still undiscovered:** exact font family/typographic metrics and many technical motion-graphics specifics (linework, data graphics, annotation density, transitions). Module [09](09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md) defines *what engineering information is and how its truth is carried through a scene* without presuming a graphic style. MIT-required labeling and approved branding remain obligations.
 
-## Next validation
+## Next-session handoff — S02 spatial-cinematic proof
 
-Build one real, source-verified ECCO shot proposal and Blender playblast, then capture the director's detailed acceptance/rejection. The current camera study is a hypothesis, not proof of an aesthetic or reliable autonomous directing system.
+**Current creative choice:** **C — Spatial Cinematic** for the fuller S02 pulse/echo explanation (E016), with **A1 Editorial Minimal** reserved for simpler information beats. E015 (A originally selected) remains historical only. **Do not resume the A1/A2 guide-density test unless a new need arises.**
+
+**Next execution slice:** Produce one short, timed and inexpensive **S02 pulse-out → same-sensor echo-return → waveform/two-way arrival-time** previs. Use [S02 V2 panel 3](../02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/PADLET_SECTION_02_V2.md) and the [selected SVG study](studies/2026-10-14_S02_motion_graphics_test_01/README.md) as *conceptual* intent, not engineering truth. Confirm relevant geometry and client mechanism details under **O03, O04, O06** in the [decision register](../01_Foundation/06-DECISIONS_AND_READINESS.md). Keep conceptual light/sound cues and waveform data clearly illustrative. Do not modify the live Padlet or issue a technically approved final without review.
+
+**Acceptance sought:** the director judges the *moving* composition (camera arrival/transition, physical legibility, text placement, and waveform comprehension); the engineering reviewer checks the physical mechanism and the correct source/claim identity. Promote no new taste rule or shot approval without their exact evidence.
+
+The earlier S07 camera study is an unapproved hypothesis, not proof of a reliable autonomous directing system. No additional general preference questionnaire is a prerequisite to this S02 proof.
