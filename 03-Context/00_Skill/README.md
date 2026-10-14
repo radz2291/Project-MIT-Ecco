@@ -18,4 +18,4 @@ Start with [context map](../README.md). A skill should link to the canonical sou
 
 ## Scope boundary
 
-Typography and motion-graphic taste are intentionally undecided. Agent outputs can include required approved text/graphics placeholders, but must not invent an official Rolladice style.
+Typography now has [working, evidence-backed preferences](../03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md); technical motion-graphics detail is still being discovered. Agent outputs should preserve approved exact copy and graphics/brand requirements without inventing a finalized Rolladice or MIT style.
