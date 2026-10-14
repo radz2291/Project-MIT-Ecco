@@ -1,7 +1,7 @@
 # S02 Technical Motion Graphics — Taste Test 01
 
 **Date:** 14 October 2026  
-**Type:** Three original SVG-first art-direction treatments for comparison, **not** three technical options, not a client deliverable, not approved.  
+**Type:** Three original SVG-first art-direction treatments plus a narrower minimal refinement, **not** client deliverables or technically approved content.  
 **Scope:** ENP3 S02 V2 panel 3 *first waveform / time-of-flight principle*. Do not replace the live Padlet or storyboard panels with these studies without an explicit decision.
 
 ## The controlled comparison
@@ -53,16 +53,37 @@ All treatments show the same narrative and technical information:
 - **Benefit to test:** a visual explanation that shares the scene's depth and narrative.
 - **Failure to watch:** dimensional illustration could be mistaken for accurate CAD/physics, or the moving camera could distract from the travel-time relationship.
 
-## Review questions for the director
+## Selection record — first round
 
-**Choose the most appealing visual treatment for this specific S02 moment:** A, B, C, a combination (specify which qualities), or none. Add *why*: typography, linework, space, complexity, engineering clarity, integration, or something else. Also identify one detail that feels unnecessary or weak.
+**E015 · 14 October 2026 — Director's exact selection:** “A — Editorial Minimal”.
+
+This selects the **overall treatment** for the S02 first waveform / travel-time visualization. The director did not yet state whether negative space, typography, linework, color or absent 3D integration was the decisive factor. It does **not** reject the usefulness of B or C in other shots. No technical/client approval is implied.
+
+## Focused refinement: How much measurement scaffolding?
+
+The next test holds the original light palette, layout, wording, subject/return arrows, waveform, symbolic formula and technical content fixed, varying **only the presence of subtle guide marks around the waveform**. Unlike the first-round comparison, this does not simultaneously change background, type scale, framing and integration approach.
+
+| Refined option | Graphic | Hypothesis |
+|---|---|---|
+| **A1 — Pure editorial** | ![A1 Pure Editorial](01_minimal_technical.svg) | Undistracted pulse/echo waveform reads as confidently technical without added guides |
+| **A2 — Editorial with guides** | ![A2 Editorial with waveform guides](04_editorial_minimal_with_guides.svg) | Subtle unlabeled vertical guides in the waveform zone improve the sense of measurement without becoming an instrument dashboard |
+
+Open full-size: [A1 original](01_minimal_technical.svg) · [A2 with guides](04_editorial_minimal_with_guides.svg).
+
+**Only isolated variable:** very restrained **uncalibrated vertical waveform guides/ticks** in A2. They are not time graduations, do not contain sample counts or values, and make no quantified claim.
+
+**Feedback sought:** Prefer A1, A2, both equally, or neither? What specifically changes the sense of precision, elegance or readability? This does not decide a universal grid style.
+
+## Original first-round review questions (record retained)
+
+**Original prompt (answered):** Choose the most appealing visual treatment for this specific S02 moment: A, B, C, a combination (specify which qualities), or none. **Director selected A.** Add *why*: typography, linework, space, complexity, engineering clarity, integration, or something else. Also identify one detail that feels unnecessary or weak.
 
 Do **not** treat an early choice as a universal rule. Repeat a tighter A/B comparison after the director names the particular attributes that matter.
 
 ## Agent handoff / next decision
 
-1. Record the director's words **verbatim as new evidence** in [Taste Evidence Register](../../02-TASTE_EVIDENCE_REGISTER.md), including this exact study path and selected option(s).
-2. Only then update the [Typography & Graphic Integration Module](../../08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md) with supported findings and exceptions.
+1. **First-round selection E015 is recorded** in [Taste Evidence Register](../../02-TASTE_EVIDENCE_REGISTER.md), linked to this exact study.
+2. The [Typography & Graphic Integration Module](../../08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md) reflects the contextual A selection. The A1/A2 density refinement is **still awaiting director feedback**; never infer its result.
 3. If one treatment becomes a real S02 contender, redesign with **verified Blender/CAD geometry and client technical feedback** under [Scene Direction Contract](../../07-SCENE_DIRECTION_CONTRACT_v0.2.md).
 4. Final graphic motion curves and content still require a real playblast/review.
 
