@@ -9,7 +9,7 @@ This folder contains reusable workflow instructions and related assets, not the 
 
 ## Skills in development
 
-[Proposal — five agnostic skills](Proposal/README.md) contains **drafts** intended to be portable across projects. Four candidates—[Discover Creative Taste](Proposal/discover-creative-taste/SKILL.md), [Contextual Aesthetic Judgment](Proposal/contextual-aesthetic-judgment/SKILL.md), [Spatial Storytelling & Camera Choreography](Proposal/spatial-storytelling-camera-choreography/SKILL.md), and [Information-to-Visual Storytelling](Proposal/information-to-visual-storytelling/SKILL.md)—are created for review and trial. Drafts in Proposal are **not** automatically installed or considered active project guidance.
+[Proposal — five agnostic skills](Proposal/README.md) contains **drafts** intended to be portable across projects. Five candidates—[Discover Creative Taste](Proposal/discover-creative-taste/SKILL.md), [Contextual Aesthetic Judgment](Proposal/contextual-aesthetic-judgment/SKILL.md), [Spatial Storytelling & Camera Choreography](Proposal/spatial-storytelling-camera-choreography/SKILL.md), [Information-to-Visual Storytelling](Proposal/information-to-visual-storytelling/SKILL.md), and [Creative Knowledge-to-Execution Engineering](Proposal/creative-knowledge-to-execution-engineering/SKILL.md)—are now created as v0.1 packages for review and trial. Drafts in Proposal are **not** automatically installed or considered active project guidance.
 
 ## Context source
 
