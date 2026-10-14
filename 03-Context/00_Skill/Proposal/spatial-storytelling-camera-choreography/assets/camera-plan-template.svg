@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-label="Editable conceptual camera path and visual arrival diagram; not to scale">
+  <defs>
+    <marker id="path-end" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto">
+      <path d="M0 0L7 3L0 6" fill="none" stroke="#6AA7A0" stroke-width="1.8"/>
+    </marker>
+    <style>
+      .heading { font: 600 21px Arial, sans-serif; fill: #E6F0EA }
+      .note { font: 13px Arial, sans-serif; fill: #93B7AA }
+      .label { font: 14px Arial, sans-serif; fill: #D5E6DB }
+      .tiny { font: 11px Arial, sans-serif; fill: #9CB6AA }
+    </style>
+  </defs>
+  <rect width="1000" height="600" fill="#142724"/>
+  <text x="36" y="42" class="heading">CAMERA PLAN / CONCEPTUAL EXAMPLE</text>
+  <text x="36" y="66" class="note">Overhead schematic · not measured coordinates · replace all view beats for the actual scene</text>
+  <rect x="35" y="93" width="930" height="432" rx="8" fill="#1B3430" stroke="#3C6559"/>
+  <!-- Generic subject footprint; replace with actual scene bounds -->
+  <rect x="453" y="180" width="105" height="248" rx="20" fill="#466F63" stroke="#A1BFB1" stroke-width="2"/>
+  <path d="M475 189V418M537 189V418" stroke="#A1BFB1" stroke-width="2" opacity=".65"/>
+  <text x="505" y="447" text-anchor="middle" class="label">SUBJECT</text>
+  <!-- Path and look targets remain conceptual -->
+  <path d="M167 419C187 280 272 210 335 186S635 143 744 251S771 397 750 417" fill="none" stroke="#6AA7A0" stroke-width="4" stroke-linecap="round" marker-end="url(#path-end)"/>
+  <g fill="#D5EEE3" stroke="#112822" stroke-width="2">
+    <circle cx="167" cy="419" r="12"/>
+    <circle cx="335" cy="186" r="12"/>
+    <circle cx="750" cy="417" r="12"/>
+  </g>
+  <g fill="none" stroke="#BCD9CC" stroke-dasharray="6 6" opacity=".68" stroke-width="1.5">
+    <path d="M167 419L505 305"/>
+    <path d="M335 186L505 305"/>
+    <path d="M750 417L505 305"/>
+  </g>
+  <text x="70" y="456" class="label">ENTRY</text>
+  <text x="249" y="156" class="label">DISCOVERY</text>
+  <text x="706" y="458" class="label">RESOLUTION</text>
+  <text x="36" y="563" class="note">Path = candidate viewpoint journey · dashed = gaze / attention · circles = possible meaningful arrivals</text>
+  <text x="964" y="563" text-anchor="end" class="tiny">EDITABLE SVG · CONCEPT ONLY</text>
+</svg>
