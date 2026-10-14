@@ -1,0 +1,4 @@
+interface:
+  display_name: "Information-to-Visual Storytelling"
+  short_description: "Make complex information clear and visually meaningful"
+  default_prompt: "Use $information-to-visual-storytelling to turn this concept or data into an accurate visual explanation, with meaningful information beats, a suitable representation, and a lightweight SVG-first plan."
