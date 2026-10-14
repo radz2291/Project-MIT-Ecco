@@ -11,7 +11,7 @@ For the global authority hierarchy and task-specific reading order, use the [Con
 
 | File | Role |
 |---|---|
-| [01 — Creative Personality v0.1](01-ROLLADICE_CREATIVE_PERSONALITY_v0.1.md) | **Foundational confirmed preferences and provisional interpretations.** Kept intact |
+| [01 — Creative Personality v0.1](01-ROLLADICE_CREATIVE_PERSONALITY_v0.1.md) | **Foundational confirmed preferences and provisional interpretations.** Kept intact; its initial 'typography unknown' status is superseded by module 08 |
 | [02 — Taste Evidence Register](02-TASTE_EVIDENCE_REGISTER.md) | **Only** source for exactly what the director said and which references were liked/disliked |
 | [04 — Visual Decision Casebook](04-VISUAL_DECISION_CASEBOOK_v0.2.md) | Contextual A/B critiques, exceptions and tests; examples are **proposed**, not user-approved |
 | [05 — Camera & Motion Language](05-CAMERA_AND_MOTION_LANGUAGE_v0.2.md) | Meaningful arrivals, fluid navigation, pacing and camera mechanics |
