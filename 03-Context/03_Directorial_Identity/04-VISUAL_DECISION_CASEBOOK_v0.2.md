@@ -128,7 +128,7 @@ result: proposed / approved for test / art-directed / superseded
 
 ### Pending taste discovery
 
-**Typography and motion graphics intentionally excluded from the active casebook for v0.2.** Their dedicated exploration will happen later; never infer preferences from this document for fonts, grids, text animation or graphic design. Existing MIT source/approval rules still apply if a shot genuinely needs titles, labels or an end card.
+**This v0.2 casebook does not own typography/graphic taste.** Later discovery is documented in [Typography & Graphic Integration v0.3](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md). Exact font families, technical grids, linework, and data-motion treatments are still unselected. Existing MIT source/approval rules apply whenever a shot needs labels or a title.
 
 ## Companion work
 
