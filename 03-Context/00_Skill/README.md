@@ -7,6 +7,10 @@ This folder contains reusable workflow instructions and related assets, not the 
 | [rolladice-scene-director](rolladice-scene-director/SKILL.md) | Making creative scene, camera, lighting and previs decisions **before** production; uses Rolladice taste docs | MIT approval, verified CAD, finished Blender animation |
 | [blender-animation-reference](blender-animation-reference/SKILL.md) | Inspecting and exporting **existing** Blender animation to motion-reference assets and AI-model handoff | Deciding cinematic taste from scratch |
 
+## Skills in development
+
+[Proposal — five agnostic skills](Proposal/README.md) contains **drafts** intended to be portable across projects. The first candidate, [Discover Creative Taste](Proposal/discover-creative-taste/SKILL.md), is created for review and trial. Drafts in Proposal are **not** automatically installed or considered active project guidance.
+
 ## Context source
 
 Start with [context map](../README.md). A skill should link to the canonical source documents, not restate all their rules.
