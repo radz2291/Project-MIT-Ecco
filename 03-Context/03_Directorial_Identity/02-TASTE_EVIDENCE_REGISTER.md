@@ -172,6 +172,23 @@ All quoted reactions in E006–E014 are the director's **exact statements** in t
 
 **Active interpretation:** [Typography & Graphic Integration v0.3](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md). Typography choices are sufficiently evidenced for a **working** module; technical motion-graphic linework, density, data treatments and animation language still need discovery.
 
+### E015 — ECCO S02: editorial minimal technical motion graphics selected
+
+**Director, verbatim:**
+> "A — Editorial Minimal"
+
+**Date:** 14 October 2026.
+
+**Test context:** [S02 Technical Motion Graphics Taste Test 01](studies/2026-10-14_S02_motion_graphics_test_01/README.md), an A/B/C choice between **A — Editorial Minimal**, **B — Layered Technical**, and **C — Spatial Cinematic**. Each depicts an illustrative pulse, same-sensor returning echo, waveform, two-way Δt and symbolic sensor-to-wall stand-off in a different visual treatment.
+
+**Direct support:** A was selected as the preferred **whole treatment for this particular ECCO S02 explanatory moment**.
+
+**Interpretation (not verbatim):** This is consistent with the prior quiet editorial preference (E010–E014). A restrained, legible graphic may be preferable to richer layering or 3D spatializing when explaining an individual technical measurement.
+
+**What is NOT established:** The director did **not** specify whether the decisive feature was negative space, linework, palette, copy, clarity, or spatial simplicity. The test varied multiple characteristics at once. This is not a broad rejection of B/C, grids, dark backgrounds, 3D integration or richer graphics elsewhere. Nor is it client technical approval.
+
+**Follow-up:** Compare two near-identical minimal variants: the original A versus the same A with only subtle waveform reading guides ([refinement in same study](studies/2026-10-14_S02_motion_graphics_test_01/README.md)). Record whether more measurement scaffolding helps or harms.
+
 ## Reconciliation of previous assistant suggestions
 
 | Earlier suggestion | Current status | Reason |
