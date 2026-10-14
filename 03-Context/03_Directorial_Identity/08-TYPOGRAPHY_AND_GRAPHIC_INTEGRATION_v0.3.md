@@ -6,7 +6,7 @@
 
 ## Purpose and authority
 
-This is the **single active home for typography and emerging graphic-integration taste**. Direct quotations and reference reactions live only in the [Taste Evidence Register](02-TASTE_EVIDENCE_REGISTER.md) (E006–E015). This document interprets them as practical preferences; the [Scene Direction Contract](07-SCENE_DIRECTION_CONTRACT_v0.2.md) owns the handoff fields and approval gates.
+This is the **single active home for typography and emerging graphic-integration taste**. Direct quotations and reference reactions live only in the [Taste Evidence Register](02-TASTE_EVIDENCE_REGISTER.md) (E006–E016). This document interprets them as practical preferences; the [Scene Direction Contract](07-SCENE_DIRECTION_CONTRACT_v0.2.md) owns the handoff fields and approval gates.
 
 Do not misread a preferred treatment as a required one. Choose graphics for the actual story, product, viewer and visual context. Existing client typography/identity specifications, technical labeling and factual constraints always take precedence.
 
@@ -95,19 +95,28 @@ Typography should be authored as controllable text/graphics in an appropriate sc
 
 **Typography details unknown:** particular fonts, weights, kerning/tracking style, capitalization, alignment preferences, technical type scale, exact animation timing, palette and pairing with voice/music.
 
-**Motion-graphics design language partly assessed:** the overall Editorial Minimal treatment is preferred for one S02 measurement example (E015), but the reasons remain unknown. Technical linework, annotation density, measurement appearance, transitions, data animation, line thicknesses, chart treatment, and specific abstract metaphors are not yet isolated as independent tastes.
+**Motion-graphics design language partly assessed:** E015 first selected Editorial Minimal for S02, then **E016 revised that preference toward Spatial Cinematic**, reserving A1 Minimal for simple situations. The specific features driving these choices remain untested. Technical linework, annotation density, measurement appearance, transitions, data animation, line thicknesses, chart treatment, and specific abstract metaphors are not yet isolated as independent tastes.
 
-## G02 — Editorial minimal for an isolated technical measurement (contextual)
+## G02 — Spatial cinematic when it earns its place; A1 minimal when simple
 
-**New evidence E015:** In the [ECCO S02 Technical Motion Graphics Taste Test 01](studies/2026-10-14_S02_motion_graphics_test_01/README.md), the director selected **A — Editorial Minimal** over the layered technical and spatial cinematic compositions.
+**Current evidence E016 supersedes historical E015 for the S02 example:** The director first chose **A — Editorial Minimal**, then explicitly changed their mind: **Spatial Cinematic** is preferred now, while **A1 — Pure Editorial Minimal** is suitable for simpler situations. See the [three-option S02 study and refinement](studies/2026-10-14_S02_motion_graphics_test_01/README.md).
 
-**Confirmed:** That complete treatment is the preferred option **for the illustrated first pulse/echo measurement**. It also agrees with quiet editorial typography preferences E010–E014.
+**Scene-dependent working direction:**
 
-**Working direction to test:** Begin an individual technical-explanation shot with clear information hierarchy, readable pulse/return relationship and a restrained waveform treatment. Add layers, grids or spatial elements only when they improve the actual explanation or visual storytelling.
+| Situation | Potentially better starting point | Why to consider it |
+|---|---|---|
+| A physical mechanism or spatial relationship is central and the depth/camera treatment enriches comprehension | **C — Spatial Cinematic** | Compose mechanism, camera, annotation, and imagery as one coherent event. Preserve a legible signal/measurement reading layer |
+| One simple statement, elementary measurement, short label, or otherwise uncluttered information moment | **A1 — Pure Editorial Minimal** | Minimal linework and clear information hierarchy may communicate without unnecessarily staging depth |
+| More complex measurements/data that truly require layers | **Still open** | Do not automatically pick B; demonstrate that added annotations actually help |
 
-**Limits:** The initial A/B/C designs differed in more than one way, so do not attribute the choice to one unverified factor (palette, light background, line thickness, chart density, or the absence of 3D). This is **not** a mandatory minimalist aesthetic for all engineering films and **not** MIT's approval of the depicted S02 mechanism. The exact reason for A remains unexpressed.
+**Important boundaries:**
+- **This is a situational taste**, not a global ban on simple graphics nor a requirement that every scene be 3D. Sometimes an understated 2D waveform within a 3D cinematic composition is exactly right.
+- E015 remains as historical evidence; **E016 is the current preference** for this S02 study. Do not mistakenly quote A as the active selection.
+- The comparison varied composition, color, environment, linework, typographic treatment, and integration together. The director **did not identify the exact decisive C attribute** or review actual animation.
+- C's illustrated geometry and acoustic effects remain **conceptual**, not production CAD, calibrated data or MIT-approved mechanisms. Validate with the engineering baseline and the real Blender scene.
+- **A1 vs A2 guide-density test remains unresolved and deferred**. Do not imply A2 was rejected or selected.
 
-**Next controlled comparison:** Within the same [study](studies/2026-10-14_S02_motion_graphics_test_01/README.md), compare original A to an otherwise identical A with subtle **uncalibrated waveform guide marks**. This isolates the amount of measurement scaffolding more closely; record the director's reaction before inferring a preferred density or grid treatment.
+**Next validation:** Build a low-cost spatial/cinematic S02 blocking/previs with real product reference, while retaining quiet typography and physically accurate pulse/echo meaning. Use a deliberately simple A1 moment only where it clearly helps the storytelling. Judge the **whole moving sequence** (camera travel, stops, perceived depth and the readable waveform), not still-frame treatment alone.
 
 ## Evidence upgrade rule
 
