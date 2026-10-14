@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-label="Conceptual, non-metric camera path for an ECCO product hero shot">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#7CC5A6" stroke-width="1.5"/></marker></defs>
+<rect width="900" height="500" fill="#15231F"/><text x="38" y="40" fill="#E4EFE8" font-family="sans-serif" font-size="22">S07-01 · Conceptual camera journey</text>
+<text x="38" y="66" fill="#A6BBAF" font-family="sans-serif" font-size="13">Not a CAD plan · not to scale · no approved pose, lens or timing</text>
+<rect x="405" y="88" width="85" height="300" rx="16" fill="#708C7E" stroke="#D5E3D9" stroke-width="3"/><path d="M422 95V378 M472 95V378" stroke="#C8D8CE" stroke-width="2"/><rect x="405" y="213" width="85" height="52" fill="#486859"/><text x="449" y="415" fill="#DCE9DF" font-family="sans-serif" font-size="14" text-anchor="middle">SUBJECT (schematic)</text>
+<path d="M150 375 C140 270 230 165 320 130 S615 78 715 178 S735 295 690 345" fill="none" stroke="#7CC5A6" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)"/>
+<g fill="#E6F1EA" font-family="sans-serif" font-size="17"><circle cx="150" cy="375" r="11" fill="#7CC5A6"/><text x="42" y="409">ENTRY: silhouette</text><circle cx="320" cy="130" r="11" fill="#7CC5A6"/><text x="190" y="110">ARRIVAL: detail</text><circle cx="690" cy="345" r="11" fill="#7CC5A6"/><text x="620" y="395">ARRIVAL: hero</text></g>
+<g stroke="#A4BAAB" stroke-width="2" stroke-dasharray="6 7" opacity=".7"><path d="M150 375 L448 238"/><path d="M320 130 L448 238"/><path d="M690 345 L448 238"/></g>
+<text x="39" y="474" fill="#A6BBAF" font-size="15" font-family="sans-serif">The motion should reveal meaningful spatial relationships between arrivals.</text></svg>
