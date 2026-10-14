@@ -27,7 +27,7 @@ Start with the [whole Context Map](../README.md) when choosing between areas.
 
 **Agent rule:** follow the minimum relevant reading path in [Context Map](../README.md). If a fact appears duplicated elsewhere, prefer the file that owns it. Storyboard artwork and sample renders do not replace approval of technical facts.
 
-**Deferred taste:** typography and motion graphics; respect approved client requirements but do not invent aesthetic standards.
+**Developing taste:** Rolladice's initial typography preferences are documented in [module 08](../03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md); technical motion-graphics details remain open. Client brand/technical obligations take precedence.
 
 ## Important unresolved boundary
 
