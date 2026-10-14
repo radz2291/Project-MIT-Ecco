@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spatial Storytelling & Camera Choreography"
+  short_description: "Plan meaningful camera movement and visual beats"
+  default_prompt: "Use $spatial-storytelling-camera-choreography to plan a purposeful sequence of compositions, reveals, camera movement, and cuts for this scene, with a concise camera score and low-cost previs."
