@@ -34,11 +34,11 @@ Specify the **decision unit**: entire film, an individual beat, a screen, a piec
 
 Check what is genuinely required before exercising taste:
 
-1. Verified truth, safety, accessibility, legal/data permissions, and non-negotiable technical constraints.
+1. Verified truth, safety, accessibility, legal/data permissions, binding deadlines, and non-negotiable technical constraints.
 2. Agreed client/brand rules and audience needs.
 3. This moment's narrative, informational, or emotional purpose.
 4. The person's **evidence-backed** taste, with its known scope and exceptions.
-5. Execution/budget/time constraints and reversible experiments.
+5. Negotiable production costs and reversible experiments.
 
 This order is a starting hierarchy, **not** a license to invent approvals or silently discard hard constraints. If sources conflict, identify the conflict; don't solve factual uncertainty by choosing the prettier answer. Reframe or stop only the affected decision.
 
