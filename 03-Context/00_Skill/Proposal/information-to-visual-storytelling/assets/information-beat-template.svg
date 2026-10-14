@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Editable illustrative information beat template showing source, relation and supported viewer inference, with data provenance placeholder; not real data">
+<defs>
+  <marker id="flow-arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M1 1L9 5.5L1 10" fill="none" stroke="#62897F" stroke-width="1.5"/></marker>
+  <style>
+    .heading{font:600 28px Arial,Helvetica,sans-serif;fill:#304C43}
+    .eyebrow{font:12px Arial,Helvetica,sans-serif;letter-spacing:2.5px;fill:#608477}
+    .step{font:600 22px Arial,Helvetica,sans-serif;fill:#304C43}
+    .sub{font:15px Arial,Helvetica,sans-serif;fill:#6A8277}
+    .note{font:13px Arial,Helvetica,sans-serif;fill:#789083}
+    .meta{font:12px Arial,Helvetica,sans-serif;letter-spacing:1.4px;fill:#566F63}
+  </style>
+</defs>
+<rect width="1280" height="720" fill="#F5F4EE"/>
+<text x="65" y="69" class="eyebrow">INFORMATION-TO-VISUAL STORYTELLING / CONCEPTUAL TEMPLATE</text>
+<text x="65" y="121" class="heading">Make the relationship visible.</text>
+<text x="65" y="152" class="sub">One viewer question · One traceable visual chain · One qualified takeaway</text>
+<path d="M65 175H1215" stroke="#CDDBD1" stroke-width="1"/>
+<!-- Three fully editable stage cards: these are information stages, not a fixed animation layout -->
+<g id="stage-source">
+  <rect x="65" y="215" width="335" height="333" rx="14" fill="#FCFCF8" stroke="#CFDCD1" stroke-width="1.6"/>
+  <text x="91" y="250" class="eyebrow">01 / ORIGIN</text>
+  <path d="M112 412H354" stroke="#B0C9BD" stroke-width="1.4"/>
+  <path d="M116 412H156C160 412 161 385 169 385S180 437 187 437S199 397 207 397S222 412 228 412H352" fill="none" stroke="#519B93" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="169" cy="385" r="5" fill="#E1A875"/>
+  <text x="91" y="483" class="step">Source / observation</text>
+  <text x="91" y="510" class="sub">What event or evidence exists?</text>
+</g>
+<g id="stage-relation">
+  <rect x="472" y="215" width="335" height="333" rx="14" fill="#FCFCF8" stroke="#CFDCD1" stroke-width="1.6"/>
+  <text x="498" y="250" class="eyebrow">02 / CORRESPONDENCE</text>
+  <circle cx="546" cy="402" r="30" fill="none" stroke="#8DAFA0" stroke-width="2.2"/>
+  <circle cx="641" cy="358" r="30" fill="none" stroke="#8DAFA0" stroke-width="2.2"/>
+  <circle cx="728" cy="411" r="30" fill="none" stroke="#8DAFA0" stroke-width="2.2"/>
+  <path d="M574 390L611 372M670 374L697 395" stroke="#4F8E85" stroke-width="2.5" marker-end="url(#flow-arrow)"/>
+  <circle cx="546" cy="402" r="5" fill="#519B93"/>
+  <circle cx="641" cy="358" r="5" fill="#519B93"/>
+  <circle cx="728" cy="411" r="5" fill="#519B93"/>
+  <text x="498" y="483" class="step">Mapping / relationship</text>
+  <text x="498" y="510" class="sub">What does this mark mean?</text>
+</g>
+<g id="stage-inference">
+  <rect x="879" y="215" width="336" height="333" rx="14" fill="#FCFCF8" stroke="#CFDCD1" stroke-width="1.6"/>
+  <text x="905" y="250" class="eyebrow">03 / TAKEAWAY</text>
+  <rect x="926" y="328" width="242" height="129" rx="10" fill="#EFF4ED" stroke="#B8CEC0" stroke-width="1.3"/>
+  <path d="M954 371H1137M954 393H1108M954 415H1088" stroke="#83A397" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="1127" cy="411" r="13" fill="#F2D7BC" stroke="#CA9C75" stroke-width="1.2"/>
+  <text x="905" y="483" class="step">Supported inference</text>
+  <text x="905" y="510" class="sub">What can the viewer conclude?</text>
+</g>
+<!-- Inter-stage arrows keep correspondence visible; never imply unverified mathematical transformation -->
+<path d="M407 379H462" stroke="#62897F" stroke-width="2.4" marker-end="url(#flow-arrow)"/>
+<path d="M814 379H868" stroke="#62897F" stroke-width="2.4" marker-end="url(#flow-arrow)"/>
+<path d="M65 579H1215" stroke="#CDDBD1" stroke-width="1"/>
+<text x="65" y="613" class="meta">PROVENANCE: ILLUSTRATIVE PLACEHOLDERS · NO ACTUAL DATA OR CALIBRATION</text>
+<text x="65" y="642" class="note">Replace labels, marks and relationships with verified content. This is an editable explanation scaffold, not a real measurement.</text>
+<text x="1215" y="689" class="note" text-anchor="end">SVG-FIRST / NOT TO SCALE / NO APPROVAL IMPLIED</text>
+</svg>
