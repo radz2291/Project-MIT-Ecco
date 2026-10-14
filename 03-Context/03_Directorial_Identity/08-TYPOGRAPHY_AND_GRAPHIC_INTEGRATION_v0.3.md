@@ -6,7 +6,7 @@
 
 ## Purpose and authority
 
-This is the **single active home for typography and emerging graphic-integration taste**. Direct quotations and reference reactions live only in the [Taste Evidence Register](02-TASTE_EVIDENCE_REGISTER.md) (E006–E014). This document interprets them as practical preferences; the [Scene Direction Contract](07-SCENE_DIRECTION_CONTRACT_v0.2.md) owns the handoff fields and approval gates.
+This is the **single active home for typography and emerging graphic-integration taste**. Direct quotations and reference reactions live only in the [Taste Evidence Register](02-TASTE_EVIDENCE_REGISTER.md) (E006–E015). This document interprets them as practical preferences; the [Scene Direction Contract](07-SCENE_DIRECTION_CONTRACT_v0.2.md) owns the handoff fields and approval gates.
 
 Do not misread a preferred treatment as a required one. Choose graphics for the actual story, product, viewer and visual context. Existing client typography/identity specifications, technical labeling and factual constraints always take precedence.
 
@@ -95,11 +95,19 @@ Typography should be authored as controllable text/graphics in an appropriate sc
 
 **Typography details unknown:** particular fonts, weights, kerning/tracking style, capitalization, alignment preferences, technical type scale, exact animation timing, palette and pairing with voice/music.
 
-**Motion-graphics design language not yet assessed:** technical linework, annotation density, measurement appearance, graphic transitions, data animation systems, line thicknesses, chart treatment, and whether particular visual metaphors feel sophisticated or excessive. These **must not** be invented as confirmed tastes from Territory alone.
+**Motion-graphics design language partly assessed:** the overall Editorial Minimal treatment is preferred for one S02 measurement example (E015), but the reasons remain unknown. Technical linework, annotation density, measurement appearance, transitions, data animation, line thicknesses, chart treatment, and specific abstract metaphors are not yet isolated as independent tastes.
 
-## Active comparison awaiting director reaction
+## G02 — Editorial minimal for an isolated technical measurement (contextual)
 
-[S02 technical motion-graphics taste test 01](studies/2026-10-14_S02_motion_graphics_test_01/README.md) compares three editable SVG treatments of the **same** conceptual pulse-echo measurement. These are **not confirmed preferences** and are not a replacement for the V2 storyboard. Record the director's selection/reason in the evidence register before revising G01 or choosing a house technical-graphics style.
+**New evidence E015:** In the [ECCO S02 Technical Motion Graphics Taste Test 01](studies/2026-10-14_S02_motion_graphics_test_01/README.md), the director selected **A — Editorial Minimal** over the layered technical and spatial cinematic compositions.
+
+**Confirmed:** That complete treatment is the preferred option **for the illustrated first pulse/echo measurement**. It also agrees with quiet editorial typography preferences E010–E014.
+
+**Working direction to test:** Begin an individual technical-explanation shot with clear information hierarchy, readable pulse/return relationship and a restrained waveform treatment. Add layers, grids or spatial elements only when they improve the actual explanation or visual storytelling.
+
+**Limits:** The initial A/B/C designs differed in more than one way, so do not attribute the choice to one unverified factor (palette, light background, line thickness, chart density, or the absence of 3D). This is **not** a mandatory minimalist aesthetic for all engineering films and **not** MIT's approval of the depicted S02 mechanism. The exact reason for A remains unexpressed.
+
+**Next controlled comparison:** Within the same [study](studies/2026-10-14_S02_motion_graphics_test_01/README.md), compare original A to an otherwise identical A with subtle **uncalibrated waveform guide marks**. This isolates the amount of measurement scaffolding more closely; record the director's reaction before inferring a preferred density or grid treatment.
 
 ## Evidence upgrade rule
 
