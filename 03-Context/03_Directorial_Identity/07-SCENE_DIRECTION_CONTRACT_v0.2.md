@@ -31,7 +31,7 @@ status: proposal_not_approved
 source:
   client: MIT
   technical_reference: "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md"
-  visual_identity: "03-Context/01_Foundation/03-MIT_Cinematic_Production_Identity_v0.1.md"
+  visual_identity: "03-Context/01_Foundation/03-MIT_PRODUCTION_IDENTITY.md"
   creative_personality: "03-Context/03_Directorial_Identity/01-ROLLADICE_CREATIVE_PERSONALITY_v0.1.md"
   taste_evidence: [E002, E003, E004]
 timing:
