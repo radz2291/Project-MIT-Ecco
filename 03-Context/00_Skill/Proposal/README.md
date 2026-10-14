@@ -10,13 +10,13 @@ Each proposal is portable across clients, media, and projects. It describes a re
 | **02** | [Contextual Aesthetic Judgment](contextual-aesthetic-judgment/SKILL.md) | **Draft v0.1 — ready for trial** | Recommend treatments through purpose, taste evidence, constraints, trade-offs and justified exceptions |
 | **03** | [Spatial Storytelling & Camera Choreography](spatial-storytelling-camera-choreography/SKILL.md) | **Draft v0.1 — ready for trial** | Design expressive compositions, meaningful arrivals, camera/subject motion, travel rhythm and cut continuity |
 | **04** | [Information-to-Visual Storytelling](information-to-visual-storytelling/SKILL.md) | **Draft v0.1 — ready for trial** | Transform mechanisms, data and concepts into traceable source-to-meaning visual narratives |
-| 05 | Creative Knowledge-to-Execution Engineering | Not yet created | Package artistic direction into agent-consumable specifications and evidence |
+| **05** | [Creative Knowledge-to-Execution Engineering](creative-knowledge-to-execution-engineering/SKILL.md) | **Draft v0.1 — ready for trial** | Convert creative intent, sources and constraints into bounded executable tasks, observable proof, change tracking and agent handoffs |
 
 ## Boundaries
 
 - **Proposal status:** These are candidate skills, not automatically enabled agents or production policy.
 - **Knowledge ownership:** Use external, project-specific taste profiles and technical sources at runtime. Do not copy Rolladice or MIT preferences into the agnostic skill.
-- **Overlap avoidance:** 01 discovers and records taste; 02 evaluates contextual choices; 03/04 specialize in production direction; 05 packages/validates execution. Skill 05 remains uncreated and will be implemented in its own focused session.
+- **Overlap avoidance:** 01 discovers and records taste; 02 evaluates contextual choices; 03/04 specialize in production direction; 05 packages/validates execution. All five proposed skills now have v0.1 packages. **Creation is complete; activation and cross-skill behavioral validation are still pending**.
 - **Acceptance:** At minimum, validate the skill folder's format, exercise the workflow on realistic positive/negative/revision cases, and get the user's approval before promotion.
 
 The [parent skills index](../README.md) lists **active** workflows separately.
