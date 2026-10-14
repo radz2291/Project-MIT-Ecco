@@ -34,4 +34,4 @@ V2 materials exist for several storyboard sections; **presence in Git is not MIT
 
 **Security check required:** this repository is public; a V2 storyboard asset is identified as an actual ENP1 field-log example and its accompanying notes mention operator confidentiality. Confirm publication rights promptly; do not redistribute the asset or assume it is approved for public hosting. Removing it from the current branch alone would not erase Git history.
 
-**Deliberately undecided:** Rolladice typography and motion-graphics taste. Existing client-required labeling and MIT engineering meaning must still be preserved.
+**Partly evidenced, not locked:** Rolladice typography now has a [working taste module](03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md). Technical motion-graphics details and named fonts remain undiscovered; preserve all client-required labeling and engineering meaning.
