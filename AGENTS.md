@@ -1,18 +1,16 @@
-# Agent Entry Point — MIT / ECCO Production
+# Agent Entry Point — MIT / ECCO
 
-Read [Phase A foundation](03-Context/01_Foundation/README.md) for MIT/ECCO product constraints, narrative and approval status.
+**First read:** [03-Context/README.md](03-Context/README.md). It owns the canonical source map, precedence and task-specific reading routes. Do not load the entire repository context indiscriminately.
 
-## Before designing a scene
-- Read [Rolladice Directorial Identity index](03-Context/03_Directorial_Identity/README.md).
-- Apply [scene-director skill](03-Context/00_Skill/rolladice-scene-director/SKILL.md) and its [Scene Direction Contract](03-Context/03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md).
-- Read the applicable [MIT cinematic production identity](03-Context/01_Foundation/03-MIT_Cinematic_Production_Identity_v0.1.md) and [engineering baseline](03-Context/01_Foundation/02-ENGINEERING_BASELINE.md) before any ECCO-specific implementation.
-- Separate confirmed client/technical facts from assistant-proposed creative solutions, and label unapproved art direction.
+## Choose the task
 
-## Before turning an existing Blender animation into AI reference video
-Use [blender-animation-reference skill](03-Context/00_Skill/blender-animation-reference/SKILL.md) after camera/object animation exists; it is a different job from scene direction.
+- **Fact, technical claim or open approval:** [Engineering Baseline](03-Context/01_Foundation/02-ENGINEERING_BASELINE.md) → [Decision Register](03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md) → original source.
+- **New camera/scene/lighting design:** relevant [V2 storyboard](03-Context/02_Storyboard/README.md) → [MIT identity](03-Context/01_Foundation/03-MIT_PRODUCTION_IDENTITY.md) → [scene-director skill](03-Context/00_Skill/rolladice-scene-director/SKILL.md).
+- **Construct, finish or QC:** [Production Workflow](03-Context/01_Foundation/05-PRODUCTION_WORKFLOW.md), with the actual shot's [Scene Direction Contract](03-Context/03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md).
+- **Existing Blender animation → generative reference:** [blender-animation-reference skill](03-Context/00_Skill/blender-animation-reference/SKILL.md).
 
-## Style boundary
-Rolladice v0.2 develops spatial, camera, lighting, materials and critique decisions. **Typography and motion-graphic taste are deferred for discovery.** Keep required client deliverables/approved labels intact without inventing a house style.
+## Non-negotiable boundaries
 
-## Production safety
-Do not claim approval, verified physics, real scene coordinates, successful renders or temporal fidelity absent evidence. Preserve approved CAD; work from registered assets and approved client details. Prefer SVG/previs and inexpensive playblast before expensive finishing. Review only the relevant shot dependencies; a blocked technical mechanism should not prevent unrelated safe exploration.
+Do not confuse storyboard drafts, artistic hypotheses or local examples with client approvals or engineering truth. Do not invent product geometry, physical simulation, actual camera transforms or evidence of a successful render. **Typography and motion-graphics taste are deferred**; retain client-required information without inventing a style.
+
+**Publication caution:** The public repository contains a sample ENP1 field-log illustration with rights/permissions unresolved; do not republish or export it until the producer confirms permission in the decision register.
