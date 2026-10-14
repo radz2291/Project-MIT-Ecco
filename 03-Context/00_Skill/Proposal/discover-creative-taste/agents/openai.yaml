@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discover Creative Taste"
+  short_description: "Find and refine creative preferences from references"
+  default_prompt: "Use $discover-creative-taste to help me discover my artistic preferences from references and feedback, preserving what is confirmed, inferred, and still unknown."
