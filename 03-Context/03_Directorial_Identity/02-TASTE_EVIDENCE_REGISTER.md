@@ -1,8 +1,8 @@
-# Taste Evidence Register — v0.1
+# Taste Evidence Register — active through v0.3 typography discovery
 
 **Updated:** 14 October 2026  
 **Purpose:** Preserve source feedback **separately** from our analysis, so an AI agent can distinguish user-confirmed taste from suggestions.  
-**Source:** Rolladice × MIT creative-reference conversation, 14 October 2026. Quotes below are from the director's statements in that conversation. Minor spelling preserved.
+**Source:** Rolladice × MIT creative-reference and typography/motion-graphics discovery conversation, 14 October 2026. Quotes below are from the director's statements in that conversation. Minor spelling preserved.
 
 ## Evidence vocabulary
 
@@ -78,14 +78,108 @@
 
 **Confidence:** High.
 
+## Typography and motion-graphics discovery (14 October 2026)
+
+All quoted reactions in E006–E014 are the director's **exact statements** in this discovery conversation. The test names and interpretation labels below are the assistant's, not the director's own aesthetic terminology.
+
+### E006 — Territory and DIA: context-sensitive reference reactions
+
+**Director, verbatim:**
+> "I really like number one from Territory Studio. Dia studio is good, but might not relevant to this current branding."
+
+**Direct support:** Strong positive reaction to Territory Studio's referenced *Desktop Metal* work; DIA Studio is considered good yet may not suit the *current* MIT branding.
+
+**Scope:** Supersedes the earlier "interesting" reaction to Territory for this specific linked project; does not establish that all Territory work is preferred or that DIA is disliked.
+
+**References:** https://territorystudio.com/project/desktop-metal/ · https://dia.tv/project/nike-statement-house/
+
+### E007 — Territory: meaningful 3D integration is optional
+
+**Director, verbatim:**
+> "It is How motion graphics integrate with the 3D environment and camera, But I don't think this is a must. Sometimes a simple on-screen is good enough."
+
+**Direct support:** Appreciates motion graphics working with 3D objects/environment and camera, **without requiring it**; screen-space graphics can be sufficient.
+
+**Assistant interpretation:** integration by purpose; choose spatial, on-screen or no graphic according to what communicates best. "No graphic" remains an inferred option, not an exact user quote.
+
+### E008 — BUCK: text as elegant storytelling
+
+**Director, verbatim:**
+> "I like BUCK when we are conveying a storytelling kind of videos. It is very good when we are conveying storytelling, elegance, sophistication through texts."
+
+**Direct support:** BUCK is a positive reference for story-driven videos, especially elegant and sophisticated text-led communication.
+
+**Reference:** https://buck.co/work/jpmorgan-payments  
+**Scope:** Does not automatically transfer to technical explanatory videos.
+
+### E009 — BUCK: composition and wording
+
+**Director, verbatim:**
+> "I think it is Composition and wording"
+
+**Test context:** Asked what specifically mattered most about BUCK: composition/wording vs animation/phrasing.
+
+**Direct support:** The director selected **composition and wording**, not animation, as the more salient attraction. Does not mean animation is disliked.
+
+### E010 — Typographic intensity: quiet editorial
+
+**Director, verbatim:**
+> "A — I prefer quiet, elegant typography"
+
+**Test context:** Quiet editorial vs bold statement vs a situational mix.
+
+**Direct support:** Quiet elegant typography wins in this comparison.
+
+**Caution:** Not a ban on bold type; the exact layouts, colors and text also differed in the illustrated test.
+
+### E011 — Typeface character: sans-serif editorial
+
+**Director, verbatim:**
+> "B — Sans-serif editorial"
+
+**Test context:** Serif editorial vs sans-serif editorial illustrations.
+
+**Direct support:** Sans-serif editorial is preferred for this comparison. No named font, weight or technical text system was chosen.
+
+### E012 — Animation approach: quiet appearance and graceful movement
+
+**Director, verbatim:**
+> "A and B is good."
+
+**Test context:** A = quiet appearance/gentle fade; B = subtle graceful controlled movement/settling; C = editorial hard cut.
+
+**Direct support:** Both A and B are positive choices. **No explicit negative judgment** about C.
+
+### E013 — Typography alongside imagery
+
+**Director, verbatim:**
+> "A — Typography within the imagery"
+
+**Test context:** Type carefully positioned alongside the subject in one frame versus a standalone typography-only moment.
+
+**Direct support:** Prefers type composed *with* imagery in that comparison. Does not categorically disallow standalone text cards.
+
+### E014 — Screen-space and spatial type are both valid
+
+**Director, verbatim:**
+> "I like both depending on situation"
+
+**Test context:** A = editorial overlay fixed to screen composition; B = text living in the 3D scene/perspective.
+
+**Direct support:** Both approaches are liked, conditional on the scene.
+
+**Assistant interpretation:** Visual and narrative purpose should determine the treatment; it is not a universal '3D text' mandate.
+
+**Active interpretation:** [Typography & Graphic Integration v0.3](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md). Typography choices are sufficiently evidenced for a **working** module; technical motion-graphic linework, density, data treatments and animation language still need discovery.
+
 ## Reconciliation of previous assistant suggestions
 
 | Earlier suggestion | Current status | Reason |
 |---|---|---|
 | "Effortless Monumentality" | **Useful provisional label** | Emerges from E002; director has not explicitly adopted the label |
 | "Camera as Guided Discovery" / "Choreographed Reveal" | **Useful provisional label** | E004 strongly supports behavior; label itself is assistant-authored |
-| "FutureDeluxe + Tendril + Territory" as a blend | **Exploratory**, not a prescription | Territory has only "interesting" feedback; no trait selection |
-| Prefer specific darkness, metallic recipe, slow/fast tempo, camera lens or graphic grid | **Unverified** | No user selection on these parameters |
+| "FutureDeluxe + Tendril + Territory" as a blend | **Exploratory**, not a prescription | E006–E007 now confirm a narrow Territory preference for 3D/camera graphic integration; this is not approval of a universal stylistic blend |
+| Prefer specific darkness, metallic recipe, slow/fast tempo, camera lens or graphic grid | **Unverified** | E010–E014 establish some typography traits, but not precise font files, grid specs, curves or technical linework |
 | Lack of interest in GMUNK means no neon/HUDs | **Invalid overgeneralization** | E001 is a reference reaction, not a universal prohibition |
 | "Every frame must look like a still" | **Too rigid** | E002 values meaningful stills; transitional motion frames serve other purposes |
 
