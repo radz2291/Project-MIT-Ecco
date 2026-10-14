@@ -1,17 +1,17 @@
 # ECCO ENP3 — Engineering Baseline
 
 **Version:** 0.1 · 13 October 2026  
-**Status:** Source-grounded planning reference; shot-specific client verification remains required.
+**Status:** **Canonical** ECCO engineering facts and unresolved engineering scenarios; shot-specific client verification remains required. Visual examples/storyboards cannot supersede this source.
 
 ## Sources and authority
 
 | Source | Location | Authority / limits |
 |---|---|---|
-| ENP3 technical brochure and specification | [Datasheet](../01-Brief/ECCO_ENP3_Datasheet-1.pdf), pages 1–3 | Model-specific published dimensions and operating descriptions; not independent performance validation |
-| Mr. Ahmed's explanation | [7 October chat](../01-Brief/Chat/chat.md), especially 8:51–10:02 PM | Intended technical explanation, five applications and narrative; examples require ENP3 compatibility checks |
-| Product photos | [Client images](../01-Brief/Image/) | Visual reference; match image/version to actual ENP3 asset before relying on it |
+| ENP3 technical brochure and specification | [Datasheet](../../01-Brief/ECCO_ENP3_Datasheet-1.pdf), pages 1–3 | Model-specific published dimensions and operating descriptions; not independent performance validation |
+| Mr. Ahmed's explanation | [7 October chat](../../01-Brief/Chat/chat.md), especially 8:51–10:02 PM | Intended technical explanation, five applications and narrative; examples require ENP3 compatibility checks |
+| Product photos | [Client images](../../01-Brief/Image/) | Visual reference; match image/version to actual ENP3 asset before relying on it |
 | Approved CAD | Location/version pending | Geometry authority once registered and technically checked |
-| Generated artwork and four-second sample | [Reference folder](../02-Reference/); sample location pending | Creative/workflow evidence; not validated anatomy or acoustic simulation |
+| Generated artwork and four-second sample | [Reference folder](../../02-Reference/); sample location pending | Creative/workflow evidence; not validated anatomy or acoustic simulation |
 
 The facts below are attributed to MIT's supplied materials. They do not establish that the sample has accurately depicted them.
 
