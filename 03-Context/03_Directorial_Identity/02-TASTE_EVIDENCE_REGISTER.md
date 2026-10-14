@@ -181,13 +181,32 @@ All quoted reactions in E006–E014 are the director's **exact statements** in t
 
 **Test context:** [S02 Technical Motion Graphics Taste Test 01](studies/2026-10-14_S02_motion_graphics_test_01/README.md), an A/B/C choice between **A — Editorial Minimal**, **B — Layered Technical**, and **C — Spatial Cinematic**. Each depicts an illustrative pulse, same-sensor returning echo, waveform, two-way Δt and symbolic sensor-to-wall stand-off in a different visual treatment.
 
-**Direct support:** A was selected as the preferred **whole treatment for this particular ECCO S02 explanatory moment**.
+**Direct support at the time:** A was initially selected as the preferred **whole treatment for this particular ECCO S02 explanatory moment**. **Historical choice only; superseded by E016.**
 
 **Interpretation (not verbatim):** This is consistent with the prior quiet editorial preference (E010–E014). A restrained, legible graphic may be preferable to richer layering or 3D spatializing when explaining an individual technical measurement.
 
 **What is NOT established:** The director did **not** specify whether the decisive feature was negative space, linework, palette, copy, clarity, or spatial simplicity. The test varied multiple characteristics at once. This is not a broad rejection of B/C, grids, dark backgrounds, 3D integration or richer graphics elsewhere. Nor is it client technical approval.
 
-**Follow-up:** Compare two near-identical minimal variants: the original A versus the same A with only subtle waveform reading guides ([refinement in same study](studies/2026-10-14_S02_motion_graphics_test_01/README.md)). Record whether more measurement scaffolding helps or harms.
+**Historical follow-up proposal:** A1 vs A2 waveform reading guides ([refinement in same study](studies/2026-10-14_S02_motion_graphics_test_01/README.md)). **Deferred after E016:** the director now prefers C for the richer S02 example, while A1 remains suitable when simple. No A2 selection has been made.
+
+### E016 — S02 direction revision: Spatial Cinematic, A1 for simpler situations
+
+**Director, verbatim:**
+> "You know what? Right now I think I changed my mind. I like... Spatial Cinematic.. But on simple situation then we can use A1."
+
+**Date:** 14 October 2026, after E015 and the A1/A2 refinement proposal.
+
+**Test context:** The same [S02 Technical Motion Graphics Taste Test 01](studies/2026-10-14_S02_motion_graphics_test_01/README.md): option **C — Spatial Cinematic** versus **A1 — Pure Editorial Minimal** for a simpler situation.
+
+**Directly supported:** Director explicitly **revises** the previous S02 choice toward **Spatial Cinematic** and retains **A1** as a suitable choice for **simple situations**. The director is selecting by situation, not rejecting minimalism.
+
+**Current preference / precedence:** E016 **supersedes E015 as the active selection** for the S02 exploration. E015 remains a true historical quotation, but agents must not call A the current selected S02 direction.
+
+**Assistant interpretation (not a quote):** An immersive/spatial graphic direction is a promising starting point when the camera, depth and environmental relationship are contributing to an explanation, while a clean editorial treatment can be better when the message is simple. **Do not** treat this as a mandatory complexity rule or as a client-approved visual.
+
+**Still unknown:** Director has not identified which *particular* aspect of C makes the difference (dimensionality, camera integration, tone, layout, pulse visualization, or overall cinematic feeling). No response selected A2's extra waveform guides: keep that refinement archived/unresolved, rather than pursue it automatically.
+
+**Suggested next validation:** Evaluate a short **C-led S02 shot plan** with technically verified ENP3 geometry and an A1 simplified information moment only if the narrative actually needs it. Review camera movement and waveform readability before drawing general rules.
 
 ## Reconciliation of previous assistant suggestions
 
