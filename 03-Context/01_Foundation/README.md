@@ -17,6 +17,11 @@ The client has accepted the quotation and authorized the project, as reported by
 | 04 | [Storyboard and shot plan](04-STORYBOARD_AND_SHOT_PLAN.md) | Recovered seven-sequence / 90-second narrative and proposed executable shots |
 | 05 | [Production workflow](05-PRODUCTION_WORKFLOW.md) | Modular Blender assets, boundary-frame AI finishing, review and delivery |
 | 06 | [Decisions and readiness](06-DECISIONS_AND_READINESS.md) | Open questions, evidence, source register and Phase A closure |
+| Supplement | [Rolladice Directorial Identity](../03_Directorial_Identity/README.md) | Reusable artistic taste, evidence and AI scene-direction reasoning; not official MIT brand rules |
+
+## Distinguish brand and directorial taste
+
+The [MIT Cinematic Production Identity](03-MIT_Cinematic_Production_Identity_v0.1.md) provides MIT-specific communication and visual boundaries. The separate [Rolladice Directorial Identity](../03_Directorial_Identity/README.md) preserves the producer's evolving composition, camera, presence and motion preferences across clients. AI agents should consult both, but never elevate artistic taste above technical/brand authority.
 
 ## Phase A at a glance
 
