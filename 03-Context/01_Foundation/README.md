@@ -1,46 +1,34 @@
-# Phase A — Production Foundation
+# Phase A — MIT / ECCO Foundation
 
-**Project:** MIT Technologies · ECCO ENP3  
-**Producer:** Rolladice Studio / Radzi  
-**Updated:** 13 October 2026  
-**Status:** Foundation packaged; remaining locks tracked below.
+**Updated:** 14 October 2026  
+**Purpose:** MIT project-specific knowledge, not Rolladice's reusable taste.  
+**Status:** Project authorized per producer; technical, brand, commercial and storyboard approvals remain individually tracked.
 
-The client has accepted the quotation and authorized the project, as reported by Radzi. This folder brings the commercial context, engineering, branding, storyboard and production method into one place. Project authorization does not mean that the experimental sensing effect, every technical claim or the final shot plan has been approved.
+Start with the [whole Context Map](../README.md) when choosing between areas.
 
-## Start here
+## Canonical foundation files
 
-| Order | Document | Use |
-|---|---|---|
-| 01 | [Phase A production brief](01-PHASE_A_PRODUCTION_BRIEF.md) | Project purpose, scope, A1–A5, responsibilities and review model |
-| 02 | [Engineering baseline](02-ENGINEERING_BASELINE.md) | Sourced product facts, scenario checks and technical review criteria |
-| 03 | [Cinematic production identity v0.1](03-MIT_Cinematic_Production_Identity_v0.1.md) | Mandatory internal visual reference for every sequence |
-| 04 | [Storyboard and shot plan](04-STORYBOARD_AND_SHOT_PLAN.md) | Recovered seven-sequence / 90-second narrative and proposed executable shots |
-| 05 | [Production workflow](05-PRODUCTION_WORKFLOW.md) | Modular Blender assets, boundary-frame AI finishing, review and delivery |
-| 06 | [Decisions and readiness](06-DECISIONS_AND_READINESS.md) | Open questions, evidence, source register and Phase A closure |
-| Supplement | [Rolladice Directorial Identity](../03_Directorial_Identity/README.md) | Reusable artistic taste, evidence and AI scene-direction reasoning; not official MIT brand rules |
-
-## Distinguish brand and directorial taste
-
-The [MIT Cinematic Production Identity](03-MIT_Cinematic_Production_Identity_v0.1.md) provides MIT-specific communication and visual boundaries. The separate [Rolladice Directorial Identity](../03_Directorial_Identity/README.md) preserves the producer's evolving composition, camera, presence and motion preferences across clients. AI agents should consult both, but never elevate artistic taste above technical/brand authority.
-
-## Phase A at a glance
-
-| Component | Present position |
+| File | Unique authority |
 |---|---|
-| A1 — Commercial lock | Quote accepted; exact accepted version, deliverables and terms still to be archived |
-| A2 — Engineering foundation | Client chat and ENP3 datasheet in repo; CAD identity and shot-specific behavior need review |
-| A3 — Branding and visual identity | Existing v0.1 identity included unchanged; official assets and client feedback remain open |
-| A4 — Storyboard and shots | Seven-sequence timing recovered; detailed shots proposed, pending reconciliation with current Padlet |
-| A5 — Production readiness | Dependencies and review gates recorded; full technical production release pending |
+| [01 — Production Brief](01-PHASE_A_PRODUCTION_BRIEF.md) | Goals, scope, deliverables, owner responsibilities and phase definitions |
+| [02 — Engineering Baseline](02-ENGINEERING_BASELINE.md) | ECCO product facts, real-world constraints and engineering-source limitations |
+| [03 — MIT Production Identity](03-MIT_PRODUCTION_IDENTITY.md) | MIT-specific communication/brand character and visual territories |
+| [04 — Narrative Plan](04-STORYBOARD_AND_SHOT_PLAN.md) | Provisional seven-section timing and V2 scene reference routing |
+| [05 — Production Workflow](05-PRODUCTION_WORKFLOW.md) | Blender assets, AI hybrid execution, finishing, quality checks and output records |
+| [06 — Decisions & Readiness](06-DECISIONS_AND_READINESS.md) | **Only** centralized source of live blockers, decisions, approval status and evidence |
 
-**Immediate work:** recover the accepted quote snapshot, clarify the client's sample feedback, register the actual product/Blender assets, and reconcile the shot plan with Padlet. Preparatory work can proceed while these are resolved; disputed technical shots must wait for their specific answers.
+**Legacy pointer:** [MIT Cinematic Production Identity v0.1](03-MIT_Cinematic_Production_Identity_v0.1.md) was historically broad and is now superseded; full old content remains in Git history. Do not treat it as active guidance.
 
-## How to use this context
+## External responsibilities
 
-1. Read the brief and identity before designing a shot.
-2. Use the datasheet and client explanation for engineering meaning; use approved CAD for geometry.
-3. Record unresolved facts and approval evidence in the decision register.
-4. Review technical playblasts before final AI finishing.
-5. Update this package when an answer changes scope, mechanism or visual direction.
+- **Actual visual panels and client revisions:** [Storyboard V2 Index](../02_Storyboard/README.md).
+- **Artistic taste / direction / camera / lighting and shot contract:** [Rolladice Directorial Identity](../03_Directorial_Identity/README.md).
+- **Task execution and reference preparation:** [Skills Index](../00_Skill/README.md).
 
-Existing source folders remain [01-Brief](../01-Brief/) and [02-Reference](../02-Reference/). Heavy local production assets are registered by location/version rather than assumed to be present in Git.
+**Agent rule:** follow the minimum relevant reading path in [Context Map](../README.md). If a fact appears duplicated elsewhere, prefer the file that owns it. Storyboard artwork and sample renders do not replace approval of technical facts.
+
+**Deferred taste:** typography and motion graphics; respect approved client requirements but do not invent aesthetic standards.
+
+## Important unresolved boundary
+
+Repository V2 may be newer than the original 13 October package, but there is no claim of synchronized live Padlet approval or final 90-second timing. The rights of an actual ENP1 sample field log placed in this public repository must be checked; consult [Decision Register O13](06-DECISIONS_AND_READINESS.md).
