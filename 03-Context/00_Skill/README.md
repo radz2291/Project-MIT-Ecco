@@ -9,7 +9,7 @@ This folder contains reusable workflow instructions and related assets, not the 
 
 ## Skills in development
 
-[Proposal — five agnostic skills](Proposal/README.md) contains **drafts** intended to be portable across projects. The first candidate, [Discover Creative Taste](Proposal/discover-creative-taste/SKILL.md), is created for review and trial. Drafts in Proposal are **not** automatically installed or considered active project guidance.
+[Proposal — five agnostic skills](Proposal/README.md) contains **drafts** intended to be portable across projects. Two candidates—[Discover Creative Taste](Proposal/discover-creative-taste/SKILL.md) and [Contextual Aesthetic Judgment](Proposal/contextual-aesthetic-judgment/SKILL.md)—are created for review and trial. Drafts in Proposal are **not** automatically installed or considered active project guidance.
 
 ## Context source
 
