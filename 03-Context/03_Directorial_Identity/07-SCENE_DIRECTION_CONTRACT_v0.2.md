@@ -7,7 +7,7 @@
 
 Engineering/client technical authority → project/brand constraints → narrative purpose → documented Rolladice taste → shot-specific artistic decisions → execution convenience.
 
-Before making a creative choice, check [Personality](01-ROLLADICE_CREATIVE_PERSONALITY_v0.1.md), [Evidence](02-TASTE_EVIDENCE_REGISTER.md), [Casebook](04-VISUAL_DECISION_CASEBOOK_v0.2.md), [Camera](05-CAMERA_AND_MOTION_LANGUAGE_v0.2.md) and [Look](06-LOOK_LIGHTING_AND_MATERIAL_DIRECTION_v0.2.md).
+Before making a creative choice, check [Personality](01-ROLLADICE_CREATIVE_PERSONALITY_v0.1.md), [Evidence](02-TASTE_EVIDENCE_REGISTER.md), [Casebook](04-VISUAL_DECISION_CASEBOOK_v0.2.md), [Camera](05-CAMERA_AND_MOTION_LANGUAGE_v0.2.md) and [Look](06-LOOK_LIGHTING_AND_MATERIAL_DIRECTION_v0.2.md). **When text or motion graphics matter**, also consult [Typography & Graphic Integration v0.3](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md).
 
 ## Minimum deliverable for a proposed shot
 
@@ -20,7 +20,7 @@ Before making a creative choice, check [Personality](01-ROLLADICE_CREATIVE_PERSO
 7. **Diagrams:** lightweight, editable conceptual `camera-plan.svg` and `beat-frames.svg` when spatial planning benefits; these are not exact geometry.
 8. **Implementation handoff:** scene file/link targets, units, FPS/aspect from project, concrete keyframe targets only once the relevant geometry is available, proposed render mode, pass/mask needs, QA conditions.
 9. **Review:** initial assistant critique, director response, technical review state, shot version and accepted/rejected alternatives.
-10. **Deferred domains:** typography and motion graphics remain **UNDECIDED** in Rolladice taste v0.2. Preserve known client requirements and placeholders; do not invent permanent graphical style.
+10. **Typography/graphics:** apply the evidence-backed typography preferences and *optional* 3D/on-screen graphic integration in [module 08](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md) only when scene-appropriate. Record exact copy and whether it is approved. Font specifics, annotation systems, data-graphics language and motion-design parameters remain **UNDISCOVERED**.
 
 ## Machine-readable draft — `scene-directive.yaml`
 
@@ -69,8 +69,12 @@ look:
   material_authority: "actual material/finish requires MIT confirmation"
   atmosphere: restrained_if_spatially_useful
 graphics:
-  typography_taste: DEFERRED_DISCOVERY
-  motion_graphics_taste: DEFERRED_DISCOVERY
+  direction_reference: "03-Context/03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md"
+  exact_copy: TBD_IF_TEXT_REQUIRED
+  text_treatment: choose_none_screen_overlay_or_spatial_by_story
+  typography_starting_point: quiet_elegant_sans_serif_editorial_if_context_suits
+  text_animation: quiet_appearance_or_graceful_movement_if_needed
+  technical_graphics_style: UNDISCOVERED_VALIDATE_PER_SHOT
   technical_labels: only_if_approved_and_needed
 hybrid:
   motion_authority: blender
@@ -81,6 +85,8 @@ checks:
   - continuous_camera_travel_or_documented_cut
   - no_unapproved_material_claims
   - final_view_readable
+  - typography_and_graphics_legible_if_present
+  - exact_required_text_is_approved_or_placeholder
   - technical_review_recorded
 files:
   camera_plan_svg: conceptual_only
@@ -105,7 +111,7 @@ Do not block safe exploration because an unrelated technical question remains un
 
 ## Agent handoff instruction
 
-"Implement the attached director-approved or explicitly experimental scene contract. Verify source asset/coordinate system and engineering restrictions before assigning transforms. Treat conceptual SVG as spatial explanation, not exact camera path. Preserve product and effect identities, generate a low-cost Blender playblast first, inspect entry/arrivals/transitions/exit and report deviations. Do not generate expensive finishing, alter approved geometry, or decide unresolved graphics/typography taste without authorization."
+"Implement the attached director-approved or explicitly experimental scene contract. Verify source asset/coordinate system and engineering restrictions before assigning transforms. Treat conceptual SVG as spatial explanation, not exact camera path. Preserve product and effect identities, generate a low-cost Blender playblast first, inspect entry/arrivals/transitions/exit and report deviations. Do not generate expensive finishing, alter approved geometry, or invent precise fonts/data-graphics styling/animation parameters as confirmed Rolladice taste. Use the typography evidence module when relevant, while deferring unresolved specifics to director review."
 
 ## QA / critique
 
