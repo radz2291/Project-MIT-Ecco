@@ -40,7 +40,7 @@ A shot can combine territories. No palette is mandatory, and nothing here establ
 
 - **MIT brand assets:** use approved logo/name/signoff and client-permitted fonts/colors when available. Never infer official specifications from a generated still.
 - **Engineering labels, waveforms and data:** depict only sourced meanings, units, conventions and source identities; avoid invented numeric values. Specific graphics belong to storyboard/source review.
-- **Rolladice typography/motion-graphics taste:** **deferred discovery**. This file does not establish those preferences.
+- **Rolladice typography/motion-graphics taste:** typography now has initial evidence-backed preferences in the [Rolladice taste module](../03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md); technical motion-graphics language remains under discovery. **Neither overrides MIT's own brand assets or official type system**. This file does not establish those preferences.
 - **Sound:** motivate effects from the scene's meaning; do not depict cinematic pulses or impacts as instrument-verified measurements. No mandatory sonic-logo recipe yet.
 
 ## ECCO application boundary
