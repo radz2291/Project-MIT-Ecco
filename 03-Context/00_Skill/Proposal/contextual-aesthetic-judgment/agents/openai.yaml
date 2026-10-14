@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contextual Aesthetic Judgment"
+  short_description: "Choose creative treatments with contextual reasoning"
+  default_prompt: "Use $contextual-aesthetic-judgment to compare my creative options and recommend the strongest direction for this audience and purpose, including the trade-offs and justified exceptions."
