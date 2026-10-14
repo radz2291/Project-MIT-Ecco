@@ -7,7 +7,7 @@
 
 Engineering/client technical authority → project/brand constraints → narrative purpose → documented Rolladice taste → shot-specific artistic decisions → execution convenience.
 
-Before making a creative choice, check [Personality](01-ROLLADICE_CREATIVE_PERSONALITY_v0.1.md), [Evidence](02-TASTE_EVIDENCE_REGISTER.md), [Casebook](04-VISUAL_DECISION_CASEBOOK_v0.2.md), [Camera](05-CAMERA_AND_MOTION_LANGUAGE_v0.2.md) and [Look](06-LOOK_LIGHTING_AND_MATERIAL_DIRECTION_v0.2.md). **When text or motion graphics matter**, also consult [Typography & Graphic Integration v0.3](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md).
+Before making a creative choice, check [Personality](01-ROLLADICE_CREATIVE_PERSONALITY_v0.1.md), [Evidence](02-TASTE_EVIDENCE_REGISTER.md), [Casebook](04-VISUAL_DECISION_CASEBOOK_v0.2.md), [Camera](05-CAMERA_AND_MOTION_LANGUAGE_v0.2.md) and [Look](06-LOOK_LIGHTING_AND_MATERIAL_DIRECTION_v0.2.md). **When text or motion graphics matter**, also consult [Typography & Graphic Integration v0.3](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md). For measured, derived, simulated or interpreted on-screen information, use [Engineering Information Direction](09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md) to document provenance and on-screen lifecycle **within this same scene contract** (not another handoff).
 
 ## Minimum deliverable for a proposed shot
 
