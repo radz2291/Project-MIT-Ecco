@@ -130,7 +130,7 @@ Do not silently convert a draft to an accepted design, a preview to finished pro
 
 - **Quick handoff:** one short task paragraph with sources, invariants, deliverable and test.
 - **Focused implementation slice:** use the [execution-slice template](assets/execution-slice.template.md); keep it as small as the real work permits.
-- **Complex multi-step job:** use [source-to-proof](references/source-to-proof.md) for dependency and artifact traceability, and [calibration scenarios](references/calibration-scenarios.md) to check tricky handoffs.
+- **Complex multi-step job:** use [source-to-proof](references/source-to-proof.md) for dependency and artifact traceability, and [calibration scenarios](references/calibration-scenarios.md) to check tricky handoffs. For a concrete illustration of the boundary from Skills 01–04 into an executable fifth-skill task, read the [fictional walking example](references/walking-example.md).
 - **Review-only request:** provide a findings/evidence report without modifying sources.
 - **No external tools available:** provide an executable instruction *for the operator* or explain what cannot be verified. Never assert a file or commit was created when it was not.
 
