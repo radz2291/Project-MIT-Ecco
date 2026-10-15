@@ -1,0 +1,9 @@
+Panel 3 — Borehole geometry through depth (revised)
+
+As ECCO collects measurements at successive depths, the data can be reconstructed into a continuous 3D representation of the actual borehole wall. White indicates nominal drill-bit size; progressively darker blue shows increasing enlargement, while red marks locally undersized or tight regions.
+
+In addition to ordinary enlargement, certain drilling conditions can produce repeating spiral or corkscrew-shaped irregularities along the wall. This illustration shows an example of such wall deformation, with cross-sections demonstrating how the enlarged region changes its position around the circumference as depth changes.
+
+The spiral is part of the measured wall shape—not a rotating ribbon inside the hole. The visual is conceptual and should not be presented as a verified spiral feature from the supplied Mi-VU recording.
+
+Client verification: Confirm with Ahmed whether the sample 3D borehole video specifically demonstrates a spiral hole or general enlargement and irregular geometry.

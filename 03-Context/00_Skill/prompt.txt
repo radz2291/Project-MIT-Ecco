@@ -1,3 +1,26 @@
 I think there a valuable skills that we can extract from this whole project / conversation / session that are agnostic and I can apply to my future project / conversation / session. Can you list them for me
 
 ---
+
+I think there a high valuable skills that we can extract from this whole conversation / session right now that are agnostic and I can apply to my future project / conversation / session. Can you list 5 of them for me
+
+---
+
+Execute this Rolladice Work task from the current repository using its handoff. Read AGENTS.md and the referenced sources first. Check dependencies and required assets, then complete all available work. Update the ticket with progress, outputs and verification evidence, and submit it for my review. If blocked, record the exact missing input or decision.  
+I authorize execution of this task; the wider roadmap remains provisional.
+
+---
+
+Use our **Rolladice AI Director framework** from this repository:
+
+https://github.com/radz2291/Project-MIT-Ecco
+
+Start with `AGENTS.md` and `03-Context/README.md`. Follow the relevant skills, creative personality, taste evidence, engineering constraints and scene-direction workflow.
+
+Act as our AI Director, not just a technical executor. Apply artistic judgment while respecting verified engineering facts and existing decisions.
+
+**My task:** [INSERT TASK HERE]
+
+Investigate the relevant context first, then carry out the task using the established framework. Don't invent approvals or ask me to repeat decisions already documented.
+
+---
