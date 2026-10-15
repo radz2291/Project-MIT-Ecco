@@ -1,6 +1,6 @@
 # MIT / ECCO — Production workspace
 
-Updated: 15 October 2026. Operating conventions authorized by Radzi; technical content, scope and production acceptance retain their recorded status.
+Updated: 16 October 2026. Operating conventions authorized by Radzi; technical content, scope and production acceptance retain their recorded status.
 
 ## Root and ownership
 
@@ -60,11 +60,23 @@ Before submitting any agent task to Review, or ending a blocked/failed run:
 2. Remove only disposable files created by this task when safe; retain useful failed attempts and evidence in a labeled location. Never delete user work to tidy the project.
 3. Verify saved files exist, editable sources open where tools permit, dependencies/relative links resolve, and the preview represents the saved candidate. State checks that could not be performed.
 4. Update relevant manifests/registers with paths, versions, provenance and affected shots. Separate local-only/ignored media from tracked artifacts. Inspect `git status` and the intended diff; do not force-add media or restricted assets.
-5. Save `Records/Tasks/T-<number>/report.md`: stable task ID/number, authority, base and candidate commit (or explicit uncommitted state), input versions, output paths, checks/results, review questions, blockers and next action. Include exact commands and inspectable previews where useful. Do not claim independent verification for self-checks.
-6. Update Rolladice with output references, concise result, checks and limitations. Use relative paths plus machine-local root where needed; do not pretend a local path is a remotely accessible download.
+5. Save `Records/Tasks/T-<number>/report.md`: stable task ID/number, authority, base commit and exact reviewed artifact versions (record uncommitted state only for interrupted/incomplete work), input versions, output paths, checks/results, review questions, blockers and next action. Include exact commands and inspectable previews where useful. Do not claim independent verification for self-checks.
+6. Commit and push the task's permitted tracked outputs under the synchronization rule below. Verify the remote contains the candidate commit. Then update Rolladice with the commit SHA/link, a commit-pinned report link, output references, concise result, checks and limitations. Use relative paths plus machine-local root where needed; do not pretend a local path is a remotely accessible download.
 7. Report a finished run and submit completed work to Review under the connector's lifecycle. Incomplete/blocked work stays visibly incomplete. Only Radzi accepts reviewed work as Done. The organization requirement applies to human tasks' supporting agent work too.
 
-For tracked text/scripts/evidence, make a scoped commit when authorized; push only to the authorized destination. Existing heavy-media exclusions remain in force. Ignored Blender files, previews, caches and renders still need organized local storage and explicit handover/backup status. No client contact or delivery is implied by task completion.
+### Required commit and remote synchronization
+
+Owner authority: Radzi requested automatic task commit/push for online review and confirmed this rule on 16 October 2026. It supersedes the earlier optional "commit when authorized" closure language for authorized task outputs. It does not authorize unrelated changes or publication of excluded/private material.
+
+- Inspect the checkout, remote URL, branch and upstream before Git writes. Use the established authorized destination in `radz2291/Project-MIT-Ecco`; respect branch protections and any task-specific branch instruction. If no destination is established, record that missing input rather than pushing elsewhere.
+- Stage explicit task-owned paths after inspecting the staged diff. Include the review report, implementation scripts, configuration, relevant text/JSON evidence and a small selection of permitted review stills. Exclude credentials, private commercial records, restricted field data and bulk/raw frame sequences. Preserve unrelated staged and unstaged changes; do not absorb them into this task's commit.
+- Make a scoped commit and push normally to the authorized remote/branch. No force-push, destructive reset or branch-protection bypass. If behind upstream, integrate safely without discarding user work; handle routine in-scope conflicts and recheck affected outputs.
+- Verify using a fresh remote read that the exact candidate commit is reachable on the destination branch. A successful local commit or an unverified push command is insufficient.
+- Attach the full candidate SHA and GitHub commit link to Rolladice, plus a report link pinned to that commit. The report describes verified artifact versions/hashes; its own containing commit is recorded in Rolladice to avoid a self-referential commit-hash edit loop.
+- Parallel workers must agree on one integrator for Git mutations in a shared checkout. Workers supply exact owned paths and evidence; the integrator commits/pushes the agreed outputs without sweeping unrelated files. Each worker's task waits for the relevant remote commit before Review. Separate worktrees may use task branches, with integration and review lineage made explicit.
+- On permission/network/push failure or unresolved destination, save local work and record the exact sync blocker in the task report and Rolladice. End or pause the run truthfully according to the connector lifecycle; keep the task visibly incomplete/blocked rather than submitting a falsely synchronized result. Resume synchronization when possible.
+
+Existing heavy-media exclusions remain in force. Blender binaries, MP4s, caches and renders stay organized locally with exact paths/versions and explicit backup/handover status. Remote review of reports/stills does not imply that local media was uploaded or independently inspected. This rule does not require reopening already accepted historical tasks. No client contact or delivery is implied by task completion.
 
 ## Directorial work during development
 
