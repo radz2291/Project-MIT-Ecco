@@ -1,0 +1,4 @@
+Private/
+# Commercial task records remain local by producer instruction.
+*.md
+!README.md

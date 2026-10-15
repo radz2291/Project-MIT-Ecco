@@ -1,0 +1,170 @@
+PAGE 1
+Casing Integrity  |  Wellbore Imaging  |  Cement Evaluation  |  Hole Cleaning
+ECCO® ENP3 imaging tool with hydraulic enhancement
+Non-magnetic ultrasonic imaging with integrated hole-cleaning module
+Overview
+The ECCO® ENP3 from MIT Technologies veriﬁes open-hole geometry, casing
+condition and cement integrity while eliminating additional wireline runs. It
+extends the ECCO platform with a non-magnetic body and a proprietary
+three-stage hydraulic enhancement module that improves borehole cleaning
+and reduces pack-oﬀ risk.
+ENP3 is a Memory While Drilling system
+based on multi-frequency, multi-sensor
+ultrasonic pulse-echo technology. Three
+high-frequency imaging sensors, spaced
+120° apart on a single sensor plane
+located 60 cm above the lower (pin)
+shoulder, record borehole geometry in
+open hole and map cement behind casing
+in cased hole.
+A dedicated mud sensor performs in-situ
+logging of mud acoustic properties,
+providing real-time velocity correction of
+every imaging measurement.
+The tool records independently of
+LWD/MWD in the BHA, in both rotating
+and sliding modes, with optimized
+dynamic resolution at drilling speeds up
+to 180 RPM and selective command
+during tripping without rotation.
+The hydraulic module — accelerator,
+twisted-pad and diﬀuser stages —
+conditions the annular ﬂow around the
+tool, keeping cuttings in suspension and
+eliminating the low-pressure wake zone
+where pack-oﬀ typically initiates.
+Left: ENP3 general arrangement (not to scale). Overall
+length 225 cm; imaging sensor plane 60 cm from pin
+shoulder.
+BENEFITS
+TECHNICAL BROCHURE
+ECCO® ENP3
+225 cm
+60 cm
+4D continuous ultrasonic open-
+hole geometry mapping.
+♦
+Eliminates expensive wireline,
+LWD & caliper runs; reduces rig
+time and operational exposure.
+♦
+Cement evaluation, casing
+inspection and borehole imaging
+in one run.
+♦
+Identiﬁes Top of Cement (TOC)
+and cement bond behind casing
+with 360° imaging, plus casing
+condition assessment.
+♦
+Records in both rotating and
+sliding modes.
+♦
+In-situ mud property logging and
+acoustic velocity correction.
+♦
+Improves hole cleaning under
+rotation, tripping or circulation —
+each acting independently.
+♦
+Reduces pack-oﬀ risk by
+eliminating the low-pressure
+wake zone.
+♦
+Non-magnetic body for BHA
+placement near directional
+sensors.
+♦
+Improves liner hanger placement
+conﬁdence in highly deviated
+wells.
+♦
+PAGE 2
+Hydraulic Enhancement Module
+The ENP3 proprietary hydraulic module is built as three sequential stages that optimize the annular mud pressure and ﬂow
+proﬁle around the tool, improving cuttings transport and reducing pack-oﬀ risk.
+STAGE 1
+Hydraulic accelerators
+Three pads accelerate the annular ﬂow
+entering the module, raising local
+velocity to lift and transport cuttings.
+STAGE 2
+Twisted pads
+Two sets of twisted pads generate
+optimized mud jetting and controlled
+turbulence, preventing cuttings beds
+from settling.
+STAGE 3
+Diﬀuser
+Recovers ﬂow pressure and eliminates
+the low-pressure wake zone behind
+the pads — the primary initiation point
+for pack-oﬀ.
+Independent hole-cleaning action
+Each operating condition activates the module on its own — hole cleaning does not depend on rotation and circulation
+occurring together.
+Operation Hole-cleaning mechanism
+Rotation only Twisted pads act as an impeller, imparting tangential and axial momentum to the mud and agitating cuttings
+beds on the low side.
+Tripping only Axial movement drives mud across the twisted pads, which act as a turbine and educt the surrounding mud
+— no rotation or circulation required.
+Circulation only Annular ﬂow is accelerated, jetted and diﬀused through the three stages with no string rotation, maintaining
+cuttings transport while sliding.
+Combined Eﬀects are additive under any combination of rotation, tripping and circulation.
+Imaging & sensing
+3 ultrasonic pulse-echo imaging sensors at 120° on one
+sensor stage
+Sensor plane 60 cm from lower (pin) shoulder
+Integrated mud sensor for in-situ mud property logging
+Multi-sensor string eccentricity compensation
+Application-speciﬁc multi-frequency tuning
+Applications
+Open-hole geometry: enlargement, reduction and
+asymmetry
+Cement mapping and TOC behind casing
+Casing inspection
+Pre-liner hole assessment in highly deviated wells
+Recording in rotating and sliding modes
+ECCO family
+Model Material Body / pad conﬁguration
+ENP1 Alloy Open-wrap 30° twisted blades, 4 pads
+ENP2 Non-mag Slick body
+ENP3 Non-mag Three-stage hydraulic enhancement module + mud sensor
+TECHNICAL BROCHURE
+ECCO® ENP3
+MIT Technologies — ECCO® ENP3 www.mit-technologies.com
+PAGE 3
+Dimensions and Specifications
+Model ENP 3
+Material Non Mag
+Maximum OD 12 in (at central pads)
+Fishing Neck OD 8.25 in
+Minimum ID 2.25 in
+Overall length (1) 2.25 m
+Over pull (max) 1,000,000 lbs
+Tensile load (max) 1,000,000 lbs
+Tensile torque 200,000 ft-lbs
+Pressure Hydrostatic (max) 20,000 psi
+Temperature (max) (2) 150 Deg C / 300 Deg F
+Vibration 20 G
+Minimum Casing Internal Diameter 12.3 in
+Borehole Fluid Density Up to 14 ppg
+Borehole Fluid Type WBM/OBM/SBM
+Acquisition modes Rotating and sliding
+Imaging sensors 3 × ultrasonic pulse-echo, 120° apart, one stage
+Sensor plane position 60 cm from lower (pin) shoulder
+Mud sensor In-situ mud property logging
+Azimuthal sampling 108 bins per revolution (360° imaging)
+ECCO Top Conn. 6-5/8” F.H. Box
+ECCO Bottom Conn. 6-5/8” F.H. Pin
+Make-up Torque (3) 37,000 ft-lbs
+Cross-over (4) 6-5/8” Regular
+[1] Actual tool length could be slightly different.
+[2] Max. temperature is bound by battery rating up to 150 degC max.
+[3] Make-up torque for new tool. Torque to be reduced based on connection wear as per API guideline.
+[4] Cross-over can be provided upon request. Cross-over to any thread type can be arranged, providing sufficient notice.
+SPECIFICATION SHEET
+DimensionsRatingsSensorsConnection
+MIT Technologies
+HIVE 10, MRANTI Park, Bukit Jalil, 57000 KL, Malaysia
+ecco@mit-technologies.com  |  www.mit-technologies.com

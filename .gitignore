@@ -33,3 +33,6 @@ __pycache__/
 04-Production/**/Cache/
 04-Production/**/Caches/
 04-Production/Scratch/
+
+# Private task-system snapshots; retain locally as execution evidence.
+04-Production/Records/Tasks/**/Evidence/live-input*.json

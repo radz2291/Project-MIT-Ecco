@@ -23,23 +23,23 @@ The product and its real behavior take priority. Our internal visual identity su
 
 ## A1 — Commercial and scope lock
 
-The accepted quotation is the commercial authority. Its acceptance is established by the producer's report; its exact frozen content has not been imported into this repository.
+The accepted quotation is the commercial authority. Radzi identifies **QTE-MIT-003** and deposit **INV-MIT-003** as final on 15 October 2026 and instructs that other duplicates be ignored. Verified copies are saved in controlled local T-001 records; see [execution report](../../04-Production/Records/Tasks/T-001/README.md). The final quote fixes **90 seconds**, seven sequences and AI-Hybrid; section timing remains provisional. This supersedes earlier unverified commercial assumptions below where stated.
 
 | Field | Current record |
 |---|---|
-| Quote reference discussed | QTE-MIT-001; reconcile with the actual accepted version |
-| Accepted total | Not verified in this package |
-| Main duration | Working storyboard: 90 seconds; accepted quote overrides if different |
-| Rendering allocation | Basic vs AI-hybrid allocation per sequence not yet verified against accepted quote |
-| Additional versions / cutdowns | Not confirmed |
+| Quote reference discussed | Final QTE-MIT-003; deposit INV-MIT-003. Duplicates excluded by Radzi. |
+| Accepted total | Verified from final PDF; amount retained in controlled T-001 report. |
+| Main duration | Confirmed quotation duration: 90 seconds; seven sequences. |
+| Rendering allocation | AI-Hybrid, 90 seconds; five priced key sequences. Per-section implementation remains production planning. |
+| Additional versions / cutdowns | Compressed MP4 versions for WhatsApp and website included; shorter edits not specified. |
 | Resolution, aspect ratio, frame rate, codec | Delivery settings not confirmed; 16:9 belongs to the sample, not a verified delivery agreement |
 | Voiceover, language and captions | Not confirmed |
-| Included revisions | Earlier planning discussed two consolidated rounds; not imported as an accepted term |
-| Payment milestones / deposit | Earlier 50/50 default discussed; accepted terms and payment receipt not verified |
+| Included revisions | Two consolidated revision rounds, one collected feedback set per round (final quote §3). |
+| Payment milestones / deposit | Recorded in controlled local T-001 records; excluded from public Git. |
 | Production / review / final deadlines | Not confirmed |
-| Editable project and source-asset delivery | Not confirmed |
+| Editable project and source-asset delivery | Blender `.blend` files with necessary supporting assets for archival explicitly included. |
 
-Archive a dated, immutable export or agreed written summary of the accepted quote. A live calculator alone may not preserve what was accepted. Keep commercially sensitive records in the producer's controlled project records and register their location/version here as appropriate.
+Final producer-designated PDFs are copied byte-identically to controlled local T-001 records with hashes; originals remain unchanged. No Git publication or backup is implied. Keep commercial records controlled; a calculator does not supersede these final files.
 
 The earlier RM20,000 ceiling and roughly two-week production estimate were planning assumptions. They are not the accepted amount or a promised schedule.
 

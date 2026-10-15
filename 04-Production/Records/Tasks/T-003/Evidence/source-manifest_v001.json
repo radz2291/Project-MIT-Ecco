@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-15",
+  "base_commit": "c35e5174aa47e60e0d5204e1e2a87071185968df",
+  "note": "Hashes identify inspected local source versions including existing uncommitted context edits. SVG paths enumerated for coverage only; image contents not visually inspected or reproduced. Datasheet facts attributed through canonical baseline; PDF not independently re-audited in A03.",
+  "sources": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "4173e8600ea1e5e28c7c97be2c80fcb07d14b0e1c8c4ac525fdbb55a5c645ef0"
+    },
+    {
+      "path": "04-Production/README.md",
+      "sha256": "d3d4916478d2059bcb7b38fa1a5a6825f276a47e5b9a2f052998dceb93495960"
+    },
+    {
+      "path": "03-Context/README.md",
+      "sha256": "2864a1a2740945cff101c747618b72be1e77015b99c049634732f883bd06f038"
+    },
+    {
+      "path": "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "sha256": "d5cbdf229f14dc72b50775b621820b1b7b312bd7cb3f12c00b9d9b042af2bf4c"
+    },
+    {
+      "path": "03-Context/01_Foundation/04-STORYBOARD_AND_SHOT_PLAN.md",
+      "sha256": "ff2cb72ea3d2c44f46922767940f8672ac397c9fbb246eb858e678501427caf6"
+    },
+    {
+      "path": "03-Context/01_Foundation/05-PRODUCTION_WORKFLOW.md",
+      "sha256": "f2e743ecd45112a99110f0210987757a025769ff53d540d216f254614c65a34f"
+    },
+    {
+      "path": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "sha256": "f34eb2ac6660cce603f282e51cbd46e860d6173263b9c22b172426d86698c402"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/README.md",
+      "sha256": "6dcca45a5e0905d131eded07f54dbe872e06e7d20b8f6217db115288607ee3ee"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/05-CAMERA_AND_MOTION_LANGUAGE_v0.2.md",
+      "sha256": "371d15cf923bfe99beea41c4e19167bf588b524cc712122840f2834ab90cd7c1"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md",
+      "sha256": "e1addae4ed469993c08517034c5680eb1f383a369dc82ba01da0c1f092b79df7"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md",
+      "sha256": "05c6f949c066165e953a28bc5723869a35524f7992bda0650fa849ee990126ec"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md",
+      "sha256": "a5df56392cf323a6a9b0c3897a2d1b9e93ea2d1fca507b47d88a0245617a2920"
+    },
+    {
+      "path": "03-Context/00_Skill/rolladice-scene-director/SKILL.md",
+      "sha256": "8b46ebc035572f8fa0deacaab264d62eb16e250c150082df6cb04123a0aa7ece"
+    },
+    {
+      "path": "01-Brief/Chat/chat.md",
+      "sha256": "440c060ca5627d61088a8bd4fdb6f7d0e4cace8960c47944984c1a5138d372fb"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/studies/2026-10-14_S02_motion_graphics_test_01/README.md",
+      "sha256": "c3dc816949220fdf1a5cd40a7aa6c81e8beef0d463a6935bd24a1c4352c9df88"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-001/scope-summary_v002.md",
+      "sha256": "0bec93d51cc98a0b2d53911f9b313f47c670c939d1f91851c3a3fb3842e54b51"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_01_Enter_Unseen_World_Padlet/PADLET_CAPTIONS.txt",
+      "sha256": "683f82f09fc8a633e793520a79da26d896e6582ec11ed7a353daae203d7e10e1"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/PADLET_SECTION_02_V2.md",
+      "sha256": "dea5afcc6b2b4491fb0ea93deab1641feece45bd90edf323db2e655a4838ff71"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/PADLET_SECTION_03_V2.md",
+      "sha256": "50404ef41be1f9276324b3d49708c92374eff04b972b4ff82583f3e7ae838b32"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/PADLET_SECTION_04_V2.md",
+      "sha256": "ad5aabcd7b5b7d5513409cc0a9dfa93900e20fe761b7b145c9d5cef8b347e497"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/PADLET_CAPTIONS.txt",
+      "sha256": "a3e1e781d6e62cb4493df317fffd712e3867e4716f07d3df6aa9b34cb1ab6f2c"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/PADLET_SECTION_06_V2.md",
+      "sha256": "5c93a1bbb43a82fda29b3fe35f3fa00b442bbd9f861a6d8218ab3dd86ed563e8"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_07_Product_Hero_Padlet/PADLET_CAPTIONS.txt",
+      "sha256": "242b0cba713bf9b627416e8651ab20eb1e81eabbecf92cdce630e8e480a94a8c"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/03_Borehole_Geometry_Through_Depth_Revised_CAPTION.txt",
+      "sha256": "ffc25254d3a2ebb0570125df48e9b0b22f36c96e022d809dff1ebbcde8045188"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/CLIENT_FEEDBACK_REGISTER.md",
+      "sha256": "5cbfea34aa8388f462cfe049a891e89c0838204f11d8558ac6953e675f1c4a14"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/MASTER_CLIENT_FEEDBACK_REGISTER.md",
+      "sha256": "f650bbafeddca6a03df402353e8457ec55bf74b309f57664979a9fef9b4ab971"
+    },
+    {
+      "path": "04-Production/Records/asset-manifest_v001.md",
+      "sha256": "978746a4df125922db1fca975992feb68698cd4e9b0dc6dd03984c7b2898cd4b"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\01-ECCO_First_Ping-Test\\01-Blender\\Source_Imported_ecco.blend",
+  "blender": "5.2.2 LTS",
+  "units": {
+    "system": "METRIC",
+    "scale_length": 1.0,
+    "length_unit": "MILLIMETERS"
+  },
+  "frames": [
+    1,
+    250
+  ],
+  "fps": 24.0,
+  "camera": null,
+  "objects": [
+    {
+      "name": "PZ12-8301 Main Housing ENP3 A Modified TFA 5 Ready TC",
+      "type": "MESH",
+      "dimensions": [
+        2.4000000953674316,
+        0.30260878801345825,
+        0.30373769998550415
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.0010000000474974513,
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "bounds_world": [
+        [
+          0.0,
+          -0.15239855647087097,
+          -0.15133929252624512
+        ],
+        [
+          2.4000000953674316,
+          0.15021024644374847,
+          0.15239837765693665
+        ]
+      ],
+      "vertices": 348876,
+      "parent": null,
+      "custom_properties": {
+        "source_step": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+        "mesh_tolerance_mm": "0.01"
+      },
+      "animated": false,
+      "modifiers": []
+    }
+  ],
+  "images": [],
+  "libraries": []
+}

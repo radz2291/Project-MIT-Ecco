@@ -1,0 +1,267 @@
+[
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\ECCO_ENP3_Datasheet-1.pdf",
+    "bytes": 312797,
+    "sha256": "7b2d3793d74b08d9baf28b0c7ffffdb067321339964ac0e2149b2459c81bbe82"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\images.jpg",
+    "bytes": 49532,
+    "sha256": "5d52baa3d98bdec5dbc260b0283e31f2c3983e690d223e373ac930722276dbc1"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Links.txt",
+    "bytes": 848,
+    "sha256": "b2188b36f366119fc8db88574c6c9dac4d9a5e5103d53a9547f624627b9fa165"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\MIVU_BoreholeLog_Report_Client[PCSB]_Well[LipanBara]_ToolType[ENP1]_SN[WO-ALX-1308-A]_2026_09_27_20_08_54.pdf",
+    "bytes": 11075517,
+    "sha256": "757d16ad87a403820859b17573e965fa12ca0accad49d8ff02925bd41465e7c9"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Chat\\chat.md",
+    "bytes": 15205,
+    "sha256": "440c060ca5627d61088a8bd4fdb6f7d0e4cace8960c47944984c1a5138d372fb"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Chat\\chat.txt",
+    "bytes": 15006,
+    "sha256": "15178de1693db1d33e5bdd2b5ec6e76774f3ec35ffff2ae282945ecc541da05c"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.41.03 PM.jpeg",
+    "bytes": 1096568,
+    "sha256": "076aa92e035df2ac133b75642e454b5a53169e8c23a6e50c0f0ebc47ebd8c5c2"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.13 PM.jpeg",
+    "bytes": 67740,
+    "sha256": "9dbdcb0010bd90204d4fe97a081b3828841fdcfb4dfc16e3573bcfe9d3b5da97"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.16 PM (1).jpeg",
+    "bytes": 82426,
+    "sha256": "9bc3dece1627b1b386d571898e9baa60c86da01e7567b7eb909b197b1d8d5705"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.16 PM.jpeg",
+    "bytes": 62473,
+    "sha256": "c8d142cca47d9056e77557c1f69fc46c68ee302cf8ad302ca593e1153eb8284c"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.17 PM.jpeg",
+    "bytes": 78727,
+    "sha256": "76ea4cc4fa03d83682794c7ebbe49617b29525dedae2ff2bc5137ef64ee460db"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.18 PM.jpeg",
+    "bytes": 779935,
+    "sha256": "2fc66b0643f8f9740e05e42dffb2ea5049b0af50078fd718b7300a6a542d6d1c"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.20 PM.jpeg",
+    "bytes": 776182,
+    "sha256": "f7c9cb6724c8bb29c366ab5515857d90fbc65291979a8e710e862ad287b6a726"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.21 PM.jpeg",
+    "bytes": 56484,
+    "sha256": "b2280e700fc06cd68b1984f5795b9dfe6e722409238dadec9f839b36278e9c9f"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.22 PM (1).jpeg",
+    "bytes": 56693,
+    "sha256": "58d514879d68899b5d3232c04549fe36e38d8c745eb86163468a8d061a297aad"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.22 PM (2).jpeg",
+    "bytes": 62650,
+    "sha256": "4a405baa7febf89c547b676c5ad92cd5946bb4f8fc4bdc02b6117ed2041103c2"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.22 PM.jpeg",
+    "bytes": 56975,
+    "sha256": "fd0554a48a6c47cd19911c5913f24c68b4bdda21078337ed535fa417d9bbbace"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.23 PM (1).jpeg",
+    "bytes": 53902,
+    "sha256": "98a382de2aa1a894d937015f9d667edd322f0a9a50b4c6d0a784f0e1f261af9a"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.23 PM.jpeg",
+    "bytes": 57833,
+    "sha256": "c3f0fd0b0c119309d789c7cf07ccefece42477312b0c386d7841f7fd8057c59c"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.24 PM (1).jpeg",
+    "bytes": 58516,
+    "sha256": "6747a4afc44b01dff70aa28f507ee971ac8d324632268e5b11b798a293f1856f"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.24 PM (2).jpeg",
+    "bytes": 58356,
+    "sha256": "9d795fbe423ea3ccbb7dc0c117310f410aaa3937c8f31f67c4223b6337f5fb0a"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.24 PM (3).jpeg",
+    "bytes": 50082,
+    "sha256": "0cbcb55469b37c6b3f006e8d0d2762d31c05ebc82179de777cec0f43f5d7b47e"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.24 PM.jpeg",
+    "bytes": 55480,
+    "sha256": "d49642f94b003b58b989e5bb574f6014e5e8af12bb73fdac7eef36f2569c45dc"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.25 PM (1).jpeg",
+    "bytes": 59890,
+    "sha256": "be2dee88cead20ea69d0483cffad447298356eab71401ccac4f4f7df842919ac"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.25 PM (2).jpeg",
+    "bytes": 54466,
+    "sha256": "608bfa2a444c5a50ff8f0ba12a121bf839d8a5209105a0da11873a1c2191d8f3"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.25 PM.jpeg",
+    "bytes": 49238,
+    "sha256": "9685cffa148d720573e5729c6d85851edd21f67f6165df66d010f8af3f45b63a"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.26 PM (1).jpeg",
+    "bytes": 51112,
+    "sha256": "ce8a9600c139dbfc0d984c462a657af730e73aae26e56c9c5a2da36273a8acd3"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.26 PM (2).jpeg",
+    "bytes": 47914,
+    "sha256": "4178ec24052b8ab89604a89f8c5aa263ee7d252365484c65f84edb7f163900ba"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Image\\WhatsApp Image 2026-10-07 at 8.44.26 PM.jpeg",
+    "bytes": 52630,
+    "sha256": "c9cae5c2ed22fe31b06becb02bed9fa79283f8c5eb73d6dbc67ecc932e1a797c"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Video\\WhatsApp Video 2026-10-07 at 8.42.03 PM.mp4",
+    "bytes": 2882641,
+    "sha256": "458d24886eae237c918dc717096c04972566ead7e51b5d426470de3daf2a738e"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Video\\WhatsApp Video 2026-10-07 at 8.44.21 PM.mp4",
+    "bytes": 2028526,
+    "sha256": "7323b277ba69dff17c3a68032eea59819ae9d6262ce584b6928ae9089b8bd21c"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Video\\WhatsApp Video 2026-10-07 at 9.01.51 PM (1).mp4",
+    "bytes": 6566190,
+    "sha256": "2a5a6b326ffd309bf9556279636b3ab35d3f95eae7384c4ab01de753e0930a45"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Video\\WhatsApp Video 2026-10-07 at 9.01.51 PM.mp4",
+    "bytes": 5674171,
+    "sha256": "6d8775b8b45f3fd738f71a74330dc0995fb3dea24516034536a7e8b2448ae2eb"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Images 10.png",
+    "bytes": 2658402,
+    "sha256": "2f4cee12c41da20f7ea208c0c89539a70d84a9ba72eaf6715e9fff150befe5a7"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Images 6.png",
+    "bytes": 2040643,
+    "sha256": "6a6d76a86e9a4d23fd94fc632a426c66cb9a3838f211698181464c7673260e37"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Images 7.png",
+    "bytes": 2423794,
+    "sha256": "45a560861a675d5f2374179e307423a8bbed6c7ddd457ed3d28abf11efeb8d4a"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\LinkedIn - Tarek Khattab - Drilling Performance South America (720p).mp4",
+    "bytes": 2078850,
+    "sha256": "0faef45e3c7d5187f65e30250d488647008b9f88bf237f45df3a66a7ac8da1b0"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\SLB - i-DRILL (720p).mp4",
+    "bytes": 40958705,
+    "sha256": "c97d15586f17dcde4ef2b58f67faa22d2eba5f38e22b2433c73fcfcd9129a73c"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\client\\WhatsApp Video 2026-10-08 at 2.47.51 PM.mp4",
+    "bytes": 12068319,
+    "sha256": "6d367349c6accebed00e3f1c9b4f696a603ccd848c849e8ccacbdc726d0fe0f9"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Generated\\Cyan Sonar Drill Tool in Borehole.png",
+    "bytes": 2605724,
+    "sha256": "121b844100cdfcd600311cc13e3f914abc9b4433ae14144edada8ecb6bfcce03"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Generated\\Futuristic Downhole Tool Scanning Rock Layers.png",
+    "bytes": 2515848,
+    "sha256": "17f6fcca9dbafe20fab4f6abea4a269ac25dbc7453434ec781fe3501942deba4"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Generated\\Ultrasonic Pulse in the Borehole.png",
+    "bytes": 2274818,
+    "sha256": "db0b8f832af6f4bb3377231a396543f7575efbbf986e50d51a43dcb6d63e3bdd"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\A_Surface_0-2p125.mp4",
+    "bytes": 669784,
+    "sha256": "a9115d8fde286dd840137cc9005e4bcb2443b3308dd0fb91da27eadd7bd29e09"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50.mp4",
+    "bytes": 583969,
+    "sha256": "4403a9e4d0b39e54814aea8642ca2a6000977cae5c53d4ae4f4d971d3c556d33"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50_2min.mp4",
+    "bytes": 1030073,
+    "sha256": "f0651a5eedc660c3b02897cd9ee422a5d72cf5801af3e208cf4d3c08cfc64d86"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50_clay.mp4",
+    "bytes": 166728,
+    "sha256": "4597ca06cc4d89880feb8bb259a8bc28a8767c700dcf1e53f7d42e40718f3c1a"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50_clay_2.mp4",
+    "bytes": 518469,
+    "sha256": "1574e96d396345b62efa5ae8e2db9716190617de79301b26fdfbebe63a55153a"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50_clay_3.mp4",
+    "bytes": 650915,
+    "sha256": "24710bf1a90755ea055df10ccedd5d34730db2ed59d0f7d55ddfae73af164e99"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50_clay_4.mp4",
+    "bytes": 1887488,
+    "sha256": "0d6c35b9383c37541c02f5db6d80d02a8797cba83d02d4a2ac95c748fc3bf66c"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\C_Geology_3p50-5p75.mp4",
+    "bytes": 1142400,
+    "sha256": "8830499eee95dc3cd6291cbb83a8ebd6ee23ab08e208f5a40980981c2ae0f425"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\D_Tool_5p75-8p00.mp4",
+    "bytes": 1463748,
+    "sha256": "b9281abda4c196823fd9d7f29b57d6ce708166cbc1dcbca68e1b5aa648aa4fa1"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+    "bytes": 4606150,
+    "sha256": "ded44633fcdd5161f117f59c157c27c6213bae55d8ce8616f432d84b32e24cde"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\README.md",
+    "bytes": 671,
+    "sha256": "d937682d4a63fc1e87a94cd0d0bd0f41d045c2c414ec570e2f70f5cd9450df13"
+  }
+]

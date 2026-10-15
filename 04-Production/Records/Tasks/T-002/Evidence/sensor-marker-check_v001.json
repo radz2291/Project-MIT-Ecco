@@ -1,0 +1,23 @@
+{
+  "angles_degrees": [
+    41.99999867366345,
+    161.99999980684456,
+    282.00000079603734
+  ],
+  "spacing_degrees": [
+    120.00000113318112,
+    120.00000098919278,
+    119.9999978776261
+  ],
+  "z_values": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "radius_m": [
+    0.13119999567496377,
+    0.13119999074325975,
+    0.13120000786104405
+  ],
+  "note": "Scene markers, not independent proof of physical transducer location or shoulder datum."
+}

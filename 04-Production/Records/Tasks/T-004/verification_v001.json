@@ -1,0 +1,208 @@
+﻿{
+    "checkedAtUtc":  "2026-10-15T11:09:26.7634571Z",
+    "kind":  "A04 records self-check",
+    "root":  "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco",
+    "links":  [
+                  {
+                      "document":  "04-Production\\Records\\preview-settings_v001.md",
+                      "target":  "../../03-Context/01_Foundation/04-STORYBOARD_AND_SHOT_PLAN.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\preview-settings_v001.md",
+                      "target":  "Tasks/T-004/conventions-audit_v001.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\preview-settings_v001.md",
+                      "target":  "Tasks/T-004/first-execution-handoff_v001.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\conventions-audit_v001.md",
+                      "target":  "../../preview-settings_v001.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\conventions-audit_v001.md",
+                      "target":  "../../../../03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\first-execution-handoff_v001.md",
+                      "target":  "../../../Shared/Assets/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\first-execution-handoff_v001.md",
+                      "target":  "../T-002/Evidence/source-imported_v001.json",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\first-execution-handoff_v001.md",
+                      "target":  "../../../../03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\first-execution-handoff_v001.md",
+                      "target":  "../../../../03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\first-execution-handoff_v001.md",
+                      "target":  "../../../../03-Context/01_Foundation/05-PRODUCTION_WORKFLOW.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\first-execution-handoff_v001.md",
+                      "target":  "../../../README.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\first-execution-handoff_v001.md",
+                      "target":  "../../preview-settings_v001.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\first-execution-handoff_v001.md",
+                      "target":  "verification_v001.json",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\report.md",
+                      "target":  "../../preview-settings_v001.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\report.md",
+                      "target":  "../../preview-settings_v001.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\report.md",
+                      "target":  "conventions-audit_v001.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\report.md",
+                      "target":  "first-execution-handoff_v001.md",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\report.md",
+                      "target":  "verification_v001.json",
+                      "exists":  true
+                  },
+                  {
+                      "document":  "04-Production\\Records\\Tasks\\T-004\\report.md",
+                      "target":  "verify_records_v001.ps1",
+                      "exists":  true
+                  }
+              ],
+    "sectionFrames":  [
+                          {
+                              "section":  "S01",
+                              "start":  1,
+                              "end":  240,
+                              "frames":  240
+                          },
+                          {
+                              "section":  "S02",
+                              "start":  241,
+                              "end":  528,
+                              "frames":  288
+                          },
+                          {
+                              "section":  "S03",
+                              "start":  529,
+                              "end":  960,
+                              "frames":  432
+                          },
+                          {
+                              "section":  "S04",
+                              "start":  961,
+                              "end":  1392,
+                              "frames":  432
+                          },
+                          {
+                              "section":  "S05",
+                              "start":  1393,
+                              "end":  1680,
+                              "frames":  288
+                          },
+                          {
+                              "section":  "S06",
+                              "start":  1681,
+                              "end":  1968,
+                              "frames":  288
+                          },
+                          {
+                              "section":  "S07",
+                              "start":  1969,
+                              "end":  2160,
+                              "frames":  192
+                          }
+                      ],
+    "totalFrames":  2160,
+    "fpsProposed":  24,
+    "durationSeconds":  90,
+    "sources":  [
+                    {
+                        "path":  "AGENTS.md",
+                        "bytes":  3622,
+                        "sha256":  "4173E8600EA1E5E28C7C97BE2C80FCB07D14B0E1C8C4AC525FDBB55A5C645EF0"
+                    },
+                    {
+                        "path":  "04-Production/README.md",
+                        "bytes":  9756,
+                        "sha256":  "D3D4916478D2059BCB7B38FA1A5A6825F276A47E5B9A2F052998DCEB93495960"
+                    },
+                    {
+                        "path":  "03-Context/README.md",
+                        "bytes":  5170,
+                        "sha256":  "2864A1A2740945CFF101C747618B72BE1E77015B99C049634732F883BD06F038"
+                    },
+                    {
+                        "path":  "03-Context/01_Foundation/01-PHASE_A_PRODUCTION_BRIEF.md",
+                        "bytes":  8384,
+                        "sha256":  "509046A0F1FDA22D96A12FF7BDDD1726BC97ACEE1AEEBC146CD46EE7B1F009A7"
+                    },
+                    {
+                        "path":  "03-Context/01_Foundation/04-STORYBOARD_AND_SHOT_PLAN.md",
+                        "bytes":  4985,
+                        "sha256":  "FF2CB72EA3D2C44F46922767940F8672AC397C9FBB246EB858E678501427CAF6"
+                    },
+                    {
+                        "path":  "03-Context/01_Foundation/05-PRODUCTION_WORKFLOW.md",
+                        "bytes":  10645,
+                        "sha256":  "7FA74B0EA57F6E2CA3A98696E8ADF4E12C4D597D21D3AAAE4FB385E52278BA52"
+                    },
+                    {
+                        "path":  "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+                        "bytes":  11841,
+                        "sha256":  "D826E043952198EAAF7FC0291DD36CC574B19867E6940ED727F7419888417720"
+                    },
+                    {
+                        "path":  "04-Production/Records/Tasks/T-002/Evidence/source-imported_v001.json",
+                        "bytes":  1401,
+                        "sha256":  "693E97B7BD0A4DD4A5E46367D3D1AD2A60E03BDE9E92882D5C2B64ED5BE643B0"
+                    },
+                    {
+                        "path":  "04-Production/Shared/Assets/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+                        "bytes":  4606150,
+                        "sha256":  "DED44633FCDD5161F117F59C157C27C6213BAE55D8CE8616F432D84B32E24CDE"
+                    }
+                ],
+    "externalCandidate":  {
+                              "path":  "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\01-ECCO_First_Ping-Test\\01-Blender\\Source_Imported_ecco.blend",
+                              "exists":  true,
+                              "sha256":  "E2EB5796482A12F8A78DB011E1A1BEA2717E7A023DD6BC62DAA9D8C8DFC841A5"
+                          },
+    "limitations":  [
+                        "No scene opened or modified",
+                        "No render/playblast produced or visually verified",
+                        "External candidate is not an approved master",
+                        "A02/A03 outputs may change concurrently",
+                        "Final delivery settings unconfirmed"
+                    ]
+}

@@ -10,7 +10,7 @@
 | ENP3 technical brochure and specification | [Datasheet](../../01-Brief/ECCO_ENP3_Datasheet-1.pdf), pages 1–3 | Model-specific published dimensions and operating descriptions; not independent performance validation |
 | Mr. Ahmed's explanation | [7 October chat](../../01-Brief/Chat/chat.md), especially 8:51–10:02 PM | Intended technical explanation, five applications and narrative; examples require ENP3 compatibility checks |
 | Product photos | [Client images](../../01-Brief/Image/) | Visual reference; match image/version to actual ENP3 asset before relying on it |
-| Approved CAD | Location/version pending | Geometry authority once registered and technically checked |
+| Registered CAD candidate | [A02 asset manifest](../../04-Production/Records/asset-manifest_v001.md), A02-01/02 | Local NX STEP and preserved imported mesh inspected 15 October; latest revision, dimensional datum and technical acceptance remain O04. Registration is not approval. |
 | Generated artwork and four-second sample | [Reference folder](../../02-Reference/); sample location pending | Creative/workflow evidence; not validated anatomy or acoustic simulation |
 
 The facts below are attributed to MIT's supplied materials. They do not establish that the sample has accurately depicted them.
@@ -72,7 +72,7 @@ It describes independent hole-cleaning action from **rotation only**, **tripping
 
 **Data identity:** the earlier Mi-VU report was identified as an **ENP1** test. Verify the source itself, permissions and permitted labeling before using it; never relabel it as ENP3 output.
 
-**Asset edits:** presentation plugs, cores or end closures made for visual cleanup must be identified and reviewed. The current repository does not contain the registered production CAD or `.blend` files.
+**Asset edits:** presentation plugs, cores or end closures made for visual cleanup must be identified and reviewed. [A02](../../04-Production/Records/Tasks/T-002/report.md) registers a local ignored STEP in Shared/Assets and earlier saved Blender candidates outside this checkout. The preserved imported mesh measures 2.400 m overall versus the brochure's nominal 2.25 m; do not automatically rescale it. Three First Ping markers have a common plane and 120° spacing, with inherited annotated-recess evidence; the shoulder datum, mud sensor, internal transducers and added faces/plugs/covers remain unvalidated. No approved production master is declared.
 
 ## Technical preview checklist
 

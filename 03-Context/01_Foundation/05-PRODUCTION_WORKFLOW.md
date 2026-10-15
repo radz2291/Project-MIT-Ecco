@@ -35,20 +35,20 @@ Build the minimum editable 3D structure that makes the visual event unambiguous.
 
 ## Current asset map
 
-The repository presently contains the client chat, ENP3 PDF and still images. It does not contain the registered production CAD, Blender shot files, motion references, selected generated videos or accepted quote export. The repository **does contain V1/V2 storyboard panel assets and V2 notes**; no synchronized live Padlet snapshot or approvals have been verified. The producer reports that a product model and sample animation exist locally; their locations and versions remain to be registered.
+The [A02 asset manifest](../../04-Production/Records/asset-manifest_v001.md) owns the inspected asset inventory as of 15 October 2026. The actual local checkout contains the client chat, ENP3 PDF, photos/videos, original ENP1 log, prior motion-reference MP4s and a Git-ignored STEP in Shared/Assets. Earlier saved Blender candidates were located and inspected in the previous local projects; no approved production master or selected final AI video is declared. Governing commercial PDFs are registered in T-001. V1/V2 storyboard presence still does not establish a synchronized live Padlet or technical approval.
 
 | Asset group | Present record | Needed before use |
 |---|---|---|
-| ECCO ENP3 | Photos/PDF in `01-Brief`; local model reported | Actual CAD source/version, units, imported geometry, approved modifications and sensor plane |
+| ECCO ENP3 | STEP and earlier imported mesh registered by A02; photos/PDF in `01-Brief` | B101 technical reconciliation: 2.400 m mesh vs nominal 2.25 m, datum, latest revision, mud sensor and presentation additions |
 | Rig, earth and drill assembly | Narrative planned | Local file paths, scale and deployment scenario |
 | Open-hole / casing / cement | Technical concepts sourced | Compatible dimensions, approved scenario and reusable variants |
-| Sensing / reveal / background | Four-second test reported | Exact `.blend`, playblast and selected final-anchor/video versions |
+| Sensing / reveal / background | Earlier 7 s First Ping and 4 s transformation scenes/media registered by A02 | Approved reuse and technical/creative reconciliation; selected final AI outputs not established |
 | Hydraulic flow / cuttings | Datasheet describes stages | Faithful pads and selected operating mode; editable illustrative controls |
-| Output graphics / Mi-VU | ENP1 report previously discussed | Verified source, permission, labeling and location |
+| Output graphics / Mi-VU | Original local ENP1 report identified and inspected by A02 | MIT/operator permission and exact approved/redacted version/caption; no ENP3 relabeling |
 | MIT branding | Brochure contains a visible logo | Official artwork, type/color constraints and approved end-card text |
 | Generated references | `02-Reference` | Label by intended use; do not treat generated design as CAD authority |
 
-The owner identifies the working checkout as `C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco`, with an existing empty `04-Production/Shared/Assets` destination. This path is owner-reported, not remotely inspected. Inspect existing source locations before moving anything; save new production outputs in the correct folders under `04-Production/` using the workspace conventions. Record relative paths and versions/hashes. Respect exclusions for videos, heavy reports, CAD and local Blender/media files; keeping a file within the local checkout does not authorize publishing it to GitHub.
+A02 inspected the working checkout `C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco`; Shared/Assets contains the registered STEP and README. Preserve existing supplied sources at registered locations until deliberately imported into validated masters. Save new production outputs under `04-Production/` using the workspace conventions. Record relative paths and versions/hashes. Respect exclusions for videos, heavy reports, CAD and local Blender/media files; local saving does not authorize GitHub publication or imply backup.
 
 ## Modular Blender architecture
 

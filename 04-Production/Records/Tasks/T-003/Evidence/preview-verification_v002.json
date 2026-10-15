@@ -1,0 +1,427 @@
+{
+  "checks": [
+    {
+      "pass": true,
+      "check": "22 unique preview images for all inventory shot IDs"
+    },
+    {
+      "pass": true,
+      "check": "S01-01 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S01-01 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S01-01 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S01-02 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S01-02 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S01-02 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S02-01 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S02-01 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S02-01 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S02-02 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S02-02 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S02-02 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S02-03 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S02-03 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S02-03 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S03-01 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S03-01 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S03-01 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S03-02 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S03-02 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S03-02 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S03-03 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S03-03 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S03-03 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S03-04 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S03-04 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S03-04 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S04-01 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S04-01 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S04-01 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S04-02 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S04-02 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S04-02 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S04-03 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S04-03 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S04-03 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S04-04 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S04-04 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S04-04 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S05-01 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S05-01 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S05-01 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S05-02 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S05-02 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S05-02 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S05-03 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S05-03 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S05-03 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S06-01 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S06-01 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S06-01 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S06-02 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S06-02 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S06-02 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S06-03 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S06-03 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S06-03 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S07-01 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S07-01 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S07-01 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S07-02 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S07-02 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S07-02 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "S07-03 PNG decodes at 1920x1280"
+    },
+    {
+      "pass": true,
+      "check": "S07-03 image is not blank"
+    },
+    {
+      "pass": true,
+      "check": "S07-03 editable source exists"
+    },
+    {
+      "pass": true,
+      "check": "33 existing panel beats represented"
+    },
+    {
+      "pass": true,
+      "check": "Restricted real log excluded; single placeholder recorded"
+    },
+    {
+      "pass": true,
+      "check": "All 22 sheets: source images loaded, canvas/footer within bounds"
+    },
+    {
+      "pass": true,
+      "check": "All 32 included source-vector hashes unchanged"
+    },
+    {
+      "pass": true,
+      "check": "155 Markdown image/source/register links resolve: []"
+    }
+  ],
+  "images": [
+    {
+      "shot": "S01-01",
+      "path": "04-Production/Shots/S01/S01-01/Previews/S01-01_inventory-preview_v002.png",
+      "sha256": "9f7864ff4eb9c6c2f89ab61e76a75b6af0a379ed467564792fa70e3d0415d036",
+      "bytes": 93127
+    },
+    {
+      "shot": "S01-02",
+      "path": "04-Production/Shots/S01/S01-02/Previews/S01-02_inventory-preview_v002.png",
+      "sha256": "a680e6748e5e79ec22d54beb851d8bcd43bf73003a776233d3a9cc642f8bcee3",
+      "bytes": 149320
+    },
+    {
+      "shot": "S02-01",
+      "path": "04-Production/Shots/S02/S02-01/Previews/S02-01_inventory-preview_v002.png",
+      "sha256": "4e4b80fb16f03ad11ce7935ac7342b5f3f7dd6d0c26485d629c31b9414a3171d",
+      "bytes": 542236
+    },
+    {
+      "shot": "S02-02",
+      "path": "04-Production/Shots/S02/S02-02/Previews/S02-02_inventory-preview_v002.png",
+      "sha256": "b4007d2e0283081e7d0716534583d4eeead5ea34720c98f787c87a3914dbe47c",
+      "bytes": 301141
+    },
+    {
+      "shot": "S02-03",
+      "path": "04-Production/Shots/S02/S02-03/Previews/S02-03_inventory-preview_v002.png",
+      "sha256": "2b0cd85778d62fe57b288fefbfe65aaa83631e506b8527be266f7d516e6de836",
+      "bytes": 183081
+    },
+    {
+      "shot": "S03-01",
+      "path": "04-Production/Shots/S03/S03-01/Previews/S03-01_inventory-preview_v002.png",
+      "sha256": "f174759c0ddd2739144e24c9179c507f30c96061c1c0a848f640b4d737c1d39a",
+      "bytes": 261539
+    },
+    {
+      "shot": "S03-02",
+      "path": "04-Production/Shots/S03/S03-02/Previews/S03-02_inventory-preview_v002.png",
+      "sha256": "9caa139da0c8ef9d56da136e32266e3abf1ff9890ddb15f18e97bbd655186ee2",
+      "bytes": 453142
+    },
+    {
+      "shot": "S03-03",
+      "path": "04-Production/Shots/S03/S03-03/Previews/S03-03_inventory-preview_v002.png",
+      "sha256": "ad4b329b2d4676746f1a642a7beeddc34b763cc667e6f0b660d27ae4a3605f74",
+      "bytes": 223772
+    },
+    {
+      "shot": "S03-04",
+      "path": "04-Production/Shots/S03/S03-04/Previews/S03-04_inventory-preview_v002.png",
+      "sha256": "b0be685a12fbdcfb82ecb0bd4e99274d5765699649334aaa2b387c9257a8052d",
+      "bytes": 189021
+    },
+    {
+      "shot": "S04-01",
+      "path": "04-Production/Shots/S04/S04-01/Previews/S04-01_inventory-preview_v002.png",
+      "sha256": "2a7b6f26566207c82624b085be385b1c19a24cf824c583008599f4dfd460a635",
+      "bytes": 306642
+    },
+    {
+      "shot": "S04-02",
+      "path": "04-Production/Shots/S04/S04-02/Previews/S04-02_inventory-preview_v002.png",
+      "sha256": "e907b43160661934a1b9a3261afa02a4d9b851aa03170c7148db85dd46b7c1e3",
+      "bytes": 455809
+    },
+    {
+      "shot": "S04-03",
+      "path": "04-Production/Shots/S04/S04-03/Previews/S04-03_inventory-preview_v002.png",
+      "sha256": "8bdfabd3379be1e3864053eea818afa9f5dbadd453e20e3d05b9a8d7cb3f2778",
+      "bytes": 223973
+    },
+    {
+      "shot": "S04-04",
+      "path": "04-Production/Shots/S04/S04-04/Previews/S04-04_inventory-preview_v002.png",
+      "sha256": "16d4d16581e4dabd6873970c8ae5e46df89ede7eb3c3c8c09fc4876f46bffc6c",
+      "bytes": 272992
+    },
+    {
+      "shot": "S05-01",
+      "path": "04-Production/Shots/S05/S05-01/Previews/S05-01_inventory-preview_v002.png",
+      "sha256": "c1fe5ef6341114e148e9cbb9991bd3ea1755e571ea8a4219d24f2ae30ba6e966",
+      "bytes": 391579
+    },
+    {
+      "shot": "S05-02",
+      "path": "04-Production/Shots/S05/S05-02/Previews/S05-02_inventory-preview_v002.png",
+      "sha256": "71b09213c273f13426b17d4f1726818c67473247cea292543139f82a7c1fad35",
+      "bytes": 525439
+    },
+    {
+      "shot": "S05-03",
+      "path": "04-Production/Shots/S05/S05-03/Previews/S05-03_inventory-preview_v002.png",
+      "sha256": "21d1204ddf1b498d4dd2f8cbdbd45ef2a79c8acb3f078bbf8708edd5874205cd",
+      "bytes": 520275
+    },
+    {
+      "shot": "S06-01",
+      "path": "04-Production/Shots/S06/S06-01/Previews/S06-01_inventory-preview_v002.png",
+      "sha256": "eb12d49455864bc1fd7e7da13936a16df5e9d5d971c64a2fc1e7a7c9f631748c",
+      "bytes": 640766
+    },
+    {
+      "shot": "S06-02",
+      "path": "04-Production/Shots/S06/S06-02/Previews/S06-02_inventory-preview_v002.png",
+      "sha256": "1477431732082f08a1f1e64a6a7b8a45b0a1cbfb80ac1fbd4d90615ae251f61a",
+      "bytes": 563544
+    },
+    {
+      "shot": "S06-03",
+      "path": "04-Production/Shots/S06/S06-03/Previews/S06-03_inventory-preview_v002.png",
+      "sha256": "3587a1b554b4b1d8be8c1a78eefaaee06b4e114473ccc89f2b7537fa03d35e1a",
+      "bytes": 114050
+    },
+    {
+      "shot": "S07-01",
+      "path": "04-Production/Shots/S07/S07-01/Previews/S07-01_inventory-preview_v002.png",
+      "sha256": "719effdc6dbe2fef9797d0c9a663a55e37243d61866c4397afc1731d51cced9e",
+      "bytes": 423844
+    },
+    {
+      "shot": "S07-02",
+      "path": "04-Production/Shots/S07/S07-02/Previews/S07-02_inventory-preview_v002.png",
+      "sha256": "cf85a0b42f54afeaa494b442d03fcb6a8cf5a1ac5fdc8392e56ba5cb1dbda412",
+      "bytes": 678837
+    },
+    {
+      "shot": "S07-03",
+      "path": "04-Production/Shots/S07/S07-03/Previews/S07-03_inventory-preview_v002.png",
+      "sha256": "eedab04837e343c8db17110df7a2d66fb90f49cd6f32c175c4501041eb8de93b",
+      "bytes": 319373
+    }
+  ],
+  "visual_qa": "Assistant visually inspected all 22 previews via S01\u2013S07 overview PNGs, plus S02-02 full-size image. No clipping/blank panels observed. Conceptual geometry and source interpretation remain pending; no moving QA claimed."
+}

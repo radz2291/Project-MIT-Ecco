@@ -1,0 +1,144 @@
+{
+  "checked_utc": "2026-10-15T11:50:58.284149+00:00",
+  "kind": "Repository reconciliation self-check; no new visual or engineering approval",
+  "staged_files_before_this_record": 124,
+  "checks": [
+    {
+      "check": "No private, commercial task reports, raw workspace snapshots, CAD, scenes or video staged",
+      "passed": true
+    },
+    {
+      "check": "No known private price, deposit amount or purchase-order details staged",
+      "passed": true
+    },
+    {
+      "check": "No recognizable credential strings staged",
+      "passed": true
+    },
+    {
+      "check": "22 unique shots and 33 panel beats retained",
+      "passed": true
+    },
+    {
+      "check": "S01-01 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S01-02 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S02-01 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S02-02 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S02-03 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S03-01 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S03-02 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S03-03 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S03-04 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S04-01 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S04-02 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S04-03 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S04-04 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S05-01 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S05-02 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S05-03 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S06-01 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S06-02 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S06-03 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S07-01 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S07-02 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "S07-03 saved PNG and editable HTML",
+      "passed": true
+    },
+    {
+      "check": "32 included storyboard source hashes match",
+      "passed": true
+    },
+    {
+      "check": "Restricted actual log excluded from shot preview sources",
+      "passed": true
+    },
+    {
+      "check": "Commercial and private snapshot exclusions active",
+      "passed": true
+    },
+    {
+      "check": "All original local task outputs preserved against safety snapshot",
+      "passed": true
+    },
+    {
+      "check": "Cloud O14 and directing requirements retained",
+      "passed": true
+    },
+    {
+      "check": "Staged whitespace check",
+      "passed": true
+    },
+    {
+      "check": "Saved local Markdown links resolve",
+      "passed": true
+    }
+  ],
+  "financial_findings": [],
+  "credential_findings": [],
+  "unexpected_original_changes": [],
+  "local_markdown_links_checked": 327,
+  "missing_local_links": []
+}

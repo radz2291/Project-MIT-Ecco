@@ -1,7 +1,7 @@
 # ECCO ENP3 — Narrative & Shot Allocation
 
 **Reconciled for context routing:** 14 October 2026  
-**Status:** Seven-section/90-second **planning baseline**, not approved final timing or an executable camera shot list.  
+**Status:** Final QTE-MIT-003 confirms seven sequences / **90-second commercial duration** (Radzi, 15 October). Section windows remain a **planning allocation**, not an approved executable camera shot list.
 **Owns:** structural narrative and proposed time budget. **Panel-by-panel truth is in [Storyboard V2](../02_Storyboard/README.md).**
 
 ## Sequence map
@@ -15,7 +15,7 @@
 | S05 — Hydraulics | 0:58–1:10 | 12s | Integrated flow stages; final MIT FEA portrayal requires client media | [S05 carried forward](../02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/) |
 | S06 — Mi-VU output | 1:10–1:22 | 12s | Memory-based measurements → 3D wall → longitudinal seam → flattened 2D maps; rights-controlled ENP1 sample | [S06 V2](../02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/PADLET_SECTION_06_V2.md) |
 | S07 — Product hero | 1:22–1:30 | 8s | Resolve on accurate product and approved MIT identity | [S07 carried forward](../02_Storyboard/V2/ECCO_Section_07_Product_Hero_Padlet/) |
-| **Total** | **0:00–1:30** | **90s** | **Provisional section allocation** | |
+| **Total** | **0:00–1:30** | **90s** | **Confirmed total duration; provisional section allocation** | |
 
 **Important:** V2 includes client-feedback reconciliation, **not** client approval. The live Padlet and exact commercial deliverables have not been independently synchronized here. Preserve the difference between “provided”, “discussed”, “approved technical action” and “accepted for release”.
 

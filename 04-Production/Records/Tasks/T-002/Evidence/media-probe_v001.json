@@ -1,0 +1,92 @@
+[
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Video\\WhatsApp Video 2026-10-07 at 8.42.03 PM.mp4",
+    "duration_seconds": 14.12,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x560, 1378 kb/s, 29.90 fps, 29.92 tbr, 90k tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Video\\WhatsApp Video 2026-10-07 at 8.44.21 PM.mp4",
+    "duration_seconds": 8.7,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 474x850, 1609 kb/s, 29.95 fps, 30 tbr, 90k tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Video\\WhatsApp Video 2026-10-07 at 9.01.51 PM (1).mp4",
+    "duration_seconds": 76.08,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 436x640, 558 kb/s, 17.59 fps, 30 tbr, 90k tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\01-Brief\\Video\\WhatsApp Video 2026-10-07 at 9.01.51 PM.mp4",
+    "duration_seconds": 84.75,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 436x640, 404 kb/s, 13.72 fps, 30 tbr, 90k tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\LinkedIn - Tarek Khattab - Drilling Performance South America (720p).mp4",
+    "duration_seconds": 9.43,
+    "video_stream": "Stream #0:0[0x1](eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1200x628, 1631 kb/s, 30 fps, 30 tbr, 15360 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\SLB - i-DRILL (720p).mp4",
+    "duration_seconds": 153.93,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 1999 kb/s, 24 fps, 24 tbr, 24 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\client\\WhatsApp Video 2026-10-08 at 2.47.51 PM.mp4",
+    "duration_seconds": 5.78,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 16548 kb/s, 25.10 fps, 25 tbr, 25k tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\A_Surface_0-2p125.mp4",
+    "duration_seconds": 2.13,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, unknown/bt709/iec61966-2-1, progressive), 1280x720 [SAR 1:1 DAR 16:9], 2516 kb/s, 24 fps, 24 tbr, 12288 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50.mp4",
+    "duration_seconds": 1.38,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, unknown/bt709/iec61966-2-1, progressive), 1280x720 [SAR 1:1 DAR 16:9], 3390 kb/s, 24 fps, 24 tbr, 12288 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50_2min.mp4",
+    "duration_seconds": 2.0,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, unknown/bt709/iec61966-2-1, progressive), 1280x720 [SAR 1:1 DAR 16:9], 4111 kb/s, 60 fps, 60 tbr, 15360 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50_clay.mp4",
+    "duration_seconds": 2.0,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, unknown/bt709/iec61966-2-1, progressive), 1280x720 [SAR 1:1 DAR 16:9], 661 kb/s, 24 fps, 24 tbr, 12288 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50_clay_2.mp4",
+    "duration_seconds": 2.0,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 2068 kb/s, 24 fps, 24 tbr, 12288 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50_clay_3.mp4",
+    "duration_seconds": 4.0,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 1298 kb/s, 24 fps, 24 tbr, 12288 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\B_Subsea_2p125-3p50_clay_4.mp4",
+    "duration_seconds": 8.0,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 1884 kb/s, 24 fps, 24 tbr, 12288 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\C_Geology_3p50-5p75.mp4",
+    "duration_seconds": 2.25,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, unknown/bt709/iec61966-2-1, progressive), 1280x720 [SAR 1:1 DAR 16:9], 4056 kb/s, 24 fps, 24 tbr, 12288 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\02-Reference\\Shot01_Generation_Motion_Refs\\D_Tool_5p75-8p00.mp4",
+    "duration_seconds": 2.25,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, unknown/bt709/iec61966-2-1, progressive), 1280x720 [SAR 1:1 DAR 16:9], 5199 kb/s, 24 fps, 24 tbr, 12288 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\01-ECCO_First_Ping-Test\\02-Previews\\ECCO_First_Ping_Preview.mp4",
+    "duration_seconds": 7.0,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, unknown/bt709/iec61966-2-1, progressive), 640x360 [SAR 1:1 DAR 16:9], 2769 kb/s, 24 fps, 24 tbr, 12288 tbn (default)"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\03-ECCO_Transformation_Prototype\\V1.1-Final\\ECCO_Transformation_V1.1_Final_Playblast.mp4",
+    "duration_seconds": 4.0,
+    "video_stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, unknown/bt709/iec61966-2-1, progressive), 1280x720 [SAR 1:1 DAR 16:9], 827 kb/s, 24 fps, 24 tbr, 12288 tbn (default)"
+  }
+]

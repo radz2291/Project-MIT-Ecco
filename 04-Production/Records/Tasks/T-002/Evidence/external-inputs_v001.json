@@ -1,0 +1,80 @@
+[
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\03-Assets\\PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+    "exists": true,
+    "bytes": 4606150,
+    "sha256": "ded44633fcdd5161f117f59c157c27c6213bae55d8ce8616f432d84b32e24cde"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\01-ECCO_First_Ping-Test\\01-Blender\\Source_Imported_ecco.blend",
+    "exists": true,
+    "bytes": 18277267,
+    "sha256": "e2eb5796482a12f8a78db011e1a1bea2717e7a023dd6bc62daa9d8c8dfc841a5"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\01-ECCO_First_Ping-Test\\01-Blender\\ECCO_First_Ping.blend",
+    "exists": true,
+    "bytes": 38245436,
+    "sha256": "fa0b187ac79db35773f81ef56b87eaf2964567b5ead729e2e463c5305907db13"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\01-ECCO_First_Ping-Test\\02-Previews\\Client_Confirmed_Sensor.png",
+    "exists": true,
+    "bytes": 178412,
+    "sha256": "af0886d8a614dcbd55049ef0c986cd07c008a02b9c761c15d1a3a196d3653573"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\01-ECCO_First_Ping-Test\\02-Previews\\Motion_Review_Contact_Sheet.jpg",
+    "exists": true,
+    "bytes": 326433,
+    "sha256": "310f8d2aa5d506c69e3e2ec965f980c7d25926512dd3611df9977b5feee5c4b1"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\01-ECCO_First_Ping-Test\\02-Previews\\ECCO_First_Ping_Preview.mp4",
+    "exists": true,
+    "bytes": 2426566,
+    "sha256": "4ed9cb6bc711833a43bbaeec719c0429a1cfd3bef36bcc24b639f3b28e7355ff"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\01-ECCO_First_Ping-Test\\02-Previews\\IMPLEMENTATION_REPORT.md",
+    "exists": true,
+    "bytes": 7516,
+    "sha256": "4aa8704e6564a3020e4a08296e0e10049e57bc1a3128687476b8535b514dd69d"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\02-ECCO_First_Ping-Side_View-Test\\01-Blender\\ECCO_First_Ping_Side_View.blend",
+    "exists": true,
+    "bytes": 38562635,
+    "sha256": "942665f4dd812f4dfeff59e1404d61e4c4500a3ef4eca01ba591778c95469ce8"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\03-ECCO_Transformation_Prototype\\V1.1-Final\\ECCO_Transformation_V1.1_Final.blend",
+    "exists": true,
+    "bytes": 25690599,
+    "sha256": "9f134e78248c393abb702d8ab06461d98f3e32a730aa8a697de1bfbbd4c3b88c"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\03-ECCO_Transformation_Prototype\\V1.1-Final\\ECCO_Transformation_V1.1_Final_Playblast.mp4",
+    "exists": true,
+    "bytes": 415892,
+    "sha256": "8da94e30dc1420e9bafb10a42d1fea33ec7ffa708191fca174bfa9a000a8bff1"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\03-ECCO_Transformation_Prototype\\V1.1-Final\\scene_manifest.json",
+    "exists": true,
+    "bytes": 2110,
+    "sha256": "05c7f37478557b40198110c87bc21310378d5772ef073fcd4e24c8279b61c343"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261006-Rolladice\\IntoTheInvisible\\Viewport_FullShot_8seconds.blend",
+    "exists": true,
+    "bytes": 2607641,
+    "sha256": "4c18b1f7e674ea824578b8510d9464843a03c1da3a025f9afbaf9ac74b129134"
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261006-Rolladice\\IntoTheInvisible\\Viewport_FullShot_Review.jpg",
+    "exists": true,
+    "bytes": 198953,
+    "sha256": "1f14fe90fb2c595fef8eb51f3cab8edd218c89cd11053b9e6a3deec575213baa"
+  }
+]

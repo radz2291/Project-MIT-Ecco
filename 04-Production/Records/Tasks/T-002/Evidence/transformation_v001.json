@@ -1,0 +1,4987 @@
+{
+  "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\03-ECCO_Transformation_Prototype\\V1.1-Final\\ECCO_Transformation_V1.1_Final.blend",
+  "blender": "5.2.2 LTS",
+  "units": {
+    "system": "METRIC",
+    "scale_length": 1.0,
+    "length_unit": "METERS"
+  },
+  "frames": [
+    1,
+    96
+  ],
+  "fps": 24.0,
+  "camera": "CAMERA | continuous orbit and 23 degree roll",
+  "objects": [
+    {
+      "name": "ECCO | ORIGINAL CAD housing | unchanged vertices",
+      "type": "MESH",
+      "dimensions": [
+        2.4000000953674316,
+        0.30260878801345825,
+        0.30373769998550415
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        -0.7300000190734863
+      ],
+      "scale": [
+        0.0010000000474974513,
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "bounds_world": [
+        [
+          -0.16500872373580933,
+          -0.16385509073734283,
+          -0.7300000190734863
+        ],
+        [
+          0.16292105615139008,
+          0.16510099172592163,
+          1.6700000762939453
+        ]
+      ],
+      "vertices": 348876,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {
+        "source_step": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+        "mesh_tolerance_mm": "0.01"
+      },
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "ECCO Assembly | static placement",
+      "type": "EMPTY",
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "PLUG | original open mesh boundaries | removable",
+      "type": "MESH",
+      "dimensions": [
+        0.0012243653181940317,
+        0.0007718248525634408,
+        0.0010407486697658896
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        -0.7300000190734863
+      ],
+      "scale": [
+        0.0010000000474974513,
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "bounds_world": [
+        [
+          -0.02322504110634327,
+          -0.09624850004911423,
+          0.17013037204742432
+        ],
+        [
+          -0.022365445271134377,
+          -0.09514445066452026,
+          0.1713547706604004
+        ]
+      ],
+      "vertices": 13,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "PLUG | sensing recess 1",
+      "type": "MESH",
+      "dimensions": [
+        0.03999999910593033,
+        0.03999999910593033,
+        0.003000000026077032
+      ],
+      "location_world": [
+        0.10777488350868225,
+        0.07269507646560669,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          0.09534747153520584,
+          0.055275533348321915,
+          -0.020000001415610313
+        ],
+        [
+          0.12020229548215866,
+          0.09011462330818176,
+          0.020000001415610313
+        ]
+      ],
+      "vertices": 128,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "BEVEL"
+      ]
+    },
+    {
+      "name": "PLUG | service recess 1",
+      "type": "MESH",
+      "dimensions": [
+        0.03500000014901161,
+        0.03500000014901161,
+        0.003000000026077032
+      ],
+      "location_world": [
+        0.12253282219171524,
+        0.05713798105716705,
+        0.17980000376701355
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          0.1137775406241417,
+          0.04064366593956947,
+          0.1623000055551529
+        ],
+        [
+          0.13128811120986938,
+          0.07363229244947433,
+          0.1973000019788742
+        ]
+      ],
+      "vertices": 128,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "BEVEL"
+      ]
+    },
+    {
+      "name": "PLUG | sensing recess 2",
+      "type": "MESH",
+      "dimensions": [
+        0.03999999910593033,
+        0.03999999910593033,
+        0.003000000026077032
+      ],
+      "location_world": [
+        -0.11684323102235794,
+        0.05698825418949127,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.12695884704589844,
+          0.03835481405258179,
+          -0.020000001415610313
+        ],
+        [
+          -0.10672760754823685,
+          0.07562169432640076,
+          0.020000001415610313
+        ]
+      ],
+      "vertices": 128,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "BEVEL"
+      ]
+    },
+    {
+      "name": "PLUG | service recess 2",
+      "type": "MESH",
+      "dimensions": [
+        0.03500000014901161,
+        0.03500000014901161,
+        0.003000000026077032
+      ],
+      "location_world": [
+        -0.11074935644865036,
+        0.07754753530025482,
+        0.17980000376701355
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.12201567739248276,
+          0.0623520091176033,
+          0.1623000055551529
+        ],
+        [
+          -0.09948303550481796,
+          0.09274306148290634,
+          0.1973000019788742
+        ]
+      ],
+      "vertices": 128,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "BEVEL"
+      ]
+    },
+    {
+      "name": "PLUG | sensing recess 3",
+      "type": "MESH",
+      "dimensions": [
+        0.03999999910593033,
+        0.03999999910593033,
+        0.003000000026077032
+      ],
+      "location_world": [
+        0.009068339131772518,
+        -0.12968334555625916,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.010987576097249985,
+          -0.13257482647895813,
+          -0.019999999552965164
+        ],
+        [
+          0.02912425436079502,
+          -0.12679186463356018,
+          0.019999999552965164
+        ]
+      ],
+      "vertices": 128,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "BEVEL"
+      ]
+    },
+    {
+      "name": "PLUG | service recess 3",
+      "type": "MESH",
+      "dimensions": [
+        0.03500000014901161,
+        0.03500000014901161,
+        0.003000000026077032
+      ],
+      "location_world": [
+        -0.011783459223806858,
+        -0.13468551635742188,
+        0.17980000376701355
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.029347600415349007,
+          -0.1377050280570984,
+          0.1623000055551529
+        ],
+        [
+          0.005780681036412716,
+          -0.13166600465774536,
+          0.1973000019788742
+        ]
+      ],
+      "vertices": 128,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "BEVEL"
+      ]
+    },
+    {
+      "name": "PLUG | housing end | presentation closure",
+      "type": "MESH",
+      "dimensions": [
+        0.2540000081062317,
+        0.2540000081062317,
+        0.004000000189989805
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        -0.7300000190734863
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.13758549094200134,
+          -0.13758549094200134,
+          -0.7319999933242798
+        ],
+        [
+          0.13758549094200134,
+          0.13758549094200134,
+          -0.7280000448226929
+        ]
+      ],
+      "vertices": 128,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "BEVEL"
+      ]
+    },
+    {
+      "name": "PLUG | housing end | presentation closure.001",
+      "type": "MESH",
+      "dimensions": [
+        0.2540000081062317,
+        0.2540000081062317,
+        0.004000000189989805
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        1.6699999570846558
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.13758549094200134,
+          -0.13758549094200134,
+          1.6679999828338623
+        ],
+        [
+          0.13758549094200134,
+          0.13758549094200134,
+          1.6719999313354492
+        ]
+      ],
+      "vertices": 128,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "BEVEL"
+      ]
+    },
+    {
+      "name": "PLUG | internal aperture backing | presentation only",
+      "type": "MESH",
+      "dimensions": [
+        0.17000000178813934,
+        0.17000000178813934,
+        2.3980000019073486
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.4699999988079071
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.09208478778600693,
+          -0.09208478778600693,
+          -0.7289999723434448
+        ],
+        [
+          0.09208478778600693,
+          0.09208478778600693,
+          1.6690000295639038
+        ]
+      ],
+      "vertices": 128,
+      "parent": "ECCO Assembly | static placement",
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "BOREHOLE | wave-distance reveal | fixed front cutaway",
+      "type": "MESH",
+      "dimensions": [
+        1.3559376001358032,
+        1.376075029373169,
+        3.25
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6896566152572632,
+          -0.6861016750335693,
+          -1.4500000476837158
+        ],
+        [
+          0.66628098487854,
+          0.6899732947349548,
+          1.7999999523162842
+        ]
+      ],
+      "vertices": 16261,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 00",
+      "type": "MESH",
+      "dimensions": [
+        1.30079984664917,
+        1.3133864402770996,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6527998447418213,
+          -0.6502415537834167,
+          -1.4011999368667603
+        ],
+        [
+          0.6479999423027039,
+          0.6631448864936829,
+          -1.398800015449524
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 01",
+      "type": "MESH",
+      "dimensions": [
+        1.2787377834320068,
+        1.3188085556030273,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6437669992446899,
+          -0.6463621854782104,
+          -1.261199951171875
+        ],
+        [
+          0.6349707841873169,
+          0.6724464297294617,
+          -1.2588000297546387
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 02",
+      "type": "MESH",
+      "dimensions": [
+        1.2734043598175049,
+        1.3163645267486572,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6443484425544739,
+          -0.6444295644760132,
+          -1.1211999654769897
+        ],
+        [
+          0.6290558576583862,
+          0.6719350218772888,
+          -1.1188000440597534
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 03",
+      "type": "MESH",
+      "dimensions": [
+        1.2733790874481201,
+        1.313373327255249,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6431773900985718,
+          -0.6512325406074524,
+          -0.9812000393867493
+        ],
+        [
+          0.6302016377449036,
+          0.6621407270431519,
+          -0.9787999987602234
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 04",
+      "type": "MESH",
+      "dimensions": [
+        1.2920160293579102,
+        1.319124460220337,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6600079536437988,
+          -0.6664596796035767,
+          -0.8411999940872192
+        ],
+        [
+          0.6320080161094666,
+          0.6526647210121155,
+          -0.8387999534606934
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 05",
+      "type": "MESH",
+      "dimensions": [
+        1.3071545362472534,
+        1.3367927074432373,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.678148090839386,
+          -0.6812748908996582,
+          -0.701200008392334
+        ],
+        [
+          0.6290064454078674,
+          0.6555177569389343,
+          -0.6987999677658081
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 06",
+      "type": "MESH",
+      "dimensions": [
+        1.3088455200195312,
+        1.3462560176849365,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6860957741737366,
+          -0.6846702098846436,
+          -0.5612000226974487
+        ],
+        [
+          0.6227496862411499,
+          0.661585807800293,
+          -0.5587999820709229
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 07",
+      "type": "MESH",
+      "dimensions": [
+        1.3010694980621338,
+        1.3330144882202148,
+        0.0023999810218811035
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6802659630775452,
+          -0.6725760102272034,
+          -0.4211999773979187
+        ],
+        [
+          0.6208035349845886,
+          0.6604385375976562,
+          -0.4187999963760376
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 08",
+      "type": "MESH",
+      "dimensions": [
+        1.2936313152313232,
+        1.314577579498291,
+        0.0023999810218811035
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6642993092536926,
+          -0.6518163681030273,
+          -0.28119999170303345
+        ],
+        [
+          0.6293320655822754,
+          0.6627612113952637,
+          -0.27880001068115234
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 09",
+      "type": "MESH",
+      "dimensions": [
+        1.3196494579315186,
+        1.3210052251815796,
+        0.002400010824203491
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6733434200286865,
+          -0.6396458148956299,
+          -0.1412000060081482
+        ],
+        [
+          0.646306037902832,
+          0.6813594102859497,
+          -0.1387999951839447
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 10",
+      "type": "MESH",
+      "dimensions": [
+        1.3371034860610962,
+        1.3296750783920288,
+        0.0024000010453164577
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6754258275032043,
+          -0.6404750347137451,
+          -0.001200000406242907
+        ],
+        [
+          0.6616776585578918,
+          0.6892000436782837,
+          0.0012000005226582289
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 11",
+      "type": "MESH",
+      "dimensions": [
+        1.3309166431427002,
+        1.3237560987472534,
+        0.002400010824203491
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6662127375602722,
+          -0.6423966884613037,
+          0.1387999951839447
+        ],
+        [
+          0.664703905582428,
+          0.6813594102859497,
+          0.1412000060081482
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 12",
+      "type": "MESH",
+      "dimensions": [
+        1.3066797256469727,
+        1.3165702819824219,
+        0.0023999810218811035
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.654100775718689,
+          -0.653809130191803,
+          0.27880001068115234
+        ],
+        [
+          0.6525789499282837,
+          0.6627612113952637,
+          0.28119999170303345
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 13",
+      "type": "MESH",
+      "dimensions": [
+        1.2853513956069946,
+        1.321277379989624,
+        0.0023999810218811035
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6523615717887878,
+          -0.660838782787323,
+          0.4187999963760376
+        ],
+        [
+          0.6329898238182068,
+          0.6604385375976562,
+          0.4211999773979187
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 14",
+      "type": "MESH",
+      "dimensions": [
+        1.275979995727539,
+        1.3224105834960938,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6577627658843994,
+          -0.660824716091156,
+          0.5587999820709229
+        ],
+        [
+          0.6182172894477844,
+          0.661585807800293,
+          0.5612000226974487
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 15",
+      "type": "MESH",
+      "dimensions": [
+        1.2737674713134766,
+        1.3150608539581299,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6579570770263672,
+          -0.6595430374145508,
+          0.6987999677658081
+        ],
+        [
+          0.6158103942871094,
+          0.6555177569389343,
+          0.701200008392334
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 16",
+      "type": "MESH",
+      "dimensions": [
+        1.2820713520050049,
+        1.3157739639282227,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6584521532058716,
+          -0.663109302520752,
+          0.8387999534606934
+        ],
+        [
+          0.6236191391944885,
+          0.6526647210121155,
+          0.8411999940872192
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 17",
+      "type": "MESH",
+      "dimensions": [
+        1.3113406896591187,
+        1.3355979919433594,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6783820986747742,
+          -0.6734572052955627,
+          0.9787999987602234
+        ],
+        [
+          0.6329585909843445,
+          0.6621407270431519,
+          0.9812000393867493
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 18",
+      "type": "MESH",
+      "dimensions": [
+        1.3255536556243896,
+        1.3502652645111084,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6887145042419434,
+          -0.6783301830291748,
+          1.1188000440597534
+        ],
+        [
+          0.6368392109870911,
+          0.6719350218772888,
+          1.1211999654769897
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 19",
+      "type": "MESH",
+      "dimensions": [
+        1.3199793100357056,
+        1.342847228050232,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6840153336524963,
+          -0.6704007983207703,
+          1.2588000297546387
+        ],
+        [
+          0.6359639763832092,
+          0.6724464297294617,
+          1.261199951171875
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 20",
+      "type": "MESH",
+      "dimensions": [
+        1.3031761646270752,
+        1.3167760372161865,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6668474674224854,
+          -0.6536312103271484,
+          1.398800015449524
+        ],
+        [
+          0.6363287568092346,
+          0.6631448864936829,
+          1.4011999368667603
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 21",
+      "type": "MESH",
+      "dimensions": [
+        1.3052113056182861,
+        1.3133795261383057,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6621334552764893,
+          -0.6350375413894653,
+          1.5388000011444092
+        ],
+        [
+          0.6430779099464417,
+          0.6783419847488403,
+          1.5411999225616455
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "BOREHOLE | retained contour 22",
+      "type": "MESH",
+      "dimensions": [
+        1.3185442686080933,
+        1.3139150142669678,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6650196313858032,
+          -0.6268104910850525,
+          1.6787999868392944
+        ],
+        [
+          0.65352463722229,
+          0.6871045231819153,
+          1.6811999082565308
+        ]
+      ],
+      "vertices": 808,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 00 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0635604858398438,
+        1.1951401233673096,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6558202505111694,
+          -0.5289404988288879,
+          -1.4021999835968018
+        ],
+        [
+          0.40774017572402954,
+          0.6661996841430664,
+          -1.3977999687194824
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 00 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.1118171215057373,
+        1.1433799266815186,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.44298726320266724,
+          -0.6585280299186707,
+          -1.4011999368667603
+        ],
+        [
+          0.6688297986984253,
+          0.4848518967628479,
+          -1.398800015449524
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 01 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0588374137878418,
+        1.1988111734390259,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6467363834381104,
+          -0.5234450101852417,
+          -1.2621999979019165
+        ],
+        [
+          0.4121010899543762,
+          0.6753661632537842,
+          -1.2577999830245972
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 01 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.1246583461761475,
+        1.1627013683319092,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.4385596215724945,
+          -0.6723939180374146,
+          -1.261199951171875
+        ],
+        [
+          0.6860986948013306,
+          0.49030745029449463,
+          -1.2588000297546387
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 02 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0716540813446045,
+        1.183817744255066,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6473057270050049,
+          -0.508693277835846,
+          -1.1222000122070312
+        ],
+        [
+          0.4243484139442444,
+          0.67512446641922,
+          -1.117799997329712
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 02 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.1170626878738403,
+        1.1853790283203125,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.42626312375068665,
+          -0.6803351640701294,
+          -1.1211999654769897
+        ],
+        [
+          0.6907995939254761,
+          0.5050439238548279,
+          -1.1188000440597534
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 03 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0831815004348755,
+        1.158830165863037,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6460940837860107,
+          -0.4937128722667694,
+          -0.982200026512146
+        ],
+        [
+          0.43708741664886475,
+          0.6651172637939453,
+          -0.9778000116348267
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 03 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.0941556692123413,
+        1.1957095861434937,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.41355636715888977,
+          -0.6756322979927063,
+          -0.9812000393867493
+        ],
+        [
+          0.6805992722511292,
+          0.5200772881507874,
+          -0.9787999987602234
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 04 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.105736494064331,
+        1.1432603597640991,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6630758047103882,
+          -0.4873873293399811,
+          -0.842199981212616
+        ],
+        [
+          0.4426606595516205,
+          0.6558730006217957,
+          -0.8377999663352966
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 04 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.0685451030731201,
+        1.1950371265411377,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.408034086227417,
+          -0.6685853004455566,
+          -0.8411999940872192
+        ],
+        [
+          0.6605110168457031,
+          0.526451826095581,
+          -0.8387999534606934
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 05 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.1200594902038574,
+        1.1505153179168701,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6811892986297607,
+          -0.4919790029525757,
+          -0.7021999955177307
+        ],
+        [
+          0.43887022137641907,
+          0.6585362553596497,
+          -0.6977999806404114
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 05 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.0719269514083862,
+        1.2051680088043213,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.41184136271476746,
+          -0.6833076477050781,
+          -0.701200008392334
+        ],
+        [
+          0.6600856184959412,
+          0.5218603014945984,
+          -0.6987999677658081
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 06 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.119478464126587,
+        1.1668076515197754,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6894093155860901,
+          -0.5021177530288696,
+          -0.5622000098228455
+        ],
+        [
+          0.43006911873817444,
+          0.6646898984909058,
+          -0.5577999949455261
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 06 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.0804331302642822,
+        1.1983774900436401,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.4205973446369171,
+          -0.6867159605026245,
+          -0.5612000226974487
+        ],
+        [
+          0.6598357558250427,
+          0.5116615295410156,
+          -0.5587999820709229
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 07 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.1062004566192627,
+        1.1732103824615479,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6832583546638489,
+          -0.5099029541015625,
+          -0.4221999943256378
+        ],
+        [
+          0.42294207215309143,
+          0.6633073687553406,
+          -0.4177999794483185
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 07 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.0818883180618286,
+        1.1799819469451904,
+        0.0023999810218811035
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.4275594651699066,
+          -0.6762714385986328,
+          -0.4211999773979187
+        ],
+        [
+          0.6543288230895996,
+          0.5037105083465576,
+          -0.4187999963760376
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 08 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0883243083953857,
+        1.1774818897247314,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6673064231872559,
+          -0.511677622795105,
+          -0.28220000863075256
+        ],
+        [
+          0.4210178554058075,
+          0.6658042669296265,
+          -0.2777999937534332
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 08 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.0853712558746338,
+        1.1598842144012451,
+        0.0023999810218811035
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.42932024598121643,
+          -0.6580893397331238,
+          -0.28119999170303345
+        ],
+        [
+          0.6560510396957397,
+          0.5017948150634766,
+          -0.27880001068115234
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 09 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0987603664398193,
+        1.1948038339614868,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6763936281204224,
+          -0.5102350115776062,
+          -0.14220000803470612
+        ],
+        [
+          0.4223666787147522,
+          0.6845688223838806,
+          -0.13779999315738678
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 09 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.0962170362472534,
+        1.1477413177490234,
+        0.002400010824203491
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.42801183462142944,
+          -0.6444383859634399,
+          -0.1412000060081482
+        ],
+        [
+          0.668205201625824,
+          0.5033029913902283,
+          -0.1387999951839447
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 10 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.100838541984558,
+        1.2030422687530518,
+        0.004400001373142004
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6784636974334717,
+          -0.5109689831733704,
+          -0.002200000686571002
+        ],
+        [
+          0.42237481474876404,
+          0.6920732259750366,
+          0.002200000686571002
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 10 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.1057149171829224,
+        1.1452274322509766,
+        0.002400000812485814
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.42820969223976135,
+          -0.6424650549888611,
+          -0.001200000406242907
+        ],
+        [
+          0.6775052547454834,
+          0.5027623772621155,
+          0.001200000406242907
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 11 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0880451202392578,
+        1.2003815174102783,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6691722273826599,
+          -0.515828013420105,
+          0.13779999315738678
+        ],
+        [
+          0.4188728630542755,
+          0.6845535039901733,
+          0.14220000803470612
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 11 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.1072719097137451,
+        1.1424177885055542,
+        0.002400010824203491
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.43186163902282715,
+          -0.6444239020347595,
+          0.1387999951839447
+        ],
+        [
+          0.6754102110862732,
+          0.4979938566684723,
+          0.1412000060081482
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 12 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.071812391281128,
+        1.1867051124572754,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6570165753364563,
+          -0.5209102034568787,
+          0.2777999937534332
+        ],
+        [
+          0.41479578614234924,
+          0.665794849395752,
+          0.28220000863075256
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 12 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.1022835969924927,
+        1.1509804725646973,
+        0.0023999810218811035
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.43597570061683655,
+          -0.6580666899681091,
+          0.27880001068115234
+        ],
+        [
+          0.6663078665733337,
+          0.4929138123989105,
+          0.28119999170303345
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 13 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0709216594696045,
+        1.1830706596374512,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6553033590316772,
+          -0.519723653793335,
+          0.4177999794483185
+        ],
+        [
+          0.41561833024024963,
+          0.6633469462394714,
+          0.4221999943256378
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 13 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.1173774003982544,
+        1.170380711555481,
+        0.0023999810218811035
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.43512898683547974,
+          -0.6762889623641968,
+          0.4187999963760376
+        ],
+        [
+          0.6822484135627747,
+          0.4940917491912842,
+          0.4211999773979187
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 14 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.084648847579956,
+        1.1741849184036255,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6608240008354187,
+          -0.5094702839851379,
+          0.5577999949455261
+        ],
+        [
+          0.42382487654685974,
+          0.6647146344184875,
+          0.5622000098228455
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 14 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.1151950359344482,
+        1.1909565925598145,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.4268273115158081,
+          -0.6866675019264221,
+          0.5587999820709229
+        ],
+        [
+          0.6883676648139954,
+          0.5042890310287476,
+          0.5612000226974487
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 15 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0969401597976685,
+        1.1533414125442505,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6610912680625916,
+          -0.494817852973938,
+          0.6977999806404114
+        ],
+        [
+          0.4358489215373993,
+          0.6585235595703125,
+          0.7021999955177307
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 15 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.094909429550171,
+        1.2021558284759521,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.4147181212902069,
+          -0.6832671761512756,
+          0.6987999677658081
+        ],
+        [
+          0.6801913380622864,
+          0.5188886523246765,
+          0.701200008392334
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 16 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.1055986881256104,
+        1.140946388244629,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6615175604820251,
+          -0.48509836196899414,
+          0.8377999663352966
+        ],
+        [
+          0.4440811574459076,
+          0.6558480858802795,
+          0.842199981212616
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 16 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.068574070930481,
+        1.1972321271896362,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.4064997732639313,
+          -0.6685907244682312,
+          0.8387999534606934
+        ],
+        [
+          0.6620743274688721,
+          0.528641402721405,
+          0.8411999940872192
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 17 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.1242129802703857,
+        1.152226448059082,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6815792322158813,
+          -0.4870932996273041,
+          0.9778000116348267
+        ],
+        [
+          0.442633718252182,
+          0.6651331186294556,
+          0.982200026512146
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 17 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.0530788898468018,
+        1.2023694515228271,
+        0.002400040626525879
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.40800535678863525,
+          -0.6756702065467834,
+          0.9787999987602234
+        ],
+        [
+          0.6450734734535217,
+          0.5266993045806885,
+          0.9812000393867493
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 18 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.1239495277404785,
+        1.1746989488601685,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6917816400527954,
+          -0.49963051080703735,
+          1.117799997329712
+        ],
+        [
+          0.43216782808303833,
+          0.6750684380531311,
+          1.1222000122070312
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 18 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.0648163557052612,
+        1.1944899559020996,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.41849517822265625,
+          -0.6803313493728638,
+          1.1188000440597534
+        ],
+        [
+          0.646321177482605,
+          0.5141585469245911,
+          1.1211999654769897
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 19 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.1065694093704224,
+        1.1897618770599365,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6870841979980469,
+          -0.5144381523132324,
+          1.2577999830245972
+        ],
+        [
+          0.4194852411746979,
+          0.6753237247467041,
+          1.2621999979019165
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 19 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.0768365859985352,
+        1.1716346740722656,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.4311232268810272,
+          -0.6723572611808777,
+          1.2588000297546387
+        ],
+        [
+          0.6457133889198303,
+          0.4992774426937103,
+          1.261199951171875
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 20 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0820763111114502,
+        1.1887826919555664,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.669841468334198,
+          -0.5225821137428284,
+          1.3977999687194824
+        ],
+        [
+          0.4122348129749298,
+          0.6662005186080933,
+          1.4021999835968018
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 20 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.093061089515686,
+        1.149532675743103,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.4382403790950775,
+          -0.6585211753845215,
+          1.398800015449524
+        ],
+        [
+          0.6548207402229309,
+          0.49101150035858154,
+          1.4011999368667603
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 21 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.078436017036438,
+        1.2025190591812134,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6651470065116882,
+          -0.521145761013031,
+          1.5377999544143677
+        ],
+        [
+          0.41328901052474976,
+          0.6813732981681824,
+          1.542199969291687
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 21 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.1092238426208496,
+        1.144479513168335,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.43712306022644043,
+          -0.6520700454711914,
+          1.5388000011444092
+        ],
+        [
+          0.6721007823944092,
+          0.49240946769714355,
+          1.5411999225616455
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 22 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.087500810623169,
+        1.2048479318618774,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6682512760162354,
+          -0.5144798755645752,
+          1.677799940109253
+        ],
+        [
+          0.41924959421157837,
+          0.6903680562973022,
+          1.6821999549865723
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 22 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.115664005279541,
+        1.1550166606903076,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.4312818646430969,
+          -0.6558160185813904,
+          1.6787999868392944
+        ],
+        [
+          0.6843820810317993,
+          0.499200701713562,
+          1.6811999082565308
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 23 | far",
+      "type": "MESH",
+      "dimensions": [
+        1.0863912105560303,
+        1.1939876079559326,
+        0.004400014877319336
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6622257828712463,
+          -0.5093583464622498,
+          1.8178000450134277
+        ],
+        [
+          0.4241654872894287,
+          0.6846292614936829,
+          1.822200059890747
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | contour 23 | near",
+      "type": "MESH",
+      "dimensions": [
+        1.1103196144104004,
+        1.1616344451904297,
+        0.002399921417236328
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.426533967256546,
+          -0.6571782231330872,
+          1.8188000917434692
+        ],
+        [
+          0.683785617351532,
+          0.5044562816619873,
+          1.8212000131607056
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 00",
+      "type": "MESH",
+      "dimensions": [
+        0.061342597007751465,
+        0.0020000007934868336,
+        3.2501657009124756
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          0.6293433904647827,
+          -0.001000000280328095,
+          -1.4501279592514038
+        ],
+        [
+          0.6906859874725342,
+          0.0010000003967434168,
+          1.8000377416610718
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 01",
+      "type": "MESH",
+      "dimensions": [
+        0.05191856622695923,
+        0.030791670083999634,
+        3.250091552734375
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          0.5464872717857361,
+          0.3151063323020935,
+          -1.4500209093093872
+        ],
+        [
+          0.5984058380126953,
+          0.34589800238609314,
+          1.8000705242156982
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 02",
+      "type": "MESH",
+      "dimensions": [
+        0.03008696436882019,
+        0.04970806837081909,
+        3.250267505645752
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          0.3137805163860321,
+          0.5446858406066895,
+          -1.4500073194503784
+        ],
+        [
+          0.3438674807548523,
+          0.5943939089775085,
+          1.800260066986084
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 03",
+      "type": "MESH",
+      "dimensions": [
+        0.0034000007435679436,
+        0.05308938026428223,
+        3.2502360343933105
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.0017000003717839718,
+          0.6385838985443115,
+          -1.4501475095748901
+        ],
+        [
+          0.0017000003717839718,
+          0.6916732788085938,
+          1.8000885248184204
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 04",
+      "type": "MESH",
+      "dimensions": [
+        0.030086278915405273,
+        0.04970681667327881,
+        3.250213146209717
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.34386521577835083,
+          0.5446831583976746,
+          -1.45011305809021
+        ],
+        [
+          -0.31377893686294556,
+          0.5943899750709534,
+          1.8001000881195068
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 05",
+      "type": "MESH",
+      "dimensions": [
+        0.0532645583152771,
+        0.032140374183654785,
+        3.2501630783081055
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.5990690588951111,
+          0.31442633271217346,
+          -1.4501475095748901
+        ],
+        [
+          -0.545804500579834,
+          0.34656670689582825,
+          1.8000154495239258
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 06",
+      "type": "MESH",
+      "dimensions": [
+        0.06274253129959106,
+        0.0034000007435679436,
+        3.250281810760498
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6913565397262573,
+          -0.0017000003717839718,
+          -1.4502174854278564
+        ],
+        [
+          -0.6286140084266663,
+          0.0017000003717839718,
+          1.800064206123352
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 07",
+      "type": "MESH",
+      "dimensions": [
+        0.05327087640762329,
+        0.032143980264663696,
+        3.250155448913574
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.5973423719406128,
+          -0.34556981921195984,
+          -1.450035572052002
+        ],
+        [
+          -0.5440714955329895,
+          -0.31342583894729614,
+          1.8001198768615723
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 08",
+      "type": "MESH",
+      "dimensions": [
+        0.02873489260673523,
+        0.048356056213378906,
+        3.250157356262207
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.34554344415664673,
+          -0.5977916717529297,
+          -1.4500043392181396
+        ],
+        [
+          -0.3168085515499115,
+          -0.5494356155395508,
+          1.8001528978347778
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 09",
+      "type": "MESH",
+      "dimensions": [
+        0.00200000056065619,
+        0.051689326763153076,
+        3.250138759613037
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.001000000280328095,
+          -0.6807160973548889,
+          -1.4500868320465088
+        ],
+        [
+          0.001000000280328095,
+          -0.6290267705917358,
+          1.8000520467758179
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 10",
+      "type": "MESH",
+      "dimensions": [
+        0.0287339985370636,
+        0.048354506492614746,
+        3.2501254081726074
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          0.3168109059333801,
+          -0.597794234752655,
+          -1.4500665664672852
+        ],
+        [
+          0.3455449044704437,
+          -0.5494397282600403,
+          1.8000588417053223
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | longitudinal depth line 11",
+      "type": "MESH",
+      "dimensions": [
+        0.05191236734390259,
+        0.03078809380531311,
+        3.250095844268799
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          0.5447605848312378,
+          -0.3448975086212158,
+          -1.4500867128372192
+        ],
+        [
+          0.5966729521751404,
+          -0.3141094148159027,
+          1.80000901222229
+        ]
+      ],
+      "vertices": 1288,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 BORE | sparse segmented rear wall | open depth cage",
+      "type": "MESH",
+      "dimensions": [
+        1.3122811317443848,
+        1.2099084854125977,
+        3.095518112182617
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6890296339988708,
+          -0.5416073799133301,
+          -1.4395862817764282
+        ],
+        [
+          0.6232514381408691,
+          0.6683011054992676,
+          1.6559319496154785
+        ]
+      ],
+      "vertices": 6480,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL BOREHOLE | continuous translucent volume | persistent",
+      "type": "MESH",
+      "dimensions": [
+        1.3795597553253174,
+        1.3759870529174805,
+        3.173828125
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6897881031036377,
+          -0.6859903335571289,
+          -1.4500000476837158
+        ],
+        [
+          0.6897715926170349,
+          0.6899967193603516,
+          1.7238280773162842
+        ]
+      ],
+      "vertices": 65792,
+      "parent": null,
+      "custom_properties": {
+        "persistence": "No hide keys, opacity fade or wave_visibility driver on surface opacity. reveal_radius holds through 96. Only contact glow uses pulse visibility."
+      },
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL BOREHOLE | subtle contour 00",
+      "type": "MESH",
+      "dimensions": [
+        1.3228636980056763,
+        1.3314546346664429,
+        0.002199888229370117
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6464431881904602,
+          -0.6633737683296204,
+          -1.3310999870300293
+        ],
+        [
+          0.6764205098152161,
+          0.6680808663368225,
+          -1.3289000988006592
+        ]
+      ],
+      "vertices": 1536,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL BOREHOLE | subtle contour 01",
+      "type": "MESH",
+      "dimensions": [
+        1.3197726011276245,
+        1.3271034955978394,
+        0.002200007438659668
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6478018164634705,
+          -0.6693004369735718,
+          -0.9311000108718872
+        ],
+        [
+          0.671970784664154,
+          0.6578030586242676,
+          -0.9289000034332275
+        ]
+      ],
+      "vertices": 1536,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL BOREHOLE | subtle contour 02",
+      "type": "MESH",
+      "dimensions": [
+        1.342895269393921,
+        1.3454707860946655,
+        0.002200007438659668
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6861775517463684,
+          -0.6834657192230225,
+          -0.5310999751091003
+        ],
+        [
+          0.6567176580429077,
+          0.6620050668716431,
+          -0.5288999676704407
+        ]
+      ],
+      "vertices": 1536,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL BOREHOLE | subtle contour 03",
+      "type": "MESH",
+      "dimensions": [
+        1.340964674949646,
+        1.3244130611419678,
+        0.002200007438659668
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6739076972007751,
+          -0.6419252753257751,
+          -0.13109999895095825
+        ],
+        [
+          0.6670569777488708,
+          0.6824877858161926,
+          -0.12889999151229858
+        ]
+      ],
+      "vertices": 1536,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL BOREHOLE | subtle contour 04",
+      "type": "MESH",
+      "dimensions": [
+        1.3184903860092163,
+        1.3189374208450317,
+        0.002200007438659668
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6546184420585632,
+          -0.654704213142395,
+          0.2689000070095062
+        ],
+        [
+          0.6638719439506531,
+          0.6642332077026367,
+          0.2711000144481659
+        ]
+      ],
+      "vertices": 1536,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL BOREHOLE | subtle contour 05",
+      "type": "MESH",
+      "dimensions": [
+        1.3395521640777588,
+        1.3402040004730225,
+        0.002200007438659668
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6587234735488892,
+          -0.6832359433174133,
+          0.6689000129699707
+        ],
+        [
+          0.6808286309242249,
+          0.6569681167602539,
+          0.6711000204086304
+        ]
+      ],
+      "vertices": 1536,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL BOREHOLE | subtle contour 06",
+      "type": "MESH",
+      "dimensions": [
+        1.3310294151306152,
+        1.3472121953964233,
+        0.002199888229370117
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6866572499275208,
+          -0.6779177784919739,
+          1.0689001083374023
+        ],
+        [
+          0.6443721652030945,
+          0.6692944169044495,
+          1.0710999965667725
+        ]
+      ],
+      "vertices": 1536,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL BOREHOLE | subtle contour 07",
+      "type": "MESH",
+      "dimensions": [
+        1.3196454048156738,
+        1.3210418224334717,
+        0.002199888229370117
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6584730744361877,
+          -0.6513636708259583,
+          1.4689000844955444
+        ],
+        [
+          0.6611723303794861,
+          0.6696782112121582,
+          1.4710999727249146
+        ]
+      ],
+      "vertices": 1536,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "WAVE 1 | spherical section XY",
+      "type": "CURVE",
+      "dimensions": [
+        4.0,
+        4.0,
+        2.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.12999999523162842,
+        0.12999999523162842,
+        0.12999999523162842
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "WAVE 1 | spherical section XZ",
+      "type": "CURVE",
+      "dimensions": [
+        4.0,
+        2.0,
+        4.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.12999999523162842,
+        0.12999999523162842,
+        0.12999999523162842
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "WAVE 1 | spherical section YZ",
+      "type": "CURVE",
+      "dimensions": [
+        2.0,
+        4.0,
+        4.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.12999999523162842,
+        0.12999999523162842,
+        0.12999999523162842
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "WAVE 2 | spherical section XY",
+      "type": "CURVE",
+      "dimensions": [
+        4.0,
+        4.0,
+        2.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05499999597668648,
+        0.05499999597668648,
+        0.05499999597668648
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "WAVE 2 | spherical section XZ",
+      "type": "CURVE",
+      "dimensions": [
+        4.0,
+        2.0,
+        4.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05499999597668648,
+        0.05499999597668648,
+        0.05499999597668648
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "WAVE 2 | spherical section YZ",
+      "type": "CURVE",
+      "dimensions": [
+        2.0,
+        4.0,
+        4.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05499999597668648,
+        0.05499999597668648,
+        0.05499999597668648
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "WAVE 3 | spherical section XY",
+      "type": "CURVE",
+      "dimensions": [
+        4.0,
+        4.0,
+        2.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "WAVE 3 | spherical section XZ",
+      "type": "CURVE",
+      "dimensions": [
+        4.0,
+        2.0,
+        4.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "WAVE 3 | spherical section YZ",
+      "type": "CURVE",
+      "dimensions": [
+        2.0,
+        4.0,
+        4.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "WAVE | translucent 3D spherical front",
+      "type": "MESH",
+      "dimensions": [
+        1.9999995231628418,
+        1.999999761581421,
+        2.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.00013000000035390258,
+        0.00013000000035390258,
+        0.00013000000035390258
+      ],
+      "bounds_world": [
+        [
+          -0.9999997019767761,
+          -0.9999997615814209,
+          -1.0
+        ],
+        [
+          0.9999998807907104,
+          1.0,
+          1.0
+        ]
+      ],
+      "vertices": 1986,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "V1.1 WAVE | expanding annular ribbon | sensing level",
+      "type": "MESH",
+      "dimensions": [
+        2.0,
+        2.0,
+        0.03999999910593033
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.6600000858306885,
+        0.6600000858306885,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -1.0,
+          -1.0,
+          -0.019999999552965164
+        ],
+        [
+          1.0,
+          1.0,
+          0.019999999552965164
+        ]
+      ],
+      "vertices": 384,
+      "parent": null,
+      "custom_properties": {
+        "interpretation": "Circumferential artistic field at documented sensing plane, not an invented physical emitter or validated propagation."
+      },
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "V1.1 WAVE | leading circular crest",
+      "type": "CURVE",
+      "dimensions": [
+        4.0,
+        4.0,
+        2.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.6600000858306885,
+        0.6600000858306885,
+        1.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "V1.1 WAVE | wall contact crest | causal reveal edge",
+      "type": "MESH",
+      "dimensions": [
+        1.3735721111297607,
+        1.3699930906295776,
+        3.25
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6867848634719849,
+          -0.682996392250061,
+          -1.4500000476837158
+        ],
+        [
+          0.6867872476577759,
+          0.6869966983795166,
+          1.7999999523162842
+        ]
+      ],
+      "vertices": 98560,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "V1.1 WAVE | smooth contact boundary | matched arrival radius",
+      "type": "MESH",
+      "dimensions": [
+        1.344742774963379,
+        1.323392391204834,
+        0.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.6723713874816895,
+          -0.6373924016952515,
+          0.0
+        ],
+        [
+          0.6723713874816895,
+          0.6859999895095825,
+          0.0
+        ]
+      ],
+      "vertices": 1024,
+      "parent": null,
+      "custom_properties": {
+        "control": "Absolute radius samples, linear interpolation; contact at same reveal_radius as permanent wall geometry. Radius sample interval ~0.0107 m, artistic units."
+      },
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "FINAL PULSE | travelling curved front | existing face 1",
+      "type": "MESH",
+      "dimensions": [
+        1.8126156330108643,
+        1.8126156330108643,
+        0.5773817300796509
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.7200000286102295,
+        1.7200000286102295,
+        1.7200000286102295
+      ],
+      "bounds_world": [
+        [
+          -0.9063078165054321,
+          -0.9063078165054321,
+          0.4226182699203491
+        ],
+        [
+          0.9063078165054321,
+          0.9063078165054321,
+          1.0
+        ]
+      ],
+      "vertices": 3168,
+      "parent": null,
+      "custom_properties": {},
+      "animated": true,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL PULSE | detached travelling crescent | face 1",
+      "type": "MESH",
+      "dimensions": [
+        0.010000128298997879,
+        1.6856852769851685,
+        0.4631166458129883
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.7200000286102295,
+        1.7200000286102295,
+        1.7200000286102295
+      ],
+      "bounds_world": [
+        [
+          -0.0050000641494989395,
+          -0.8428426384925842,
+          0.5418833494186401
+        ],
+        [
+          0.0050000641494989395,
+          0.8428426384925842,
+          1.0049999952316284
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": true,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL PULSE | open crest 1 +0.24",
+      "type": "MESH",
+      "dimensions": [
+        1.7687735557556152,
+        0.009000003337860107,
+        0.5672826170921326
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.8843867778778076,
+          0.23320262134075165,
+          0.4085553288459778
+        ],
+        [
+          0.8843867778778076,
+          0.24220262467861176,
+          0.9758379459381104
+        ]
+      ],
+      "vertices": 776,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL PULSE | travelling curved front | existing face 2",
+      "type": "MESH",
+      "dimensions": [
+        1.8126156330108643,
+        1.8126156330108643,
+        0.5773817300796509
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.7200000286102295,
+        1.7200000286102295,
+        1.7200000286102295
+      ],
+      "bounds_world": [
+        [
+          -0.9063078165054321,
+          -0.9063078165054321,
+          0.4226182699203491
+        ],
+        [
+          0.9063078165054321,
+          0.9063078165054321,
+          1.0
+        ]
+      ],
+      "vertices": 3168,
+      "parent": null,
+      "custom_properties": {},
+      "animated": true,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL PULSE | detached travelling crescent | face 2",
+      "type": "MESH",
+      "dimensions": [
+        0.010000128298997879,
+        1.6856852769851685,
+        0.4631166458129883
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.7200000286102295,
+        1.7200000286102295,
+        1.7200000286102295
+      ],
+      "bounds_world": [
+        [
+          -0.0050000641494989395,
+          -0.8428426384925842,
+          0.5418833494186401
+        ],
+        [
+          0.0050000641494989395,
+          0.8428426384925842,
+          1.0049999952316284
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": true,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL PULSE | open crest 2 +0.24",
+      "type": "MESH",
+      "dimensions": [
+        1.7687735557556152,
+        0.009000003337860107,
+        0.5672826170921326
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.8843867778778076,
+          0.23320262134075165,
+          0.4085553288459778
+        ],
+        [
+          0.8843867778778076,
+          0.24220262467861176,
+          0.9758379459381104
+        ]
+      ],
+      "vertices": 776,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL PULSE | travelling curved front | existing face 3",
+      "type": "MESH",
+      "dimensions": [
+        1.8126156330108643,
+        1.8126156330108643,
+        0.5773817300796509
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.7200000286102295,
+        1.7200000286102295,
+        1.7200000286102295
+      ],
+      "bounds_world": [
+        [
+          -0.9063078165054321,
+          -0.9063078165054321,
+          0.4226182699203491
+        ],
+        [
+          0.9063078165054321,
+          0.9063078165054321,
+          1.0
+        ]
+      ],
+      "vertices": 3168,
+      "parent": null,
+      "custom_properties": {},
+      "animated": true,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL PULSE | detached travelling crescent | face 3",
+      "type": "MESH",
+      "dimensions": [
+        0.010000128298997879,
+        1.6856852769851685,
+        0.4631166458129883
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.7200000286102295,
+        1.7200000286102295,
+        1.7200000286102295
+      ],
+      "bounds_world": [
+        [
+          -0.0050000641494989395,
+          -0.8428426384925842,
+          0.5418833494186401
+        ],
+        [
+          0.0050000641494989395,
+          0.8428426384925842,
+          1.0049999952316284
+        ]
+      ],
+      "vertices": 1032,
+      "parent": null,
+      "custom_properties": {},
+      "animated": true,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "FINAL PULSE | open crest 3 +0.24",
+      "type": "MESH",
+      "dimensions": [
+        1.7687735557556152,
+        0.009000003337860107,
+        0.5672826170921326
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": [
+        [
+          -0.8843867778778076,
+          0.23320262134075165,
+          0.4085553288459778
+        ],
+        [
+          0.8843867778778076,
+          0.24220262467861176,
+          0.9758379459381104
+        ]
+      ],
+      "vertices": 776,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "CAMERA | continuous orbit and 23 degree roll",
+      "type": "CAMERA",
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "location_world": [
+        2.9292149543762207,
+        -1.5098111629486084,
+        0.07432884722948074
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": true,
+      "modifiers": []
+    },
+    {
+      "name": "Softbox | pale key",
+      "type": "LIGHT",
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "location_world": [
+        1.2999999523162842,
+        -2.200000047683716,
+        2.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "Softbox | long hardware rim",
+      "type": "LIGHT",
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "location_world": [
+        -1.0,
+        0.6000000238418579,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "Softbox | neutral front fill",
+      "type": "LIGHT",
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "location_world": [
+        1.0,
+        -1.0,
+        -1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {},
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "CONTROL | wave radius and reveal | metres",
+      "type": "EMPTY",
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "location_world": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {
+        "radius": "1.850000023841858",
+        "wave_visibility": "0.699999988079071",
+        "note": "Artistic distance mask. Radius drives wave geometry and wall deletion independently of camera. Not acoustic physics.",
+        "reveal_radius": "1.850000023841858",
+        "V1.1 note": "radius drives outgoing ribbon; reveal_radius drives wall arrival crest AND permanent reveal; defaults retain V1 synchronized curves. wave_visibility tapers contact band."
+      },
+      "animated": true,
+      "modifiers": []
+    },
+    {
+      "name": "REFERENCE | documented sensing recess 1 | not new emitter",
+      "type": "EMPTY",
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "location_world": [
+        0.10777488350868225,
+        0.07269507646560669,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {
+        "source": "Earlier IMPLEMENTATION_REPORT.md: client identified large recess beside cover; CAD plane X=730 mm, 120 degree spacing. Internal transducer/acoustic field not established."
+      },
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "REFERENCE | documented sensing recess 2 | not new emitter",
+      "type": "EMPTY",
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "location_world": [
+        -0.11684323102235794,
+        0.05698825418949127,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {
+        "source": "Earlier IMPLEMENTATION_REPORT.md: client identified large recess beside cover; CAD plane X=730 mm, 120 degree spacing. Internal transducer/acoustic field not established."
+      },
+      "animated": false,
+      "modifiers": []
+    },
+    {
+      "name": "REFERENCE | documented sensing recess 3 | not new emitter",
+      "type": "EMPTY",
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "location_world": [
+        0.009068339131772518,
+        -0.12968334555625916,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_world": null,
+      "vertices": null,
+      "parent": null,
+      "custom_properties": {
+        "source": "Earlier IMPLEMENTATION_REPORT.md: client identified large recess beside cover; CAD plane X=730 mm, 120 degree spacing. Internal transducer/acoustic field not established."
+      },
+      "animated": false,
+      "modifiers": []
+    }
+  ],
+  "images": [],
+  "libraries": []
+}

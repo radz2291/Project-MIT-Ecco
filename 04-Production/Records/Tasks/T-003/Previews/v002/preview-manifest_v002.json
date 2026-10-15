@@ -1,0 +1,569 @@
+{
+  "version": "v002",
+  "task_id": "1ff92ebd-4585-4d64-b638-5b127d6c8314",
+  "request": "Changes requested: Can you generate image for me preview each shot",
+  "kind": "Source-vector storyboard preview sheets; not AI-generated new compositions or scene renders",
+  "shots": [
+    {
+      "shot": "S01-01",
+      "panels": [
+        1,
+        2
+      ],
+      "start_seconds": 0,
+      "end_seconds": 4,
+      "purpose": "Establish rig and follow drill string from surface toward seabed.",
+      "html": "04-Production/Shots/S01/S01-01/Previews/S01-01_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S01/S01-01/Previews/S01-01_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 1,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_01_Enter_Unseen_World_Padlet/01_surface_starting_point.svg",
+          "included": true,
+          "sha256": "1a6f641c3713fe2b149910ee94cc14f184f7fa1a76d93e3cd8da06b2988df500"
+        },
+        {
+          "panel": 2,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_01_Enter_Unseen_World_Padlet/02_descending_from_rig.svg",
+          "included": true,
+          "sha256": "b1f8aa3ef1d3499c0871c40e2782970733b85917c30bc4468f8cc41e42be6346"
+        }
+      ],
+      "camera_intent": "Preserve the downward camera journey from visible surface through water. Offshore setting is proposed. No lens/path is specified by the source.",
+      "review": "Radzi: offshore context and opening rhythm; MIT: deployment context if retained.",
+      "blockers": "BL02 BL12 BL15 BL16"
+    },
+    {
+      "shot": "S01-02",
+      "panels": [
+        3,
+        4
+      ],
+      "start_seconds": 4,
+      "end_seconds": 10,
+      "purpose": "Continue subsurface descent to ECCO in the existing annulus.",
+      "html": "04-Production/Shots/S01/S01-02/Previews/S01-02_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S01/S01-02/Previews/S01-02_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 3,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_01_Enter_Unseen_World_Padlet/03_through_earth_layers.svg",
+          "included": true,
+          "sha256": "b70d953dd17c6d7b1ccab8fc47fb8bc3af776e7b907f4f7c710e9bcdeb07128b"
+        },
+        {
+          "panel": 4,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_01_Enter_Unseen_World_Padlet/04_ecco_in_darkness.svg",
+          "included": true,
+          "sha256": "64b17ddcf2fb14a67e6623d520137b95eb99a087bcf8f4656931d83fe9d48260"
+        }
+      ],
+      "camera_intent": "Preserve travel through earth layers and the arrival beside ECCO. Continuous descent is source intent; the proposed boundary after P2 is an editorial option, not a required cut.",
+      "review": "Radzi: purposeful arrival and S02 handoff; MIT: scale/clearance and assembly.",
+      "blockers": "BL01 BL02 BL12 BL16"
+    },
+    {
+      "shot": "S02-01",
+      "panels": [
+        1,
+        2
+      ],
+      "start_seconds": 10,
+      "end_seconds": 14,
+      "purpose": "First pulse reaches a local wall spot; echo returns to emitting sensor; repeat spots with string rotation.",
+      "html": "04-Production/Shots/S02/S02-01/Previews/S02-01_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S02/S02-01/Previews/S02-01_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 1,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/01_First_Isolated_Ping.svg",
+          "included": true,
+          "sha256": "2e342a8824118af39a0939b1a45a5844ca1ab98289d55e963a39f501e56ff765"
+        },
+        {
+          "panel": 2,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/02_Repeated_Ping_Spots.svg",
+          "included": true,
+          "sha256": "35b3393a7eab77f2619269352100c0c2c56372f11e6ebe0533d96b55ee34d57f"
+        }
+      ],
+      "camera_intent": "Enter from S01 beside the tool. Preserve the restrained local reveal before charts. Camera treatment unspecified here; do not substitute product motion with a camera orbit.",
+      "review": "MIT via B206: origin/return/operating motion; Radzi: disputed ping/light and readability.",
+      "blockers": "BL01 BL02 BL03 BL04 BL12 BL16"
+    },
+    {
+      "shot": "S02-02",
+      "panels": [
+        3,
+        4
+      ],
+      "start_seconds": 14,
+      "end_seconds": 19,
+      "purpose": "Connect echo arrival to two-way travel time, then repeat 2\u20133 waveform readings.",
+      "html": "04-Production/Shots/S02/S02-02/Previews/S02-02_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S02/S02-02/Previews/S02-02_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 3,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/03_First_Waveform_TOF.svg",
+          "included": true,
+          "sha256": "50be01ce9012bfe5573cdf5c4db5e40e8c005bd6bcdd05a2c1fd6983e350f4c3"
+        },
+        {
+          "panel": 4,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/04_Additional_Waveforms.svg",
+          "included": true,
+          "sha256": "9d01c7a8ba66781bbe34ab3fb806b2fd03ca01bcd3399032098f170faaec43aa"
+        }
+      ],
+      "camera_intent": "Preserve current conceptual C Spatial Cinematic preference: approach tool/wall relationship and resolve a readable waveform layer. A1 remains suitable for a simpler beat; A1/A2 density test is deferred. Exact camera score remains for construction.",
+      "review": "MIT: round-trip meaning, corrections and waveform; Radzi: camera arrival, chart legibility and recognition time.",
+      "blockers": "BL01 BL03 BL04 BL12 BL16"
+    },
+    {
+      "shot": "S02-03",
+      "panels": [
+        5
+      ],
+      "start_seconds": 19,
+      "end_seconds": 22,
+      "purpose": "Accumulated circumferential samples resolve as one measured 360\u00b0 outline.",
+      "html": "04-Production/Shots/S02/S02-03/Previews/S02-03_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S02/S02-03/Previews/S02-03_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 5,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/05_Measured_360_Ring.svg",
+          "included": true,
+          "sha256": "4390e4b87972713d28acd6a88c12c8da2197c3add309b0982e52f91b1a012f01"
+        }
+      ],
+      "camera_intent": "Preserve the ring as the S02\u2192S03 handoff. No source-mandated camera orbit or lens; retain spatial orientation and distinguish camera motion from string rotation.",
+      "review": "MIT: sampling and operating behavior; Radzi: ring recognition and depth-extension continuity.",
+      "blockers": "BL01 BL02 BL04 BL05 BL12"
+    },
+    {
+      "shot": "S03-01",
+      "panels": [
+        1,
+        2
+      ],
+      "start_seconds": 22,
+      "end_seconds": 29,
+      "purpose": "Compare nominal bit-size reference with enlargement and tight regions.",
+      "html": "04-Production/Shots/S03/S03-01/Previews/S03-01_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S03/S03-01/Previews/S03-01_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 1,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/01_White_Nominal_Bit_Size.svg",
+          "included": true,
+          "sha256": "d29e901e0c821ea64899e75663636c41f21a0d0eebcdc55b153a5a522d588647"
+        },
+        {
+          "panel": 2,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/02_Blue_Enlargement_Red_Tight_Spots.svg",
+          "included": true,
+          "sha256": "f26160bbeffe9ed75309bd77960693fbe2381fe1177ad565d406acbba7478362"
+        }
+      ],
+      "camera_intent": "Preserve ring continuity and comparison before moving through depth. Source does not specify a new camera path; do not reset orientation gratuitously.",
+      "review": "MIT: nominal definition, clearance, palette and thresholds; Radzi: comparison legibility.",
+      "blockers": "BL02 BL04 BL05 BL12"
+    },
+    {
+      "shot": "S03-02",
+      "panels": [
+        3
+      ],
+      "start_seconds": 29,
+      "end_seconds": 33,
+      "purpose": "Accumulate geometry through depth; spiral is wall deformation, not a ribbon inside the hole.",
+      "html": "04-Production/Shots/S03/S03-02/Previews/S03-02_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S03/S03-02/Previews/S03-02_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 3,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/03_Borehole_Geometry_Through_Depth_Revised.svg",
+          "included": true,
+          "sha256": "a9c5d1cb151a5fbdced8f999f825f576b0598f46ade43540c9773723d625c1f9"
+        }
+      ],
+      "camera_intent": "Preserve progression from cross-section to depth and actual rotating/downward operating motion. Camera path unspecified; do not treat illustrated helix as a camera track.",
+      "review": "MIT: whether source video shows spiral or general enlargement; Radzi: wall-shape readability.",
+      "blockers": "BL02 BL04 BL05 BL14 BL12"
+    },
+    {
+      "shot": "S03-03",
+      "panels": [
+        4
+      ],
+      "start_seconds": 33,
+      "end_seconds": 36,
+      "purpose": "Brief bridge: one echo carries timing and amplitude as separate properties.",
+      "html": "04-Production/Shots/S03/S03-03/Previews/S03-03_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S03/S03-03/Previews/S03-03_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 4,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/04_Same_Echo_Two_Properties.svg",
+          "included": true,
+          "sha256": "3d546793e6ddf970872ffcc3d1d901ae2e10c1b95bd30709db025321334571bf"
+        }
+      ],
+      "camera_intent": "Preserve brief bridge rather than repeating the waveform tutorial. Camera/graphic anchoring remains unspecified pending the later contract.",
+      "review": "MIT: quantity distinction; Radzi: economy/read time.",
+      "blockers": "BL03 BL04 BL05 BL12 BL16"
+    },
+    {
+      "shot": "S03-04",
+      "panels": [
+        5
+      ],
+      "start_seconds": 36,
+      "end_seconds": 40,
+      "purpose": "Repeated amplitude readings build a separate warm formation image.",
+      "html": "04-Production/Shots/S03/S03-04/Previews/S03-04_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S03/S03-04/Previews/S03-04_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 5,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/05_Yellow_Brown_Formation_Image.svg",
+          "included": true,
+          "sha256": "4ca30b218647405335882e01c3b16438efe054ee00df6ae1c00a762405ff4fca"
+        }
+      ],
+      "camera_intent": "Preserve image accumulation and handoff toward cased-hole context. Reserve full cylinder-unwrapping choreography for S06.",
+      "review": "MIT: permitted interpretation and colormap; Radzi: separation from blue/red geometry.",
+      "blockers": "BL04 BL05 BL12"
+    },
+    {
+      "shot": "S04-01",
+      "panels": [
+        1
+      ],
+      "start_seconds": 40,
+      "end_seconds": 43,
+      "purpose": "Bit, BHA and ECCO retrieve upward into pre-existing upper casing.",
+      "html": "04-Production/Shots/S04/S04-01/Previews/S04-01_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S04/S04-01/Previews/S04-01_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 1,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/01_Upward_BHA_Enters_Existing_Casing.svg",
+          "included": true,
+          "sha256": "0cdccf5454eb3137daf5d7edd54af5923618cae7aa77b434a79c6e4963bc1e97"
+        }
+      ],
+      "camera_intent": "Preserve upward transition after deeper drilling. Camera follows/frames the relationship as later directed; casing never materializes around tool. Explicit change of operating interval from S03.",
+      "review": "MIT: compatible tool/bit/casing and retrieval scenario; Radzi: directional/context handoff.",
+      "blockers": "BL01 BL02 BL06 BL12"
+    },
+    {
+      "shot": "S04-02",
+      "panels": [
+        2,
+        3
+      ],
+      "start_seconds": 43,
+      "end_seconds": 50,
+      "purpose": "Pulse interacts with inner steel; compare casing ringdown with supported/poorly supported annulus.",
+      "html": "04-Production/Shots/S04/S04-02/Previews/S04-02_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S04/S04-02/Previews/S04-02_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 2,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/02_Ultrasonic_Response_in_Casing.svg",
+          "included": true,
+          "sha256": "ed79dcd26bf6382d0883ae159ae6eeb92686abf6c0b7702bfe17562e683c0489"
+        },
+        {
+          "panel": 3,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/03_Deviated_Well_Cement_Ringing.svg",
+          "included": true,
+          "sha256": "1553535ad8800758e0b30d4e94f19a5b90ff561c2058acd8ec4fe9170f79cbe9"
+        }
+      ],
+      "camera_intent": "Preserve deviated lengthwise/3/4 side view, not a substituted top cross-section. Source permits waveform insets; exact camera move/cut is unspecified.",
+      "review": "MIT: operating conditions and signal interpretation; Radzi: sensor/steel/annulus and paired comparison legibility.",
+      "blockers": "BL01 BL02 BL06 BL07 BL12"
+    },
+    {
+      "shot": "S04-03",
+      "panels": [
+        4
+      ],
+      "start_seconds": 50,
+      "end_seconds": 54,
+      "purpose": "Relate localized axial channel behind casing to a 360\u00b0 cement interpretation map.",
+      "html": "04-Production/Shots/S04/S04-03/Previews/S04-03_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S04/S04-03/Previews/S04-03_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 4,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/04_Axial_Cement_Water_Channel.svg",
+          "included": true,
+          "sha256": "850a6954a104267f649157bb7f0fa7bf85ebb0f56489c1a0eb786db10e420e15"
+        }
+      ],
+      "camera_intent": "Preserve lengthwise channel-to-map correspondence. It runs axially, never a ring around the entire casing. No camera trajectory specified.",
+      "review": "MIT: channel extent, data colors and fluid inference; Radzi: physical-to-map connection.",
+      "blockers": "BL02 BL06 BL07 BL12"
+    },
+    {
+      "shot": "S04-04",
+      "panels": [
+        5
+      ],
+      "start_seconds": 54,
+      "end_seconds": 58,
+      "purpose": "Reveal inner-wall wear groove and locally increased ID with unchanged reference OD.",
+      "html": "04-Production/Shots/S04/S04-04/Previews/S04-04_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S04/S04-04/Previews/S04-04_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 5,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/05_Inner_Casing_Wear_Groove.svg",
+          "included": true,
+          "sha256": "9e94b871fde83ec103b309ba92a8c05fe8a212b7842993188169b5c121601f5c"
+        }
+      ],
+      "camera_intent": "Preserve comparison of normal and worn INNER wall; do not relocate groove to casing exterior. Camera/cut treatment remains for later construction.",
+      "review": "MIT: observable and claim limits; Radzi: groove-side clarity and transition to hydraulics.",
+      "blockers": "BL02 BL06 BL07 BL12"
+    },
+    {
+      "shot": "S05-01",
+      "panels": [
+        1
+      ],
+      "start_seconds": 58,
+      "end_seconds": 60,
+      "purpose": "Establish mud down string, out bit, upward annular return with cuttings.",
+      "html": "04-Production/Shots/S05/S05-01/Previews/S05-01_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S05/S05-01/Previews/S05-01_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 1,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/01_mud_circulation.svg",
+          "included": true,
+          "sha256": "43bf85ec23ad0cd50b096fd2acf9aa5667b86992e91422311bf1df5fd0f6f4ea"
+        }
+      ],
+      "camera_intent": "Preserve whole circulation context before detail. No exact camera move specified; transition from casing to selected hydraulic scenario must be made explicit later.",
+      "review": "MIT: scenario and selected mode; Radzi: rapid directional comprehension.",
+      "blockers": "BL01 BL02 BL08 BL12"
+    },
+    {
+      "shot": "S05-02",
+      "panels": [
+        2,
+        3,
+        4
+      ],
+      "start_seconds": 60,
+      "end_seconds": 67,
+      "purpose": "Show accelerator \u2192 two twisted-pad sets \u2192 diffuser as integrated body functions.",
+      "html": "04-Production/Shots/S05/S05-02/Previews/S05-02_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S05/S05-02/Previews/S05-02_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 2,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/02_stage1_accelerator.svg",
+          "included": true,
+          "sha256": "41fd5c327bf761cdfd2ec451ee8f9ad7d3a9a642d5c762057deb63df0ac9e886"
+        },
+        {
+          "panel": 3,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/03_stage2_twisted_pads.svg",
+          "included": true,
+          "sha256": "6d666d7f882bc25c019f1818f0d96126ef0f2f84f4244d5e171615417168ddfd"
+        },
+        {
+          "panel": 4,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/04_stage3_diffuser.svg",
+          "included": true,
+          "sha256": "ed513b0c8ea1432ddc25d838a10f52041d7ae13f9f6d1cc6a3b34a3178d40225"
+        }
+      ],
+      "camera_intent": "Preserve progression along the three functions and their spatial relationship. Existing diagrams do not verify axial positions; exact traversal and arrivals wait for inspected geometry.",
+      "review": "MIT: pad identities/order, mode and flow behavior; Radzi: readable progression in 7-second proposed budget.",
+      "blockers": "BL01 BL02 BL08 BL12"
+    },
+    {
+      "shot": "S05-03",
+      "panels": [
+        5
+      ],
+      "start_seconds": 67,
+      "end_seconds": 70,
+      "purpose": "Resolve integrated stages using MIT analysis if supplied and approved.",
+      "html": "04-Production/Shots/S05/S05-03/Previews/S05-03_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S05/S05-03/Previews/S05-03_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 5,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/05_integrated_three_stages.svg",
+          "included": true,
+          "sha256": "c62728b03bb3c456c4eb2b388db4f6998c1aaecb1bea28b8bac50003d3c945e2"
+        }
+      ],
+      "camera_intent": "Preserve pullback to integrated body from carried-forward caption. C08 may require different integration once media arrives; no new design or invented analysis here.",
+      "review": "MIT: analysis source/variable and claim; Radzi: retain/hold/replace panel choice.",
+      "blockers": "BL08 BL09 BL12"
+    },
+    {
+      "shot": "S06-01",
+      "panels": [
+        1,
+        2
+      ],
+      "start_seconds": 70,
+      "end_seconds": 74,
+      "purpose": "Leave downhole hardware for reconstructed 3D measurements from memory.",
+      "html": "04-Production/Shots/S06/S06-01/Previews/S06-01_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S06/S06-01/Previews/S06-01_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 1,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/01_From_Downhole_To_3D.svg",
+          "included": true,
+          "sha256": "0e50d9ad55166ca981c516b41319c95086ac4d2b9162d9792d139f08f5729338"
+        },
+        {
+          "panel": 2,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/02_3D_Reconstructed_Borehole.svg",
+          "included": true,
+          "sha256": "be17cc2309484c77ae9c243efd9a1c3a9f2a98a66c70b14758c17b05734e8a38"
+        }
+      ],
+      "camera_intent": "Preserve tool\u21923D wall transition and initial tool silhouette connection. Conceptual scene-space handoff, not a live data beam to surface.",
+      "review": "MIT: memory/output chronology and mapping; Radzi: physical-to-data-space readability.",
+      "blockers": "BL04 BL05 BL10 BL12"
+    },
+    {
+      "shot": "S06-02",
+      "panels": [
+        3,
+        4
+      ],
+      "start_seconds": 74,
+      "end_seconds": 80,
+      "purpose": "Open reconstructed wall along axial seam and flatten to azimuth/depth maps.",
+      "html": "04-Production/Shots/S06/S06-02/Previews/S06-02_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S06/S06-02/Previews/S06-02_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 3,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/03_Vertical_Seam_Opening.svg",
+          "included": true,
+          "sha256": "078a79b344d30e5816507c6d1c486916df8c5c085f995d5afaf0343acae374c3"
+        },
+        {
+          "panel": 4,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/04_Unwrapped_2D_Measurement_Maps.svg",
+          "included": true,
+          "sha256": "f4fb4600aba2b75558b945fc4545ea7398d6a6db58b9f96131a40c31a0ac615f"
+        }
+      ],
+      "camera_intent": "Preserve continuous 3D wall\u2192longitudinal seam opening\u2192flat 2D transition. This is a representation change, not rock being cut. Exact camera staging awaits contract.",
+      "review": "MIT: clocking/seam, map orientation and separate variables; Radzi: continuous opening/flattening comprehension.",
+      "blockers": "BL05 BL10 BL12 BL16"
+    },
+    {
+      "shot": "S06-03",
+      "panels": [
+        5
+      ],
+      "start_seconds": 80,
+      "end_seconds": 82,
+      "purpose": "Conditional single genuine Mi-VU log reveal with correct ENP1 identity.",
+      "html": "04-Production/Shots/S06/S06-03/Previews/S06-03_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S06/S06-03/Previews/S06-03_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 5,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/05_Actual_MiVU_Field_Log_ENP1.svg",
+          "included": false,
+          "reason": "Restricted ENP1 image not read/copied; placeholder generated."
+        }
+      ],
+      "camera_intent": "Preserve source-described cut from stylized map to real report only if cleared; do not silently replace, relabel or expose log. S07 entry must also adapt if omitted.",
+      "review": "Radzi/MIT/operator: permission, redaction and labeling; Radzi: hold/replace choice and 2-second readability.",
+      "blockers": "BL11 BL12"
+    },
+    {
+      "shot": "S07-01",
+      "panels": [
+        1
+      ],
+      "start_seconds": 82,
+      "end_seconds": 84,
+      "purpose": "Reconnect engineering output to the hardware responsible.",
+      "html": "04-Production/Shots/S07/S07-01/Previews/S07-01_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S07/S07-01/Previews/S07-01_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 1,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_07_Product_Hero_Padlet/01_from_field_log_to_ecco.svg",
+          "included": true,
+          "sha256": "00a007b88de223713539436b8d68a95089104bb09cad3b4eed2ea6374818b230"
+        }
+      ],
+      "camera_intent": "Preserve move away from output to reveal physical ECCO. If real log is omitted, inherit only the approved replacement. Exact move unspecified; unapproved S07 camera study is not adopted.",
+      "review": "Radzi: output/product handoff; MIT: model identity.",
+      "blockers": "BL01 BL11 BL12"
+    },
+    {
+      "shot": "S07-02",
+      "panels": [
+        2,
+        3
+      ],
+      "start_seconds": 84,
+      "end_seconds": 88,
+      "purpose": "Clean integrated product hero followed by recall of five established capabilities.",
+      "html": "04-Production/Shots/S07/S07-02/Previews/S07-02_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S07/S07-02/Previews/S07-02_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 2,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_07_Product_Hero_Padlet/02_full_enp3_hero.svg",
+          "included": true,
+          "sha256": "2615c6db655b302dd99d534b8dc596efbe1e1a165660d728e01051b3fa9f15c9"
+        },
+        {
+          "panel": 3,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_07_Product_Hero_Padlet/03_five_capabilities.svg",
+          "included": true,
+          "sha256": "0db756942ebdae4cd0e5394313e4c38a1491660f021227ec2a3379010ecd4a91"
+        }
+      ],
+      "camera_intent": "Preserve fading charts\u2192clean full product\u2192brief symbols. Camera is unspecified; stationary product presentation is legitimate and distinct from operational rotation.",
+      "review": "Radzi: product presence, recall and reading time; MIT: supported wording/geometry.",
+      "blockers": "BL01 BL12 BL13 BL16"
+    },
+    {
+      "shot": "S07-03",
+      "panels": [
+        4
+      ],
+      "start_seconds": 88,
+      "end_seconds": 90,
+      "purpose": "Resolve with complete product and official MIT identity/tagline.",
+      "html": "04-Production/Shots/S07/S07-03/Previews/S07-03_inventory-preview_v002.html",
+      "png": "04-Production/Shots/S07/S07-03/Previews/S07-03_inventory-preview_v002.png",
+      "sources": [
+        {
+          "panel": 4,
+          "path": "03-Context/02_Storyboard/V2/ECCO_Section_07_Product_Hero_Padlet/04_mit_brand_closing.svg",
+          "included": true,
+          "sha256": "599e965581c9a24f14845a5248d76d869abb82f4c91f609297352ba2a3fe9d84"
+        }
+      ],
+      "camera_intent": "Preserve icon fade and closing resolution. No source-mandated orbit/hero travel; later contract decides meaningful hold or motion.",
+      "review": "Radzi/MIT: correct artwork/proportions, finish, exact end-card copy and readable close.",
+      "blockers": "BL01 BL12 BL13 BL16"
+    }
+  ]
+}
