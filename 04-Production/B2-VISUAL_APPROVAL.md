@@ -1,76 +1,67 @@
-# B2 — Engineering scenes for visual approval
+# B2 — Visual direction before Blender execution
 
-Owner amendment: 16 October 2026. Radzi clarified that B2's main approval output must closely represent the intended film explanation, using the actual ECCO model and reusable spatial effects. This supersedes earlier advice that B2 needs only isolated mechanical schematics or can defer all directorial judgment to B3.
+Updated 16 October 2026. Owner-authorized workflow: **one bundled visual-direction ticket, T26 / B200**, covers T7–T11. This supersedes earlier instructions asking individual Blender executors to discover their own visual treatment or limiting the still-first trial to T7.
 
-## T7 workflow trial: approve the still treatment before motion
+## Sequence and ownership
 
-**Scope correction from Radzi, 16 October 2026: focus on T7 only to confirm this workflow.** The gate below applies only to T7 / B201; it does not change the approval sequence or authorize rework on T8–T12. Broader adoption waits for Radzi's confirmation after the T7 trial.
+1. **T26 — discuss, interpret and direct.** A separate visual-direction agent works with Radzi on engineering meaning, cinematic treatment and near-final AI-generated reference images. Iterate here while changes are cheap.
+2. **Radzi approves the reference package.** Save exact approved frames, brief beat annotations and the existing Scene Direction Contract for each mechanism. Complete the bundled T26 package for human acceptance.
+3. **T7–T11 — implement the approved package in Blender.** These execution tickets depend on T26, retaining their original technical dependencies. Preserve prior work and implement the selected visual language, not a fresh artistic exploration.
+4. **Check implementation stills, then animate.** Verify actual geometry, occlusion and visual correspondence in representative stills; obtain Radzi's implementation approval before motion. This is a fidelity/feasibility check, not another visual-discovery phase.
+5. **B3 — develop shot choreography and edit.** Reuse the approved direction and constructed scenes for camera movement, timing and transitions. Final rendering/AI finish remains later.
 
-**T7 instruction:** stop new motion work/rendering on its unapproved visual treatment. First submit still proposals covering **every distinct message or explanatory beat** needed by the mechanism. Earlier requests for moving demonstrations apply only after this gate. Preserve useful existing animation and technical work; neither existing motion nor prior technical checks imply visual approval.
+No Blender build or heavy render is required to develop the reference package. Read existing scenes/reports if useful for feasibility; do not mutate execution assets inside the direction ticket. Do not start B2 execution simply because generated images look attractive: Radzi must approve the exact package and the recorded dependencies must be satisfied. For now T26 is one bundled dependency; partial image approvals are preserved but do not silently bypass that task dependency.
 
-The immediate issue is visual language: a sensor/pulse marker that reads as a little physical stick or pin protruding from ECCO is not accepted. This is not authority to choose a replacement style on the owner's behalf. Propose a legible representation in stills using the actual model, intended framing and Directorial Identity; do not confuse diagnostic locators or path controls with the visible mechanism. Keep implementation aids out of the approval image unless deliberately proposed and clearly explained.
+## Immediate T7 starting point
 
-### Phase 1 — still proposal
+Owner confirms **Still 1 and Still 2 approved**. Reuse, do not redesign:
 
-1. Read the relevant engineering sources, mechanical-storyboard beats, active Directorial Identity modules and Scene Director skill. Translate meaning into original cinematic composition; do not replicate mechanical panels.
-2. List the distinct information beats briefly, then provide enough on-model stills to cover all of them. Show before/event/result key states where needed to communicate causality. For T7 include sensor origin, outgoing pulse/wall interaction, same-sensor return and connection to waveform/measurement, with the early ping progression.
-3. Use a purposeful representative camera, simple readable shading and sufficient contrast/depth. Include full-size individual stills; a contact sheet is an overview, not a substitute for judging details. Show close details at their intended screen size. Do not hide weak communication behind a long explanation or tiny annotations.
-4. Where a major visual choice remains unresolved, offer a small number of meaningfully different still treatments and explain their tradeoff briefly. Avoid arbitrary variation or committing to one unexplained visual metaphor.
-5. Save versioned stills, editable scene/setup and a short beat-to-frame proposal under the existing mechanism/task folders. Identify what is sourced, inferred or illustrative and which visual decisions need approval. Update the existing direction contract. Do not build final motion merely to present this proposal.
+- Sensor-origin: [Still01 v004](https://github.com/radz2291/Project-MIT-Ecco/blob/7dce0b86ec31267c9731667f912342cf028ff0cb/04-Production/Mechanisms/B201/Previews/Still_01/B201_sensor-origin_still01_v004.png), with [proposal](https://github.com/radz2291/Project-MIT-Ecco/blob/7dce0b86ec31267c9731667f912342cf028ff0cb/04-Production/Records/Tasks/T-007/still-proposal_01_v004.md).
+- Outgoing/spreading pulse: [Still02c v001, approved translucent 3D wavefronts](https://github.com/radz2291/Project-MIT-Ecco/blob/079ed4b274a26eff70f6a4e5338a7f781f9dbca3/04-Production/Mechanisms/B201/Previews/Still_02c/B201_spreading-pulse_still02c_v001.png), with [approval record](https://github.com/radz2291/Project-MIT-Ecco/blob/079ed4b274a26eff70f6a4e5338a7f781f9dbca3/04-Production/Records/Tasks/T-007/Evidence/Still_02c/approval_still02c_v001.json).
 
-### Phase 2 — human visual approval
+Begin T26 with the three remaining visual beats, discussing one concrete proposal at a time:
+1. Wall interaction — the pulse reaches the borehole wall.
+2. Returning echo — sound returns to the same sensor.
+3. Waveform connection — link that return to the displayed signal and distance measurement.
 
-Submit the exact still version/beat coverage to Radzi and wait for explicit approval. Record the accepted frames/treatment and any limitations in the ticket and direction contract. A task in Review, an elapsed wait, earlier feedback, a prior technical pass or the agent's own judgment is not approval. Use the connector's supported waiting/review lifecycle, release/heartbeat runs correctly and clearly label the submission **still proposal — motion not authorized yet**. Do not mark the full mechanism task Done because its still proposal is ready.
+Their visual treatment is unapproved. Do not ask the T7 Blender agent to experiment on these while direction is being developed. Preserve its existing assets/technical work; T7 remains incomplete, not cancelled or accepted.
 
-### Phase 3 — motion after approval
+## Reference-package expectations
 
-Animate the accepted representation and spatial arrangement, then test timing/readability and technical meaning. Changes to the visible metaphor, composition or information representation beyond approved bounds return to still review. B3 later develops shot camera choreography and transitions from the approved reusable scene. Final photorealistic finish remains deferred.
+Read [Directorial Identity](../03-Context/03_Directorial_Identity/README.md), [Scene Director skill](../03-Context/00_Skill/rolladice-scene-director/SKILL.md), relevant modules and engineering sources. The mechanical storyboard supplies mechanisms, beats and client corrections; it is not the final layout, visual metaphor, camera plan or engineering proof.
 
-Stills approval authorizes the visual treatment within recorded scope; it does not certify engineering claims or replace technical review. Escalate only material source uncertainty while continuing independent authorized still preparation. Older motion deliverables remain evidence, not the current visual baseline.
+Use AI-generated reference images close enough to the intended final appearance to resolve visual choices, especially VFX. Existing approved images may establish the language; generate only what resolves the next real choice. Work with Radzi before multiplying proposals. These images are appearance/direction references, not automatically first/last video-generation anchors.
 
-## Mechanical storyboard versus cinematic scene
+For each mechanism, keep one concise package using the existing Scene Direction Contract:
+- Objective, required information beats and engineering sources.
+- Exact approved image versions and approval evidence. Preserve full-size reference files where available, provenance and any source-only access limits; a chat thumbnail alone is not a portable handoff.
+- Annotations explaining what is approved: VFX form, thickness, spatial scale, transparency, falloff, origin, contact/return response, framing, depth and information placement as relevant.
+- Which aspects must match, which are implementation choices, and known generated-image errors or unsupported features to correct in actual geometry.
+- Explicitly sourced, inferred or illustrative physical/data elements and consequential unresolved questions.
+- A short visual/technical checklist, executor inputs and intended mechanism output.
 
-Root cause identified by Radzi, 16 October 2026: the mechanical storyboard shows **mechanics**, not the final cinematic visualization. Use it to extract the mechanism, required information, event order and client corrections, subject to engineering-source verification. Do not inherit its panel layout, flat schematic view, detached teaching graphics or camera as a finished visual design.
+Store under `04-Production/Direction/B2/B201/` through `B205/` with a compact index/coverage matrix at `Direction/B2/README.md`. Update the existing direction contract instead of creating competing shot specifications; link prior mechanism contracts and preserve their history. T26 evidence/report belongs under `Records/Tasks/T-026/`. Follow permitted-file commit/push and Rolladice closure rules.
 
-Translate that content through the Directorial Identity and Scene Director skill into an original, spatially coherent scene around the actual model. Preserve engineering meaning and required beats while choosing framing, depth, emphasis, reveals and graphic placement for the intended film. The storyboard is neither independent engineering authority nor a locked cinematic shot plan. Explicitly record the translation in the existing direction contract: mechanism/required beat → proposed on-model action/view → supporting source or uncertainty. A concise beat list is sufficient.
+## Coverage across B2
 
-## Required result
-
-Deliver an editable Blender engineering scene and a concise moving preview that tells the mechanism's story **on and around the accepted product/environment geometry**. A viewer should understand where the action originates, what it interacts with, what changes and how the displayed information follows. The scene must be usable as the basis for a film shot rather than requiring the explanation to be rebuilt later.
-
-Use the [active Directorial Identity index](../03-Context/03_Directorial_Identity/README.md) and [rolladice-scene-director skill](../03-Context/00_Skill/rolladice-scene-director/SKILL.md). Consult Creative Personality, Taste Evidence, Visual Casebook and Camera Language for composition, spatial relationships, emphasis and pacing. Use Typography/Graphic Integration when labels or waveforms appear, and Engineering Information Direction for source/claim identity and information lifecycle. Read relevant modules deeply enough to make concrete visual decisions, not merely cite their names. Legacy AI Director Interpretation Guide is superseded.
-
-Save one [Scene Direction Contract](../03-Context/03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md) for each distinct proposed explanatory view under the mechanism folder (e.g. `Mechanisms/B201/direction.md`). Mark it B2 proposed direction, not an approved final camera plan. If the contract already exists, amend it instead of creating a competing specification. B3 carries this direction into actual shot folders and develops camera choreography, edit timing and transitions.
-
-## What approval should show
-
-- Actual linked/registered ECCO and relevant borehole/casing/pad geometry, with the mechanism visibly located relative to them.
-- Representative film framing: a purposeful static camera or a few motivated inspection views are sufficient. Final camera travel is deferred. Do not spend effort on polished camera choreography here.
-- Readable cause-and-effect progression through time. Use meaningful emphasis, reveal, cutaway, restrained annotations and spatially integrated graphics where useful. Text cannot carry an explanation that the scene fails to show.
-- Simple shading/lighting with semantic colors, sufficient contrast and depth to understand the action. Final photorealistic materials, AI finishing, elaborate atmosphere, sound polish and export masters are deferred.
-- Engineering source and uncertainty remain explicit. Attractive movement must not fabricate acoustic/flow physics, confirmed sensor faces, hydraulic stage placement, signal-to-material inference or actual field data.
-- A separate schematic, split comparison, waveform panel or explanatory text may support verification or a deliberately justified film graphic. It does not replace the main model-integrated demonstration. Screen-space graphics remain valid when they connect clearly to visible events on the model.
-
-The target is near-final **explanatory spatial arrangement and action**, not final render quality. Extensive visual thinking means clear decisions and enough coverage to assess the complete mechanism; it does not mean a long written report or arbitrary extra shots.
-
-## Task-specific expectations
-
-| Task | Main scene demonstration |
+| Executor | Direction to resolve before implementation |
 |---|---|
-| T7 / B201 | Pulse originates at the documented sensor reference on ECCO, interacts with the visible wall and returns to that emitter. Connect the waveform arrival to this same event; introduce early ping/light spots before the fuller explanation. A detached end-section diagram alone is insufficient. |
-| T8 / B202 | Show sampling around/through the actual tool and well geometry and how those samples accumulate into a surface/map. Make nominal, enlarged, tight and spiral meanings readable; distinguish radius from amplitude. |
-| T9 / B203 | Show inspection using ECCO inside casing; locate cement/channel/wear examples in that environment, and visibly connect the cutaway evidence to its map. Keep distinct interpretations separate and provisional where unsupported. |
-| T10 / B204 | Stage authored fluid/cuttings paths around the actual pad/tool and annular geometry. Demonstrate supported changes through accelerator, twisted-pad and diffuser regions. A generic three-stage diagram below an otherwise inactive model is supporting evidence only. |
-| T11 / B205 | Preserve spatial correspondence as actual modeled measurement geometry unwraps into the map, with consistent depth, azimuth, seam and color meaning. Show where the output came from. |
+| T7 / B201 | Sensor origin, outgoing wave, wall interaction, same-sensor echo and waveform/distance connection; preserve the first two approved stills |
+| T8 / B202 | On-model scanning, accumulated samples and reconstruction through depth; geometry versus amplitude, nominal/enlarged/tight/spiral meanings |
+| T9 / B203 | ECCO within casing; cement/channel/wear examples and readable cutaway-to-map correspondence, with inference limits |
+| T10 / B204 | Fluid/cuttings appearance and behaviour around real pad/annular geometry; supported accelerator/twisted-pad/diffuser mapping |
+| T11 / B205 | Spatial measurements becoming an unwrapped map while depth, azimuth, seam and color meaning stay coherent |
 
-Where exact hydraulic stage-to-CAD mapping or another critical correspondence is unknown, investigate relevant sources/model first. Record the mapping as sourced, inferred or unresolved. Show a bounded, labeled proposed mapping for review only when the evidence supports that inference; do not invent an exact correspondence to satisfy visual integration. If unresolved mapping prevents the intended claim, identify the precise decision and offer a supported simpler view while completing independent work.
+Source understanding constrains visual choices. A generated image cannot validate acoustic physics, exact sensor faces, hydraulic stage-to-CAD mapping, signal/material inference or calibrated field results. Investigate critical correspondence first; mark an inference or propose a supported simpler explanation instead of inventing engineering to match attractive imagery.
 
-## Submission and continuity
+## Execution boundaries
 
-Preserve the current technical proofs and useful verification evidence. Reuse their working mechanisms and linked assets; revise presentation/integration rather than discard sound work. A proof passing its original tests does not demonstrate these new visual criteria.
+Blender agents choose rigging, geometry implementation, controls and procedural methods after inspecting actual assets. They reproduce the approved explanation and preserve its defining visual features. If it cannot work spatially, return a concrete feasibility issue and the smallest corrective still proposal to T26/Radzi before redesigning. No broad creative exploration or expensive repeated construction to discover taste.
 
-Submit: (1) short primary moving preview, (2) editable reusable scene with documented controls and source links, (3) direction contract, and (4) a one-screen review summary with exact versions, what to judge and unresolved questions. Detailed checks may remain supporting evidence. Evaluate saved/reopened scenes, visible correspondence, engineering meaning, readability and candidate/output consistency; distinguish executor checks from human acceptance.
+Use actual ECCO/environment geometry, spatially integrated effects and representative static framing for implementation stills. Diagnostic sticks/locators are not approved visible effects. Detached schematics are supporting evidence unless explicitly selected as film graphics. Simple readable shading is acceptable for implementation checks; compare it beside the approved appearance reference rather than silently substituting a different look.
 
-Do not wait for final camera choreography or finish to show the actual integrated scene. B3 should refine these scenes, not reconstruct detached teaching diagrams. Preserve unapproved status until Radzi reviews the exact revised preview. Existing task criteria, technical review, output organization, commit/push verification and Rolladice run/lease rules remain in force.
+After implementation still approval, animate the selected treatment and verify cause/effect, readability and technical meaning. Material changes to approved visual language return to direction review. Human visual approval is distinct from engineering confirmation and full task acceptance.
 
-For agents already working: read this amendment before final submission, compare the current candidate against it, retain useful work, then complete missing integration and visual storytelling. If already in Review, revise and resubmit with a new version; old checked criteria are not acceptance of this amendment.
+## Current release boundary
+
+T26 is created but not executed by this documentation change. T7's first two still approvals remain valid; three remaining beats and other B2 direction packages await discussion. Existing B2 work/evidence is retained. T9/T10's prior workflow holds are now addressed by the concrete T26 dependency, not by requiring T7 itself to finish as a workflow experiment. This change does not claim those tickets' previous work meets the new package.
