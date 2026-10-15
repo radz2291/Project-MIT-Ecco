@@ -1,0 +1,22 @@
+{
+  "blender": "5.2.2 LTS",
+  "source_sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+  "well_sha256": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4",
+  "nominal_wall_radius_m": 0.155575,
+  "flow_marker_center_radius_m": 0.1545,
+  "source_max_radius_m": 0.1524000685,
+  "center_radial_clearance_m": 0.0010749999999999926,
+  "frames": [
+    1,
+    288
+  ],
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "mode": "circulation only",
+  "stage_to_CAD_map": "unassigned; MIT review pending",
+  "motion": "authored uniform timing, not physical velocity",
+  "source_scene_mutated": false
+}

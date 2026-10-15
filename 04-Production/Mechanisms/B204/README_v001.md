@@ -1,0 +1,15 @@
+# B204 hydraulic mechanism proof v001
+
+16 October 2026 · T10 · B2 standalone mechanism preparation, not an S05 shot or final hydraulic lock.
+
+[Editable scene](Scenes/B204_hydraulic-proof_v001.blend) · [Moving preview](Previews/B204_hydraulic-proof_v001.mp4) · [Review still](Previews/B204_inspect_f049_v001.png) · [Task report](../../Records/Tasks/T-010/report.md).
+
+The upper panel links accepted T5 plugged master v002 with its original dimensions and removable closures. The annular outline uses the 12.25-inch nominal open-hole diameter from accepted T6 v003 configuration. The lower panel is a separate functional schematic: it does not model additional product parts or assign axial CAD stage boundaries. Cyan paths and amber cuttings are authored illustration, not simulation, sampled mud trajectories or efficiency evidence. Marker size is exaggerated. Constant diagram playback timing is not a physical velocity model; narrowing and waviness communicate the qualitative intent only. No pressure recovery is calculated or visually quantified.
+
+Selected mode is **circulation only**. The product is stationary: rotation and translation are not required together with circulation according to the supplied brochure p2. Source +X is the provisional annular return direction, inferred from the lower sensor-plane/shoulder context and end appearance; top/bottom and stage map need targeted MIT review. The preview does not depict flow inside the drill string, bit jetting, rotation-only, tripping-only or combined flow fields.
+
+Select `HYDRAULIC_CONTROL` in Blender. `flow_rate` controls illustrative playback (0 stops it; default 1), `flow_visible` toggles cyan moving markers, and `cuttings_visible` toggles diagram cuttings. Guides remain visible when moving markers are hidden. There are no Python animation handlers or simulation caches. Sources are relative library links. Product motion stays off in this circulation-only candidate.
+
+[Builder](Scripts/build_proof_v001.py) refuses to overwrite an existing candidate and verifies the accepted product hash against the T6 configuration. Run in an isolated background Blender process. [Fresh-open verifier/render](Scripts/render_verify_v001.py) samples all 288 frames, checks drivers, source links and controls, and renders 1280 × 720 at 24 fps. [Encoder/QA](Scripts/encode_qa_v001.py) makes H.264 and review contact sheets. The Blender executable path is environment-specific; sources use repository-relative paths.
+
+Before B3 use, obtain the B206 answers in the task report: actual CAD stage identities/boundaries and flow-end orientation, selected mode acceptance and MIT analysis inputs. Keep the schematic separate unless source-supported mapping is supplied. Relink a new product version deliberately and recheck flow centres, annulus clearance, visibility, direction and dependent previews; preserve this candidate. Binary scene, MP4, raw frames and failed trial are local-only and excluded from Git. Selected stills, scripts and records are synchronized separately. Producer workflow acceptance is not MIT engineering certification.

@@ -1,0 +1,516 @@
+{
+  "object": "ECCO_HOUSING_SOURCE_MESH",
+  "vertices": 348876,
+  "max_axis_radius_m": 0.15240007711381226,
+  "source_x_bounds_m": [
+    0.0,
+    2.4000000953674316
+  ],
+  "profile_note": "Vertex-sample maxima by 20mm bin, not continuous cross-section ray measurements. Empty bins are not absent geometry.",
+  "bins": [
+    {
+      "x": 0.0,
+      "max_radius": 0.06675353427557038
+    },
+    {
+      "x": 0.02,
+      "max_radius": 0.06800705686892626
+    },
+    {
+      "x": 0.04,
+      "max_radius": 0.06988734164440445
+    },
+    {
+      "x": 0.06,
+      "max_radius": 0.07176762900542624
+    },
+    {
+      "x": 0.08,
+      "max_radius": 0.07302115073257417
+    },
+    {
+      "x": 0.1,
+      "max_radius": 0.07364791323526161
+    },
+    {
+      "x": 0.12,
+      "max_radius": 0.10477501201193418
+    },
+    {
+      "x": 0.14,
+      "max_radius": null
+    },
+    {
+      "x": 0.16,
+      "max_radius": null
+    },
+    {
+      "x": 0.18,
+      "max_radius": null
+    },
+    {
+      "x": 0.2,
+      "max_radius": null
+    },
+    {
+      "x": 0.22,
+      "max_radius": null
+    },
+    {
+      "x": 0.24,
+      "max_radius": null
+    },
+    {
+      "x": 0.26,
+      "max_radius": null
+    },
+    {
+      "x": 0.28,
+      "max_radius": null
+    },
+    {
+      "x": 0.3,
+      "max_radius": null
+    },
+    {
+      "x": 0.32,
+      "max_radius": null
+    },
+    {
+      "x": 0.34,
+      "max_radius": null
+    },
+    {
+      "x": 0.36,
+      "max_radius": null
+    },
+    {
+      "x": 0.38,
+      "max_radius": null
+    },
+    {
+      "x": 0.4,
+      "max_radius": null
+    },
+    {
+      "x": 0.42,
+      "max_radius": null
+    },
+    {
+      "x": 0.44,
+      "max_radius": null
+    },
+    {
+      "x": 0.46,
+      "max_radius": null
+    },
+    {
+      "x": 0.48,
+      "max_radius": null
+    },
+    {
+      "x": 0.5,
+      "max_radius": 0.11027476170347436
+    },
+    {
+      "x": 0.52,
+      "max_radius": 0.11956399588307916
+    },
+    {
+      "x": 0.54,
+      "max_radius": 0.12874997091795035
+    },
+    {
+      "x": 0.56,
+      "max_radius": 0.13574146402529413
+    },
+    {
+      "x": 0.58,
+      "max_radius": 0.1357513212517684
+    },
+    {
+      "x": 0.6,
+      "max_radius": 0.10353676398171036
+    },
+    {
+      "x": 0.62,
+      "max_radius": 0.10353676398171036
+    },
+    {
+      "x": 0.64,
+      "max_radius": 0.10353676398171036
+    },
+    {
+      "x": 0.66,
+      "max_radius": 0.10296759956871827
+    },
+    {
+      "x": 0.68,
+      "max_radius": 0.1357513212517684
+    },
+    {
+      "x": 0.7,
+      "max_radius": 0.13575083226122583
+    },
+    {
+      "x": 0.72,
+      "max_radius": 0.13575021883991864
+    },
+    {
+      "x": 0.74,
+      "max_radius": 0.13575067532199916
+    },
+    {
+      "x": 0.76,
+      "max_radius": 0.07500001026062512
+    },
+    {
+      "x": 0.78,
+      "max_radius": null
+    },
+    {
+      "x": 0.8,
+      "max_radius": null
+    },
+    {
+      "x": 0.82,
+      "max_radius": null
+    },
+    {
+      "x": 0.84,
+      "max_radius": null
+    },
+    {
+      "x": 0.86,
+      "max_radius": null
+    },
+    {
+      "x": 0.88,
+      "max_radius": 0.1357537257755265
+    },
+    {
+      "x": 0.9,
+      "max_radius": 0.13575527513234018
+    },
+    {
+      "x": 0.92,
+      "max_radius": 0.13575369999467257
+    },
+    {
+      "x": 0.94,
+      "max_radius": 0.13575001817039734
+    },
+    {
+      "x": 0.96,
+      "max_radius": 0.1357500183493625
+    },
+    {
+      "x": 0.98,
+      "max_radius": 0.13508435242354286
+    },
+    {
+      "x": 1.0,
+      "max_radius": 0.13863349374795633
+    },
+    {
+      "x": 1.02,
+      "max_radius": 0.1459176389290112
+    },
+    {
+      "x": 1.04,
+      "max_radius": 0.15238791829499865
+    },
+    {
+      "x": 1.06,
+      "max_radius": 0.1524000082994703
+    },
+    {
+      "x": 1.08,
+      "max_radius": 0.15240001626112593
+    },
+    {
+      "x": 1.1,
+      "max_radius": 0.15240007711381226
+    },
+    {
+      "x": 1.12,
+      "max_radius": 0.1524000168257805
+    },
+    {
+      "x": 1.14,
+      "max_radius": 0.15240001633372077
+    },
+    {
+      "x": 1.16,
+      "max_radius": 0.1522589664956872
+    },
+    {
+      "x": 1.18,
+      "max_radius": 0.14406501009918588
+    },
+    {
+      "x": 1.2,
+      "max_radius": 0.15139349793837917
+    },
+    {
+      "x": 1.22,
+      "max_radius": 0.15240001064719247
+    },
+    {
+      "x": 1.24,
+      "max_radius": 0.15240001156542374
+    },
+    {
+      "x": 1.26,
+      "max_radius": 0.15240007400706784
+    },
+    {
+      "x": 1.28,
+      "max_radius": 0.15240002093215185
+    },
+    {
+      "x": 1.3,
+      "max_radius": 0.15240000056474834
+    },
+    {
+      "x": 1.32,
+      "max_radius": 0.1524000207245075
+    },
+    {
+      "x": 1.34,
+      "max_radius": 0.14583635736898465
+    },
+    {
+      "x": 1.36,
+      "max_radius": 0.13457513834736137
+    },
+    {
+      "x": 1.38,
+      "max_radius": 0.13335026708202288
+    },
+    {
+      "x": 1.4,
+      "max_radius": 0.13335034250215333
+    },
+    {
+      "x": 1.42,
+      "max_radius": 0.1327278655821219
+    },
+    {
+      "x": 1.44,
+      "max_radius": 0.12926787370676385
+    },
+    {
+      "x": 1.46,
+      "max_radius": 0.12575379035955722
+    },
+    {
+      "x": 1.48,
+      "max_radius": 0.12214246951093163
+    },
+    {
+      "x": 1.5,
+      "max_radius": 0.11865119654208807
+    },
+    {
+      "x": 1.52,
+      "max_radius": 0.11505640295708527
+    },
+    {
+      "x": 1.54,
+      "max_radius": 0.11162716796574206
+    },
+    {
+      "x": 1.56,
+      "max_radius": 0.10812530985976426
+    },
+    {
+      "x": 1.58,
+      "max_radius": null
+    },
+    {
+      "x": 1.6,
+      "max_radius": null
+    },
+    {
+      "x": 1.62,
+      "max_radius": null
+    },
+    {
+      "x": 1.64,
+      "max_radius": null
+    },
+    {
+      "x": 1.66,
+      "max_radius": null
+    },
+    {
+      "x": 1.68,
+      "max_radius": null
+    },
+    {
+      "x": 1.7,
+      "max_radius": null
+    },
+    {
+      "x": 1.72,
+      "max_radius": null
+    },
+    {
+      "x": 1.74,
+      "max_radius": null
+    },
+    {
+      "x": 1.76,
+      "max_radius": null
+    },
+    {
+      "x": 1.78,
+      "max_radius": null
+    },
+    {
+      "x": 1.8,
+      "max_radius": null
+    },
+    {
+      "x": 1.82,
+      "max_radius": 0.0993021320357151
+    },
+    {
+      "x": 1.84,
+      "max_radius": 0.10477961547448604
+    },
+    {
+      "x": 1.86,
+      "max_radius": 0.10477961547448604
+    },
+    {
+      "x": 1.88,
+      "max_radius": null
+    },
+    {
+      "x": 1.9,
+      "max_radius": null
+    },
+    {
+      "x": 1.92,
+      "max_radius": null
+    },
+    {
+      "x": 1.94,
+      "max_radius": null
+    },
+    {
+      "x": 1.96,
+      "max_radius": null
+    },
+    {
+      "x": 1.98,
+      "max_radius": null
+    },
+    {
+      "x": 2.0,
+      "max_radius": null
+    },
+    {
+      "x": 2.02,
+      "max_radius": null
+    },
+    {
+      "x": 2.04,
+      "max_radius": null
+    },
+    {
+      "x": 2.06,
+      "max_radius": null
+    },
+    {
+      "x": 2.08,
+      "max_radius": null
+    },
+    {
+      "x": 2.1,
+      "max_radius": null
+    },
+    {
+      "x": 2.12,
+      "max_radius": null
+    },
+    {
+      "x": 2.14,
+      "max_radius": null
+    },
+    {
+      "x": 2.16,
+      "max_radius": null
+    },
+    {
+      "x": 2.18,
+      "max_radius": null
+    },
+    {
+      "x": 2.2,
+      "max_radius": null
+    },
+    {
+      "x": 2.22,
+      "max_radius": 0.07679690907705171
+    },
+    {
+      "x": 2.24,
+      "max_radius": null
+    },
+    {
+      "x": 2.26,
+      "max_radius": null
+    },
+    {
+      "x": 2.28,
+      "max_radius": null
+    },
+    {
+      "x": 2.3,
+      "max_radius": null
+    },
+    {
+      "x": 2.32,
+      "max_radius": 0.07725038523710812
+    },
+    {
+      "x": 2.34,
+      "max_radius": 0.07906428945473656
+    },
+    {
+      "x": 2.36,
+      "max_radius": 0.08245818084506765
+    },
+    {
+      "x": 2.38,
+      "max_radius": 0.10477501201193418
+    }
+  ],
+  "objects": [
+    "ECCO_HOUSING_SOURCE_MESH",
+    "ECCO_ROOT",
+    "ECCO_ROTATION_X",
+    "ECCO_SENSOR_REF_01",
+    "ECCO_SENSOR_REF_02",
+    "ECCO_SENSOR_REF_03",
+    "ECCO_SENSOR_PLANE_PROVISIONAL",
+    "ECCO_MUD_SENSOR_UNLOCATED",
+    "ECCO_CUTTER_PREVIEW_ONLY",
+    "TEMP | Service port 3 | removable metal plug",
+    "TEMP | Service port 2 | removable metal plug",
+    "TEMP | Service port 1 | removable metal plug",
+    "TEMP | Service cover 3 | removable fitted plate",
+    "TEMP | Service cover 2 | removable fitted plate",
+    "TEMP | Service cover 1 | removable fitted plate",
+    "TEMP | Imaging port 3 | removable acoustic cap",
+    "TEMP | Imaging port 2 | removable acoustic cap",
+    "TEMP | Imaging port 1 | removable acoustic cap",
+    "INSPECT_overview",
+    "INSPECT_opposite",
+    "INSPECT_sensor-closeup",
+    "INSPECT_end-X0"
+  ]
+}

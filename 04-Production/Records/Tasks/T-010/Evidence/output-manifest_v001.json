@@ -1,0 +1,56 @@
+[
+  {
+    "path": "04-Production/Mechanisms/B204/Scenes/B204_hydraulic-proof_v001.blend",
+    "bytes": 110347,
+    "sha256": "1c0d30f70cabdbc51f4d399bee5a2ce84b5a560b9a1dc5a15fa3331ddbc95ca9",
+    "storage": "local-only ignored"
+  },
+  {
+    "path": "04-Production/Mechanisms/B204/Previews/B204_hydraulic-proof_v001.mp4",
+    "bytes": 587790,
+    "sha256": "3d28eb4f33defeb19f4f9be025d56b424f6d31df64de48533bd727c6b5a68a06",
+    "storage": "local-only ignored"
+  },
+  {
+    "path": "04-Production/Mechanisms/B204/Previews/B204_inspect_f001_v001.png",
+    "bytes": 973846,
+    "sha256": "cc896c0c5b67dfe48d7c8e428ff193a93ecb0a8493773b769011c937a436d0fa",
+    "storage": "selected stills eligible for sync"
+  },
+  {
+    "path": "04-Production/Mechanisms/B204/Previews/B204_inspect_f049_v001.png",
+    "bytes": 972746,
+    "sha256": "58ff24786d6c028c50dce4c92c71a71745004b57a02a7230604e4de0f9650bf3",
+    "storage": "selected stills eligible for sync"
+  },
+  {
+    "path": "04-Production/Mechanisms/B204/Previews/B204_inspect_f097_v001.png",
+    "bytes": 972794,
+    "sha256": "70af96ab334dada8d72b166b253c78b65e7855809960d130ceaacaaf9af1379f",
+    "storage": "selected stills eligible for sync"
+  },
+  {
+    "path": "04-Production/Mechanisms/B204/Previews/B204_inspect_f145_v001.png",
+    "bytes": 973584,
+    "sha256": "e76312df37b9e7baf005bc7856735f1bcfa0e4535cd64902d767f78d0af56609",
+    "storage": "selected stills eligible for sync"
+  },
+  {
+    "path": "04-Production/Mechanisms/B204/Previews/B204_inspect_f193_v001.png",
+    "bytes": 972909,
+    "sha256": "d32466ca68aea03c71c848751006a4cc61e4b0f9e734c3fe6ac08098ff01bb4d",
+    "storage": "selected stills eligible for sync"
+  },
+  {
+    "path": "04-Production/Mechanisms/B204/Previews/B204_inspect_f241_v001.png",
+    "bytes": 973645,
+    "sha256": "630d09092953ea6ea5ae26a42d207909501c2ec1686a2b38b1ef3849b2710fee",
+    "storage": "selected stills eligible for sync"
+  },
+  {
+    "path": "04-Production/Mechanisms/B204/Previews/B204_inspect_f288_v001.png",
+    "bytes": 972974,
+    "sha256": "99826e3819ddb750c2437c85b5ff8ed96c2652159b9d407cf14084c67cbaa1fd",
+    "storage": "selected stills eligible for sync"
+  }
+]

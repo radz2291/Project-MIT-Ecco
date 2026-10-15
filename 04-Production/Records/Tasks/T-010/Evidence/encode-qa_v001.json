@@ -1,0 +1,13 @@
+{
+  "decoded_frames": 288,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24.0,
+  "duration_seconds": 12.0,
+  "audio": false,
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "encode_and_decode_seconds": 13.791896599999745
+}

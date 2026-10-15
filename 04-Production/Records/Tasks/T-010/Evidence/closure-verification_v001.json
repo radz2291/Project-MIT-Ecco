@@ -1,0 +1,126 @@
+{
+  "local_links": [
+    {
+      "document": "04-Production/Mechanisms/B204/README_v001.md",
+      "target": "Scenes/B204_hydraulic-proof_v001.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Mechanisms/B204/README_v001.md",
+      "target": "Previews/B204_hydraulic-proof_v001.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Mechanisms/B204/README_v001.md",
+      "target": "Previews/B204_inspect_f049_v001.png",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Mechanisms/B204/README_v001.md",
+      "target": "../../Records/Tasks/T-010/report.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Mechanisms/B204/README_v001.md",
+      "target": "Scripts/build_proof_v001.py",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Mechanisms/B204/README_v001.md",
+      "target": "Scripts/render_verify_v001.py",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Mechanisms/B204/README_v001.md",
+      "target": "Scripts/encode_qa_v001.py",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "../../../Mechanisms/B204/Scenes/B204_hydraulic-proof_v001.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "../../../Mechanisms/B204/Previews/B204_hydraulic-proof_v001.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "../../../Mechanisms/B204/Previews/B204_inspect_f049_v001.png",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "../../../Mechanisms/B204/README_v001.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "review-questions_v001.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "Evidence/output-manifest_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "hydraulic-register_v001.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "Evidence/geometry-profile_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "Evidence/fresh-open-verification_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "Evidence/animation-render_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/report.md",
+      "target": "Evidence/encode-qa_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/hydraulic-register_v001.md",
+      "target": "../../asset-manifest_v001.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/hydraulic-register_v001.md",
+      "target": "../../blocker-register_v001.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/hydraulic-register_v001.md",
+      "target": "../../../../03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/hydraulic-register_v001.md",
+      "target": "Evidence/output-manifest_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-010/hydraulic-register_v001.md",
+      "target": "review-questions_v001.md",
+      "exists": true
+    }
+  ],
+  "manifest_hashes_match": true,
+  "shared_master_hashes_unchanged": true,
+  "selected_remote_still": "04-Production/Mechanisms/B204/Previews/B204_inspect_f049_v001.png",
+  "other_media": "local only; no backup implied",
+  "visual_review": "full-size frames 1,49,288; all 288 schematic frames in ordered contact sheets; no real-time playback claim",
+  "candidate": "v001",
+  "external_engineering_review": "pending"
+}
