@@ -1,6 +1,6 @@
 # MIT / ECCO — Context Map
 
-**Updated:** 14 October 2026 · **Status:** Internal production context; project approvals and technical unknowns remain tracked.
+**Updated:** 15 October 2026 · **Status:** Internal production context; project approvals and technical unknowns remain tracked.
 
 ## Start here: one responsibility per source
 
@@ -10,13 +10,17 @@
 | Product facts | [Engineering Baseline](01_Foundation/02-ENGINEERING_BASELINE.md) | Verified vs unresolved ECCO hardware, physics and sourced claims | Visual taste or shot choreography |
 | MIT visual identity | [MIT Production Identity](01_Foundation/03-MIT_PRODUCTION_IDENTITY.md) | MIT-specific communication character, brand boundaries, style territories | Rolladice personal taste or Blender execution |
 | Narrative plan | [Sequence & Shot Plan](01_Foundation/04-STORYBOARD_AND_SHOT_PLAN.md) | Seven-section structure, estimated durations, proposed shot allocation | Panel-by-panel storyboard truth |
-| Production | [Workflow](01_Foundation/05-PRODUCTION_WORKFLOW.md) | Asset ownership, Blender→AI finishing, QA and delivery | Creative taste and camera directing |
+| Work execution | Rolladice Work / MIT ECCO; [workspace rules](../04-Production/README.md) | Tickets, dependencies, standards pins, runs, review and human acceptance | Engineering truth or editable production files |
+| Production outputs | [04-Production](../04-Production/README.md) | Local shared assets, mechanisms, shots, edits and evidence paths | A second copy of live ticket status |
+| Production | [Workflow](01_Foundation/05-PRODUCTION_WORKFLOW.md) | Asset ownership, Mechanical-first development, Blender→AI finishing, QA and delivery | Creative taste and camera directing |
 | Open decisions | [Decision Register](01_Foundation/06-DECISIONS_AND_READINESS.md) | Approvals, unknowns, blockers, exact evidence/status | Second copies of engineering facts |
 | Storyboard | [Storyboard Index](02_Storyboard/README.md) | V1 archive; V2 working panel assets and client reconciliation notes | Product fact authority or final client approval |
 | Directorial identity | [Rolladice Taste Index](03_Directorial_Identity/README.md) | Preferred/rejected artistic judgments, camera, lighting, information choreography and agent directing contract | Official MIT brand or engineering truth |
 | Agent skills | [Skill Index](00_Skill/README.md) | Task execution triggers and workflows | Duplicated style specifications |
 
 **Authority precedence:** MIT-approved geometry/engineering and contractual/client branding constraints → agreed narrative purpose → Rolladice's evidence-backed taste → individual shot decisions → execution convenience. A storyboard is a **proposal**, not a source of independently verified physics.
+
+Rolladice task completion is workflow acceptance, not independent MIT engineering approval. Record global approval evidence in the Decision Register and link it from the ticket; production blocker records reference those decisions. Source or acceptance conflicts must be reconciled explicitly, not silently overwritten.
 
 ## Agent routes
 
