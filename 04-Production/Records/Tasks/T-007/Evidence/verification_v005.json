@@ -1,0 +1,441 @@
+{
+  "kind": "implementation self-check, not independent MIT verification",
+  "checks": [
+    {
+      "name": "exact candidate hash",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "accepted input unchanged: Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "accepted input unchanged: Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "relative source library resolves",
+      "pass_": true,
+      "details": "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend"
+    },
+    {
+      "name": "three 120-degree source references",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "section stays inside supplied tool OD (exact plane contours)",
+      "pass_": true,
+      "details": [
+        0.2650027275085449,
+        0.24056541919708252,
+        0.0
+      ]
+    },
+    {
+      "name": "ping 1 TX_1 endpoint f11",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 TX_1 endpoint f21",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 ECHO_1 endpoint f21",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 ECHO_1 endpoint f31",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 positive stand-off",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 equal outgoing/return diagram durations",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 common schematic speed within half frame",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 whole-tool rotation control",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 inactive emitter 2",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 inactive emitter 3",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 inactive emitter 4",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 inactive emitter 5",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 1 inactive emitter 6",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 TX_2 endpoint f83",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 TX_2 endpoint f99",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 ECHO_2 endpoint f99",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 ECHO_2 endpoint f115",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 positive stand-off",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 equal outgoing/return diagram durations",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 common schematic speed within half frame",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 whole-tool rotation control",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 inactive emitter 1",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 inactive emitter 3",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 inactive emitter 4",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 inactive emitter 5",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 2 inactive emitter 6",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 TX_3 endpoint f155",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 TX_3 endpoint f169",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 ECHO_3 endpoint f169",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 ECHO_3 endpoint f183",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 positive stand-off",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 equal outgoing/return diagram durations",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 common schematic speed within half frame",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 whole-tool rotation control",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 inactive emitter 1",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 inactive emitter 2",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 inactive emitter 4",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 inactive emitter 5",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 3 inactive emitter 6",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 TX_4 endpoint f227",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 TX_4 endpoint f236",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 ECHO_4 endpoint f236",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 ECHO_4 endpoint f245",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 positive stand-off",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 equal outgoing/return diagram durations",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 common schematic speed within half frame",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 whole-tool rotation control",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 inactive emitter 1",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 inactive emitter 2",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 inactive emitter 3",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 inactive emitter 5",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 4 inactive emitter 6",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 TX_5 endpoint f299",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 TX_5 endpoint f311",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 ECHO_5 endpoint f311",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 ECHO_5 endpoint f323",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 positive stand-off",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 equal outgoing/return diagram durations",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 common schematic speed within half frame",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 whole-tool rotation control",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 inactive emitter 1",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 inactive emitter 2",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 inactive emitter 3",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 inactive emitter 4",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 5 inactive emitter 6",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 TX_6 endpoint f371",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 TX_6 endpoint f387",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 ECHO_6 endpoint f387",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 ECHO_6 endpoint f403",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 positive stand-off",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 equal outgoing/return diagram durations",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 common schematic speed within half frame",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 whole-tool rotation control",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 inactive emitter 1",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 inactive emitter 2",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 inactive emitter 3",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 inactive emitter 4",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "ping 6 inactive emitter 5",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "T6 variation produces different arrival positions",
+      "pass_": true,
+      "details": null
+    },
+    {
+      "name": "preview timeline",
+      "pass_": true,
+      "details": null
+    }
+  ],
+  "passed": true,
+  "count": 86
+}

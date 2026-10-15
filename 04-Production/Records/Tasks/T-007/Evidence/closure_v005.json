@@ -1,0 +1,181 @@
+{
+  "media": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(progressive)",
+    "fps": 24.0,
+    "source_size": [
+      1280,
+      720
+    ],
+    "size": [
+      1280,
+      720
+    ],
+    "rotate": 0,
+    "duration": 18.0,
+    "decoded_frames": 432
+  },
+  "links": [
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "../../../Mechanisms/B201/Scenes/B201_pulse-echo_v005.blend",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "../../../Mechanisms/B201/Previews/B201_pulse-echo_v005.mp4",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "../../../Mechanisms/B201/Previews/B201_review_f0021_v005.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "../../../Mechanisms/B201/Previews/B201_review_f0432_v005.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "../../../Mechanisms/B201/README_v005.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "review-questions_v005.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "proof-register_v005.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "Evidence/verification_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "Evidence/output-manifest_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "../../../../03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "../../../../03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/PADLET_SECTION_02_V2.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "../../../../03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "../../../../03-Context/01_Foundation/05-PRODUCTION_WORKFLOW.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "../../../../03-Context/03_Directorial_Identity/09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "Evidence/video-qa_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "Evidence/closure_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\report.md",
+      "target": "review-questions_v005.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\review-questions_v005.md",
+      "target": "../../../Mechanisms/B201/Previews/B201_pulse-echo_v005.mp4",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\proof-register_v005.md",
+      "target": "../../../../03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\proof-register_v005.md",
+      "target": "Evidence/build_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\proof-register_v005.md",
+      "target": "../../../Mechanisms/B201/Scenes/B201_pulse-echo_v005.blend",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\proof-register_v005.md",
+      "target": "../../../Mechanisms/B201/Previews/B201_pulse-echo_v005.mp4",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-007\\proof-register_v005.md",
+      "target": "review-questions_v005.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Mechanisms\\B201\\README_v005.md",
+      "target": "Previews/B201_pulse-echo_v005.mp4",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Mechanisms\\B201\\README_v005.md",
+      "target": "Scenes/B201_pulse-echo_v005.blend",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Mechanisms\\B201\\README_v005.md",
+      "target": "Scripts/build_proof_v005.py",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Mechanisms\\B201\\README_v005.md",
+      "target": "Scripts/package_preview_v005.py",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Mechanisms\\B201\\README_v005.md",
+      "target": "Scripts/verify_proof_v005.py",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Mechanisms\\B201\\README_v005.md",
+      "target": "../../Records/Tasks/T-007/report.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Mechanisms\\B201\\README_v005.md",
+      "target": "../../Records/Tasks/T-007/review-questions_v005.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Mechanisms\\B201\\README_v005.md",
+      "target": "../../Records/Tasks/T-007/proof-register_v005.md",
+      "exists": true
+    }
+  ],
+  "visual_review": "all432 states in ordered contact sheets; full-size causal/boundary/final labels; no realtime playback claim",
+  "structural_checks": 86,
+  "source_hashes_unchanged": true,
+  "feedback": "pending Radzi/MIT",
+  "passed": true
+}

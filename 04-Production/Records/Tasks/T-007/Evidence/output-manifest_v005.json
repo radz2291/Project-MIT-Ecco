@@ -1,0 +1,104 @@
+[
+  {
+    "path": "04-Production/Mechanisms/B201/README_v005.md",
+    "bytes": 3617,
+    "sha256": "e51df1c87ffb0085e5a8b4e8eaa533b58187a53b0035ff774820026ccecff7de",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Scripts/build_proof_v005.py",
+    "bytes": 10448,
+    "sha256": "de739521d6b59bc31c716b5d936ed4f2eee9a6b5b4b1bfd17db8103e5c061a1d",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Scripts/package_preview_v005.py",
+    "bytes": 5815,
+    "sha256": "e1be5978624f626bb3698651578e20770772ff73a719c1dc2c8e04c7699746d9",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Scripts/verify_proof_v005.py",
+    "bytes": 3065,
+    "sha256": "4b8d233fa9355a699e5ca4cd627907f20666c242ebf719ec73097d0220a8c79b",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Scripts/motion_sheets_v005.py",
+    "bytes": 474,
+    "sha256": "75e573c38dad0585fe930046d5ce3f4b8919dd6ec813723976b5e25ce21d5ad2",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Scripts/close_proof_v005.py",
+    "bytes": 2867,
+    "sha256": "2c4ffcba96363fd9a50dff10c1125f29075b4666cacc900ff9c4429de224ad72",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Previews/B201_review_f0021_v005.png",
+    "bytes": 400125,
+    "sha256": "1c450817d2cf369a88170717c67182c6963232df0382855ad60f758ea4907411",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Previews/B201_review_f0432_v005.png",
+    "bytes": 403665,
+    "sha256": "ef28ebc3c0c4950ba42c5cf1f2b01e1288cc8cbabf2730d7371410ead63eba75",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/report.md",
+    "bytes": 8650,
+    "sha256": "3f8a8ec10d74a6206a3e8f3f17b7da6a15113e2c11f9424faf79ca0ba89770c6",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/review-questions_v005.md",
+    "bytes": 2313,
+    "sha256": "6729556eb943785e82978c666e09e3ae7b03d33661d2a588aa1369fefceda81f",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/proof-register_v005.md",
+    "bytes": 2628,
+    "sha256": "04a68c770bde5d6c5c3a1599d86a29ee41120c50bf071c05dd4698ee74081a50",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/Evidence/build_v005.json",
+    "bytes": 6910,
+    "sha256": "9101f6232c5d9746a3a04921dcefa28735915f5f31d39c5a0abea8e1df498497",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/Evidence/render_v005.json",
+    "bytes": 6950,
+    "sha256": "9a675b4538317eebe5ce1764cbb192233418f589136ab004037187c60f285338",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/Evidence/verification_v005.json",
+    "bytes": 9740,
+    "sha256": "55cbf85632744e98e13651494b579bbd1b6cb9b954fa721949882039fa0545f7",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/Evidence/video-qa_v005.json",
+    "bytes": 1236,
+    "sha256": "8f5da3e57b8530b0631b174c53767b98a2838dba8b4c8a2d1ed9e896c315fe79",
+    "storage": "permitted tracked candidate"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Scenes/B201_pulse-echo_v005.blend",
+    "bytes": 4713393,
+    "sha256": "597b852d3ee851bdac5dc806f6f000b9b882acc66324eeade18a2e895fbc01d5",
+    "storage": "local Git-ignored binary, no remote backup"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Previews/B201_pulse-echo_v005.mp4",
+    "bytes": 489568,
+    "sha256": "fe226e7c17cd2bf9f9d0b0fafb3473b98c8999b2dad54a1480c1c1cd5a10d76d",
+    "storage": "local Git-ignored binary, no remote backup"
+  }
+]
