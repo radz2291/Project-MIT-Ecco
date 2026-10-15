@@ -66,6 +66,24 @@ Before submitting any agent task to Review, or ending a blocked/failed run:
 
 For tracked text/scripts/evidence, make a scoped commit when authorized; push only to the authorized destination. Existing heavy-media exclusions remain in force. Ignored Blender files, previews, caches and renders still need organized local storage and explicit handover/backup status. No client contact or delivery is implied by task completion.
 
+## Directorial work during development
+
+B1 builds reusable hardware/environment foundations; it does not need complete cinematic direction. B2 creates legible mechanism proofs and uses [Engineering Information Direction](../03-Context/03_Directorial_Identity/09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md) when showing data, claims or illustrative effects.
+
+For **every actual shot in S01–S07**, apply the [rolladice-scene-director skill](../03-Context/00_Skill/rolladice-scene-director/SKILL.md) before construction. Read the [active Directorial Identity index](../03-Context/03_Directorial_Identity/README.md) and relevant modules rather than every document. The old AI Director Interpretation Guide is a superseded pointer. Save one Scene Direction Contract as `Shots/<section>/<shot-id>/direction.md`, using the canonical contract schema. Reference sources, technical uncertainty, camera/composition, information beats, transitions and review stage. Avoid parallel competing shot specifications.
+
+Use cheap SVG/previs where it resolves a concrete ambiguity, then inspect actual moving previews for camera purpose, physical readability, pacing, text/data placement and transitions. B3 must demonstrate direction through motion before final lighting/material work. B301 checks continuity and directorial consistency across those contracts; B401 reviews the exact moving candidate with technical evidence. Finishing applies relevant look/typography modules and preserves accepted shot meaning; substantive changes reopen affected review.
+
+## Incoming plugged ECCO version
+
+Owner report, 15 October 2026: the client will provide a new plugged ECCO version. File, delivery date and exact changes are not yet inspected or confirmed. Track this under O14 in the central Decision Register.
+
+B101 must keep replaceable product geometry separate from animation controls, documented sensor references and effects. Choose practical Blender interfaces after inspecting actual files; preserve original source and identify which provisional master/version each proof uses. B102 derives compatible clearances/configurations from inspected dimensions, not from an assumed replacement.
+
+Continue non-blocked foundation and mechanism work using explicitly provisional assets. When the replacement arrives: register source/version and inspect units, dimensions, closures, sensor count/locations and animation interfaces; compare against the current master; create a versioned replacement; check relinking/controls and re-run affected geometry, pulse-contact, clearance, camera/occlusion and continuity checks. Preserve earlier evidence and record affected shots.
+
+Do not automatically overwrite a shared master, invent unavailable geometry or promise a zero-rework swap. Missing replacement data blocks dependent claims/final hardware acceptance where material; it does not automatically block independent preparation. Before B4, record which client-supported product version the retained film depicts and resolve replacement-related issues.
+
 ## Development and finishing boundary
 
 Follow [Production Workflow](../03-Context/01_Foundation/05-PRODUCTION_WORKFLOW.md): A readiness → B1 foundation → B2 mechanisms → B3 shots/full animatic → B4 mechanical/technical acceptance → C finishing → D delivery. B2 proves the mechanism; B3 proves the shot communicates it. Deferred rendering is not an excuse to omit moving previews or semantic data colors. No new AI finishing pilot is required before mechanical development.
