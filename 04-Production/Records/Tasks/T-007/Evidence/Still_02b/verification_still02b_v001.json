@@ -1,0 +1,160 @@
+{
+  "checks": [
+    {
+      "check": "approved camera unchanged",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "approved lighting unchanged",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "whole-tool pose unchanged",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "approved saved source unchanged",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "approved Still01 image unchanged",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "candidate source hash",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "candidate image hash",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "full-size still only",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "no local object motion added",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "relative source links resolve",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "source unchanged: Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "source unchanged: Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "diagnostic/history/trace group excluded: B201_PULSE_ECHO",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "diagnostic/history/trace group excluded: B201_CONTACT_HISTORY",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "diagnostic/history/trace group excluded: B201_SPATIAL_GRAPHICS",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "three widening contours",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "contours ordered outward",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "front is detached and before actual wall",
+      "pass": true,
+      "details": {
+        "outward_m": [
+          0.021999986842274666,
+          0.038000010419636965
+        ],
+        "max_distance_m": 0.05166250914892422,
+        "wall_distance_m": 0.045970353173797864
+      }
+    },
+    {
+      "check": "full crescent inside frame",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "pulse excluded from metal override",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "pulse layer only signal and camera",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "same camera for editable composition",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "source geometry does not occlude front",
+      "pass": true,
+      "details": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "passed": true,
+  "executor_self_check": true,
+  "Still01_visual_approval": "Radzi explicit, exactv004",
+  "Still02_initial_visual_approval": "accepted with spreading arc requirement",
+  "Still02b_visual_approval": "pending",
+  "motion_authorized": false
+}
