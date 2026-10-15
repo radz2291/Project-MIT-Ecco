@@ -1,0 +1,113 @@
+{
+  "candidate": "B203 v002",
+  "root": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco",
+  "sources": [
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "sha256": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/config_authorized_v003.json",
+      "sha256": "83e4975e65cabe4d52d0faeb820b44af192daa786a605b31f479a8cb5ac5712a"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "04-Production/Mechanisms/B203/Scenes/B203_retrieval_v002.blend",
+      "bytes": 4681105,
+      "sha256": "f323a8caac238ec31b5a72eef2bba063106de001541e4cea68126bc3aca99995",
+      "local_only": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scenes/B203_support_v002.blend",
+      "bytes": 566100,
+      "sha256": "e6bcb3537bb459285ea5dcaaa6b551255a917e2d1d22e17527ed2ced9fa90721",
+      "local_only": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scenes/B203_channel_v002.blend",
+      "bytes": 370984,
+      "sha256": "972312fdde4f2d2c3ccf3dee99dea7773a8f8401a41abea54c762415fe0d4e42",
+      "local_only": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scenes/B203_wear_v002.blend",
+      "bytes": 289189,
+      "sha256": "bc29e7b8cf669930a5f440afa095702e50e00804fec9741567c651cf6ef8b1f5",
+      "local_only": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Previews/v002/B203_retrieval_v002.mp4",
+      "bytes": 115223,
+      "sha256": "ccd99a6b04d25e30c269dc0f4aaac7ac4217a90d7bf9e31380d68b419eb4ffe7",
+      "local_only": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Previews/v002/B203_support_v002.mp4",
+      "bytes": 96049,
+      "sha256": "79f18c8ce0de0a2d6830e9c80307e00b929b58aa411e5d6bf1f7c1cad31f2843",
+      "local_only": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Previews/v002/B203_channel_v002.mp4",
+      "bytes": 120659,
+      "sha256": "9fe8663e5bd686e9de9edc9dd3097eed84ea9487e4e95cf0712aafb16764136f",
+      "local_only": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Previews/v002/B203_wear_v002.mp4",
+      "bytes": 104818,
+      "sha256": "21a1013b9fcd4e28748adb876c5060ee7663a2e972f7ba93d902c1a90120433b",
+      "local_only": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Previews/v002/B203_all-proofs_v002.mp4",
+      "bytes": 434335,
+      "sha256": "8c5780a6e5b79c880fb561005ad3984b542a9d45720f70e5ef877daf3dd2ca96",
+      "local_only": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scripts/build_proofs_v002.py",
+      "bytes": 9277,
+      "sha256": "43aa618ba8423eec3a765fbb801391a3bd94d913622732c51545833b2c535b69",
+      "local_only": false
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scripts/package_proofs_v002.py",
+      "bytes": 8335,
+      "sha256": "f1e33f726ca08d6fafef26487da38c2db3a911973bb5031ac6f8fb1fd70d0ebe",
+      "local_only": false
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scripts/refine_support_v002.py",
+      "bytes": 1001,
+      "sha256": "d86c24b270961ef3b08e0edf1ab91adb21cbd0f960fc1602648c50e4abf541c3",
+      "local_only": false
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scripts/verify_closure_v002.py",
+      "bytes": 3127,
+      "sha256": "f8e794b84559c79e1115ba26b4132b2b9a5ef392409ab950dd2f92a77724d0fb",
+      "local_only": false
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scripts/verify_proofs_v002.py",
+      "bytes": 2871,
+      "sha256": "227a08dcf2557e3ce5c85f6d31ad743d00f3a853d062f733e2b4c9388049d921",
+      "local_only": false
+    }
+  ],
+  "binaries_backup": "Local organized only; Git excludes media, no remote backup asserted",
+  "checks": {
+    "scene_hashes_match_render": true,
+    "video_hashes_match_decode": true,
+    "product_hash_preserved": true,
+    "frames": 576,
+    "fps": 24,
+    "seconds": 24
+  }
+}

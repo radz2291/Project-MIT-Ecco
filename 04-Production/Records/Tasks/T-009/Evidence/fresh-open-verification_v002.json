@@ -1,0 +1,52 @@
+[
+  {
+    "case": "retrieval",
+    "fresh_open": true,
+    "libraries": [
+      {
+        "relative": "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+        "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+      }
+    ],
+    "actual_instance_max_radius_m": 0.15240007711381226,
+    "actual_product_x_range": [
+      -4.5,
+      -2.0999999046325684
+    ],
+    "positive_nominal_clearance_m": 0.006540422886187752
+  },
+  {
+    "case": "support",
+    "fresh_open": true,
+    "libraries": []
+  },
+  {
+    "case": "channel",
+    "fresh_open": true,
+    "libraries": [],
+    "axial_channel": true,
+    "angular_span_rad": [
+      0.2617993756871516,
+      0.8290313875224852
+    ],
+    "axial_span_m": [
+      -1.2266666889190674,
+      1.2266666889190674
+    ],
+    "map_mask": "same axial [-1.2,1.2], angular [.25,.85] bounds; finite mesh/map cell resolution"
+  },
+  {
+    "case": "wear",
+    "fresh_open": true,
+    "libraries": [],
+    "outer_radius_range_m": [
+      0.16986249387264252,
+      0.1698625047984247
+    ],
+    "inner_radius_range_m": [
+      0.15894049279064215,
+      0.16294050216674805
+    ],
+    "outside_unchanged": true
+  }
+]

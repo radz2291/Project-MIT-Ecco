@@ -1,0 +1,81 @@
+[
+  {
+    "case": "retrieval",
+    "frames": 144,
+    "fps": 24,
+    "render_size": [
+      1280,
+      400
+    ],
+    "render_seconds": 34.71648279999954,
+    "scene": "04-Production/Mechanisms/B203/Scenes/B203_retrieval_v002.blend",
+    "scene_sha256": "f323a8caac238ec31b5a72eef2bba063106de001541e4cea68126bc3aca99995",
+    "checks": {
+      "relative_libraries_resolve": true,
+      "objects": 20,
+      "travel_m": [
+        0.6000000238418579,
+        -4.5,
+        -4.5
+      ],
+      "nominal_radial_clearance_m": 0.006540500000000005,
+      "final_bit_x": [
+        -1.6,
+        -1.42
+      ]
+    }
+  },
+  {
+    "case": "support",
+    "frames": 144,
+    "fps": 24,
+    "render_size": [
+      1280,
+      400
+    ],
+    "render_seconds": 18.538123299999825,
+    "scene": "04-Production/Mechanisms/B203/Scenes/B203_support_v002.blend",
+    "scene_sha256": "e6bcb3537bb459285ea5dcaaa6b551255a917e2d1d22e17527ed2ced9fa90721",
+    "checks": {
+      "relative_libraries_resolve": true,
+      "objects": 8
+    },
+    "initial_render_seconds": 22.154148199999327,
+    "framing_repair": "Orthographic scale 5.8 to retain exploded outside layers"
+  },
+  {
+    "case": "channel",
+    "frames": 144,
+    "fps": 24,
+    "render_size": [
+      1280,
+      400
+    ],
+    "render_seconds": 32.395439899999474,
+    "scene": "04-Production/Mechanisms/B203/Scenes/B203_channel_v002.blend",
+    "scene_sha256": "972312fdde4f2d2c3ccf3dee99dea7773a8f8401a41abea54c762415fe0d4e42",
+    "checks": {
+      "relative_libraries_resolve": true,
+      "objects": 5
+    }
+  },
+  {
+    "case": "wear",
+    "frames": 144,
+    "fps": 24,
+    "render_size": [
+      1280,
+      400
+    ],
+    "render_seconds": 23.307390699999814,
+    "scene": "04-Production/Mechanisms/B203/Scenes/B203_wear_v002.blend",
+    "scene_sha256": "bc29e7b8cf669930a5f440afa095702e50e00804fec9741567c651cf6ef8b1f5",
+    "checks": {
+      "relative_libraries_resolve": true,
+      "objects": 4,
+      "outer_radius_m": 0.1698625,
+      "authored_max_inner_radius_m": 0.16294050000000002,
+      "authored_wear_m": 0.004
+    }
+  }
+]
