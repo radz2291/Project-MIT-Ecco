@@ -1,0 +1,10 @@
+00:03.265  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\WellAssembly\WellAssembly_variants_v003.blend"
+00:03.343  reports          | Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+Traceback (most recent call last):
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-006\Scripts\verify_variants_v003.py", line 22, in <module>
+    assert state[expected] and sum(state.values())==1,state
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: {'NOMINAL_CUTAWAY': True, 'NOMINAL_FULL': False, 'IRREGULAR_CUTAWAY': False, 'IRREGULAR_FULL': False, 'SPIRAL_CUTAWAY': False, 'SPIRAL_FULL': False}
+
+Blender quit

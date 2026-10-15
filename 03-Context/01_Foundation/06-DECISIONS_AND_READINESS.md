@@ -40,6 +40,8 @@ Priority indicates what the answer affects; it does not prevent unrelated prepar
 
 **15 October execution amendment:** Radzi authorized explicit scene-director routing for B3 and replacement-ready shared assets before any B task starts. A01–A04 are Done in Rolladice; historical readiness descriptions below are not a current ticket-status snapshot. This amendment does not itself close O01–O13 or establish MIT engineering approval.
 
+**16 October 2026 / O05 provisional illustration authority:** Radzi explicitly authorized proceeding with the [researched standard configuration](../../04-Production/Records/Tasks/T-006/research-standard-scenario_v002.md) as a provisional illustration: separate cased/open intervals, complete variants and controls, moving previews, simplified provisional BHA placement/adapters. [T6 v003](../../04-Production/Shared/Assets/WellAssembly/README_v003.md) records that implementation. This releases the bounded provisional construction hold; **O05 remains open for MIT confirmation before technical lock**. It does not approve actual BHA placement, adapter/thread compatibility, casing shoe/dogleg/loaded passage, actual deployment or operating safety. Sourced nominal dimensions and authored illustrative parameters remain distinct. O04/O14 hardware questions retain their recorded limits.
+
 Do not silently resolve an engineering question through attractive generated imagery. Update the linked shot card when an answer changes its mechanism, asset, timing or final state.
 
 ## Immediate execution order

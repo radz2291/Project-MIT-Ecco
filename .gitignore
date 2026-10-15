@@ -30,6 +30,7 @@ __pycache__/
 *.blend
 *.blend[0-9]*
 04-Production/**/Renders/
+04-Production/**/Frames/
 04-Production/**/Cache/
 04-Production/**/Caches/
 04-Production/Scratch/

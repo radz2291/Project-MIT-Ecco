@@ -1,0 +1,168 @@
+{
+  "all_pass": true,
+  "checks": {
+    "fresh_open_candidate_hash": true,
+    "source_unchanged": true,
+    "relative_library_resolves": true,
+    "O05_explicitly_open": true,
+    "variant_cutaway_selection": true,
+    "visibility_toggles": true,
+    "profile_controls_outward_only": true,
+    "casing_cement_proxy_shells_manifold": true,
+    "linked_product_motion_clearance": true,
+    "proxy_gauge_not_larger_than_nominal_hole": true,
+    "proxies_labeled_provisional": true,
+    "object_drivers_valid": true
+  },
+  "visibility_cases": [
+    {
+      "variant": 0,
+      "cutaway": 0,
+      "visible": [
+        "NOMINAL_FULL"
+      ]
+    },
+    {
+      "variant": 0,
+      "cutaway": 1,
+      "visible": [
+        "NOMINAL_CUTAWAY"
+      ]
+    },
+    {
+      "variant": 1,
+      "cutaway": 0,
+      "visible": [
+        "IRREGULAR_FULL"
+      ]
+    },
+    {
+      "variant": 1,
+      "cutaway": 1,
+      "visible": [
+        "IRREGULAR_CUTAWAY"
+      ]
+    },
+    {
+      "variant": 2,
+      "cutaway": 0,
+      "visible": [
+        "SPIRAL_FULL"
+      ]
+    },
+    {
+      "variant": 2,
+      "cutaway": 1,
+      "visible": [
+        "SPIRAL_CUTAWAY"
+      ]
+    }
+  ],
+  "profile_cases": [
+    {
+      "variant": 1,
+      "strength": 0.0,
+      "min_radius_m": 0.1555749927933693,
+      "max_radius_m": 0.1555750072002411
+    },
+    {
+      "variant": 1,
+      "strength": 1.0,
+      "min_radius_m": 0.1555750245900895,
+      "max_radius_m": 0.18097044822605468
+    },
+    {
+      "variant": 2,
+      "strength": 0.0,
+      "min_radius_m": 0.1555749927933693,
+      "max_radius_m": 0.1555750072002411
+    },
+    {
+      "variant": 2,
+      "strength": 1.0,
+      "min_radius_m": 0.15557499387490448,
+      "max_radius_m": 0.18097500618440215
+    }
+  ],
+  "topology": {
+    "CASING_FULL": {
+      "nonmanifold_edges": 0
+    },
+    "CEMENT_FULL": {
+      "nonmanifold_edges": 0
+    },
+    "CASING_CUTAWAY": {
+      "nonmanifold_edges": 0
+    },
+    "CEMENT_CUTAWAY": {
+      "nonmanifold_edges": 0
+    },
+    "UPPER_COLLAR_PROXY": {
+      "nonmanifold_edges": 0
+    },
+    "UPPER_ADAPTER_UNRESOLVED": {
+      "nonmanifold_edges": 0
+    },
+    "LOWER_ADAPTER_UNRESOLVED": {
+      "nonmanifold_edges": 0
+    },
+    "LOWER_COLLAR_PROXY": {
+      "nonmanifold_edges": 0
+    },
+    "BIT_GAUGE_PROXY_NOT_CUTTERS": {
+      "nonmanifold_edges": 0
+    }
+  },
+  "motion_cases": [
+    {
+      "travel_m": -3.2,
+      "angle_rad": 0,
+      "housing_and_closure_instances": 10,
+      "max_radius_m": 0.15240007711381226,
+      "bounds_x_m": [
+        -3.200000047683716,
+        -0.7999999523162842
+      ],
+      "min_wall_gap_m": 0.006540422886187752,
+      "matrix_error": 0
+    },
+    {
+      "travel_m": -0.8,
+      "angle_rad": 1.5707963267948966,
+      "housing_and_closure_instances": 10,
+      "max_radius_m": 0.15240007656523585,
+      "bounds_x_m": [
+        -0.800000011920929,
+        1.6000001430511475
+      ],
+      "min_wall_gap_m": 0.0031749234347641375,
+      "matrix_error": 0
+    },
+    {
+      "travel_m": 0.6,
+      "angle_rad": 3.141592653589793,
+      "housing_and_closure_instances": 10,
+      "max_radius_m": 0.1524000824498233,
+      "bounds_x_m": [
+        0.6000000238418579,
+        3.0
+      ],
+      "min_wall_gap_m": 0.0031749175501766813,
+      "matrix_error": 0
+    },
+    {
+      "travel_m": 1.1,
+      "angle_rad": 6.283185307179586,
+      "housing_and_closure_instances": 10,
+      "max_radius_m": 0.15240007854562193,
+      "bounds_x_m": [
+        1.100000023841858,
+        3.5
+      ],
+      "min_wall_gap_m": 0.00317492145437806,
+      "matrix_error": 0
+    }
+  ],
+  "invalid_drivers": [],
+  "limits": "Provisional straight concentric illustration. No actual MIT deployment, thread/load/shoe/dogleg/bit cutting validation; O05 remains open."
+}

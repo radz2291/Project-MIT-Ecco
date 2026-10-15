@@ -1,0 +1,5 @@
+Info: Saved as "WellAssembly_variants_v003.blend"
+BUILD_V003_PASS
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

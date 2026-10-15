@@ -1,0 +1,12 @@
+{
+  "all_pass": true,
+  "checks": {
+    "local_editable_rig": true,
+    "linked_ECCO_retained": true,
+    "source_relative_link_resolves": true,
+    "appended_spiral_selected": true,
+    "travel_control": true,
+    "rotation_control": true
+  },
+  "consumer_sha256": "4189f13d38e5f7c0623e9410f1de42847808904fe835a8be04a53f91fcc5452e"
+}

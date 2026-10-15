@@ -1,0 +1,150 @@
+[
+  {
+    "name": "nominal",
+    "video": "04-Production/Records/Tasks/T-006/Previews/v003/B102_nominal_v003.mp4",
+    "sha256": "d0e7afcee86bf1a5d39e0830ac9359c199a63718ed4618b9e122a816b1e0ee5f",
+    "frames": 96,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, unknown/bt709/iec61966-2-1, progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 4.0
+    },
+    "decode_errors": "",
+    "encode_decode_seconds": 3.997679799999787,
+    "audio": "none"
+  },
+  {
+    "name": "irregular",
+    "video": "04-Production/Records/Tasks/T-006/Previews/v003/B102_irregular_v003.mp4",
+    "sha256": "f5a31a79725acff381dd6bfebe119114724be9b0ef2cdf53285f41d4cc42a02a",
+    "frames": 96,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, unknown/bt709/iec61966-2-1, progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 4.0
+    },
+    "decode_errors": "",
+    "encode_decode_seconds": 4.06230400000004,
+    "audio": "none"
+  },
+  {
+    "name": "spiral",
+    "video": "04-Production/Records/Tasks/T-006/Previews/v003/B102_spiral_v003.mp4",
+    "sha256": "9ed42d77d636c6514e0e8207166ba0b4af409d051233a60fd69eb0e3ad0917ec",
+    "frames": 96,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, unknown/bt709/iec61966-2-1, progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 4.0
+    },
+    "decode_errors": "",
+    "encode_decode_seconds": 4.374181300000146,
+    "audio": "none"
+  },
+  {
+    "name": "cased",
+    "video": "04-Production/Records/Tasks/T-006/Previews/v003/B102_cased_v003.mp4",
+    "sha256": "99296879ef268215454b7bff820c9372dafa27e310c33d698a133a5ff0bac4ae",
+    "frames": 96,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, unknown/bt709/iec61966-2-1, progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 4.0
+    },
+    "decode_errors": "",
+    "encode_decode_seconds": 4.593762099999822,
+    "audio": "none"
+  },
+  {
+    "name": "interval-transition",
+    "video": "04-Production/Records/Tasks/T-006/Previews/v003/B102_interval-transition_v003.mp4",
+    "sha256": "938e9adbb708dab9311252a1ee6895d7fb305dd64b2360637f57e8a71fb90108",
+    "frames": 144,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, unknown/bt709/iec61966-2-1, progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 6.0
+    },
+    "decode_errors": "",
+    "encode_decode_seconds": 5.935769899999741,
+    "audio": "none"
+  },
+  {
+    "name": "all-variants",
+    "video": "04-Production/Records/Tasks/T-006/Previews/v003/B102_all-variants_v003.mp4",
+    "frames": 528,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, unknown/bt709/iec61966-2-1, progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 22.0
+    },
+    "sha256": "9f05bc1fb31a44865f23beda66198ec491d31cab3d9fe7d46c11fda1a081bdcf",
+    "audio": "none"
+  }
+]

@@ -1,0 +1,311 @@
+{
+  "all_pass": true,
+  "local_links": [
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "report_before-v003.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/B102_all-variants_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/B102_variants_review-sheet_v003.jpg",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/B102_profile-comparison_v003.png",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "../../../Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "../../../Shared/Assets/WellAssembly/README_v003.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "../../../Shared/Assets/WellAssembly/config_authorized_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "../../../Shared/Assets/WellAssembly/Scripts/build_variants_v003.py",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Evidence/variants-verification_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Evidence/preview-consumer-checks_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Evidence/editable-consumer-checks_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Evidence/preview-renders_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Evidence/video-qa_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Evidence/output-manifest_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/B102_nominal_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/nominal/B102_nominal_preview_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/B102_irregular_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/irregular/B102_irregular_preview_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/B102_spiral_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/spiral/B102_spiral_preview_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/B102_cased_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/cased/B102_cased_preview_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/B102_interval-transition_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "Previews/v003/interval-transition/B102_interval-transition_preview_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report.md",
+      "target": "research-standard-scenario_v002.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "report_before-v003.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/B102_all-variants_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/B102_variants_review-sheet_v003.jpg",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/B102_profile-comparison_v003.png",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "../../../Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "../../../Shared/Assets/WellAssembly/README_v003.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "../../../Shared/Assets/WellAssembly/config_authorized_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "../../../Shared/Assets/WellAssembly/Scripts/build_variants_v003.py",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Evidence/variants-verification_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Evidence/preview-consumer-checks_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Evidence/editable-consumer-checks_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Evidence/preview-renders_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Evidence/video-qa_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Evidence/output-manifest_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/B102_nominal_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/nominal/B102_nominal_preview_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/B102_irregular_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/irregular/B102_irregular_preview_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/B102_spiral_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/spiral/B102_spiral_preview_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/B102_cased_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/cased/B102_cased_preview_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/B102_interval-transition_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "Previews/v003/interval-transition/B102_interval-transition_preview_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Records\\Tasks\\T-006\\report_v003.md",
+      "target": "research-standard-scenario_v002.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Shared\\Assets\\WellAssembly\\README.md",
+      "target": "README_v003.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Shared\\Assets\\WellAssembly\\README.md",
+      "target": "WellAssembly_variants_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Shared\\Assets\\WellAssembly\\README_v003.md",
+      "target": "WellAssembly_variants_v003.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Shared\\Assets\\WellAssembly\\README_v003.md",
+      "target": "config_authorized_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Shared\\Assets\\WellAssembly\\README_v003.md",
+      "target": "../../../Records/Tasks/T-006/research-standard-scenario_v002.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Shared\\Assets\\WellAssembly\\README_v003.md",
+      "target": "Scripts/build_variants_v003.py",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Shared\\Assets\\WellAssembly\\README_v003.md",
+      "target": "../../../Records/Tasks/T-006/report.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Shared\\Assets\\WellAssembly\\README_v003.md",
+      "target": "../../../Records/Tasks/T-006/Evidence/variants-verification_v003.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Shared\\Assets\\WellAssembly\\README_v003.md",
+      "target": "../../../Records/Tasks/T-006/Previews/v003/B102_all-variants_v003.mp4",
+      "exists": true
+    },
+    {
+      "document": "04-Production\\Shared\\Assets\\WellAssembly\\README_v003.md",
+      "target": "../../../Records/Tasks/T-006/Previews/v003/B102_variants_review-sheet_v003.jpg",
+      "exists": true
+    }
+  ],
+  "master_and_consumers_verified": true,
+  "source_unchanged": true,
+  "combined_video_frames": 528,
+  "combined_video_seconds": 22,
+  "candidate": "uncommitted; local ignored media/raw frames; no push/backup",
+  "visual_review": "All528 raw frames inspected in chronological mosaics; encoded keyframe sheet/profile plot and full-size keyframes reviewed. No real-time playback claim."
+}

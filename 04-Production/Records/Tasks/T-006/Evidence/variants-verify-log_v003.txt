@@ -1,0 +1,6 @@
+00:03.063  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\WellAssembly\WellAssembly_variants_v003.blend"
+00:03.156  reports          | Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+VERIFY_V003_PASS {"fresh_open_candidate_hash": true, "source_unchanged": true, "relative_library_resolves": true, "O05_explicitly_open": true, "variant_cutaway_selection": true, "visibility_toggles": true, "profile_controls_outward_only": true, "casing_cement_proxy_shells_manifold": true, "linked_product_motion_clearance": true, "proxy_gauge_not_larger_than_nominal_hole": true, "proxies_labeled_provisional": true, "object_drivers_valid": true}
+
+Blender quit

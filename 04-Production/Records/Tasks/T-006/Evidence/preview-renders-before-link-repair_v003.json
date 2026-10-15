@@ -1,0 +1,112 @@
+[
+  {
+    "name": "nominal",
+    "variant": 0,
+    "travel_m": [
+      0.5,
+      1.1
+    ],
+    "rotation_rad": [
+      0,
+      6.283185307179586
+    ],
+    "frames": 96,
+    "fps": 24,
+    "seconds": 4.0,
+    "resolution": [
+      1280,
+      720
+    ],
+    "render_seconds": 24.479286199999933,
+    "scene": "04-Production/Records/Tasks/T-006/Previews/v003/nominal/B102_nominal_preview_v003.blend",
+    "scene_sha256": "ea12f7dd83df16f9071fd55973a0539338f3c31312a8ba31adf0d64a10c6c06d"
+  },
+  {
+    "name": "irregular",
+    "variant": 1,
+    "travel_m": [
+      0.5,
+      1.1
+    ],
+    "rotation_rad": [
+      0,
+      6.283185307179586
+    ],
+    "frames": 96,
+    "fps": 24,
+    "seconds": 4.0,
+    "resolution": [
+      1280,
+      720
+    ],
+    "render_seconds": 23.48274719999995,
+    "scene": "04-Production/Records/Tasks/T-006/Previews/v003/irregular/B102_irregular_preview_v003.blend",
+    "scene_sha256": "e7c4114d09928175f2ad9cf32feef8e1443ce64ac12ec143a8a4757ed0204e2c"
+  },
+  {
+    "name": "spiral",
+    "variant": 2,
+    "travel_m": [
+      0.5,
+      1.1
+    ],
+    "rotation_rad": [
+      0,
+      6.283185307179586
+    ],
+    "frames": 96,
+    "fps": 24,
+    "seconds": 4.0,
+    "resolution": [
+      1280,
+      720
+    ],
+    "render_seconds": 23.080895600000076,
+    "scene": "04-Production/Records/Tasks/T-006/Previews/v003/spiral/B102_spiral_preview_v003.blend",
+    "scene_sha256": "81089760754ecafd70887801a2a913a55e002201c0c45b5b22a594b98d2126e7"
+  },
+  {
+    "name": "cased",
+    "variant": 0,
+    "travel_m": [
+      -3.2,
+      -2.6
+    ],
+    "rotation_rad": [
+      0,
+      6.283185307179586
+    ],
+    "frames": 96,
+    "fps": 24,
+    "seconds": 4.0,
+    "resolution": [
+      1280,
+      720
+    ],
+    "render_seconds": 22.16842440000005,
+    "scene": "04-Production/Records/Tasks/T-006/Previews/v003/cased/B102_cased_preview_v003.blend",
+    "scene_sha256": "5d47fd99b28d78ffb4b5ba739942000b561dbdbbaccd23a2c27c2b6ec2537e98"
+  },
+  {
+    "name": "interval-transition",
+    "variant": 0,
+    "travel_m": [
+      -3.2,
+      0.6
+    ],
+    "rotation_rad": [
+      0,
+      6.283185307179586
+    ],
+    "frames": 144,
+    "fps": 24,
+    "seconds": 6.0,
+    "resolution": [
+      1280,
+      720
+    ],
+    "render_seconds": 32.94863110000006,
+    "scene": "04-Production/Records/Tasks/T-006/Previews/v003/interval-transition/B102_interval-transition_preview_v003.blend",
+    "scene_sha256": "3c9ea345eeefe0f1e4af7d80cc64917d376768dc141e24e31a77af8563e7d62d"
+  }
+]

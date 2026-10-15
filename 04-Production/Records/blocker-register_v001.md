@@ -34,7 +34,9 @@ BL01–BL02 are critical; BL03–BL08 and BL10 are interpretation; BL09, BL11–
 - **Owner:** MIT via Radzi; B102 executor
 - **Next action:** Obtain actual deployment sketch/dimensions, then verify full assembly clearance.
 - **Exit evidence:** Approved scenario/dimensions plus versioned fit/clearance checks including bit, shoe and deviated interval.
-- **Status:** Open; blocks dependent assembly construction
+- **Status:** Open for actual MIT deployment/fit confirmation before technical lock. Radzi authorized the researched provisional illustration on 16 October 2026; this no longer blocks that bounded B102 construction. It does not authorize engineering claims or unrelated downstream execution.
+
+**16 October / authorized provisional implementation:** [v003 master/interface](../Shared/Assets/WellAssembly/README_v003.md) and [T6 report](Tasks/T-006/report.md) implement separate cased/open intervals, three open-hole variants, casing/cement cutaways, controls and moving previews, with labeled BHA/adapter/bit proxies. Nominal source dimensions are preserved; profile amplitudes, pitch, extents and proxy placement are explicit illustrative parameters. O05 is still open for MIT confirmation before technical lock, including actual assembly/thread/shoe/dogleg/loaded passage. User authorization releases the provisional construction hold only; no MIT acceptance is invented.
 
 ## BL03 — technical interpretation
 

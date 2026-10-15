@@ -1,0 +1,102 @@
+[
+  {
+    "name": "nominal",
+    "checks": {
+      "saved_source_matches_render": true,
+      "relative_libraries_resolve": true,
+      "linked_product_and_nine_closures": true,
+      "correct_visible_variant": true,
+      "initial_travel": true,
+      "end_travel": true,
+      "end_full_rotation": true
+    },
+    "libraries": [
+      {
+        "stored": "//..\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+        "exists": true,
+        "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+      }
+    ],
+    "all_pass": true
+  },
+  {
+    "name": "irregular",
+    "checks": {
+      "saved_source_matches_render": true,
+      "relative_libraries_resolve": true,
+      "linked_product_and_nine_closures": true,
+      "correct_visible_variant": true,
+      "initial_travel": true,
+      "end_travel": true,
+      "end_full_rotation": true
+    },
+    "libraries": [
+      {
+        "stored": "//..\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+        "exists": true,
+        "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+      }
+    ],
+    "all_pass": true
+  },
+  {
+    "name": "spiral",
+    "checks": {
+      "saved_source_matches_render": true,
+      "relative_libraries_resolve": true,
+      "linked_product_and_nine_closures": true,
+      "correct_visible_variant": true,
+      "initial_travel": true,
+      "end_travel": true,
+      "end_full_rotation": true
+    },
+    "libraries": [
+      {
+        "stored": "//..\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+        "exists": true,
+        "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+      }
+    ],
+    "all_pass": true
+  },
+  {
+    "name": "cased",
+    "checks": {
+      "saved_source_matches_render": true,
+      "relative_libraries_resolve": true,
+      "linked_product_and_nine_closures": true,
+      "correct_visible_variant": true,
+      "initial_travel": true,
+      "end_travel": true,
+      "end_full_rotation": true
+    },
+    "libraries": [
+      {
+        "stored": "//..\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+        "exists": true,
+        "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+      }
+    ],
+    "all_pass": true
+  },
+  {
+    "name": "interval-transition",
+    "checks": {
+      "saved_source_matches_render": true,
+      "relative_libraries_resolve": true,
+      "linked_product_and_nine_closures": true,
+      "correct_visible_variant": true,
+      "initial_travel": true,
+      "end_travel": true,
+      "end_full_rotation": true
+    },
+    "libraries": [
+      {
+        "stored": "//..\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+        "exists": true,
+        "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+      }
+    ],
+    "all_pass": true
+  }
+]
