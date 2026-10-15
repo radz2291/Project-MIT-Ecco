@@ -2,6 +2,12 @@
 
 Owner amendment: 16 October 2026. Radzi clarified that B2's main approval output must closely represent the intended film explanation, using the actual ECCO model and reusable spatial effects. This supersedes earlier advice that B2 needs only isolated mechanical schematics or can defer all directorial judgment to B3.
 
+## Mechanical storyboard versus cinematic scene
+
+Root cause identified by Radzi, 16 October 2026: the mechanical storyboard shows **mechanics**, not the final cinematic visualization. Use it to extract the mechanism, required information, event order and client corrections, subject to engineering-source verification. Do not inherit its panel layout, flat schematic view, detached teaching graphics or camera as a finished visual design.
+
+Translate that content through the Directorial Identity and Scene Director skill into an original, spatially coherent scene around the actual model. Preserve engineering meaning and required beats while choosing framing, depth, emphasis, reveals and graphic placement for the intended film. The storyboard is neither independent engineering authority nor a locked cinematic shot plan. Explicitly record the translation in the existing direction contract: mechanism/required beat → proposed on-model action/view → supporting source or uncertainty. A concise beat list is sufficient.
+
 ## Required result
 
 Deliver an editable Blender engineering scene and a concise moving preview that tells the mechanism's story **on and around the accepted product/environment geometry**. A viewer should understand where the action originates, what it interacts with, what changes and how the displayed information follows. The scene must be usable as the basis for a film shot rather than requiring the explanation to be rebuilt later.
