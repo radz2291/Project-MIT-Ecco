@@ -44,6 +44,16 @@ Priority indicates what the answer affects; it does not prevent unrelated prepar
 
 Do not silently resolve an engineering question through attractive generated imagery. Update the linked shot card when an answer changes its mechanism, asset, timing or final state.
 
+## Production baseline amendment — 16 October 2026
+
+Owner authority: Radzi states the current plugged ECCO can be used for final; incoming client delivery is another plugged version (estimated about 5% change), not a full BHA/bit model. Radzi accepts proceeding with the recommended production approach.
+
+- Use accepted T5 plugged v002 and T6 well/assembly v003 for continued B2 work. Live Rolladice has T5/T6 Done. Their acceptance is production-scope acceptance, not MIT engineering certification.
+- O14 changes from a mandatory replacement prerequisite to a conditional comparison/replacement check. The current version may remain in the delivered film. Record exact versions and reverify only affected content if a new asset is used; percentage similarity is owner expectation, not measurement.
+- O05: the sourced two-interval configuration and simplified BHA remain the illustration baseline. Complete manufacturer BHA/bit drawings are not required to continue. Refine visible collars/adapters/bit during B3, keeping unsourced details explicitly illustrative and reasonably scoped to the shot.
+- Preserve targeted review for facts that materially alter sensing/hydraulic explanation, movement, component order, visible geometry or claimed fit. Close, simplify or remove consequential unresolved claims before technical lock; do not require unseen detail or a full engineering deployment package.
+- Earlier blanket wording that O05/O14 require complete client assembly confirmation before all technical lock is superseded by this content-specific review rule. Historical reports retain the authority and limits applicable when written.
+
 ## Immediate execution order
 
 1. Register the quote and production asset versions; compare repository **V2** to the live Padlet and approved commercial scope.
