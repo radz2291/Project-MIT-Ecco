@@ -48,7 +48,7 @@ The repository presently contains the client chat, ENP3 PDF and still images. It
 | MIT branding | Brochure contains a visible logo | Official artwork, type/color constraints and approved end-card text |
 | Generated references | `02-Reference` | Label by intended use; do not treat generated design as CAD authority |
 
-The owner identifies the working checkout as `C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco`, with an existing empty `04-Production/Shared/Assets` destination. This path is owner-reported, not remotely inspected. Inspect existing source locations before moving anything; save new production outputs in the correct folders under `04-Production/` using the workspace conventions. Record relative paths and versions/hashes. Respect exclusions for videos, heavy reports, CAD and local Blender/media files; keeping a file within the local checkout does not authorize publishing it to GitHub.
+The owner identifies the working checkout as `C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco`, with an existing empty `04-Production/Shared/Assets` destination. This path is owner-reported, not remotely inspected. Inspect existing source locations before moving anything; save new production outputs in the correct folders under `04-Production/` using the workspace conventions. Record relative paths and versions/hashes. Respect exclusions for videos, heavy reports, CAD and local Blender/media files; keeping a file within the local checkout does not authorize publishing it to GitHub.
 
 ## Modular Blender architecture
 
