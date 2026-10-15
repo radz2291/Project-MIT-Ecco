@@ -1,7 +1,25 @@
 # MIT / ECCO — Production Workflow
 
-**Version:** 0.2 routing update · 14 October 2026  
+**Version:** 0.3 mechanical-first execution update · 15 October 2026  
 **Sole owner:** Blender asset structure, reference-generation/AI finishing process, QC and actual output records. For design decisions, read [MIT identity](03-MIT_PRODUCTION_IDENTITY.md), [Engineering Baseline](02-ENGINEERING_BASELINE.md) and [Rolladice Scene Contract](../03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md). For content use [Storyboard V2](../02_Storyboard/README.md).
+
+## Development order
+
+Operating integration and local output organization were authorized by Radzi on 15 October 2026. The detailed task roadmap remains provisional except where a specific execution instruction authorizes a bounded ticket; no engineering, schedule or film acceptance is inferred.
+
+| Stage | Required result |
+|---|---|
+| A — Production readiness | Source/scope reconciliation, actual asset inspection, shot/blocker inventory and confirmed preview conventions |
+| B1 — Mechanical foundation | Reusable validated product and compatible well/assembly assets |
+| B2 — Mechanism development | Standalone moving demonstrations of sensing, scanning/reconstruction, casing, hydraulics and unwrapping |
+| B3 — Shot blocking and animatic | S01–S07 shots using those mechanisms, actual cameras/timing/transitions and a complete moving preview cut |
+| B4 — Mechanical and technical lock | Recorded MIT feedback and Radzi acceptance of the exact corrected mechanical film; retained critical mechanical/technical/source blockers closed or explicitly removed from scope |
+| C — Visual finishing | Materials, lighting, controlled render/AI finishing and precise finished graphics derived from the accepted film |
+| D — Final review and delivery | Editorial/sound polish, client review, verified exports and agreed editable-source handover |
+
+B2 tests whether the mechanism works; B3 tests whether a shot communicates it. Build non-blocked work progressively and seek early targeted feedback on high-risk interpretations. B2/B3 may overlap when their dependencies are satisfied. No repeat AI-finishing pilot is required now. Workbench/grayscale with semantic colors is appropriate; show real motion rather than static storyboard placeholders. Final finishing follows B4.
+
+Rolladice Work owns current assignments, dependencies and execution records. Follow the [production workspace](../../04-Production/README.md) for folders, run lifecycle, agent/human responsibilities and mandatory cleanup/evidence at closure. Agents prepare and correct; Radzi directs, communicates with MIT and accepts. Rework must update affected source assets, shots, previews and review evidence.
 
 ## Division of control
 
@@ -30,7 +48,7 @@ The repository presently contains the client chat, ENP3 PDF and still images. It
 | MIT branding | Brochure contains a visible logo | Official artwork, type/color constraints and approved end-card text |
 | Generated references | `02-Reference` | Label by intended use; do not treat generated design as CAD authority |
 
-Keep media at their actual local or controlled external locations. Record portable relative project paths where available and the relevant version/hash; do not invent paths. Respect the repository's existing exclusions for videos, heavy borehole reports and STEP/IGES assets.
+The owner identifies the working checkout as `C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco`, with an existing empty `04-Production/Shared/Assets` destination. This path is owner-reported, not remotely inspected. Inspect existing source locations before moving anything; save new production outputs in the correct folders under `04-Production/` using the workspace conventions. Record relative paths and versions/hashes. Respect exclusions for videos, heavy reports, CAD and local Blender/media files; keeping a file within the local checkout does not authorize publishing it to GitHub.
 
 ## Modular Blender architecture
 
@@ -50,6 +68,9 @@ This is the planned architecture, not a list of files already created:
 Use linked library assets and suitable overrides so a product correction can propagate across shots. Keep shared geometry changes in the source asset; shot-specific animation in the shot. Validate units, linked paths and interface names before reuse. Do not collapse all product, well, effects and cameras into one unmaintainable file.
 
 ## Per-shot execution
+
+Steps 1–3 are the mechanical/blocking work. Assemble and inspect all retained sections as a full mechanical animatic and obtain B4 acceptance before applying steps 4–7 as finishing. The detailed shot checks still apply; assembly at preview quality is part of B3, not deferred until finishing.
+
 
 1. **Receive directed shot.** Use the [Scene Direction Contract](../03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md) for one technical point, source, initial/final state, camera/lighting and unresolved questions. Do not independently redefine the creative brief.
 2. **Build the motion reference.** Correct hardware, camera, parallax, occlusion and essential effect timing. Distinguish the tool, travelling effect, local borehole and distant background.
