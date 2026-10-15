@@ -1,0 +1,6 @@
+00:03.125  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Evidence\library-consumer_v001.blend"
+00:03.125  reports          | Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_v001.blend', '//..\..\..\..\Shared\Assets\ECCO\ECCO_master_v001.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+LIBRARY_CHECK {'relative_path': '//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_v001.blend', 'resolves': True, 'linked_collection': True, 'objects': 9, 'has_housing': True, 'camera_excluded': True, 'all_pass': True}
+
+Blender quit

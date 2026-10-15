@@ -1,0 +1,14 @@
+00:02.953  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_v001.blend"
+00:06.969  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Previews\ECCO_temporary-plugs_overview_v002.png'
+00:07.516  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Previews\ECCO_temporary-plugs_opposite_v002.png'
+00:08.110  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Previews\ECCO_temporary-plugs_sensor-closeup_v002.png'
+00:08.656  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Previews\ECCO_temporary-plugs_end-X0_v002.png'
+Traceback (most recent call last):
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Scripts\build_temporary_plugs_v002.py", line 50, in <module>
+    e={'source_v001_unchanged':hashlib.sha256(v1.read_bytes()).hexdigest()==before,'source_v001_sha256':before,'housing_signature_unchanged':sig(housing)==original_sig,'old_presentation_source_mesh_matches':sig(old_housing)==original_sig if old_housing.name in bpy.data.objects else True,'old_scene_sha256':hashlib.sha256(OLD.read_bytes()).hexdigest(),'closures':closure_data,'renders':renders,'limits':['Temporary interpretation only, pending official assembled plugged STEP','No end bore closures: functional axial passage retained','Smaller fastener details retained from supplied mesh; not all manufacturing holes certified closed','Sensor references stay at inherited rim centres; not moved to fabricated cap faces']}
+                                                                                                                                                                                                                                                 ^^^^^^^^^^^^^^^^
+ReferenceError: StructRNA of type Object has been removed
+Info: Saved as "ECCO_master_temporary-plugs_v002.blend"
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

@@ -1,0 +1,9 @@
+00:02.734  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_v001.blend"
+Traceback (most recent call last):
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Scripts\verify_master_v001.py", line 28, in <module>
+    assert result['all_pass'],result
+           ~~~~~~^^^^^^^^^^^^
+AssertionError: {'checks': {'fresh_open': True, 'source_vertex_and_loop_signature_equal': True, 'source_object_matrix_equal': False, 'three_refs_120deg': True, 'common_source_X_730mm': True, 'rotation_and_axial_travel': True, 'non_destructive_cutaway_disabled': True, 'no_external_libraries': False, 'no_external_images': True, 'source_step_reference_resolves': True, 'no_added_product_faces_or_plugs': True}, 'all_pass': False, 'maximum_source_axis_radius_m': 0.1524000686066186, 'maximum_source_axis_diameter_m': 0.3048001372132372, 'sensor_angles_deg': [38.99999955537375, 158.9999998815761, 279.00000013072673], 'sensor_spacing_deg': [120.00000032620234, 120.00000024915065, 119.999999424647], 'motion_error_m': [7.450580596923828e-09, 3.725290298461914e-09, 5.587935447692871e-09], 'units': {'system': 'METRIC', 'scale_length': 1.0}, 'note': 'Self-checks, not independent engineering approval. No replacement received. Thread fit/internal mud sensor/shoulder datum unverified.'}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

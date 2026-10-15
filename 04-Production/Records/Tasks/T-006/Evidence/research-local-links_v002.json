@@ -1,0 +1,137 @@
+[
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\research-standard-scenario_v002.md",
+    "target": "../../../Shared/Assets/WellAssembly/config_researched-proposal_v002.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\research-standard-scenario_v002.md",
+    "target": "Previews/researched-scenario_v002.png",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\research-standard-scenario_v002.md",
+    "target": "Evidence/researched-scenario-checks_v002.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Previews/B102_clearance-fixture_v001.mp4",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "../../../Shared/Assets/WellAssembly/B102_clearance-fixture_v001.blend",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Previews/B102_clearance-motion-sheet_v001.jpg",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/clearance-fixture-verification_v001.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/clearance-fixture-build_v001.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/video-qa_v001.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Previews/compatibility-study_v001.png",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "../../../Shared/Assets/WellAssembly/README_v001.md",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "../../../Shared/Assets/WellAssembly/config_pending_v001.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "../../../Shared/Assets/WellAssembly/Scripts/compatibility_v001.py",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "../../../Shared/Assets/WellAssembly/Scripts/build_variants_v001.py",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/compatibility-checks_v001.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/product-inspection_v001.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/product-inspection_v002.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/output-manifest_v001.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/brief-image-index_v001.jpg",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/brief-image-index_v001.txt",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/datasheet-text_v001.txt",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Scripts/inspect_product_v001.py",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Scripts/verify_preparation_v001.py",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "research-standard-scenario_v002.md",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "../../../Shared/Assets/WellAssembly/config_researched-proposal_v002.json",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Previews/researched-scenario_v002.png",
+    "exists": true
+  },
+  {
+    "file": "04-Production\\Records\\Tasks\\T-006\\report.md",
+    "target": "Evidence/researched-scenario-checks_v002.json",
+    "exists": true
+  }
+]

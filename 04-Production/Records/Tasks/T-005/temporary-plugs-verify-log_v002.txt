@@ -1,0 +1,5 @@
+00:04.047  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend"
+V002_VERIFY_PASS {'all_pass': True, 'checks': {'fresh_open': True, 'v001_file_unchanged': True, 'source_mesh_unchanged': True, 'nine_removable_closures': True, 'closures_follow_rotation_control': True, 'source_axis_mapping_correct': True, 'rotation_and_axial_motion': True, 'closures_explicitly_temporary': True, 'source_step_resolves': True, 'no_external_libraries': True, 'no_external_images': True}, 'placement_max_error': 1.2635368307201134e-07, 'motion_max_error_m': 7.450580596923828e-09, 'master_sha256': '704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7', 'note': 'Executor self-checks only. Temporary caps/plates are visual interpretations; assembled STEP still pending. Sensor refs not engineering-approved.'}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

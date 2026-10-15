@@ -1,0 +1,29 @@
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+{
+  "ready": false,
+  "errors": [
+    "O05: deployment scenario is not confirmed by producer",
+    "Missing inspectable deployment confirmation reference",
+    "hole_diameter_m: missing finite numeric value in metres",
+    "hole_diameter_m: missing source / approved illustrative instruction",
+    "casing_id_m: missing finite numeric value in metres",
+    "casing_id_m: missing source / approved illustrative instruction",
+    "casing_od_m: missing finite numeric value in metres",
+    "casing_od_m: missing source / approved illustrative instruction",
+    "cement_outer_diameter_m: missing finite numeric value in metres",
+    "cement_outer_diameter_m: missing source / approved illustrative instruction",
+    "span_m: missing finite numeric value in metres",
+    "span_m: missing source / approved illustrative instruction",
+    "axial_start_m: missing finite numeric value in metres",
+    "axial_start_m: missing source / approved illustrative instruction",
+    "eccentricity_m: missing finite numeric value in metres",
+    "eccentricity_m: missing source / approved illustrative instruction",
+    "irregular_amplitude_m: missing finite numeric value in metres",
+    "irregular_amplitude_m: missing source / approved illustrative instruction",
+    "spiral_amplitude_m: missing finite numeric value in metres",
+    "spiral_amplitude_m: missing source / approved illustrative instruction",
+    "spiral_pitch_m: missing finite numeric value in metres",
+    "spiral_pitch_m: missing source / approved illustrative instruction"
+  ],
+  "clearances_m": {}
+}

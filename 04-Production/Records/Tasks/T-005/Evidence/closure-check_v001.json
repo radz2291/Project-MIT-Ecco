@@ -1,0 +1,424 @@
+{
+  "all_pass": true,
+  "hashes": [
+    {
+      "path": "04-Production/Records/Tasks/T-005/build-log_v001.txt",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/build-evidence_v001.json",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/library-check_v001.json",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/library-consumer_v001.blend",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/verification-harness-first-attempt-log_v001.txt",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/verification-harness-first-attempt_v001.json",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/library-build-log_v001.txt",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/library-verify-log_v001.txt",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/master-verification_v001.json",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_end-X0_v001.png",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_inspection-sheet_v001.png",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_opposite_v001.png",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_overview_v001.png",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_sensor-closeup_v001.png",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/report.md",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/build_master_v001.py",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/check_closure_v001.py",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/check_library_v001.py",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/package_review_v001.py",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/verify_master_v001.py",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/verify-log_v001.txt",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_master_v001.blend",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/Originals/Client_Confirmed_Sensor.png",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/Originals/IMPLEMENTATION_REPORT.md",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/Originals/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/Originals/Source_Imported_ecco.blend",
+      "pass": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/README_v001.md",
+      "pass": true
+    }
+  ],
+  "links": [
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "Previews/ECCO_inspection-sheet_v001.png",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "../../../Shared/Assets/ECCO/ECCO_master_v001.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "../../../Shared/Assets/ECCO/README_v001.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "Evidence/build-evidence_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "master-verification_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "Evidence/output-manifest_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "Scripts/build_master_v001.py",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "Scripts/verify_master_v001.py",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "Scripts/package_review_v001.py",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "Evidence/library-consumer_v001.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/Tasks/T-005/report.md",
+      "target": "Evidence/library-check_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Shared/Assets/ECCO/README_v001.md",
+      "target": "ECCO_master_v001.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Shared/Assets/ECCO/README_v001.md",
+      "target": "Originals/Source_Imported_ecco.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Shared/Assets/ECCO/README_v001.md",
+      "target": "Originals/Client_Confirmed_Sensor.png",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Shared/Assets/ECCO/README_v001.md",
+      "target": "Originals/IMPLEMENTATION_REPORT.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/local-input-inventory_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/external-inputs_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/source-imported_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/source-mesh-inspection_v001.png",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/first-ping_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/sensor-marker-check_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/transformation_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/intro-experiment_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/live-scene_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/media-probe_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/Evidence/media-decode-check_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-002/report.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "../Shared/Assets/ECCO/ECCO_master_v001.blend",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "../Shared/Assets/ECCO/README_v001.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-005/Previews/ECCO_inspection-sheet_v001.png",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-005/report.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-005/master-verification_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-005/Evidence/build-evidence_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/asset-manifest_v001.md",
+      "target": "Tasks/T-005/Evidence/output-manifest_v001.json",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/blocker-register_v001.md",
+      "target": "../../03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/blocker-register_v001.md",
+      "target": "../../03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/MASTER_CLIENT_FEEDBACK_REGISTER.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/blocker-register_v001.md",
+      "target": "shot-register_v001.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/blocker-register_v001.md",
+      "target": "Tasks/T-005/report.md",
+      "exists": true
+    },
+    {
+      "document": "04-Production/Records/blocker-register_v001.md",
+      "target": "../Shared/Assets/ECCO/README_v001.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Records/Tasks/T-002/report.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Records/asset-manifest_v001.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../02_Storyboard/README.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Records/Tasks/T-001/README.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Records/Tasks/T-001/README.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Records/Tasks/T-001/README.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Records/Tasks/T-001/README.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Records/Tasks/T-005/report.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Shared/Assets/ECCO/README_v001.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Records/asset-manifest_v001.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Records/Tasks/T-002/report.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../01-Brief/Chat/chat.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../01-Brief/ECCO_ENP3_Datasheet-1.pdf",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../01-Brief/Image/",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../02-Reference/",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "03-MIT_Cinematic_Production_Identity_v0.1.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../02_Storyboard/README.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../../04-Production/Records/asset-manifest_v001.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/MASTER_CLIENT_FEEDBACK_REGISTER.md",
+      "exists": true
+    },
+    {
+      "document": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "target": "../02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/PADLET_SECTION_06_V2.md",
+      "exists": true
+    }
+  ],
+  "git_diff_check": "passed",
+  "live_scene": "MCP reconfirmed unsaved/clean Cube Light Camera after execution",
+  "visual_QA": "All four views inspected in labeled sheet; overview and sensor close-up inspected individually",
+  "scope": "Executor self-checks; engineering unknowns O04/O14 retained"
+}

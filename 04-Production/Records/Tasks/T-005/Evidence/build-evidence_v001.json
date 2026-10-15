@@ -1,0 +1,153 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261008-MIT-Ecco\\04-Project\\01-ECCO_First_Ping-Test\\01-Blender\\Source_Imported_ecco.blend",
+  "source_sha256": "e2eb5796482a12f8a78db011e1a1bea2717e7a023dd6bc62daa9d8c8dfc841a5",
+  "step_sha256": "ded44633fcdd5161f117f59c157c27c6213bae55d8ce8616f432d84b32e24cde",
+  "master": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_master_v001.blend",
+  "master_sha256": "c37547042cd56780bbeb3577377df8933b794371e60b0a853305f1e2a436a057",
+  "blender": "5.2.2 LTS",
+  "measured": {
+    "dimensions_m": [
+      2.4000000953674316,
+      0.30260878801345825,
+      0.30373769998550415
+    ],
+    "bounds_m": [
+      [
+        0.0,
+        -0.15239855647087097,
+        -0.15133929252624512
+      ],
+      [
+        2.4000000953674316,
+        0.15021024644374847,
+        0.15239837765693665
+      ]
+    ],
+    "source_scale": [
+      0.0010000000474974513,
+      0.0010000000474974513,
+      0.0010000000474974513
+    ],
+    "vertices": 348876,
+    "polygons": 697805,
+    "mesh_signature": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "connected_island_vertex_counts": [
+      348876
+    ]
+  },
+  "sensor_references": [
+    {
+      "name": "ECCO_SENSOR_REF_01",
+      "centre_m": [
+        0.73,
+        0.100251829,
+        0.08118233
+      ],
+      "outward_unit": [
+        0.0,
+        0.7771459221839905,
+        0.6293203234672546
+      ],
+      "angle_deg": 38.999999854062615,
+      "nearby_mesh_vertices_40mm": 12,
+      "nearby_axial_range_m": [
+        0.7300000190734863,
+        0.7300000190734863
+      ]
+    },
+    {
+      "name": "ECCO_SENSOR_REF_02",
+      "centre_m": [
+        0.73,
+        -0.120431874,
+        0.046229467
+      ],
+      "outward_unit": [
+        0.0,
+        -0.9335803985595703,
+        0.358367919921875
+      ],
+      "angle_deg": 158.99999921237387,
+      "nearby_mesh_vertices_40mm": 13,
+      "nearby_axial_range_m": [
+        0.7300000190734863,
+        0.7300296425819397
+      ]
+    },
+    {
+      "name": "ECCO_SENSOR_REF_03",
+      "centre_m": [
+        0.73,
+        0.020180046,
+        -0.127411796
+      ],
+      "outward_unit": [
+        0.0,
+        0.15643446147441864,
+        -0.9876883029937744
+      ],
+      "angle_deg": 278.99999999991053,
+      "nearby_mesh_vertices_40mm": 12,
+      "nearby_axial_range_m": [
+        0.7300000190734863,
+        0.7300000190734863
+      ]
+    }
+  ],
+  "renders": [
+    {
+      "view": "overview",
+      "path": "Records\\Tasks\\T-005\\Previews\\ECCO_overview_v001.png",
+      "elapsed_seconds": 1.587921300000744,
+      "frame": 1,
+      "resolution": [
+        1280,
+        720
+      ],
+      "engine": "BLENDER_WORKBENCH"
+    },
+    {
+      "view": "opposite",
+      "path": "Records\\Tasks\\T-005\\Previews\\ECCO_opposite_v001.png",
+      "elapsed_seconds": 0.5080807999984245,
+      "frame": 1,
+      "resolution": [
+        1280,
+        720
+      ],
+      "engine": "BLENDER_WORKBENCH"
+    },
+    {
+      "view": "sensor-closeup",
+      "path": "Records\\Tasks\\T-005\\Previews\\ECCO_sensor-closeup_v001.png",
+      "elapsed_seconds": 0.5047247000002244,
+      "frame": 1,
+      "resolution": [
+        1280,
+        720
+      ],
+      "engine": "BLENDER_WORKBENCH"
+    },
+    {
+      "view": "end-X0",
+      "path": "Records\\Tasks\\T-005\\Previews\\ECCO_end-X0_v001.png",
+      "elapsed_seconds": 0.4392861999986053,
+      "frame": 1,
+      "resolution": [
+        1280,
+        720
+      ],
+      "engine": "BLENDER_WORKBENCH"
+    }
+  ],
+  "unchanged_originals": true,
+  "mesh_unchanged": true,
+  "limitations": [
+    "2.400m versus nominal 2.25m unresolved; do not rescale",
+    "Shoulder datum and 600mm sensor offset not established",
+    "Mud sensor/internal transducers unlocated",
+    "No manufacturing component split inferred from mesh islands",
+    "Pending plugged replacement O14",
+    "STEP not independently retessellated; earlier import lineage only"
+  ]
+}

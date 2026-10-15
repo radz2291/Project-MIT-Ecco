@@ -18,7 +18,13 @@ BL01–BL02 are critical; BL03–BL08 and BL10 are interpretation; BL09, BL11–
 - **Exit evidence:** Registered file/hash, units/dimensions, sensor count/plane inspection and MIT-reviewed disputed features.
 - **Status:** Open; blocks geometry-dependent construction
 
+**B101 evidence, 15 October 2026:** [T-005 report](Tasks/T-005/report.md) and [provisional v001 interface](../Shared/Assets/ECCO/README_v001.md) now provide a preserved-mesh reusable wrapper, measured 2.400 m length / 0.304800 m maximum axis diameter, separate controls and inherited imaging recess references. Fresh-open geometry and control self-checks pass; this is not MIT acceptance. Length reconciliation, pin-shoulder datum/600 mm offset, acoustic face/mud-sensor identification and current revision remain open. O14 replacement inspection/swap checks are documented, not performed without the file. Independent preparation can use this explicitly provisional reference; unsupported geometry-dependent construction/claims and final hardware lock remain blocked. Do not treat this evidence note as closing BL01 or BL02.
+
+**Temporary closure rework:** Radzi's relayed client request authorizes the [v002 removable visual plugs/covers](../Shared/Assets/ECCO/README_v002.md) pending the assembled STEP. This resolves the temporary presentation omission only; no new engineering decision closes O04/O14. Source housing/v001 preserved; actual closure/face compatibility must be checked when the supplied assembly arrives.
+
 ## BL02 — critical mechanical
+
+**T-006 source inspection/preparation, 15 October 2026:** [Report](Tasks/T-006/report.md) and [fit study](Tasks/T-006/Previews/compatibility-study_v001.png) inspect the original three-page ENP3 datasheet, complete brief photo index and relevant chat. Published 12.3in minimum casing ID yields approximately 3.81mm ideal centered radial clearance around the inspected 12in envelope; it is not a selected deployment. Smaller chat examples remain incompatible. Full BHA/bit, casing wall/cement and deployment datums remain absent. [Adjustable builder/configuration preparation](../Shared/Assets/WellAssembly/README_v001.md) is saved, with scene construction gated and unvalidated. BL02/O05 remains open; no dependency or approval bypass.
 
 - **Affected system/shot:** S01-02, S02–S05 assemblies
 - **Central decision / feedback reference:** O05
@@ -197,3 +203,7 @@ BL01–BL02 are critical; BL03–BL08 and BL10 are interpretation; BL09, BL11–
 - **Next action:** Later single Scene Direction Contract per shot; validate arrivals/transitions/readability in cheap previews before B4 finishing.
 - **Exit evidence:** Director feedback on versioned moving preview, legible exact required copy and source-consistent graphics; B4 acceptance before final materials/AI/expensive renders.
 - **Status:** Open; does not block mechanical studies
+
+## BL02 research addendum — provisional scenario available
+
+T6 follow-up research found a [source-backed nominal scenario](Tasks/T-006/research-standard-scenario_v002.md) and [dimensional proposal](../Shared/Assets/WellAssembly/config_researched-proposal_v002.json). 13.375in casing in a 17.5in host with a subsequent 12.25in open-hole section is documented by SLB; selected 61lb/ft manufacturer reference yields nominal centered fit. This improves preparation beyond asking for every standard size. It does not establish actual MIT BHA placement, adapter design or deployment approval. O05/BL02 remains open for those claims; producer selection of the researched provisional illustration is separate from final engineering acceptance.

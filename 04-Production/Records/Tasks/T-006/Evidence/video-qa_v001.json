@@ -1,0 +1,24 @@
+{
+  "path": "04-Production/Records/Tasks/T-006/Previews/B102_clearance-fixture_v001.mp4",
+  "frames_decoded": 96,
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, unknown/bt709/iec61966-2-1, progressive)",
+    "fps": 24.0,
+    "source_size": [
+      1280,
+      720
+    ],
+    "size": [
+      1280,
+      720
+    ],
+    "rotate": 0,
+    "duration": 4.0
+  },
+  "decode_errors": "",
+  "encode_and_decode_seconds": 4.223770600001444,
+  "audio": "none",
+  "limit": "Fixture/test-motion preview only; not a mechanical film shot or confirmed deployment"
+}

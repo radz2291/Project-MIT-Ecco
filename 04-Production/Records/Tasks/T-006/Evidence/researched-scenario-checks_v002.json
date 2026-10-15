@@ -1,0 +1,29 @@
+{
+  "status": "source-backed illustrative proposal; no MIT deployment approval",
+  "measured_tool_od_mm": 304.80015422762455,
+  "reference_dimensions_mm": {
+    "lower_open_hole": 311.15,
+    "upper_host_hole": 444.5,
+    "casing_od": 339.72499999999997,
+    "casing_wall": 10.921999999999999,
+    "nominal_casing_id": 317.881,
+    "reference_drift": 313.91859999999997
+  },
+  "ideal_centered_radial_gaps_mm": {
+    "tool_to_open_hole": 3.1749228861877157,
+    "tool_to_nominal_casing_ID": 6.540422886187713,
+    "tool_to_reference_drift": 4.559222886187712,
+    "bit_gauge_to_reference_drift": 1.384299999999996,
+    "ideal_cement_annulus": 52.38750000000002
+  },
+  "checks": {
+    "unit_and_wall_conversion": true,
+    "positive_centered_envelopes": true,
+    "61lb_ft_drift_above_12_3in": true,
+    "68lb_ft_reference_drift_below_12_3in": true
+  },
+  "limits": [
+    "No tolerance, connection/shoe, dogleg, BHA placement, safety or MIT operational acceptance",
+    "Cement annulus inferred from selected reference geometry, not prescribed cement design"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "blender": "5.2.2 LTS",
+  "file": "04-Production/Shared/Assets/ECCO/ECCO_master_v001.blend",
+  "sha256": "c37547042cd56780bbeb3577377df8933b794371e60b0a853305f1e2a436a057",
+  "vertices": 348876,
+  "dimensions_m": [
+    2.4000000953674316,
+    0.30260878801345825,
+    0.30373769998550415
+  ],
+  "maximum_axis_diameter_m": 0.3048001542276245,
+  "axis": "source X; not certified pin/box datum",
+  "status": "Provisional v001, O04/O14 unresolved. T5 v002 remains separate and in progress."
+}

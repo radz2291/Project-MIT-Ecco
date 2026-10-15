@@ -1,0 +1,16 @@
+{
+  "blender": "5.2.2 LTS",
+  "file": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+  "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+  "housing_vertices": 348876,
+  "envelope_vertices_including_closures": 349668,
+  "housing_dimensions_m": [
+    2.4000000953674316,
+    0.30260878801345825,
+    0.30373769998550415
+  ],
+  "maximum_axis_diameter_m": 0.3048001542276245,
+  "axis": "source X; not certified pin/box datum",
+  "closures_included": 9,
+  "status": "Measurement only. O04/O14 unresolved; this does not validate T5 closure placement."
+}

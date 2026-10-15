@@ -1,0 +1,14 @@
+{
+  "source_sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+  "fixture_sha256": "d80c93d76ba13318f968a90417066cc84180d99a1a2697c99154432cd556b9c1",
+  "frames": 96,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "engine": "BLENDER_WORKBENCH",
+  "render_elapsed_seconds": 23.596204900000885,
+  "boundary_id_m": 0.31242000000000003,
+  "limit": "Only sourced minimum-ID envelope and test motion; not selected deployment"
+}

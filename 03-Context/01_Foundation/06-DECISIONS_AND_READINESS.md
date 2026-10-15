@@ -80,6 +80,10 @@ Append future answers with date, reviewer, exact preview/document version and ev
 
 ## Source register
 
+**15 October / temporary closures, producer-relayed client instruction:** Radzi quoted the client's request that holes have plugs, offer of an assembled plugged STEP later, and suggestion to work temporarily with the current model. [B101 v002](../../04-Production/Shared/Assets/ECCO/README_v002.md) adds nine removable visual caps/plugs/covers while preserving source/v001. This authorizes provisional visualization only; exact assembled geometry and delivery timing remain unverified. O14 remains open and O04 dimensional/sensor questions are unchanged. No claim that the client approved these particular temporary parts is made.
+
+**15 October / B101 evidence, no decision closure:** [T-005 report](../../04-Production/Records/Tasks/T-005/report.md) registers a local provisional [ECCO master v001](../../04-Production/Shared/Assets/ECCO/README_v001.md), unchanged earlier source mesh, separate controls/recess references and a replacement comparison procedure. Maximum source-axis diameter measures 304.800 mm, consistent with the 12-inch brochure OD; 2400 mm overall length versus nominal 2250 mm, lower pin-shoulder datum, acoustic faces and mud sensor remain O04. O14 is still awaiting the incoming plugged model; no compatibility or swap acceptance is inferred. This updates source availability only, not engineering approval or downstream release.
+
 **15 October / A02 evidence:** [Asset manifest](../../04-Production/Records/asset-manifest_v001.md) and [inspection report](../../04-Production/Records/Tasks/T-002/report.md) register local STEP, four opened saved Blender candidates, available media and the original ENP1 report. STEP/mesh dimensions require O04 reconciliation; FEA and standalone official branding were not found in the bounded search. The original log's ENP1 identity and confidentiality footer were inspected; O08/O13 permission remains open. No engineering, rights or production-master approval is implied.
 
 | Ref | Source | Use / evidence status |

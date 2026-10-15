@@ -1,0 +1,11 @@
+{
+  "task": "911d2198-d82e-450b-a4f5-a1f6dfb517d9",
+  "run": "4d82f620-e5d7-443c-baae-d0180ad9bcd8",
+  "worker": "codex-t005-plugs-v002-01a13f65",
+  "task_status": "review",
+  "run_status": "finished",
+  "candidate": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+  "reference_location": "Local paths and checks saved in live ticket summary and final run event; no remote media URL claimed.",
+  "limitations": "Temporary removable visualization only. Official assembled STEP and O04/O14 reconciliation pending.",
+  "workspace_note": "Final git inspection also showed unrelated T-006 and WellAssembly output; preserved untouched by this run."
+}

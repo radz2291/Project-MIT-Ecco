@@ -1,0 +1,98 @@
+{
+  "status": "independent preparation only; O05/BL02 blocks assembly construction",
+  "tool_source": {
+    "blender": "5.2.2 LTS",
+    "file": "04-Production/Shared/Assets/ECCO/ECCO_master_v001.blend",
+    "sha256": "c37547042cd56780bbeb3577377df8933b794371e60b0a853305f1e2a436a057",
+    "vertices": 348876,
+    "dimensions_m": [
+      2.4000000953674316,
+      0.30260878801345825,
+      0.30373769998550415
+    ],
+    "maximum_axis_diameter_m": 0.3048001542276245,
+    "axis": "source X; not certified pin/box datum",
+    "status": "Provisional v001, O04/O14 unresolved. T5 v002 remains separate and in progress."
+  },
+  "fit_study": [
+    {
+      "source": "Datasheet minimum casing ID",
+      "diameter_inches": 12.3,
+      "dimension_type": "ID",
+      "diameter_m": 0.31242000000000003,
+      "ideal_radial_gap_or_upper_bound_m": 0.0038099228861877554,
+      "disposition": "Published minimum only; not selected deployment"
+    },
+    {
+      "source": "Chat 9:07 PM open hole example",
+      "diameter_inches": 12.25,
+      "dimension_type": "hole",
+      "diameter_m": 0.31115,
+      "ideal_radial_gap_or_upper_bound_m": 0.003174922886187731,
+      "disposition": "Generic example; positive ideal gap does not establish deployment"
+    },
+    {
+      "source": "Chat 9:07 PM smaller hole example",
+      "diameter_inches": 8.5,
+      "dimension_type": "hole",
+      "diameter_m": 0.21589999999999998,
+      "ideal_radial_gap_or_upper_bound_m": -0.04445007711381227,
+      "disposition": "Incompatible with inspected ENP3 envelope"
+    },
+    {
+      "source": "Chat 9:42 PM casing example",
+      "diameter_inches": 9.625,
+      "dimension_type": "OD",
+      "diameter_m": 0.244475,
+      "ideal_radial_gap_or_upper_bound_m": -0.03016257711381226,
+      "disposition": "Even OD is smaller than tool; ID is smaller still"
+    },
+    {
+      "source": "Chat 9:42 PM smaller casing example",
+      "diameter_inches": 7,
+      "dimension_type": "OD",
+      "diameter_m": 0.17779999999999999,
+      "ideal_radial_gap_or_upper_bound_m": -0.06350007711381227,
+      "disposition": "Even OD is smaller than tool; ID is smaller still"
+    }
+  ],
+  "pending_config_gate": {
+    "ready": false,
+    "errors": [
+      "O05: deployment scenario is not confirmed by producer",
+      "Missing inspectable deployment confirmation reference",
+      "hole_diameter_m: missing finite numeric value in metres",
+      "hole_diameter_m: missing source / approved illustrative instruction",
+      "casing_id_m: missing finite numeric value in metres",
+      "casing_id_m: missing source / approved illustrative instruction",
+      "casing_od_m: missing finite numeric value in metres",
+      "casing_od_m: missing source / approved illustrative instruction",
+      "cement_outer_diameter_m: missing finite numeric value in metres",
+      "cement_outer_diameter_m: missing source / approved illustrative instruction",
+      "span_m: missing finite numeric value in metres",
+      "span_m: missing source / approved illustrative instruction",
+      "axial_start_m: missing finite numeric value in metres",
+      "axial_start_m: missing source / approved illustrative instruction",
+      "eccentricity_m: missing finite numeric value in metres",
+      "eccentricity_m: missing source / approved illustrative instruction",
+      "irregular_amplitude_m: missing finite numeric value in metres",
+      "irregular_amplitude_m: missing source / approved illustrative instruction",
+      "spiral_amplitude_m: missing finite numeric value in metres",
+      "spiral_amplitude_m: missing source / approved illustrative instruction",
+      "spiral_pitch_m: missing finite numeric value in metres",
+      "spiral_pitch_m: missing source / approved illustrative instruction"
+    ],
+    "clearances_m": {}
+  },
+  "checks": {
+    "source_od_matches_12in": true,
+    "unit_conversion": true,
+    "smaller_examples_rejected": true,
+    "eccentric_contact_rejected": true,
+    "invalid_numeric_values_rejected": true,
+    "missing_config_rejected": true,
+    "builder_syntax": true,
+    "builder_scene_validation": false
+  },
+  "limit": "Centered straight envelope calculation only; no selected deployment, threads, shoe, deviation, BHA or replacement acceptance"
+}

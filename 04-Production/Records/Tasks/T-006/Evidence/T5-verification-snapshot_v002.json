@@ -1,0 +1,20 @@
+{
+  "all_pass": true,
+  "checks": {
+    "fresh_open": true,
+    "v001_file_unchanged": true,
+    "source_mesh_unchanged": true,
+    "nine_removable_closures": true,
+    "closures_follow_rotation_control": true,
+    "source_axis_mapping_correct": true,
+    "rotation_and_axial_motion": true,
+    "closures_explicitly_temporary": true,
+    "source_step_resolves": true,
+    "no_external_libraries": true,
+    "no_external_images": true
+  },
+  "placement_max_error": 1.2635368307201134e-07,
+  "motion_max_error_m": 7.450580596923828e-09,
+  "master_sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+  "note": "Executor self-checks only. Temporary caps/plates are visual interpretations; assembled STEP still pending. Sensor refs not engineering-approved."
+}

@@ -1,0 +1,12 @@
+00:02.922  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\WellAssembly\B102_clearance-fixture_v001.blend"
+00:02.922  reports          | Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+Traceback (most recent call last):
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-006\Scripts\verify_clearance_fixture_v001.py", line 19, in <module>
+    housing=next(i for i in meshes if i.object.name=='ECCO_HOUSING_SOURCE_MESH')
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-006\Scripts\verify_clearance_fixture_v001.py", line 19, in <genexpr>
+    housing=next(i for i in meshes if i.object.name=='ECCO_HOUSING_SOURCE_MESH')
+                                      ^^^^^^^^
+ReferenceError: StructRNA of type DepsgraphObjectInstance has been removed
+
+Blender quit

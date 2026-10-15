@@ -1,0 +1,697 @@
+[
+  {
+    "path": "04-Production/Records/Tasks/T-006/report.md",
+    "bytes": 9707,
+    "sha256": "29172599913e2a9e11de1f4672f527efe56d3e33443e95e9acb4ac22e518bf4c"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/research-standard-scenario_v002.md",
+    "bytes": 7867,
+    "sha256": "4d31a76836db66ced198e41fd276565683dd500dbf862a2b329884f03dabc7c6"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/brief-image-index_v001.jpg",
+    "bytes": 244833,
+    "sha256": "b87711a8a2cda532f98ecc670af786ca0b993885247165b8fd9f7342fb29bd3f"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/brief-image-index_v001.txt",
+    "bytes": 1529,
+    "sha256": "96ad1e9b386f79509bf5ee9b8e5de195f59597ffe0d6786e1c418e8e1d086931"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/clearance-fixture-build-log_v001.txt",
+    "bytes": 15493,
+    "sha256": "9d3fbc7cbecd1d1e008a1bfadcd119306217688b11beca540d757e09e8147b66"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/clearance-fixture-build_v001.json",
+    "bytes": 469,
+    "sha256": "ef640a7f7f5ff098d294f2a5d118158c39577955587dae6ba72d7533ec40b8ab"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/clearance-fixture-verification_v001.json",
+    "bytes": 2785,
+    "sha256": "a146e16ea2afc2f9419f46fb066d3137bba2697d280b73e5377dbeb3b17ebc96"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/clearance-fixture-verify-log_initial-failure.txt",
+    "bytes": 1090,
+    "sha256": "9c381e6906bcb7e1827af529ff6ae8bf582d8411ded3e36024e61f82ae08688c"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/clearance-fixture-verify-log_v001.txt",
+    "bytes": 3258,
+    "sha256": "00c1e2db087b720ae736345e840d1af132d8014faf43665550060995ac7af324"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/compatibility-checks_v001.json",
+    "bytes": 4328,
+    "sha256": "0c44142eeb11a0835313f1cfd123d604a43e31933f2a8400a48d613012a5e116"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/datasheet-page-1.png",
+    "bytes": 206677,
+    "sha256": "b7d5a1913903584f241fe1b6cac7e49d94d56748828a47e4dea2977731570248"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/datasheet-page-2.png",
+    "bytes": 142457,
+    "sha256": "05a253c27fc5f5e5fdd2bcd2895797a60fc2871aa4b14fcd7df84649c6950f12"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/datasheet-page-3.png",
+    "bytes": 130302,
+    "sha256": "1f49ee84efb959255b11bca5da06ee6defdcc03d0dfebf049784bf168975a939"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/datasheet-text_v001.txt",
+    "bytes": 6182,
+    "sha256": "ee6d8ffca10c929e8d82a7c16ddbe84befe968bf8293bd460720a60f32c08914"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/local-link-checks_v001.json",
+    "bytes": 4716,
+    "sha256": "0c9c0ebdec40bc7b3af2dfa1b8b3ac2e81fdc82f38f1908cfee468abe22cf142"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/pending-config-refusal_v001.txt",
+    "bytes": 1648,
+    "sha256": "2f04b39eb613e4596e0d4beccc1125a7ef8a0263fdc7adff6ed095e322ee96ba"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/product-inspection_v001.json",
+    "bytes": 505,
+    "sha256": "67917f268fad27f96d41e19d6ea4a8b6e050a22664aabdc826a63b92f80f066b"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/product-inspection_v002.json",
+    "bytes": 618,
+    "sha256": "85e731c30acb29e9136ae0d74c71464ffdfbc6b1d6da38402cd346953cd145a2"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/research-local-links_v002.json",
+    "bytes": 4362,
+    "sha256": "6da682ca1dcef354b1f0d9019f6a6af90029c8a027eac15379ebdff4fb5c63c5"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/researched-scenario-checks_v002.json",
+    "bytes": 1090,
+    "sha256": "754f6d08f51fcc5e4f0de7a73e00a3399a7dc43ec4c0c25af10856d838826a08"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/T5-verification-snapshot_v002.json",
+    "bytes": 799,
+    "sha256": "63b1cf7230efc8f69a4ed1e894384365617b095344b91d2ad88a61f1bbe48c73"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/video-encode_v001.txt",
+    "bytes": 5132,
+    "sha256": "c777749b41599a916ee7fffc350188b2bfc078d1f9372bebacb236ebdf85be8b"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Evidence/video-qa_v001.json",
+    "bytes": 700,
+    "sha256": "805daf3f5ffb09f5d6d6d25f5bd1e7905d865e6096f69741fa329a9b3ede3316"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/all-frames-1_v001.jpg",
+    "bytes": 72154,
+    "sha256": "6deb6c5267e9484fc2ae6a1a4dd0e060bc28416f9b9cffdc06ef9966953e7c1f"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/all-frames-2_v001.jpg",
+    "bytes": 72150,
+    "sha256": "166a38de7e3b64fdd678ad66ac588e4401c96c02d263081263bb2bd554138af2"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/all-frames-3_v001.jpg",
+    "bytes": 72372,
+    "sha256": "db8b070103bf2d1cec47cca06524743f8f481dbbfb3a53e8fa096a190f62d0de"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/all-frames-4_v001.jpg",
+    "bytes": 72320,
+    "sha256": "41b12891a6395db412ad7efc00c381321c725752c0a131a734523d02a3d258e8"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/B102_clearance-fixture_v001.mp4",
+    "bytes": 234326,
+    "sha256": "999acbae9106763073fa2c73b345eef37b5c5348ae694ea03356839a4d6eb778"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/B102_clearance-motion-sheet_v001.jpg",
+    "bytes": 79073,
+    "sha256": "602f844240cda6bfd1f5db838dd17e77ecdadf06fd9a48d45283dc2ca085d989"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/compatibility-study_v001.png",
+    "bytes": 113387,
+    "sha256": "ac74d4cd46caaef32b4b9ce2cc7dd8819b88f11ae65b256c63c8fed558616d5a"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/researched-scenario_v002.png",
+    "bytes": 86024,
+    "sha256": "a6d3c491fb58370cbc8e8b90d97bad7b13b481af73c97be09b23663372d5b59e"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Scripts/build_clearance_fixture_v001.py",
+    "bytes": 4964,
+    "sha256": "c49fb78ebcb87b3089549bbd4452eeebd3a8f493f7490032422255c1efb97354"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Scripts/inspect_product_v001.py",
+    "bytes": 1354,
+    "sha256": "a405c58e5f092afc7e3b176289aeb635fe3f9513651df6b0dd5ed653ef738958"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Scripts/package_clearance_preview_v001.py",
+    "bytes": 2941,
+    "sha256": "844399142ef5889fdea238b306b0bf12b64f9cddbadedfb39d0c203c3995b1ce"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Scripts/research_scenario_v002.py",
+    "bytes": 4199,
+    "sha256": "1d13c41d6ac925b6153648a12e060bdab972d6c7f4f9e2e8bc2fb6f4ede3928c"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Scripts/verify_clearance_fixture_v001.py",
+    "bytes": 3772,
+    "sha256": "9760c66b1f1af78fb4a5e2b57698ae05b3c745c58c95589c39e2d1fe9715e5a8"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Scripts/verify_preparation_v001.py",
+    "bytes": 4855,
+    "sha256": "2e1886c118a7edb9f17070322ca03043a225f11d4acfbb569ae1cbf99a944a87"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0001.png",
+    "bytes": 901555,
+    "sha256": "d17e1895844d6f6731be724efca4b219716c420da9454732583b1619fc8edbaf"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0002.png",
+    "bytes": 901681,
+    "sha256": "088e0645a9c215aa78ebf47afcbf70085a82c0b546bcbaf5695b412db18005c6"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0003.png",
+    "bytes": 901437,
+    "sha256": "8db5091326587a30691ba66ad64da05ab77a69256f15987fab7973e9311482f6"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0004.png",
+    "bytes": 901469,
+    "sha256": "6ff5cf3f288803486e3357a08c8369a11cfcf787b3121b0a284aa6fb5c99858c"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0005.png",
+    "bytes": 901781,
+    "sha256": "26a69187b32010ce93e2f968c76903c3bf4b514bd00029900167c0b067139754"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0006.png",
+    "bytes": 901471,
+    "sha256": "4de8d7dc24edd81ca59b05825f0c35817e384cc694ddd658cae3a194bb76cfbb"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0007.png",
+    "bytes": 901139,
+    "sha256": "aa0205b3b914e73a92d3cadc1016cc24eb0f2eba40d044dec5c343b895c56fe5"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0008.png",
+    "bytes": 901732,
+    "sha256": "dffebefadda0ffd500f5a100948b6201cfa89c7d1821d4ea34449c2cdfb89bcd"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0009.png",
+    "bytes": 901451,
+    "sha256": "3cee1eb2e5e3c2f1490880ef7025eadc6f55857485cfd7e3ae3c5ff867a5ecef"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0010.png",
+    "bytes": 901371,
+    "sha256": "75261fd6f63dfd416bf17f5a24047c485e00d934dd69c40f75da9a32ed1b95cf"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0011.png",
+    "bytes": 902288,
+    "sha256": "5bbb7ce5102b450acdbda2393cc6004b926bf67d13abde81787b5af581bdf3f5"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0012.png",
+    "bytes": 902390,
+    "sha256": "f6b5597ab92662aaa6e218f0b47b229789af27c8e36ea464fec0726dda419767"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0013.png",
+    "bytes": 902035,
+    "sha256": "21c7e01c7259aaf19e3c198635baeb6240992b38a5f141232769f8d7dfa9cd17"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0014.png",
+    "bytes": 902118,
+    "sha256": "999e6ce82b679268c80a01d6417b75887c17e181aa01bbdaefd63a14ab319f44"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0015.png",
+    "bytes": 902452,
+    "sha256": "c6f1cb1e831cce94b44278a6e367661a9003822de9f8289ad905972f00651367"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0016.png",
+    "bytes": 902706,
+    "sha256": "a31e1e030b41a3bfffcf8a892bd34188bcb47d5a55f08ad81b22e227293ba749"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0017.png",
+    "bytes": 902679,
+    "sha256": "60a261fcc6d8aef2b92947d8d9f8f092b203db066199d29ed55dd2341eb053e2"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0018.png",
+    "bytes": 903250,
+    "sha256": "1bbb2a5aff7abfeae8bd53bd447f726b0f2f1b8406a0719cd6f80588ebb17c76"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0019.png",
+    "bytes": 902867,
+    "sha256": "d111fb7e36e3dd30b3ae046dfe7c29297f6077e26c25dfacc5e55afde5c382eb"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0020.png",
+    "bytes": 902910,
+    "sha256": "427d95474bf40a2d9edc258173644b8c4e6edc398ac3f0766540ae0492654321"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0021.png",
+    "bytes": 902429,
+    "sha256": "98b4da46a388ce3e9c65de6c7c34abdc28283c94404419649588d60afbc6213b"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0022.png",
+    "bytes": 903082,
+    "sha256": "bdb8370009faf0328bb1670e2d921a7d31e96ddd28e7d185a541de155c7a34fa"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0023.png",
+    "bytes": 903411,
+    "sha256": "2014c244a058bad2157100d4174d5bfa564176f8a3620713ad1a68fcc9122df3"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0024.png",
+    "bytes": 902866,
+    "sha256": "f164af4801ac367cda75fa9be3a0ef46c01a33482b877f30c90fecc4e5360f53"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0025.png",
+    "bytes": 902143,
+    "sha256": "4df9c0eb3154605357ca90c7eadd10aaa6e33a9a902832926171f06ea339adab"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0026.png",
+    "bytes": 901449,
+    "sha256": "9bb133b1b5f947664d40f8dd278de38eccbcb3eb8636c830409b943b02c62b2b"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0027.png",
+    "bytes": 902166,
+    "sha256": "dfc6a488121c355ada9bba5abf1c9c2566e6bf934f96afea22b42cfd5e95aed1"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0028.png",
+    "bytes": 901985,
+    "sha256": "c663363d2f11fba48a966283729d4eb796beac19220a1320d503fbe07f0a27cf"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0029.png",
+    "bytes": 901658,
+    "sha256": "96881f698a41299813dbad120cbad8de71c3fdbd5b19cb341e3d06866cd22ce0"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0030.png",
+    "bytes": 901671,
+    "sha256": "bd9bb79202daeb496bc5a001ec10c4e83147478866ddba3c9750affd7ee362c5"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0031.png",
+    "bytes": 901966,
+    "sha256": "93d4d0453725ffc7d8f5cd40287fa896c1ffc880eede82c4f4d0223f69aeb5fa"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0032.png",
+    "bytes": 901852,
+    "sha256": "ae05ba544a2840312b789bd7205035aefee9f90df9562799bf563aab13bc553e"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0033.png",
+    "bytes": 902011,
+    "sha256": "c21f97b62138ed72792e1d1c0928b40a1322bce0dba80596bf306aabaaee6823"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0034.png",
+    "bytes": 901680,
+    "sha256": "91f3cee52478cb55feaac4de5243f81b959e5ae8c03fc210e01e6da94b241a51"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0035.png",
+    "bytes": 901813,
+    "sha256": "13612db22bb12500ba840c90bf31b8f6a8a7d0b5bae974cc0b0a1cb27c73543c"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0036.png",
+    "bytes": 901874,
+    "sha256": "42ff43e69a1e18b8a8ccf84b574003185306f2bf7fa1ab94d928e90657dd60cb"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0037.png",
+    "bytes": 901946,
+    "sha256": "bc9a36c054d2d063678528fcf55ae03c6583d40fca0f410da7ab556eb684030c"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0038.png",
+    "bytes": 901851,
+    "sha256": "8ae3cb8674ede407376ec426b6689f9924801413e2748b34720170fbdf97bb51"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0039.png",
+    "bytes": 901336,
+    "sha256": "546f1655f4ec6840cb8fcea65214148fa9a8906163c609a5a438f719e736c542"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0040.png",
+    "bytes": 901689,
+    "sha256": "33d24958f67ce0774011925ba8a6c892820814e4dc6ec3bc6f64fea193293d74"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0041.png",
+    "bytes": 901112,
+    "sha256": "a520818bc827090b6d1980562809ab789d58d1984d91dce4fa09bc4e279d430f"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0042.png",
+    "bytes": 901425,
+    "sha256": "7b7a46152c3866043665fc07a658b72e77a07995ab0d9d86cba4f89d8ab95a46"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0043.png",
+    "bytes": 901837,
+    "sha256": "e638203150a217d50070f7a9a0fac4d2ce2e34eee3a21a00964a5d2d08f2a08d"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0044.png",
+    "bytes": 902111,
+    "sha256": "33220aace781ca50557e7f4b2ad15ed268b18b85b84139b866aae6beef530076"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0045.png",
+    "bytes": 902188,
+    "sha256": "d499236866da402fa8e9669b2c52a0b262fc921d64ad75670165b5b88b6b8906"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0046.png",
+    "bytes": 902456,
+    "sha256": "d1166cff6cface6e3b2b3df0e9fb5001a46d9f692d4529bec06bb301458904d0"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0047.png",
+    "bytes": 902280,
+    "sha256": "3e26d7a1dc03e71d601a48a384eca1458f86a9a509cfdff83561a7cb98e56458"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0048.png",
+    "bytes": 902472,
+    "sha256": "30722c5ebc9eefd0b5cd5ad3ab664330a7b472e97eaf2f641435688623a39e04"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0049.png",
+    "bytes": 903337,
+    "sha256": "dddb91f96bcea39d953e2bd80de705718d0cf1c339ce7ef0ddeb2da4521563e8"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0050.png",
+    "bytes": 902882,
+    "sha256": "07b512eefcc3ad9de0e3fcd9a6e1b0f19354fe97e5b9f636adf02395b1277eb6"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0051.png",
+    "bytes": 903234,
+    "sha256": "7140de4dec090eb58fddae648bf42a14e6aa914bdc5d9ba16e56428d3dbbff55"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0052.png",
+    "bytes": 903194,
+    "sha256": "7ccd6e828790db78a0f6b84340b3acbb27032284c078eb36e694515ed90a4116"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0053.png",
+    "bytes": 903098,
+    "sha256": "530b077e2a5d6ea9d3329459c1710ff23b23170708a65b340a303b7e3babd2b9"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0054.png",
+    "bytes": 902945,
+    "sha256": "efa7a20e2e5cbb2cfc8599dba401f1987c0a0b4760b4e0bf4fb2e9da6c5dec6e"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0055.png",
+    "bytes": 902642,
+    "sha256": "e23c63fb07342736aafbea063c67b8f9c5fc00d4214684b86d8efdaf56b4193b"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0056.png",
+    "bytes": 902317,
+    "sha256": "7a1a1bbf8f4239403cc468610d9cea11bacac2f5c14c5ff674d2ced3080f7c2a"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0057.png",
+    "bytes": 902116,
+    "sha256": "472c1364418e679f5331987e9da06c5e8323f808857c03b68c8007a4cfd64b02"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0058.png",
+    "bytes": 902228,
+    "sha256": "7462acd709c588ca3bef99e637f9296c5148665ce5ffca3feed48828038c23e7"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0059.png",
+    "bytes": 902007,
+    "sha256": "c20eacfa5dd6c94dffbdf706554d5a3baebe77f9f3b7e3765b355161f7c8308f"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0060.png",
+    "bytes": 902182,
+    "sha256": "009553b23e74e861c882d7ab749310cb0da17e1bc0723be282e6db7597f35716"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0061.png",
+    "bytes": 901769,
+    "sha256": "c73a5d2ad0391e52c34668bbbc316e19f912a067da972358bce802ef1ded3252"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0062.png",
+    "bytes": 901646,
+    "sha256": "43a1d9bfc01948424554fc645566ca7583b2010248b1baffbb9289322b45fbd8"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0063.png",
+    "bytes": 901831,
+    "sha256": "a48767e942e83442451289319f918b9202ab488c31c15a10d093568a52b54baf"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0064.png",
+    "bytes": 901940,
+    "sha256": "7f3d3d100b70d06cce73cd014c063f63f596c8714e4adc07febce7d7b345392e"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0065.png",
+    "bytes": 901589,
+    "sha256": "a80995dd1af83feb0576647641d1de01469143c2ec81549f2b09c43536550e89"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0066.png",
+    "bytes": 901805,
+    "sha256": "f19a02213d0f41d2dd0d60c25c8ab1116de820e3276db2015065e23ccff852d8"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0067.png",
+    "bytes": 901370,
+    "sha256": "0af696dac64dababed54aee98af5a0b04024243b9f9293e8bdba265402c13ce6"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0068.png",
+    "bytes": 901531,
+    "sha256": "72540ceaa1ec16fbf8a1be82e5ba5cc3fce989e4bbe12b88131ec94bb5b14c23"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0069.png",
+    "bytes": 901577,
+    "sha256": "d3ac49e142f6e433142ef4b4db153a62bb8211786bf79570f79b3d4253c56392"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0070.png",
+    "bytes": 901449,
+    "sha256": "a61ce1d317baba482d4f11c3c9f43c32809bc425b071f27250d6ed35f902bf57"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0071.png",
+    "bytes": 901154,
+    "sha256": "69fc91eb1c51dffae9407265c56bc06ff350ed8c51c6171b4a986e80992e2053"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0072.png",
+    "bytes": 901581,
+    "sha256": "4028470fc1bb763ba221f950f85a656af12a6f35d529ba53d660fea647e7e10d"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0073.png",
+    "bytes": 901122,
+    "sha256": "fbef7351ca8eca4dfc198cbe43761a891442b775ee82bda7073bddddc70aac04"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0074.png",
+    "bytes": 901964,
+    "sha256": "6c83aac20e1ac159b2cfa76e23224fb3190ca50fc413b6181c19e55cbb2b2a3b"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0075.png",
+    "bytes": 901684,
+    "sha256": "419f50ec185dcde02daa8e47d8b4d5899526878e43b904fe46d039ce27460dc4"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0076.png",
+    "bytes": 902225,
+    "sha256": "0185c37145358172ec3d170c7eb3ffe80a159882bbcdb02297bbbd2eac3950ab"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0077.png",
+    "bytes": 902387,
+    "sha256": "27e923575a32ec10eb9dc0436f6bcd7b3d7d457ab664975eac8bf4a13c3279b3"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0078.png",
+    "bytes": 902715,
+    "sha256": "36cfe8ec1de9bc8bf533702c93387178ccfafd642cf0980909d3a1813697daec"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0079.png",
+    "bytes": 902394,
+    "sha256": "075417ae94efbd552b5899ac774251ead04a45a2372bb4ef814bfaec815f028c"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0080.png",
+    "bytes": 903235,
+    "sha256": "fdf38dae4854aee49c52bb65c246b093a15f42e343460417b9668181e6cc3a08"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0081.png",
+    "bytes": 902966,
+    "sha256": "ebdbdbf089da3105913a433c899ad3619f80e2cfc73089907a97c7b36e316c81"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0082.png",
+    "bytes": 903186,
+    "sha256": "c804657b023517eaa7e0112b1c47aa8d60dacbea33da7c657dacb88933359ec9"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0083.png",
+    "bytes": 903294,
+    "sha256": "545de9d2270079742cd72c7924a3dcd4cff1e40f75ea7668e9100cc223b4dd5c"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0084.png",
+    "bytes": 903618,
+    "sha256": "75f614a2d05ed71a4a91ba73f4e44527950784b979e61e02af49f9f018a64bce"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0085.png",
+    "bytes": 903228,
+    "sha256": "a5290e6fc41b113736ce1d000c23e3f66f9367f020fbe6bee4087a3418a94e70"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0086.png",
+    "bytes": 902922,
+    "sha256": "a8d77145e207219e945c686600c99638cfbc937b23d9e905e862216c624ce3fc"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0087.png",
+    "bytes": 903016,
+    "sha256": "7efb0001529db66754bdf367599b35877776f8e80066028ec978ad6aaacd4553"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0088.png",
+    "bytes": 902592,
+    "sha256": "e61bb269023ca64475f7d5b9a879877d4505782b43648f41e59c27f4f5fad256"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0089.png",
+    "bytes": 902403,
+    "sha256": "aec3443f775de70d76ac251b490d92a8d4aa69da24023d404e77ce1c09bae0ea"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0090.png",
+    "bytes": 901951,
+    "sha256": "97a239e52d55db4aaf2c46f72b77b39e9ee70d9c584826d92f262db83742ef20"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0091.png",
+    "bytes": 902156,
+    "sha256": "1b91950ce521b7fded7a36ef1839e92124c813dae1a0c4804f5f1bd0a0b8500c"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0092.png",
+    "bytes": 901755,
+    "sha256": "a4ffe8e810ee581453cf733f585cfe0f1f5ce133762d6a12326146871f5b9bdd"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0093.png",
+    "bytes": 901680,
+    "sha256": "4c3a2ef86926e0f51d8961860b48e5d91a1da1bca9b95092301e434ca5732bdf"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0094.png",
+    "bytes": 902195,
+    "sha256": "efb2cb69d85ab823ed63faddc77f55cee00ad27f4a5e76b821927c1cd08b3dd3"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0095.png",
+    "bytes": 901783,
+    "sha256": "27b45ecf35be5c6a105ab70cd672df392d4ba83aa61d51434a33bc42a07c773f"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-006/Previews/clearance-frames_v001/frame_0096.png",
+    "bytes": 902082,
+    "sha256": "9337605499c58fb9b75e2bfa5b1d965bef6193ebdc5b1606e39f1ce96b9b7bef"
+  },
+  {
+    "path": "04-Production/Shared/Assets/WellAssembly/B102_clearance-fixture_v001.blend",
+    "bytes": 90125,
+    "sha256": "d80c93d76ba13318f968a90417066cc84180d99a1a2697c99154432cd556b9c1"
+  },
+  {
+    "path": "04-Production/Shared/Assets/WellAssembly/config_pending_v001.json",
+    "bytes": 1081,
+    "sha256": "853da302831fdd9f9a7bb38dedf3dad1ba3a6e3af2323e885ab3d16cbcc8ce7c"
+  },
+  {
+    "path": "04-Production/Shared/Assets/WellAssembly/config_researched-proposal_v002.json",
+    "bytes": 2230,
+    "sha256": "85eaf8de81cea63cad3b68420f07ba59bc2d1caca45c435238f2511255d40770"
+  },
+  {
+    "path": "04-Production/Shared/Assets/WellAssembly/README_v001.md",
+    "bytes": 4863,
+    "sha256": "245bdcbd65a9bda6f092f238f4cac3f2bc63a9c52ed22bdcfcc29d31ba5e21f7"
+  },
+  {
+    "path": "04-Production/Shared/Assets/WellAssembly/Scripts/build_variants_v001.py",
+    "bytes": 8226,
+    "sha256": "843ca170a27538fc6a79b934d8242690f9f2b0ab66292505628d1ba9cc3888be"
+  },
+  {
+    "path": "04-Production/Shared/Assets/WellAssembly/Scripts/compatibility_v001.py",
+    "bytes": 5285,
+    "sha256": "a35fb1f71c448583a87fb96a803ac686ccaca73eb31c462d5559719af2ace10c"
+  }
+]

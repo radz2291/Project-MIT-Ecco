@@ -1,0 +1,14 @@
+{
+  "task": "911d2198-d82e-450b-a4f5-a1f6dfb517d9",
+  "run": "efba46c6-104b-4d70-b8a0-ae4c31a6af19",
+  "worker": "codex-t005-01a13f65",
+  "verified_workspace_revision": 128,
+  "finished_utc": "2026-10-15T12:03:08.754Z",
+  "task_status": "review",
+  "run_status": "finished",
+  "reviewer": "Radzi",
+  "criteria_checked": 6,
+  "output_reference_location": "Ticket summary and final run event contain seven exact local-relative output references plus machine root. Output URI array rejects local paths and requires HTTP(S); no remote download or publication was fabricated.",
+  "publication": "Candidate uncommitted; no push or remote binary backup. Original assets preserved.",
+  "engineering_limits": "O04 and O14 remain open; no independent MIT acceptance or replacement inspection claimed."
+}

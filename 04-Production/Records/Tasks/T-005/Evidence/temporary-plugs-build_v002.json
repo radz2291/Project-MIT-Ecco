@@ -1,0 +1,332 @@
+{
+  "source_v001_unchanged": true,
+  "source_v001_sha256": "c37547042cd56780bbeb3577377df8933b794371e60b0a853305f1e2a436a057",
+  "housing_signature_unchanged": true,
+  "old_presentation_source_mesh_matches": true,
+  "old_scene_sha256": "fa0b187ac79db35773f81ef56b87eaf2964567b5ead729e2e463c5305907db13",
+  "closures": [
+    {
+      "name": "TEMP | Service port 3 | removable metal plug",
+      "matrix_source_m": [
+        [
+          1.910685253406468e-15,
+          1.0,
+          -8.742277657347586e-08,
+          0.9097999334335327
+        ],
+        [
+          1.0,
+          1.910685676922942e-15,
+          4.371138828673793e-08,
+          -2.483583650283109e-17
+        ],
+        [
+          4.371138828673793e-08,
+          -8.742277657347586e-08,
+          -1.0,
+          -0.13520003855228424
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 128,
+      "fit": "Inherited presentation cap/plug mapped to matching source mesh"
+    },
+    {
+      "name": "TEMP | Service port 2 | removable metal plug",
+      "matrix_source_m": [
+        [
+          -3.785516966559044e-08,
+          1.0,
+          -2.1855694143368964e-08,
+          0.9097999930381775
+        ],
+        [
+          -0.5000000596046448,
+          -3.785517321830412e-08,
+          -0.8660253882408142,
+          -0.11708663403987885
+        ],
+        [
+          -0.8660253882408142,
+          -2.1855687037941607e-08,
+          0.5000000596046448,
+          0.06759995967149734
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 128,
+      "fit": "Inherited presentation cap/plug mapped to matching source mesh"
+    },
+    {
+      "name": "TEMP | Service port 1 | removable metal plug",
+      "matrix_source_m": [
+        [
+          9.892126229260612e-08,
+          1.0,
+          -2.1855694143368964e-08,
+          0.9097999930381775
+        ],
+        [
+          -0.5000000596046448,
+          6.838821775545512e-08,
+          0.8660253882408142,
+          0.11708663403987885
+        ],
+        [
+          0.8660253882408142,
+          -7.474046981315041e-08,
+          0.5000000596046448,
+          0.06759995967149734
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 128,
+      "fit": "Inherited presentation cap/plug mapped to matching source mesh"
+    },
+    {
+      "name": "TEMP | Service cover 3 | removable fitted plate",
+      "matrix_source_m": [
+        [
+          1.3809523582458496,
+          1.1920996398596962e-21,
+          3.552713678800501e-15,
+          0.6283499598503113
+        ],
+        [
+          3.7040238052619806e-22,
+          -1.4814814329147339,
+          1.5099580252808664e-07,
+          -2.401348331633292e-17
+        ],
+        [
+          4.90612833291184e-15,
+          -2.2369748364781117e-07,
+          -1.0,
+          -0.13072335720062256
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 8,
+      "fit": "145x80mm plate including pocket extension; top seated at surrounding rim ray samples, not manufacturing design"
+    },
+    {
+      "name": "TEMP | Service cover 2 | removable fitted plate",
+      "matrix_source_m": [
+        [
+          1.3809523582458496,
+          -3.0387556857467465e-15,
+          -3.5527132552840273e-15,
+          0.6283499598503113
+        ],
+        [
+          -2.8325541968253964e-15,
+          0.7407406568527222,
+          -0.866025447845459,
+          -0.11321008205413818
+        ],
+        [
+          4.906127909395366e-15,
+          1.2830005884170532,
+          0.4999999701976776,
+          0.06536183506250381
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 8,
+      "fit": "145x80mm plate including pocket extension; top seated at surrounding rim ray samples, not manufacturing design"
+    },
+    {
+      "name": "TEMP | Service cover 1 | removable fitted plate",
+      "matrix_source_m": [
+        [
+          1.3809523582458496,
+          3.0387556857467465e-15,
+          -3.5527132552840273e-15,
+          0.6283499598503113
+        ],
+        [
+          2.8325541968253964e-15,
+          0.7407406568527222,
+          0.866025447845459,
+          0.11320976167917252
+        ],
+        [
+          4.906127909395366e-15,
+          -1.2830005884170532,
+          0.4999999701976776,
+          0.06536164879798889
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 8,
+      "fit": "145x80mm plate including pocket extension; top seated at surrounding rim ray samples, not manufacturing design"
+    },
+    {
+      "name": "TEMP | Imaging port 3 | removable acoustic cap",
+      "matrix_source_m": [
+        [
+          3.888668231866177e-08,
+          1.0,
+          3.2324674492656413e-08,
+          0.7299999594688416
+        ],
+        [
+          0.9876883625984192,
+          -4.3464616794608446e-08,
+          0.15643444657325745,
+          0.02033648081123829
+        ],
+        [
+          0.15643444657325745,
+          2.584348735013009e-08,
+          -0.9876883625984192,
+          -0.12839952111244202
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 128,
+      "fit": "Inherited presentation cap/plug mapped to matching source mesh"
+    },
+    {
+      "name": "TEMP | Imaging port 2 | removable acoustic cap",
+      "matrix_source_m": [
+        [
+          -7.153070669119188e-08,
+          1.0,
+          -2.6646520723261347e-07,
+          0.7299999594688416
+        ],
+        [
+          -0.35836803913116455,
+          -2.7440100325293315e-07,
+          -0.9335803985595703,
+          -0.12136545777320862
+        ],
+        [
+          -0.9335803985595703,
+          2.8712950239651036e-08,
+          0.35836803913116455,
+          0.04658779874444008
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 128,
+      "fit": "Inherited presentation cap/plug mapped to matching source mesh"
+    },
+    {
+      "name": "TEMP | Imaging port 1 | removable acoustic cap",
+      "matrix_source_m": [
+        [
+          -3.3897048723474654e-08,
+          1.0,
+          -1.6202928776465342e-08,
+          0.7299999594688416
+        ],
+        [
+          -0.6293202638626099,
+          -8.740057566569703e-09,
+          0.77714604139328,
+          0.10102897137403488
+        ],
+        [
+          0.77714604139328,
+          3.653978453144191e-08,
+          0.6293202638626099,
+          0.08181162178516388
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 128,
+      "fit": "Inherited presentation cap/plug mapped to matching source mesh"
+    }
+  ],
+  "renders": [
+    {
+      "view": "overview",
+      "seconds": 1.782861599996977,
+      "frame": 1,
+      "resolution": [
+        1280,
+        720
+      ]
+    },
+    {
+      "view": "opposite",
+      "seconds": 0.49247290000494104,
+      "frame": 1,
+      "resolution": [
+        1280,
+        720
+      ]
+    },
+    {
+      "view": "sensor-closeup",
+      "seconds": 0.5291414000021177,
+      "frame": 1,
+      "resolution": [
+        1280,
+        720
+      ]
+    },
+    {
+      "view": "end-X0",
+      "seconds": 0.4906582999974489,
+      "frame": 1,
+      "resolution": [
+        1280,
+        720
+      ]
+    }
+  ],
+  "limits": [
+    "Temporary interpretation only, pending official assembled plugged STEP",
+    "No end bore closures: functional axial passage retained",
+    "Smaller fastener details retained from supplied mesh; not all manufacturing holes certified closed",
+    "Sensor references stay at inherited rim centres; not moved to fabricated cap faces"
+  ]
+}

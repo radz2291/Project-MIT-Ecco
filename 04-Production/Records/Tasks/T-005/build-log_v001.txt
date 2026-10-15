@@ -1,0 +1,10 @@
+00:02.703  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261008-MIT-Ecco\04-Project\01-ECCO_First_Ping-Test\01-Blender\Source_Imported_ecco.blend"
+00:08.031  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Previews\ECCO_overview_v001.png'
+00:08.547  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Previews\ECCO_opposite_v001.png'
+00:09.047  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Previews\ECCO_sensor-closeup_v001.png'
+00:09.485  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-005\Previews\ECCO_end-X0_v001.png'
+Info: Saved as "ECCO_master_v001.blend"
+B101_BUILD_COMPLETE {"vertices": 348876, "islands": 1, "mesh_unchanged": true, "renders": [{"view": "overview", "path": "Records\\Tasks\\T-005\\Previews\\ECCO_overview_v001.png", "elapsed_seconds": 1.587921300000744, "frame": 1, "resolution": [1280, 720], "engine": "BLENDER_WORKBENCH"}, {"view": "opposite", "path": "Records\\Tasks\\T-005\\Previews\\ECCO_opposite_v001.png", "elapsed_seconds": 0.5080807999984245, "frame": 1, "resolution": [1280, 720], "engine": "BLENDER_WORKBENCH"}, {"view": "sensor-closeup", "path": "Records\\Tasks\\T-005\\Previews\\ECCO_sensor-closeup_v001.png", "elapsed_seconds": 0.5047247000002244, "frame": 1, "resolution": [1280, 720], "engine": "BLENDER_WORKBENCH"}, {"view": "end-X0", "path": "Records\\Tasks\\T-005\\Previews\\ECCO_end-X0_v001.png", "elapsed_seconds": 0.4392861999986053, "frame": 1, "resolution": [1280, 720], "engine": "BLENDER_WORKBENCH"}]}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

@@ -1,0 +1,169 @@
+{
+  "version": "v001",
+  "files": [
+    {
+      "path": "04-Production/Records/Tasks/T-005/build-log_v001.txt",
+      "bytes": 1760,
+      "sha256": "0484782408b3bffbf51cf52f50e7ca837c3a56df450a8736b8f0cdfba49f4040",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/build-evidence_v001.json",
+      "bytes": 4136,
+      "sha256": "0cff4633ce975156ae3a9bfefab835c1b8bccf33f7f25a83d2350de52f3594dd",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/library-check_v001.json",
+      "bytes": 230,
+      "sha256": "fcc6ace2f915c6501047069f63abf37dc0ccc057cda47480ae65f930dd7c79dc",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/library-consumer_v001.blend",
+      "bytes": 86432,
+      "sha256": "0e44058104213dbb21b0b3b2e3dc85824f04bafc0e92790377e9bd96e471354e",
+      "local_only_binary": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/verification-harness-first-attempt-log_v001.txt",
+      "bytes": 1448,
+      "sha256": "ffdfa590c1621d9124a7d778b327ebb2a30c7441b92a0d4b2696d5398315aecc",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/verification-harness-first-attempt_v001.json",
+      "bytes": 1132,
+      "sha256": "11101aad7efa3110ed42312737927dc6dbc7f55d5f2c594446e4aa0b4565aa7c",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/library-build-log_v001.txt",
+      "bytes": 127,
+      "sha256": "9675e6a5771ad1fa025f0de1032c09e59bddc72bbeb183f3ee3b61dc9526ff0d",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/library-verify-log_v001.txt",
+      "bytes": 680,
+      "sha256": "1af113f06e2512aac5bc793b4aa64e7442ff92357829488b718b39cbad714607",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/master-verification_v001.json",
+      "bytes": 1129,
+      "sha256": "021f8cd83fd19b8c9f5c29b08a2382fc4ffa78a390d0ccccdfeedf8b0e61936e",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_end-X0_v001.png",
+      "bytes": 1041257,
+      "sha256": "3ac42e5fdf7f7bfb3d1c6b89c08efff44aa49051bc19f75c69d7d5a042443dc9",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_inspection-sheet_v001.png",
+      "bytes": 808187,
+      "sha256": "14688f4dfa3b9709f2c3f184c5c3be9ab2f51f87ffd56a05e9c2930c7940b32f",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_opposite_v001.png",
+      "bytes": 909521,
+      "sha256": "44129828cb9785b5cf81880fb9fcb233f8e96a017cb56c6476edc83486858a1b",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_overview_v001.png",
+      "bytes": 909583,
+      "sha256": "a4ca37a2e13f712b89a318e7c12248409f5e32dde4bc63e1dd7ad4d9756c075f",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_sensor-closeup_v001.png",
+      "bytes": 1029012,
+      "sha256": "c0e62ff9db5bf9894124c228dec2379416ace51033f1a36458b7cab206e9310b",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/report.md",
+      "bytes": 6070,
+      "sha256": "15e24fcf78e3624c6fa9cc83e008dc431050c39a29abb1e2b2f20a3c0af284cf",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/build_master_v001.py",
+      "bytes": 8767,
+      "sha256": "ec3f335e874b489b4d34dfa6b81ab5f953f6931a75b03d2d52376eeb0a3e444a",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/check_closure_v001.py",
+      "bytes": 1663,
+      "sha256": "95fa70f76e2b90e23332f72a2c3370a8b820f0aa0ca81add30633e246c25cf2f",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/check_library_v001.py",
+      "bytes": 1453,
+      "sha256": "d23006a373cb2e3fb802219354669b71912d28ab9e2733f27695ac891a57e131",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/package_review_v001.py",
+      "bytes": 14400,
+      "sha256": "960f972f54835f30deaec1b4c97d1f40ea4c5f6481aa99061bd8fd8e171c9753",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/verify_master_v001.py",
+      "bytes": 3204,
+      "sha256": "be63d2adee351a8cd9bf52105de1286f0b1141e977d960898ac3ff6de6f00a38",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/verify-log_v001.txt",
+      "bytes": 1209,
+      "sha256": "857a2ae6a5f951ec0e4cf18dfd47b671599249d5640b47e30508cceb6f8428e7",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_master_v001.blend",
+      "bytes": 18281091,
+      "sha256": "c37547042cd56780bbeb3577377df8933b794371e60b0a853305f1e2a436a057",
+      "local_only_binary": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/Originals/Client_Confirmed_Sensor.png",
+      "bytes": 178412,
+      "sha256": "af0886d8a614dcbd55049ef0c986cd07c008a02b9c761c15d1a3a196d3653573",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/Originals/IMPLEMENTATION_REPORT.md",
+      "bytes": 7516,
+      "sha256": "4aa8704e6564a3020e4a08296e0e10049e57bc1a3128687476b8535b514dd69d",
+      "local_only_binary": false
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/Originals/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+      "bytes": 4606150,
+      "sha256": "ded44633fcdd5161f117f59c157c27c6213bae55d8ce8616f432d84b32e24cde",
+      "local_only_binary": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/Originals/Source_Imported_ecco.blend",
+      "bytes": 18277267,
+      "sha256": "e2eb5796482a12f8a78db011e1a1bea2717e7a023dd6bc62daa9d8c8dfc841a5",
+      "local_only_binary": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/README_v001.md",
+      "bytes": 5640,
+      "sha256": "8ee4ced423fb04f0057e6bd9a05b5a960aa9e88ada829e6a54b349c0479a9b10",
+      "local_only_binary": false
+    }
+  ],
+  "publication": "Uncommitted; no push or remote media backup",
+  "self_checks_pass": true
+}

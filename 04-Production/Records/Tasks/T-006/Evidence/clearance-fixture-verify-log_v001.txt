@@ -1,0 +1,92 @@
+00:02.468  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\WellAssembly\B102_clearance-fixture_v001.blend"
+00:02.484  reports          | Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+{
+  "all_pass": true,
+  "checks": {
+    "saved_fixture_hash_matches_render": true,
+    "source_hash_matches": true,
+    "relative_links_resolve": true,
+    "nine_closures_in_all_sampled_frames": true,
+    "evaluated_instance_matches_control": true,
+    "positive_sampled_radial_clearance": true,
+    "whole_turn": true,
+    "100mm_test_travel": true,
+    "swept_axial_bounds_in_fixture": true,
+    "render_frames_exist": true
+  },
+  "frames_checked": [
+    {
+      "frame": 1,
+      "rotation_x_rad": 0.0,
+      "travel_m": 0.0,
+      "mesh_instances": 10,
+      "max_radius_m": 0.15240007711381226,
+      "axial_bounds_m": [
+        0.0,
+        2.4000000953674316
+      ],
+      "minimum_boundary_gap_m": 0.0038099228861877554
+    },
+    {
+      "frame": 25,
+      "rotation_x_rad": 1.5873310565948486,
+      "travel_m": 0.025263158604502678,
+      "mesh_instances": 10,
+      "max_radius_m": 0.15240007663718813,
+      "axial_bounds_m": [
+        0.025263158604502678,
+        2.4252631664276123
+      ],
+      "minimum_boundary_gap_m": 0.0038099233628118845
+    },
+    {
+      "frame": 49,
+      "rotation_x_rad": 3.1746621131896973,
+      "travel_m": 0.050526317209005356,
+      "mesh_instances": 10,
+      "max_radius_m": 0.1524000722278711,
+      "axial_bounds_m": [
+        0.050526317209005356,
+        2.450526475906372
+      ],
+      "minimum_boundary_gap_m": 0.003809927772128907
+    },
+    {
+      "frame": 73,
+      "rotation_x_rad": 4.761992931365967,
+      "travel_m": 0.07578947395086288,
+      "mesh_instances": 10,
+      "max_radius_m": 0.1524000681584497,
+      "axial_bounds_m": [
+        0.07578947395086288,
+        2.4757895469665527
+      ],
+      "minimum_boundary_gap_m": 0.003809931841550318
+    },
+    {
+      "frame": 96,
+      "rotation_x_rad": 6.2831854820251465,
+      "travel_m": 0.10000000149011612,
+      "mesh_instances": 10,
+      "max_radius_m": 0.15240007854562193,
+      "axial_bounds_m": [
+        0.10000000149011612,
+        2.5
+      ],
+      "minimum_boundary_gap_m": 0.0038099214543780846
+    }
+  ],
+  "matrix_error": 0,
+  "libraries": [
+    {
+      "stored": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "exists": true
+    }
+  ],
+  "all_frame_reasoning": "Pure rotation about X preserves radius; X-only travel preserves radius. Sampled evaluated geometry checks these declared interfaces. No eccentric/deviated operating case is certified.",
+  "limit": "Published minimum-ID boundary only; no BHA/bit, casing wall, cement, shoe, deviation or selected deployment validation"
+}
+
+Blender quit

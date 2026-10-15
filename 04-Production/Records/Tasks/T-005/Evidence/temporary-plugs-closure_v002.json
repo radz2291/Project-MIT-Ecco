@@ -1,0 +1,132 @@
+{
+  "source_checks_pass": true,
+  "links_pass": true,
+  "visual_review": "All four views and before/after sheet inspected by executor",
+  "files": [
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "bytes": 18296495,
+      "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/README_v002.md",
+      "bytes": 2597,
+      "sha256": "f693de490a6b074c86e3c6efeb8168d32eb5a536ebba35749210874a7aa4f613"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/report.md",
+      "bytes": 3776,
+      "sha256": "607b75c320561613b2097cf2f50df8fb5b129e0300ff974f2d77b66035de1e38"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/report_v001.md",
+      "bytes": 6070,
+      "sha256": "15e24fcf78e3624c6fa9cc83e008dc431050c39a29abb1e2b2f20a3c0af284cf"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/build_temporary_plugs_v002.py",
+      "bytes": 6013,
+      "sha256": "dbddca49a53f0315e2ebec1b3af43c12737abb19585f28e7e8ff2bc5012f4b24"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/inspect_cover_seats_v002.py",
+      "bytes": 772,
+      "sha256": "c3f3f3a02c7ed23a787c62e38cb074324e4610b7a42b596b183742e468cddb0c"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/package_temporary_plugs_v002.py",
+      "bytes": 9134,
+      "sha256": "547c9c741d1f3b7fb342125eee7e63a03ffc0908f013bcd04221d6739d3330e2"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Scripts/verify_temporary_plugs_v002.py",
+      "bytes": 2711,
+      "sha256": "1d81af0dbda20daf7e9d90da9d040d2034cae06ccc12b2cec04c8e67592b00bc"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_temporary-plugs-comparison_v002.png",
+      "bytes": 706525,
+      "sha256": "58a06b87fea967039ea015bc671e04f4579426ee1a42cd897fc2542bf6da8d44"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_temporary-plugs_end-X0_v002.png",
+      "bytes": 1044606,
+      "sha256": "8cf05b339ff420c098549ab7f4645b55383ea1fdc7c06d53cf44cca75d734770"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_temporary-plugs_opposite_v002.png",
+      "bytes": 906655,
+      "sha256": "78a162a0e1b9f8b99cac02e798b7ba037ed4316942566b8fe5afa71cdd0d8aa5"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_temporary-plugs_overview_v002.png",
+      "bytes": 907325,
+      "sha256": "e85c00348da6d7efb4fb5d94df417bb048f28da89ff298d7ae76d7946b6319a9"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Previews/ECCO_temporary-plugs_sensor-closeup_v002.png",
+      "bytes": 1010468,
+      "sha256": "27d3a83d7d568af485e54041978cb29ae85cfeed83a02defc288dd21e0c925df"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/temporary-plugs-build_v002.json",
+      "bytes": 8251,
+      "sha256": "0da3b261966f4ba67d11aaa6f494bf4d151b2b2afd3db4997a5681bbcc276899"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/Evidence/temporary-plugs-verification_v002.json",
+      "bytes": 799,
+      "sha256": "63b1cf7230efc8f69a4ed1e894384365617b095344b91d2ad88a61f1bbe48c73"
+    }
+  ],
+  "links": [
+    {
+      "target": "../../../Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "exists": true
+    },
+    {
+      "target": "Previews/ECCO_temporary-plugs-comparison_v002.png",
+      "exists": true
+    },
+    {
+      "target": "../../../Shared/Assets/ECCO/README_v002.md",
+      "exists": true
+    },
+    {
+      "target": "Evidence/temporary-plugs-build_v002.json",
+      "exists": true
+    },
+    {
+      "target": "Evidence/temporary-plugs-verification_v002.json",
+      "exists": true
+    },
+    {
+      "target": "Evidence/temporary-plugs-closure_v002.json",
+      "exists": true
+    },
+    {
+      "target": "report_v001.md",
+      "exists": true
+    },
+    {
+      "target": "ECCO_master_temporary-plugs_v002.blend",
+      "exists": true
+    },
+    {
+      "target": "ECCO_master_v001.blend",
+      "exists": true
+    },
+    {
+      "target": "README_v001.md",
+      "exists": true
+    },
+    {
+      "target": "../../../Records/Tasks/T-005/Previews/ECCO_temporary-plugs-comparison_v002.png",
+      "exists": true
+    },
+    {
+      "target": "../../../Records/Tasks/T-005/Evidence/temporary-plugs-verification_v002.json",
+      "exists": true
+    }
+  ]
+}
