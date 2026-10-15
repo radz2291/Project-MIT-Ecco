@@ -1,13 +1,15 @@
-# T7 - Still02c v001 visually approved
+# T7 - Still03 wall-interaction proposal
 
-Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3. Full task incomplete; motion remains paused.
+Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3. Owner explicitly overrides T26 for T7 and requests original Blender workflow. T5/T6 dependencies retained; no T26 assets edited. Full task incomplete; motion paused.
 
-Radzi explicitly selected Still02c v001: "Wait a minute. This one here is perfect." He confirmed the transparent curved fronts read as a 3D waveform and rejected later side-view v003 as visually 2D. Original camera, blue translucent curved surfaces and soft luminous rims are the approved treatment. Exact image/source hashes and attachment comparison are in the [approval record](Evidence/Still_02c/approval_still02c_v001.json).
+[Current proposal](still-proposal_03_v004.md) | [Previous approved treatment report](report_still02c_v001.md) | [Direction contract](../../../Mechanisms/B201/direction.md).
 
-[Approved full-size still](../../../Mechanisms/B201/Previews/Still_02c/B201_spreading-pulse_still02c_v001.png) | [Editable scene, local ignored](../../../Mechanisms/B201/Scenes/B201_spreading-pulse_still02c_v001.blend) | [Direction contract](../../../Mechanisms/B201/direction.md) | [Proposal](still-proposal_02c_v001.md).
+Scene Director/Directorial Identity source-to-effect causality guides arrival on a visible wall section, before echo/chart. Approved Still02c v001 camera/light/pose and translucent shell shader are preserved; shell radii advance to the contact pose. A small localized blue patch marks arrival on the preserved T6 evaluated cutaway surface. Texturing is authored illustrative rock shading; glow is explanatory, not physical luminescence.
 
-Scene Director/Directorial Identity spatial meaning applies to source-centered curved sound-wave surfaces on accepted geometry. Three shells are illustrative artwork, not calibrated acoustics. Original camera/light/pose and linked masters unchanged. No new animation, diagnostics, wall interaction, echo or waveform chart.
+[Build evidence](Evidence/Still_03/build-render_still03_v004.json) | [Fresh-open checks](Evidence/Still_03/verification_still03_v004.json) | [Manifest](Evidence/Still_03/output-manifest_still03_v004.json).
 
-[Build/render evidence](Evidence/Still_02c/build-render_still02c_v001.json) and [23 fresh-open checks](Evidence/Still_02c/verification_still02c_v001.json) pass; full-size visual inspection complete. Previous proposals and later studies preserved locally. The selected PNG/scripts/records synchronize to Git; ignored editable source is local and not remotely backed up. User reference/clipboard attachments are not republished.
+Read-only official Blender MCP verified live default scene; isolated background Blender constructed/rendered the new consumer. Accepted sources unchanged. v001 retained locally as a rejected diagnostic: reevaluated inherited wall differed from the frozen surface, and its render layer omitted the light rig. The selected v004 uses the preserved source-corresponding cutaway and original light rig. v002/v003 remain local material/cut-edge studies. The 8mm cutaway backing is authored outward from the retained inner surface, not a geological thickness claim. No diagnostic markers in proposed image.
 
-[Manifest](Evidence/Still_02c/output-manifest_still02c_v001.json). Next information beat is wall interaction, as a separate still proposal. No animation until required still treatments are approved; full T7 remains incomplete.
+Selected review image/scripts/records synchronize to Git. Editable scene is local ignored, without remote media backup. Prior useful work preserved. Wait for exact-frame approval before return/trace proposals; no animation yet.
+
+Final candidate: 1920x1080 Cycles CPU, 32 samples, denoised; render 75.667 seconds. 22 executor checks passed and full-size image inspected. No human approval implied.

@@ -1,6 +1,6 @@
 # B201 — Scene Direction Contract
 
-Stage: T7 still-treatment proposal, one beat at a time, 16 October 2026. Motion is paused and not authorized until Radzi explicitly approves the exact treatment. Current proposal: Still 02 / Outgoing pulse v002; Still 01 v004 visually approved. Not an approved S02 camera plan, engineering certification or final finish. The earlier contract is preserved in T7 Evidence/direction_before-still-gate.md; existing scenes remain intact.
+Stage: T7 still-treatment proposal, one beat at a time, 16 October 2026. Motion is paused and not authorized until Radzi explicitly approves the exact treatment. Current proposal: Still03 wall interaction v004; Still01 v004 and Still02c v001 visually approved. Not an approved S02 camera plan, engineering certification or final finish. The earlier contract is preserved in T7 Evidence/direction_before-still-gate.md; existing scenes remain intact.
 
 ## Purpose and authority
 
@@ -19,8 +19,8 @@ Applied Scene Director and relevant Directorial Identity01/02/04/05/06/08/09: E0
 | Beat | Status | Judgment |
 |---|---|---|
 | 01 Sensor origin | v004 visually approved by Radzi | Is the genuine sensor-region port immediately readable? Framing/light/depth? |
-| 02 Outgoing pulse | v002 full-size proposal; pending Radzi | Clear nonphysical acoustic representation leaving that origin, no physical stick |
-| 03 Wall interaction / early spots | Not built | True wall contact and localized reveal before charts |
+| 02 Outgoing pulse | Still02c v001 visually approved | Clear nonphysical acoustic representation leaving that origin, no physical stick |
+| 03 Wall interaction / early spots | v004 full-size proposal, pending Radzi | True wall contact and localized reveal before charts |
 | 04 Returning echo | Not built | Unmistakable return to same emitter |
 | 05 Waveform connection | Not built | Same-event landmarks/two-way interval; no amplitude/radius confusion |
 
@@ -49,3 +49,11 @@ Radzi accepts Still02v002 as the initial sound-wave frame, with the limitation t
 Radzi explicitly selected the original-camera Still02c v001: "Wait a minute. This one here is perfect." He clarified that it looks like a 3D waveform and rejected the later side-view v003 because it reads as 2D. Preserve the exact v001 camera, transparent curved fronts, soft blue fill and luminous rims. Do not replace this accepted treatment with stronger flat arcs or the side-camera variants. Approval applies to this exact still and visible treatment; no motion authorization yet.
 
 Three spherical-cap surfaces centered on the documented sensor origin represent an illustrative short sound packet. Radii24/33/42mm and opening1.05rad are authored visual controls, not measured propagation or beam parameters. Source model, original camera, lighting and pose unchanged. No diagnostics or electric bolts. The supplied reference guides art direction; no hardware or engineering claims are adopted from it. v002/v003 studies remain preserved locally as rejected alternatives. Wall interaction, same-emitter return and waveform connection remain future still proposals.
+
+## Still03 wall-interaction proposal and owner override
+
+Radzi explicitly directs this T7 chat: "please ignore T26. I want you to override and continue on your work the original one." Apply to T7 only: resume original Blender still-first workflow; no authority over other B2 tickets or T26 work. Remove the T26 prerequisite for this bounded T7 override in the live ticket; retain T5/T6 dependencies. No animation authorization.
+
+Still03 v004 proposes the next beat: approved translucent curved fronts advance toward the source-corresponding borehole wall. Retain the approved camera, product pose, lighting and wave shader. Reveal a small wall section using the preserved T6 evaluated cutaway mesh; a localized soft blue patch marks arrival. The outer front radius equals the documented sensor-to-wall stand-off. Rock shading and contact glow are illustrative; neither geology/material identity nor physical light emission is asserted. Camera-facing wall removal is an explanatory cutaway, not a literal isolated rock tile. Wall interaction precedes returning echo/chart. No diagnostics, sparks or explosion. Judge wall readability, contact location and continuity of the accepted 3D wave treatment; exact frame pending approval.
+
+The visible wall section has an authored 8mm cutaway backing extending outward, away from the annulus; it is a presentation edge, not a measured formation thickness. Procedural rock shading improves section readability without modifying the retained contact surface. The preserved T6 cutaway is the correspondence baseline for this proposal; re-evaluation of inherited controls produced a different surface in rejected v001 and must not silently replace it.

@@ -1,0 +1,22 @@
+{
+  "review_files": [
+    "04-Production\\Mechanisms\\B201\\direction.md",
+    "04-Production\\Mechanisms\\B201\\Previews\\Still_03\\B201_wall-interaction_still03_v004.png",
+    "04-Production\\Mechanisms\\B201\\Scripts\\build_still03_v004.py",
+    "04-Production\\Mechanisms\\B201\\Scripts\\verify_still03_v004.py",
+    "04-Production\\Records\\Tasks\\T-007\\report.md",
+    "04-Production\\Records\\Tasks\\T-007\\report_still02c_v001.md",
+    "04-Production\\Records\\Tasks\\T-007\\still-proposal_03_v004.md",
+    "04-Production\\Records\\Tasks\\T-007\\Evidence\\Still_03\\build-render_still03_v004.json",
+    "04-Production\\Records\\Tasks\\T-007\\Evidence\\Still_03\\verification_still03_v004.json"
+  ],
+  "local_ignored_scene": "04-Production\\Mechanisms\\B201\\Scenes\\B201_wall-interaction_still03_v004.blend",
+  "scene_sha256": "e94c40662c608ad18d302a0d3afbc61b9b314f9a8f3991cb0d5c03f89578d0d0",
+  "image_sha256": "4740b6d480613b6e341c5dc0d756d33efbb9de090ccf5eb097eb7e0086edd970",
+  "approval": "pending",
+  "motion_authorized": false,
+  "owner_override": "Ignore T26 and continue original T7 Blender still-first work",
+  "source_correspondence": "Preserved T6 evaluated cutaway; inherited live reevaluation differs and rejected v001 is retained as diagnostic",
+  "render_seconds": 75.66677319999962,
+  "checks_passed": 22
+}
