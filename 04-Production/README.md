@@ -74,9 +74,13 @@ For **every actual shot in S01–S07**, apply the [rolladice-scene-director skil
 
 Use cheap SVG/previs where it resolves a concrete ambiguity, then inspect actual moving previews for camera purpose, physical readability, pacing, text/data placement and transitions. B3 must demonstrate direction through motion before final lighting/material work. B301 checks continuity and directorial consistency across those contracts; B401 reviews the exact moving candidate with technical evidence. Finishing applies relevant look/typography modules and preserves accepted shot meaning; substantive changes reopen affected review.
 
-## Incoming plugged ECCO version
+## Current production baseline and incoming plugged ECCO version
 
-Owner report, 15 October 2026: the client will provide a new plugged ECCO version. File, delivery date and exact changes are not yet inspected or confirmed. Track this under O14 in the central Decision Register.
+**Superseding owner decision, 16 October 2026:** the current T5 plugged master v002 is usable as the production baseline, including final imagery. Accepted T6 well/assembly v003 supports B2. The client is expected to supply only a plugged product revision, not a complete BHA/bit package; the owner's estimate of roughly 5% change is not an inspected dimensional result. Do not wait for that delivery to continue. If it arrives, compare actual differences before deciding whether to replace the baseline.
+
+Use sourced, simplified collars/adapters/bit for surrounding assembly. B3 agents refine only the details visible or necessary for the shot's explanation, within the existing shared asset structure; a separate full engineering BHA reconstruction is not required. Declare authored dimensions/placement and avoid unsupported close-ups or claims of exact threads/operating fit. Keep material mechanism, component-order, movement and fit questions explicit for targeted review. O05/O14 remain traceable without being blanket holds. At B4 record the exact film hardware version and resolve only issues material to retained content, or agree a simpler view/scope. Do not demand unavailable drawings for details neither shown nor claimed.
+
+Historical report, 15 October 2026: the client will provide a new plugged ECCO version. File, delivery date and exact changes are not yet inspected or confirmed. Track this under O14 in the central Decision Register.
 
 B101 must keep replaceable product geometry separate from animation controls, documented sensor references and effects. Choose practical Blender interfaces after inspecting actual files; preserve original source and identify which provisional master/version each proof uses. B102 derives compatible clearances/configurations from inspected dimensions, not from an assumed replacement.
 
