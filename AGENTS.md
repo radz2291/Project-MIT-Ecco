@@ -19,6 +19,12 @@ Mechanical correctness and a complete moving animatic precede final finishing; u
 - **Construct, finish or QC:** [Production Workflow](03-Context/01_Foundation/05-PRODUCTION_WORKFLOW.md), with the actual shot's [Scene Direction Contract](03-Context/03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md).
 - **Existing Blender animation → generative reference:** [blender-animation-reference skill](03-Context/00_Skill/blender-animation-reference/SKILL.md).
 
+## Directorial context and replaceable hardware
+
+For every S01–S07 blocking task, explicitly apply the [rolladice-scene-director skill](03-Context/00_Skill/rolladice-scene-director/SKILL.md) with the relevant [Directorial Identity](03-Context/03_Directorial_Identity/README.md) modules **before scene construction**. Save one Scene Direction Contract per actual shot in its shot folder; inspect the moving preview against that contract. Camera, composition, pacing and information choreography belong in blocking, not only finishing. The legacy AI Director Interpretation Guide is superseded; read the active index. B1 foundation work does not need cinematic shot design; B2 uses relevant information-provenance guidance for clear mechanism proofs.
+
+The producer reports an incoming client-supplied **plugged ECCO version**. Treat the inspected current hardware as provisional relative to that replacement; do not invent the new geometry or assume identical dimensions/sensor positions. Separate replaceable geometry from documented sensor references, controls and effects; use a shared versioned master. Preserve originals, inspect compatibility before any swap and reverify affected mechanisms/shots. Follow the production workspace's replacement procedure.
+
 ## Non-negotiable boundaries
 
 Do not confuse storyboard drafts, artistic hypotheses or local examples with client approvals or engineering truth. Do not invent product geometry, physical simulation, actual camera transforms or evidence of a successful render. **Typography has an initial evidenced preference profile** ([module 08](03-Context/03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md)): quiet elegant sans-serif editorial; meaningful wording/composition; gentle fades or motion; screen-space or spatial as appropriate. Technical motion-graphics details remain largely untested. Retain client-required information without inventing a finished design system.
