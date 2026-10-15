@@ -2,6 +2,16 @@
 
 **First read:** [03-Context/README.md](03-Context/README.md). It owns the canonical source map, precedence and task-specific reading routes. Do not load the entire repository context indiscriminately.
 
+## Execute through Rolladice Work
+
+Rolladice Work / **MIT ECCO** is the core task, dependency, execution and review system. Repository sources remain authoritative for engineering, creative direction and implementation. Read the live ticket and fresh handoff before execution; obey dependency and pinned-standard checks. A direct instruction from Radzi to execute a ticket authorizes that bounded work while the wider roadmap may remain provisional.
+
+Follow [04-Production/README.md](04-Production/README.md) for the run lifecycle (`run_start`, stable worker, periodic `run_update`, evidence, Review), outage recovery and human/agent responsibilities. Do not self-accept reviewed work or bypass prerequisites. Preparing a handoff does not launch Codex.
+
+**Work and save under `04-Production/`.** Reusable assets belong in `Shared/Assets/`; mechanism proofs, shot scenes, scripts, previews and records each have defined destinations. Before ending a run, organize all retained task outputs, verify links and saved files, update records and attach exact output references to Rolladice. No task is complete with deliverables left only in scratch/temp/chat or scattered outside the project. Heavy/ignored files stay organized locally; local saving does not imply Git publication or backup.
+
+Mechanical correctness and a complete moving animatic precede final finishing; use the mechanical-first sequence in the workflow. Inspect the actual checkout and preserve unrelated user changes. Do not assume this cloud session can access Radzi's Windows production files.
+
 ## Choose the task
 
 - **Fact, technical claim or open approval:** [Engineering Baseline](03-Context/01_Foundation/02-ENGINEERING_BASELINE.md) → [Decision Register](03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md) → original source.
