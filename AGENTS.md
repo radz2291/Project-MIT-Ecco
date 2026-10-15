@@ -23,7 +23,7 @@ Mechanical correctness and a complete moving animatic precede final finishing; u
 
 **Mechanical storyboard use:** extract mechanisms, required information beats and client corrections; do not reproduce its schematic panels as the film design. Translate the content through Directorial Identity into on-model cinematic scenes. Storyboard graphics are neither engineering proof nor a locked composition/camera plan.
 
-**B2 still-approval gate (16 October 2026):** propose versioned on-model stills covering every required explanatory beat before new motion work. Use Directorial Identity and the Scene Director skill to establish the visual treatment. Wait for Radzi's explicit approval of exact frames/treatment, then animate it. Existing motion/technical checks do not imply visual approval. Follow the superseding gate in [B2-VISUAL_APPROVAL.md](04-Production/B2-VISUAL_APPROVAL.md); preserve useful existing work and do not mark a full task Done at the still-proposal stage.
+**T7-only still-approval workflow trial (16 October 2026):** propose versioned on-model stills covering every required explanatory beat before new motion work. Use Directorial Identity and the Scene Director skill to establish the visual treatment. Wait for Radzi's explicit approval of exact frames/treatment, then animate it. Existing motion/technical checks do not imply visual approval. This new gate applies to T7 only while Radzi confirms the workflow; do not extend it to other tickets yet. Follow the superseding gate in [B2-VISUAL_APPROVAL.md](04-Production/B2-VISUAL_APPROVAL.md); preserve useful existing work and do not mark a full task Done at the still-proposal stage.
 
 ## Directorial context and replaceable hardware
 
