@@ -1,13 +1,13 @@
-# T7 - widening sound-pulse still pending approval
+# T7 - Still02c v001 visually approved
 
-16 October 2026. Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3. Motion paused; full task incomplete.
+Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3. Full task incomplete; motion remains paused.
 
-[Current Still02b v001 proposal](still-proposal_02b_v001.md) | [Image](../../../Mechanisms/B201/Previews/Still_02b/B201_spreading-pulse_still02b_v001.png) | [Direction contract](../../../Mechanisms/B201/direction.md) | [Prior report](report_still02_v002.md).
+Radzi explicitly selected Still02c v001: "Wait a minute. This one here is perfect." He confirmed the transparent curved fronts read as a 3D waveform and rejected later side-view v003 as visually 2D. Original camera, blue translucent curved surfaces and soft luminous rims are the approved treatment. Exact image/source hashes and attachment comparison are in the [approval record](Evidence/Still_02c/approval_still02c_v001.json).
 
-Radzi accepted Still02v002 as an initial sound-wave frame and requested a couple more widening arcs, slightly bolder, in the middle/end. His "good" confirms proceeding with that next still. The approved initial frame remains unchanged; this new exact frame awaits approval.
+[Approved full-size still](../../../Mechanisms/B201/Previews/Still_02c/B201_spreading-pulse_still02c_v001.png) | [Editable scene, local ignored](../../../Mechanisms/B201/Scenes/B201_spreading-pulse_still02c_v001.blend) | [Direction contract](../../../Mechanisms/B201/direction.md) | [Proposal](still-proposal_02c_v001.md).
 
-Scene Director and Directorial Identity source-to-effect causality guide three widening cyan contours of one illustrative pulse packet. Approved camera, lighting and whole-tool pose remain fixed. Linked T5/T6 sources are preserved. Separate editable render layers retain the model presentation. No new animation, diagnostic markers, wall contact, echo or waveform. Multiple contours are an explanatory visual aid, not measured acoustic cycles or calibrated simulation.
+Scene Director/Directorial Identity spatial meaning applies to source-centered curved sound-wave surfaces on accepted geometry. Three shells are illustrative artwork, not calibrated acoustics. Original camera/light/pose and linked masters unchanged. No new animation, diagnostics, wall interaction, echo or waveform chart.
 
-[Build/render evidence](Evidence/Still_02b/build-render_still02b_v001.json) and [fresh-open verification](Evidence/Still_02b/verification_still02b_v001.json) pass 23 executor checks; full-size visual inspection complete. Render 56.904 seconds at 1920x1080, Cycles CPU, 32 samples, denoised. Records contain saved source/image hashes, continuity, linked inputs, frame scope and contour placement. [Manifest](Evidence/Still_02b/output-manifest_still02b_v001.json) lists selected synchronized files and local ignored editable scene; ignored sources are not remotely backed up.
+[Build/render evidence](Evidence/Still_02c/build-render_still02c_v001.json) and [23 fresh-open checks](Evidence/Still_02c/verification_still02c_v001.json) pass; full-size visual inspection complete. Previous proposals and later studies preserved locally. The selected PNG/scripts/records synchronize to Git; ignored editable source is local and not remotely backed up. User reference/clipboard attachments are not republished.
 
-Wait for Radzi's exact-frame approval before wall-interaction still. No animation until the required treatments are approved. Do not mark full T7 Done.
+[Manifest](Evidence/Still_02c/output-manifest_still02c_v001.json). Next information beat is wall interaction, as a separate still proposal. No animation until required still treatments are approved; full T7 remains incomplete.

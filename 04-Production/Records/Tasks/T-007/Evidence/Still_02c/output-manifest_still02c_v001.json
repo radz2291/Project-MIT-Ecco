@@ -1,0 +1,25 @@
+{
+  "review_files": [
+    "04-Production\\Mechanisms\\B201\\direction.md",
+    "04-Production\\Mechanisms\\B201\\Previews\\Still_02c\\B201_spreading-pulse_still02c_v001.png",
+    "04-Production\\Mechanisms\\B201\\Scripts\\build_still02c_v001.py",
+    "04-Production\\Mechanisms\\B201\\Scripts\\verify_still02c_v001.py",
+    "04-Production\\Records\\Tasks\\T-007\\report.md",
+    "04-Production\\Records\\Tasks\\T-007\\report_still02b_v001.md",
+    "04-Production\\Records\\Tasks\\T-007\\still-proposal_02c_v001.md",
+    "04-Production\\Records\\Tasks\\T-007\\Evidence\\Still_02c\\build-render_still02c_v001.json",
+    "04-Production\\Records\\Tasks\\T-007\\Evidence\\Still_02c\\verification_still02c_v001.json",
+    "04-Production\\Records\\Tasks\\T-007\\Evidence\\Still_02c\\approval_still02c_v001.json"
+  ],
+  "local_ignored_scene": "04-Production\\Mechanisms\\B201\\Scenes\\B201_spreading-pulse_still02c_v001.blend",
+  "approval": {
+    "approved_frame": "Still02c v001",
+    "image_sha256": "2696be53accb5e2fa6662a5300021b044c86ebfba71851a00731dbc323fad1fc",
+    "scene_sha256": "33c4491f9dc9867b6b9cd36fc295f2dd6ad2abef8e7cc82706e451086128bdff",
+    "attachment_pixels_match": true,
+    "owner_quote": "Wait a minute. This one here is perfect.",
+    "clarification": "The previous one that I said perfect, it looks a 3D waveform.",
+    "scope": "Exact original-camera translucent curved fronts; later side-view v003 rejected as visually 2D. No animation authorization."
+  },
+  "later_studies": "v002/v003 local preserved, not selected"
+}
