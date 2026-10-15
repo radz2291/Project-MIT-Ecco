@@ -1,0 +1,87 @@
+{
+  "checks": [
+    {
+      "check": "exact saved candidate",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "full-size image",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "one static frame",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "no local object animation",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "unchanged source: Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "unchanged source: Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "relative libraries resolve",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "excluded imagery group: B201_PULSE_ECHO",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "excluded imagery group: B201_CONTACT_HISTORY",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "excluded imagery group: B201_SPATIAL_GRAPHICS",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "actual linked product remains visible",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "actual source cap instance present",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "cap framed inside image",
+      "pass": true,
+      "details": [
+        0.4875839352607727,
+        0.5452262163162231,
+        0.5158795118331909
+      ]
+    },
+    {
+      "check": "diagnostic source cutter excluded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "image matches recorded hash",
+      "pass": true,
+      "details": null
+    }
+  ],
+  "passed": true,
+  "executor_self_check": true,
+  "visual_approval": "pending Radzi, first still only",
+  "motion_authorized": false
+}

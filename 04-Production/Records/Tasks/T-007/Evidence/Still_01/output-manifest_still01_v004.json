@@ -1,0 +1,74 @@
+[
+  {
+    "path": "04-Production/Mechanisms/B201/direction.md",
+    "sha256": "c0bd13a524cafe9173c695feff5c679931aa7b2da2b89fd12d3c6fbf5050061d",
+    "bytes": 3806,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Scripts/build_still01_v004.py",
+    "sha256": "92dcaebba20e0c35aa0fc8b5ec2f3a781f73594459fa42161f31c67f6d1a13b8",
+    "bytes": 5653,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Scripts/verify_still01_v004.py",
+    "sha256": "598f958a0405c866f4b13984c34eba26c2e76a220bf4605a276ca1d7eeebdc66",
+    "bytes": 2595,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Scripts/close_still01_v004.py",
+    "sha256": "69d2687ee7329e1c4780724cc1a64fe2b043782c630b1b2283805fdb93c81d9a",
+    "bytes": 1417,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Previews/Still_01/B201_sensor-origin_still01_v004.png",
+    "sha256": "1871d3997443ea59b1af53419aaecc57d56b91b8591f8765e19997fdb3561b37",
+    "bytes": 2055326,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/report.md",
+    "sha256": "0fc58bbd71d5b55faab5f9df3b639930736c42618bbe29ece99f7621c80782c5",
+    "bytes": 3859,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/still-proposal_01_v004.md",
+    "sha256": "1d0bae615b7aabbb1c8d85b83335ed55a3939d016602cea960bd750d124664ec",
+    "bytes": 2465,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/Evidence/Still_01/build-render_still01_v004.json",
+    "sha256": "73cf455a529880e6248109f16887b225cee25a5de1cb996628d4b0b324d3fda6",
+    "bytes": 2931,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/Evidence/Still_01/verification_still01_v004.json",
+    "sha256": "2d0269dfa84ccac8760c4c9d96511a807cd603478aa9e4a2b517a4ca89a48e90",
+    "bytes": 1982,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/report_v005.md",
+    "sha256": "3f8a8ec10d74a6206a3e8f3f17b7da6a15113e2c11f9424faf79ca0ba89770c6",
+    "bytes": 8650,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-007/Evidence/direction_before-still-gate.md",
+    "sha256": "419306c775a15b3f255a1de9c0a55c3f4b41b7c51c4aceee7367e212865c4299",
+    "bytes": 7848,
+    "storage": "permitted tracked review output"
+  },
+  {
+    "path": "04-Production/Mechanisms/B201/Scenes/B201_sensor-origin_still01_v004.blend",
+    "sha256": "8d8e03853da7a38300d7395d7de5e9494c9d485bb9e64cd11c003e55ac2d5a73",
+    "bytes": 5328540,
+    "storage": "local ignored source, no remote backup implied"
+  }
+]
