@@ -2,6 +2,30 @@
 
 Owner amendment: 16 October 2026. Radzi clarified that B2's main approval output must closely represent the intended film explanation, using the actual ECCO model and reusable spatial effects. This supersedes earlier advice that B2 needs only isolated mechanical schematics or can defer all directorial judgment to B3.
 
+## Mandatory gate: approve the still treatment before motion
+
+**Superseding owner instruction, 16 October 2026:** stop new motion work/rendering on unapproved B2 visual treatments. First submit still proposals covering **every distinct message or explanatory beat** needed by the mechanism. Earlier requests for moving demonstrations apply only after this gate. Preserve useful existing animation and technical work; neither existing motion nor prior technical checks imply visual approval.
+
+The immediate issue is visual language: a sensor/pulse marker that reads as a little physical stick or pin protruding from ECCO is not accepted. This is not authority to choose a replacement style on the owner's behalf. Propose a legible representation in stills using the actual model, intended framing and Directorial Identity; do not confuse diagnostic locators or path controls with the visible mechanism. Keep implementation aids out of the approval image unless deliberately proposed and clearly explained.
+
+### Phase 1 — still proposal
+
+1. Read the relevant engineering sources, mechanical-storyboard beats, active Directorial Identity modules and Scene Director skill. Translate meaning into original cinematic composition; do not replicate mechanical panels.
+2. List the distinct information beats briefly, then provide enough on-model stills to cover all of them. Show before/event/result key states where needed to communicate causality. For T7 include sensor origin, outgoing pulse/wall interaction, same-sensor return and connection to waveform/measurement, with the early ping progression.
+3. Use a purposeful representative camera, simple readable shading and sufficient contrast/depth. Include full-size individual stills; a contact sheet is an overview, not a substitute for judging details. Show close details at their intended screen size. Do not hide weak communication behind a long explanation or tiny annotations.
+4. Where a major visual choice remains unresolved, offer a small number of meaningfully different still treatments and explain their tradeoff briefly. Avoid arbitrary variation or committing to one unexplained visual metaphor.
+5. Save versioned stills, editable scene/setup and a short beat-to-frame proposal under the existing mechanism/task folders. Identify what is sourced, inferred or illustrative and which visual decisions need approval. Update the existing direction contract. Do not build final motion merely to present this proposal.
+
+### Phase 2 — human visual approval
+
+Submit the exact still version/beat coverage to Radzi and wait for explicit approval. Record the accepted frames/treatment and any limitations in the ticket and direction contract. A task in Review, an elapsed wait, earlier feedback, a prior technical pass or the agent's own judgment is not approval. Use the connector's supported waiting/review lifecycle, release/heartbeat runs correctly and clearly label the submission **still proposal — motion not authorized yet**. Do not mark the full mechanism task Done because its still proposal is ready.
+
+### Phase 3 — motion after approval
+
+Animate the accepted representation and spatial arrangement, then test timing/readability and technical meaning. Changes to the visible metaphor, composition or information representation beyond approved bounds return to still review. B3 later develops shot camera choreography and transitions from the approved reusable scene. Final photorealistic finish remains deferred.
+
+Stills approval authorizes the visual treatment within recorded scope; it does not certify engineering claims or replace technical review. Escalate only material source uncertainty while continuing independent authorized still preparation. Older motion deliverables remain evidence, not the current visual baseline.
+
 ## Mechanical storyboard versus cinematic scene
 
 Root cause identified by Radzi, 16 October 2026: the mechanical storyboard shows **mechanics**, not the final cinematic visualization. Use it to extract the mechanism, required information, event order and client corrections, subject to engineering-source verification. Do not inherit its panel layout, flat schematic view, detached teaching graphics or camera as a finished visual design.
