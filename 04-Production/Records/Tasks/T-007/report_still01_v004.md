@@ -1,0 +1,19 @@
+# T7 — Still 01 awaiting visual approval
+
+16 October 2026 · MIT ECCO · Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3 · Run 33b1f90a-66ae-40f5-afd4-d1afb24349c0 · Worker codex-t007-still01-20261016 · Reviewer Radzi.
+
+Current submission: **still proposal — motion not authorized yet; first beat only**. Full T7 remains incomplete. Radzi requested latest instructions/live ticket, paused new motion and requested one-by-one still approval. Latest main c349b3d was pulled; revised AGENTS.md/B2-VISUAL_APPROVAL.md and fresh T7 handoff/criteria were read. Prior expired run was replaced by this owned attempt before execution.
+
+[Proposal and what to judge](still-proposal_01_v004.md) · [Full-size Still 01 v004](../../../Mechanisms/B201/Previews/Still_01/B201_sensor-origin_still01_v004.png) · [Editable source](../../../Mechanisms/B201/Scenes/B201_sensor-origin_still01_v004.blend) · [Direction contract](../../../Mechanisms/B201/direction.md).
+
+Applied Scene Director/Directorial Identity: actual geometry, authored three-quarter macro, quiet reflected light, genuine cap and neighboring service cover as spatial context. Proposed neutral graphite-metal view-layer shading changes only this presentation; not source geometry/materials or metallurgy truth. Initial origin view conceals the wall. Diagnostic/effect/history/graphic groups excluded. No new motion construction or animation rendering; new still consumer is frozen to a single frame.
+
+Inputs unchanged: accepted T5 plugged v002 SHA-256 704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7; accepted T6 well/assembly v003 SHA-256 6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4. Existing local integrated v011 is preserved and reused as consumer setup. [Build/render evidence](Evidence/Still_01/build-render_still01_v004.json) records exact source/image hashes, camera and relative links. Official Blender MCP read-only query verified the running session; isolated background Blender generated this proposal without altering the live scene.
+
+Render: Blender 5.2.2 LTS / Cycles CPU / 32 samples / denoised / 1920×1080 / **42.031 seconds**. Exact source freshly reopened before render. [15 executor checks](Evidence/Still_01/verification_still01_v004.json) pass: source/image hashes, linked product/cap instance, source files, libraries, frame scope, no local object animation, hidden diagnostic groups and framed cap. Full-size image inspected for port readability, glare, CAD/source preservation and absence of sticks/locators. No human acceptance or engineering verification is implied.
+
+Retained diagnostics: Still01v001 omitted the collection instance while hiding helpers; rejected. v002 was too bright/noisy; v003 tested lower light/neutral shading. v004 provides the proposed controlled material/reflection separation. Prior v005 proof/report and v006–v011 exploratory scenes/stills/scripts remain preserved locally. Earlier direction archived in Evidence/direction_before-still-gate.md. No useful source work deleted.
+
+[Output manifest](Evidence/Still_01/output-manifest_still01_v004.json) distinguishes tracked review records/image/scripts from local ignored Blender source. Root: C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco. Scene is local, not remotely backed up; the selected generated PNG and records are committed/pushed and the exact candidate SHA/report link attached in Rolladice after fresh remote verification. No private field data or restricted ENP1 image used.
+
+Next action: wait for Radzi's explicit decision on Still 01 v004. Only after that prepare the outgoing-pulse still; subsequent wall/return/waveform treatments need their own review. No animation until all required treatments are approved. O04 acoustic face and O03/O06 representation remain targeted technical questions. Do not accept full T7 as Done at this partial proposal stage.
