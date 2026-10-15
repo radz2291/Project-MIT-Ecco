@@ -24,3 +24,12 @@ Desktop.ini
 # ---------- Python caches ----------
 __pycache__/
 *.pyc
+
+# ---------- Local production binaries / generated working output ----------
+# Save within 04-Production; record paths/versions in tracked manifests.
+*.blend
+*.blend[0-9]*
+04-Production/**/Renders/
+04-Production/**/Cache/
+04-Production/**/Caches/
+04-Production/Scratch/
