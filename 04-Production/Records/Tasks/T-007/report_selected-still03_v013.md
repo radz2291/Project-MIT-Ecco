@@ -1,0 +1,9 @@
+# T7 — Return to original Still03 v013 peak-contact candidate
+
+Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3. Owner dislikes the later refinement direction and requests returning to a saved original, naming v013 peak contact as an alternative to v016. Agent recommends v013 and restores it as the current review candidate. Radzi confirms the restored selection with: "Yes, thank you so much. That is very nice." Record positive visual acceptance of the restored v013 selection; no animation authorization inferred. Full T7 incomplete; no Still04 or animation.
+
+[Current original v013 render](../../../Mechanisms/B201/Previews/Still_03/B201_wall-interaction_still03_v013.png) | [Retained v016 comparison](../../../Mechanisms/B201/Previews/Still_03/B201_wall-interaction_still03_v016.png) | [Previous report](report_still03_v018.md).
+
+Original editable scene reopened in running Blender: `04-Production/Mechanisms/B201/Scenes/B201_wall-interaction_still03_v013.blend`. Original scene and PNG SHA256 rechecked against [original build record](Evidence/Still_03/build-render_still03_v013.json), both unchanged. No rebuilding, new render, edits to geometry/material/camera or new verification claims. [Original 26 checks](Evidence/Still_03/verification_still03_v013.json) remain the implementation evidence. Original sphere-rock contact and scan treatment restored as saved.
+
+All later variants, including v016 and v018, remain intact locally and in their tracked review images/scripts/evidence. Only current-candidate records change. Running Blender was an unsaved clean default scene before opening v013; no user changes discarded. Await owner review/selection; no whole-ticket acceptance or motion. Editable scene stays local-only, without remote backup. Record synchronization SHA and pinned report on Rolladice after fresh remote verification.

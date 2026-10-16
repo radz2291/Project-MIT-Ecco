@@ -111,3 +111,7 @@ Owner rejects coarse v017; retain larger coverage but return refined fine cells.
 Owner requests rollback from later grid refinements, naming v013 peak-contact or v016. Agent recommends/reopens exact original v013 as current candidate, preserving v016 and all later variants. Original scene and render hashes verified unchanged; no rebuild or new render. Final visual approval not inferred. No Still04 or animation.
 
 Radzi confirms the restored v013 selection: "Yes, thank you so much. That is very nice." Keep v013 as selected Still03; preserve later variants. This does not authorize animation.
+
+## Still04 — first reception, v001 implementation contract
+
+Owner approves proposed returning echo with first reception refinement. Same selected v013 camera/product/wall/lights; outgoing fronts disappear, sampled wall patch fades to 7 percent. Wall-originating thin spherical cap expands toward original emitting sensor and reaches actual evaluated imaging cap face, 0.400mm behind the emitter reference. Subtle localized cyan reception on actual product surface, no flash. Return curvature is illustrative reflected propagation, not validated simulation or simply time-reversed outgoing fronts. Store exact reception surface event for Still05; no arrows/text/waveforms/decorative effects. Source masters unchanged. Still04 visual approval required before Still05/animation.
