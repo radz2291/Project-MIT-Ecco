@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mechanism Visual Direction Loop"
+  short_description: "Diagnose and refine cause-and-response visuals"
+  default_prompt: "Use $mechanism-visual-direction-loop to review this actual visual candidate, identify the gap between intended and perceived cause-and-response, preserve what works, and recommend one bounded next correction and a meaningful verification test."
