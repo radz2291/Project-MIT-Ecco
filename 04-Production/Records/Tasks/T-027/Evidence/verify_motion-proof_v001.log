@@ -1,0 +1,13 @@
+00:02.938  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scenes\B202-M_motion-proof_v001.blend"
+Traceback (most recent call last):
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scripts\verify_motion_proof_v001.py", line 31, in <module>
+    check(f'frame {f} no future/missing receipt events',available==expected)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scripts\verify_motion_proof_v001.py", line 12, in check
+    checks.append({'check':name,'pass':bool(ok),'detail':detail});assert ok,(name,detail)
+                                                                         ^^
+AssertionError: ('frame 28 no future/missing receipt events', None)
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

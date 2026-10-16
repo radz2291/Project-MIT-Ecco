@@ -85,3 +85,19 @@ Extend the proof into a watchable, near-final **mechanical animation** with:
 - [T8 v009 handover](../../Records/Tasks/T-008/T27_mechanism_handover_v009.md)
 
 **Version note:** This contract records Radzi's explicit D1 approval of **The Shape Left Behind** in this conversation. It does not claim to have inspected an actual T27 animation, a final camera/lighting setup, or proprietary ENP3 operation. Use it with T27's live ticket, not instead of it.
+
+## 8. First proof implementation — 17 October 2026, D2/D3 pending
+
+Exact candidate: `Scenes/B202-M_motion-proof_v003.blend`; 192 frames / 24 fps / 8 seconds, 960×540. This appendix records inspected implementation, not new approval. The D1 premise above remains unchanged. Source/preservation and playback evidence: [T27 report](../../Records/Tasks/T-027/report.md).
+
+| Frames | Camera / gaze / intention | Acquisition and movement |
+|---|---|---|
+| 1–36 | 48 mm; location (1.40, .60, .24), gaze (1.75, .08, 0), metres in source X-axis space. Recognize actual proxy sensor and a small sourced wall sector. | First event locator travels outward 1–12, contacts 12–15, returns to the same recorded sensor by 27; first points at 28. Deliberately slowed replay, not real-time acoustics. |
+| 36–116 | Purposeful move to (.78, .40, .33), gaze (1.75, 0, 0) by 105; near-axial circumference recognition. | Whole-tool rotation through first station; adjacent acquired inverse events form contour edges. Physical wall sector fades 29–52 to open the illustrative cutaway. |
+| 117–136 | Gaze begins releasing the sensor; camera continues to (.72, .60, .45), gaze (1.80, 0, 0) by 138. | Tool transfers .25 m between recorded stations; acquisition paused. Prior readings remain world-fixed. |
+| 137–176 | Camera opens into oblique depth context. | Second station rotation; only completed v009 bins contribute to a surface. First and second sections establish .25 m of depth. |
+| 177–192 | Arrive at (1.12, 1.45, .88), gaze (1.86, 0, 0); information becomes the anchor as tool advances. | Transfer toward third station; no third-station acquisition in this proof. Full volume/nominal/tight/spiral/amplitude beats await targeted review. |
+
+Movement uses densely sampled linear keys and deliberate smooth camera/axial phrasing; gaze target and translation are separate. Full numeric frame score and event IDs are in `Records/Tasks/T-027/Evidence/replay_manifest_v003.json`. Original event values and positions are preserved; three sensor events per orientation share display receipt timing. The 1 μs cutoff bias addresses float32 rounding and is far below the original 10 ms event spacing. This is a **discrete station replay**, not continuous drilling or real ENP3 cadence. No events are fabricated between stations.
+
+**Review priorities:** first interaction at tight actual clearance; whether the incomplete→complete ring reads; whether the camera release establishes that the information stays while ECCO moves; whether the two-station surface reads as the beginning of depth reconstruction. Final geometric revelation and separate amplitude remain later work. Review with Radzi/T26 against this exact playable candidate; no D2/D3 approval inferred from self-checks.

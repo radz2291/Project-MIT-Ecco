@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "report_local_links": [
+    {
+      "target": "../../../Mechanisms/B202/Previews/MotionProof_v003/B202-M_motion-proof_v003.mp4",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Previews/MotionProof_v003/review_v003.html",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Previews/MotionProof_v003/B202-M_review-sheet_v003.jpg",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scenes/B202-M_motion-proof_v003.blend",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/B202-M_scene-direction_v001.md",
+      "exists": true
+    },
+    {
+      "target": "Evidence/replay_manifest_v003.json",
+      "exists": true
+    },
+    {
+      "target": "Evidence/verification_motion-proof_v003.json",
+      "exists": true
+    },
+    {
+      "target": "Evidence/playback_qa_v003.json",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/B202-M_scene-direction_v001.md",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scripts/build_motion_proof_v003.py",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scripts/verify_motion_proof_v003.py",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scripts/package_motion_proof_v003.py",
+      "exists": true
+    }
+  ],
+  "output_hashes_match": 6,
+  "native_media": "Local ignored files; not uploaded or backed up by Git",
+  "task_status": "Incomplete; first gated proof awaiting Radzi D2/D3 feedback"
+}

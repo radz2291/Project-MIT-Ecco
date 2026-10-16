@@ -1,0 +1,132 @@
+{
+  "camera": "B202_STILL_REVIEW",
+  "render_engine": "BLENDER_EEVEE",
+  "objects": [
+    {
+      "name": "B202_TOOL_TRAVEL_X",
+      "type": "EMPTY",
+      "parent": null,
+      "location": [
+        2.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "B202_TOOL_ROTATION_X",
+      "type": "EMPTY",
+      "parent": "B202_TOOL_TRAVEL_X",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "B202 broad key",
+      "type": "LIGHT",
+      "parent": null,
+      "location": [
+        2.200000047683716,
+        -2.0,
+        2.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "B202 edge",
+      "type": "LIGHT",
+      "parent": null,
+      "location": [
+        4.0,
+        1.2000000476837158,
+        0.6000000238418579
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "B202 fill",
+      "type": "LIGHT",
+      "parent": null,
+      "location": [
+        1.0,
+        -0.5,
+        0.5
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "B202_STILL_REVIEW",
+      "type": "CAMERA",
+      "parent": null,
+      "location": [
+        0.20000000298023224,
+        -4.5,
+        2.5
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "control": {
+    "travel_m": 2.0,
+    "rotation_rad": 0.0,
+    "profile": 0,
+    "show_tool": 0,
+    "show_wall": 0,
+    "show_envelope": 0,
+    "show_sections": 1,
+    "show_samples": 0,
+    "show_nominal": 0,
+    "show_amplitude": 0,
+    "depth_reveal_m": 4.8,
+    "scan_fraction": 1.0,
+    "geometry_opacity": 0.8,
+    "amplitude_opacity": 0.9,
+    "depth_start_m": 1.5,
+    "show_depth_sections": 1,
+    "meaning": "0 irregular T6; 1 tight illustrative; 2 spiral T6. No calibrated data or animation.",
+    "coordinate_note": "Source X metres; travel+rotation controls entire hardware; wall measurements remain fixed. End/drilling sign not certified.",
+    "data_case": 3,
+    "show_reconstruction": 1,
+    "show_echo_strength": 0,
+    "show_acquired_points": 0,
+    "show_interpolated": 0,
+    "event_time_s": 1000.0,
+    "eccentric_y_m": 0.0,
+    "eccentric_z_m": 0.0,
+    "v009_case_names": "[\"eccentric_nominal\", \"irregular_changed_constant\", \"irregular_constant\", \"irregular_layers\", \"irregular_material_changed\", \"missed_nominal\", \"nominal_constant\", \"sparse_irregular\", \"spiral_layers\", \"tight_layers\", \"weak_nominal\", \"interpolation_fixture\"]",
+    "v009_scope": "Synthetic acquisition consistency. No calibrated ENP3 processing or cinematic motion. Test10 deferred T27."
+  },
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "exists": true
+    }
+  ]
+}
