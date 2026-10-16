@@ -1,0 +1,64 @@
+{
+  "source_hashes": {
+    "04-Production\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "04-Production\\Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "hero_interpolation": {
+    "lower": 2.6875,
+    "upper": 2.75,
+    "target": 2.73
+  },
+  "candidates": [
+    {
+      "key": "A",
+      "scene": "04-Production\\Mechanisms\\B202\\Scenes\\B202_study_A_v003.blend",
+      "image": "04-Production\\Mechanisms\\B202\\Previews\\Study_v003\\B202_A_v003.png",
+      "camera": [
+        1.97,
+        -0.69,
+        0.46
+      ],
+      "target": [
+        2.73,
+        0,
+        0
+      ],
+      "lens_mm": 55.0,
+      "render_seconds": 2.6885178089141846
+    },
+    {
+      "key": "B",
+      "scene": "04-Production\\Mechanisms\\B202\\Scenes\\B202_study_B_v003.blend",
+      "image": "04-Production\\Mechanisms\\B202\\Previews\\Study_v003\\B202_B_v003.png",
+      "camera": [
+        1.0,
+        -2.5,
+        1.45
+      ],
+      "target": [
+        3.05,
+        0,
+        0
+      ],
+      "lens_mm": 60.0,
+      "render_seconds": 1.8357720375061035
+    },
+    {
+      "key": "C",
+      "scene": "04-Production\\Mechanisms\\B202\\Scenes\\B202_study_C_v003.blend",
+      "image": "04-Production\\Mechanisms\\B202\\Previews\\Study_v003\\B202_C_v003.png",
+      "camera": [
+        2.35,
+        -0.8,
+        0.6
+      ],
+      "target": [
+        2.73,
+        0,
+        0
+      ],
+      "lens_mm": 55.0,
+      "render_seconds": 1.0377767086029053
+    }
+  ]
+}

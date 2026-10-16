@@ -1,0 +1,91 @@
+{
+  "objects": [
+    "ASSEMBLY_CONTROL",
+    "ASSEMBLY_TRAVEL_X",
+    "ASSEMBLY_ROTATION_X",
+    "ECCO_LINK_v002",
+    "UPPER_COLLAR_PROXY",
+    "UPPER_ADAPTER_UNRESOLVED",
+    "LOWER_ADAPTER_UNRESOLVED",
+    "LOWER_COLLAR_PROXY",
+    "BIT_GAUGE_PROXY_NOT_CUTTERS",
+    "CASING_FULL",
+    "CEMENT_FULL",
+    "CASING_CUTAWAY",
+    "CEMENT_CUTAWAY",
+    "NOMINAL_FULL",
+    "NOMINAL_CUTAWAY",
+    "IRREGULAR_FULL",
+    "IRREGULAR_CUTAWAY",
+    "SPIRAL_FULL",
+    "SPIRAL_CUTAWAY",
+    "INSPECTION_CAMERA"
+  ],
+  "wall_vertices": 9312,
+  "wall_sample": [
+    [
+      0.0,
+      0.15524615347385406,
+      0.010175369679927826
+    ],
+    [
+      0.0,
+      0.15424813330173492,
+      0.020307151600718498
+    ],
+    [
+      0.0,
+      0.1525895595550537,
+      0.030351949855685234
+    ],
+    [
+      0.0,
+      0.1502774953842163,
+      0.0402667373418808
+    ]
+  ],
+  "rig": {
+    "travel_m": 0.5,
+    "rotation_rad": 0.0,
+    "variant": 1,
+    "cutaway": 0,
+    "show_open": 1,
+    "show_casing": 1,
+    "show_cement": 1,
+    "show_hardware": 1,
+    "show_proxies": 1,
+    "irregular_strength": 1.0,
+    "spiral_strength": 1.0,
+    "status": "PROVISIONAL ILLUSTRATION authorized by Radzi; O05 remains open before technical lock",
+    "axes": "Source +X test travel. Pin/box source-end identification and actual BHA placement unconfirmed."
+  },
+  "libraries": [
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\..\\ECCO\\ECCO_master_temporary-plugs_v002.blend"
+  ],
+  "sensor_refs": [
+    {
+      "name": "ECCO_SENSOR_REF_01",
+      "location": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ]
+    },
+    {
+      "name": "ECCO_SENSOR_REF_02",
+      "location": [
+        0.7300000190734863,
+        -0.12043187767267227,
+        0.046229466795921326
+      ]
+    },
+    {
+      "name": "ECCO_SENSOR_REF_03",
+      "location": [
+        0.7300000190734863,
+        0.020180046558380127,
+        -0.12741179764270782
+      ]
+    }
+  ]
+}

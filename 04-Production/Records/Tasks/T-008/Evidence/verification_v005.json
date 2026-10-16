@@ -1,0 +1,303 @@
+{
+  "checks": [
+    {
+      "check": "A key-state",
+      "pass": true
+    },
+    {
+      "check": "A camera",
+      "pass": true
+    },
+    {
+      "check": "A relative linked sources",
+      "pass": true
+    },
+    {
+      "check": "A source housing and nine closures",
+      "pass": true
+    },
+    {
+      "check": "A unchanged mesh ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "A unchanged mesh TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "A unchanged mesh TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "A unchanged mesh TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "A unchanged mesh TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "A unchanged mesh TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "A unchanged mesh TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "A unchanged mesh TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "A unchanged mesh TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "A unchanged mesh TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "A contour on sensor plane",
+      "pass": true
+    },
+    {
+      "check": "A contour inside image",
+      "pass": true
+    },
+    {
+      "check": "A common sensor plane",
+      "pass": true
+    },
+    {
+      "check": "A 120deg source references",
+      "pass": true
+    },
+    {
+      "check": "A no new animation",
+      "pass": true
+    },
+    {
+      "check": "A image size",
+      "pass": true
+    },
+    {
+      "check": "A distinct visible image",
+      "pass": true
+    },
+    {
+      "check": "B key-state",
+      "pass": true
+    },
+    {
+      "check": "B camera",
+      "pass": true
+    },
+    {
+      "check": "B relative linked sources",
+      "pass": true
+    },
+    {
+      "check": "B source housing and nine closures",
+      "pass": true
+    },
+    {
+      "check": "B unchanged mesh ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "B unchanged mesh TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "B unchanged mesh TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "B unchanged mesh TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "B unchanged mesh TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "B unchanged mesh TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "B unchanged mesh TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "B unchanged mesh TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "B unchanged mesh TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "B unchanged mesh TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "B contour on sensor plane",
+      "pass": true
+    },
+    {
+      "check": "B contour inside image",
+      "pass": true
+    },
+    {
+      "check": "B common sensor plane",
+      "pass": true
+    },
+    {
+      "check": "B 120deg source references",
+      "pass": true
+    },
+    {
+      "check": "B no new animation",
+      "pass": true
+    },
+    {
+      "check": "B image size",
+      "pass": true
+    },
+    {
+      "check": "B distinct visible image",
+      "pass": true
+    },
+    {
+      "check": "C key-state",
+      "pass": true
+    },
+    {
+      "check": "C camera",
+      "pass": true
+    },
+    {
+      "check": "C relative linked sources",
+      "pass": true
+    },
+    {
+      "check": "C source housing and nine closures",
+      "pass": true
+    },
+    {
+      "check": "C unchanged mesh ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "C unchanged mesh TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "C unchanged mesh TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "C unchanged mesh TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "C unchanged mesh TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "C unchanged mesh TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "C unchanged mesh TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "C unchanged mesh TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "C unchanged mesh TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "C unchanged mesh TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "C contour on sensor plane",
+      "pass": true
+    },
+    {
+      "check": "C contour inside image",
+      "pass": true
+    },
+    {
+      "check": "C common sensor plane",
+      "pass": true
+    },
+    {
+      "check": "C 120deg source references",
+      "pass": true
+    },
+    {
+      "check": "C no new animation",
+      "pass": true
+    },
+    {
+      "check": "C image size",
+      "pass": true
+    },
+    {
+      "check": "C distinct visible image",
+      "pass": true
+    },
+    {
+      "check": "source unchanged 04-Production\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "pass": true
+    },
+    {
+      "check": "source unchanged 04-Production\\Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend",
+      "pass": true
+    }
+  ],
+  "passed": 65,
+  "total": 65,
+  "outputs": [
+    {
+      "path": "04-Production\\Mechanisms\\B202\\Scenes\\B202_study_A_v005.blend",
+      "bytes": 23052368,
+      "sha256": "f9cef4d54ce67734250b3b6ed5be10f9085be4b358ca6d254e7f684391ae46da"
+    },
+    {
+      "path": "04-Production\\Mechanisms\\B202\\Previews\\Study_v005\\B202_A_v005.png",
+      "bytes": 614571,
+      "sha256": "7d5c61911ad04ddd49ed2e0407e4a3883d884305ab6e3635e52751fc7dd5f6f1"
+    },
+    {
+      "path": "04-Production\\Mechanisms\\B202\\Scenes\\B202_study_B_v005.blend",
+      "bytes": 23052508,
+      "sha256": "daba7ff5802341a57faf3b615833b469f0c91a47064d7072260189a501c1ecd8"
+    },
+    {
+      "path": "04-Production\\Mechanisms\\B202\\Previews\\Study_v005\\B202_B_v005.png",
+      "bytes": 692282,
+      "sha256": "0064f75f3c6f1b5feeb7c9f42ce18a344c53537f23d868c79a04777f57d1ec37"
+    },
+    {
+      "path": "04-Production\\Mechanisms\\B202\\Scenes\\B202_study_C_v005.blend",
+      "bytes": 23052486,
+      "sha256": "9eab132762cc9da6adc50ea3e3ac55f20291be357fa3184d43cab33e1e26ce28"
+    },
+    {
+      "path": "04-Production\\Mechanisms\\B202\\Previews\\Study_v005\\B202_C_v005.png",
+      "bytes": 589334,
+      "sha256": "0849aff201e4e245e785dd60a175c7f6c6121fbb6166afa8c7c7268421b1e316"
+    }
+  ],
+  "source_hashes": {
+    "04-Production\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "04-Production\\Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "limits": "Implementation self-checks; not independent engineering validation. Contour projection checks do not establish occlusion/readability or motion."
+}
