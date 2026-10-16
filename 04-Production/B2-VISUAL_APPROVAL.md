@@ -2,6 +2,22 @@
 
 Updated 16 October 2026, following Radzi's T7 experience. **T26 and the Blender mechanism tickets work as a pair. T26 completion is not a prerequisite for B2 execution.** This supersedes the earlier serial direction-package gate and its blanket no-Blender/no-motion wording. Original engineering dependencies, human approval and technical verification remain in force.
 
+## T7 stills and animation are separate assignments
+
+Owner amendment, 16 October 2026: T7's still-building session must not also own fresh animation direction. Its previous continuation into motion produced a stiff result in the owner's judgment. **T7 / B201-S now owns still assets and handover; T27 / B201-M owns motion direction and execution in a fresh agent session.** Preserve existing stills and earlier motion attempts as evidence. This scope change does not approve the earlier motion or cancel a worker run on its behalf.
+
+T7 packages the exact accepted still/scene versions, editable controls/source geometry, appearance decisions, implementation freedoms and unresolved items. It can finish its still scope without satisfying the former animation criteria. Only Radzi accepts the revised ticket; do not mark it Done merely because this split was documented. No new still exploration or bulk rerender is required unless a real missing handover input is found.
+
+T27 depends on T7's accepted handover. The fresh agent reads the actual scene plus the Scene Director skill, Camera/Motion Language, relevant taste evidence and information-direction modules. It develops timing, acceleration/deceleration, propagation continuity, wave spacing/deformation, contact, fading, reception and repeat rhythm deliberately. Stills are visual anchors, not a predetermined animation curve, equal-duration beat list or compulsory held poses. Natural movement still respects the engineering event and the accepted product/VFX treatment.
+
+Begin with a short fast motion study before the full repeated-ping sequence, then obtain Radzi's moving-preview feedback. Preserve approved still masters; use a versioned motion consumer. Existing motion may supply useful implementation but has no presumed artistic authority. T26 remains the optional paired critique/direction partner, not a completion prerequisite. Major changes to the approved visible treatment return to a targeted still decision; motion timing can be explored within the new task.
+
+Current recorded motion authority covers pulse/contact/echo only: **Still05/waveform and distance graphics remain KIV/excluded** until separately released by Radzi. This narrower motion scope must be explicit in the handover and any downstream shot plan; technical waveform integration is not silently declared complete. Keep remaining questions on the responsible motion/review/shot ticket.
+
+T8 and S02/T14 now consume T27's accepted moving result rather than only T7's static handover. B3 still owns final shot-camera/edit choreography; T27 owns mechanism animation direction and can propose relevant framing changes for approval without taking over the full film.
+
+This is the first explicit still/motion split. Existing scopes of other mechanism tickets remain unchanged until separately amended; do not automatically create or launch more workers. Retain the pairing model and adopt a fresh animation assignment where the owner scopes that split.
+
 ## The working loop
 
 1. **Blender establishes a grounded baseline.** The mechanism agent uses actual registered ECCO/environment geometry to show a cheap still or reuse an existing frame. Identify scale, proximity, occlusion, available space, constraints and practical freedoms. Do not wait for an invented final image before inspecting reality.
@@ -9,7 +25,7 @@ Updated 16 October 2026, following Radzi's T7 experience. **T26 and the Blender 
 3. **Radzi selects a bounded change.** Record the frame/version, concrete question, selected treatment, what to preserve and what remains open.
 4. **Blender implements and verifies.** Change the real scene within that direction, return a matching still and report material spatial/engineering issues. Technical implementation choices belong to the executor; bounded experiments are allowed when they answer a concrete question cheaply.
 5. **T26 critiques with Radzi as needed.** Repeat only where the result exposes a real decision. Do not create another long document for every turn.
-6. **Animate approved treatments.** Obtain explicit approval of the relevant visual treatment and authority for the motion scope. Later appearance/engineering changes return only the affected beat to review, not the whole mechanism or all B2.
+6. **Animate in the assigned motion scope/session.** For the T7 pilot this is fresh-agent T27 after T7's still handover; other tickets retain their recorded scope. Obtain explicit approval of the relevant visual treatment and authority for the motion scope. Later appearance/engineering changes return only the affected beat to review, not the whole mechanism or all B2.
 
 **No whole-ticket finish-before-start gate:** T7–T11 retain technical dependencies but do not depend on T26 being Done. T26 can remain active across B2 while mechanisms progress independently on approved decisions. Lack of a generated image or completion of another mechanism's visual package is not a blocker. A particular unresolved visual choice may hold only that affected work.
 
@@ -50,7 +66,7 @@ B3 develops camera choreography, shot timing and edit transitions from these sce
 
 ## T7 continuity and latest authority
 
-Radzi now reports T7's still work complete and the Blender agent proceeding with the remaining assigned work. **This workflow amendment must not pause or restart T7, revoke existing approvals or require waiting for T26 completion.** Preserve accepted treatments and current assets. The executor should reconcile exact still versions, approval scope and any older KIV/provisional labels in its existing record using current owner instructions; do not infer additional engineering approval or mark the entire task Done.
+Historical pairing-stage instruction: Radzi reported T7's still work complete and continuation authorized. **The later split above transfers remaining motion direction/execution to T27; it preserves approved stills without continuing motion in T7.** Preserve accepted treatments and current assets. The executor should reconcile exact still versions, approval scope and any older KIV/provisional labels in its existing record using current owner instructions; do not infer additional engineering approval or mark the entire task Done.
 
 Historical approved references include Still01 v004 and Still02c v001. Later wall/echo/waveform decisions live in T7's latest outputs and approval records; do not revert to the earlier two-still snapshot. Where a specific issue genuinely remains unresolved, identify only that issue and continue independent authorized work.
 
