@@ -1,0 +1,145 @@
+{
+  "checks": [
+    {
+      "check": "Still03 continuity camera",
+      "pass": true
+    },
+    {
+      "check": "Still03 continuity wall",
+      "pass": true
+    },
+    {
+      "check": "Still03 continuity pose",
+      "pass": true
+    },
+    {
+      "check": "Still03 continuity lights",
+      "pass": true
+    },
+    {
+      "check": "selected Still03 preserved",
+      "pass": true
+    },
+    {
+      "check": "saved source hash",
+      "pass": true
+    },
+    {
+      "check": "render hash",
+      "pass": true
+    },
+    {
+      "check": "accepted master unchanged Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "pass": true
+    },
+    {
+      "check": "accepted master unchanged Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend",
+      "pass": true
+    },
+    {
+      "check": "relative libraries resolve",
+      "pass": true
+    },
+    {
+      "check": "one 1920x1080 still",
+      "pass": true
+    },
+    {
+      "check": "outgoing fronts faded out",
+      "pass": true
+    },
+    {
+      "check": "wall-originating thin spherical return",
+      "pass": true
+    },
+    {
+      "check": "echo first reaches original sensor surface",
+      "pass": true
+    },
+    {
+      "check": "same emitting sensor correspondence",
+      "pass": true
+    },
+    {
+      "check": "reception point on actual evaluated cap",
+      "pass": true
+    },
+    {
+      "check": "first central ray contact matches echo radius",
+      "pass": true
+    },
+    {
+      "check": "faint prior sampled wall patch",
+      "pass": true
+    },
+    {
+      "check": "restrained reception material",
+      "pass": true
+    },
+    {
+      "check": "emerald reception on original sensor",
+      "pass": true
+    },
+    {
+      "check": "no refractive return material",
+      "pass": true
+    },
+    {
+      "check": "echo smooth",
+      "pass": true
+    },
+    {
+      "check": "one main front with two faint followers",
+      "pass": true
+    },
+    {
+      "check": "followers closer to wall than main receiver front",
+      "pass": true
+    },
+    {
+      "check": "tight echo spacing",
+      "pass": true
+    },
+    {
+      "check": "follower shapes originate at same sampled wall",
+      "pass": true
+    },
+    {
+      "check": "follower strengths taper",
+      "pass": true
+    },
+    {
+      "check": "emerald return color on all fronts",
+      "pass": true
+    },
+    {
+      "check": "diagnostic layer excluded B201_PULSE_ECHO",
+      "pass": true
+    },
+    {
+      "check": "diagnostic layer excluded B201_CONTACT_HISTORY",
+      "pass": true
+    },
+    {
+      "check": "diagnostic layer excluded B201_SPATIAL_GRAPHICS",
+      "pass": true
+    },
+    {
+      "check": "no local object animation",
+      "pass": true
+    },
+    {
+      "check": "reception visible within same camera",
+      "pass": true
+    },
+    {
+      "check": "physical time and simulation not claimed",
+      "pass": true
+    }
+  ],
+  "passed": true,
+  "executor_self_check": true,
+  "visual_approval": "pending",
+  "motion_authorized": false,
+  "Still05_authorized": false
+}

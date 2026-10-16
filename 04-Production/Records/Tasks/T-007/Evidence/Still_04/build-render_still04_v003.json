@@ -1,0 +1,69 @@
+{
+  "scene": "Mechanisms\\B201\\Scenes\\B201_returning-echo_still04_v003.blend",
+  "image": "Mechanisms\\B201\\Previews\\Still_04\\B201_returning-echo_still04_v003.png",
+  "scene_sha256": "0968bff9f92bc71991daeb83406ef107fcd34778a18617d3aea609aaed03216c",
+  "image_sha256": "ca0d66b6e6252ad7d8c99e1178a6450c72b5e96456d2d9f25fd99c64c67eccad",
+  "parent_scene": "Mechanisms\\B201\\Scenes\\B201_wall-interaction_still03_v013.blend",
+  "parent_scene_sha256": "6424db573466470b1694ad91ebc1a353fe4ac8701567bde20e3a9aff3d3a2d76",
+  "inputs": {
+    "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "emitter_reference": [
+    2.799999952316284,
+    -0.01828734390437603,
+    0.13012121617794037
+  ],
+  "wall_origin": [
+    2.799999952316284,
+    -0.02468518167734146,
+    0.175644189119339
+  ],
+  "receiver_surface": [
+    2.799999952316284,
+    -0.018231673166155815,
+    0.12972509860992432
+  ],
+  "receiver_object": "TEMP | Imaging port 1 | removable acoustic cap",
+  "reference_to_surface_m": 0.00040001044362638483,
+  "return_radius_m": 0.04637036490143733,
+  "return_color": [
+    0.05,
+    0.55,
+    0.3
+  ],
+  "return_emission_strength": 2.3,
+  "followers": [
+    {
+      "radius_m": 0.041870364901437335,
+      "lag_m": 0.0045,
+      "relative_strength": 0.32
+    },
+    {
+      "radius_m": 0.03737036490143733,
+      "lag_m": 0.009,
+      "relative_strength": 0.15
+    }
+  ],
+  "packet_spacing_m": 0.0045,
+  "cap_extent_radians": 0.6,
+  "wall_patch_fade": 0.07,
+  "sensor_response_radius_m": 0.009,
+  "sensor_response_strength": 1.1,
+  "sensor_response_color": [
+    0.035,
+    0.6,
+    0.26
+  ],
+  "return_body_opacity_floor": 0.035,
+  "return_rim_coefficient": 0.21,
+  "render_seconds": 208.04541079999763,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "physical_time_claim": false,
+  "wave_simulation": false,
+  "animation_rendered": false,
+  "visual_approval": "pending"
+}

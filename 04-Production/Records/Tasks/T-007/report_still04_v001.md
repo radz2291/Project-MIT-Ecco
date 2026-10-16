@@ -1,0 +1,13 @@
+# T7 — Still04 returning echo: first reception v001
+
+Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3. Owner authorizes one first-reception still for review. Full ticket incomplete; no animation or Still05.
+
+[Native 1920×1080 Still04 v001](../../../Mechanisms/B201/Previews/Still_04/B201_returning-echo_still04_v001.png). Editable local scene: `04-Production/Mechanisms/B201/Scenes/B201_returning-echo_still04_v001.blend`. [Builder](../../../Mechanisms/B201/Scripts/build_still04_v001.py) | [Direction contract](../../../Mechanisms/B201/direction.md) | [Selected Still03 report](report_selected-still03_v013.md).
+
+Continue selected original Still03 v013, preserving its exact camera/composition, accepted ECCO and actual wall geometry, pose and lights. Three outgoing fronts remain saved but excluded from rendering. Prior digital scan fades to 7 percent, retaining the sampled wall location. One thin spherical-cap return originates at that wall point and expands toward the original emitting sensor; it is constructed from the wall origin, not simply time-reversing outgoing geometry. Shape is illustrative, not validated acoustic reflection simulation.
+
+First reception uses the actual evaluated `TEMP | Imaging port 1 | removable acoustic cap` surface, nearest to the established emitter reference. Face is 0.400mm behind that reference; return radius reaches the inspected physical cap surface. A local cyan reception response is added through a copied presentation override; source master materials and overall lighting unchanged. Receiver response uses 7mm soft falloff and restrained 0.75 emission strength, not a flash or physical sensing light claim. Return respects both wall and product depth occlusion.
+
+[Build/render record](Evidence/Still_04/build-render_still04_v001.json) | [Saved-scene verification](Evidence/Still_04/verification_still04_v001.json). Record stores wall origin, exact receiver surface, source reference and radius for future Still05 reception-to-waveform linkage. No physical travel-time values, waveform or distance equation invented. O04 calibrated acoustic-face interpretation remains unresolved; inspected cap correspondence is a production reference, not MIT certification.
+
+27 saved-scene checks passed. Exact full-size output visually inspected. No arrows, labels, additional decorative effects, echo duplication or animation. Still03 file preserved unchanged. Selected image/scripts/report/evidence synchronize to established main; SHA/pinned report recorded on Rolladice after fresh remote verification. Editable scene remains local-only without remote backup. Wait for Still04 visual review before Still05 or motion. No whole-ticket completion/self-acceptance.

@@ -115,3 +115,11 @@ Radzi confirms the restored v013 selection: "Yes, thank you so much. That is ver
 ## Still04 — first reception, v001 implementation contract
 
 Owner approves proposed returning echo with first reception refinement. Same selected v013 camera/product/wall/lights; outgoing fronts disappear, sampled wall patch fades to 7 percent. Wall-originating thin spherical cap expands toward original emitting sensor and reaches actual evaluated imaging cap face, 0.400mm behind the emitter reference. Subtle localized cyan reception on actual product surface, no flash. Return curvature is illustrative reflected propagation, not validated simulation or simply time-reversed outgoing fronts. Store exact reception surface event for Still05; no arrows/text/waveforms/decorative effects. Source masters unchanged. Still04 visual approval required before Still05/animation.
+
+## Still04 v002 — distinct reception state
+
+Owner finds v001 weak. Preserve same camera/product/wall/lights and faint blue wall patch. Slightly strengthen thin cyan return body/rim without geometry/thickness/refraction change. Add restrained soft emerald/green-cyan response on same actual receiving face to distinguish reception from transmission. No flash, arrows, labels, waveform or decoration. Exact revised still review required before Still05/animation.
+
+## Still04 v003 — emerald return packet color logic
+
+Owner updates direction: outgoing blue/cyan three fuller fronts; return one main soft emerald plus two fainter followers, tighter and slightly dimmer. Main reaches original receiver face; followers4.5/9mm behind at32/15% strength. Residual wall patch stays faint blue; sensor response emerald. Preserve camera/hardware/wall/lights/first reception. No extra graphics, Still05 or animation before review. v002 retained as intermediate superseded by this steering.
