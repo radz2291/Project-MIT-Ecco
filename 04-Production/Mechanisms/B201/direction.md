@@ -101,3 +101,7 @@ v015 directionally approved, final acceptance pending. One width-led expansion t
 ## Still03 v017 — individual cell-size clarification
 
 Radzi clarifies with red coarse-grid sketch: enlarge individual grid cells, not merely coverage. Primary spacing 1.5→4.5mm; secondary 3.6mm removes tiny subgrid. Red is annotation, retain cyan. Preserve patch coverage, camera/composition/tool/wall/membrane/contact/lights and v016 comparison. Actual physical measurement resolution not claimed. No next beat or motion before exact still approval.
+
+## Still03 v018 — larger area, finer language
+
+Owner rejects coarse v017; retain larger coverage but return refined fine cells. v018 uses 1.8mm primary / 1.17mm secondary spacing, lower dropout/higher brightness floor near contact and increased edge dropout. Preserve actual footprint controls, contact, camera, hardware, wall, membrane and lights. Keep rock texture/organic surface integration. Prior variants retained; no Still04 or animation before review.
