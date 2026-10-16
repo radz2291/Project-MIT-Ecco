@@ -1,0 +1,104 @@
+{
+  "checks": [
+    {
+      "check": "approved product pose unchanged",
+      "pass": true
+    },
+    {
+      "check": "approved lights preserved",
+      "pass": true
+    },
+    {
+      "check": "new gap camera recorded",
+      "pass": true
+    },
+    {
+      "check": "approved source preserved",
+      "pass": true
+    },
+    {
+      "check": "candidate source hash",
+      "pass": true
+    },
+    {
+      "check": "candidate image hash",
+      "pass": true
+    },
+    {
+      "check": "unchanged source Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "pass": true
+    },
+    {
+      "check": "unchanged source Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend",
+      "pass": true
+    },
+    {
+      "check": "relative libraries resolve",
+      "pass": true
+    },
+    {
+      "check": "single full-size still",
+      "pass": true
+    },
+    {
+      "check": "no local object animation",
+      "pass": true
+    },
+    {
+      "check": "diagnostics excluded B201_PULSE_ECHO",
+      "pass": true
+    },
+    {
+      "check": "diagnostics excluded B201_CONTACT_HISTORY",
+      "pass": true
+    },
+    {
+      "check": "diagnostics excluded B201_SPATIAL_GRAPHICS",
+      "pass": true
+    },
+    {
+      "check": "three editable smooth closed envelopes",
+      "pass": true
+    },
+    {
+      "check": "outer envelope reaches measured contact",
+      "pass": true
+    },
+    {
+      "check": "wall correspondence to evaluated T6",
+      "pass": true
+    },
+    {
+      "check": "wall contains actual arrival point",
+      "pass": true
+    },
+    {
+      "check": "contact and sensor inside frame",
+      "pass": true
+    },
+    {
+      "check": "wall material separated from product override",
+      "pass": true
+    },
+    {
+      "check": "wall emission only localized contact",
+      "pass": true
+    },
+    {
+      "check": "continuous wall without plate backing",
+      "pass": true
+    },
+    {
+      "check": "wall-to-wave depth masking enabled",
+      "pass": true
+    },
+    {
+      "check": "camera within preserved annular space",
+      "pass": true
+    }
+  ],
+  "passed": true,
+  "executor_self_check": true,
+  "human_visual_approval": "pending",
+  "motion_authorized": false
+}

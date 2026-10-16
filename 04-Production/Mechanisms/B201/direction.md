@@ -69,3 +69,9 @@ For v008 the full wall circumference surrounds the gap camera; its angular windo
 ## Owner-supplied gap reference - pending selection
 
 Radzi supplies a refined gap composition: "How about something like this?" It shows continuous textured rock opposite the real-model sensor region, three overlapping translucent curved blue fronts with luminous rims and clear volumetric depth. Preserve locally at Previews/References/Radzi_wall-interaction_reference_20261016_v001.png. Treat as proposed direction, not exact-frame approval or engineering proof. Pause further camera exploration. For the wall-arrival beat, propose that the outer front just meets the wall with a faint localized blue wash; retain composition/transparency. This reference supersedes further unattended refinement of the internal gap tests. No animation.
+
+## Still03 native reference implementation v009
+
+Owner explicitly requests actual Blender construction using supplied reference bc09151d, preserved as Previews/References/Radzi_wall-interaction_reference_20261016_v002.png. Continue original T7 per explicit T26 override. Sensor close view, three smooth transparent blue convex envelopes, continuous rough wall and localized arrival. Use actual accepted T5 geometry and preserved T6 evaluated wall. Envelopes are illustrative authored forms, not physical acoustic simulation. Three editable closed meshes replace open cap boundaries; symmetric grazing-angle opacity avoids opaque backfaces. Still only; no motion authorization. Implementation approval pending.
+
+Selected implementation candidate v010: 27mm camera fits all three fronts; shading-point Gaussian contact removes angular glow seen in v009. Native 1920x1080 render inspected. Saved-scene self-check passes 24 checks; human visual approval pending. v009 retained as internal support. No animation.
