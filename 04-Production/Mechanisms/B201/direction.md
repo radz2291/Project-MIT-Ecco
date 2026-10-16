@@ -85,3 +85,7 @@ Implementation v012 narrows spherical caps to 0.65 radians to fit the fixed v010
 ## Still03 v013 — owner-directed causal refinement
 
 v012 explicitly unapproved. Camera/tool unchanged. Modestly brighten thin cap; advance leading radius 2mm beyond first geometric arrival for the peak-contact frame. Actual sphere/rock signed distance drives the curved seam and arrived-cell mask together. Vary cell scale/brightness/activation, use rock noise and irregular fading boundary. Preserve textured rock beneath. This is a cinematic acquisition illustration; no echo/text/motion and no exact acoustic footprint/penetration claim. Final appearance pending Radzi review.
+
+## Still03 v014 — focused material refinement
+
+Owner requests one final focused pass, without approval yet. Preserve camera/composition/tool/wall/lights. Retain exact causal sphere-wall contact; per-cell delay and maturation show progressive registration after local arrival. Incomplete edges, varied density/brightness, geological erosion and irregular mask avoid a screen. Blend cyan into textured rock material and reduce/break clean contact border. Slight lift to leading membrane only; no thickness/refraction. Editable procedural parameters, no keyframes or finishing. Human visual approval pending.
