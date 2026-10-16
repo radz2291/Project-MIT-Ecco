@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-16",
+  "task": "53fb67d1-e3cb-480e-a910-a544338a4470",
+  "owner": "Radzi",
+  "scope": "Approved bounded v009 synthetic acquisition, reconstruction, acoustic response, data-driven mapping, tests and reusable assets; preserve v008/T5/T6/T7",
+  "motion_scope": "T27 only; playable-proof test10 deferred and not passed by T8",
+  "final_task_acceptance": "pending Radzi",
+  "engineering_accuracy": "synthetic consistency only; no calibrated ENP3 or proprietary processing claim",
+  "specification_source": "Local-only supplied Engineering Mechanism Specification v1",
+  "specification_sha256": "bbd3950c374aaaa120c2efdb0625044fb6148e6188780972b5acea1a868e7b37"
+}

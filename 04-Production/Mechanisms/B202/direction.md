@@ -1,5 +1,11 @@
 # B202 — The Measured Envelope / D1 study v005
 
+## Superseding technical addendum — v009
+
+Radzi approved the bounded acquisition/reconstruction correction on16 October2026. No additional creative gate is required merely to implement this agreed mechanism. Preserve all v008 files and accepted T5/T6/T7. v009 now uses actual evaluated T6 triangle intersections, provisional real sensor poses, synthetic monostatic travel time/response, measurement-only inverse, traceable grids and data-driven meshes/colors. The former v008 sine amplitude and direct-wall visual-only mapping remain historical assets, not evidence of this mechanism. See [v009 model](B202_acquisition_model_v009.md) and T8's current report/handover for exact checks/versions/limits.
+
+Established palettes, hardware and composition rationale are reused for static controlled comparisons; geometry/material changes are technical fixtures, not new approved film treatments. Incomplete acquisition remains visibly incomplete; interpolated nodes require explicit display. Continuous surface interiors interpolate acquired grid nodes, not extra captured pixels. Playable proof/cinematic motion remain T27; no keyed animation or final engineering accuracy/visual acceptance is asserted.
+
 ## Superseding execution amendment — B202-S review package v008
 
 Radzi reviewed A/B/C v005 and accepted **The Measured Envelope at D1 concept level** in this chat on 16 October 2026. Authorized all remaining still development, reusable mechanisms/controls, verification and T27 handover; final package must be submitted for Review. This supersedes the pending-D1/detailed-build holds below, which are retained as study history. No final exact-v006 visual or engineering approval is asserted.

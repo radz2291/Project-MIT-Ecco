@@ -1,0 +1,381 @@
+{
+  "version": "v009",
+  "mechanism_checks": 101,
+  "consumer_checks": 165,
+  "local_links_checked": 94,
+  "spec_test10": "deferred_to_T27_not_passed",
+  "native_scenes_local_only": 11,
+  "preserved_source_assets": 27,
+  "files": [
+    {
+      "sha256": "202178a61bdd0293fe1f0dda088b2d8dabc8264e0544f781ab216f8a6abf7aaa",
+      "bytes": 2201,
+      "path": "04-Production/Mechanisms/B202/acquisition_config_v009.json"
+    },
+    {
+      "sha256": "7c147499670f19ea58c10f06f0818a7e175b04657ed11f467ec404dfb61359ec",
+      "bytes": 9882,
+      "path": "04-Production/Mechanisms/B202/B202_acquisition_model_v009.md"
+    },
+    {
+      "sha256": "1f7e2c16cf90582385ba04bf5676dba06f960d972fdf1e3a7d15e45dc7000283",
+      "bytes": 8405,
+      "path": "04-Production/Mechanisms/B202/direction.md"
+    },
+    {
+      "sha256": "2e3565aed6f1c655531b50cc2bae52161949f7e6ce5c26fa23ca2ecf321d8725",
+      "bytes": 11020,
+      "path": "04-Production/Records/Tasks/T-008/report.md"
+    },
+    {
+      "sha256": "ce6e3434e0e052b5cee190af4ebe4c59bb11bc0e7d185fcd50d1f6bfe3c07dac",
+      "bytes": 11078,
+      "path": "04-Production/Records/Tasks/T-008/report_stills_v008.md"
+    },
+    {
+      "sha256": "8019e7ff0874d94a69b33b6a1b77db690c3ecb1900d778278ead1d27d82bb4cc",
+      "bytes": 7608,
+      "path": "04-Production/Records/Tasks/T-008/T27_mechanism_handover_v009.md"
+    },
+    {
+      "sha256": "f265ff8d94a2473d2fcaa61bae9378970adafc19f3534597d19d3aff825176f4",
+      "bytes": 1594,
+      "path": "04-Production/Records/Tasks/T-008/review-questions_v009.md"
+    },
+    {
+      "sha256": "d73279e34f8eb27dbc82ac0db48ff72c0639c991d89fa4720c6794b46e46cdad",
+      "bytes": 20213,
+      "path": "04-Production/Records/asset-manifest_v001.md"
+    },
+    {
+      "sha256": "59286f9b67152a4fdc73bb9420621380ca65defdec5b825da143be39c9ff17f5",
+      "bytes": 7119,
+      "path": "04-Production/Mechanisms/B202/Scripts/acquisition_core_v009.py"
+    },
+    {
+      "sha256": "38cb2cbded4d2c5735c68f2b24ed46975c212227f286616880abc3193abfc710",
+      "bytes": 10532,
+      "path": "04-Production/Mechanisms/B202/Scripts/build_acquisition_v009.py"
+    },
+    {
+      "sha256": "93606175fc45123ad8caf153d3dd0afc805a3d968bedc6ef4887e4343bc25317",
+      "bytes": 13223,
+      "path": "04-Production/Mechanisms/B202/Scripts/verify_acquisition_v009.py"
+    },
+    {
+      "sha256": "4f58f7c060aaddc8a56cab55ed5706bc4c74c1b4ab392fc0a1f267595de6c3ad",
+      "bytes": 11034,
+      "path": "04-Production/Mechanisms/B202/Scripts/build_consumer_v009.py"
+    },
+    {
+      "sha256": "9eb4090065be66561ffcf51f16850da96989754b07c0ce6187ebb543fa44ae77",
+      "bytes": 8132,
+      "path": "04-Production/Mechanisms/B202/Scripts/verify_consumer_v009.py"
+    },
+    {
+      "sha256": "7bb53a63e9ef028ef943608655d6f1e09fe0009581c22a6fd57698d3e572b25e",
+      "bytes": 727,
+      "path": "04-Production/Mechanisms/B202/Scripts/replay_interface_v009.py"
+    },
+    {
+      "sha256": "b82805ad65f5fdf9f28ee2acdbc1ffb9ab0e7efa93d727f6490a081e8da67bf9",
+      "bytes": 5180,
+      "path": "04-Production/Mechanisms/B202/Scripts/package_evidence_v009.py"
+    },
+    {
+      "sha256": "3053444f80e58dc1c9637b0607275ba3ccb9a45ef20a5ce8b8d15128c258ca43",
+      "bytes": 1755,
+      "path": "04-Production/Mechanisms/B202/Scripts/complete_case_metadata_v009.py"
+    },
+    {
+      "sha256": "c0d1a8322932f349bae74e9960d72bb8ee00a93adb494cba366f54f08c0a409f",
+      "bytes": 9173,
+      "path": "04-Production/Mechanisms/B202/Data/v009/index_v009.json"
+    },
+    {
+      "sha256": "98a5a7bb379868fb561560a6b14ecf6168b65cf6848dfc1961baa6a03c7a9cd1",
+      "bytes": 443058,
+      "path": "04-Production/Mechanisms/B202/Data/v009/eccentric_nominal_events_v009.json.gz"
+    },
+    {
+      "sha256": "ee781668d824298abcfd7ba9063ce00bb528a2c38723e1d07fa8a4424c8be367",
+      "bytes": 94891,
+      "path": "04-Production/Mechanisms/B202/Data/v009/eccentric_nominal_grid_v009.json.gz"
+    },
+    {
+      "sha256": "c2d2ad9b52e4a4221495dee7c01717766c58722448c833c2a64cf2b6701ffedf",
+      "bytes": 138297,
+      "path": "04-Production/Mechanisms/B202/Data/v009/eccentric_nominal_truth_v009.json.gz"
+    },
+    {
+      "sha256": "d15eda82584ba5c0d0dc9f48653d1d1ecc6ed731519a30c1f7e2a98fd5aea6f5",
+      "bytes": 444627,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_changed_constant_events_v009.json.gz"
+    },
+    {
+      "sha256": "b8292a388c7cfffd70f35375f2275793136f99b1344b0cc079a38ef553c2b46b",
+      "bytes": 90423,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_changed_constant_grid_v009.json.gz"
+    },
+    {
+      "sha256": "233549e1dd26873722fbbdf133773cc560b948803a514d99be19627f9ccefa0a",
+      "bytes": 216367,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_changed_constant_truth_v009.json.gz"
+    },
+    {
+      "sha256": "cf4439bf9db70ebf6a4e6c9096c25b9160cc8d36f8f22a0dd9de0a633e2a37bb",
+      "bytes": 433398,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_constant_events_v009.json.gz"
+    },
+    {
+      "sha256": "edca2400f47ce65e39ceac4fc9d664b91b203b4316f1440ad52f25dd2b48adde",
+      "bytes": 87588,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_constant_grid_v009.json.gz"
+    },
+    {
+      "sha256": "c8dd4ccdad2db3b5060e8d87f029765120319f31b2d1abd9a7d8f787932bd014",
+      "bytes": 211852,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_constant_truth_v009.json.gz"
+    },
+    {
+      "sha256": "6e254e9bed6df9772f7676bfac6cc9aa7ce2844b6905b7b9ec2a041a5a56e093",
+      "bytes": 436414,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_layers_events_v009.json.gz"
+    },
+    {
+      "sha256": "835f06ac95c7eac1e091ce0e4dea31b724ed7bec9cb817b4e81026e8b85721d7",
+      "bytes": 87651,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_layers_grid_v009.json.gz"
+    },
+    {
+      "sha256": "e6c37f86a3be85811827643c371682e85245f63517a59353a3818e09745e82be",
+      "bytes": 211971,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_layers_truth_v009.json.gz"
+    },
+    {
+      "sha256": "510cc7f311a0ec425ea68ad0d2de950d2c1296b5abee80b869e011123f756d91",
+      "bytes": 434209,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_material_changed_events_v009.json.gz"
+    },
+    {
+      "sha256": "d4100d0f3145a0c77831793f4cd6bce84521a504b35bce13e9e0323cd2df1218",
+      "bytes": 87485,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_material_changed_grid_v009.json.gz"
+    },
+    {
+      "sha256": "00a3bea38ba7486ab7dd46f8b525f8bd8025962fcd8272736ca3adcbc432ab65",
+      "bytes": 212924,
+      "path": "04-Production/Mechanisms/B202/Data/v009/irregular_material_changed_truth_v009.json.gz"
+    },
+    {
+      "sha256": "1f317a3d6cdcf5821893aa007f4138c327dce4f131457948d0ec7f7d87381623",
+      "bytes": 175386,
+      "path": "04-Production/Mechanisms/B202/Data/v009/missed_nominal_events_v009.json.gz"
+    },
+    {
+      "sha256": "9387fce53170a1dbb52f028e92322b39cd60ba05b6222ed922b1c6e35d6b7b04",
+      "bytes": 10487,
+      "path": "04-Production/Mechanisms/B202/Data/v009/missed_nominal_grid_v009.json.gz"
+    },
+    {
+      "sha256": "c14bfcf1832a180081ce0abd2061eeb1dc780074f0c2cdfd923be805f2407368",
+      "bytes": 22,
+      "path": "04-Production/Mechanisms/B202/Data/v009/missed_nominal_truth_v009.json.gz"
+    },
+    {
+      "sha256": "2a12a6054c954431ad4a7da03160d32e449b046d8edc071197e86c0eceec2bbf",
+      "bytes": 373366,
+      "path": "04-Production/Mechanisms/B202/Data/v009/nominal_constant_events_v009.json.gz"
+    },
+    {
+      "sha256": "9528c6cd3fd28a265f29e1c7aa266dc88b84d702efa098122cda21b202970594",
+      "bytes": 86930,
+      "path": "04-Production/Mechanisms/B202/Data/v009/nominal_constant_grid_v009.json.gz"
+    },
+    {
+      "sha256": "d4479503e7e58cbb635b932fd8c8a4c4d1844f522e581074e71a9b9a168aa9bf",
+      "bytes": 101865,
+      "path": "04-Production/Mechanisms/B202/Data/v009/nominal_constant_truth_v009.json.gz"
+    },
+    {
+      "sha256": "83dd0430d53a781d0fbdbb24df6fb0fd2da2b9f83d8bed990e798c7015def618",
+      "bytes": 29317,
+      "path": "04-Production/Mechanisms/B202/Data/v009/sparse_irregular_events_v009.json.gz"
+    },
+    {
+      "sha256": "61d967c07531598ddaa9b158ff737c01a5a26e8f179eb9a5442aab3e66ad2a1c",
+      "bytes": 36804,
+      "path": "04-Production/Mechanisms/B202/Data/v009/sparse_irregular_grid_v009.json.gz"
+    },
+    {
+      "sha256": "7cc4709789a01eb78db835de7904b71fa661726e0a808d1b9b4ab24feb1cbfc8",
+      "bytes": 24641,
+      "path": "04-Production/Mechanisms/B202/Data/v009/sparse_irregular_truth_v009.json.gz"
+    },
+    {
+      "sha256": "f19b192441db6a02899393963b33157a077d203fb87f2bb7b6b3f0c5e6993f89",
+      "bytes": 463392,
+      "path": "04-Production/Mechanisms/B202/Data/v009/spiral_layers_events_v009.json.gz"
+    },
+    {
+      "sha256": "66cc085b7776271c751203d419c53967328cf5364a5fad4e3e981f295e6ea65d",
+      "bytes": 92307,
+      "path": "04-Production/Mechanisms/B202/Data/v009/spiral_layers_grid_v009.json.gz"
+    },
+    {
+      "sha256": "4e7578329d8ad2eb444fad72634e540c37ec6b9f36f4bdc73adcc918bb4e066e",
+      "bytes": 213052,
+      "path": "04-Production/Mechanisms/B202/Data/v009/spiral_layers_truth_v009.json.gz"
+    },
+    {
+      "sha256": "aeb6c234618d0f943b309bf8fac7f6b6da9969d7dd566497db4ae5bf77548fca",
+      "bytes": 411437,
+      "path": "04-Production/Mechanisms/B202/Data/v009/tight_layers_events_v009.json.gz"
+    },
+    {
+      "sha256": "966207cde97764ed68e79c45f6527fb9148345860e5a2d84d2c080185111d32b",
+      "bytes": 90139,
+      "path": "04-Production/Mechanisms/B202/Data/v009/tight_layers_grid_v009.json.gz"
+    },
+    {
+      "sha256": "15a06c75d229eef00cef6b80f37172db81004ab8e97b4e14c146ce91b1c5ea29",
+      "bytes": 176748,
+      "path": "04-Production/Mechanisms/B202/Data/v009/tight_layers_truth_v009.json.gz"
+    },
+    {
+      "sha256": "50eeb71f8c408bc350a951b9c6568f3bb9c08a5b2ced0f665dcb34f9b19415b8",
+      "bytes": 373168,
+      "path": "04-Production/Mechanisms/B202/Data/v009/weak_nominal_events_v009.json.gz"
+    },
+    {
+      "sha256": "4843ad54dccd95cbe131d98d5903859fef4a79fc1faafd1486f3af99e9657a63",
+      "bytes": 10486,
+      "path": "04-Production/Mechanisms/B202/Data/v009/weak_nominal_grid_v009.json.gz"
+    },
+    {
+      "sha256": "f08ecb6ae1feff0ac587fddcd49f65b74c4b5c7f6d3cb2ae9b7f609520488d29",
+      "bytes": 101510,
+      "path": "04-Production/Mechanisms/B202/Data/v009/weak_nominal_truth_v009.json.gz"
+    },
+    {
+      "sha256": "6045db70072f635710379dc9378e22b79105fa7413ae770219784a4e700c34ca",
+      "bytes": 87768,
+      "path": "04-Production/Mechanisms/B202/Data/v009/interpolation_fixture_grid_v009.json.gz"
+    },
+    {
+      "sha256": "27aeb387b4b2d020d51c9ebbcaef6596fdc0125f5daa8eb76ddcaeaa09659cff",
+      "bytes": 998751,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/irregular_constant_radius_v009.png"
+    },
+    {
+      "sha256": "b7eefe21c943439c8684dc158e1bb5d778f5e38852872217d5141693583cd960",
+      "bytes": 1000233,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/irregular_changed_constant_radius_v009.png"
+    },
+    {
+      "sha256": "2a7fbc562ca8321088529afa64489475dd02b33b21fe1798650c55eeec450812",
+      "bytes": 998759,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/irregular_material_changed_radius_v009.png"
+    },
+    {
+      "sha256": "1900c4f281d493b244e3b2121090aba752bb5e0c2c47f0966d7a85d5b385d6f5",
+      "bytes": 984084,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/irregular_constant_echo_strength_v009.png"
+    },
+    {
+      "sha256": "2b4fd2caadace20686640cb9fcf876ee9d89c7c5d7d2b5bd4b8c7390386bbae2",
+      "bytes": 984929,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/irregular_changed_constant_echo_strength_v009.png"
+    },
+    {
+      "sha256": "b1bbc99dbdca9a3a2b973392f9d5493413f337e78e06347618058f5e705468a3",
+      "bytes": 986369,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/irregular_material_changed_echo_strength_v009.png"
+    },
+    {
+      "sha256": "29454b9931be29267b34ad128ce4c5e92d8e7e1556772ce8038e700241cf5f84",
+      "bytes": 986461,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/irregular_layers_echo_strength_v009.png"
+    },
+    {
+      "sha256": "f57c83651e965183a97ed0b188bdce8d10f902a0bf6d1b6be254f2f0bbce2032",
+      "bytes": 1014818,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/spiral_layers_radius_v009.png"
+    },
+    {
+      "sha256": "64a5eb87a15bf406bb0d977ddb37781803cd6734d89fee9e408efaa6317029b3",
+      "bytes": 963570,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/tight_layers_radius_v009.png"
+    },
+    {
+      "sha256": "24feca969bbf2a3f5818b12a8b0baf60597fce915dc0a994258eb686592071da",
+      "bytes": 952444,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/sparse_irregular_radius_v009.png"
+    },
+    {
+      "sha256": "7853bf64a2522ffe068dd56cdf911336ff97728afae132113e093ee68d6b0d15",
+      "bytes": 121463,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/B202_geometry_comparison_v009.jpg"
+    },
+    {
+      "sha256": "604f474003e3ce5187c7e20b6291db831a9668924b908c51e9009c2bd4bef21c",
+      "bytes": 122649,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/B202_material_comparison_v009.jpg"
+    },
+    {
+      "sha256": "8550d5153d455cf9edac6b4f2aa9e50c8fe36dff0504182c283190a77343cfd6",
+      "bytes": 119666,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/B202_mechanism_states_v009.jpg"
+    },
+    {
+      "sha256": "6aaddec764d72223b96ca72b2cee12bb67558bfc7e56be4e9b68d5799c619a72",
+      "bytes": 334307,
+      "path": "04-Production/Mechanisms/B202/Previews/Mechanism_v009/B202_numeric_comparison_v009.png"
+    },
+    {
+      "sha256": "15c8fc9168dd0228d58ca29ca45a77b8f56ee27e26c6e741aeb513a36cdfbc94",
+      "bytes": 690,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/v009/authority_v009.json"
+    },
+    {
+      "sha256": "265bb636cd85d79d5bc4fa441ba514faa7bb37368f1a5653e4bbdf1c1a33986d",
+      "bytes": 3577,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/v009/preservation_before_v009.json"
+    },
+    {
+      "sha256": "9274b582ac46e53ae3942f02a9e28cd6210f07d3fa81a02c8c6c5a7cacfe15fb",
+      "bytes": 8158,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/v009/build_acquisition_v009.json"
+    },
+    {
+      "sha256": "fc2a5cc1ffb015d7805bc030046d5b64d5c168f4493e01ddf97252349fcb1ff9",
+      "bytes": 3377,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/v009/example_bin_trace_v009.json"
+    },
+    {
+      "sha256": "510befe1b2007f89d5714e60bb3e25130044823ced2fd0409e0f76eba118af89",
+      "bytes": 13128,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/v009/verification_acquisition_v009.json"
+    },
+    {
+      "sha256": "70a870fe9dc210f8b0a1db61f6b356b35ecf6989923cf25762bf63d7022f12f7",
+      "bytes": 117753,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/v009/consumer_manifest_v009.json"
+    },
+    {
+      "sha256": "69e802e83a021c112ccb61387378e00dad93c72e8fc1e2da48c947156d173db1",
+      "bytes": 18183,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/v009/verification_consumer_v009.json"
+    },
+    {
+      "sha256": "cdd3a125a85addb44ae3c2504fa06884f1bfc4ff245d081f8277856cb2177250",
+      "bytes": 74434,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/v009/comparison_trace_depth3m_v009.csv"
+    },
+    {
+      "sha256": "496b2154c20491a3051a8586c986fe22ee318c6d407ae50bf9818841718a4d52",
+      "bytes": 361,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/v009/metadata_completion_v009.json"
+    }
+  ]
+}
