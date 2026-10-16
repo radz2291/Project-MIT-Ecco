@@ -1,0 +1,62 @@
+{
+  "scene": "Mechanisms\\B201\\Scenes\\B201_wall-interaction_still03_v011.blend",
+  "image": "Mechanisms\\B201\\Previews\\Still_03\\B201_wall-interaction_still03_v011.png",
+  "scene_sha256": "5c02d8ee2c5b6d4c09c0c762ce1b91833fa087fee80617c2660c1eb9b1676c85",
+  "image_sha256": "a1e2c6511ee80b69df8c4472544989b8ed4d71191e981e5d8c420d9b7633e78a",
+  "approved_source_sha256": "33c4491f9dc9867b6b9cd36fc295f2dd6ad2abef8e7cc82706e451086128bdff",
+  "inputs": {
+    "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "origin": [
+    2.799999952316284,
+    -0.01828734390437603,
+    0.13012121617794037
+  ],
+  "wall": [
+    2.799999952316284,
+    -0.02468518167734146,
+    0.175644189119339
+  ],
+  "standoff_m": 0.045970353173797864,
+  "representation": "Thin source-centered spherical-cap membranes + wall-conforming procedural digital scan illustration",
+  "wall_correspondence_max_m": 5.372690026206328e-08,
+  "wall_vertices": 11041,
+  "camera_unchanged": true,
+  "camera": {
+    "location": [
+      2.700000047683716,
+      -0.028798112645745277,
+      0.1474268138408661
+    ],
+    "rotation": [
+      -1.2595170736312866,
+      -1.7170506715774536,
+      1.3369853496551514
+    ],
+    "lens_mm": 27.0
+  },
+  "wall_reconstruction": "Full retained T6 sampling grid; removed viewing-window faces restored from their original retained vertices",
+  "render_seconds": 183.87965470000017,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "animation_rendered": false,
+  "visual_approval": "pending",
+  "rock_texture": "Authored surface shading, not geological/material identification",
+  "contact_glow": "Digital acquisition illustration on actual rock, not physical emitted light",
+  "parent_scene_sha256": "15b0467ef3efdae933e26034376125f510f72ac0955e9dfca60b2fd519c9cf73",
+  "front_radii_m": [
+    0.026,
+    0.036,
+    0.045970353173797864
+  ],
+  "camera_unchanged_from": "Still03 v010",
+  "patch_radii_m": [
+    0.012,
+    0.019
+  ],
+  "cell_size_m": 0.0015,
+  "contact_controller": "ACOUSTIC_CONTACT_CONTROLLER"
+}

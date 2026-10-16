@@ -1,0 +1,97 @@
+For the Blender agent currently working on T7 Still 03, the visual direction is now confirmed: Spherical-Cap Membrane + Digital Patch Scan.
+
+The goal is to show an ultrasonic pulse travelling through 3D space, reaching the borehole wall, and triggering a localized digital representation of the sampled surface.
+
+## 1. Spherical-Cap Membrane — Wavefront
+
+[3d render of abstract art with part of surreal alien ball or sphere in translucent fluorescent plastic material with multilayer effect in neon blue color with curvy wavy spiral laser lines inside on dark black background](https://images.openai.com/static-rsc-4/DxnSetma2Qhf6a9g9oCQR5pMUlxarrQ52VYw8LokcPNDMI25tQJRb6YH2ikJXoE1WKRZEbQDvO3F0Zs5vC0aDg8tTVVpOS7RoRrae-5ug7ibQ-U3PTt22oX2EyykBekE54fDlG8cB9pQZMz3ig68QLAwyXre150V6L7r7J2ybo1Wo5a9lE6-s9iasHU-2371?purpose=inline)
+
+Blender construction
+
+Use a procedural spherical-cap mesh, not a torus, glass disc or thick ring.
+
+- Generate a curved portion of a sphere using Geometry Nodes or a parametric mesh.
+- Orient its central propagation axis outward from the existing sensor reference.
+- Animate the sphere radius increasing from the sensor toward the wall.
+- Use 2–3 separated, curved membranes to represent one short outgoing pulse packet.
+- Keep the geometry extremely thin, with no visible physical thickness.
+
+Material direction
+
+Use a transparent shader with subtle cyan emission:
+
+| Property   | Starting treatment                  |
+| ---------- | ----------------------------------- |
+| Surface    | Thin translucent membrane           |
+| Opacity    | Approximately 0.05–0.15, adjustable |
+| Center     | Almost invisible                    |
+| Edges      | Slightly brighter cyan              |
+| Roughness  | Not a major visual driver           |
+| Refraction | Avoid obvious glass refraction      |
+| Emission   | Soft, restrained, non-neon          |
+
+Use a Layer Weight/Fresnel-style facing mask to emphasize grazing angles. Blend this with faint transparent blue surface shading.
+
+The important part is that the membrane should read as a curved energy front occupying real 3D space, not a solid translucent object.
+
+## 2. Digital Patch Scan — Wall Contact
+
+[Construction Quality Management System (2026) | Banamind](https://images.openai.com/static-rsc-4/tSk8m2drQQn3g7iwRa94sDNmkR-0L5IQwpnjlbyRIwAyBC8YExcAHN2ewPmPk3kSkaMjfuLle4Q7y8vNoU7mmrw5FUBXKwehJCM2-pj3bSsc0GHla4WG0oVSqzXdvfpoXBPNzCCvj76BST2lZg5XvkI-9ztJ-YL5cEZA1HO6m_Q?purpose=inline)
+
+When the leading membrane reaches the rock, a localized area of the wall transforms visually into a digital sampling pattern.
+
+Recommended Blender implementation:
+
+Use a separate procedural effect on the existing borehole wall, rather than replacing its original geometry.
+
+Create a Geometry Nodes or shader-driven effect with:
+
+- A contact location calculated by raycasting outward from the sensor toward the wall.
+- A localized elliptical or irregular influence mask centered on the contact.
+- A grid of fine rectangular or square cells projected onto the actual rock surface.
+- Subtle randomized cell activation, giving the appearance of information being acquired.
+- A controllable scan radius, opacity and fade.
+
+The digital pattern must follow the irregular rock geometry. It should not look like a flat floating screen in front of the wall.
+
+One practical method is to use a duplicate wall surface with a slight normal offset and a procedural emission/alpha material. Calculate patch-local coordinates using two tangent axes at the contact point; combine a grid pattern with a smooth distance mask and stable noise to reveal cells progressively.
+
+Keep the underlying rock texture visible through the digital pattern.
+
+## 3. How the interaction animates
+
+Proposed visual sequence — timing to be tested
+
+1. Approach: The membrane expands outward, with the wall remaining natural and dark.
+2. Contact: The leading membrane intersects the actual wall surface. A few digital cells appear at the contact region.
+3. Digitization: More cells activate across a localized irregular patch, conforming to the wall texture. The wavefront begins fading.
+4. Completion: The digital patch briefly remains readable, then fades. The original rock appearance returns.
+5. Next ping: Repeat at the newly facing wall location as the tool rotates. The echo-return phase must still be shown returning to the same sensor.
+
+Avoid making the digital cells fly away from the rock. The effect should feel like the physical surface becoming information, not material disintegrating.
+
+## 4. Important implementation constraints
+
+Preserve the camera and geometry. Use the current Blender scene, sensor position, borehole mesh and composition. Do not redesign the hardware.
+
+Separate the systems. The membrane should be its own animated geometry/effect. The digital patch should be attached to the wall, with a shared contact-position controller connecting the two.
+
+Respect real spatial intersection. Determine the membrane radius and wall-contact position from the inspected geometry. Do not copy dimensions from generated images or assume the borehole gap is larger than it is.
+
+Do not turn the scan patch into a scientific claim. One ultrasonic ping does not literally produce a textured digital image of a rock patch. This is a cinematic visualization of acquiring a measurement. The waveform, stand-off calculation and subsequent reconstruction explain the actual information chain.
+
+## 5. What I want the agent to show us first
+
+For the next inspection still, show the exact contact moment with:
+
+- The original tool and camera.
+- Two or three very thin spherical-cap wavefronts.
+- The leading front reaching the wall.
+- A clearly readable, localized digital patch on the rock.
+- No returning echo, measurement text or extra effects yet.
+
+The visual test is simple: Even without animation, we should immediately understand that ECCO has just sampled that part of the borehole wall.
+
+The two effect designs are approved. The final appearance, patch size, shader settings and complete Still 03 composition remain subject to your visual review.
+
+This is the direction I'd give the Blender agent now, without starting a separate creative exploration.
