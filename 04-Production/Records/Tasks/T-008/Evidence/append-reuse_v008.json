@@ -1,0 +1,19 @@
+{
+  "passed": 3,
+  "total": 3,
+  "checks": [
+    {
+      "check": "appended hardware/sensors follow remapped controller",
+      "pass": true
+    },
+    {
+      "check": "appended object drivers remap to local controller",
+      "pass": true
+    },
+    {
+      "check": "appended relative product source resolves",
+      "pass": true
+    }
+  ],
+  "note": "Appended collection tested in fresh unsaved scene; no animation or persistent test consumer created."
+}

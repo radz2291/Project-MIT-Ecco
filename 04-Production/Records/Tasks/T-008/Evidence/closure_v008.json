@@ -1,0 +1,147 @@
+{
+  "version": "v008",
+  "task": "53fb67d1-e3cb-480e-a910-a544338a4470",
+  "local_links_checked": 95,
+  "implementation_checks": 332,
+  "source_checks": 4,
+  "append_checks": 3,
+  "native_scenes_local_only": 7,
+  "visual_review": "All six exact PNGs and review sheet inspected",
+  "files": [
+    {
+      "bytes": 7204,
+      "path": "04-Production/Mechanisms/B202/direction.md",
+      "sha256": "bcb4aabba0487f174a211c24c11b7855aedfdb7269180433b0479eaf562193e8"
+    },
+    {
+      "bytes": 949,
+      "path": "04-Production/Mechanisms/B202/config_v008.json",
+      "sha256": "e18e658e2e075180f2bcad5230043eaedb887927dfb02f6b84a178199f406aa3"
+    },
+    {
+      "bytes": 1721,
+      "path": "04-Production/Mechanisms/B202/presets_v008.json",
+      "sha256": "9b1c17891c465d35846c5e23362c855503ae648abc40e440d823cbf23d00c714"
+    },
+    {
+      "bytes": 1174943,
+      "path": "04-Production/Mechanisms/B202/sampling_tables_v008.json",
+      "sha256": "e37361b89c801425b5affadc07bf8ea62d62a35072cc8948271bb9dfefa47d60"
+    },
+    {
+      "bytes": 17559,
+      "path": "04-Production/Mechanisms/B202/Scripts/build_assets_v008.py",
+      "sha256": "4bf91e2bf28385c6d203479007b60aed7c7f2d56b36ee311c8f5707a78ff3960"
+    },
+    {
+      "bytes": 8968,
+      "path": "04-Production/Mechanisms/B202/Scripts/verify_assets_v008.py",
+      "sha256": "960cb4133f539dd920bc9afea7096f883c6c08beaeb4afce7a344c75fd94b0da"
+    },
+    {
+      "bytes": 1710,
+      "path": "04-Production/Mechanisms/B202/Scripts/verify_sources_v008.py",
+      "sha256": "48cb87dd8ed30aa126754bfeb5700ca92521bc599c6bc55c5f352ba7c0adc37c"
+    },
+    {
+      "bytes": 1590,
+      "path": "04-Production/Mechanisms/B202/Scripts/verify_append_v008.py",
+      "sha256": "5a5ae2e923fee8254f8bf9136f77dd09810f556d8bae4120633aba2543c32855"
+    },
+    {
+      "bytes": 1334,
+      "path": "04-Production/Mechanisms/B202/Scripts/sample_profile_v008.py",
+      "sha256": "caff89e94686e14f9de6b450b45784fa62ab76eea9999c7b0f93fc28433e2b6e"
+    },
+    {
+      "bytes": 1254,
+      "path": "04-Production/Mechanisms/B202/Scripts/package_review_v008.py",
+      "sha256": "a785eb06a993513d69961017ec68d129d85157f3fd751d1803ec7eb1cc1527d0"
+    },
+    {
+      "bytes": 176431,
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v008/B202_review-sheet_v008.jpg",
+      "sha256": "e25f729c5e6badaa630f310b4a9be684a74729b9e94337a5c0446207bcf3d17b"
+    },
+    {
+      "bytes": 11078,
+      "path": "04-Production/Records/Tasks/T-008/report.md",
+      "sha256": "ce6e3434e0e052b5cee190af4ebe4c59bb11bc0e7d185fcd50d1f6bfe3c07dac"
+    },
+    {
+      "bytes": 6656,
+      "path": "04-Production/Records/Tasks/T-008/report_study_v005.md",
+      "sha256": "e6010dd3adbd414e373c660b9b02526ea1abd530fa6d9a95153c5f9c90d4819c"
+    },
+    {
+      "bytes": 9274,
+      "path": "04-Production/Records/Tasks/T-008/handover_T27_v008.md",
+      "sha256": "e85095d30acc8d7acb97c6bc6716801dfcc2adad73f1d145cba8e20c96d30bc7"
+    },
+    {
+      "bytes": 1431,
+      "path": "04-Production/Records/Tasks/T-008/review-questions_v008.md",
+      "sha256": "8a5d64ba3898858ed1ad2d2bf2a7b82c69f206988ee5d990ff863dc66f2cff36"
+    },
+    {
+      "bytes": 1032,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/D1-acceptance_v005.json",
+      "sha256": "e400779a5c0623149fbc38dfd7f9e50fbc22f60e2dd0e935746eeee8b91dbda8"
+    },
+    {
+      "bytes": 4924,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/build_v008.json",
+      "sha256": "663f0b3dcbdb6be8fae0c514fa364e6b07900b0a3a7495475178cbb69491daad"
+    },
+    {
+      "bytes": 37850,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/verification_v008.json",
+      "sha256": "2ccf7a24e71344c0c482aafc9702f146d6e9659fdd56d22e142ecd2cd0c9d9c0"
+    },
+    {
+      "bytes": 677,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/source-correspondence_v008.json",
+      "sha256": "f14f45668a63f39a2bcd9a8be97d51d2ec24fd4f01977347857ec960cb62ab33"
+    },
+    {
+      "bytes": 476,
+      "path": "04-Production/Records/Tasks/T-008/Evidence/append-reuse_v008.json",
+      "sha256": "b399f423e6d4ec57c5fce7efcebaadb9d49f3ca7d9ba4702fb8fa70ea825a390"
+    },
+    {
+      "bytes": 18455,
+      "path": "04-Production/Records/asset-manifest_v001.md",
+      "sha256": "88cb57ce787d1dcd72931591d6d1e60269480e2714c33e247f7d6372216c126c"
+    },
+    {
+      "bytes": 1063432,
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v008/B202_A_v008.png",
+      "sha256": "8503f90b35c05613da296f9b7093dc498a2b479b2d4bd4826514f4f574c09cf8"
+    },
+    {
+      "bytes": 1026696,
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v008/B202_B_v008.png",
+      "sha256": "eeb2a36caf6c8d8184c047bb0e90565af588f882a564202b61dc3fea2595fb7d"
+    },
+    {
+      "bytes": 1018184,
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v008/B202_C_v008.png",
+      "sha256": "b4bc343c40f5e877e5076eaf5fef1a83218ed0d51798d3db0bc0591ab0a1cab1"
+    },
+    {
+      "bytes": 1004260,
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v008/B202_D_v008.png",
+      "sha256": "7e9edf0e5ef67ad0c36d4cc70c1f8019de392b1239b7ce6ba603bba3f4c2036b"
+    },
+    {
+      "bytes": 1041589,
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v008/B202_E_v008.png",
+      "sha256": "338d1acd0e6c26b0a0cae49af8a6acf01aa982125cdafcbf5028c5b1e7f17c97"
+    },
+    {
+      "bytes": 1032116,
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v008/B202_F_v008.png",
+      "sha256": "a84e09e4e4168b15b507f3c4ffd9cbb0c92624c24c0e0e0c3f2f90ff4b5e0c45"
+    }
+  ]
+}

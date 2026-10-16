@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-16",
+  "owner": "Radzi",
+  "scope": "D1 concept acceptance only: A/B/C v005; authorization to complete remaining B202-S still development and submit for Review",
+  "quote": "The Measured Envelope direction is accepted at D1 concept level. Please proceed with completing B202-S.",
+  "final_v008_acceptance": "pending Radzi review",
+  "engineering_approval": "not asserted",
+  "animation_authority": "T27/B202-M; no animation in T8",
+  "frames": [
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/Study_v005/B202_A_v005.png",
+      "sha256": "7d5c61911ad04ddd49ed2e0407e4a3883d884305ab6e3635e52751fc7dd5f6f1"
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/Study_v005/B202_B_v005.png",
+      "sha256": "0064f75f3c6f1b5feeb7c9f42ce18a344c53537f23d868c79a04777f57d1ec37"
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/Study_v005/B202_C_v005.png",
+      "sha256": "0849aff201e4e245e785dd60a175c7f6c6121fbb6166afa8c7c7268421b1e316"
+    }
+  ]
+}

@@ -1,5 +1,15 @@
 # B202 — The Measured Envelope / D1 study v005
 
+## Superseding execution amendment — B202-S review package v008
+
+Radzi reviewed A/B/C v005 and accepted **The Measured Envelope at D1 concept level** in this chat on 16 October 2026. Authorized all remaining still development, reusable mechanisms/controls, verification and T27 handover; final package must be submitted for Review. This supersedes the pending-D1/detailed-build holds below, which are retained as study history. No final exact-v006 visual or engineering approval is asserted.
+
+Retain registered circumference, actual T6 reconstructed depth geometry and white nominal comparison. Improve B separation by permitting hardware/physical-wall visibility to be reduced or disabled independently; never expand the measured surface to make room. Add separate clearance-safe red undersize and T6 spiral examples, and independent illustrative yellow/brown amplitude. All are mechanism assets, not locked cinematic frames. Camera choreography, complete scanning→circumference→depth→geometry reveal and motion are explicitly T27/B202-M; no animation in T8.
+
+Delivered for review: reusable master v008 plus exact A–F still consumers, source geometry tables, separate quantity attributes/materials, tool travel/rotation and world-fixed measurements, depth/azimuth reveal controls with no keyframes. Tight profile preserves a conservative 1.9749mm full-envelope centered radial clearance and is labeled a local undersize illustration; no bit-gauge passage or dynamic safety claim. Exact versions/hashes and remaining technical limits are in T8 report/handover. B206 questions remain source/interpretation review, not new blanket construction gates.
+
+v008 keeps A's registered sensor-plane contour, makes B's full source-shaped envelope visible with hardware/rock disabled independently, and retains C's white nominal comparison in a narrow source-geometry band. D uses a separate bounded red undersize; E preserves T6 spiral geometry; F has its own independent yellow/brown scalar/material. All are mechanisms at source scale, not locked film compositions. v006/v007 local iterations exposed clutter/cropping and a cyclic-curve trim limitation. v008 uses explicit closing segments with working azimuth trim; no source geometry change. Review camera stills are neither timing nor acquisition-order prescriptions. T27 owns motion phrasing and the full reveal progression; B3 owns film integration.
+
 16 October 2026. T8 `53fb67d1-e3cb-480e-a910-a544338a4470`. Experimental compositions authorized by live ticket; no still/engineering approval. v003 distinguishes this restart from removed v001/v002.
 
 **Purpose.** Unseen wall becomes knowable: circumference → depth envelope → comparison. Geometry is the payoff. These are B2 key states, not S03 shot contracts or animation.
