@@ -89,3 +89,7 @@ v012 explicitly unapproved. Camera/tool unchanged. Modestly brighten thin cap; a
 ## Still03 v014 — focused material refinement
 
 Owner requests one final focused pass, without approval yet. Preserve camera/composition/tool/wall/lights. Retain exact causal sphere-wall contact; per-cell delay and maturation show progressive registration after local arrival. Incomplete edges, varied density/brightness, geological erosion and irregular mask avoid a screen. Blend cyan into textured rock material and reduce/break clean contact border. Slight lift to leading membrane only; no thickness/refraction. Editable procedural parameters, no keyframes or finishing. Human visual approval pending.
+
+## Still03 v015 — Option B micro-polish
+
+Radzi directionally approves v014, explicitly retaining final visual review. Preserve v014 exact scene/image. One bounded polish: slightly broader/less vertically uniform influence, stronger geological edge variation, contact-centered brightness/density/completeness falloff; leading membrane emission +5 percent, opacity unchanged. Camera/composition/product/wall/lights and actual contact unchanged. No next beat or animation until final still review.

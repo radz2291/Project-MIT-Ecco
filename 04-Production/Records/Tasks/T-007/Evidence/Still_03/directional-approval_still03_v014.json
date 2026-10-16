@@ -1,0 +1,12 @@
+{
+  "authority": "Radzi direct chat instruction: T7 Still03 Final Micro-Polish Option B",
+  "exact_statement": "The latest output is now approved directionally.",
+  "candidate_scene": "Mechanisms\\B201\\Scenes\\B201_wall-interaction_still03_v014.blend",
+  "candidate_image": "Mechanisms\\B201\\Previews\\Still_03\\B201_wall-interaction_still03_v014.png",
+  "scene_sha256": "ceabbd0caed0bb072bd13a3b44b65bea3603f2338c0f0de124fd226573457711",
+  "image_sha256": "e52cb3492ffbd8951e4e1b83c3b4c8895dcac066bab0c13c40c80c264d7c3b95",
+  "approval_scope": "Spherical-cap membrane, digital patch scan, spatial depth and wall interaction direction only",
+  "final_still_approval": false,
+  "animation_authorized": false,
+  "next_action": "One micro-polished Still03 v015 for final visual review; preserve v014"
+}
