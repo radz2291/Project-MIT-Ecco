@@ -97,3 +97,7 @@ Radzi directionally approves v014, explicitly retaining final visual review. Pre
 ## Still03 v016 — owner-requested patch coverage
 
 v015 directionally approved, final acceptance pending. One width-led expansion target +35 percent, height fixed. Preserve camera/composition/tool/wall/membrane shape and material/actual intersection/lights. Keep rock texture, irregular boundary and contact-to-edge gradient. Cinematic surface registration expands laterally from original contact separately from acoustic geometry; editable acquisition_growth 0..1 provided without animation. Retain exact v015 for comparison. No Still04 or animation before Still03 review.
+
+## Still03 v017 — individual cell-size clarification
+
+Radzi clarifies with red coarse-grid sketch: enlarge individual grid cells, not merely coverage. Primary spacing 1.5→4.5mm; secondary 3.6mm removes tiny subgrid. Red is annotation, retain cyan. Preserve patch coverage, camera/composition/tool/wall/membrane/contact/lights and v016 comparison. Actual physical measurement resolution not claimed. No next beat or motion before exact still approval.
