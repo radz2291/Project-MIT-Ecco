@@ -1,6 +1,10 @@
 # B201 — Scene Direction Contract
 
-## Current motion score — organic contact refinement v004
+## Current motion score — constant-speed contact v005
+
+Radzi accepts v004 overall but rejects the outgoing wave's ease-out approaching the surface. Remove that deceleration only: the outgoing front now travels at the same speed before, at and beyond contact. The wall remains driven by the same spatial intersection. Convert signed propagation distance to contact age with the actual per-station speed so the organic cell maturation/decay keeps its duration. Camera, source geometry, emerald return and receiving event are preserved. Still05 remains excluded. Verify actual saved-frame displacement across contact and submit the moving candidate for review.
+
+### Preserved v004 direction
 
 Radzi approves a bounded motion refinement: surface interaction must flow naturally from the wave, without being locked to the still layout. Preserve v002 for comparison, camera, source geometry and semantic colors; Still05 remains excluded. Apply Scene Director V03 cause/event/result through one shared spatial contact field. The sphere intersects actual rock, cells mature locally with stable variation and decay by local contact age; the emerald return grows from the same ray/rock origin while acquisition settles. The approach eases continuously into the readable post-contact sweep; this is an illustrative visual timing choice, not a physical simulation. Review the moving candidate before accepting its look.
 

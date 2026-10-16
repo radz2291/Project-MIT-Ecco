@@ -1,0 +1,2582 @@
+{
+  "scene": "Mechanisms\\B201\\Scenes\\B201_pulse-echo_fast-preview_v005.blend",
+  "scene_sha256": "b1f5cc6c892835517c0c0e77636d0e75f1adbff657eb342f24bd55714c1f7175",
+  "source_still04_sha256": "0968bff9f92bc71991daeb83406ef107fcd34778a18617d3aea609aaed03216c",
+  "inputs": {
+    "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "product_instances": [
+    {
+      "source": "ECCO_HOUSING_SOURCE_MESH",
+      "consumer": "PREVIEW | ECCO_HOUSING_SOURCE_MESH",
+      "vertices": 348876,
+      "matrix": [
+        [
+          0.0010000000474974513,
+          0.0,
+          0.0,
+          2.069999933242798
+        ],
+        [
+          0.0,
+          0.0005150380893610418,
+          -0.000857167353387922,
+          0.0
+        ],
+        [
+          0.0,
+          0.000857167353387922,
+          0.0005150380893610418,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "source": "TEMP | Service port 3 | removable metal plug",
+      "consumer": "PREVIEW | TEMP | Service port 3 | removable metal plug",
+      "vertices": 512,
+      "matrix": [
+        [
+          7.549790126404332e-08,
+          1.0,
+          -1.5099580252808664e-07,
+          2.979799747467041
+        ],
+        [
+          0.515038013458252,
+          9.054437555278128e-08,
+          0.8571673035621643,
+          0.1158890500664711
+        ],
+        [
+          0.8571673035621643,
+          -1.4248291790863732e-07,
+          -0.515038013458252,
+          -0.06963317096233368
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "source": "TEMP | Service port 2 | removable metal plug",
+      "consumer": "PREVIEW | TEMP | Service port 2 | removable metal plug",
+      "vertices": 512,
+      "matrix": [
+        [
+          -2.1855694143368964e-08,
+          1.0,
+          4.643852236085877e-08,
+          2.97979998588562
+        ],
+        [
+          0.4848096966743469,
+          5.121189161627626e-08,
+          -0.874619722366333,
+          -0.11824855208396912
+        ],
+        [
+          -0.874619722366333,
+          3.3984246528007134e-09,
+          -0.4848096966743469,
+          -0.06554628908634186
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "source": "TEMP | Service port 1 | removable metal plug",
+      "consumer": "PREVIEW | TEMP | Service port 1 | removable metal plug",
+      "vertices": 512,
+      "matrix": [
+        [
+          9.735359185469861e-08,
+          1.0,
+          -8.432768083821429e-08,
+          2.97979998588562
+        ],
+        [
+          -0.9998477101325989,
+          9.881048868010112e-08,
+          0.01745244860649109,
+          0.0023595988750457764
+        ],
+        [
+          0.01745244860649109,
+          8.261577733037484e-08,
+          0.9998477101325989,
+          0.13517938554286957
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "source": "TEMP | Service cover 3 | removable fitted plate",
+      "consumer": "PREVIEW | TEMP | Service cover 3 | removable fitted plate",
+      "vertices": 152,
+      "matrix": [
+        [
+          1.3809523582458496,
+          1.1920996398596962e-21,
+          3.552713678800501e-15,
+          2.698349952697754
+        ],
+        [
+          -4.2053728934506734e-15,
+          -0.7630191445350647,
+          0.8571673631668091,
+          0.11205178499221802
+        ],
+        [
+          2.5268430655023743e-15,
+          -1.269877552986145,
+          -0.5150379538536072,
+          -0.06732750684022903
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "source": "TEMP | Service cover 2 | removable fitted plate",
+      "consumer": "PREVIEW | TEMP | Service cover 2 | removable fitted plate",
+      "vertices": 152,
+      "matrix": [
+        [
+          1.3809523582458496,
+          -3.0387556857467465e-15,
+          -3.5527132552840273e-15,
+          2.698349952697754
+        ],
+        [
+          -5.664245690594014e-15,
+          -0.7182364463806152,
+          -0.874619722366333,
+          -0.11433352530002594
+        ],
+        [
+          9.886970901002139e-17,
+          1.2957327365875244,
+          -0.4848096966743469,
+          -0.06337614357471466
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "source": "TEMP | Service cover 1 | removable fitted plate",
+      "consumer": "PREVIEW | TEMP | Service cover 1 | removable fitted plate",
+      "vertices": 152,
+      "matrix": [
+        [
+          1.3809523582458496,
+          3.0387556857467465e-15,
+          -3.5527132552840273e-15,
+          2.698349952697754
+        ],
+        [
+          -2.7464992492743853e-15,
+          1.4812557697296143,
+          0.01745244860649109,
+          0.002281472086906433
+        ],
+        [
+          4.954815786720017e-15,
+          -0.02585548162460327,
+          0.9998477101325989,
+          0.13070344924926758
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "source": "TEMP | Imaging port 3 | removable acoustic cap",
+      "consumer": "PREVIEW | TEMP | Imaging port 3 | removable acoustic cap",
+      "vertices": 512,
+      "matrix": [
+        [
+          1.609148512216052e-07,
+          1.0,
+          5.069586350714417e-08,
+          2.799999952316284
+        ],
+        [
+          0.3746066093444824,
+          -1.0728415844596384e-07,
+          0.9271838665008545,
+          0.12053393572568893
+        ],
+        [
+          0.9271838665008545,
+          -1.3020665790008934e-07,
+          -0.3746066093444824,
+          -0.04869887977838516
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "source": "TEMP | Imaging port 2 | removable acoustic cap",
+      "consumer": "PREVIEW | TEMP | Imaging port 2 | removable acoustic cap",
+      "vertices": 512,
+      "matrix": [
+        [
+          -5.838557370907438e-08,
+          1.0,
+          -1.4011152416060213e-07,
+          2.799999952316284
+        ],
+        [
+          0.6156613826751709,
+          -7.446365657415299e-08,
+          -0.788010835647583,
+          -0.10244137048721313
+        ],
+        [
+          -0.788010835647583,
+          -1.322697187333688e-07,
+          -0.6156613826751709,
+          -0.08003601431846619
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "source": "TEMP | Imaging port 1 | removable acoustic cap",
+      "consumer": "PREVIEW | TEMP | Imaging port 1 | removable acoustic cap",
+      "vertices": 512,
+      "matrix": [
+        [
+          4.751235493927197e-08,
+          1.0,
+          -6.145644704247388e-08,
+          2.799999952316284
+        ],
+        [
+          -0.9902681112289429,
+          3.849689633739217e-08,
+          -0.13917288184165955,
+          -0.018092483282089233
+        ],
+        [
+          -0.13917288184165955,
+          6.747078629132375e-08,
+          0.9902681112289429,
+          0.12873482704162598
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "cycle": 1,
+      "start": 1,
+      "end": 80,
+      "rotation_degrees": 0,
+      "emit_frame": 8,
+      "contact_frame": 28,
+      "receive_frame": 48,
+      "leg_frames": 20,
+      "receiver": [
+        2.799999952316284,
+        -0.018231673166155815,
+        0.12972509860992432
+      ],
+      "wall": [
+        2.799999952316284,
+        -0.02468518167734146,
+        0.175644189119339
+      ],
+      "standoff_m": 0.04637036490143733,
+      "ray_error_m": 0.0
+    },
+    {
+      "cycle": 2,
+      "start": 81,
+      "end": 160,
+      "rotation_degrees": 6,
+      "emit_frame": 88,
+      "contact_frame": 107,
+      "receive_frame": 126,
+      "leg_frames": 19,
+      "receiver": [
+        2.799999952316284,
+        -0.0316917784512043,
+        0.12710872292518616
+      ],
+      "wall": [
+        2.799999952316284,
+        -0.04218965023756027,
+        0.16921336948871613
+      ],
+      "standoff_m": 0.04339362383111321,
+      "ray_error_m": 0.0
+    },
+    {
+      "cycle": 3,
+      "start": 161,
+      "end": 240,
+      "rotation_degrees": 12,
+      "emit_frame": 168,
+      "contact_frame": 185,
+      "receive_frame": 202,
+      "leg_frames": 17,
+      "receiver": [
+        2.799999952316284,
+        -0.04480463266372681,
+        0.12309972196817398
+      ],
+      "wall": [
+        2.799999952316284,
+        -0.05847685784101486,
+        0.16066384315490723
+      ],
+      "standoff_m": 0.03997490448439038,
+      "ray_error_m": 0.0
+    }
+  ],
+  "camera": {
+    "location": [
+      2.700000047683716,
+      -0.028798112645745277,
+      0.1474268138408661
+    ],
+    "rotation": [
+      -1.2595170736312866,
+      -1.7170506715774536,
+      1.3369853496551514
+    ],
+    "lens_mm": 27.0
+  },
+  "fps": 24,
+  "frames": 240,
+  "duration_seconds": 10,
+  "resolution": [
+    960,
+    540
+  ],
+  "engine": "BLENDER_EEVEE",
+  "samples": 32,
+  "Still05_included": false,
+  "waveform_included": false,
+  "physical_time_claim": false,
+  "frozen_geometry_consumer": true,
+  "preview_quality_changes": "EEVEE blended transparency, reduced metal/shadows for readable fast preview; original stills/masters untouched",
+  "authoring_states": [
+    {
+      "frame": 1,
+      "cycle": 1,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 2,
+      "cycle": 1,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 3,
+      "cycle": 1,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 4,
+      "cycle": 1,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 5,
+      "cycle": 1,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 6,
+      "cycle": 1,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 7,
+      "cycle": 1,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.5,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 8,
+      "cycle": 1,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 1.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 9,
+      "cycle": 1,
+      "outgoing_radius_m": 0.0023185182450718668,
+      "return_radius_m": 0,
+      "transmit": 1.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 10,
+      "cycle": 1,
+      "outgoing_radius_m": 0.0046370364901437335,
+      "return_radius_m": 0,
+      "transmit": 1.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 11,
+      "cycle": 1,
+      "outgoing_radius_m": 0.006955554735215599,
+      "return_radius_m": 0,
+      "transmit": 0.9259259259259259,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 12,
+      "cycle": 1,
+      "outgoing_radius_m": 0.009274072980287467,
+      "return_radius_m": 0,
+      "transmit": 0.7407407407407407,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 13,
+      "cycle": 1,
+      "outgoing_radius_m": 0.011592591225359333,
+      "return_radius_m": 0,
+      "transmit": 0.5,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 14,
+      "cycle": 1,
+      "outgoing_radius_m": 0.013911109470431199,
+      "return_radius_m": 0,
+      "transmit": 0.2592592592592593,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 15,
+      "cycle": 1,
+      "outgoing_radius_m": 0.016229627715503066,
+      "return_radius_m": 0,
+      "transmit": 0.07407407407407396,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 16,
+      "cycle": 1,
+      "outgoing_radius_m": 0.018548145960574934,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 17,
+      "cycle": 1,
+      "outgoing_radius_m": 0.020866664205646798,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 18,
+      "cycle": 1,
+      "outgoing_radius_m": 0.023185182450718666,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 19,
+      "cycle": 1,
+      "outgoing_radius_m": 0.025503700695790534,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 20,
+      "cycle": 1,
+      "outgoing_radius_m": 0.027822218940862398,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 21,
+      "cycle": 1,
+      "outgoing_radius_m": 0.030140737185934265,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 22,
+      "cycle": 1,
+      "outgoing_radius_m": 0.03245925543100613,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 23,
+      "cycle": 1,
+      "outgoing_radius_m": 0.034777773676078,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 24,
+      "cycle": 1,
+      "outgoing_radius_m": 0.03709629192114987,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 25,
+      "cycle": 1,
+      "outgoing_radius_m": 0.03941481016622173,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 26,
+      "cycle": 1,
+      "outgoing_radius_m": 0.041733328411293596,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 27,
+      "cycle": 1,
+      "outgoing_radius_m": 0.04405184665636546,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 28,
+      "cycle": 1,
+      "outgoing_radius_m": 0.04637036490143733,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 29,
+      "cycle": 1,
+      "outgoing_radius_m": 0.0486888831465092,
+      "return_radius_m": 0.0023185182450718668,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 30,
+      "cycle": 1,
+      "outgoing_radius_m": 0.05100740139158107,
+      "return_radius_m": 0.0046370364901437335,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 31,
+      "cycle": 1,
+      "outgoing_radius_m": 0.053325919636652924,
+      "return_radius_m": 0.006955554735215599,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 32,
+      "cycle": 1,
+      "outgoing_radius_m": 0.055644437881724795,
+      "return_radius_m": 0.009274072980287467,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 33,
+      "cycle": 1,
+      "outgoing_radius_m": 0.057962956126796666,
+      "return_radius_m": 0.011592591225359333,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 34,
+      "cycle": 1,
+      "outgoing_radius_m": 0.06028147437186853,
+      "return_radius_m": 0.013911109470431199,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 35,
+      "cycle": 1,
+      "outgoing_radius_m": 0.06259999261694041,
+      "return_radius_m": 0.016229627715503066,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 36,
+      "cycle": 1,
+      "outgoing_radius_m": 0.06491851086201227,
+      "return_radius_m": 0.018548145960574934,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 37,
+      "cycle": 1,
+      "outgoing_radius_m": 0.06723702910708412,
+      "return_radius_m": 0.020866664205646798,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 38,
+      "cycle": 1,
+      "outgoing_radius_m": 0.069555547352156,
+      "return_radius_m": 0.023185182450718666,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 39,
+      "cycle": 1,
+      "outgoing_radius_m": 0.07187406559722787,
+      "return_radius_m": 0.025503700695790534,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 40,
+      "cycle": 1,
+      "outgoing_radius_m": 0.07419258384229974,
+      "return_radius_m": 0.027822218940862398,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 41,
+      "cycle": 1,
+      "outgoing_radius_m": 0.0765111020873716,
+      "return_radius_m": 0.030140737185934265,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 42,
+      "cycle": 1,
+      "outgoing_radius_m": 0.07882962033244346,
+      "return_radius_m": 0.03245925543100613,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 43,
+      "cycle": 1,
+      "outgoing_radius_m": 0.08114813857751534,
+      "return_radius_m": 0.034777773676078,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 44,
+      "cycle": 1,
+      "outgoing_radius_m": 0.08346665682258719,
+      "return_radius_m": 0.03709629192114987,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 45,
+      "cycle": 1,
+      "outgoing_radius_m": 0.08578517506765906,
+      "return_radius_m": 0.03941481016622173,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 46,
+      "cycle": 1,
+      "outgoing_radius_m": 0.08810369331273092,
+      "return_radius_m": 0.041733328411293596,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 47,
+      "cycle": 1,
+      "outgoing_radius_m": 0.09042221155780279,
+      "return_radius_m": 0.04405184665636546,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 48,
+      "cycle": 1,
+      "outgoing_radius_m": 0.09274072980287466,
+      "return_radius_m": 0.04637036490143733,
+      "transmit": 0.0,
+      "receive": 0.5,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 49,
+      "cycle": 1,
+      "outgoing_radius_m": 0.09505924804794652,
+      "return_radius_m": 0.0486888831465092,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 50,
+      "cycle": 1,
+      "outgoing_radius_m": 0.0973777662930184,
+      "return_radius_m": 0.05100740139158107,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 51,
+      "cycle": 1,
+      "outgoing_radius_m": 0.09969628453809026,
+      "return_radius_m": 0.053325919636652924,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 52,
+      "cycle": 1,
+      "outgoing_radius_m": 0.10201480278316213,
+      "return_radius_m": 0.055644437881724795,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 53,
+      "cycle": 1,
+      "outgoing_radius_m": 0.10433332102823399,
+      "return_radius_m": 0.057962956126796666,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 54,
+      "cycle": 1,
+      "outgoing_radius_m": 0.10665183927330585,
+      "return_radius_m": 0.06028147437186853,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 55,
+      "cycle": 1,
+      "outgoing_radius_m": 0.10897035751837773,
+      "return_radius_m": 0.06259999261694041,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 56,
+      "cycle": 1,
+      "outgoing_radius_m": 0.11128887576344959,
+      "return_radius_m": 0.06491851086201227,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 57,
+      "cycle": 1,
+      "outgoing_radius_m": 0.11360739400852148,
+      "return_radius_m": 0.06723702910708412,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 58,
+      "cycle": 1,
+      "outgoing_radius_m": 0.11592591225359333,
+      "return_radius_m": 0.069555547352156,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 59,
+      "cycle": 1,
+      "outgoing_radius_m": 0.11824443049866519,
+      "return_radius_m": 0.07187406559722787,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 60,
+      "cycle": 1,
+      "outgoing_radius_m": 0.12056294874373706,
+      "return_radius_m": 0.07419258384229974,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 61,
+      "cycle": 1,
+      "outgoing_radius_m": 0.12288146698880892,
+      "return_radius_m": 0.0765111020873716,
+      "transmit": 0.0,
+      "receive": 0.9657064471879286,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 62,
+      "cycle": 1,
+      "outgoing_radius_m": 0.12519998523388082,
+      "return_radius_m": 0.07882962033244346,
+      "transmit": 0.0,
+      "receive": 0.8737997256515775,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 63,
+      "cycle": 1,
+      "outgoing_radius_m": 0.12751850347895266,
+      "return_radius_m": 0.08114813857751534,
+      "transmit": 0.0,
+      "receive": 0.7407407407407407,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 64,
+      "cycle": 1,
+      "outgoing_radius_m": 0.12983702172402453,
+      "return_radius_m": 0.08346665682258719,
+      "transmit": 0.0,
+      "receive": 0.5829903978052127,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 65,
+      "cycle": 1,
+      "outgoing_radius_m": 0.1321555399690964,
+      "return_radius_m": 0.08578517506765906,
+      "transmit": 0.0,
+      "receive": 0.41700960219478733,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 66,
+      "cycle": 1,
+      "outgoing_radius_m": 0.13447405821416825,
+      "return_radius_m": 0.08810369331273092,
+      "transmit": 0.0,
+      "receive": 0.2592592592592593,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 67,
+      "cycle": 1,
+      "outgoing_radius_m": 0.13679257645924014,
+      "return_radius_m": 0.09042221155780279,
+      "transmit": 0.0,
+      "receive": 0.12620027434842251,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 68,
+      "cycle": 1,
+      "outgoing_radius_m": 0.139111094704312,
+      "return_radius_m": 0.09274072980287466,
+      "transmit": 0.0,
+      "receive": 0.03429355281207136,
+      "patch_fade": 0.896
+    },
+    {
+      "frame": 69,
+      "cycle": 1,
+      "outgoing_radius_m": 0.14142961294938386,
+      "return_radius_m": 0.09505924804794652,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.6479999999999999
+    },
+    {
+      "frame": 70,
+      "cycle": 1,
+      "outgoing_radius_m": 0.14374813119445573,
+      "return_radius_m": 0.0973777662930184,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.352
+    },
+    {
+      "frame": 71,
+      "cycle": 1,
+      "outgoing_radius_m": 0.1460666494395276,
+      "return_radius_m": 0.09969628453809026,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.10399999999999987
+    },
+    {
+      "frame": 72,
+      "cycle": 1,
+      "outgoing_radius_m": 0.14803396334747423,
+      "return_radius_m": 0.10177334980138854,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 73,
+      "cycle": 1,
+      "outgoing_radius_m": 0.1494297579603114,
+      "return_radius_m": 0.1034513708956002,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 74,
+      "cycle": 1,
+      "outgoing_radius_m": 0.1504810601270586,
+      "return_radius_m": 0.10488073887643479,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 75,
+      "cycle": 1,
+      "outgoing_radius_m": 0.15124578242588846,
+      "return_radius_m": 0.10609778767189192,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 76,
+      "cycle": 1,
+      "outgoing_radius_m": 0.1519101787624377,
+      "return_radius_m": 0.10723071442054426,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 77,
+      "cycle": 1,
+      "outgoing_radius_m": 0.15251327638562237,
+      "return_radius_m": 0.10830652960718111,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 78,
+      "cycle": 1,
+      "outgoing_radius_m": 0.1532033574748265,
+      "return_radius_m": 0.10943096962487606,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 79,
+      "cycle": 1,
+      "outgoing_radius_m": 0.154401485002442,
+      "return_radius_m": 0.11090810894541608,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 80,
+      "cycle": 1,
+      "outgoing_radius_m": 0.15621704579200757,
+      "return_radius_m": 0.11282342196089436,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 81,
+      "cycle": 2,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 82,
+      "cycle": 2,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 83,
+      "cycle": 2,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 84,
+      "cycle": 2,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 85,
+      "cycle": 2,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 86,
+      "cycle": 2,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 87,
+      "cycle": 2,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.5,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 88,
+      "cycle": 2,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 1.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 89,
+      "cycle": 2,
+      "outgoing_radius_m": 0.0022838749384796425,
+      "return_radius_m": 0,
+      "transmit": 1.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 90,
+      "cycle": 2,
+      "outgoing_radius_m": 0.004567749876959285,
+      "return_radius_m": 0,
+      "transmit": 1.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 91,
+      "cycle": 2,
+      "outgoing_radius_m": 0.006851624815438928,
+      "return_radius_m": 0,
+      "transmit": 0.9259259259259259,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 92,
+      "cycle": 2,
+      "outgoing_radius_m": 0.00913549975391857,
+      "return_radius_m": 0,
+      "transmit": 0.7407407407407407,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 93,
+      "cycle": 2,
+      "outgoing_radius_m": 0.011419374692398213,
+      "return_radius_m": 0,
+      "transmit": 0.5,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 94,
+      "cycle": 2,
+      "outgoing_radius_m": 0.013703249630877856,
+      "return_radius_m": 0,
+      "transmit": 0.2592592592592593,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 95,
+      "cycle": 2,
+      "outgoing_radius_m": 0.015987124569357497,
+      "return_radius_m": 0,
+      "transmit": 0.07407407407407396,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 96,
+      "cycle": 2,
+      "outgoing_radius_m": 0.01827099950783714,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 97,
+      "cycle": 2,
+      "outgoing_radius_m": 0.020554874446316783,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 98,
+      "cycle": 2,
+      "outgoing_radius_m": 0.022838749384796426,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 99,
+      "cycle": 2,
+      "outgoing_radius_m": 0.025122624323276072,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 100,
+      "cycle": 2,
+      "outgoing_radius_m": 0.02740649926175571,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 101,
+      "cycle": 2,
+      "outgoing_radius_m": 0.029690374200235358,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 102,
+      "cycle": 2,
+      "outgoing_radius_m": 0.031974249138714994,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 103,
+      "cycle": 2,
+      "outgoing_radius_m": 0.03425812407719464,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 104,
+      "cycle": 2,
+      "outgoing_radius_m": 0.03654199901567428,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 105,
+      "cycle": 2,
+      "outgoing_radius_m": 0.038825873954153926,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 106,
+      "cycle": 2,
+      "outgoing_radius_m": 0.041109748892633566,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 107,
+      "cycle": 2,
+      "outgoing_radius_m": 0.04339362383111321,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 108,
+      "cycle": 2,
+      "outgoing_radius_m": 0.04567749876959285,
+      "return_radius_m": 0.0022838749384796425,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 109,
+      "cycle": 2,
+      "outgoing_radius_m": 0.047961373708072505,
+      "return_radius_m": 0.004567749876959285,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 110,
+      "cycle": 2,
+      "outgoing_radius_m": 0.050245248646552144,
+      "return_radius_m": 0.006851624815438928,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 111,
+      "cycle": 2,
+      "outgoing_radius_m": 0.052529123585031784,
+      "return_radius_m": 0.00913549975391857,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 112,
+      "cycle": 2,
+      "outgoing_radius_m": 0.05481299852351142,
+      "return_radius_m": 0.011419374692398213,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 113,
+      "cycle": 2,
+      "outgoing_radius_m": 0.05709687346199107,
+      "return_radius_m": 0.013703249630877856,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 114,
+      "cycle": 2,
+      "outgoing_radius_m": 0.059380748400470716,
+      "return_radius_m": 0.015987124569357497,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 115,
+      "cycle": 2,
+      "outgoing_radius_m": 0.061664623338950356,
+      "return_radius_m": 0.01827099950783714,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 116,
+      "cycle": 2,
+      "outgoing_radius_m": 0.06394849827742999,
+      "return_radius_m": 0.020554874446316783,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 117,
+      "cycle": 2,
+      "outgoing_radius_m": 0.06623237321590965,
+      "return_radius_m": 0.022838749384796426,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 118,
+      "cycle": 2,
+      "outgoing_radius_m": 0.06851624815438928,
+      "return_radius_m": 0.025122624323276072,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 119,
+      "cycle": 2,
+      "outgoing_radius_m": 0.07080012309286893,
+      "return_radius_m": 0.02740649926175571,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 120,
+      "cycle": 2,
+      "outgoing_radius_m": 0.07308399803134856,
+      "return_radius_m": 0.029690374200235358,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 121,
+      "cycle": 2,
+      "outgoing_radius_m": 0.07536787296982822,
+      "return_radius_m": 0.031974249138714994,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 122,
+      "cycle": 2,
+      "outgoing_radius_m": 0.07765174790830785,
+      "return_radius_m": 0.03425812407719464,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 123,
+      "cycle": 2,
+      "outgoing_radius_m": 0.0799356228467875,
+      "return_radius_m": 0.03654199901567428,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 124,
+      "cycle": 2,
+      "outgoing_radius_m": 0.08221949778526713,
+      "return_radius_m": 0.038825873954153926,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 125,
+      "cycle": 2,
+      "outgoing_radius_m": 0.08450337272374678,
+      "return_radius_m": 0.041109748892633566,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 126,
+      "cycle": 2,
+      "outgoing_radius_m": 0.08678724766222642,
+      "return_radius_m": 0.04339362383111321,
+      "transmit": 0.0,
+      "receive": 0.5,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 127,
+      "cycle": 2,
+      "outgoing_radius_m": 0.08907112260070607,
+      "return_radius_m": 0.04567749876959285,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 128,
+      "cycle": 2,
+      "outgoing_radius_m": 0.0913549975391857,
+      "return_radius_m": 0.047961373708072505,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 129,
+      "cycle": 2,
+      "outgoing_radius_m": 0.09363887247766535,
+      "return_radius_m": 0.050245248646552144,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 130,
+      "cycle": 2,
+      "outgoing_radius_m": 0.09592274741614501,
+      "return_radius_m": 0.052529123585031784,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 131,
+      "cycle": 2,
+      "outgoing_radius_m": 0.09820662235462463,
+      "return_radius_m": 0.05481299852351142,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 132,
+      "cycle": 2,
+      "outgoing_radius_m": 0.10049049729310429,
+      "return_radius_m": 0.05709687346199107,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 133,
+      "cycle": 2,
+      "outgoing_radius_m": 0.10277437223158392,
+      "return_radius_m": 0.059380748400470716,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 134,
+      "cycle": 2,
+      "outgoing_radius_m": 0.10505824717006357,
+      "return_radius_m": 0.061664623338950356,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 135,
+      "cycle": 2,
+      "outgoing_radius_m": 0.10734212210854321,
+      "return_radius_m": 0.06394849827742999,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 136,
+      "cycle": 2,
+      "outgoing_radius_m": 0.10962599704702285,
+      "return_radius_m": 0.06623237321590965,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 137,
+      "cycle": 2,
+      "outgoing_radius_m": 0.1119098719855025,
+      "return_radius_m": 0.06851624815438928,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 138,
+      "cycle": 2,
+      "outgoing_radius_m": 0.11419374692398214,
+      "return_radius_m": 0.07080012309286893,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 139,
+      "cycle": 2,
+      "outgoing_radius_m": 0.11647762186246177,
+      "return_radius_m": 0.07308399803134856,
+      "transmit": 0.0,
+      "receive": 0.9657064471879286,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 140,
+      "cycle": 2,
+      "outgoing_radius_m": 0.11876149680094143,
+      "return_radius_m": 0.07536787296982822,
+      "transmit": 0.0,
+      "receive": 0.8737997256515775,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 141,
+      "cycle": 2,
+      "outgoing_radius_m": 0.12104537173942105,
+      "return_radius_m": 0.07765174790830785,
+      "transmit": 0.0,
+      "receive": 0.7407407407407407,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 142,
+      "cycle": 2,
+      "outgoing_radius_m": 0.12332924667790071,
+      "return_radius_m": 0.0799356228467875,
+      "transmit": 0.0,
+      "receive": 0.5829903978052127,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 143,
+      "cycle": 2,
+      "outgoing_radius_m": 0.12561312161638036,
+      "return_radius_m": 0.08221949778526713,
+      "transmit": 0.0,
+      "receive": 0.41700960219478733,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 144,
+      "cycle": 2,
+      "outgoing_radius_m": 0.12789699655485998,
+      "return_radius_m": 0.08450337272374678,
+      "transmit": 0.0,
+      "receive": 0.2592592592592593,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 145,
+      "cycle": 2,
+      "outgoing_radius_m": 0.13018087149333962,
+      "return_radius_m": 0.08678724766222642,
+      "transmit": 0.0,
+      "receive": 0.12620027434842251,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 146,
+      "cycle": 2,
+      "outgoing_radius_m": 0.1324647464318193,
+      "return_radius_m": 0.08907112260070607,
+      "transmit": 0.0,
+      "receive": 0.03429355281207136,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 147,
+      "cycle": 2,
+      "outgoing_radius_m": 0.13474862137029892,
+      "return_radius_m": 0.0913549975391857,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 148,
+      "cycle": 2,
+      "outgoing_radius_m": 0.13703249630877856,
+      "return_radius_m": 0.09363887247766535,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.896
+    },
+    {
+      "frame": 149,
+      "cycle": 2,
+      "outgoing_radius_m": 0.1393163712472582,
+      "return_radius_m": 0.09592274741614501,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.6479999999999999
+    },
+    {
+      "frame": 150,
+      "cycle": 2,
+      "outgoing_radius_m": 0.14160024618573785,
+      "return_radius_m": 0.09820662235462463,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.352
+    },
+    {
+      "frame": 151,
+      "cycle": 2,
+      "outgoing_radius_m": 0.1438841211242175,
+      "return_radius_m": 0.10049049729310429,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.10399999999999987
+    },
+    {
+      "frame": 152,
+      "cycle": 2,
+      "outgoing_radius_m": 0.1457536888685618,
+      "return_radius_m": 0.1024830624857075,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 153,
+      "cycle": 2,
+      "outgoing_radius_m": 0.146944171958657,
+      "return_radius_m": 0.10399126015535727,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 154,
+      "cycle": 2,
+      "outgoing_radius_m": 0.1477127760706631,
+      "return_radius_m": 0.1051894011412298,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 155,
+      "cycle": 2,
+      "outgoing_radius_m": 0.1480861912303918,
+      "return_radius_m": 0.10609159968744486,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 156,
+      "cycle": 2,
+      "outgoing_radius_m": 0.14828143590337595,
+      "return_radius_m": 0.10684985822449149,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 157,
+      "cycle": 2,
+      "outgoing_radius_m": 0.14847324397722483,
+      "return_radius_m": 0.10758930722987307,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 158,
+      "cycle": 2,
+      "outgoing_radius_m": 0.14884361797919166,
+      "return_radius_m": 0.10844320738483963,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 159,
+      "cycle": 2,
+      "outgoing_radius_m": 0.14980017685062524,
+      "return_radius_m": 0.10971280558073962,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 160,
+      "cycle": 2,
+      "outgoing_radius_m": 0.1514838485724267,
+      "return_radius_m": 0.11150894408803631,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 161,
+      "cycle": 3,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 162,
+      "cycle": 3,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 163,
+      "cycle": 3,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 164,
+      "cycle": 3,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 165,
+      "cycle": 3,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 166,
+      "cycle": 3,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 167,
+      "cycle": 3,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 0.5,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 168,
+      "cycle": 3,
+      "outgoing_radius_m": 0,
+      "return_radius_m": 0,
+      "transmit": 1.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 169,
+      "cycle": 3,
+      "outgoing_radius_m": 0.0023514649696700224,
+      "return_radius_m": 0,
+      "transmit": 1.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 170,
+      "cycle": 3,
+      "outgoing_radius_m": 0.004702929939340045,
+      "return_radius_m": 0,
+      "transmit": 1.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 171,
+      "cycle": 3,
+      "outgoing_radius_m": 0.007054394909010068,
+      "return_radius_m": 0,
+      "transmit": 0.9259259259259259,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 172,
+      "cycle": 3,
+      "outgoing_radius_m": 0.00940585987868009,
+      "return_radius_m": 0,
+      "transmit": 0.7407407407407407,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 173,
+      "cycle": 3,
+      "outgoing_radius_m": 0.011757324848350112,
+      "return_radius_m": 0,
+      "transmit": 0.5,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 174,
+      "cycle": 3,
+      "outgoing_radius_m": 0.014108789818020136,
+      "return_radius_m": 0,
+      "transmit": 0.2592592592592593,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 175,
+      "cycle": 3,
+      "outgoing_radius_m": 0.016460254787690157,
+      "return_radius_m": 0,
+      "transmit": 0.07407407407407396,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 176,
+      "cycle": 3,
+      "outgoing_radius_m": 0.01881171975736018,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 177,
+      "cycle": 3,
+      "outgoing_radius_m": 0.0211631847270302,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 178,
+      "cycle": 3,
+      "outgoing_radius_m": 0.023514649696700224,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 179,
+      "cycle": 3,
+      "outgoing_radius_m": 0.025866114666370246,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 180,
+      "cycle": 3,
+      "outgoing_radius_m": 0.028217579636040272,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 181,
+      "cycle": 3,
+      "outgoing_radius_m": 0.030569044605710288,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 182,
+      "cycle": 3,
+      "outgoing_radius_m": 0.03292050957538031,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 183,
+      "cycle": 3,
+      "outgoing_radius_m": 0.035271974545050336,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 184,
+      "cycle": 3,
+      "outgoing_radius_m": 0.03762343951472036,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 185,
+      "cycle": 3,
+      "outgoing_radius_m": 0.03997490448439038,
+      "return_radius_m": 0,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 186,
+      "cycle": 3,
+      "outgoing_radius_m": 0.0423263694540604,
+      "return_radius_m": 0.0023514649696700224,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 187,
+      "cycle": 3,
+      "outgoing_radius_m": 0.044677834423730425,
+      "return_radius_m": 0.004702929939340045,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 188,
+      "cycle": 3,
+      "outgoing_radius_m": 0.04702929939340045,
+      "return_radius_m": 0.007054394909010068,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 189,
+      "cycle": 3,
+      "outgoing_radius_m": 0.04938076436307047,
+      "return_radius_m": 0.00940585987868009,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 190,
+      "cycle": 3,
+      "outgoing_radius_m": 0.05173222933274049,
+      "return_radius_m": 0.011757324848350112,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 191,
+      "cycle": 3,
+      "outgoing_radius_m": 0.054083694302410515,
+      "return_radius_m": 0.014108789818020136,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 192,
+      "cycle": 3,
+      "outgoing_radius_m": 0.056435159272080544,
+      "return_radius_m": 0.016460254787690157,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 193,
+      "cycle": 3,
+      "outgoing_radius_m": 0.05878662424175057,
+      "return_radius_m": 0.01881171975736018,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 194,
+      "cycle": 3,
+      "outgoing_radius_m": 0.061138089211420575,
+      "return_radius_m": 0.0211631847270302,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 195,
+      "cycle": 3,
+      "outgoing_radius_m": 0.0634895541810906,
+      "return_radius_m": 0.023514649696700224,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 196,
+      "cycle": 3,
+      "outgoing_radius_m": 0.06584101915076063,
+      "return_radius_m": 0.025866114666370246,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 197,
+      "cycle": 3,
+      "outgoing_radius_m": 0.06819248412043065,
+      "return_radius_m": 0.028217579636040272,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 198,
+      "cycle": 3,
+      "outgoing_radius_m": 0.07054394909010067,
+      "return_radius_m": 0.030569044605710288,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 199,
+      "cycle": 3,
+      "outgoing_radius_m": 0.0728954140597707,
+      "return_radius_m": 0.03292050957538031,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 200,
+      "cycle": 3,
+      "outgoing_radius_m": 0.07524687902944072,
+      "return_radius_m": 0.035271974545050336,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 201,
+      "cycle": 3,
+      "outgoing_radius_m": 0.07759834399911074,
+      "return_radius_m": 0.03762343951472036,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 202,
+      "cycle": 3,
+      "outgoing_radius_m": 0.07994980896878076,
+      "return_radius_m": 0.03997490448439038,
+      "transmit": 0.0,
+      "receive": 0.5,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 203,
+      "cycle": 3,
+      "outgoing_radius_m": 0.08230127393845077,
+      "return_radius_m": 0.0423263694540604,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 204,
+      "cycle": 3,
+      "outgoing_radius_m": 0.0846527389081208,
+      "return_radius_m": 0.044677834423730425,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 205,
+      "cycle": 3,
+      "outgoing_radius_m": 0.08700420387779081,
+      "return_radius_m": 0.04702929939340045,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 206,
+      "cycle": 3,
+      "outgoing_radius_m": 0.08935566884746085,
+      "return_radius_m": 0.04938076436307047,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 207,
+      "cycle": 3,
+      "outgoing_radius_m": 0.09170713381713087,
+      "return_radius_m": 0.05173222933274049,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 208,
+      "cycle": 3,
+      "outgoing_radius_m": 0.0940585987868009,
+      "return_radius_m": 0.054083694302410515,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 209,
+      "cycle": 3,
+      "outgoing_radius_m": 0.09641006375647092,
+      "return_radius_m": 0.056435159272080544,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 210,
+      "cycle": 3,
+      "outgoing_radius_m": 0.09876152872614094,
+      "return_radius_m": 0.05878662424175057,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 211,
+      "cycle": 3,
+      "outgoing_radius_m": 0.10111299369581096,
+      "return_radius_m": 0.061138089211420575,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 212,
+      "cycle": 3,
+      "outgoing_radius_m": 0.10346445866548099,
+      "return_radius_m": 0.0634895541810906,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 213,
+      "cycle": 3,
+      "outgoing_radius_m": 0.10581592363515101,
+      "return_radius_m": 0.06584101915076063,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 214,
+      "cycle": 3,
+      "outgoing_radius_m": 0.10816738860482103,
+      "return_radius_m": 0.06819248412043065,
+      "transmit": 0.0,
+      "receive": 1.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 215,
+      "cycle": 3,
+      "outgoing_radius_m": 0.11051885357449105,
+      "return_radius_m": 0.07054394909010067,
+      "transmit": 0.0,
+      "receive": 0.9657064471879286,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 216,
+      "cycle": 3,
+      "outgoing_radius_m": 0.11287031854416109,
+      "return_radius_m": 0.0728954140597707,
+      "transmit": 0.0,
+      "receive": 0.8737997256515775,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 217,
+      "cycle": 3,
+      "outgoing_radius_m": 0.1152217835138311,
+      "return_radius_m": 0.07524687902944072,
+      "transmit": 0.0,
+      "receive": 0.7407407407407407,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 218,
+      "cycle": 3,
+      "outgoing_radius_m": 0.11757324848350113,
+      "return_radius_m": 0.07759834399911074,
+      "transmit": 0.0,
+      "receive": 0.5829903978052127,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 219,
+      "cycle": 3,
+      "outgoing_radius_m": 0.11992471345317114,
+      "return_radius_m": 0.07994980896878076,
+      "transmit": 0.0,
+      "receive": 0.41700960219478733,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 220,
+      "cycle": 3,
+      "outgoing_radius_m": 0.12227617842284115,
+      "return_radius_m": 0.08230127393845077,
+      "transmit": 0.0,
+      "receive": 0.2592592592592593,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 221,
+      "cycle": 3,
+      "outgoing_radius_m": 0.12462764339251119,
+      "return_radius_m": 0.0846527389081208,
+      "transmit": 0.0,
+      "receive": 0.12620027434842251,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 222,
+      "cycle": 3,
+      "outgoing_radius_m": 0.1269791083621812,
+      "return_radius_m": 0.08700420387779081,
+      "transmit": 0.0,
+      "receive": 0.03429355281207136,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 223,
+      "cycle": 3,
+      "outgoing_radius_m": 0.12933057333185125,
+      "return_radius_m": 0.08935566884746085,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 224,
+      "cycle": 3,
+      "outgoing_radius_m": 0.13168203830152125,
+      "return_radius_m": 0.09170713381713087,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 225,
+      "cycle": 3,
+      "outgoing_radius_m": 0.1340335032711913,
+      "return_radius_m": 0.0940585987868009,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 226,
+      "cycle": 3,
+      "outgoing_radius_m": 0.1363849682408613,
+      "return_radius_m": 0.09641006375647092,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 227,
+      "cycle": 3,
+      "outgoing_radius_m": 0.13873643321053133,
+      "return_radius_m": 0.09876152872614094,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 1.0
+    },
+    {
+      "frame": 228,
+      "cycle": 3,
+      "outgoing_radius_m": 0.14108789818020134,
+      "return_radius_m": 0.10111299369581096,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.896
+    },
+    {
+      "frame": 229,
+      "cycle": 3,
+      "outgoing_radius_m": 0.14343936314987138,
+      "return_radius_m": 0.10346445866548099,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.6479999999999999
+    },
+    {
+      "frame": 230,
+      "cycle": 3,
+      "outgoing_radius_m": 0.1457908281195414,
+      "return_radius_m": 0.10581592363515101,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.352
+    },
+    {
+      "frame": 231,
+      "cycle": 3,
+      "outgoing_radius_m": 0.14814229308921142,
+      "return_radius_m": 0.10816738860482103,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.10399999999999987
+    },
+    {
+      "frame": 232,
+      "cycle": 3,
+      "outgoing_radius_m": 0.15049375805888143,
+      "return_radius_m": 0.11051885357449105,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 233,
+      "cycle": 3,
+      "outgoing_radius_m": 0.15284522302855147,
+      "return_radius_m": 0.11287031854416109,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 234,
+      "cycle": 3,
+      "outgoing_radius_m": 0.15519668799822148,
+      "return_radius_m": 0.1152217835138311,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 235,
+      "cycle": 3,
+      "outgoing_radius_m": 0.1575481529678915,
+      "return_radius_m": 0.11757324848350113,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 236,
+      "cycle": 3,
+      "outgoing_radius_m": 0.15989961793756152,
+      "return_radius_m": 0.11992471345317114,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 237,
+      "cycle": 3,
+      "outgoing_radius_m": 0.16225108290723153,
+      "return_radius_m": 0.12227617842284115,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 238,
+      "cycle": 3,
+      "outgoing_radius_m": 0.16460254787690154,
+      "return_radius_m": 0.12462764339251119,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 239,
+      "cycle": 3,
+      "outgoing_radius_m": 0.1669540128465716,
+      "return_radius_m": 0.1269791083621812,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    },
+    {
+      "frame": 240,
+      "cycle": 3,
+      "outgoing_radius_m": 0.1693054778162416,
+      "return_radius_m": 0.12933057333185125,
+      "transmit": 0.0,
+      "receive": 0.0,
+      "patch_fade": 0.0
+    }
+  ],
+  "contact_model": "Local sphere-rock signed intersection drives cell maturation and age decay; no global patch appearance envelope",
+  "constant_outgoing_velocity": true,
+  "contact_age_units": "frames at the same per-station propagation speed as the visible wave",
+  "illustrative_contact_timing": true
+}

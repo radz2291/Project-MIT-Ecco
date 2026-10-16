@@ -1,0 +1,32 @@
+{
+  "scope": "T7 v005 organic contact review",
+  "local_only_heavy_media": true,
+  "Still05_included": false,
+  "outputs": [
+    {
+      "path": "Mechanisms/B201/Scenes/B201_pulse-echo_fast-preview_v005.blend",
+      "bytes": 25568660,
+      "sha256": "b1f5cc6c892835517c0c0e77636d0e75f1adbff657eb342f24bd55714c1f7175"
+    },
+    {
+      "path": "Mechanisms/B201/Previews/Motion_v005/B201_pulse-echo_fast-preview_v005.mp4",
+      "bytes": 351437,
+      "sha256": "5a5f2468ff602df62210f847286e895df33aaeb6372a6241d39a8a5d66017f18"
+    },
+    {
+      "path": "Records/Tasks/T-007/Evidence/Motion_v005/Decoded/decoded_f031.png",
+      "bytes": 242660,
+      "sha256": "7d604398fdd73cec5f262371d6e6b3ef9840b930d9381b9a78216def8db7424a"
+    },
+    {
+      "path": "Records/Tasks/T-007/Evidence/Motion_v005/Decoded/decoded_f038.png",
+      "bytes": 236354,
+      "sha256": "0b128aad5650354fdbc754703b6524b97c42679618aba3539fc797ba21b9d2b2"
+    },
+    {
+      "path": "Records/Tasks/T-007/Evidence/Motion_v005/Decoded/decoded_f048.png",
+      "bytes": 233650,
+      "sha256": "31e72c0497abab0735e8fee7bdcfc9c2d0fd6d6dd16ae8f10b81dda06e7427af"
+    }
+  ]
+}
