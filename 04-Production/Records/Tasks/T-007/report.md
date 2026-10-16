@@ -1,15 +1,17 @@
-# T7 - Still03 wall-interaction proposal
+# T7 - Still03 v008 gap-view proposal
 
-Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3. Owner explicitly overrides T26 for T7 and requests original Blender workflow. T5/T6 dependencies retained; no T26 assets edited. Full task incomplete; motion paused.
+Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3. Owner override retains original T7 Blender workflow independently of T26. Full task incomplete; motion paused.
 
-[Current proposal](still-proposal_03_v004.md) | [Previous approved treatment report](report_still02c_v001.md) | [Direction contract](../../../Mechanisms/B201/direction.md).
+[Current proposal](still-proposal_03_v008.md) | [Previous report](report_still03_v004.md) | [Direction contract](../../../Mechanisms/B201/direction.md).
 
-Scene Director/Directorial Identity source-to-effect causality guides arrival on a visible wall section, before echo/chart. Approved Still02c v001 camera/light/pose and translucent shell shader are preserved; shell radii advance to the contact pose. A small localized blue patch marks arrival on the preserved T6 evaluated cutaway surface. Texturing is authored illustrative rock shading; glow is explanatory, not physical luminescence.
+Radzi rejects v004 wall plate as uncommercial and authorizes the proposed view along the narrow annular gap. Scene Director/Directorial Identity depth and causal continuity guide a new30mm oblique camera inside the gap. Continuous curved wall reaches beyond frame, replacing a finite plate. Approved source-centered transparent shells, product material/pose and original lights preserved; one local soft light added. Wall reconstructed from full preserved T6 evaluated sampling grid, restoring removed viewing-window faces from retained vertices. The outer front reaches the same wall contact and local blue wash emphasizes arrival.
 
-[Build evidence](Evidence/Still_03/build-render_still03_v004.json) | [Fresh-open checks](Evidence/Still_03/verification_still03_v004.json) | [Manifest](Evidence/Still_03/output-manifest_still03_v004.json).
+[Build/render evidence](Evidence/Still_03/build-render_still03_v008.json) | [Verification](Evidence/Still_03/verification_still03_v008.json) | [Manifest](Evidence/Still_03/output-manifest_still03_v008.json).
 
-Read-only official Blender MCP verified live default scene; isolated background Blender constructed/rendered the new consumer. Accepted sources unchanged. v001 retained locally as a rejected diagnostic: reevaluated inherited wall differed from the frozen surface, and its render layer omitted the light rig. The selected v004 uses the preserved source-corresponding cutaway and original light rig. v002/v003 remain local material/cut-edge studies. The 8mm cutaway backing is authored outward from the retained inner surface, not a geological thickness claim. No diagnostic markers in proposed image.
+Rock shading, waves and contact glow are illustrative, not calibration/geology/physical luminescence. No new animation or diagnostic markers. Earlier rejected plate tests retained locally. Selected review image/scripts/reports synchronize to Git; editable scene remains local ignored, without remote media backup. Await exact-frame review before next beat.
 
-Selected review image/scripts/records synchronize to Git. Editable scene is local ignored, without remote media backup. Prior useful work preserved. Wait for exact-frame approval before return/trace proposals; no animation yet.
+Internal gap tests v005/v006 retained locally: v005 was too edge-on; v006 too close. Their rendered files are saved, but post-render record capture failed on a stale scene handle; no verification claimed for those tests. The selected v008 fixes the handle, widens framing and adds wave-to-wall depth masking so an opaque wall layer cannot incorrectly conceal transparent waves in front of it. This is a still compositing approximation, not a physically calibrated acoustic render.
 
-Final candidate: 1920x1080 Cycles CPU, 32 samples, denoised; render 75.667 seconds. 22 executor checks passed and full-size image inspected. No human approval implied.
+Selected v008 restores the full circumference of the preserved T6 wall grid so no angular-window boundary is presented as a plate. Opaque wall/product and transparent wave/wall layers use depth masks for overlap. Previous v007 revealed the angular crop boundary and remains local support, not the current proposal. No source masters edited.
+
+Latest steering: Radzi supplied a refined gap reference while v008 rendered. It is preserved locally and indexed in Evidence/Still_03/owner-reference_20261016.json as proposed direction, not approval. Further camera exploration paused. Internal v008 is support only; it is not substituted for the owner's reference or claimed visually approved.

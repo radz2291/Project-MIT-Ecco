@@ -1,6 +1,6 @@
 # B201 — Scene Direction Contract
 
-Stage: T7 still-treatment proposal, one beat at a time, 16 October 2026. Motion is paused and not authorized until Radzi explicitly approves the exact treatment. Current proposal: Still03 wall interaction v004; Still01 v004 and Still02c v001 visually approved. Not an approved S02 camera plan, engineering certification or final finish. The earlier contract is preserved in T7 Evidence/direction_before-still-gate.md; existing scenes remain intact.
+Stage: T7 still-treatment proposal, one beat at a time, 16 October 2026. Motion is paused and not authorized until Radzi explicitly approves the exact treatment. Current proposal: Still03 gap-view wall interaction v007; Still01 v004 and Still02c v001 visually approved. Not an approved S02 camera plan, engineering certification or final finish. The earlier contract is preserved in T7 Evidence/direction_before-still-gate.md; existing scenes remain intact.
 
 ## Purpose and authority
 
@@ -20,7 +20,7 @@ Applied Scene Director and relevant Directorial Identity01/02/04/05/06/08/09: E0
 |---|---|---|
 | 01 Sensor origin | v004 visually approved by Radzi | Is the genuine sensor-region port immediately readable? Framing/light/depth? |
 | 02 Outgoing pulse | Still02c v001 visually approved | Clear nonphysical acoustic representation leaving that origin, no physical stick |
-| 03 Wall interaction / early spots | v004 full-size proposal, pending Radzi | True wall contact and localized reveal before charts |
+| 03 Wall interaction / early spots | v007 gap-view proposal, pending Radzi | True wall contact and localized reveal before charts |
 | 04 Returning echo | Not built | Unmistakable return to same emitter |
 | 05 Waveform connection | Not built | Same-event landmarks/two-way interval; no amplitude/radius confusion |
 
@@ -57,3 +57,15 @@ Radzi explicitly directs this T7 chat: "please ignore T26. I want you to overrid
 Still03 v004 proposes the next beat: approved translucent curved fronts advance toward the source-corresponding borehole wall. Retain the approved camera, product pose, lighting and wave shader. Reveal a small wall section using the preserved T6 evaluated cutaway mesh; a localized soft blue patch marks arrival. The outer front radius equals the documented sensor-to-wall stand-off. Rock shading and contact glow are illustrative; neither geology/material identity nor physical light emission is asserted. Camera-facing wall removal is an explanatory cutaway, not a literal isolated rock tile. Wall interaction precedes returning echo/chart. No diagnostics, sparks or explosion. Judge wall readability, contact location and continuity of the accepted 3D wave treatment; exact frame pending approval.
 
 The visible wall section has an authored 8mm cutaway backing extending outward, away from the annulus; it is a presentation edge, not a measured formation thickness. Procedural rock shading improves section readability without modifying the retained contact surface. The preserved T6 cutaway is the correspondence baseline for this proposal; re-evaluation of inherited controls produced a different surface in rejected v001 and must not silently replace it.
+
+## Still03 v008 - gap view replacing rejected plate display
+
+Radzi rejected the plate-like v004 as uncommercial and explicitly approved trying the view along the annular gap. Propose a camera inside the gap, looking along the tool: ECCO in the left foreground, continuous curved wall opposite, reaching beyond frame. The approved shell geometry/shader remains; the outer front reaches the same wall point and a restrained local blue wash marks contact. Reconstruct the continuous preserved T6 sampling grid instead of showing a finite wall plate. No visible cutaway edge, no replacement product geometry. New camera and one local soft area light are pending review. Source contact geometry and material/colour remain illustrative within documented limits; no actual lighting conditions are claimed. No return/chart/motion yet. Exact frame pending approval.
+
+Selected gap candidate v008 uses a wider30mm view, original shader and source-centered fronts. The continuous wall is rendered behind front-facing waves using depth comparison; actual wall occlusion still masks parts behind it. No finite plate or cosmetic plate thickness remains. This new camera/composition is proposed, not covered by prior Still02 approval.
+
+For v008 the full wall circumference surrounds the gap camera; its angular window is removed by restoring retained T6 sample topology. Depth masks preserve product/wall and wave/wall ordering. This is an editable implementation choice for the still proposal, not a changed engineering model.
+
+## Owner-supplied gap reference - pending selection
+
+Radzi supplies a refined gap composition: "How about something like this?" It shows continuous textured rock opposite the real-model sensor region, three overlapping translucent curved blue fronts with luminous rims and clear volumetric depth. Preserve locally at Previews/References/Radzi_wall-interaction_reference_20261016_v001.png. Treat as proposed direction, not exact-frame approval or engineering proof. Pause further camera exploration. For the wall-arrival beat, propose that the outer front just meets the wall with a faint localized blue wash; retain composition/transparency. This reference supersedes further unattended refinement of the internal gap tests. No animation.

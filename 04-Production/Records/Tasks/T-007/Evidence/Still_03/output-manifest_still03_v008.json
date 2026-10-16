@@ -1,0 +1,19 @@
+{
+  "synchronized_review_records": [
+    "04-Production\\Mechanisms\\B201\\direction.md",
+    "04-Production\\Mechanisms\\B201\\Scripts\\build_still03_v008.py",
+    "04-Production\\Mechanisms\\B201\\Scripts\\verify_still03_v008.py",
+    "04-Production\\Records\\Tasks\\T-007\\report.md",
+    "04-Production\\Records\\Tasks\\T-007\\report_still03_v004.md",
+    "04-Production\\Records\\Tasks\\T-007\\still-proposal_03_v008.md",
+    "04-Production\\Records\\Tasks\\T-007\\Evidence\\Still_03\\build-render_still03_v008.json",
+    "04-Production\\Records\\Tasks\\T-007\\Evidence\\Still_03\\verification_still03_v008.json",
+    "04-Production\\Records\\Tasks\\T-007\\Evidence\\Still_03\\owner-reference_20261016.json"
+  ],
+  "local_support_scene": "04-Production\\Mechanisms\\B201\\Scenes\\B201_wall-interaction_still03_v008.blend",
+  "local_support_image": "04-Production\\Mechanisms\\B201\\Previews\\Still_03\\B201_wall-interaction_still03_v008.png",
+  "local_owner_reference": "04-Production\\Mechanisms\\B201\\Previews\\References\\Radzi_wall-interaction_reference_20261016_v001.png",
+  "status": "Internal gap test superseded by owner supplied proposed reference; no visual approval",
+  "checks_passed": 24,
+  "motion_authorized": false
+}
