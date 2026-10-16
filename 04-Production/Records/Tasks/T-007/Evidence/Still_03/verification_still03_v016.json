@@ -1,0 +1,156 @@
+{
+  "checks": [
+    {
+      "check": "all v015 membrane shapes and materials unchanged",
+      "pass": true
+    },
+    {
+      "check": "v015 camera composition wall pose lights unchanged",
+      "pass": true
+    },
+    {
+      "check": "preserved camera",
+      "pass": true
+    },
+    {
+      "check": "preserved wall",
+      "pass": true
+    },
+    {
+      "check": "preserved pose",
+      "pass": true
+    },
+    {
+      "check": "preserved lights",
+      "pass": true
+    },
+    {
+      "check": "parent preserved",
+      "pass": true
+    },
+    {
+      "check": "saved scene hash",
+      "pass": true
+    },
+    {
+      "check": "render hash",
+      "pass": true
+    },
+    {
+      "check": "master unchanged Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "pass": true
+    },
+    {
+      "check": "master unchanged Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend",
+      "pass": true
+    },
+    {
+      "check": "relative libraries resolve",
+      "pass": true
+    },
+    {
+      "check": "one full-size still",
+      "pass": true
+    },
+    {
+      "check": "three thin spherical caps",
+      "pass": true
+    },
+    {
+      "check": "leading membrane intersects wall at peak arrival",
+      "pass": true
+    },
+    {
+      "check": "membranes no refractive glass",
+      "pass": true
+    },
+    {
+      "check": "smooth membranes",
+      "pass": true
+    },
+    {
+      "check": "shared contact controller",
+      "pass": true
+    },
+    {
+      "check": "contact at recorded wall",
+      "pass": true
+    },
+    {
+      "check": "scan evaluated on rock geometry",
+      "pass": true
+    },
+    {
+      "check": "scan controls connected",
+      "pass": true
+    },
+    {
+      "check": "diagnostics excluded B201_PULSE_ECHO",
+      "pass": true
+    },
+    {
+      "check": "diagnostics excluded B201_CONTACT_HISTORY",
+      "pass": true
+    },
+    {
+      "check": "diagnostics excluded B201_SPATIAL_GRAPHICS",
+      "pass": true
+    },
+    {
+      "check": "no local object motion",
+      "pass": true
+    },
+    {
+      "check": "no physical acoustic claim",
+      "pass": true
+    },
+    {
+      "check": "directionally approved v015 scene preserved",
+      "pass": true
+    },
+    {
+      "check": "directionally approved v015 image preserved",
+      "pass": true
+    },
+    {
+      "check": "textured rock tint retained",
+      "pass": true
+    },
+    {
+      "check": "contact-driven cell maturity at both scales",
+      "pass": true
+    },
+    {
+      "check": "rock bump and roughness retained",
+      "pass": true
+    },
+    {
+      "check": "contact-to-edge falloff retained procedurally",
+      "pass": true
+    },
+    {
+      "check": "width-led coverage control",
+      "pass": true
+    },
+    {
+      "check": "editable surface acquisition growth",
+      "pass": true
+    },
+    {
+      "check": "actual sphere-rock intersection curve sampled",
+      "pass": true
+    },
+    {
+      "check": "intersection lies on leading sphere",
+      "pass": true
+    },
+    {
+      "check": "contact curve visible within unchanged camera",
+      "pass": true
+    }
+  ],
+  "passed": true,
+  "executor_self_check": true,
+  "human_visual_approval": "pending",
+  "motion_authorized": false
+}

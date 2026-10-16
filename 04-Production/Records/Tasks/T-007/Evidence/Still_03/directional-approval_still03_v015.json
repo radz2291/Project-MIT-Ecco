@@ -1,0 +1,11 @@
+{
+  "authority": "Radzi direct chat: T7 Still03 Follow-up Refinement Digital Patch Size",
+  "exact_statement": "The latest Still 03 is directionally approved.",
+  "candidate_scene": "Mechanisms\\B201\\Scenes\\B201_wall-interaction_still03_v015.blend",
+  "candidate_image": "Mechanisms\\B201\\Previews\\Still_03\\B201_wall-interaction_still03_v015.png",
+  "scene_sha256": "4a82c98d0c2deed258024db430e79f33382ad4460effd135419842148df4f738",
+  "image_sha256": "1af2aeead35f15332a001607e6ffafd3232d92c5cf31f8c6debe2d3e560d89a6",
+  "final_visual_acceptance": false,
+  "animation_authorized": false,
+  "next_action": "One width-led ~30\u201340 percent larger patch still; retain v015; wait for Still03 approval before Still04"
+}

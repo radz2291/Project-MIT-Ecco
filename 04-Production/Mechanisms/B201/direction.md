@@ -93,3 +93,7 @@ Owner requests one final focused pass, without approval yet. Preserve camera/com
 ## Still03 v015 — Option B micro-polish
 
 Radzi directionally approves v014, explicitly retaining final visual review. Preserve v014 exact scene/image. One bounded polish: slightly broader/less vertically uniform influence, stronger geological edge variation, contact-centered brightness/density/completeness falloff; leading membrane emission +5 percent, opacity unchanged. Camera/composition/product/wall/lights and actual contact unchanged. No next beat or animation until final still review.
+
+## Still03 v016 — owner-requested patch coverage
+
+v015 directionally approved, final acceptance pending. One width-led expansion target +35 percent, height fixed. Preserve camera/composition/tool/wall/membrane shape and material/actual intersection/lights. Keep rock texture, irregular boundary and contact-to-edge gradient. Cinematic surface registration expands laterally from original contact separately from acoustic geometry; editable acquisition_growth 0..1 provided without animation. Retain exact v015 for comparison. No Still04 or animation before Still03 review.
