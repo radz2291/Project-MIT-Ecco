@@ -24,6 +24,8 @@ Accepted T5 plugged v002 and T6 well v003, Still03 v013 and Still04 v003 remain 
 
 ## Review and synchronization
 
-Review question: does the outgoing signal now reach the surface with the correct uninterrupted motion? The rest of v004's direction is retained. Exact v005 moving candidate awaits visual review; full T7 is not self-accepted. Still05 remains excluded and broad waveform work deferred at owner instruction.
+Radzi visually approved v005 with “Ok good” following the constant-speed correction, then requested ticket/scope checking and wrap. Approved scope: current pulse/contact/same-sensor echo moving preview. This is visual approval, not MIT engineering certification or full-ticket acceptance. Still05/waveform/distance graphics remain KIV/excluded. B206 technical feedback and formal workflow acceptance remain pending.
+
+The three ping stations in T7 demonstrate repeated pulse/echo events only. T8 / B202-S owns circumferential/axial sampling accumulation and reconstructed geometry stills and handover; T27 / B202-M owns their animation. T8 should consume the existing reusable pulse/contact/echo mechanism rather than duplicate it. No T8 or T27 work was started. [Reusable handover](handover_motion_v005.md).
 
 Implementation/report/evidence and three selected review frames synchronize to authorized main. Exact containing SHA and pinned report are recorded in Rolladice after fresh remote verification. Blend, MP4 and raw frames remain organized locally only, without implied remote media backup. Prior report archived as report_motion_v004.md. No downstream scope or final finishing.

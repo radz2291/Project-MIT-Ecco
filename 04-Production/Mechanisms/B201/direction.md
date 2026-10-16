@@ -2,6 +2,8 @@
 
 ## Current motion score — constant-speed contact v005
 
+**Visual review recorded:** Radzi's “Ok good” approves the v005 pulse/contact/echo moving candidate; subsequent “ok pls wrap” closes this session's authorized implementation. Preserve this version as the reusable baseline. Still05 stays KIV; B206 technical review and formal task acceptance remain separate.
+
 Radzi accepts v004 overall but rejects the outgoing wave's ease-out approaching the surface. Remove that deceleration only: the outgoing front now travels at the same speed before, at and beyond contact. The wall remains driven by the same spatial intersection. Convert signed propagation distance to contact age with the actual per-station speed so the organic cell maturation/decay keeps its duration. Camera, source geometry, emerald return and receiving event are preserved. Still05 remains excluded. Verify actual saved-frame displacement across contact and submit the moving candidate for review.
 
 ### Preserved v004 direction
