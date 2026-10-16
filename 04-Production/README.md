@@ -82,6 +82,10 @@ Existing heavy-media exclusions remain in force. Blender binaries, MP4s, caches 
 
 Blender supplies grounded baseline stills and actual scene constraints; T26 discusses and critiques them with Radzi, with optional generated references; Blender implements selected bounded changes. Repeat where needed. T26 is an ongoing partner across B2, not a completed-package prerequisite. Follow [B2 paired workflow](B2-VISUAL_APPROVAL.md), which supersedes earlier sequential direction/implementation rules. Technical dependencies remain; approvals apply to specific treatments and motion scope. Preserve T7's completed still phase and authorized continuation.
 
+## Still and animation task arrangement — 16 October 2026
+
+T7 continues its current combined still/animation scope. Other B2 work is paired in list order: **T8 → T27**, **T9 → T28**, **T10 → T29**, **T11 → T30**. The first task owns still development and handover; a fresh agent owns the successor's animation direction/execution. T26 supports both alongside the work. Preserve existing assets and evidence. Read the [B2 workflow](B2-VISUAL_APPROVAL.md) and live ticket dependencies before starting. This supersedes only the earlier proposal to move T7 motion to T27; it does not stop T7 or launch new workers.
+
 ## Directorial work during development
 
 B1 builds reusable hardware/environment foundations. **B2 requires model-integrated engineering scenes guided by the Scene Director skill and relevant Directorial Identity modules**, including information provenance. Follow the [16 October B2 visual approval amendment](B2-VISUAL_APPROVAL.md): representative framing, coherent explanatory action and editable scenes suitable for direct B3 reuse. Detached schematics remain supporting evidence. B3 adds camera choreography and shot/edit transitions; it does not rebuild B2's explanation.
