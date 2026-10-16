@@ -6,6 +6,7 @@ This folder contains reusable workflow instructions and related assets, not the 
 |---|---|---|
 | [rolladice-scene-director](rolladice-scene-director/SKILL.md) | Making creative scene, camera, lighting and previs decisions **before** production; uses Rolladice taste docs | MIT approval, verified CAD, finished Blender animation |
 | [blender-animation-reference](blender-animation-reference/SKILL.md) | Inspecting and exporting **existing** Blender animation to motion-reference assets and AI-model handoff | Deciding cinematic taste from scratch |
+| [mechanism-visual-direction-loop](mechanism-visual-direction-loop/SKILL.md) | Reviewing real visual mechanisms; diagnosing cause-and-response failures; directing bounded iterations with an execution agent | Engineering certification, universal style presets, full motion construction, human approvals |
 
 ## Reusable creative intelligence toolkit
 
