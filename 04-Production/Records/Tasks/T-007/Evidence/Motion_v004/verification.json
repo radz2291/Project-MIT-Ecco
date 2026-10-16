@@ -1,0 +1,217 @@
+{
+  "checks": [
+    {
+      "check": "accepted Still04 source unchanged",
+      "pass": true
+    },
+    {
+      "check": "candidate saved hash",
+      "pass": true
+    },
+    {
+      "check": "accepted master unchanged Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "pass": true
+    },
+    {
+      "check": "accepted master unchanged Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend",
+      "pass": true
+    },
+    {
+      "check": "preview product preserves exact evaluated topology and vertex coordinates",
+      "pass": true
+    },
+    {
+      "check": "fixed accepted camera",
+      "pass": true
+    },
+    {
+      "check": "fast EEVEE960x540 profile",
+      "pass": true
+    },
+    {
+      "check": "10 seconds constant24fps native timeline",
+      "pass": true
+    },
+    {
+      "check": "relative libraries resolve",
+      "pass": true
+    },
+    {
+      "check": "Still05 scene collection absent",
+      "pass": true
+    },
+    {
+      "check": "no visible text/waveform/distance graphics",
+      "pass": true
+    },
+    {
+      "check": "legacy diagnostics excluded B201_PULSE_ECHO",
+      "pass": true
+    },
+    {
+      "check": "legacy diagnostics excluded B201_CONTACT_HISTORY",
+      "pass": true
+    },
+    {
+      "check": "legacy diagnostics excluded B201_SPATIAL_GRAPHICS",
+      "pass": true
+    },
+    {
+      "check": "actual source wall vertex coordinates and topology unchanged",
+      "pass": true
+    },
+    {
+      "check": "cycle 1 sourced fixed-wall ray correspondence",
+      "pass": true
+    },
+    {
+      "check": "cycle 1 correct round-trip order",
+      "pass": true
+    },
+    {
+      "check": "cycle 1 outgoing front reaches wall",
+      "pass": true
+    },
+    {
+      "check": "cycle 1 digitization begins at contact",
+      "pass": true
+    },
+    {
+      "check": "cycle 1 reception response not early",
+      "pass": true
+    },
+    {
+      "check": "cycle 1 return reaches same emitting sensor",
+      "pass": true
+    },
+    {
+      "check": "cycle 1 receiver on original physical cap surface",
+      "pass": true
+    },
+    {
+      "check": "cycle 1 exact first reception drives emerald response",
+      "pass": true
+    },
+    {
+      "check": "cycle 2 sourced fixed-wall ray correspondence",
+      "pass": true
+    },
+    {
+      "check": "cycle 2 correct round-trip order",
+      "pass": true
+    },
+    {
+      "check": "cycle 2 outgoing front reaches wall",
+      "pass": true
+    },
+    {
+      "check": "cycle 2 digitization begins at contact",
+      "pass": true
+    },
+    {
+      "check": "cycle 2 reception response not early",
+      "pass": true
+    },
+    {
+      "check": "cycle 2 return reaches same emitting sensor",
+      "pass": true
+    },
+    {
+      "check": "cycle 2 receiver on original physical cap surface",
+      "pass": true
+    },
+    {
+      "check": "cycle 2 exact first reception drives emerald response",
+      "pass": true
+    },
+    {
+      "check": "cycle 3 sourced fixed-wall ray correspondence",
+      "pass": true
+    },
+    {
+      "check": "cycle 3 correct round-trip order",
+      "pass": true
+    },
+    {
+      "check": "cycle 3 outgoing front reaches wall",
+      "pass": true
+    },
+    {
+      "check": "cycle 3 digitization begins at contact",
+      "pass": true
+    },
+    {
+      "check": "cycle 3 reception response not early",
+      "pass": true
+    },
+    {
+      "check": "cycle 3 return reaches same emitting sensor",
+      "pass": true
+    },
+    {
+      "check": "cycle 3 receiver on original physical cap surface",
+      "pass": true
+    },
+    {
+      "check": "cycle 3 exact first reception drives emerald response",
+      "pass": true
+    },
+    {
+      "check": "three early ping sampling stations",
+      "pass": true
+    },
+    {
+      "check": "no real-time acoustic speed claimed",
+      "pass": true
+    },
+    {
+      "check": "surface response depends on actual rock position",
+      "pass": true
+    },
+    {
+      "check": "surface response depends on sphere-rock distance",
+      "pass": true
+    },
+    {
+      "check": "per-point memory has exponential decay",
+      "pass": true
+    },
+    {
+      "check": "cycle 1 patch follows advancing actual front",
+      "pass": true
+    },
+    {
+      "check": "cycle 1 no global patch appearance envelope",
+      "pass": true
+    },
+    {
+      "check": "cycle 2 patch follows advancing actual front",
+      "pass": true
+    },
+    {
+      "check": "cycle 2 no global patch appearance envelope",
+      "pass": true
+    },
+    {
+      "check": "cycle 3 patch follows advancing actual front",
+      "pass": true
+    },
+    {
+      "check": "cycle 3 no global patch appearance envelope",
+      "pass": true
+    },
+    {
+      "check": "smooth contact velocity recorded",
+      "pass": true
+    },
+    {
+      "check": "all representative frames under10seconds",
+      "pass": true
+    }
+  ],
+  "passed": true,
+  "executor_self_check": true,
+  "Still05_excluded": true,
+  "waveform_moving_criterion": "Deferred / excluded at owner instruction",
+  "technical_review_pending": true
+}

@@ -1,0 +1,17 @@
+{
+  "engine": "BLENDER_EEVEE",
+  "resolution": [
+    960,
+    540
+  ],
+  "samples": 32,
+  "fps": 24,
+  "max_target_seconds_per_frame": 10,
+  "mean_measured_seconds": 0.6982160304166427,
+  "max_measured_seconds": 2.117544300002919,
+  "transparency": "BLENDED, native opaque occlusion",
+  "presentation_only": "Ray tracing/shadows disabled, local consumer metal reduced for readability; source stills unchanged",
+  "render_script": "Scripts/render_motion_preview_v004.py",
+  "encode_script": "Scripts/encode_verify_motion_v004.py",
+  "contact_response": "Native material local sphere-rock arrival/maturation/decay, continuous eased contact sweep"
+}

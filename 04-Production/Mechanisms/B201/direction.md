@@ -1,8 +1,12 @@
 # B201 — Scene Direction Contract
 
-## Current motion score — owner-authorized fast preview v002
+## Current motion score — organic contact refinement v004
 
-This is the active direction; older sections below are retained development history. Radzi conditionally authorizes motion below10seconds/frame and accepts quality reduction; measured full render mean 0.677 s, maximum 2.036 s. Explicit instruction excludes Still05, waveform and distance graphics. Still05 remains KIV.
+Radzi approves a bounded motion refinement: surface interaction must flow naturally from the wave, without being locked to the still layout. Preserve v002 for comparison, camera, source geometry and semantic colors; Still05 remains excluded. Apply Scene Director V03 cause/event/result through one shared spatial contact field. The sphere intersects actual rock, cells mature locally with stable variation and decay by local contact age; the emerald return grows from the same ray/rock origin while acquisition settles. The approach eases continuously into the readable post-contact sweep; this is an illustrative visual timing choice, not a physical simulation. Review the moving candidate before accepting its look.
+
+### Preserved v002 baseline
+
+This preserved baseline records the prior v002 submission. Radzi conditionally authorizes motion below10seconds/frame and accepts quality reduction; measured full render mean 0.677 s, maximum 2.036 s. Explicit instruction excludes Still05, waveform and distance graphics. Still05 remains KIV.
 
 - Three 80-frame cycles (240 frames / 10 seconds at 24 fps) using original Still03 v013 wall/camera and Still04 v003 emerald packet.
 - Same real cap emits cyan, expanding three-front packet reaches source-derived fixed wall, localized blue sampling appears, one main + two fainter tightly spaced emerald fronts return, emerald response begins on exact first reception.
