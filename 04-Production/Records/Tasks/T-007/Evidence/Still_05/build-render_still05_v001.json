@@ -1,0 +1,43 @@
+{
+  "scene": "Mechanisms\\B201\\Scenes\\B201_waveform-connection_still05_v001.blend",
+  "image": "Mechanisms\\B201\\Previews\\Still_05\\B201_waveform-connection_still05_v001.png",
+  "scene_sha256": "6913ad0dd388659bb0e0c9a67c7fa6aeedbec74beeb783fde81f8894d3110c93",
+  "image_sha256": "05f2f57c9258d01ca2cb47d4dbe2285bd30feedc10309bab91f3d25d5702e8bf",
+  "parent_scene": "Mechanisms\\B201\\Scenes\\B201_returning-echo_still04_v003.blend",
+  "parent_scene_sha256": "0968bff9f92bc71991daeb83406ef107fcd34778a18617d3aea609aaed03216c",
+  "inputs": {
+    "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "receiver_surface": [
+    2.799999952316284,
+    -0.018231673166155815,
+    0.12972509860992432
+  ],
+  "wall_origin": [
+    2.799999952316284,
+    -0.02468518167734146,
+    0.175644189119339
+  ],
+  "labels": [
+    "Pulse sent",
+    "Echo received",
+    "\u0394t",
+    "Sensor-to-wall distance"
+  ],
+  "waveform": "Illustrative event timing support, not measured signal, amplitude scale or numeric travel time",
+  "font_dependency": "C:/Windows/Fonts/segoeuil.ttf (existing system font, not redistributed)",
+  "spatial_measurement": "Native curve anchored to actual receiver and wall coordinates",
+  "camera_unchanged": true,
+  "sensor_response_unchanged": true,
+  "wall_patch_fade": 0.07,
+  "render_seconds": 296.92007719999674,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "formula_shown": false,
+  "numbers_shown": false,
+  "animation_rendered": false,
+  "visual_approval": "pending"
+}

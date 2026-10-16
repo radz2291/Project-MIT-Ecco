@@ -1,0 +1,112 @@
+{
+  "checks": [
+    {
+      "check": "Still04 continuity camera",
+      "pass": true
+    },
+    {
+      "check": "Still04 continuity wall",
+      "pass": true
+    },
+    {
+      "check": "Still04 continuity pose",
+      "pass": true
+    },
+    {
+      "check": "Still04 continuity lights",
+      "pass": true
+    },
+    {
+      "check": "Still04 continuity reception_material",
+      "pass": true
+    },
+    {
+      "check": "Still04 continuity patch_fade",
+      "pass": true
+    },
+    {
+      "check": "parent scene preserved",
+      "pass": true
+    },
+    {
+      "check": "saved source hash",
+      "pass": true
+    },
+    {
+      "check": "render hash",
+      "pass": true
+    },
+    {
+      "check": "accepted master unchanged Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "pass": true
+    },
+    {
+      "check": "accepted master unchanged Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend",
+      "pass": true
+    },
+    {
+      "check": "relative libraries resolve",
+      "pass": true
+    },
+    {
+      "check": "one 1920x1080 still",
+      "pass": true
+    },
+    {
+      "check": "only approved minimal labels",
+      "pass": true
+    },
+    {
+      "check": "no formula or numeric data",
+      "pass": true
+    },
+    {
+      "check": "editable native text with available font",
+      "pass": true
+    },
+    {
+      "check": "spatial line starts at actual receiver",
+      "pass": true
+    },
+    {
+      "check": "spatial line ends at actual wall",
+      "pass": true
+    },
+    {
+      "check": "two illustrative signal events",
+      "pass": true
+    },
+    {
+      "check": "clean timing bracket exists",
+      "pass": true
+    },
+    {
+      "check": "outgoing and return membranes hidden for measurement payoff",
+      "pass": true
+    },
+    {
+      "check": "graphics separate from product override",
+      "pass": true
+    },
+    {
+      "check": "diagnostics excluded B201_PULSE_ECHO",
+      "pass": true
+    },
+    {
+      "check": "diagnostics excluded B201_CONTACT_HISTORY",
+      "pass": true
+    },
+    {
+      "check": "diagnostics excluded B201_SPATIAL_GRAPHICS",
+      "pass": true
+    },
+    {
+      "check": "no local object motion",
+      "pass": true
+    }
+  ],
+  "passed": true,
+  "executor_self_check": true,
+  "visual_approval": "pending",
+  "motion_authorized": false
+}

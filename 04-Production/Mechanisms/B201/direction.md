@@ -123,3 +123,11 @@ Owner finds v001 weak. Preserve same camera/product/wall/lights and faint blue w
 ## Still04 v003 — emerald return packet color logic
 
 Owner updates direction: outgoing blue/cyan three fuller fronts; return one main soft emerald plus two fainter followers, tighter and slightly dimmer. Main reaches original receiver face; followers4.5/9mm behind at32/15% strength. Residual wall patch stays faint blue; sensor response emerald. Preserve camera/hardware/wall/lights/first reception. No extra graphics, Still05 or animation before review. v002 retained as intermediate superseded by this steering.
+
+## Still05 — echo becomes a measured wall position, v001
+
+Owner authorizes simplified image: same camera/tool/wall, faint blue patch and emerald sensor reception; compact Pulse sent/Echo received waveform and Delta-t bracket; actual spatial Sensor-to-wall distance line. No formula, numbers, amplitude scale or academic explanation. Native editable graphics, quiet sans-serif per module08; spatial line is primary payoff, illustrative trace secondary. Return membranes fade out. Exact receiver/wall anchors retained, no physical signal/time/amplitude data invented. Visual review before animation.
+
+## Session review and stop
+
+Radzi places Still05 v001 KIV/provisional; other stills are good for this session. Selected Still03 remains original v013, Still04 emerald return v003 retained with positive review. Stop further scene work this session. No animation or full-ticket acceptance inferred.
