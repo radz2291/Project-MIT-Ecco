@@ -1,0 +1,14 @@
+{
+  "authority": "Radzi direct chat",
+  "selection": "Original Still03 v013 peak contact restored and confirmed",
+  "feedback": "Yes, thank you so much. That is very nice.",
+  "scene": "Mechanisms\\B201\\Scenes\\B201_wall-interaction_still03_v013.blend",
+  "image": "Mechanisms\\B201\\Previews\\Still_03\\B201_wall-interaction_still03_v013.png",
+  "scene_sha256": "6424db573466470b1694ad91ebc1a353fe4ac8701567bde20e3a9aff3d3a2d76",
+  "image_sha256": "1291250f5bf9e6965ee0f0a92df12f2e9b23ef36718081190f0b3d2f8ba45507",
+  "hashes_reverified": true,
+  "opened_in_running_blender": true,
+  "later_versions_preserved": true,
+  "animation_authorized": false,
+  "full_T7_complete": false
+}

@@ -105,3 +105,9 @@ Radzi clarifies with red coarse-grid sketch: enlarge individual grid cells, not 
 ## Still03 v018 — larger area, finer language
 
 Owner rejects coarse v017; retain larger coverage but return refined fine cells. v018 uses 1.8mm primary / 1.17mm secondary spacing, lower dropout/higher brightness floor near contact and increased edge dropout. Preserve actual footprint controls, contact, camera, hardware, wall, membrane and lights. Keep rock texture/organic surface integration. Prior variants retained; no Still04 or animation before review.
+
+## Current review candidate restored — original Still03 v013
+
+Owner requests rollback from later grid refinements, naming v013 peak-contact or v016. Agent recommends/reopens exact original v013 as current candidate, preserving v016 and all later variants. Original scene and render hashes verified unchanged; no rebuild or new render. Final visual approval not inferred. No Still04 or animation.
+
+Radzi confirms the restored v013 selection: "Yes, thank you so much. That is very nice." Keep v013 as selected Still03; preserve later variants. This does not authorize animation.
