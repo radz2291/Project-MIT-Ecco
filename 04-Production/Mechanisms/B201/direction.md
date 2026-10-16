@@ -1,5 +1,19 @@
 # B201 — Scene Direction Contract
 
+## Current motion score — owner-authorized fast preview v002
+
+This is the active direction; older sections below are retained development history. Radzi conditionally authorizes motion below10seconds/frame and accepts quality reduction; measured full render mean 0.677 s, maximum 2.036 s. Explicit instruction excludes Still05, waveform and distance graphics. Still05 remains KIV.
+
+- Three 80-frame cycles (240 frames / 10 seconds at 24 fps) using original Still03 v013 wall/camera and Still04 v003 emerald packet.
+- Same real cap emits cyan, expanding three-front packet reaches source-derived fixed wall, localized blue sampling appears, one main + two fainter tightly spaced emerald fronts return, emerald response begins on exact first reception.
+- Whole-tool stations0°, 6°, 12° relative to selected pose, held during each round trip; small turn only between pings. Existing B201 early-ping mechanism progression, not new camera exploration.
+- Common slowed illustrative spatial timing; actual source face/wall endpoints, no claimed acoustic simulation/speed/RPM. First event frames 8→28→48, second 88→107→126, third 168→185→202.
+- Fixed accepted camera. Recognition holds at sensor receipt; clean end. No schematic diagrams, typography, charts or diagnostic marks.
+- EEVEE preview-only approximations:960×540/32 samples, native blended membranes, local neutral product shading and shadows reduced for fast readability. Original approved stills and accepted masters untouched. Saved native keys, independent tool/effect controls, no handler dependency.
+- Exact motion candidate requires Radzi visual/technical review; no whole-ticket self-acceptance. Waveform interpretation deferred, per explicit exclusion.
+
+## Historical still-direction development
+
 Stage: T7 still-treatment proposal, one beat at a time, 16 October 2026. Motion is paused and not authorized until Radzi explicitly approves the exact treatment. Current proposal: Still03 gap-view wall interaction v007; Still01 v004 and Still02c v001 visually approved. Not an approved S02 camera plan, engineering certification or final finish. The earlier contract is preserved in T7 Evidence/direction_before-still-gate.md; existing scenes remain intact.
 
 ## Purpose and authority

@@ -1,19 +1,33 @@
-# T7 — Still05 echo becomes measured wall position v001
+# T7 — Fast pulse/contact/echo animation v002
 
-Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3. Session review: Radzi places Still05 v001 KIV / provisional, confirms the other stills are good, and ends work for this session. Full T7 remains incomplete; animation not authorized.
+Task fbe3e8c3-5ccf-4205-9aa4-48832b0d2cd3. Owner authorizes animation if rendering is below10seconds/frame and accepts lower preview quality. Explicit follow-up: **do not use Still05 in the animation**. This supersedes prior motion pause for this bounded work; earlier T26 override remains applicable. T5/T6 dependencies accepted. Full T7 is not self-accepted; waveform remains KIV/excluded.
 
-[Native 1920×1080 Still05 v001](../../../Mechanisms/B201/Previews/Still_05/B201_waveform-connection_still05_v001.png). Editable local scene: `04-Production/Mechanisms/B201/Scenes/B201_waveform-connection_still05_v001.blend`. [Builder](../../../Mechanisms/B201/Scripts/build_still05_v001.py) | [Direction contract](../../../Mechanisms/B201/direction.md) | [Still04 report](report_still04_v003.md).
+## Review summary
 
-Owner simplifies the proposal: same camera/tool/wall, faint blue patch, emerald receive state; compact Pulse sent / Echo received waveform; Delta-t bracket; actual spatial Sensor-to-wall distance line. Formula, numerical values, amplitude scale, academic wording and busy chart styling expressly removed. Module08 typography applied: quiet light sans-serif, graphic hierarchy supports actual imagery.
+[10-second native animation](../../../Mechanisms/B201/Previews/Motion_v002/B201_pulse-echo_fast-preview_v002.mp4): three cyan pulse departures → actual wall sampling → tighter emerald returns → same sensor receives. Fixed accepted camera, real ECCO/irregular wall and small whole-tool station changes between round trips. No waveform, Still05 frame, distance graphics, labels, arrows, formulas or numerical overlays. Silent technical preview,960×540,24 fps,240frames.
 
-Exact Still04 camera, accepted geometry, tool pose, lights, emerald sensor material and faint wall patch preserved. Returning membranes are saved but hidden for the measurement payoff. Native spatial curve anchors to the inspected original receiver face and sampled wall point. Quiet Sensor-to-wall distance label supports that physical relationship. Compact illustrative signal has cyan sent event and emerald received event, with Delta-t bracket only. No real signal samples, numeric timings, measured amplitudes, physical time scale or distance equation are claimed. O04 acoustic calibration remains unresolved.
+**Measured speed: 0.677s/frame average, 2.036s slowest.** All 240frames under 10seconds. Total native frame rendering162.98seconds, excluding setup/encoding. EEVEE 32 samples on local GTX1060. Four source-quality stills/masters retained; product presentation/shadows/transparency simplified in a separate preview consumer.
 
-All linework/text is editable native Blender geometry in a separate graphics collection/render layer. Segoe UI Light is an existing Windows font dependency at `C:/Windows/Fonts/segoeuil.ttf`, resolved locally, not redistributed or claimed as a locked brand font. Selected illustration is cinematic acquisition evidence, not a textbook diagram or a validated instrument trace.
+Editable scene: `04-Production/Mechanisms/B201/Scenes/B201_pulse-echo_fast-preview_v002.blend`. [Build script](../../../Mechanisms/B201/Scripts/build_motion_preview_v002.py) | [Render script](../../../Mechanisms/B201/Scripts/render_motion_preview_v002.py) | [Fast profile](../../../Mechanisms/B201/preview-settings_fast_v002.json) | [Direction contract](../../../Mechanisms/B201/direction.md).
 
-[Build/render record](Evidence/Still_05/build-render_still05_v001.json) | [Saved-scene checks](Evidence/Still_05/verification_still05_v001.json). 26 saved-scene self-checks passed. Source Still04 preserved; native distance endpoints, exact labels, absence of numbers/formula, camera/wall/pose/lights/reception continuity and saved links checked. Full-size frame visually inspected for layout/readability. No animation.
+[Wall-contact frame](Evidence/Motion_v002/Decoded/decoded_f028.png) | [First reception](Evidence/Motion_v002/Decoded/decoded_f048.png) | [Second reception](Evidence/Motion_v002/Decoded/decoded_f126.png)
 
-Selected PNG/scripts/evidence/report synchronize to established main; SHA/pinned report recorded on Rolladice after fresh remote verification. Editable scene remains local-only without remote backup. Await Still05 visual review; do not self-accept or start motion. No whole-ticket completion claimed.
+## Geometry and timing
 
-## Session close — owner review
+Accepted product instances are copied at exact evaluated coordinates/topology into an isolated local preview consumer; source libraries remain linked for provenance and unchanged. Native keyframes control three frozen stations 0°, 6°, 12° relative to selected pose. The wall stays fixed; each outward ray determines a real wall endpoint, and the return ends at the original cap face. One shared slowed illustrative spatial speed gives equal outbound/return legs at each station, with different intervals for different stand-offs. Sensor response begins on the exact first reception frame. This is an explanatory timing convention, not acoustic simulation, measured TOF or physical RPM. Frame events and actual source-derived endpoints are recorded in build.json.
 
-Exact feedback: "OK still 05 is KIV.. Provision.. other then that are good. And I think good enough for this session." Record Still05 v001 as KIV/provisional; retain selected Still03 v013 and Still04 v003 as positively reviewed. This is visual feedback, not whole-ticket acceptance or engineering certification. No further scene work or animation this session.
+Source Still04 v003 provides the emerald packet and sensor response; selected Still03 v013 provides the preserved wall/scan treatment. Current camera is held intentionally for cause/event/result comprehension; no new B3 camera choreography. Early ping/contact progression is present at all three stations. No physical sensing light or textured rock-image measurement claim. O04 acoustic calibration remains unresolved.
+
+## Verification and outputs
+
+[Saved-scene verification](Evidence/Motion_v002/verification.json): 41 checks pass, including exact evaluated product geometry, source hashes, wall correspondence, per-station round-trip order, exact outbound contact/same-sensor reception, first emerald response, fixed camera and absence of Still05/visible text. Initial checks exposed an inactive-view-layer evaluation issue; corrected by explicitly selecting the actual rendered preview view layer, then all endpoint tests passed.
+
+[Video QA](Evidence/Motion_v002/video-qa.json): all 240 delivered frames decoded,239 distinct, no blank frames,960×540/24 fps/10seconds; representative decoded emission/contact/return/reception frames visually inspected. [Render timing](Evidence/Motion_v002/render-progress.json) | [Manifest](Evidence/Motion_v002/output-manifest.json) | [B206 review questions](review-questions_motion_v002.md) | [Scoped register](proof-register_motion_v002.md).
+
+Benchmarks preserved: initial multi-layer EEVEE8/64samples met speed but gave stochastic transparency grain. Native blended EEVEE consumer removes that Z-mask artifact. Motion v001 preserved; v002 aligns emerald onset to exact first reception and opens in its intended preview layer. This is a lower-quality preview, not a new final material/lighting direction.
+
+## Remaining review and synchronization
+
+Authorized pulse/echo animation is reviewable. **Still05 remains KIV and is absent**, so the broad ticket's moving-waveform criterion is deferred at direct owner instruction; no false full-task completion. B206/MIT technical feedback and Radzi acceptance remain pending; no client contact. Corrections will be versioned and reverified.
+
+Reviewable reports/scripts/configuration/evidence/selected stills synchronize to established main; exact containing SHA and pinned report recorded in Rolladice after fresh remote verification. Editable Blend, MP4 and bulk frames stay organized locally, without remote media backup. No final finishing, downstream task execution or self-acceptance.

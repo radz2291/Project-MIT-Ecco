@@ -1,0 +1,16 @@
+{
+  "engine": "BLENDER_EEVEE",
+  "resolution": [
+    960,
+    540
+  ],
+  "samples": 32,
+  "fps": 24,
+  "max_target_seconds_per_frame": 10,
+  "mean_measured_seconds": 0.6771256854168617,
+  "max_measured_seconds": 2.03586269999505,
+  "transparency": "BLENDED, native opaque occlusion",
+  "presentation_only": "Ray tracing/shadows disabled, local consumer metal reduced for readability; source stills unchanged",
+  "render_script": "Scripts/render_motion_preview_v002.py",
+  "encode_script": "Scripts/encode_verify_motion_v002.py"
+}

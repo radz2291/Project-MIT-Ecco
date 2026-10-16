@@ -1,0 +1,20 @@
+{
+  "scene": "Mechanisms\\B201\\Scenes\\B201_pulse-echo_fast-preview_v002.blend",
+  "scene_sha256": "9f4be6a4ca3b8887d723a343f3d563287821f1fd69aedf6f8d7c5e195d9d35b2",
+  "video": "Mechanisms\\B201\\Previews\\Motion_v002\\B201_pulse-echo_fast-preview_v002.mp4",
+  "video_sha256": "afb17e6d6d7ab8310feca2be01a0e29807447a7f66c1b7df1acc6c45dbc8215a",
+  "scene_video_and_raw_frames_local_only": true,
+  "render_mean_seconds": 0.6771256854168617,
+  "render_max_seconds": 2.03586269999505,
+  "source_mesh_checks": 41,
+  "decoded_frames": 240,
+  "selected_review_frames": [
+    28,
+    48,
+    126
+  ],
+  "Still05_included": false,
+  "waveform_status": "KIV / excluded from animation at direct owner instruction",
+  "technical_review_pending": true,
+  "remote_media_backup": false
+}

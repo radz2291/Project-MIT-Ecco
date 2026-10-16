@@ -1,0 +1,20 @@
+{
+  "video": "Mechanisms\\B201\\Previews\\Motion_v002\\B201_pulse-echo_fast-preview_v002.mp4",
+  "video_sha256": "afb17e6d6d7ab8310feca2be01a0e29807447a7f66c1b7df1acc6c45dbc8215a",
+  "decoded_frames": 240,
+  "size": [
+    960,
+    540
+  ],
+  "fps": 24.0,
+  "duration_seconds": 10.0,
+  "silent": true,
+  "min_decoded_std": 56.633730336278035,
+  "distinct_decoded_frames": 239,
+  "mean_render_seconds": 0.6771256854168617,
+  "max_render_seconds": 2.03586269999505,
+  "median_render_seconds": 0.7126122499976191,
+  "all_frames_under10seconds": true,
+  "Still05_included": false,
+  "executor_media_qa": true
+}
