@@ -78,6 +78,10 @@ Owner authority: Radzi requested automatic task commit/push for online review an
 
 Existing heavy-media exclusions remain in force. Blender binaries, MP4s, caches and renders stay organized locally with exact paths/versions and explicit backup/handover status. Remote review of reports/stills does not imply that local media was uploaded or independently inspected. This rule does not require reopening already accepted historical tasks. No client contact or delivery is implied by task completion.
 
+## B2 pairing amendment — 16 October 2026
+
+Blender supplies grounded baseline stills and actual scene constraints; T26 discusses and critiques them with Radzi, with optional generated references; Blender implements selected bounded changes. Repeat where needed. T26 is an ongoing partner across B2, not a completed-package prerequisite. Follow [B2 paired workflow](B2-VISUAL_APPROVAL.md), which supersedes earlier sequential direction/implementation rules. Technical dependencies remain; approvals apply to specific treatments and motion scope. Preserve T7's completed still phase and authorized continuation.
+
 ## Directorial work during development
 
 B1 builds reusable hardware/environment foundations. **B2 requires model-integrated engineering scenes guided by the Scene Director skill and relevant Directorial Identity modules**, including information provenance. Follow the [16 October B2 visual approval amendment](B2-VISUAL_APPROVAL.md): representative framing, coherent explanatory action and editable scenes suitable for direct B3 reuse. Detached schematics remain supporting evidence. B3 adds camera choreography and shot/edit transitions; it does not rebuild B2's explanation.
