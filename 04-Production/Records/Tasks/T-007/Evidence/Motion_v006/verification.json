@@ -1,0 +1,295 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "accepted v005 binary hash preserved",
+      "pass_": true
+    },
+    {
+      "check": "accepted v005 retained: Mechanisms/B201/Scenes/B201_pulse-echo_fast-preview_v005.blend",
+      "pass_": true
+    },
+    {
+      "check": "accepted v005 retained: Mechanisms/B201/Previews/Motion_v005/B201_pulse-echo_fast-preview_v005.mp4",
+      "pass_": true
+    },
+    {
+      "check": "accepted v005 retained: Records/Tasks/T-007/Evidence/Motion_v005/Decoded/decoded_f031.png",
+      "pass_": true
+    },
+    {
+      "check": "accepted v005 retained: Records/Tasks/T-007/Evidence/Motion_v005/Decoded/decoded_f038.png",
+      "pass_": true
+    },
+    {
+      "check": "accepted v005 retained: Records/Tasks/T-007/Evidence/Motion_v005/Decoded/decoded_f048.png",
+      "pass_": true
+    },
+    {
+      "check": "candidate binary hash matches",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: PREVIEW | ECCO_HOUSING_SOURCE_MESH",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: PREVIEW | TEMP | Service port 3 | removable metal plug",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: PREVIEW | TEMP | Service port 2 | removable metal plug",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: PREVIEW | TEMP | Service port 1 | removable metal plug",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: PREVIEW | TEMP | Service cover 3 | removable fitted plate",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: PREVIEW | TEMP | Service cover 2 | removable fitted plate",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: PREVIEW | TEMP | Service cover 1 | removable fitted plate",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: PREVIEW | TEMP | Imaging port 3 | removable acoustic cap",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: PREVIEW | TEMP | Imaging port 2 | removable acoustic cap",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: PREVIEW | TEMP | Imaging port 1 | removable acoustic cap",
+      "pass_": true
+    },
+    {
+      "check": "exact baseline mesh retained: T6_WALL_CONTACT_SECTION",
+      "pass_": true
+    },
+    {
+      "check": "camera transform and lens unchanged",
+      "pass_": true
+    },
+    {
+      "check": "accepted master hash: Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+      "pass_": true
+    },
+    {
+      "check": "accepted master hash: Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend",
+      "pass_": true
+    },
+    {
+      "check": "relative source libraries resolve",
+      "pass_": true
+    },
+    {
+      "check": "packed editorial font",
+      "pass_": true
+    },
+    {
+      "check": "240 frames24fps960x540EEVEE",
+      "pass_": true
+    },
+    {
+      "check": "first ping longer than both abbreviated repeats",
+      "pass_": true
+    },
+    {
+      "check": "all product consumers rotate under one root",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 equal outward/return legs and event order",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 exact rock point",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 leading front hits rock",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 saved constant velocity through impact",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 shell0 disappears after its wall arrival",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 shell1 disappears after its wall arrival",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 shell2 disappears after its wall arrival",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 grid removed within10frames",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 no early reception glow",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 reflected cap returns to original emitter",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 same physical cap receives",
+      "pass_": true
+    },
+    {
+      "check": "ping 1 return originates at exact rock intersection",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 equal outward/return legs and event order",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 exact rock point",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 leading front hits rock",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 saved constant velocity through impact",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 shell0 disappears after its wall arrival",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 shell1 disappears after its wall arrival",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 shell2 disappears after its wall arrival",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 grid removed within10frames",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 no early reception glow",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 reflected cap returns to original emitter",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 same physical cap receives",
+      "pass_": true
+    },
+    {
+      "check": "ping 2 return originates at exact rock intersection",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 equal outward/return legs and event order",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 exact rock point",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 leading front hits rock",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 saved constant velocity through impact",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 shell0 disappears after its wall arrival",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 shell1 disappears after its wall arrival",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 shell2 disappears after its wall arrival",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 grid removed within10frames",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 no early reception glow",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 reflected cap returns to original emitter",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 same physical cap receives",
+      "pass_": true
+    },
+    {
+      "check": "ping 3 return originates at exact rock intersection",
+      "pass_": true
+    },
+    {
+      "check": "contact area reduced to17.64percent nominal",
+      "pass_": true
+    },
+    {
+      "check": "contact opacity reduced to48percent",
+      "pass_": true
+    },
+    {
+      "check": "echo graphic absent before reception",
+      "pass_": true
+    },
+    {
+      "check": "timing graphic present after same ping reception",
+      "pass_": true
+    },
+    {
+      "check": "timing overlay gone for repeated acquisition",
+      "pass_": true
+    },
+    {
+      "check": "minimal exact copy only",
+      "pass_": true
+    },
+    {
+      "check": "editorial layer composites independently above mechanism",
+      "pass_": true
+    },
+    {
+      "check": "old KIV Still05 graphics absent",
+      "pass_": true
+    },
+    {
+      "check": "no B202 scene or acquisition data introduced",
+      "pass_": true
+    },
+    {
+      "check": "no physical calibration claimed",
+      "pass_": true
+    }
+  ],
+  "executor_self_check": true,
+  "technical_approval": false
+}

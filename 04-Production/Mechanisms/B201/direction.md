@@ -155,3 +155,25 @@ Owner authorizes simplified image: same camera/tool/wall, faint blue patch and e
 ## Session review and stop
 
 Radzi places Still05 v001 KIV/provisional; other stills are good for this session. Selected Still03 remains original v013, Still04 emerald return v003 retained with positive review. Stop further scene work this session. No animation or full-ticket acceptance inferred.
+
+## B201 pre-client refinement — Motion_v006, 17 October 2026
+
+Owner authorizes the Discussion directive and status reopening on T7. Historical v005 acceptance and all approved stills remain intact. Apply Scene Director to this explicitly experimental refinement consumer; final appearance awaits Radzi review.
+
+Purpose: a mixed audience understands sound sent, wall reflection, echo heard by the same sensor, then timing used for sensor-to-wall distance. Sources: engineering baseline, 7 October Ahmed chat (9:03 / 10:02 PM), S02 V2, accepted v005 source/QA and 17 October Discussion. Calibration, actual ENP3 face datum and MIT technical review remain unresolved; no numeric inference or certification.
+
+Preserve exact evaluated product, T5 v002 / T6 v003, camera/lens, wall mesh, lights, cyan/emerald membrane materials and original source/master hashes. Existing camera holds intentionally: moving it now competes with the reflection and timing explanation. Retain the tool-left/wall-right depth relationship. Rotation is on the existing whole-product root, never a separate sensor. No B202 consumer or reconstruction is included.
+
+Scoped change plan: each cyan front moves at constant speed until wall arrival, then loses opacity in two frames; emerald reflection begins at the actual wall ray intersection and returns to the same cap. Retain organic contact language but reduce both footprint radii to 42% (about 18% of prior nominal area), intensity to 48%, and fade out within ten frames after contact. No lasting grid or rock photograph.
+
+Camera score / event score (24 fps, 240 frames): first emit/contact/receive 12/36/60, hold the timing explanation through frame116 and fade by124; rotate whole tool 0→6 degrees during120–143. Second emit/contact/receive150/163/176, rotate6→12 degrees during180–191. Third198/210/222, settle to240. Later events are abbreviated; their apparent speed is illustrative and distinct from calibrated physics.
+
+Information beat: conceptual/illustrative. Native camera-facing editorial layer in the lower frame uses calm Segoe UI (packed), cyan Pulse sent, later emerald Echo received, a Round-trip delay bracket, and Echo timing reveals distance. First peak enters at the first transmit; later peak and interval only after actual reception. Hold for recognition, then remove before repeated acquisition. No equations, numbers, amplitude scale, borehole-radius assertion or scientific oscilloscope. This is a new minimal study, not reinstated Still05.
+
+Review outputs: new editable scene/10s playable preview, before/after wall-contact frames, contact persistence evidence, exact timing shot, source/topology/event checks and decoded media QA. Executor critique will inspect continuous ordered frames and selected decoded frames; unfamiliar-viewer comprehension remains a human review question. This is inexpensive mechanism previs, not final finishing or client approval.
+
+### Mixed-audience proof fields (17 October guidance applied)
+
+Audience: engineers plus stakeholders/investors with no logging background. Unknown/question: how can the tool judge the wall's distance in darkness? Nontechnical takeaway: ECCO sends sound, hears the echo at the same sensor, and uses the delay to judge sensor-to-wall distance. Significance: an invisible surrounding boundary becomes accessible to distance measurement; no performance, safety or financial promise is made. Discovery/payoff: a visible round trip becomes a minimal two-event interval, held after reception rather than repeating acquisition detail throughout. Existing words are part of the proposed silent explanation; no voiceover is assumed.
+
+Expert truth check: exact same-cap round-trip path and real source wall anchors; no amplitude-to-distance or full-image claim. The graphic is conceptual, not a measured trace. The spatial source hardware remains provisional under O04; real mud-velocity calibration and MIT review remain pending. Cold-viewer question after the playable proof, without pre-explanation: What is the tool learning from the echo, and how? Follow-up: what does the gap between the two cues mean? No unfamiliar human viewer was available during execution; this test remains explicitly pending Radzi review, not inferred from the script checks. D0–D2 proposal/implementation evidence is supplied; D3 human audience/technical acceptance is not claimed.

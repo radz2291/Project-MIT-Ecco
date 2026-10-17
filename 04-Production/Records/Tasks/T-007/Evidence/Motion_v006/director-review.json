@@ -1,0 +1,18 @@
+{
+  "candidate": "B201_pulse-echo_refinement_v006",
+  "executor_visual_inspection": true,
+  "inspected": ["four chronological decoded sheets at six-frame intervals", "native contact and returning-echo inspection frames", "decoded timing frame72 at full960x540", "matched phase before-after comparison"],
+  "observations": {
+    "reflection": "Each cyan shell fades on its own wall arrival; emerald return begins at the original wall hit. Trailing incoming shells briefly coexist with reflected leading energy, not an intact continuing packet beyond the boundary.",
+    "contact": "Small organic cyan cell response at contact; gone within10frames; no lasting wall image.",
+    "timing": "Transmit cue appears with first emission. Return cue and bracket arrive only after first reception. Plain-language headline/interval hold precedes shortened repeats.",
+    "hierarchy": "Close-up sensor and wall remain dominant. Editorial layer covers the lower frame while the central emitting face/contact remain readable. Font enlarged after initial layout inspection.",
+    "motion": "One full measurement plus2abbreviated repeats, whole-product orientation changes, no independently spinning head or reconstruction."
+  },
+  "pending_human_questions": ["Without explanation, what is the tool learning from the echo?", "What does the gap between the two cues mean?", "Is the new timing treatment and first-event reading hold clear and visually acceptable?"],
+  "cold_viewer_test_performed": false,
+  "human_visual_acceptance": "pending Radzi",
+  "mit_engineering_acceptance": "pending",
+  "illustrative": ["propagation timing", "membrane surfaces", "contact light/grid", "conceptual two-event peaks"],
+  "unverified": ["actual ENP3 sensor-face datum", "physical waveform and mud-velocity calibration"]
+}
