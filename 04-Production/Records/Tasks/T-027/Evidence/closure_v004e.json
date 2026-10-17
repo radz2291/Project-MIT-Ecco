@@ -1,0 +1,57 @@
+{
+  "status": "PASS",
+  "report_links": [
+    {
+      "target": "report_v003.md",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Previews/MotionProof_v004e/B202-M_motion-proof_v004e.mp4",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Previews/MotionProof_v004e/B202-M_review-sheet_v004e.jpg",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Previews/MotionProof_v004e/review_v004e.html",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scenes/B202-M_motion-proof_v004e.blend",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/B202-M_scene-direction_v001.md",
+      "exists": true
+    },
+    {
+      "target": "Evidence/replay_manifest_v004e.json",
+      "exists": true
+    },
+    {
+      "target": "Evidence/verification_motion-proof_v004e.json",
+      "exists": true
+    },
+    {
+      "target": "Evidence/playback_qa_v004e.json",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scripts/build_motion_proof_v004e.py",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scripts/verify_motion_proof_v004e.py",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scripts/package_motion_proof_v004e.py",
+      "exists": true
+    }
+  ],
+  "output_hashes_match": 6,
+  "candidate": "v004e",
+  "discussion": "b94637dc-0785-4585-92f4-967b433bdda2",
+  "scope": "Bounded revised proof; T27 in progress, D2/D3 pending; native media local only"
+}

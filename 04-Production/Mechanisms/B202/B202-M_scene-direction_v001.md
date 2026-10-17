@@ -101,3 +101,23 @@ Exact candidate: `Scenes/B202-M_motion-proof_v003.blend`; 192 frames / 24 fps / 
 Movement uses densely sampled linear keys and deliberate smooth camera/axial phrasing; gaze target and translation are separate. Full numeric frame score and event IDs are in `Records/Tasks/T-027/Evidence/replay_manifest_v003.json`. Original event values and positions are preserved; three sensor events per orientation share display receipt timing. The 1 μs cutoff bias addresses float32 rounding and is far below the original 10 ms event spacing. This is a **discrete station replay**, not continuous drilling or real ENP3 cadence. No events are fabricated between stations.
 
 **Review priorities:** first interaction at tight actual clearance; whether the incomplete→complete ring reads; whether the camera release establishes that the information stays while ECCO moves; whether the two-station surface reads as the beginning of depth reconstruction. Final geometric revelation and separate amplitude remain later work. Review with Radzi/T26 against this exact playable candidate; no D2/D3 approval inferred from self-checks.
+
+## 9. Director feedback → bounded v004 revision, 17 October 2026
+
+T27 discussion `b94637dc-0785-4585-92f4-967b433bdda2` rejects v003's visual explanation while preserving its synthetic mechanism. The floating patch, attached-looking ring and short sleeve did not communicate D1. D2/D3 remains unapproved; keep T27 in progress. Return one cheap revised proof, then targeted review before full expansion.
+
+**Approach:** start within the actual sensor/wall gap, pull out through a continuous solid-rock cutaway, recognize the persistent circumference, then stop following ECCO and hold on the reconstructed well. Use all **13 existing v009 stations / 4,212 events / three metres**, retimed without regenerating events, stretching geometry or filling gaps. Fourteen seconds provides opening recognition, compressed depth replay and a final release/hold. This remains the bounded proof; amplitude/spiral/tight development waits.
+
+Exact review candidate: `Scenes/B202-M_motion-proof_v004e.blend`, frames 1–336 / 24 fps / 960×540. Local preliminary v004/a–d composition/debug candidates are preserved. Numeric per-frame camera and event score: `Records/Tasks/T-027/Evidence/replay_manifest_v004e.json`.
+
+| Frames | Camera and understanding | Acquisition |
+|---|---|---|
+| 1–34 | Inside-annulus macro (1.72, .145, .027), gaze (1.75, .145, .003), 28 mm. Source wall and tool face occupy opposite sides of the actual gap; .2 mm near clipping is a camera setting, not geometry alteration. | Slowed sensor0 event, wall contact 14–18, same-sensor return 32; first points 34. |
+| 35–96 | Pull out to (.75, .46, .34), gaze (1.90, 0, 0) by 90; lens eases to 42 mm. Establish enclosing solid-rock context and circumference. | First station whole-tool rotation; inverse points/adjacent acquired contour. |
+| 97–176 | Initially follow moving sensor plane; by 144 camera (1.05, .85, .62), gaze (2.4, 0, 0). | Subsequent stations: four transfer frames without acquisition, eleven retimed rotation/acquisition frames. Explicit time-lapse, no real cadence claim. |
+| 177–276 | Camera releases to (.5, 2.0, 1.15), gaze (3.05, 0, 0) by 230. Rock presentation fades 170–276; white nominal references arrive 240. | Only acquired v009 data. Surface bins wait for all contributing records. |
+| 277–336 | Hold the three-metre result while ECCO moves onward; settle to (.4, 1.9, 1.08), same gaze. | No additional events. Prior points remain fixed; glyphs become smaller as surface takes priority. No geometry scaling or amplitude conversion. |
+
+**Presentation and limits:** unchanged T6 inner-wall vertices plus authored .68 m square outer rock mass and sealed cut faces; exterior dimension is visual context, not sourced geology. Sector .07–1.4 rad opens toward camera. Physical wall coordinates never feed measured geometry. Fixed radius/amplitude scales and source masks remain. A 10 μs evidence-cutoff bias accommodates float32 above 32 seconds, far below original 10 ms spacing.
+
+**Re-review:** judge the moving enclosing context, actual-scale interaction, persistence when ECCO advances and final measured borehole. The underlying irregularity is subtle and remains unexaggerated. Scene/data checks do not establish visual comprehension. No exact camera/preview, acoustic-face datum or full explanation is accepted by this revision.

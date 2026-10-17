@@ -1,50 +1,42 @@
-# T27 / B202-M — first gated motion proof v003
+# T27 / B202-M — bounded v004 revision for D2/D3 re-review
 
-17 October 2026 (Asia/Kuala_Lumpur). **First proof ready for D2/D3 feedback; B202-M remains incomplete pending that gate.** No full-sequence completion, human acceptance or MIT engineering certification is claimed.
+**17 October 2026 · Candidate v004e · T27 remains IN PROGRESS.** Revised cheap proof requested in discussion `b94637dc-0785-4585-92f4-967b433bdda2`; full sequence and visual/engineering acceptance remain pending. [Previous v003 report](report_v003.md) and all prior assets are preserved.
 
-Task ID: `486a2a68-c921-4f2d-9323-5115a6f9340a`. Worker `codex-b202m-20261016`; run `3b3ffe72-03ad-4469-b5b6-09a927b1a579`. Radzi directly assigned B202-M in this fresh animation chat. Live T8 dependency was Done and required standard v2 current before claim. Base `7aa97bd70e6cc30b81caf7de8a1f785df8e91bb9`; its missing D1 contract was synchronized by fast-forward before construction.
+Task `486a2a68-c921-4f2d-9323-5115a6f9340a`; worker `codex-b202m-20261016`; new run `762b45f1-4edd-485f-acce-74db90020f20`. Current discussion and fresh handoff read before restart. Prior waiting run expired and the connector marked it failed; fresh claim succeeded. T8 remains Done, standard v2 current. Base `f474e46b19360aab2e5c35da2072bb800d3d7c12`.
 
-## Review this exact proof
+## Exact review outputs
 
-- [Eight-second playable preview v003](../../../Mechanisms/B202/Previews/MotionProof_v003/B202-M_motion-proof_v003.mp4) — 192 frames, 24 fps, 960×540, low-cost Eevee.
-- [Review player with event/ring/release navigation](../../../Mechanisms/B202/Previews/MotionProof_v003/review_v003.html).
-- [Six-frame review sheet](../../../Mechanisms/B202/Previews/MotionProof_v003/B202-M_review-sheet_v003.jpg).
-- [Editable Blender consumer](../../../Mechanisms/B202/Scenes/B202-M_motion-proof_v003.blend).
-- [Single motion Scene Direction Contract, with numeric proof appendix](../../../Mechanisms/B202/B202-M_scene-direction_v001.md).
-- [Exact replay/events/camera manifest](Evidence/replay_manifest_v003.json), [fresh-open verification](Evidence/verification_motion-proof_v003.json), [encoded playback QA and output hashes](Evidence/playback_qa_v003.json).
+- [Playable revised proof v004e](../../../Mechanisms/B202/Previews/MotionProof_v004e/B202-M_motion-proof_v004e.mp4): 14 seconds / 336 frames / 24 fps / 960×540.
+- [Entry/contact/ring/release/payoff sheet](../../../Mechanisms/B202/Previews/MotionProof_v004e/B202-M_review-sheet_v004e.jpg).
+- [Local review player](../../../Mechanisms/B202/Previews/MotionProof_v004e/review_v004e.html).
+- [Editable Blender v004e](../../../Mechanisms/B202/Scenes/B202-M_motion-proof_v004e.blend).
+- [Single direction contract §9: revised camera/event score](../../../Mechanisms/B202/B202-M_scene-direction_v001.md).
+- [Replay manifest/all event receipt IDs](Evidence/replay_manifest_v004e.json), [saved-scene checks](Evidence/verification_motion-proof_v004e.json), [encoded playback/output hashes](Evidence/playback_qa_v004e.json).
 
-All local outputs are under `C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production`. Blender, video and frame sequences stay local/ignored; Git sync of scripts, report, evidence and selected stills does not upload or back up native media. Remote review images are illustrative, sourced production previews and contain no restricted ENP1 field log.
+Root `C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco`. All outputs organized under `04-Production`. Blender/video/raw frames are local ignored media, not uploaded or backed up by Git. Reports/scripts/evidence and selected permitted images are synchronized; exact commit and pinned report links are attached to Rolladice after remote verification. No restricted ENP1 imagery.
 
-## Result and limits
+## Response to the critique
 
-The proof progresses from one localized same-sensor interaction to inverse-derived wall-fixed points, adjacent measured contour edges, then two depth sections and the beginning of a volume as the camera releases ECCO. Whole hardware rotates and transfers axially. Data coverage causes visibility; the v008 artistic reveals are suppressed. Geometry remains the v009 TOF/radius channel; echo strength is independently retained but hidden in this first proof. Final full-volume hero, white nominal comparison, tight/spiral cases and independent amplitude beat have not been built in T27.
+| v003 problem | Bounded revision | Remaining visual judgment |
+|---|---|---|
+| Floating flat patch; enclosure unclear | Continuous solid-rock cutaway with unchanged T6 inner wall, authored exterior and sealed cut faces. Actual annulus macro pulls out to enclosing context. | Does the true-scale interaction and transition read in playback? |
+| Outline looks attached/decorative | World-fixed event points and coverage-limited contour persist as tool transfers; camera initially follows then anchors to the well. | Is acquisition causality immediately understood? |
+| Two stations form only a short sleeve | All 13 source stations reconstruct three metres; camera holds while ECCO moves onward. Source white nominal references clarify subtle deviation. | Does the unexaggerated irregular volume communicate a measured borehole? |
 
-Actual v009 fixture events are discrete stations. This proof deliberately replays two stations, with acquisition paused during .25 m axial transfers and three source sensor events grouped per orientation for display. The opening is slowed to show one return. Event IDs, values and spatial positions are preserved; no synthetic values are fabricated to fill travel. Event-time cutoff is biased 1 μs to survive Blender float32 rounding, far below the 10 ms spacing. Source cadence is not certified ENP3 firing/drilling behavior. A tiny actual-wall sector provides first contact context and fades as a presentation cutaway, not a physical rock-vanishing process.
+**All 4,212 v009 events are merely retimed; none regenerated.** Original values/IDs/poses and masks remain. Three sensor events per orientation are grouped for display. Four-frame transfers pause acquisition; eleven-frame station rotations are explicitly compressed replay, not ENP3 cadence. Fourteen seconds gives opening, ring, depth accumulation and final release room to read. Tight/spiral and separate amplitude stay outside this bounded proof.
 
-Contour endpoints use earliest valid inverse-derived events in adjacent azimuth bins; connecting line interiors are illustrative interpolation, not extra measured points. Surface bins use the conservative v009 ready timestamp after all contributors arrive, preventing future-mean leakage. No interpolation fixture or masked gap-fill is enabled. Native consumer still contains the full v009 source cases/data controls for later continuation.
+Geometry uses v009 measurement-only inverse, conservative completed-bin readiness and fixed scales. Physical rock is context only; its coordinates never feed reconstruction. Authored .68 m outer mass/cut faces are presentation dimensions; actual inner borehole/tool are unchanged. Rock fading is a data-presentation cutaway transition, not physical disappearance. White is nominal size, not acquired samples or a gauge bit. Point glyphs shrink near payoff without changing positions. Ten-microsecond cutoff bias handles float32 over the full 42-second source timeline, far below source 10 ms spacing.
 
-## Validation
+## Validation and preservation
 
-Fresh-open source links resolve. **1,382 agent checks pass** across the 192-frame timeline: monotonic cutoff, exact received event membership, three sensors/same-sensor return, world-fixed inverse points, contour endpoint lineage, no premature contour/surface values, independent channels, acquisition paused in travel, camera release and source hashes. T5 v002, T6 v003 and v009 master hashes match their pre-build values; T7 was never modified. Live official Blender MCP read-only inspection found T7 work open, so all production ran in separate background Blender 5.2.2 processes.
+**1,744 fresh-open checks pass**, including original indexed raw-event content hash, 4,212 source IDs, three sensors/same-sensor reception, native hashes, unchanged T6 inner vertices, sealed/manifold cutaway, fixed inverse points, exact per-frame receipt membership, coverage-limited contours, no future averages, independent channels, no acquisition during transfers, three-metre final span and camera release. These are agent synthetic checks, not acoustic certification or visual acceptance. **All 336 encoded frames decode**, at 24 fps / 14.0 seconds / 960×540. Entry, contact, ring, depth and payoff frames and the sequential sheet were visually inspected; D2/D3 viewer comprehension remains pending.
 
-All **192 encoded frames decode**, at 24 fps and 8.0 seconds, with expected dimensions. Selected decoded key frames and the six-frame sequence were visually inspected for entry/contour/depth progression. This is agent inspection and encoded playback validation, not Radzi real-time visual acceptance or independent acoustic verification. Outstanding specification test10 is now exercised for this bounded proof; full sequence playback/visual acceptance remains pending.
+T5 v002, T6 v003, v009 master and v003 candidate hashes match. T7 untouched. Official Blender was initially off; after Radzi enabled it, MCP connected to a clean unsaved scene and opened the saved revision for local viewing. Separate background processes rendered/verified it; no unrelated live scene was replaced.
 
-The sensor-to-wall gap is small at actual scale; the opening locator is illustrative and its underlying inherited acoustic-face proxy remains an MIT question. The two-section surface is an initial depth cue, not the finished well hero. O04/O06 calibration, sensor datum, eccentricity processing and interpretation remain source-based open questions in the canonical decision register. No new engineering conclusion, actual field measurement, surface telemetry or restriction cause is asserted.
+Local v004/a–d composition/debug candidates and useful logs remain. Testing caught float32 rounding above source time 32 seconds; v004e corrects cutoff and reruns checks. Source irregularity stays subtle rather than stretched. Actual acoustic-face/datum, calibration, processing and sampling remain MIT questions. No telemetry/field-data claims.
 
-## Review gate and T26 pairing
+## Re-review and next action
 
-The [approved contract §5](../../../Mechanisms/B202/B202-M_scene-direction_v001.md) explicitly says: **“Obtain Radzi's targeted D2/D3 feedback before expanding to the full B202-M moving demonstration.”** This proof is the concrete reviewable result for that gate. B202-M's remaining criteria stay unchecked. No task is self-accepted.
+Judge the moving revision: **does the enclosing borehole read, do readings visibly remain behind as ECCO advances, and does the release reveal meaningful shape through depth?** These remain D2/D3 judgments. Discussion requests this bounded proof before full expansion. No approval is inferred from checks. T27 stays in progress, run waiting for targeted feedback after synchronization.
 
-T26's current chat and its latest D1 approval context were read; the actual approval is recorded in the contract and live handoff. This exact proof and the questions below are the paired critique packet for Radzi/T26. No new T26 critique/preview approval is invented and no message was sent to another chat.
-
-1. Does the first interaction clearly connect this sensor, the wall and the return at actual clearance?
-2. Does the ring read as accumulated knowledge that stays fixed while ECCO moves?
-3. Does the camera release give a useful first depth revelation, and is the discrete-station replay acceptable as a proof or should the full sequence regenerate continuous-travel events with the same verified synthetic model?
-
-Next action after targeted feedback: implement bounded corrections, then expand geometry through depth and add nominal/illustrative cases and the separate amplitude beat. Preserve this proof and source assets.
-
-## Reproducibility and retained history
-
-Scripts: [build v003](../../../Mechanisms/B202/Scripts/build_motion_proof_v003.py), [verify v003](../../../Mechanisms/B202/Scripts/verify_motion_proof_v003.py), [package v003](../../../Mechanisms/B202/Scripts/package_motion_proof_v003.py). Build refuses to overwrite its native candidate. Render saved candidate frames 1–192; packaging encodes H.264 and decodes every frame. Use installed Blender 5.2 and the bundled Python runtime with imageio_ffmpeg/Pillow/numpy. Scripts and evidence are reviewable in Git; native source library paths remain relative inside the repository.
-
-v001 source inspection and build are retained locally; first verification exposed float32 cutoff rounding. v002 fixes it and passes, with its full preview preserved. v003 adds the source wall sector for a clearer opening; all checks are rerun. Earlier native candidates, raw frames and useful failure logs are retained under this mechanism/task, never left in scratch. Unrelated T7/T8/T9/T10 work is excluded from staging. Candidate commit and commit-pinned report link are recorded in Rolladice after verified remote synchronization, avoiding a self-referential report hash.
+Implementation: [build](../../../Mechanisms/B202/Scripts/build_motion_proof_v004e.py), [verify](../../../Mechanisms/B202/Scripts/verify_motion_proof_v004e.py), [encode/decode/package](../../../Mechanisms/B202/Scripts/package_motion_proof_v004e.py). Build refuses native overwrite; use a fresh version/path for rebuilding. Blender 5.2.2 and bundled Python/Pillow/numpy were used. Updated runtime lacked imageio_ffmpeg, so version 0.6.0 was restored from a cached wheel into the task-specific user cache `.cache/codex-b202m-deps`; bundled/shared Python was not changed. Package script contains the fallback import. Continue from exact v004e after feedback. Full B202-M still needs accepted explanation, independent amplitude/cases and complete moving validation; only Radzi accepts Done.
