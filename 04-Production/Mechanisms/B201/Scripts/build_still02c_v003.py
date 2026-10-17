@@ -1,0 +1,81 @@
+"""Outgoing-pulse still only; keep approved Still01 camera/light/geometry."""
+import bpy,json,hashlib,time,math
+from pathlib import Path
+from mathutils import Vector
+from bpy_extras.object_utils import world_to_camera_view
+P=Path(__file__).resolve().parents[3];M=P/'Mechanisms/B201';R=P/'Records/Tasks/T-007/Evidence/Still_02c'
+src=M/'Scenes/B201_sensor-origin_still01_v004.blend';out=M/'Scenes/B201_spreading-pulse_still02c_v003.blend';png=M/'Previews/Still_02c/B201_spreading-pulse_still02c_v003.png'
+if out.exists():raise RuntimeError('Refuse overwrite; version edited proposal')
+reference=json.loads((P/'Records/Tasks/T-007/Evidence/Still_01/build-render_still01_v004.json').read_text())
+assert hashlib.sha256(src.read_bytes()).hexdigest()==reference['scene_sha256']
+bpy.ops.wm.open_mainfile(filepath=str(src));s=bpy.context.scene;s.frame_set(1);bpy.context.view_layer.update()
+event=json.loads((P/'Records/Tasks/T-007/Evidence/v011/build_v011.json').read_text())['events'][0]
+origin=Vector(event['origin']);wall=Vector(event['wall']);normal=(wall-origin).normalized();tangent=Vector((1,0,0))
+distance=.033;half_width=.0020;half_angle=1.4;front_radius=.030
+camera_q=s.camera.rotation_euler.to_quaternion();camera_right=camera_q@Vector((1,0,0));camera_up=camera_q@Vector((0,1,0))
+tangent=(camera_right-normal*camera_right.dot(normal)).normalized();vertical=normal.cross(tangent).normalized()
+if vertical.dot(camera_up)<0:vertical=-vertical
+# Reference-driven side view: retain linked hardware and light rig.
+old_offset=s.camera.location-origin
+side=(old_offset-normal*old_offset.dot(normal)).normalized()
+s.camera.location=origin+side*.26+normal*.105
+target=origin+normal*.025
+s.camera.rotation_euler=(target-s.camera.location).to_track_quat('-Z','Y').to_euler()
+s.camera.data.lens=65
+camera_q=s.camera.rotation_euler.to_quaternion();camera_right=camera_q@Vector((1,0,0));camera_up=camera_q@Vector((0,1,0))
+tangent=(camera_right-normal*camera_right.dot(normal)).normalized();vertical=normal.cross(tangent).normalized()
+if vertical.dot(camera_up)<0:vertical=-vertical
+center=origin+normal*distance
+assert distance+half_width < (wall-origin).length
+collection=bpy.data.collections.new('STILL02_ILLUSTRATIVE_WAVEFRONT');s.collection.children.link(collection)
+# Three curved translucent wave surfaces; authored acoustic illustration.
+for index,radius in enumerate((.024,.033,.042)):
+ verts=[];alpha=[];faces=[];bands=40;steps=128;cap_angle=1.05
+ for i in range(bands+1):
+  u=i/bands;theta=u*cap_angle
+  for j in range(steps+1):
+   phi=j/steps*math.tau
+   verts.append(origin+normal*(radius*math.cos(theta))+tangent*(radius*math.sin(theta)*math.cos(phi))+vertical*(radius*math.sin(theta)*math.sin(phi)))
+   rim=math.exp(-((u-.96)/.035)**2)
+   alpha.append(min(1,(1-u)/.25))
+ for i in range(bands):
+  for j in range(steps):
+   q=i*(steps+1)+j;faces.append((q,q+1,q+steps+2,q+steps+1))
+ mesh=bpy.data.meshes.new('Curved translucent acoustic surface');mesh.from_pydata(verts,[],faces);mesh.update()
+ for poly in mesh.polygons:poly.use_smooth=True
+ attribute=mesh.color_attributes.new(name='SignalOpacity',type='FLOAT_COLOR',domain='CORNER')
+ for loop in mesh.loops:attribute.data[loop.index].color=(1,1,1,alpha[loop.vertex_index])
+ pulse=bpy.data.objects.new('OUTGOING_WAVEFRONT_ILLUSTRATION_'+str(index),mesh);collection.objects.link(pulse)
+ pulse['meaning']='Illustrative acoustic wave surface; no calibrated physical simulation.'
+ pulse['radius_m']=radius
+ mat=bpy.data.materials.new('Translucent blue acoustic shell');mat.use_nodes=True
+ nodes=mat.node_tree.nodes;nodes.clear();link=mat.node_tree.links
+ output=nodes.new('ShaderNodeOutputMaterial');mix=nodes.new('ShaderNodeMixShader');transparent=nodes.new('ShaderNodeBsdfTransparent');emission=nodes.new('ShaderNodeEmission');color=nodes.new('ShaderNodeVertexColor');color.layer_name='SignalOpacity'
+ emission.inputs['Color'].default_value=(.015,.35,1.,1);emission.inputs['Strength'].default_value=5.0
+ fresnel=nodes.new('ShaderNodeFresnel');fresnel.inputs['IOR'].default_value=1.18;add=nodes.new('ShaderNodeMath');add.operation='ADD';add.inputs[1].default_value=.018;mult=nodes.new('ShaderNodeMath');mult.operation='MULTIPLY';link.new(fresnel.outputs[0],add.inputs[0]);link.new(add.outputs[0],mult.inputs[0]);link.new(color.outputs['Alpha'],mult.inputs[1]);link.new(mult.outputs[0],mix.inputs[0]);link.new(transparent.outputs[0],mix.inputs[1]);link.new(emission.outputs[0],mix.inputs[2]);link.new(mix.outputs[0],output.inputs['Surface']);mesh.materials.append(mat)
+# Separate explanatory emission from approved whole-layer metal shading.
+beauty=s.view_layers[0];beauty.name='Approved model look';beauty.layer_collection.children[collection.name].exclude=True
+signal=s.view_layers.new('Illustrative outgoing pulse');signal.material_override=None
+for c in signal.layer_collection.children:c.exclude=c.name not in (collection.name,'B201_REVIEW_CAMERA')
+s.render.film_transparent=True;s.render.use_compositing=True
+s.use_nodes=True;group=bpy.data.node_groups.new('Still02 model + signal composition','CompositorNodeTree');s.compositing_node_group=group
+group.interface.new_socket(name='Image',in_out='OUTPUT',socket_type='NodeSocketColor');n=group.nodes;links=group.links
+base=n.new('CompositorNodeRLayers');base.scene=s;base.layer=beauty.name
+front=n.new('CompositorNodeRLayers');front.scene=s;front.layer=signal.name
+black=n.new('CompositorNodeRGB');black.outputs[0].default_value=(0,0,0,1)
+background=n.new('CompositorNodeAlphaOver');background.inputs['Factor'].default_value=1
+links.new(black.outputs[0],background.inputs['Background']);links.new(base.outputs['Image'],background.inputs['Foreground'])
+glow=n.new('CompositorNodeGlare');glow.inputs['Type'].default_value='Fog Glow';glow.inputs['Quality'].default_value='High';glow.inputs['Size'].default_value=.07;glow.inputs['Strength'].default_value=.25
+links.new(front.outputs['Image'],glow.inputs['Image'])
+over=n.new('CompositorNodeAlphaOver');over.inputs['Factor'].default_value=1
+links.new(background.outputs['Image'],over.inputs['Background']);links.new(glow.outputs['Image'],over.inputs['Foreground'])
+final=n.new('NodeGroupOutput');links.new(over.outputs[0],final.inputs['Image'])
+s.render.filepath=bpy.path.relpath(str(png),start=str(out.parent));s.frame_start=1;s.frame_end=1
+s['review_scope']='Still02 outgoing pulse proposal only. Still01 visually approved; no animation/wall contact/return/trace approval.'
+for lib in bpy.data.libraries:lib.filepath=bpy.path.relpath(bpy.path.abspath(lib.filepath),start=str(out.parent))
+bpy.ops.wm.save_as_mainfile(filepath=str(out),relative_remap=False)
+bpy.ops.wm.open_mainfile(filepath=str(out));s=bpy.context.scene;bpy.context.view_layer.update()
+t=time.perf_counter();bpy.ops.render.render(write_still=True);elapsed=time.perf_counter()-t
+cam=s.camera;projection=[list(world_to_camera_view(s,cam,p)) for p in (origin,origin+normal*distance,wall)]
+record={'scene':str(out.relative_to(P)),'image':str(png.relative_to(P)),'scene_sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'image_sha256':hashlib.sha256(png.read_bytes()).hexdigest(),'render_seconds':elapsed,'resolution':[1920,1080],'engine':s.render.engine,'samples':s.cycles.samples,'approved_input_scene_sha256':reference['scene_sha256'],'approved_input_image_sha256':reference['image_sha256'],'inputs':reference['inputs'],'camera':{'location':list(cam.location),'rotation':list(cam.rotation_euler),'lens_mm':cam.data.lens},'origin':list(origin),'wall_reference':list(wall),'direction':list(normal),'shell_radii_m':[.024,.033,.042],'cap_angle_rad':1.05,'distance_m':distance,'wavefront_radius_m':front_radius,'wavefront_half_width_m':half_width,'wavefront_half_angle_rad':half_angle,'plane_tangent':list(tangent),'plane_vertical':list(vertical),'projection_origin_front_wall':projection,'source_hashes_unchanged':all(hashlib.sha256((P/rel).read_bytes()).hexdigest()==h for rel,h in reference['inputs'].items()),'animation_rendered':False,'human_approval':'Still02v002 accepted as initial frame; this spreading-pulse still pending','layers':'Approved source geometry/lighting kept separate from illustrative emission; all use same camera.'}
+(R/'build-render_still02c_v003.json').write_text(json.dumps(record,indent=2));print('STILL02_RENDER_PASS',elapsed)

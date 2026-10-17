@@ -1,0 +1,141 @@
+{
+  "source_hashes": {
+    "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "config": {
+    "version": "v007",
+    "profile_order": [
+      "irregular",
+      "tight",
+      "spiral"
+    ],
+    "nominal_radius_m": 0.155575,
+    "tight_max_radial_reduction_m": 0.0012,
+    "tight_minimum_centered_clearance_floor_m": 0.0015,
+    "source_maximum_radial_envelope_m": 0.15240007711381226,
+    "tight_note": "Hypothetical local undersize only; no bit passage, drilling cause, dynamic/eccentric passage or operating safety claim. Straight centered full tool-envelope clearance bound.",
+    "source_hashes": {
+      "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+      "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+    },
+    "data_identity": "All fields illustrative, not acquired field data. T6 authored profiles retained. Amplitude is independent of radius."
+  },
+  "master": "04-Production/Mechanisms/B202/Scenes/B202_measured-envelope_master_v007.blend",
+  "candidates": [
+    {
+      "key": "A",
+      "state": {
+        "profile": 0,
+        "show_tool": 1,
+        "show_wall": 1,
+        "show_envelope": 0,
+        "show_sections": 1,
+        "show_samples": 1,
+        "show_nominal": 0,
+        "show_amplitude": 0,
+        "depth_reveal_m": 2.8,
+        "depth_start_m": 1.5,
+        "show_depth_sections": 0
+      },
+      "scene": "04-Production/Mechanisms/B202/Scenes/B202_A_v007.blend",
+      "still": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_A_v007.png",
+      "render_seconds": 2.4194962978363037
+    },
+    {
+      "key": "B",
+      "state": {
+        "profile": 0,
+        "show_tool": 0,
+        "show_wall": 0,
+        "show_envelope": 1,
+        "show_sections": 1,
+        "show_samples": 0,
+        "show_nominal": 1,
+        "show_amplitude": 0,
+        "depth_reveal_m": 4.8,
+        "depth_start_m": 1.5,
+        "show_depth_sections": 1
+      },
+      "scene": "04-Production/Mechanisms/B202/Scenes/B202_B_v007.blend",
+      "still": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_B_v007.png",
+      "render_seconds": 0.6945652961730957
+    },
+    {
+      "key": "C",
+      "state": {
+        "profile": 0,
+        "show_tool": 1,
+        "show_wall": 0,
+        "show_envelope": 1,
+        "show_sections": 0,
+        "show_samples": 0,
+        "show_nominal": 1,
+        "show_amplitude": 0,
+        "depth_reveal_m": 2.8,
+        "depth_start_m": 2.65,
+        "show_depth_sections": 0
+      },
+      "scene": "04-Production/Mechanisms/B202/Scenes/B202_C_v007.blend",
+      "still": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_C_v007.png",
+      "render_seconds": 1.2276649475097656
+    },
+    {
+      "key": "D",
+      "state": {
+        "profile": 1,
+        "show_tool": 1,
+        "show_wall": 0,
+        "show_envelope": 1,
+        "show_sections": 0,
+        "show_samples": 0,
+        "show_nominal": 1,
+        "show_amplitude": 0,
+        "depth_reveal_m": 2.8,
+        "depth_start_m": 2.65,
+        "show_depth_sections": 0
+      },
+      "scene": "04-Production/Mechanisms/B202/Scenes/B202_D_v007.blend",
+      "still": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_D_v007.png",
+      "render_seconds": 1.4074041843414307
+    },
+    {
+      "key": "E",
+      "state": {
+        "profile": 2,
+        "show_tool": 0,
+        "show_wall": 0,
+        "show_envelope": 1,
+        "show_sections": 0,
+        "show_samples": 0,
+        "show_nominal": 1,
+        "show_amplitude": 0,
+        "depth_reveal_m": 4.8,
+        "depth_start_m": 1.5,
+        "show_depth_sections": 1
+      },
+      "scene": "04-Production/Mechanisms/B202/Scenes/B202_E_v007.blend",
+      "still": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_E_v007.png",
+      "render_seconds": 0.7694189548492432
+    },
+    {
+      "key": "F",
+      "state": {
+        "profile": 0,
+        "show_tool": 0,
+        "show_wall": 0,
+        "show_envelope": 0,
+        "show_sections": 0,
+        "show_samples": 0,
+        "show_nominal": 0,
+        "show_amplitude": 1,
+        "depth_reveal_m": 4.8,
+        "depth_start_m": 1.5,
+        "show_depth_sections": 0
+      },
+      "scene": "04-Production/Mechanisms/B202/Scenes/B202_F_v007.blend",
+      "still": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_F_v007.png",
+      "render_seconds": 0.6141514778137207
+    }
+  ]
+}

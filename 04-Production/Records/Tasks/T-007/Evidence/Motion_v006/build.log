@@ -1,0 +1,22 @@
+00:02.829  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_pulse-echo_fast-preview_v005.blend"
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\build_motion_preview_v006.py:45: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat=bpy.data.materials.new(name); mat.use_nodes=True; n=mat.node_tree.nodes; n.clear(); l=mat.node_tree.links
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Info: Packed 1 file(s)
+Info: Saved as "B201_pulse-echo_refinement_v006.blend"
+BUILD_PASS
+00:07.032  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f024.png'
+00:07.954  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f036.png'
+00:08.797  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f039.png'
+00:09.829  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f044.png'
+00:10.766  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f054.png'
+00:11.688  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f060.png'
+00:12.485  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f072.png'
+00:13.297  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f100.png'
+00:14.204  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f163.png'
+00:15.125  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f176.png'
+00:16.032  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f210.png'
+00:16.938  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Inspect\f222.png'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

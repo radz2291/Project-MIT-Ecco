@@ -1,0 +1,10 @@
+00:07.312  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_sensor-origin_still01_v003.blend"
+Traceback (most recent call last):
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\verify_still01_v003.py", line 22, in <module>
+    cap=caps[0];point=cap.matrix_world.translation;p=world_to_camera_view(s,s.camera,point)
+                      ^^^^^^^^^^^^^^^^
+ReferenceError: StructRNA of type DepsgraphObjectInstance has been removed
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

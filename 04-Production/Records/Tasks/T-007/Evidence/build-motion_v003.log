@@ -1,0 +1,47 @@
+00:03.078  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_returning-echo_still04_v003.blend"
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Info: Saved as "B201_pulse-echo_fast-preview_v003.blend"
+ANIMATION_BUILD_PASS [{'cycle': 1, 'start': 1, 'end': 80, 'rotation_degrees': 0, 'emit_frame': 8, 'contact_frame': 28, 'receive_frame': 48, 'leg_frames': 20, 'receiver': [2.799999952316284, -0.018231673166155815, 0.12972509860992432], 'wall': [2.799999952316284, -0.02468518167734146, 0.175644189119339], 'standoff_m': 0.04637036490143733, 'ray_error_m': 0.0}, {'cycle': 2, 'start': 81, 'end': 160, 'rotation_degrees': 6, 'emit_frame': 88, 'contact_frame': 107, 'receive_frame': 126, 'leg_frames': 19, 'receiver': [2.799999952316284, -0.0316917784512043, 0.12710872292518616], 'wall': [2.799999952316284, -0.04218965023756027, 0.16921336948871613], 'standoff_m': 0.04339362383111321, 'ray_error_m': 0.0}, {'cycle': 3, 'start': 161, 'end': 240, 'rotation_degrees': 12, 'emit_frame': 168, 'contact_frame': 185, 'receive_frame': 202, 'leg_frames': 17, 'receiver': [2.799999952316284, -0.04480463266372681, 0.12309972196817398], 'wall': [2.799999952316284, -0.05847685784101486, 0.16066384315490723], 'standoff_m': 0.03997490448439038, 'ray_error_m': 0.0}]
+00:05.281  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_pulse-echo_fast-preview_v003.blend"
+00:10.875  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f001_v003.png'
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+INSPECTION {'frame': 1, 'seconds': 5.190700299994205}
+00:11.562  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f008_v003.png'
+INSPECTION {'frame': 8, 'seconds': 0.6664698000022327}
+00:12.218  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f018_v003.png'
+INSPECTION {'frame': 18, 'seconds': 0.6610663999963435}
+00:12.984  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f027_v003.png'
+INSPECTION {'frame': 27, 'seconds': 0.7539764000030118}
+00:13.750  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f028_v003.png'
+INSPECTION {'frame': 28, 'seconds': 0.7701276999941911}
+00:14.531  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f029_v003.png'
+INSPECTION {'frame': 29, 'seconds': 0.7727799999993294}
+00:15.297  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f031_v003.png'
+INSPECTION {'frame': 31, 'seconds': 0.7614180999953533}
+00:16.125  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f034_v003.png'
+INSPECTION {'frame': 34, 'seconds': 0.8167938000042341}
+00:16.906  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f038_v003.png'
+INSPECTION {'frame': 38, 'seconds': 0.782866900000954}
+00:17.687  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f042_v003.png'
+INSPECTION {'frame': 42, 'seconds': 0.7688820000039414}
+00:18.453  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f048_v003.png'
+INSPECTION {'frame': 48, 'seconds': 0.7599743999962811}
+00:19.203  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f050_v003.png'
+INSPECTION {'frame': 50, 'seconds': 0.7542467000021134}
+00:19.828  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f088_v003.png'
+INSPECTION {'frame': 88, 'seconds': 0.6205207000020891}
+00:20.609  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f107_v003.png'
+INSPECTION {'frame': 107, 'seconds': 0.7657110999934957}
+00:21.375  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f126_v003.png'
+INSPECTION {'frame': 126, 'seconds': 0.7653139999965788}
+00:22.156  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f168_v003.png'
+INSPECTION {'frame': 168, 'seconds': 0.7810566999978619}
+00:22.906  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f185_v003.png'
+INSPECTION {'frame': 185, 'seconds': 0.7421843000047375}
+00:23.656  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f202_v003.png'
+INSPECTION {'frame': 202, 'seconds': 0.746144099997764}
+00:24.281  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v003\B201_inspect_f240_v003.png'
+INSPECTION {'frame': 240, 'seconds': 0.6226460000034422}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

@@ -1,0 +1,14 @@
+00:02.719  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_sensor-origin_still01_v004.blend"
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\build_still02b_v001.py:41: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat=bpy.data.materials.new('Still02 cyan front with soft transparent edges');mat.use_nodes=True
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\build_still02b_v001.py:51: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  s.use_nodes=True;group=bpy.data.node_groups.new('Still02 model + signal composition','CompositorNodeTree');s.compositing_node_group=group
+00:03.156  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_spreading-pulse_still02b_v001.blend"
+01:00.281  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Still_02b\B201_spreading-pulse_still02b_v001.png'
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Info: Saved as "B201_spreading-pulse_still02b_v001.blend"
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+STILL02_RENDER_PASS 56.90424470000016
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

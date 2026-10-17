@@ -1,0 +1,21 @@
+00:02.984  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scenes\B202-M_motion-full_v006d.blend"
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scripts\build_motion_revision_v007.py:19: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.use_nodes=True;t=m.node_tree;t.nodes.clear();e=t.nodes.new('ShaderNodeEmission');e.inputs[0].default_value=(*color,1);o=t.nodes.new('ShaderNodeOutputMaterial');t.links.new(e.outputs[0],o.inputs[0]);return m
+00:05.188  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionRevision_v007\tight_detail_source_v007.png'
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scripts\build_motion_revision_v007.py:50: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  image=bpy.data.images.load(str(P/'tight_detail_source_v007.png'));image.filepath=bpy.path.relpath(str(P/'tight_detail_source_v007.png'),start=str(out.parent));m=bpy.data.materials.new('T27 v007 actual source-camera inset');m.use_nodes=True;t=m.node_tree;t.nodes.clear();tex=t.nodes.new('ShaderNodeTexImage');tex.image=image;em=t.nodes.new('ShaderNodeEmission');output=t.nodes.new('ShaderNodeOutputMaterial');t.links.new(tex.outputs['Color'],em.inputs[0]);t.links.new(em.outputs[0],output.inputs[0]);me=bpy.data.meshes.new('Source-camera inset display');me.from_pydata([(-.07,-.07,0),(.07,-.07,0),(.07,.07,0),(-.07,.07,0)],[],[(0,1,2,3)]);uv=me.uv_layers.new();
+00:09.563  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionRevision_v007\proof_0168.png'
+00:10.266  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionRevision_v007\proof_0336.png'
+00:11.375  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionRevision_v007\proof_0384.png'
+00:11.766  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionRevision_v007\proof_0480.png'
+00:12.172  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionRevision_v007\proof_0552.png'
+00:12.547  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionRevision_v007\proof_0601.png'
+00:12.953  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionRevision_v007\proof_0648.png'
+00:13.328  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionRevision_v007\proof_0684.png'
+00:13.719  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionRevision_v007\proof_0720.png'
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Info: Saved as "B202-M_motion-revision_v007.blend"
+BUILD_V007_PASS
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

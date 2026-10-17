@@ -1,0 +1,16 @@
+00:04.046  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_spreading-pulse_still02c_v001.blend"
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\build_still03_v005.py:40: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat=bpy.data.materials.new('Subdued rock with illustrative localized acoustic contact');mat.use_nodes=True;n=mat.node_tree.nodes;n.clear();l=mat.node_tree.links
+00:05.015  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_wall-interaction_still03_v005.blend"
+02:05.500  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Still_03\B201_wall-interaction_still03_v005.png'
+Traceback (most recent call last):
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\build_still03_v005.py", line 68, in <module>
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+    record={'scene':str(out.relative_to(P)),'image':str(png.relative_to(P)),'scene_sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'image_sha256':hashlib.sha256(png.read_bytes()).hexdigest(),'approved_source_sha256':ref['scene_sha256'],'inputs':ref['inputs'],'origin':list(origin),'wall':list(wall),'standoff_m':distance,'front_radii_m':[.028,.037,distance],'wall_correspondence_max_m':max(errors),'wall_vertices':len(verts),'camera_unchanged':False,'camera':{'location':list(s.camera.location),'rotation':list(s.camera.rotation_euler),'lens_mm':s.camera.data.lens},'wall_reconstruction':'Full retained T6 sampling grid; removed viewing-window faces restored from their original retained vertices','render_seconds':elapsed,'resolution':[1920,1080],'animation_rendered':False,'visual_approval':'pending','rock_texture':'Authored surface shading, not geological/material identification','contact_glow':'Illustrative arrival emphasis, not physical emitted light'}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ^^^^^^^^
+Info: Saved as "B201_wall-interaction_still03_v005.blend"
+ReferenceError: StructRNA of type Scene has been removed
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

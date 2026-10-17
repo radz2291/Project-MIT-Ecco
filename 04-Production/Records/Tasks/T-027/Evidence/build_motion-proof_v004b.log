@@ -1,0 +1,15 @@
+00:04.000  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scenes\B202_measured-envelope_master_v009.blend"
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scripts\build_motion_proof_v004b.py:60: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat=bpy.data.materials.new('T27 matte rock / presentation-only exterior');mat.use_nodes=True;tree=mat.node_tree;bs=tree.nodes.get('Principled BSDF');bs.inputs['Base Color'].default_value=(.095,.062,.037,1);bs.inputs['Roughness'].default_value=.9
+00:10.750  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionProof_v004b\proof_0001.png'
+00:11.359  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionProof_v004b\proof_0014.png'
+00:11.969  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionProof_v004b\proof_0072.png'
+00:12.703  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionProof_v004b\proof_0144.png'
+00:13.516  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionProof_v004b\proof_0240.png'
+00:14.156  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionProof_v004b\proof_0336.png'
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Info: Saved as "B202-M_motion-proof_v004b.blend"
+T27_V004_BUILD_PASS
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

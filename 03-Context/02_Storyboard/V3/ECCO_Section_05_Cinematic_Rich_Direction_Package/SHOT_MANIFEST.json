@@ -1,0 +1,28 @@
+{
+  "section_id": "05",
+  "section_title": "ENP3 Hydraulic Enhancement",
+  "timeline": "0:58\u20131:10",
+  "shots": [
+    {
+      "shot_id": "S05-A",
+      "title": "The Flow Accelerates",
+      "time": "0:58\u20131:02",
+      "image": "S05_A_The_Flow_Accelerates/S05_A_The_Flow_Accelerates.png",
+      "purpose": "Introduce ENP3 as an active hydraulic body that accelerates annular mud flow and mobilizes cuttings."
+    },
+    {
+      "shot_id": "S05-B",
+      "title": "Engineered Turbulence",
+      "time": "1:02\u20131:06",
+      "image": "S05_B_Engineered_Turbulence/S05_B_Engineered_Turbulence.png",
+      "purpose": "Focus on the twisted-pad region where tool geometry redirects flow and agitates cuttings."
+    },
+    {
+      "shot_id": "S05-C",
+      "title": "The Flow Finds Its Path",
+      "time": "1:06\u20131:10",
+      "image": "S05_C_The_Flow_Finds_Its_Path/S05_C_The_Flow_Finds_Its_Path.png",
+      "purpose": "Reveal downstream flow organization and the integrated action of the full three-stage hydraulic body."
+    }
+  ]
+}

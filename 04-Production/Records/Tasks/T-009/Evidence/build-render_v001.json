@@ -1,0 +1,79 @@
+[
+  {
+    "case": "retrieval",
+    "frames": 144,
+    "fps": 24,
+    "render_size": [
+      1280,
+      400
+    ],
+    "render_seconds": 26.90851449999991,
+    "scene": "04-Production/Mechanisms/B203/Scenes/B203_retrieval_v001.blend",
+    "scene_sha256": "a0c768ccd8da1f22222a0a322f61956954470a858458e5b71994785f880ea487",
+    "checks": {
+      "relative_libraries_resolve": true,
+      "objects": 20,
+      "travel_m": [
+        0.6000000238418579,
+        -4.5,
+        -4.5
+      ],
+      "nominal_radial_clearance_m": 0.006540500000000005,
+      "final_bit_x": [
+        -1.6,
+        -1.42
+      ]
+    }
+  },
+  {
+    "case": "support",
+    "frames": 144,
+    "fps": 24,
+    "render_size": [
+      1280,
+      400
+    ],
+    "render_seconds": 17.56227630000012,
+    "scene": "04-Production/Mechanisms/B203/Scenes/B203_support_v001.blend",
+    "scene_sha256": "89013f72136a01ebb6d4e2202828b6d6ae5f213438f2583f96cd3e950abb3ff0",
+    "checks": {
+      "relative_libraries_resolve": true,
+      "objects": 7
+    }
+  },
+  {
+    "case": "channel",
+    "frames": 144,
+    "fps": 24,
+    "render_size": [
+      1280,
+      400
+    ],
+    "render_seconds": 15.913368399999854,
+    "scene": "04-Production/Mechanisms/B203/Scenes/B203_channel_v001.blend",
+    "scene_sha256": "7078ae75e6e58feba785120f8de4445e0f306de5b55e4fe37edb23393a6dae22",
+    "checks": {
+      "relative_libraries_resolve": true,
+      "objects": 4
+    }
+  },
+  {
+    "case": "wear",
+    "frames": 144,
+    "fps": 24,
+    "render_size": [
+      1280,
+      400
+    ],
+    "render_seconds": 13.108638099999553,
+    "scene": "04-Production/Mechanisms/B203/Scenes/B203_wear_v001.blend",
+    "scene_sha256": "ca6f6d960c397188447bef663ec38cb42871c0ffaf3fd3f506e09aad87761bbd",
+    "checks": {
+      "relative_libraries_resolve": true,
+      "objects": 4,
+      "outer_radius_m": 0.1698625,
+      "authored_max_inner_radius_m": 0.16294050000000002,
+      "authored_wear_m": 0.004
+    }
+  }
+]

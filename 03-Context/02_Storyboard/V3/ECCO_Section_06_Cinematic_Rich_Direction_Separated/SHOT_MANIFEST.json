@@ -1,0 +1,58 @@
+{
+  "project": "MIT ECCO ENP3",
+  "section": "06",
+  "timecode": "1:10–1:22",
+  "duration_sec": 12,
+  "status": "cinematic_direction_proposed",
+  "next_step": "controlled_3d_keyframes_then_animatic",
+  "shots": [
+    {
+      "id": "S06-A",
+      "title": "The Invisible Takes Shape",
+      "timecode": "1:10–1:14",
+      "duration_sec": 4,
+      "image": "S06_A_The_Invisible_Takes_Shape/S06_A_The_Invisible_Takes_Shape.png",
+      "description": "S06_A_The_Invisible_Takes_Shape/SHOT_DIRECTION.md",
+      "padlet_caption": "S06_A_The_Invisible_Takes_Shape/PADLET_CAPTION.md",
+      "source_type": "generated_cinematic_concept",
+      "verified_real_field_data": false,
+      "notes": "Actual data are retrieved after the run; do not show live 3D transmission or clone the fictional tool geometry from the image."
+    },
+    {
+      "id": "S06-A",
+      "title": "Unfolding the Underground",
+      "timecode": "1:14–1:19",
+      "duration_sec": 5,
+      "image": "S06_B_Unfolding_The_Underground/S06_B_Unfolding_The_Underground.png",
+      "description": "S06_B_Unfolding_The_Underground/SHOT_DIRECTION.md",
+      "padlet_caption": "S06_B_Unfolding_The_Underground/PADLET_CAPTION.md",
+      "source_type": "generated_cinematic_concept",
+      "verified_real_field_data": false,
+      "notes": "Do not treat an irregular borehole as a physically stretched steel shell; preserve mapped data coordinates rather than inventing textures."
+    },
+    {
+      "id": "S06-A",
+      "title": "Real Engineering Evidence",
+      "timecode": "1:19–1:22",
+      "duration_sec": 3,
+      "image": "S06_C_Real_Engineering_Evidence/S06_C_Real_Engineering_Evidence.png",
+      "description": "S06_C_Real_Engineering_Evidence/SHOT_DIRECTION.md",
+      "padlet_caption": "S06_C_Real_Engineering_Evidence/PADLET_CAPTION.md",
+      "source_type": "generated_cinematic_concept",
+      "verified_real_field_data": false,
+      "notes": "Generated screen readings are fictional. Source report is ENP1 and confidential; obtain display permissions."
+    }
+  ],
+  "private_real_reference": {
+    "path": "90_PRIVATE_REFERENCE_NOT_FOR_PUBLIC_PADLET/REAL_MiVU_LipanBara_ENP1_Report_Page_03_CONFIDENTIAL.png",
+    "origin": "Mi-VU Borehole Log Report, page 3, PCSB LipanBara, ENP1",
+    "share_without_clearance": false
+  },
+  "engineering_constraints": [
+    "Processed after retrieval, not live detailed telemetry",
+    "3D→2D azimuth/depth value mapping, not literal cutting",
+    "Geometry and amplitude are distinct",
+    "No fictitious generated logs as actual evidence",
+    "Real LipanBara report is ENP1 and confidential"
+  ]
+}

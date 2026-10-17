@@ -1,0 +1,232 @@
+{
+  "inputs": {
+    "Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4",
+    "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+  },
+  "blender": "5.2.2 LTS",
+  "sensor_references": [
+    {
+      "name": "ECCO_SENSOR_REF_01",
+      "position": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ]
+    },
+    {
+      "name": "ECCO_SENSOR_REF_02",
+      "position": [
+        0.7300000190734863,
+        -0.12043187767267227,
+        0.046229466795921326
+      ]
+    },
+    {
+      "name": "ECCO_SENSOR_REF_03",
+      "position": [
+        0.7300000190734863,
+        0.020180046558380127,
+        -0.12741179764270782
+      ]
+    }
+  ],
+  "closures": [
+    "TEMP | Imaging port 1 | removable acoustic cap",
+    "TEMP | Imaging port 2 | removable acoustic cap",
+    "TEMP | Imaging port 3 | removable acoustic cap",
+    "TEMP | Service cover 1 | removable fitted plate",
+    "TEMP | Service cover 2 | removable fitted plate",
+    "TEMP | Service cover 3 | removable fitted plate",
+    "TEMP | Service port 1 | removable metal plug",
+    "TEMP | Service port 2 | removable metal plug",
+    "TEMP | Service port 3 | removable metal plug"
+  ],
+  "events": [
+    {
+      "cycle": 1,
+      "start": 1,
+      "angle_rad": 0.6806784005175964,
+      "rotation_rad": 0.0,
+      "emit": 11,
+      "contact": 19,
+      "receive": 27,
+      "origin": [
+        0.7300000190734863,
+        0.10211697220802307,
+        0.0826926901936531
+      ],
+      "wall": [
+        0.7300000190734863,
+        0.1208726093173027,
+        0.09788070619106293
+      ],
+      "rim": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "source_surface": "TEMP | Imaging port 1 | removable acoustic cap",
+      "surface_radius_m": 0.13099999017530717,
+      "illustrative_standoff_m": 0.024133995718590817,
+      "leg_frames": 8
+    },
+    {
+      "cycle": 2,
+      "start": 73,
+      "angle_rad": 1.2391837611557819,
+      "rotation_rad": 0.5585053606381855,
+      "emit": 83,
+      "contact": 91,
+      "receive": 99,
+      "origin": [
+        0.7300000190734863,
+        0.04277965426445007,
+        0.12424112856388092
+      ],
+      "wall": [
+        0.7300000190734863,
+        0.05066830292344093,
+        0.1471514254808426
+      ],
+      "rim": [
+        0.7300000190734863,
+        0.04199829325079918,
+        0.12197189778089523
+      ],
+      "source_surface": "TEMP | Imaging port 1 | removable acoustic cap",
+      "surface_radius_m": 0.13099999017530717,
+      "illustrative_standoff_m": 0.024230404067996696,
+      "leg_frames": 8
+    },
+    {
+      "cycle": 3,
+      "start": 145,
+      "angle_rad": 1.7976891217939674,
+      "rotation_rad": 1.117010721276371,
+      "emit": 155,
+      "contact": 163,
+      "receive": 171,
+      "origin": [
+        0.7300000190734863,
+        -0.029558565467596054,
+        0.12803222239017487
+      ],
+      "wall": [
+        0.7300000190734863,
+        -0.035026367753744125,
+        0.15171587467193604
+      ],
+      "rim": [
+        0.7300000190734863,
+        -0.029018685221672058,
+        0.12569373846054077
+      ],
+      "source_surface": "TEMP | Imaging port 1 | removable acoustic cap",
+      "surface_radius_m": 0.13099999017530717,
+      "illustrative_standoff_m": 0.024306629778221435,
+      "leg_frames": 8
+    },
+    {
+      "cycle": 4,
+      "start": 217,
+      "angle_rad": 2.356194482432153,
+      "rotation_rad": 1.6755160819145565,
+      "emit": 227,
+      "contact": 235,
+      "receive": 243,
+      "origin": [
+        0.7300000190734863,
+        -0.09291382133960724,
+        0.09291382133960724
+      ],
+      "wall": [
+        0.7300000190734863,
+        -0.11011341959238052,
+        0.11011341959238052
+      ],
+      "rim": [
+        0.7300000190734863,
+        -0.09121677279472351,
+        0.09121677279472351
+      ],
+      "source_surface": "TEMP | Imaging port 1 | removable acoustic cap",
+      "surface_radius_m": 0.13099999017530717,
+      "illustrative_standoff_m": 0.024323904937973026,
+      "leg_frames": 8
+    },
+    {
+      "cycle": 5,
+      "start": 289,
+      "angle_rad": 2.914699843070338,
+      "rotation_rad": 2.234021442552742,
+      "emit": 299,
+      "contact": 307,
+      "receive": 315,
+      "origin": [
+        0.7300000190734863,
+        -0.12803222239017487,
+        0.029558567330241203
+      ],
+      "wall": [
+        0.7300000190734863,
+        -0.15153023600578308,
+        0.03498351201415062
+      ],
+      "rim": [
+        0.7300000190734863,
+        -0.12569373846054077,
+        0.029018687084317207
+      ],
+      "source_surface": "TEMP | Imaging port 1 | removable acoustic cap",
+      "surface_radius_m": 0.13099999017530717,
+      "illustrative_standoff_m": 0.024116108173454855,
+      "leg_frames": 8
+    },
+    {
+      "cycle": 6,
+      "start": 361,
+      "angle_rad": 3.4732052037085235,
+      "rotation_rad": 2.792526803190927,
+      "emit": 371,
+      "contact": 379,
+      "receive": 387,
+      "origin": [
+        0.7300000190734863,
+        -0.12424112856388092,
+        -0.042779650539159775
+      ],
+      "wall": [
+        0.7300000190734863,
+        -0.14718906581401825,
+        -0.050681259483098984
+      ],
+      "rim": [
+        0.7300000190734863,
+        -0.12197189778089523,
+        -0.04199828952550888
+      ],
+      "source_surface": "TEMP | Imaging port 1 | removable acoustic cap",
+      "surface_radius_m": 0.13099999017530717,
+      "illustrative_standoff_m": 0.024270213700473182,
+      "leg_frames": 8
+    }
+  ],
+  "scene_sha256": "660755a04b7eb55e27b62f39b2c7fe05316f9f923a3a34066df8656bd9748320",
+  "camera": {
+    "position": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      1.5707963705062866,
+      -0.0,
+      -1.5707963705062866
+    ],
+    "clip": [
+      1.718000054359436,
+      1.7419999837875366
+    ],
+    "ortho_scale": 0.41499999165534973
+  }
+}

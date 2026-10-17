@@ -1,0 +1,11 @@
+00:02.781  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_returning-echo_still04_v003.blend"
+00:06.281  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-007\Evidence\FastPreview_v003\eevee_test_00.png'
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+BENCHMARK 0 3.2308239999983925
+00:07.906  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-007\Evidence\FastPreview_v003\eevee_test_01.png'
+BENCHMARK 1 1.62436290000187
+00:09.578  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Records\Tasks\T-007\Evidence\FastPreview_v003\eevee_test_02.png'
+BENCHMARK 2 1.6672822999971686
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

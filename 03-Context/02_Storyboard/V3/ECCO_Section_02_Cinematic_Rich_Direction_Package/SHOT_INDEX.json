@@ -1,0 +1,44 @@
+{
+  "project": "MIT Technologies / ECCO ENP3",
+  "stage": "cinematic_shot_architecture_step_1",
+  "section": "S02",
+  "section_title": "The First Ping",
+  "start_time_sec": 10,
+  "end_time_sec": 22,
+  "duration_sec": 12,
+  "client_approved": false,
+  "reference_images_are_technical_CAD": false,
+  "shots": [
+    {
+      "id": "S02-A",
+      "title": "First Contact",
+      "start_time_sec": 10,
+      "end_time_sec": 13,
+      "duration_sec": 3,
+      "main_image": "S02_A_First_Contact.png",
+      "reference_caveat": "Do not copy front/axial emitter into actual ENP3 hardware."
+    },
+    {
+      "id": "S02-B",
+      "title": "Sound Becomes Measurement",
+      "start_time_sec": 13,
+      "end_time_sec": 17,
+      "duration_sec": 4,
+      "main_image": "S02_B_Sound_Becomes_Measurement.png",
+      "reference_caveat": "Image does not show required waveform and depicts different-depth sensors; use one actual 120-degree sensor plane."
+    },
+    {
+      "id": "S02-C",
+      "title": "The Hidden Circumference",
+      "start_time_sec": 17,
+      "end_time_sec": 22,
+      "duration_sec": 5,
+      "main_image": "S02_C_The_Hidden_Circumference.png",
+      "reference_caveat": "Interpret decorative grid as reveal motif, not exact radial sampling; no axial front sensor."
+    }
+  ],
+  "alternate_reference": "ALT_Rotating_Tool_Reference.png",
+  "primary_director_document": "DIRECTOR_SHOT_ARCHITECTURE_DETAILED.md",
+  "padlet_descriptions": "PADLET_RICH_SHOT_DESCRIPTIONS.md",
+  "next_stage": "Atomic reproducible cinematic keyframes, then 3D storyboard and animatic."
+}

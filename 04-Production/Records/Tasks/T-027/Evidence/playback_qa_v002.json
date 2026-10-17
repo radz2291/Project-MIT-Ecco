@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "decoded_frames": 192,
+  "fps": 24.0,
+  "duration_s": 8.0,
+  "width": 960,
+  "height": 540,
+  "adjacent_frame_mean_pixel_delta": {
+    "min": 0.00012667181069958848,
+    "max": 11.437428626543209,
+    "mean": 4.495471951554522
+  },
+  "visual_inspection_frames": [
+    1,
+    12,
+    28,
+    72,
+    116,
+    156,
+    192
+  ],
+  "outputs": [
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202-M_motion-proof_v002.blend",
+      "bytes": 23725319,
+      "sha256": "eabec16255c321b4567dd45a5bf7e9a12e059f2cacae13b5e5fa165e61262e77"
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/MotionProof_v002/B202-M_motion-proof_v002.mp4",
+      "bytes": 1495247,
+      "sha256": "c0eb52720cf9cb0f8f41bddc243ffb27ee1ac33083c22fe2ca81ac3cb5a5350d"
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/MotionProof_v002/B202-M_review-sheet_v002.jpg",
+      "bytes": 180465,
+      "sha256": "45c97a4137cc4c9fe5d2d71895b91531f0a5ebfe172401f6392ed54d7f33e8d6"
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/MotionProof_v002/review_v002.html",
+      "bytes": 1410,
+      "sha256": "8f2b3d1ebe974771b0f8d33445be96bf6f46752e4cc46aaea9b2603f4f9a89e2"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-027/Evidence/replay_manifest_v002.json",
+      "bytes": 313728,
+      "sha256": "76ecdb4a1568e336232c25f8cda2698569b5e60dfe488083ffb387c1e10746c2"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-027/Evidence/verification_motion-proof_v002.json",
+      "bytes": 169735,
+      "sha256": "e0514c846bd1f91914c9d1b5ffa7369d2dbb3cef21191808c6ce58468e2ab3a4"
+    }
+  ],
+  "scope": "All frames decoded, dimensions/duration validated. Agent key-frame and sampled sequential inspection; human motion acceptance pending."
+}

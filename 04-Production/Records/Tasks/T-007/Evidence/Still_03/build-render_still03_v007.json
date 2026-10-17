@@ -1,0 +1,53 @@
+{
+  "scene": "Mechanisms\\B201\\Scenes\\B201_wall-interaction_still03_v007.blend",
+  "image": "Mechanisms\\B201\\Previews\\Still_03\\B201_wall-interaction_still03_v007.png",
+  "scene_sha256": "e9b11a78c7ad351bba0b33b9fe1f2886012bd7cfd9bb5354bcbb0753d3b9b071",
+  "image_sha256": "be5d256ad4edb4649b0f5b6ddf0a0733c833d73830773a4bb7487f488b947ffb",
+  "approved_source_sha256": "33c4491f9dc9867b6b9cd36fc295f2dd6ad2abef8e7cc82706e451086128bdff",
+  "inputs": {
+    "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "origin": [
+    2.799999952316284,
+    -0.01828734390437603,
+    0.13012121617794037
+  ],
+  "wall": [
+    2.799999952316284,
+    -0.02468518167734146,
+    0.175644189119339
+  ],
+  "standoff_m": 0.045970353173797864,
+  "front_radii_m": [
+    0.028,
+    0.037,
+    0.045970353173797864
+  ],
+  "wall_correspondence_max_m": 2.413114259525173e-07,
+  "wall_vertices": 3965,
+  "camera_unchanged": false,
+  "camera": {
+    "location": [
+      2.630000114440918,
+      -0.05267160385847092,
+      0.15921902656555176
+    ],
+    "rotation": [
+      1.1277269124984741,
+      -1.4185043573379517,
+      -0.9468476176261902
+    ],
+    "lens_mm": 30.0
+  },
+  "wall_reconstruction": "Full retained T6 sampling grid; removed viewing-window faces restored from their original retained vertices",
+  "render_seconds": 97.96970640000018,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "animation_rendered": false,
+  "visual_approval": "pending",
+  "rock_texture": "Authored surface shading, not geological/material identification",
+  "contact_glow": "Illustrative arrival emphasis, not physical emitted light"
+}

@@ -1,0 +1,47 @@
+{
+  "section_id": "01",
+  "section_title": "Enter the Unseen World",
+  "timeline_start": "0:00",
+  "timeline_end": "0:10",
+  "duration_seconds": 10,
+  "status": "cinematic direction / pending camera-locked keyframes",
+  "narrative_identity": "Cinematic Discovery",
+  "shot_order": [
+    {
+      "id": "S01-A",
+      "folder": "S01_A_From_Surface_To_Depth",
+      "title": "From Surface to Depth",
+      "time": "0:00\u20130:03",
+      "duration_seconds": 3,
+      "primary_image": "S01_A_From_Surface_To_Depth/S01_A_From_Surface_To_Depth.png",
+      "source_crop": "S01_A_From_Surface_To_Depth/S01_A_From_Surface_To_Depth_Source_Crop.png",
+      "shot_direction": "S01_A_From_Surface_To_Depth/SHOT_DIRECTION.md",
+      "padlet_caption": "S01_A_From_Surface_To_Depth/PADLET_CAPTION.md"
+    },
+    {
+      "id": "S01-B",
+      "folder": "S01_B_Into_Darkness",
+      "title": "Into Darkness",
+      "time": "0:03\u20130:07",
+      "duration_seconds": 4,
+      "primary_image": "S01_B_Into_Darkness/S01_B_Into_Darkness.png",
+      "source_crop": "S01_B_Into_Darkness/S01_B_Into_Darkness_Source_Crop.png",
+      "shot_direction": "S01_B_Into_Darkness/SHOT_DIRECTION.md",
+      "padlet_caption": "S01_B_Into_Darkness/PADLET_CAPTION.md"
+    },
+    {
+      "id": "S01-C",
+      "folder": "S01_C_A_World_Beyond_Sight",
+      "title": "A World Beyond Sight",
+      "time": "0:07\u20130:10",
+      "duration_seconds": 3,
+      "primary_image": "S01_C_A_World_Beyond_Sight/S01_C_A_World_Beyond_Sight.png",
+      "source_crop": "S01_C_A_World_Beyond_Sight/S01_C_A_World_Beyond_Sight_Source_Crop.png",
+      "shot_direction": "S01_C_A_World_Beyond_Sight/SHOT_DIRECTION.md",
+      "padlet_caption": "S01_C_A_World_Beyond_Sight/PADLET_CAPTION.md"
+    }
+  ],
+  "reference_origin": "main shot images individually cropped from generated Section 1 overview; 16:9 plates padded without stretching and are not native full-resolution renders",
+  "location_assumption": "offshore rig suggested, not verified",
+  "images_are_not_CAD": true
+}

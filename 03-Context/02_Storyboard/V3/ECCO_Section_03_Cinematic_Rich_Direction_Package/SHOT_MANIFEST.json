@@ -1,0 +1,43 @@
+{
+  "section_id": "03",
+  "section_title": "Open Hole: Geometry & Formation Imaging",
+  "timeline": "0:22\u20130:40",
+  "shots": [
+    {
+      "shot_id": "S03-A",
+      "title": "Reality Revealed",
+      "time": "0:22\u20130:28",
+      "main_image": "S03_A_Reality_Revealed.png",
+      "support_image": "SUPPORT_S03_A_Sketch.png",
+      "purpose": "Show the difference between nominal bit size and actual measured borehole geometry.",
+      "notes": [
+        "Main image is cinematic reference, not mechanically final.",
+        "Nominal white reference must remain explicit in execution."
+      ]
+    },
+    {
+      "shot_id": "S03-B",
+      "title": "Geometry Through Depth",
+      "time": "0:28\u20130:34",
+      "main_image": "S03_B_Geometry_Through_Depth.png",
+      "support_image": "SUPPORT_S03_B_Sketch.png",
+      "purpose": "Reveal a longer 3D borehole reconstruction through depth.",
+      "notes": [
+        "Irregularity belongs to the wall.",
+        "Avoid floating spiral-ribbon interpretation."
+      ]
+    },
+    {
+      "shot_id": "S03-C",
+      "title": "Beyond Geometry",
+      "time": "0:34\u20130:40",
+      "main_image": "S03_C_Beyond_Geometry.png",
+      "support_image": "SUPPORT_S03_C_Sketch.png",
+      "purpose": "Transition from geometry interpretation to amplitude / formation imaging.",
+      "notes": [
+        "Yellow/brown is a representational overlay.",
+        "Keep continuity with Shot B."
+      ]
+    }
+  ]
+}

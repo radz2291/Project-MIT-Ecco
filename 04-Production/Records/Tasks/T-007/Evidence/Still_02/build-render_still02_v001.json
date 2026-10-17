@@ -1,0 +1,71 @@
+{
+  "scene": "Mechanisms\\B201\\Scenes\\B201_outgoing-pulse_still02_v001.blend",
+  "image": "Mechanisms\\B201\\Previews\\Still_02\\B201_outgoing-pulse_still02_v001.png",
+  "scene_sha256": "6f0305a99e472d286074bbd76fcea1bf1a770524334a0f39229ea563590ef4b6",
+  "image_sha256": "7cad5f549a9ce6ece46f9eb7a863192738113ece189e356d2e77db503ea9c6c8",
+  "render_seconds": 60.19948990000012,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "engine": "CYCLES",
+  "samples": 32,
+  "approved_input_scene_sha256": "8d8e03853da7a38300d7395d7de5e9494c9d485bb9e64cd11c003e55ac2d5a73",
+  "approved_input_image_sha256": "1871d3997443ea59b1af53419aaecc57d56b91b8591f8765e19997fdb3561b37",
+  "inputs": {
+    "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "camera": {
+    "location": [
+      2.559999942779541,
+      -0.3100000023841858,
+      0.47999998927116394
+    ],
+    "rotation": [
+      0.8021073937416077,
+      0.10068231076002121,
+      -0.7916421294212341
+    ],
+    "lens_mm": 65.0
+  },
+  "origin": [
+    2.799999952316284,
+    -0.01828734390437603,
+    0.13012121617794037
+  ],
+  "wall_reference": [
+    2.799999952316284,
+    -0.02468518167734146,
+    0.175644189119339
+  ],
+  "direction": [
+    0.0,
+    -0.13917312026023865,
+    0.9902679920196533
+  ],
+  "distance_m": 0.024,
+  "wavefront_half_width_m": 0.0016,
+  "wavefront_half_angle_rad": 0.65,
+  "projection_origin_front_wall": [
+    [
+      0.48755326867103577,
+      0.5509710311889648,
+      0.5148124694824219
+    ],
+    [
+      0.4870063364505768,
+      0.6532939672470093,
+      0.49652066826820374
+    ],
+    [
+      0.4864690899848938,
+      0.753804087638855,
+      0.4797758162021637
+    ]
+  ],
+  "source_hashes_unchanged": true,
+  "animation_rendered": false,
+  "human_approval": "Still01v004 approved by Radzi; Still02v001 pending",
+  "layers": "Approved source geometry/lighting kept separate from illustrative emission; all use same camera."
+}

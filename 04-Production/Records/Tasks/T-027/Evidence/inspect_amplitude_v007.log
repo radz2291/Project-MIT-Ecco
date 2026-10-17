@@ -1,0 +1,11 @@
+00:03.984  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scenes\B202-M_motion-full_v006d.blend"
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+AMPLITUDE_NODES [('Principled BSDF', 'BSDF_PRINCIPLED', None), ('Material Output', 'OUTPUT_MATERIAL', None), ('Mix Shader', 'MIX_SHADER', None), ('Transparent BSDF', 'BSDF_TRANSPARENT', None), ('Attribute', 'ATTRIBUTE', 'echo_strength_display'), ('Color Ramp', 'VALTORGB', None), ('Emission', 'EMISSION', None)]
+AMPLITUDE_LINKS [('Transparent BSDF', 'BSDF', 'Mix Shader', 'Shader'), ('Mix Shader', 'Shader', 'Material Output', 'Surface'), ('Attribute', 'Factor', 'Color Ramp', 'Factor'), ('Color Ramp', 'Color', 'Principled BSDF', 'Base Color'), ('Color Ramp', 'Color', 'Principled BSDF', 'Emission Color'), ('Color Ramp', 'Color', 'Emission', 'Color'), ('Emission', 'Emission', 'Mix Shader', 'Shader')]
+RAMPS [('Color Ramp', [(0.0, [0.09000000357627869, 0.02500000037252903, 0.006000000052154064, 1.0]), (0.30000001192092896, [0.2800000011920929, 0.0949999988079071, 0.012000000104308128, 1.0]), (0.6499999761581421, [0.699999988079071, 0.3700000047683716, 0.03500000014901161, 1.0]), (1.0, [1.0, 0.800000011920929, 0.12999999523162842, 1.0])])]
+ATTR_TYPE [('echo_strength_display', 'GEOMETRY')]
+ATTR_RANGE [('echo_strength', 0.03447303920984268, 0.16834066808223724), ('echo_strength_display', 0.0861825942993164, 0.4208516478538513)]
+MATERIAL B202_v009_received_echo_strength False
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

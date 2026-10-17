@@ -1,0 +1,10 @@
+04-Production\Mechanisms\B201\direction.md
+04-Production\Mechanisms\B201\Previews\Still_03\B201_wall-interaction_still03_v004.png
+04-Production\Mechanisms\B201\Scripts\build_still03_v004.py
+04-Production\Mechanisms\B201\Scripts\verify_still03_v004.py
+04-Production\Records\Tasks\T-007\report.md
+04-Production\Records\Tasks\T-007\report_still02c_v001.md
+04-Production\Records\Tasks\T-007\still-proposal_03_v004.md
+04-Production\Records\Tasks\T-007\Evidence\Still_03\build-render_still03_v004.json
+04-Production\Records\Tasks\T-007\Evidence\Still_03\verification_still03_v004.json
+04-Production\Records\Tasks\T-007\Evidence\Still_03\output-manifest_still03_v004.json

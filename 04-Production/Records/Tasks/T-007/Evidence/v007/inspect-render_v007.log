@@ -1,0 +1,36 @@
+00:03.047  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_integrated_v007.blend"
+00:03.125  reports          | Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:04.703  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\v007\fresh-f1.png'
+TX_1 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.2800000011920929, 0.8799999952316284, 1.0, 1.0]
+ECHO_1 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [1.0, 0.6399999856948853, 0.25, 1.0]
+EMITTER_1 hide False False scale [1.0, 1.0, 1.0] pix 432 327 color [0.3400000035762787, 0.8600000143051147, 1.0, 1.0]
+WALL_CONTACT_1 hide True False scale [0.0, 0.0, 0.0] pix 435 289 color [0.5699999928474426, 0.8500000238418579, 0.8600000143051147, 1.0]
+TX_2 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.2800000011920929, 0.8799999952316284, 1.0, 1.0]
+ECHO_2 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [1.0, 0.6399999856948853, 0.25, 1.0]
+EMITTER_2 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.3400000035762787, 0.8600000143051147, 1.0, 1.0]
+WALL_CONTACT_2 hide True False scale [0.0, 0.0, 0.0] pix 451 304 color [0.5699999928474426, 0.8500000238418579, 0.8600000143051147, 1.0]
+TX_3 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.2800000011920929, 0.8799999952316284, 1.0, 1.0]
+ECHO_3 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [1.0, 0.6399999856948853, 0.25, 1.0]
+EMITTER_3 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.3400000035762787, 0.8600000143051147, 1.0, 1.0]
+WALL_CONTACT_3 hide True False scale [0.0, 0.0, 0.0] pix 466 320 color [0.5699999928474426, 0.8500000238418579, 0.8600000143051147, 1.0]
+TX_4 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.2800000011920929, 0.8799999952316284, 1.0, 1.0]
+ECHO_4 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [1.0, 0.6399999856948853, 0.25, 1.0]
+EMITTER_4 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.3400000035762787, 0.8600000143051147, 1.0, 1.0]
+WALL_CONTACT_4 hide True False scale [0.0, 0.0, 0.0] pix 480 337 color [0.5699999928474426, 0.8500000238418579, 0.8600000143051147, 1.0]
+TX_5 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.2800000011920929, 0.8799999952316284, 1.0, 1.0]
+ECHO_5 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [1.0, 0.6399999856948853, 0.25, 1.0]
+EMITTER_5 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.3400000035762787, 0.8600000143051147, 1.0, 1.0]
+WALL_CONTACT_5 hide True False scale [0.0, 0.0, 0.0] pix 493 355 color [0.5699999928474426, 0.8500000238418579, 0.8600000143051147, 1.0]
+TX_6 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.2800000011920929, 0.8799999952316284, 1.0, 1.0]
+ECHO_6 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [1.0, 0.6399999856948853, 0.25, 1.0]
+EMITTER_6 hide True True scale [0.0, 0.0, 0.0] pix -1946 1107 color [0.3400000035762787, 0.8600000143051147, 1.0, 1.0]
+WALL_CONTACT_6 hide True False scale [0.0, 0.0, 0.0] pix 506 374 color [0.5699999928474426, 0.8500000238418579, 0.8600000143051147, 1.0]
+CONTACT_AFTERMARK_1 hide True False scale [0.0, 0.0, 0.0] pix 435 289 color [0.25999999046325684, 0.46000000834465027, 0.49000000953674316, 1.0]
+CONTACT_AFTERMARK_2 hide True False scale [0.0, 0.0, 0.0] pix 451 304 color [0.25999999046325684, 0.46000000834465027, 0.49000000953674316, 1.0]
+CONTACT_AFTERMARK_3 hide True False scale [0.0, 0.0, 0.0] pix 466 320 color [0.25999999046325684, 0.46000000834465027, 0.49000000953674316, 1.0]
+CONTACT_AFTERMARK_4 hide True False scale [0.0, 0.0, 0.0] pix 480 337 color [0.25999999046325684, 0.46000000834465027, 0.49000000953674316, 1.0]
+CONTACT_AFTERMARK_5 hide True False scale [0.0, 0.0, 0.0] pix 493 355 color [0.25999999046325684, 0.46000000834465027, 0.49000000953674316, 1.0]
+CONTACT_AFTERMARK_6 hide True False scale [0.0, 0.0, 0.0] pix 506 374 color [0.25999999046325684, 0.46000000834465027, 0.49000000953674316, 1.0]
+
+Blender quit

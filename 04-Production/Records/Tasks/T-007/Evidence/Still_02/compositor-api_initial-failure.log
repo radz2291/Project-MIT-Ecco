@@ -1,0 +1,14 @@
+00:02.656  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_sensor-origin_still01_v004.blend"
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\build_still02_v001.py:34: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat=bpy.data.materials.new('Still02 cyan front with soft transparent edges');mat.use_nodes=True
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\build_still02_v001.py:44: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  s.use_nodes=True;group=bpy.data.node_groups.new('Still02 model + signal composition','CompositorNodeTree');s.compositing_node_group=group
+Traceback (most recent call last):
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\build_still02_v001.py", line 49, in <module>
+    background=n.new('CompositorNodeAlphaOver');background.inputs[0].default_value=1
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: bpy_struct: item.attr = val:
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

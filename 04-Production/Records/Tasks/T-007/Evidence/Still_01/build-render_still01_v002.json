@@ -1,0 +1,113 @@
+{
+  "scene": "Mechanisms\\B201\\Scenes\\B201_sensor-origin_still01_v002.blend",
+  "image": "Mechanisms\\B201\\Previews\\Still_01\\B201_sensor-origin_still01_v002.png",
+  "scene_sha256": "83a215d3d88e0f89336ff5c7b47ab7c1d92fc6bce02667d85e11a3c1df6c2dad",
+  "image_sha256": "811ef2daa594b8bb0ebd2534eb29c5c75a6061fc2b917e4226bb20cd061d6a3e",
+  "render_seconds": 4.457629000000054,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "engine": "BLENDER_EEVEE",
+  "camera": {
+    "location": [
+      2.559999942779541,
+      -0.3100000023841858,
+      0.47999998927116394
+    ],
+    "rotation": [
+      0.8021073937416077,
+      0.10068231076002121,
+      -0.7916421294212341
+    ],
+    "lens_mm": 65.0
+  },
+  "inputs": {
+    "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "materials_inspected": [
+    {
+      "object": "ECCO_HOUSING_SOURCE_MESH",
+      "materials": [
+        "Housing_neutral"
+      ]
+    },
+    {
+      "object": "ECCO_CUTTER_PREVIEW_ONLY",
+      "materials": []
+    },
+    {
+      "object": "TEMP | Service port 3 | removable metal plug",
+      "materials": [
+        "TEMP_CLOSURES_neutral"
+      ]
+    },
+    {
+      "object": "TEMP | Service port 2 | removable metal plug",
+      "materials": [
+        "TEMP_CLOSURES_neutral"
+      ]
+    },
+    {
+      "object": "TEMP | Service port 1 | removable metal plug",
+      "materials": [
+        "TEMP_CLOSURES_neutral"
+      ]
+    },
+    {
+      "object": "TEMP | Service cover 3 | removable fitted plate",
+      "materials": [
+        "TEMP_CLOSURES_neutral"
+      ]
+    },
+    {
+      "object": "TEMP | Service cover 2 | removable fitted plate",
+      "materials": [
+        "TEMP_CLOSURES_neutral"
+      ]
+    },
+    {
+      "object": "TEMP | Service cover 1 | removable fitted plate",
+      "materials": [
+        "TEMP_CLOSURES_neutral"
+      ]
+    },
+    {
+      "object": "TEMP | Imaging port 3 | removable acoustic cap",
+      "materials": [
+        "TEMP_CLOSURES_neutral"
+      ]
+    },
+    {
+      "object": "TEMP | Imaging port 2 | removable acoustic cap",
+      "materials": [
+        "TEMP_CLOSURES_neutral"
+      ]
+    },
+    {
+      "object": "TEMP | Imaging port 1 | removable acoustic cap",
+      "materials": [
+        "TEMP_CLOSURES_neutral"
+      ]
+    }
+  ],
+  "source_hashes_unchanged": true,
+  "links_resolve": true,
+  "hidden_groups": [
+    {
+      "name": "B201_PULSE_ECHO",
+      "hidden": true
+    },
+    {
+      "name": "B201_CONTACT_HISTORY",
+      "hidden": true
+    },
+    {
+      "name": "B201_SPATIAL_GRAPHICS",
+      "hidden": true
+    }
+  ],
+  "animation_rendered": false,
+  "human_approval": "pending"
+}

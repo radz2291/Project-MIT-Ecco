@@ -1,0 +1,38 @@
+{
+  "section": "07",
+  "title": "Product Hero / Closing",
+  "timeline": "1:22\u20131:30",
+  "status": "cinematic concept / not camera locked",
+  "shots": [
+    {
+      "id": "S07-A",
+      "title": "From Insight to Product",
+      "time": "1:22\u20131:24",
+      "duration_seconds": 2,
+      "image": "S07_A_From_Insight_To_Product/S07_A_From_Insight_To_Product.png",
+      "description": "S07_A_From_Insight_To_Product/SHOT_DIRECTION.md"
+    },
+    {
+      "id": "S07-B",
+      "title": "Product Hero and Capability Recall",
+      "time": "1:24\u20131:28",
+      "duration_seconds": 4,
+      "image": "S07_B_Product_Hero_And_Capability_Recall/S07_B_Product_Hero_And_Capability_Recall.png",
+      "description": "S07_B_Product_Hero_And_Capability_Recall/SHOT_DIRECTION.md"
+    },
+    {
+      "id": "S07-C",
+      "title": "MIT Technologies Brand Closing",
+      "time": "1:28\u20131:30",
+      "duration_seconds": 2,
+      "image": "S07_C_MIT_Brand_Closing/S07_C_Icon_Only_Brand_Closing.png",
+      "description": "S07_C_MIT_Brand_Closing/SHOT_DIRECTION.md"
+    }
+  ],
+  "brand_assets": {
+    "client_original": "S07_C_MIT_Brand_Closing/MIT_Official_Logo_Supplied_Unaltered.png",
+    "icon_variant": "S07_C_MIT_Brand_Closing/S07_C_Icon_Only_Brand_Closing.png",
+    "full_logo_variant": "S07_C_MIT_Brand_Closing/S07_C_Official_Logo_Brand_Closing.png"
+  },
+  "tech_note": "Mi-VU source report is ENP1, not ENP3; imagery is illustrative"
+}

@@ -1,0 +1,10 @@
+04-Production\Mechanisms\B201\direction.md
+04-Production\Mechanisms\B201\Previews\Still_02\B201_outgoing-pulse_still02_v002.png
+04-Production\Mechanisms\B201\Scripts\build_still02_v002.py
+04-Production\Mechanisms\B201\Scripts\verify_still02_v002.py
+04-Production\Records\Tasks\T-007\report.md
+04-Production\Records\Tasks\T-007\report_still01_v004.md
+04-Production\Records\Tasks\T-007\still-proposal_02_v002.md
+04-Production\Records\Tasks\T-007\Evidence\Still_02\build-render_still02_v002.json
+04-Production\Records\Tasks\T-007\Evidence\Still_02\verification_still02_v002.json
+04-Production\Records\Tasks\T-007\Evidence\Still_02\output-manifest_still02_v002.json

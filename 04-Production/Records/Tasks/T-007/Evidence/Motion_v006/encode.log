@@ -1,0 +1,52 @@
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, image2, from 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\Frames\frame_%04d.png':
+  Duration: 00:00:10.00, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc, gbr/bt709/iec61966-2-1), 960x540 [SAR 2834:2834 DAR 16:9], 24 fps, 24 tbr, 24 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+[libx264 @ 0000018d4bbc0740] using SAR=1/1
+[libx264 @ 0000018d4bbc0740] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0000018d4bbc0740] profile High, level 3.1, 4:2:0, 8-bit
+[libx264 @ 0000018d4bbc0740] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=24 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Previews\Motion_v006\B201_pulse-echo_refinement_v006.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, unknown/bt709/iec61966-2-1, progressive), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 24 fps, 12288 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=   63 fps=0.0 q=23.0 size=       0KiB time=00:00:02.54 bitrate=   0.2kbits/s speed=4.93x    
+frame=  167 fps=162 q=23.0 size=     256KiB time=00:00:06.87 bitrate= 305.1kbits/s speed=6.68x    
+[mp4 @ 0000018d4bc5bbc0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000018d4c029540] video:357KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.977093%
+frame=  240 fps=199 q=-1.0 Lsize=     360KiB time=00:00:09.91 bitrate= 297.5kbits/s speed=8.21x    
+[libx264 @ 0000018d4bbc0740] frame I:1     Avg QP:10.07  size: 52806
+[libx264 @ 0000018d4bbc0740] frame P:81    Avg QP:11.65  size:  2761
+[libx264 @ 0000018d4bbc0740] frame B:158   Avg QP:16.69  size:   557
+[libx264 @ 0000018d4bbc0740] consecutive B-frames:  9.2%  5.8% 10.0% 75.0%
+[libx264 @ 0000018d4bbc0740] mb I  I16..4:  5.5% 78.9% 15.6%
+[libx264 @ 0000018d4bbc0740] mb P  I16..4:  0.7%  2.5%  0.8%  P16..4:  8.2%  1.8%  1.4%  0.0%  0.0%    skip:84.7%
+[libx264 @ 0000018d4bbc0740] mb B  I16..4:  0.8%  0.8%  0.1%  B16..8:  3.3%  1.0%  0.1%  direct: 1.0%  skip:92.8%  L0:45.1% L1:48.8% BI: 6.1%
+[libx264 @ 0000018d4bbc0740] 8x8 transform intra:58.8% inter:73.4%
+[libx264 @ 0000018d4bbc0740] coded y,uvDC,uvAC intra: 61.8% 47.1% 29.4% inter: 1.9% 1.7% 0.2%
+[libx264 @ 0000018d4bbc0740] i16 v,h,dc,p: 52% 11%  7% 30%
+[libx264 @ 0000018d4bbc0740] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 45%  5% 26%  6%  1%  4%  1% 10%  3%
+[libx264 @ 0000018d4bbc0740] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 52%  6% 12%  6%  3%  7%  1% 12%  1%
+[libx264 @ 0000018d4bbc0740] i8c dc,h,v,p: 59%  8% 28%  5%
+[libx264 @ 0000018d4bbc0740] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0000018d4bbc0740] ref P L0: 76.9% 23.1%
+[libx264 @ 0000018d4bbc0740] ref B L0: 78.6% 21.4%
+[libx264 @ 0000018d4bbc0740] ref B L1: 93.7%  6.3%
+[libx264 @ 0000018d4bbc0740] kb/s:291.58

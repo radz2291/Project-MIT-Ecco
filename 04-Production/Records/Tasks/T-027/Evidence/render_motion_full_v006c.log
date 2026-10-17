@@ -1,0 +1,678 @@
+00:03.328  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scenes\B202-M_motion-full_v006c.blend"
+00:03.532  reports          | Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:03.750  render           | Rendering animation (frames 433..528)
+00:03.750  render           | Rendering frame 433
+00:03.750  render           | Start rendering: Scene, ViewLayer
+00:03.750  render           | Engine: EEVEE
+00:05.157  render           | Fra: 433 | Rendering 1 / 16 samples
+00:05.235  render           | Fra: 433 | Rendering 16 / 16 samples
+00:05.672  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0433.png'
+00:05.688  render           | Time: 00:01.93 (Saving: 00:00.41)
+00:05.688  render           | Rendering frame 434
+00:05.688  render           | Start rendering: Scene, ViewLayer
+00:05.688  render           | Engine: EEVEE
+00:05.797  render           | Fra: 434 | Rendering 1 / 16 samples
+00:05.891  render           | Fra: 434 | Rendering 16 / 16 samples
+00:05.985  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0434.png'
+00:05.985  render           | Time: 00:00.31 (Saving: 00:00.06)
+00:05.985  render           | Rendering frame 435
+00:05.985  render           | Start rendering: Scene, ViewLayer
+00:05.985  render           | Engine: EEVEE
+00:06.094  render           | Fra: 435 | Rendering 1 / 16 samples
+00:06.172  render           | Fra: 435 | Rendering 16 / 16 samples
+00:06.282  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0435.png'
+00:06.282  render           | Time: 00:00.29 (Saving: 00:00.06)
+00:06.282  render           | Rendering frame 436
+00:06.282  render           | Start rendering: Scene, ViewLayer
+00:06.282  render           | Engine: EEVEE
+00:06.375  render           | Fra: 436 | Rendering 1 / 16 samples
+00:06.469  render           | Fra: 436 | Rendering 16 / 16 samples
+00:06.578  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0436.png'
+00:06.578  render           | Time: 00:00.28 (Saving: 00:00.06)
+00:06.578  render           | Rendering frame 437
+00:06.578  render           | Start rendering: Scene, ViewLayer
+00:06.578  render           | Engine: EEVEE
+00:06.657  render           | Fra: 437 | Rendering 1 / 16 samples
+00:06.750  render           | Fra: 437 | Rendering 16 / 16 samples
+00:06.844  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0437.png'
+00:06.844  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:06.844  render           | Rendering frame 438
+00:06.844  render           | Start rendering: Scene, ViewLayer
+00:06.844  render           | Engine: EEVEE
+00:06.938  render           | Fra: 438 | Rendering 1 / 16 samples
+00:07.032  render           | Fra: 438 | Rendering 16 / 16 samples
+00:07.125  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0438.png'
+00:07.125  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:07.125  render           | Rendering frame 439
+00:07.125  render           | Start rendering: Scene, ViewLayer
+00:07.125  render           | Engine: EEVEE
+00:07.219  render           | Fra: 439 | Rendering 1 / 16 samples
+00:07.328  render           | Fra: 439 | Rendering 16 / 16 samples
+00:07.422  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0439.png'
+00:07.422  render           | Time: 00:00.29 (Saving: 00:00.06)
+00:07.422  render           | Rendering frame 440
+00:07.422  render           | Start rendering: Scene, ViewLayer
+00:07.422  render           | Engine: EEVEE
+00:07.516  render           | Fra: 440 | Rendering 1 / 16 samples
+00:07.641  render           | Fra: 440 | Rendering 16 / 16 samples
+00:07.719  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0440.png'
+00:07.719  render           | Time: 00:00.30 (Saving: 00:00.06)
+00:07.719  render           | Rendering frame 441
+00:07.719  render           | Start rendering: Scene, ViewLayer
+00:07.719  render           | Engine: EEVEE
+00:07.828  render           | Fra: 441 | Rendering 1 / 16 samples
+00:07.969  render           | Fra: 441 | Rendering 16 / 16 samples
+00:08.078  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0441.png'
+00:08.078  render           | Time: 00:00.35 (Saving: 00:00.06)
+00:08.078  render           | Rendering frame 442
+00:08.078  render           | Start rendering: Scene, ViewLayer
+00:08.078  render           | Engine: EEVEE
+00:08.219  render           | Fra: 442 | Rendering 1 / 16 samples
+00:08.360  render           | Fra: 442 | Rendering 16 / 16 samples
+00:08.453  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0442.png'
+00:08.453  render           | Time: 00:00.38 (Saving: 00:00.06)
+00:08.453  render           | Rendering frame 443
+00:08.453  render           | Start rendering: Scene, ViewLayer
+00:08.453  render           | Engine: EEVEE
+00:08.563  render           | Fra: 443 | Rendering 1 / 16 samples
+00:08.719  render           | Fra: 443 | Rendering 16 / 16 samples
+00:08.813  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0443.png'
+00:08.813  render           | Time: 00:00.35 (Saving: 00:00.07)
+00:08.813  render           | Rendering frame 444
+00:08.813  render           | Start rendering: Scene, ViewLayer
+00:08.813  render           | Engine: EEVEE
+00:08.907  render           | Fra: 444 | Rendering 1 / 16 samples
+00:09.063  render           | Fra: 444 | Rendering 16 / 16 samples
+00:09.157  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0444.png'
+00:09.157  render           | Time: 00:00.34 (Saving: 00:00.07)
+00:09.157  render           | Rendering frame 445
+00:09.157  render           | Start rendering: Scene, ViewLayer
+00:09.157  render           | Engine: EEVEE
+00:09.266  render           | Fra: 445 | Rendering 1 / 16 samples
+00:09.422  render           | Fra: 445 | Rendering 16 / 16 samples
+00:09.547  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0445.png'
+00:09.547  render           | Time: 00:00.38 (Saving: 00:00.09)
+00:09.547  render           | Rendering frame 446
+00:09.547  render           | Start rendering: Scene, ViewLayer
+00:09.547  render           | Engine: EEVEE
+00:09.657  render           | Fra: 446 | Rendering 1 / 16 samples
+00:09.797  render           | Fra: 446 | Rendering 16 / 16 samples
+00:09.922  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0446.png'
+00:09.922  render           | Time: 00:00.37 (Saving: 00:00.07)
+00:09.922  render           | Rendering frame 447
+00:09.922  render           | Start rendering: Scene, ViewLayer
+00:09.922  render           | Engine: EEVEE
+00:10.016  render           | Fra: 447 | Rendering 1 / 16 samples
+00:10.141  render           | Fra: 447 | Rendering 16 / 16 samples
+00:10.235  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0447.png'
+00:10.235  render           | Time: 00:00.31 (Saving: 00:00.06)
+00:10.235  render           | Rendering frame 448
+00:10.235  render           | Start rendering: Scene, ViewLayer
+00:10.235  render           | Engine: EEVEE
+00:10.328  render           | Fra: 448 | Rendering 1 / 16 samples
+00:10.422  render           | Fra: 448 | Rendering 16 / 16 samples
+00:10.532  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0448.png'
+00:10.532  render           | Time: 00:00.29 (Saving: 00:00.07)
+00:10.532  render           | Rendering frame 449
+00:10.532  render           | Start rendering: Scene, ViewLayer
+00:10.532  render           | Engine: EEVEE
+00:10.625  render           | Fra: 449 | Rendering 1 / 16 samples
+00:10.719  render           | Fra: 449 | Rendering 16 / 16 samples
+00:10.828  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0449.png'
+00:10.828  render           | Time: 00:00.30 (Saving: 00:00.06)
+00:10.828  render           | Rendering frame 450
+00:10.828  render           | Start rendering: Scene, ViewLayer
+00:10.828  render           | Engine: EEVEE
+00:10.922  render           | Fra: 450 | Rendering 1 / 16 samples
+00:11.016  render           | Fra: 450 | Rendering 16 / 16 samples
+00:11.125  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0450.png'
+00:11.125  render           | Time: 00:00.28 (Saving: 00:00.06)
+00:11.125  render           | Rendering frame 451
+00:11.125  render           | Start rendering: Scene, ViewLayer
+00:11.125  render           | Engine: EEVEE
+00:11.203  render           | Fra: 451 | Rendering 1 / 16 samples
+00:11.297  render           | Fra: 451 | Rendering 16 / 16 samples
+00:11.391  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0451.png'
+00:11.391  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:11.391  render           | Rendering frame 452
+00:11.391  render           | Start rendering: Scene, ViewLayer
+00:11.391  render           | Engine: EEVEE
+00:11.485  render           | Fra: 452 | Rendering 1 / 16 samples
+00:11.594  render           | Fra: 452 | Rendering 16 / 16 samples
+00:11.719  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0452.png'
+00:11.719  render           | Time: 00:00.31 (Saving: 00:00.08)
+00:11.719  render           | Rendering frame 453
+00:11.719  render           | Start rendering: Scene, ViewLayer
+00:11.719  render           | Engine: EEVEE
+00:11.813  render           | Fra: 453 | Rendering 1 / 16 samples
+00:11.938  render           | Fra: 453 | Rendering 16 / 16 samples
+00:12.047  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0453.png'
+00:12.047  render           | Time: 00:00.33 (Saving: 00:00.08)
+00:12.047  render           | Rendering frame 454
+00:12.047  render           | Start rendering: Scene, ViewLayer
+00:12.047  render           | Engine: EEVEE
+00:12.157  render           | Fra: 454 | Rendering 1 / 16 samples
+00:12.297  render           | Fra: 454 | Rendering 16 / 16 samples
+00:12.391  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0454.png'
+00:12.391  render           | Time: 00:00.33 (Saving: 00:00.06)
+00:12.391  render           | Rendering frame 455
+00:12.391  render           | Start rendering: Scene, ViewLayer
+00:12.391  render           | Engine: EEVEE
+00:12.500  render           | Fra: 455 | Rendering 1 / 16 samples
+00:12.641  render           | Fra: 455 | Rendering 16 / 16 samples
+00:12.735  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0455.png'
+00:12.735  render           | Time: 00:00.35 (Saving: 00:00.06)
+00:12.735  render           | Rendering frame 456
+00:12.735  render           | Start rendering: Scene, ViewLayer
+00:12.735  render           | Engine: EEVEE
+00:12.875  render           | Fra: 456 | Rendering 1 / 16 samples
+00:13.032  render           | Fra: 456 | Rendering 16 / 16 samples
+00:13.141  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0456.png'
+00:13.141  render           | Time: 00:00.41 (Saving: 00:00.08)
+00:13.141  render           | Rendering frame 457
+00:13.157  render           | Start rendering: Scene, ViewLayer
+00:13.157  render           | Engine: EEVEE
+00:13.282  render           | Fra: 457 | Rendering 1 / 16 samples
+00:13.438  render           | Fra: 457 | Rendering 16 / 16 samples
+00:13.532  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0457.png'
+00:13.532  render           | Time: 00:00.38 (Saving: 00:00.06)
+00:13.532  render           | Rendering frame 458
+00:13.532  render           | Start rendering: Scene, ViewLayer
+00:13.532  render           | Engine: EEVEE
+00:13.625  render           | Fra: 458 | Rendering 1 / 16 samples
+00:13.766  render           | Fra: 458 | Rendering 16 / 16 samples
+00:13.860  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0458.png'
+00:13.860  render           | Time: 00:00.33 (Saving: 00:00.07)
+00:13.860  render           | Rendering frame 459
+00:13.860  render           | Start rendering: Scene, ViewLayer
+00:13.860  render           | Engine: EEVEE
+00:13.969  render           | Fra: 459 | Rendering 1 / 16 samples
+00:14.094  render           | Fra: 459 | Rendering 16 / 16 samples
+00:14.188  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0459.png'
+00:14.188  render           | Time: 00:00.32 (Saving: 00:00.06)
+00:14.188  render           | Rendering frame 460
+00:14.188  render           | Start rendering: Scene, ViewLayer
+00:14.188  render           | Engine: EEVEE
+00:14.282  render           | Fra: 460 | Rendering 1 / 16 samples
+00:14.391  render           | Fra: 460 | Rendering 16 / 16 samples
+00:14.485  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0460.png'
+00:14.485  render           | Time: 00:00.29 (Saving: 00:00.06)
+00:14.485  render           | Rendering frame 461
+00:14.485  render           | Start rendering: Scene, ViewLayer
+00:14.485  render           | Engine: EEVEE
+00:14.578  render           | Fra: 461 | Rendering 1 / 16 samples
+00:14.688  render           | Fra: 461 | Rendering 16 / 16 samples
+00:14.766  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0461.png'
+00:14.766  render           | Time: 00:00.28 (Saving: 00:00.06)
+00:14.766  render           | Rendering frame 462
+00:14.766  render           | Start rendering: Scene, ViewLayer
+00:14.766  render           | Engine: EEVEE
+00:14.860  render           | Fra: 462 | Rendering 1 / 16 samples
+00:14.953  render           | Fra: 462 | Rendering 16 / 16 samples
+00:15.047  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0462.png'
+00:15.047  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:15.047  render           | Rendering frame 463
+00:15.047  render           | Start rendering: Scene, ViewLayer
+00:15.047  render           | Engine: EEVEE
+00:15.141  render           | Fra: 463 | Rendering 1 / 16 samples
+00:15.219  render           | Fra: 463 | Rendering 16 / 16 samples
+00:15.328  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0463.png'
+00:15.328  render           | Time: 00:00.28 (Saving: 00:00.06)
+00:15.328  render           | Rendering frame 464
+00:15.328  render           | Start rendering: Scene, ViewLayer
+00:15.328  render           | Engine: EEVEE
+00:15.422  render           | Fra: 464 | Rendering 1 / 16 samples
+00:15.500  render           | Fra: 464 | Rendering 16 / 16 samples
+00:15.610  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0464.png'
+00:15.610  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:15.610  render           | Rendering frame 465
+00:15.610  render           | Start rendering: Scene, ViewLayer
+00:15.610  render           | Engine: EEVEE
+00:15.703  render           | Fra: 465 | Rendering 1 / 16 samples
+00:15.782  render           | Fra: 465 | Rendering 16 / 16 samples
+00:15.891  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0465.png'
+00:15.891  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:15.891  render           | Rendering frame 466
+00:15.891  render           | Start rendering: Scene, ViewLayer
+00:15.891  render           | Engine: EEVEE
+00:15.985  render           | Fra: 466 | Rendering 1 / 16 samples
+00:16.078  render           | Fra: 466 | Rendering 16 / 16 samples
+00:16.172  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0466.png'
+00:16.172  render           | Time: 00:00.28 (Saving: 00:00.07)
+00:16.172  render           | Rendering frame 467
+00:16.172  render           | Start rendering: Scene, ViewLayer
+00:16.172  render           | Engine: EEVEE
+00:16.266  render           | Fra: 467 | Rendering 1 / 16 samples
+00:16.391  render           | Fra: 467 | Rendering 16 / 16 samples
+00:16.469  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0467.png'
+00:16.469  render           | Time: 00:00.30 (Saving: 00:00.06)
+00:16.469  render           | Rendering frame 468
+00:16.469  render           | Start rendering: Scene, ViewLayer
+00:16.469  render           | Engine: EEVEE
+00:16.578  render           | Fra: 468 | Rendering 1 / 16 samples
+00:16.703  render           | Fra: 468 | Rendering 16 / 16 samples
+00:16.797  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0468.png'
+00:16.797  render           | Time: 00:00.32 (Saving: 00:00.06)
+00:16.797  render           | Rendering frame 469
+00:16.797  render           | Start rendering: Scene, ViewLayer
+00:16.797  render           | Engine: EEVEE
+00:16.907  render           | Fra: 469 | Rendering 1 / 16 samples
+00:17.047  render           | Fra: 469 | Rendering 16 / 16 samples
+00:17.141  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0469.png'
+00:17.141  render           | Time: 00:00.34 (Saving: 00:00.06)
+00:17.141  render           | Rendering frame 470
+00:17.141  render           | Start rendering: Scene, ViewLayer
+00:17.141  render           | Engine: EEVEE
+00:17.266  render           | Fra: 470 | Rendering 1 / 16 samples
+00:17.422  render           | Fra: 470 | Rendering 16 / 16 samples
+00:17.516  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0470.png'
+00:17.516  render           | Time: 00:00.36 (Saving: 00:00.06)
+00:17.516  render           | Rendering frame 471
+00:17.516  render           | Start rendering: Scene, ViewLayer
+00:17.516  render           | Engine: EEVEE
+00:17.610  render           | Fra: 471 | Rendering 1 / 16 samples
+00:17.782  render           | Fra: 471 | Rendering 16 / 16 samples
+00:17.860  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0471.png'
+00:17.860  render           | Time: 00:00.35 (Saving: 00:00.06)
+00:17.860  render           | Rendering frame 472
+00:17.860  render           | Start rendering: Scene, ViewLayer
+00:17.860  render           | Engine: EEVEE
+00:17.969  render           | Fra: 472 | Rendering 1 / 16 samples
+00:18.110  render           | Fra: 472 | Rendering 16 / 16 samples
+00:18.203  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0472.png'
+00:18.203  render           | Time: 00:00.34 (Saving: 00:00.06)
+00:18.203  render           | Rendering frame 473
+00:18.203  render           | Start rendering: Scene, ViewLayer
+00:18.203  render           | Engine: EEVEE
+00:18.297  render           | Fra: 473 | Rendering 1 / 16 samples
+00:18.407  render           | Fra: 473 | Rendering 16 / 16 samples
+00:18.500  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0473.png'
+00:18.500  render           | Time: 00:00.28 (Saving: 00:00.06)
+00:18.500  render           | Rendering frame 474
+00:18.500  render           | Start rendering: Scene, ViewLayer
+00:18.500  render           | Engine: EEVEE
+00:18.578  render           | Fra: 474 | Rendering 1 / 16 samples
+00:18.688  render           | Fra: 474 | Rendering 16 / 16 samples
+00:18.782  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0474.png'
+00:18.782  render           | Time: 00:00.28 (Saving: 00:00.06)
+00:18.782  render           | Rendering frame 475
+00:18.782  render           | Start rendering: Scene, ViewLayer
+00:18.782  render           | Engine: EEVEE
+00:18.860  render           | Fra: 475 | Rendering 1 / 16 samples
+00:18.953  render           | Fra: 475 | Rendering 16 / 16 samples
+00:19.047  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0475.png'
+00:19.047  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:19.047  render           | Rendering frame 476
+00:19.047  render           | Start rendering: Scene, ViewLayer
+00:19.047  render           | Engine: EEVEE
+00:19.125  render           | Fra: 476 | Rendering 1 / 16 samples
+00:19.235  render           | Fra: 476 | Rendering 16 / 16 samples
+00:19.344  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0476.png'
+00:19.344  render           | Time: 00:00.28 (Saving: 00:00.06)
+00:19.344  render           | Rendering frame 477
+00:19.344  render           | Start rendering: Scene, ViewLayer
+00:19.344  render           | Engine: EEVEE
+00:19.438  render           | Fra: 477 | Rendering 1 / 16 samples
+00:19.516  render           | Fra: 477 | Rendering 16 / 16 samples
+00:19.610  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0477.png'
+00:19.610  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:19.610  render           | Rendering frame 478
+00:19.610  render           | Start rendering: Scene, ViewLayer
+00:19.610  render           | Engine: EEVEE
+00:19.703  render           | Fra: 478 | Rendering 1 / 16 samples
+00:19.797  render           | Fra: 478 | Rendering 16 / 16 samples
+00:19.891  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0478.png'
+00:19.891  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:19.891  render           | Rendering frame 479
+00:19.891  render           | Start rendering: Scene, ViewLayer
+00:19.891  render           | Engine: EEVEE
+00:19.985  render           | Fra: 479 | Rendering 1 / 16 samples
+00:20.094  render           | Fra: 479 | Rendering 16 / 16 samples
+00:20.188  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0479.png'
+00:20.188  render           | Time: 00:00.29 (Saving: 00:00.06)
+00:20.188  render           | Rendering frame 480
+00:20.188  render           | Start rendering: Scene, ViewLayer
+00:20.188  render           | Engine: EEVEE
+00:20.266  render           | Fra: 480 | Rendering 1 / 16 samples
+00:20.391  render           | Fra: 480 | Rendering 16 / 16 samples
+00:20.485  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0480.png'
+00:20.485  render           | Time: 00:00.30 (Saving: 00:00.06)
+00:20.485  render           | Rendering frame 481
+00:20.485  render           | Start rendering: Scene, ViewLayer
+00:20.485  render           | Engine: EEVEE
+00:20.610  render           | Fra: 481 | Rendering 1 / 16 samples
+00:20.750  render           | Fra: 481 | Rendering 16 / 16 samples
+00:20.844  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0481.png'
+00:20.844  render           | Time: 00:00.35 (Saving: 00:00.06)
+00:20.844  render           | Rendering frame 482
+00:20.844  render           | Start rendering: Scene, ViewLayer
+00:20.844  render           | Engine: EEVEE
+00:20.938  render           | Fra: 482 | Rendering 1 / 16 samples
+00:21.078  render           | Fra: 482 | Rendering 16 / 16 samples
+00:21.157  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0482.png'
+00:21.157  render           | Time: 00:00.31 (Saving: 00:00.06)
+00:21.157  render           | Rendering frame 483
+00:21.157  render           | Start rendering: Scene, ViewLayer
+00:21.157  render           | Engine: EEVEE
+00:21.250  render           | Fra: 483 | Rendering 1 / 16 samples
+00:21.360  render           | Fra: 483 | Rendering 16 / 16 samples
+00:21.438  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0483.png'
+00:21.438  render           | Time: 00:00.28 (Saving: 00:00.05)
+00:21.438  render           | Rendering frame 484
+00:21.438  render           | Start rendering: Scene, ViewLayer
+00:21.438  render           | Engine: EEVEE
+00:21.532  render           | Fra: 484 | Rendering 1 / 16 samples
+00:21.641  render           | Fra: 484 | Rendering 16 / 16 samples
+00:21.735  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0484.png'
+00:21.735  render           | Time: 00:00.29 (Saving: 00:00.07)
+00:21.735  render           | Rendering frame 485
+00:21.735  render           | Start rendering: Scene, ViewLayer
+00:21.735  render           | Engine: EEVEE
+00:21.844  render           | Fra: 485 | Rendering 1 / 16 samples
+00:21.938  render           | Fra: 485 | Rendering 16 / 16 samples
+00:22.047  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0485.png'
+00:22.047  render           | Time: 00:00.30 (Saving: 00:00.07)
+00:22.047  render           | Rendering frame 486
+00:22.047  render           | Start rendering: Scene, ViewLayer
+00:22.047  render           | Engine: EEVEE
+00:22.157  render           | Fra: 486 | Rendering 1 / 16 samples
+00:22.235  render           | Fra: 486 | Rendering 16 / 16 samples
+00:22.344  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0486.png'
+00:22.344  render           | Time: 00:00.30 (Saving: 00:00.06)
+00:22.344  render           | Rendering frame 487
+00:22.344  render           | Start rendering: Scene, ViewLayer
+00:22.344  render           | Engine: EEVEE
+00:22.438  render           | Fra: 487 | Rendering 1 / 16 samples
+00:22.516  render           | Fra: 487 | Rendering 16 / 16 samples
+00:22.610  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0487.png'
+00:22.610  render           | Time: 00:00.26 (Saving: 00:00.06)
+00:22.610  render           | Rendering frame 488
+00:22.610  render           | Start rendering: Scene, ViewLayer
+00:22.610  render           | Engine: EEVEE
+00:22.719  render           | Fra: 488 | Rendering 1 / 16 samples
+00:22.797  render           | Fra: 488 | Rendering 16 / 16 samples
+00:22.891  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0488.png'
+00:22.891  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:22.891  render           | Rendering frame 489
+00:22.891  render           | Start rendering: Scene, ViewLayer
+00:22.891  render           | Engine: EEVEE
+00:22.985  render           | Fra: 489 | Rendering 1 / 16 samples
+00:23.110  render           | Fra: 489 | Rendering 16 / 16 samples
+00:23.188  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0489.png'
+00:23.188  render           | Time: 00:00.30 (Saving: 00:00.06)
+00:23.188  render           | Rendering frame 490
+00:23.188  render           | Start rendering: Scene, ViewLayer
+00:23.188  render           | Engine: EEVEE
+00:23.282  render           | Fra: 490 | Rendering 1 / 16 samples
+00:23.407  render           | Fra: 490 | Rendering 16 / 16 samples
+00:23.500  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0490.png'
+00:23.500  render           | Time: 00:00.30 (Saving: 00:00.06)
+00:23.500  render           | Rendering frame 491
+00:23.500  render           | Start rendering: Scene, ViewLayer
+00:23.500  render           | Engine: EEVEE
+00:23.610  render           | Fra: 491 | Rendering 1 / 16 samples
+00:23.750  render           | Fra: 491 | Rendering 16 / 16 samples
+00:23.844  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0491.png'
+00:23.844  render           | Time: 00:00.34 (Saving: 00:00.06)
+00:23.844  render           | Rendering frame 492
+00:23.844  render           | Start rendering: Scene, ViewLayer
+00:23.844  render           | Engine: EEVEE
+00:23.969  render           | Fra: 492 | Rendering 1 / 16 samples
+00:24.094  render           | Fra: 492 | Rendering 16 / 16 samples
+00:24.188  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0492.png'
+00:24.188  render           | Time: 00:00.34 (Saving: 00:00.06)
+00:24.188  render           | Rendering frame 493
+00:24.188  render           | Start rendering: Scene, ViewLayer
+00:24.188  render           | Engine: EEVEE
+00:24.297  render           | Fra: 493 | Rendering 1 / 16 samples
+00:24.438  render           | Fra: 493 | Rendering 16 / 16 samples
+00:24.516  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0493.png'
+00:24.516  render           | Time: 00:00.33 (Saving: 00:00.06)
+00:24.516  render           | Rendering frame 494
+00:24.516  render           | Start rendering: Scene, ViewLayer
+00:24.516  render           | Engine: EEVEE
+00:24.610  render           | Fra: 494 | Rendering 1 / 16 samples
+00:24.735  render           | Fra: 494 | Rendering 16 / 16 samples
+00:24.828  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0494.png'
+00:24.828  render           | Time: 00:00.31 (Saving: 00:00.06)
+00:24.828  render           | Rendering frame 495
+00:24.828  render           | Start rendering: Scene, ViewLayer
+00:24.828  render           | Engine: EEVEE
+00:24.922  render           | Fra: 495 | Rendering 1 / 16 samples
+00:25.047  render           | Fra: 495 | Rendering 16 / 16 samples
+00:25.141  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0495.png'
+00:25.141  render           | Time: 00:00.30 (Saving: 00:00.06)
+00:25.141  render           | Rendering frame 496
+00:25.141  render           | Start rendering: Scene, ViewLayer
+00:25.141  render           | Engine: EEVEE
+00:25.219  render           | Fra: 496 | Rendering 1 / 16 samples
+00:25.344  render           | Fra: 496 | Rendering 16 / 16 samples
+00:25.422  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0496.png'
+00:25.422  render           | Time: 00:00.29 (Saving: 00:00.06)
+00:25.422  render           | Rendering frame 497
+00:25.422  render           | Start rendering: Scene, ViewLayer
+00:25.422  render           | Engine: EEVEE
+00:25.516  render           | Fra: 497 | Rendering 1 / 16 samples
+00:25.641  render           | Fra: 497 | Rendering 16 / 16 samples
+00:25.719  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0497.png'
+00:25.719  render           | Time: 00:00.28 (Saving: 00:00.06)
+00:25.719  render           | Rendering frame 498
+00:25.719  render           | Start rendering: Scene, ViewLayer
+00:25.719  render           | Engine: EEVEE
+00:25.797  render           | Fra: 498 | Rendering 1 / 16 samples
+00:25.907  render           | Fra: 498 | Rendering 16 / 16 samples
+00:26.032  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0498.png'
+00:26.032  render           | Time: 00:00.31 (Saving: 00:00.08)
+00:26.032  render           | Rendering frame 499
+00:26.032  render           | Start rendering: Scene, ViewLayer
+00:26.032  render           | Engine: EEVEE
+00:26.141  render           | Fra: 499 | Rendering 1 / 16 samples
+00:26.282  render           | Fra: 499 | Rendering 16 / 16 samples
+00:26.375  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0499.png'
+00:26.375  render           | Time: 00:00.34 (Saving: 00:00.07)
+00:26.375  render           | Rendering frame 500
+00:26.375  render           | Start rendering: Scene, ViewLayer
+00:26.375  render           | Engine: EEVEE
+00:26.485  render           | Fra: 500 | Rendering 1 / 16 samples
+00:26.594  render           | Fra: 500 | Rendering 16 / 16 samples
+00:26.688  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0500.png'
+00:26.688  render           | Time: 00:00.30 (Saving: 00:00.06)
+00:26.688  render           | Rendering frame 501
+00:26.688  render           | Start rendering: Scene, ViewLayer
+00:26.688  render           | Engine: EEVEE
+00:26.766  render           | Fra: 501 | Rendering 1 / 16 samples
+00:26.875  render           | Fra: 501 | Rendering 16 / 16 samples
+00:26.969  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0501.png'
+00:26.969  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:26.969  render           | Rendering frame 502
+00:26.969  render           | Start rendering: Scene, ViewLayer
+00:26.969  render           | Engine: EEVEE
+00:27.047  render           | Fra: 502 | Rendering 1 / 16 samples
+00:27.157  render           | Fra: 502 | Rendering 16 / 16 samples
+00:27.235  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0502.png'
+00:27.235  render           | Time: 00:00.27 (Saving: 00:00.05)
+00:27.235  render           | Rendering frame 503
+00:27.235  render           | Start rendering: Scene, ViewLayer
+00:27.235  render           | Engine: EEVEE
+00:27.328  render           | Fra: 503 | Rendering 1 / 16 samples
+00:27.438  render           | Fra: 503 | Rendering 16 / 16 samples
+00:27.516  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0503.png'
+00:27.516  render           | Time: 00:00.28 (Saving: 00:00.06)
+00:27.516  render           | Rendering frame 504
+00:27.516  render           | Start rendering: Scene, ViewLayer
+00:27.516  render           | Engine: EEVEE
+00:27.610  render           | Fra: 504 | Rendering 1 / 16 samples
+00:27.719  render           | Fra: 504 | Rendering 16 / 16 samples
+00:27.797  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0504.png'
+00:27.797  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:27.797  render           | Rendering frame 505
+00:27.797  render           | Start rendering: Scene, ViewLayer
+00:27.797  render           | Engine: EEVEE
+00:27.891  render           | Fra: 505 | Rendering 1 / 16 samples
+00:27.985  render           | Fra: 505 | Rendering 16 / 16 samples
+00:28.078  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0505.png'
+00:28.078  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:28.078  render           | Rendering frame 506
+00:28.078  render           | Start rendering: Scene, ViewLayer
+00:28.078  render           | Engine: EEVEE
+00:28.172  render           | Fra: 506 | Rendering 1 / 16 samples
+00:28.266  render           | Fra: 506 | Rendering 16 / 16 samples
+00:28.360  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0506.png'
+00:28.360  render           | Time: 00:00.27 (Saving: 00:00.05)
+00:28.360  render           | Rendering frame 507
+00:28.360  render           | Start rendering: Scene, ViewLayer
+00:28.360  render           | Engine: EEVEE
+00:28.438  render           | Fra: 507 | Rendering 1 / 16 samples
+00:28.547  render           | Fra: 507 | Rendering 16 / 16 samples
+00:28.625  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0507.png'
+00:28.625  render           | Time: 00:00.27 (Saving: 00:00.05)
+00:28.625  render           | Rendering frame 508
+00:28.625  render           | Start rendering: Scene, ViewLayer
+00:28.625  render           | Engine: EEVEE
+00:28.719  render           | Fra: 508 | Rendering 1 / 16 samples
+00:28.813  render           | Fra: 508 | Rendering 16 / 16 samples
+00:28.891  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0508.png'
+00:28.891  render           | Time: 00:00.27 (Saving: 00:00.05)
+00:28.891  render           | Rendering frame 509
+00:28.891  render           | Start rendering: Scene, ViewLayer
+00:28.891  render           | Engine: EEVEE
+00:28.985  render           | Fra: 509 | Rendering 1 / 16 samples
+00:29.094  render           | Fra: 509 | Rendering 16 / 16 samples
+00:29.172  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0509.png'
+00:29.172  render           | Time: 00:00.27 (Saving: 00:00.05)
+00:29.172  render           | Rendering frame 510
+00:29.172  render           | Start rendering: Scene, ViewLayer
+00:29.172  render           | Engine: EEVEE
+00:29.266  render           | Fra: 510 | Rendering 1 / 16 samples
+00:29.360  render           | Fra: 510 | Rendering 16 / 16 samples
+00:29.438  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0510.png'
+00:29.438  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:29.438  render           | Rendering frame 511
+00:29.453  render           | Start rendering: Scene, ViewLayer
+00:29.453  render           | Engine: EEVEE
+00:29.547  render           | Fra: 511 | Rendering 1 / 16 samples
+00:29.672  render           | Fra: 511 | Rendering 16 / 16 samples
+00:29.750  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0511.png'
+00:29.750  render           | Time: 00:00.31 (Saving: 00:00.05)
+00:29.750  render           | Rendering frame 512
+00:29.766  render           | Start rendering: Scene, ViewLayer
+00:29.766  render           | Engine: EEVEE
+00:29.844  render           | Fra: 512 | Rendering 1 / 16 samples
+00:29.969  render           | Fra: 512 | Rendering 16 / 16 samples
+00:30.094  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0512.png'
+00:30.094  render           | Time: 00:00.33 (Saving: 00:00.08)
+00:30.094  render           | Rendering frame 513
+00:30.094  render           | Start rendering: Scene, ViewLayer
+00:30.094  render           | Engine: EEVEE
+00:30.203  render           | Fra: 513 | Rendering 1 / 16 samples
+00:30.297  render           | Fra: 513 | Rendering 16 / 16 samples
+00:30.391  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0513.png'
+00:30.391  render           | Time: 00:00.29 (Saving: 00:00.05)
+00:30.391  render           | Rendering frame 514
+00:30.391  render           | Start rendering: Scene, ViewLayer
+00:30.391  render           | Engine: EEVEE
+00:30.469  render           | Fra: 514 | Rendering 1 / 16 samples
+00:30.578  render           | Fra: 514 | Rendering 16 / 16 samples
+00:30.657  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0514.png'
+00:30.657  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:30.657  render           | Rendering frame 515
+00:30.672  render           | Start rendering: Scene, ViewLayer
+00:30.672  render           | Engine: EEVEE
+00:30.750  render           | Fra: 515 | Rendering 1 / 16 samples
+00:30.844  render           | Fra: 515 | Rendering 16 / 16 samples
+00:30.938  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0515.png'
+00:30.938  render           | Time: 00:00.26 (Saving: 00:00.05)
+00:30.938  render           | Rendering frame 516
+00:30.938  render           | Start rendering: Scene, ViewLayer
+00:30.938  render           | Engine: EEVEE
+00:31.016  render           | Fra: 516 | Rendering 1 / 16 samples
+00:31.110  render           | Fra: 516 | Rendering 16 / 16 samples
+00:31.203  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0516.png'
+00:31.203  render           | Time: 00:00.26 (Saving: 00:00.06)
+00:31.203  render           | Rendering frame 517
+00:31.203  render           | Start rendering: Scene, ViewLayer
+00:31.203  render           | Engine: EEVEE
+00:31.282  render           | Fra: 517 | Rendering 1 / 16 samples
+00:31.375  render           | Fra: 517 | Rendering 16 / 16 samples
+00:31.469  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0517.png'
+00:31.469  render           | Time: 00:00.26 (Saving: 00:00.05)
+00:31.469  render           | Rendering frame 518
+00:31.469  render           | Start rendering: Scene, ViewLayer
+00:31.469  render           | Engine: EEVEE
+00:31.563  render           | Fra: 518 | Rendering 1 / 16 samples
+00:31.641  render           | Fra: 518 | Rendering 16 / 16 samples
+00:31.750  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0518.png'
+00:31.750  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:31.750  render           | Rendering frame 519
+00:31.750  render           | Start rendering: Scene, ViewLayer
+00:31.750  render           | Engine: EEVEE
+00:31.828  render           | Fra: 519 | Rendering 1 / 16 samples
+00:31.922  render           | Fra: 519 | Rendering 16 / 16 samples
+00:32.016  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0519.png'
+00:32.016  render           | Time: 00:00.27 (Saving: 00:00.05)
+00:32.016  render           | Rendering frame 520
+00:32.016  render           | Start rendering: Scene, ViewLayer
+00:32.016  render           | Engine: EEVEE
+00:32.110  render           | Fra: 520 | Rendering 1 / 16 samples
+00:32.188  render           | Fra: 520 | Rendering 16 / 16 samples
+00:32.297  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0520.png'
+00:32.297  render           | Time: 00:00.27 (Saving: 00:00.05)
+00:32.297  render           | Rendering frame 521
+00:32.297  render           | Start rendering: Scene, ViewLayer
+00:32.297  render           | Engine: EEVEE
+00:32.375  render           | Fra: 521 | Rendering 1 / 16 samples
+00:32.485  render           | Fra: 521 | Rendering 16 / 16 samples
+00:32.563  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0521.png'
+00:32.563  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:32.563  render           | Rendering frame 522
+00:32.563  render           | Start rendering: Scene, ViewLayer
+00:32.563  render           | Engine: EEVEE
+00:32.657  render           | Fra: 522 | Rendering 1 / 16 samples
+00:32.735  render           | Fra: 522 | Rendering 16 / 16 samples
+00:32.828  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0522.png'
+00:32.828  render           | Time: 00:00.26 (Saving: 00:00.05)
+00:32.828  render           | Rendering frame 523
+00:32.828  render           | Start rendering: Scene, ViewLayer
+00:32.828  render           | Engine: EEVEE
+00:32.922  render           | Fra: 523 | Rendering 1 / 16 samples
+00:33.000  render           | Fra: 523 | Rendering 16 / 16 samples
+00:33.110  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0523.png'
+00:33.110  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:33.110  render           | Rendering frame 524
+00:33.110  render           | Start rendering: Scene, ViewLayer
+00:33.110  render           | Engine: EEVEE
+00:33.203  render           | Fra: 524 | Rendering 1 / 16 samples
+00:33.282  render           | Fra: 524 | Rendering 16 / 16 samples
+00:33.391  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0524.png'
+00:33.391  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:33.391  render           | Rendering frame 525
+00:33.391  render           | Start rendering: Scene, ViewLayer
+00:33.391  render           | Engine: EEVEE
+00:33.469  render           | Fra: 525 | Rendering 1 / 16 samples
+00:33.563  render           | Fra: 525 | Rendering 16 / 16 samples
+00:33.657  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0525.png'
+00:33.672  render           | Time: 00:00.27 (Saving: 00:00.06)
+00:33.672  render           | Rendering frame 526
+00:33.672  render           | Start rendering: Scene, ViewLayer
+00:33.672  render           | Engine: EEVEE
+00:33.782  render           | Fra: 526 | Rendering 1 / 16 samples
+00:33.875  render           | Fra: 526 | Rendering 16 / 16 samples
+00:33.985  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0526.png'
+00:33.985  render           | Time: 00:00.31 (Saving: 00:00.06)
+00:33.985  render           | Rendering frame 527
+00:33.985  render           | Start rendering: Scene, ViewLayer
+00:33.985  render           | Engine: EEVEE
+00:34.094  render           | Fra: 527 | Rendering 1 / 16 samples
+00:34.188  render           | Fra: 527 | Rendering 16 / 16 samples
+00:34.297  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0527.png'
+00:34.297  render           | Time: 00:00.32 (Saving: 00:00.06)
+00:34.297  render           | Rendering frame 528
+00:34.297  render           | Start rendering: Scene, ViewLayer
+00:34.297  render           | Engine: EEVEE
+00:34.391  render           | Fra: 528 | Rendering 1 / 16 samples
+00:34.469  render           | Fra: 528 | Rendering 16 / 16 samples
+00:34.578  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\MotionFull_v006c\Frames\frame_0528.png'
+00:34.578  render           | Time: 00:00.27 (Saving: 00:00.06)
+
+Blender quit

@@ -1,0 +1,55 @@
+00:03.234  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_integrated_v006.blend"
+00:03.312  reports          | Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+CONTROL {'signals': 1.0, 'wall': 1.0, 'waveforms': 1.0, 'contact_history': 1.0, 'contact_hold_frames': 120.0, 'signal_radius_m': 0.0025, 'spot_radius_m': 0.008, 'interpretation': 'Illustrative signal/time/glyph. No calibrated acoustic face/field data/RPM.', 'geometry_edit': 'Rebuild/version/reverify after changing source geometry or acquisition angles.', 'emit_1': 11.0, 'leg_1': 15.0, 'emit_2': 83.0, 'leg_2': 13.0, 'emit_3': 155.0, 'leg_3': 12.0, 'emit_4': 227.0, 'leg_4': 11.0, 'emit_5': 299.0, 'leg_5': 11.0, 'emit_6': 371.0, 'leg_6': 11.0}
+OBJECT TX_1 hidden True loc [2.799999952316284, -0.0685717985033989, 0.15401476621627808] rot [0.0, 0.0, 0.0] scale [1.0, 1.0, 1.0]
+DRIVER location 0 2.7999999523+(0.0000000000)*(min(max((frame-e)/d,0),1)) True
+DRIVER location 1 -0.0534451902+(-0.0151266083)*(min(max((frame-e)/d,0),1)) True
+DRIVER location 2 0.1200398579+(0.0339749083)*(min(max((frame-e)/d,0),1)) True
+DRIVER hide_render 0 not (frame>=e and frame<e+d) or v<.5 True
+DRIVER scale 0 rad/.0025 True
+DRIVER scale 1 rad/.0025 True
+DRIVER scale 2 rad/.0025 True
+OBJECT TX_4 hidden True loc [2.799999952316284, -0.11772556602954865, 0.10600057989358902] rot [0.0, 0.0, 0.0] scale [1.0, 1.0, 1.0]
+DRIVER location 0 2.7999999523+(0.0000000000)*(min(max((frame-e)/d,0),1)) True
+DRIVER location 1 -0.0976492167+(-0.0200763494)*(min(max((frame-e)/d,0),1)) True
+DRIVER location 2 0.0879237577+(0.0180768222)*(min(max((frame-e)/d,0),1)) True
+DRIVER hide_render 0 not (frame>=e and frame<e+d) or v<.5 True
+DRIVER scale 0 rad/.0025 True
+DRIVER scale 1 rad/.0025 True
+DRIVER scale 2 rad/.0025 True
+OBJECT TX_6 hidden True loc [2.799999952316284, -0.11810152977705002, 0.057601965963840485] rot [0.0, 0.0, 0.0] scale [1.0, 1.0, 1.0]
+DRIVER location 0 2.7999999523+(0.0000000000)*(min(max((frame-e)/d,0),1)) True
+DRIVER location 1 -0.1181015298+(-0.0257826224)*(min(max((frame-e)/d,0),1)) True
+DRIVER location 2 0.0576019660+(0.0125750229)*(min(max((frame-e)/d,0),1)) True
+DRIVER hide_render 0 not (frame>=e and frame<e+d) or v<.5 True
+DRIVER scale 0 rad/.0025 True
+DRIVER scale 1 rad/.0025 True
+DRIVER scale 2 rad/.0025 True
+OBJECT WALL_CONTACT_1 hidden True loc [2.799999952316284, -0.0685717985033989, 0.15401476621627808] rot [0.0, 0.0, 0.0] scale [0.0, 0.0, 0.0]
+DRIVER hide_render 0 frame<e+d or frame>e+d+12 or v<.5 True
+DRIVER scale 0 rad/.008*max(0,1-(frame-e-d)/12) True
+DRIVER scale 1 rad/.008*max(0,1-(frame-e-d)/12) True
+DRIVER scale 2 rad/.008*max(0,1-(frame-e-d)/12) True
+OBJECT WALL_CONTACT_4 hidden False loc [2.799999952316284, -0.11772556602954865, 0.10600057989358902] rot [0.0, 0.0, 0.0] scale [0.8333333730697632, 0.8333333730697632, 0.8333333730697632]
+DRIVER hide_render 0 frame<e+d or frame>e+d+12 or v<.5 True
+DRIVER scale 0 rad/.008*max(0,1-(frame-e-d)/12) True
+DRIVER scale 1 rad/.008*max(0,1-(frame-e-d)/12) True
+DRIVER scale 2 rad/.008*max(0,1-(frame-e-d)/12) True
+OBJECT WALL_CONTACT_6 hidden True loc [2.799999952316284, -0.14388415217399597, 0.07017698884010315] rot [0.0, 0.0, 0.0] scale [12.833333969116211, 12.833333969116211, 12.833333969116211]
+DRIVER hide_render 0 frame<e+d or frame>e+d+12 or v<.5 True
+DRIVER scale 0 rad/.008*max(0,1-(frame-e-d)/12) True
+DRIVER scale 1 rad/.008*max(0,1-(frame-e-d)/12) True
+DRIVER scale 2 rad/.008*max(0,1-(frame-e-d)/12) True
+OBJECT EMITTER_4 hidden False loc [2.799999952316284, -0.0976492166519165, 0.08792375773191452] rot [0.0, 0.0, 0.0] scale [1.0, 1.0, 1.0]
+DRIVER hide_render 0 not (217<=frame<=256) or v<.5 True
+OBJECT EMITTER_6 hidden True loc [2.799999952316284, -0.11810152977705002, 0.057601965963840485] rot [0.0, 0.0, 0.0] scale [1.0, 1.0, 1.0]
+DRIVER hide_render 0 not (361<=frame<=400) or v<.5 True
+OBJECT ASSEMBLY_ROTATION_X hidden False loc [2.069999933242798, 0.0, 0.0] rot [1.7278759479522705, 0.0, 0.0] scale [1.0, 1.0, 1.0]
+DRIVER rotation_euler 0 r True
+OBJECT T6_IRREGULAR_VIEW_WINDOW hidden False loc [0.0, 0.0, 0.0] rot [0.0, 0.0, 0.0] scale [1.0, 1.0, 1.0]
+DRIVER hide_render 0 v<.5 True
+RIG rotation 1.7278759479522705
+CAP INSTANCE TEMP | Imaging port 1 | removable acoustic cap [[4.751235493927197e-08, 1.0, -6.145644704247388e-08, 2.799999952316284], [-0.669130802154541, -1.387905168570569e-08, -0.743144690990448, -0.09660879522562027], [-0.743144690990448, 7.64309504575067e-08, 0.669130802154541, 0.08698698878288269], [0.0, 0.0, 0.0, 1.0]]
+
+Blender quit

@@ -1,0 +1,6992 @@
+{
+  "status": "PASS",
+  "check_count": 1382,
+  "checks": [
+    {
+      "check": "8 second playable timeline",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "source preserved 04-Production/Mechanisms/B202/Scenes/B202_measured-envelope_master_v009.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "source preserved 04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "source preserved 04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "relative linked library resolves",
+      "pass": true,
+      "detail": "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend"
+    },
+    {
+      "check": "same sensor receives every replayed event",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "three sensors retained",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "point cloud unparented world registration",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "entire point cloud inverse source binding",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a000",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a001",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a002",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a003",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a004",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a005",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a006",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a007",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a008",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a009",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a010",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a011",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a012",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a013",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a014",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a015",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a016",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a017",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a018",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a019",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a020",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a021",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a022",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a023",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a024",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a025",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a026",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a027",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a028",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a029",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a030",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a031",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a032",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a033",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a034",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a035",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a036",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a037",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a038",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a039",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a040",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a041",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a042",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a043",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a044",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a045",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a046",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a047",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a048",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a049",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a050",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a051",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a052",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a053",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a054",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a055",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a056",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a057",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a058",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a059",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a060",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a061",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a062",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a063",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a064",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a065",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a066",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a067",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a068",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a069",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a070",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a071",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a072",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a073",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a074",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a075",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a076",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a077",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a078",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a079",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a080",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a081",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a082",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a083",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a084",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a085",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a086",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a087",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a088",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a089",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a091",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a092",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a093",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a094",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a095",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a096",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a097",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a098",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a099",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a100",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a101",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a102",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a103",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a104",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a105",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a106",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d00_a107",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a000",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a001",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a002",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a003",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a004",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a005",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a006",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a007",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a008",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a009",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a010",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a011",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a012",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a013",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a014",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a015",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a016",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a017",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a018",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a019",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a020",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a021",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a022",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a023",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a024",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a025",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a026",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a027",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a028",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a029",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a030",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a031",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a032",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a033",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a034",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a035",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a036",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a037",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a038",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a039",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a040",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a041",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a042",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a043",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a044",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a045",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a046",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a047",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a048",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a049",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a050",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a051",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a052",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a053",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a054",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a055",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a056",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a057",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a058",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a059",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a060",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a061",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a062",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a063",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a064",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a065",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a066",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a067",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a068",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a069",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a070",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a071",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a072",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a073",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a074",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a075",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a076",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a077",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a078",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a079",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a080",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a081",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a082",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a083",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a084",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a085",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a086",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a087",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a088",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a089",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a091",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a092",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a093",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a094",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a095",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a096",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a097",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a098",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a099",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a100",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a101",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a102",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a103",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a104",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a105",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a106",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "contour endpoints inverse T27_registered_contour_d01_a107",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 1 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 1 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 1 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 1 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 1 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 1 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 2 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 2 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 2 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 2 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 2 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 2 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 3 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 3 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 3 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 3 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 3 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 3 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 4 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 4 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 4 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 4 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 4 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 4 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 5 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 5 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 5 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 5 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 5 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 5 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 6 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 6 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 6 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 6 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 6 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 6 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 7 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 7 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 7 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 7 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 7 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 7 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 8 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 8 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 8 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 8 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 8 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 8 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 9 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 9 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 9 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 9 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 9 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 9 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 10 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 10 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 10 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 10 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 10 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 10 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 11 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 11 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 11 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 11 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 11 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 11 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 12 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 12 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 12 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 12 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 12 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 12 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 13 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 13 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 13 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 13 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 13 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 13 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 14 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 14 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 14 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 14 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 14 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 14 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 15 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 15 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 15 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 15 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 15 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 15 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 16 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 16 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 16 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 16 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 16 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 16 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 17 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 17 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 17 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 17 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 17 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 17 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 18 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 18 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 18 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 18 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 18 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 18 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 19 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 19 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 19 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 19 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 19 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 19 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 20 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 20 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 20 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 20 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 20 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 20 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 21 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 21 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 21 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 21 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 21 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 21 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 22 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 22 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 22 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 22 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 22 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 22 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 23 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 23 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 23 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 23 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 23 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 23 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 24 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 24 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 24 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 24 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 24 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 24 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 25 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 25 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 25 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 25 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 25 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 25 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 26 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 26 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 26 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 26 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 26 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 26 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 27 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 27 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 27 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 27 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 27 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 27 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 28 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 28 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 28 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 28 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 28 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 28 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 29 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 29 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 29 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 29 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 29 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 29 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 30 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 30 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 30 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 30 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 30 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 30 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 31 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 31 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 31 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 31 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 31 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 31 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 32 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 32 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 32 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 32 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 32 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 32 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 33 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 33 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 33 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 33 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 33 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 33 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 34 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 34 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 34 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 34 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 34 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 34 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 35 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 35 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 35 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 35 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 35 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 35 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 36 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 36 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 36 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 36 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 36 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 36 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 37 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 37 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 37 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 37 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 37 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 37 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 38 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 38 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 38 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 38 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 38 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 38 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 39 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 39 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 39 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 39 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 39 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 39 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 40 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 40 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 40 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 40 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 40 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 40 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 41 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 41 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 41 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 41 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 41 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 41 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 42 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 42 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 42 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 42 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 42 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 42 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 43 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 43 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 43 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 43 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 43 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 43 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 44 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 44 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 44 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 44 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 44 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 44 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 45 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 45 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 45 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 45 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 45 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 45 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 46 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 46 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 46 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 46 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 46 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 46 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 47 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 47 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 47 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 47 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 47 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 47 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 48 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 48 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 48 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 48 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 48 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 48 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 49 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 49 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 49 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 49 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 49 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 49 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 50 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 50 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 50 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 50 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 50 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 50 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 51 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 51 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 51 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 51 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 51 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 51 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 52 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 52 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 52 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 52 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 52 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 52 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 53 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 53 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 53 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 53 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 53 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 53 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 54 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 54 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 54 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 54 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 54 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 54 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 55 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 55 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 55 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 55 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 55 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 55 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 56 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 56 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 56 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 56 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 56 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 56 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 57 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 57 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 57 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 57 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 57 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 57 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 58 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 58 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 58 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 58 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 58 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 58 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 59 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 59 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 59 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 59 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 59 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 59 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 60 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 60 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 60 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 60 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 60 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 60 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 61 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 61 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 61 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 61 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 61 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 61 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 62 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 62 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 62 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 62 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 62 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 62 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 63 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 63 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 63 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 63 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 63 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 63 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 64 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 64 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 64 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 64 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 64 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 64 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 65 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 65 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 65 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 65 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 65 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 65 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 66 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 66 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 66 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 66 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 66 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 66 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 67 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 67 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 67 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 67 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 67 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 67 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 68 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 68 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 68 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 68 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 68 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 68 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 69 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 69 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 69 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 69 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 69 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 69 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 70 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 70 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 70 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 70 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 70 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 70 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 71 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 71 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 71 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 71 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 71 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 71 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 72 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 72 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 72 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 72 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 72 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 72 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 73 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 73 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 73 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 73 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 73 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 73 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 74 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 74 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 74 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 74 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 74 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 74 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 75 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 75 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 75 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 75 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 75 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 75 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 76 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 76 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 76 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 76 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 76 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 76 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 77 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 77 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 77 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 77 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 77 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 77 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 78 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 78 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 78 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 78 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 78 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 78 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 79 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 79 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 79 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 79 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 79 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 79 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 80 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 80 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 80 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 80 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 80 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 80 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 81 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 81 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 81 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 81 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 81 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 81 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 82 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 82 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 82 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 82 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 82 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 82 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 83 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 83 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 83 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 83 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 83 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 83 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 84 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 84 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 84 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 84 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 84 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 84 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 85 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 85 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 85 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 85 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 85 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 85 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 86 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 86 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 86 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 86 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 86 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 86 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 87 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 87 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 87 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 87 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 87 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 87 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 88 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 88 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 88 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 88 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 88 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 88 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 89 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 89 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 89 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 89 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 89 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 89 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 90 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 90 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 90 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 90 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 90 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 90 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 91 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 91 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 91 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 91 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 91 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 91 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 92 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 92 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 92 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 92 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 92 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 92 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 93 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 93 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 93 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 93 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 93 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 93 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 94 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 94 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 94 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 94 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 94 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 94 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 95 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 95 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 95 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 95 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 95 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 95 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 96 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 96 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 96 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 96 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 96 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 96 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 97 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 97 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 97 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 97 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 97 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 97 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 98 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 98 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 98 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 98 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 98 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 98 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 99 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 99 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 99 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 99 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 99 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 99 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 100 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 100 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 100 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 100 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 100 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 100 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 101 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 101 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 101 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 101 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 101 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 101 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 102 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 102 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 102 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 102 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 102 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 102 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 103 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 103 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 103 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 103 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 103 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 103 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 104 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 104 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 104 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 104 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 104 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 104 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 105 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 105 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 105 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 105 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 105 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 105 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 106 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 106 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 106 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 106 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 106 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 106 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 107 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 107 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 107 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 107 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 107 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 107 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 108 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 108 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 108 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 108 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 108 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 108 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 109 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 109 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 109 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 109 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 109 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 109 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 110 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 110 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 110 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 110 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 110 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 110 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 111 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 111 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 111 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 111 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 111 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 111 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 112 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 112 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 112 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 112 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 112 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 112 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 113 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 113 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 113 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 113 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 113 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 113 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 114 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 114 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 114 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 114 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 114 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 114 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 115 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 115 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 115 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 115 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 115 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 115 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 116 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 116 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 116 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 116 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 116 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 116 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 117 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 117 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 117 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 117 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 117 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 117 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 118 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 118 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 118 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 118 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 118 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 118 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 119 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 119 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 119 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 119 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 119 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 119 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 120 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 120 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 120 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 120 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 120 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 120 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 121 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 121 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 121 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 121 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 121 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 121 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 122 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 122 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 122 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 122 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 122 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 122 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 123 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 123 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 123 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 123 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 123 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 123 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 124 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 124 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 124 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 124 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 124 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 124 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 125 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 125 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 125 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 125 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 125 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 125 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 126 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 126 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 126 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 126 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 126 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 126 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 127 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 127 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 127 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 127 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 127 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 127 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 128 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 128 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 128 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 128 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 128 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 128 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 129 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 129 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 129 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 129 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 129 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 129 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 130 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 130 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 130 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 130 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 130 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 130 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 131 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 131 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 131 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 131 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 131 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 131 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 132 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 132 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 132 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 132 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 132 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 132 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 133 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 133 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 133 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 133 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 133 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 133 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 134 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 134 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 134 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 134 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 134 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 134 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 135 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 135 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 135 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 135 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 135 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 135 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 136 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 136 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 136 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 136 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 136 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 136 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 137 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 137 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 137 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 137 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 137 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 137 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 138 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 138 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 138 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 138 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 138 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 138 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 139 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 139 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 139 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 139 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 139 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 139 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 140 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 140 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 140 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 140 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 140 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 140 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 141 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 141 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 141 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 141 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 141 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 141 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 142 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 142 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 142 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 142 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 142 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 142 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 143 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 143 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 143 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 143 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 143 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 143 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 144 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 144 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 144 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 144 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 144 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 144 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 145 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 145 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 145 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 145 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 145 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 145 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 146 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 146 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 146 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 146 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 146 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 146 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 147 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 147 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 147 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 147 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 147 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 147 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 148 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 148 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 148 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 148 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 148 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 148 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 149 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 149 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 149 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 149 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 149 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 149 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 150 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 150 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 150 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 150 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 150 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 150 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 151 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 151 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 151 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 151 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 151 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 151 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 152 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 152 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 152 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 152 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 152 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 152 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 153 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 153 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 153 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 153 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 153 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 153 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 154 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 154 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 154 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 154 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 154 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 154 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 155 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 155 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 155 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 155 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 155 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 155 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 156 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 156 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 156 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 156 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 156 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 156 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 157 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 157 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 157 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 157 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 157 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 157 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 158 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 158 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 158 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 158 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 158 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 158 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 159 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 159 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 159 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 159 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 159 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 159 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 160 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 160 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 160 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 160 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 160 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 160 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 161 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 161 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 161 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 161 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 161 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 161 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 162 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 162 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 162 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 162 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 162 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 162 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 163 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 163 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 163 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 163 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 163 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 163 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 164 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 164 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 164 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 164 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 164 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 164 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 165 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 165 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 165 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 165 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 165 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 165 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 166 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 166 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 166 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 166 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 166 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 166 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 167 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 167 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 167 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 167 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 167 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 167 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 168 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 168 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 168 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 168 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 168 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 168 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 169 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 169 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 169 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 169 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 169 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 169 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 170 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 170 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 170 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 170 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 170 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 170 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 171 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 171 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 171 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 171 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 171 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 171 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 172 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 172 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 172 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 172 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 172 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 172 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 173 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 173 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 173 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 173 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 173 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 173 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 174 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 174 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 174 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 174 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 174 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 174 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 175 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 175 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 175 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 175 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 175 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 175 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 176 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 176 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 176 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 176 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 176 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 176 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 177 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 177 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 177 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 177 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 177 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 177 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 178 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 178 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 178 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 178 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 178 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 178 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 179 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 179 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 179 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 179 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 179 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 179 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 180 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 180 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 180 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 180 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 180 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 180 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 181 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 181 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 181 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 181 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 181 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 181 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 182 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 182 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 182 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 182 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 182 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 182 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 183 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 183 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 183 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 183 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 183 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 183 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 184 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 184 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 184 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 184 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 184 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 184 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 185 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 185 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 185 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 185 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 185 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 185 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 186 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 186 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 186 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 186 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 186 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 186 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 187 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 187 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 187 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 187 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 187 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 187 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 188 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 188 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 188 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 188 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 188 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 188 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 189 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 189 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 189 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 189 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 189 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 189 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 190 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 190 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 190 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 190 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 190 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 190 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 191 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 191 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 191 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 191 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 191 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 191 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 192 monotonic replay and clockwise +X rotation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 192 no future/missing receipt events",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 192 points stay fixed",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 192 contour follows acquisition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 192 geometry and amplitude independent",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frame 192 cached surface has no future means",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no acquisition during axial transfers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "first event wall contact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "same-sensor return endpoint",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "camera has released sensor plane",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "legacy artistic layers suppressed",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "sample_frames": [
+    {
+      "frame": 1,
+      "events": 0,
+      "contour_segments": 0,
+      "tool_travel_m": 1.0199999809265137,
+      "rotation_rad": -0.651589572429657,
+      "cutoff": -0.9999989867210388
+    },
+    {
+      "frame": 12,
+      "events": 0,
+      "contour_segments": 0,
+      "tool_travel_m": 1.0199999809265137,
+      "rotation_rad": -0.651589572429657,
+      "cutoff": -0.9999989867210388
+    },
+    {
+      "frame": 28,
+      "events": 3,
+      "contour_segments": 0,
+      "tool_travel_m": 1.0199999809265137,
+      "rotation_rad": -0.651589572429657,
+      "cutoff": 0.0200009997934103
+    },
+    {
+      "frame": 72,
+      "events": 147,
+      "contour_segments": 108,
+      "tool_travel_m": 1.0199999809265137,
+      "rotation_rad": 2.1496639251708984,
+      "cutoff": 1.460000991821289
+    },
+    {
+      "frame": 116,
+      "events": 324,
+      "contour_segments": 108,
+      "tool_travel_m": 1.0199999809265137,
+      "rotation_rad": 5.573418140411377,
+      "cutoff": 3.2300009727478027
+    },
+    {
+      "frame": 136,
+      "events": 324,
+      "contour_segments": 108,
+      "tool_travel_m": 1.2683533430099487,
+      "rotation_rad": 5.6312127113342285,
+      "cutoff": 3.2300009727478027
+    },
+    {
+      "frame": 156,
+      "events": 483,
+      "contour_segments": 216,
+      "tool_travel_m": 1.2699999809265137,
+      "rotation_rad": 8.664291381835938,
+      "cutoff": 4.820001125335693
+    },
+    {
+      "frame": 176,
+      "events": 648,
+      "contour_segments": 216,
+      "tool_travel_m": 1.2699999809265137,
+      "rotation_rad": 11.856603622436523,
+      "cutoff": 6.470001220703125
+    },
+    {
+      "frame": 192,
+      "events": 648,
+      "contour_segments": 216,
+      "tool_travel_m": 1.5199999809265137,
+      "rotation_rad": 11.914780616760254,
+      "cutoff": 6.470001220703125
+    }
+  ],
+  "test10_scope": "First gated 8s proof: actual saved animation timeline, monotonic event cutoff, inverse point persistence, coverage-linked contour and conservative surface reveal. Full sequence / real instrument validity / Radzi visual acceptance not claimed.",
+  "scene_sha256": "eabec16255c321b4567dd45a5bf7e9a12e059f2cacae13b5e5fa165e61262e77"
+}

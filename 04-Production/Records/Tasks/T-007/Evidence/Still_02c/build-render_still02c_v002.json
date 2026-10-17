@@ -1,0 +1,88 @@
+{
+  "scene": "Mechanisms\\B201\\Scenes\\B201_spreading-pulse_still02c_v002.blend",
+  "image": "Mechanisms\\B201\\Previews\\Still_02c\\B201_spreading-pulse_still02c_v002.png",
+  "scene_sha256": "9d7791de4f458f1885624bf43c222d73b17fc2f973fa14192a8e922648bf4f65",
+  "image_sha256": "6fe2623c1b9eb8f141498a097f947cb02a41205c2829e63702bb33b922d1681c",
+  "render_seconds": 57.663098199999695,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "engine": "CYCLES",
+  "samples": 32,
+  "approved_input_scene_sha256": "8d8e03853da7a38300d7395d7de5e9494c9d485bb9e64cd11c003e55ac2d5a73",
+  "approved_input_image_sha256": "1871d3997443ea59b1af53419aaecc57d56b91b8591f8765e19997fdb3561b37",
+  "inputs": {
+    "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "camera": {
+    "location": [
+      2.6162211894989014,
+      -0.2150273323059082,
+      0.2085031270980835
+    ],
+    "rotation": [
+      1.3723665475845337,
+      -2.3636975043928032e-08,
+      -0.7602552771568298
+    ],
+    "lens_mm": 65.0
+  },
+  "origin": [
+    2.799999952316284,
+    -0.01828734390437603,
+    0.13012121617794037
+  ],
+  "wall_reference": [
+    2.799999952316284,
+    -0.02468518167734146,
+    0.175644189119339
+  ],
+  "direction": [
+    0.0,
+    -0.13917312026023865,
+    0.9902679920196533
+  ],
+  "shell_radii_m": [
+    0.024,
+    0.033,
+    0.042
+  ],
+  "cap_angle_rad": 1.05,
+  "distance_m": 0.033,
+  "wavefront_radius_m": 0.03,
+  "wavefront_half_width_m": 0.002,
+  "wavefront_half_angle_rad": 1.4,
+  "plane_tangent": [
+    0.7280159592628479,
+    -0.6788884401321411,
+    -0.09541155397891998
+  ],
+  "plane_vertical": [
+    0.6855602264404297,
+    0.7209308743476868,
+    0.10132025182247162
+  ],
+  "projection_origin_front_wall": [
+    [
+      0.48450443148612976,
+      0.22685664892196655,
+      0.2793816328048706
+    ],
+    [
+      0.5051364302635193,
+      0.5905511975288391,
+      0.2696768045425415
+    ],
+    [
+      0.5136579871177673,
+      0.7407670617103577,
+      0.2658624053001404
+    ]
+  ],
+  "source_hashes_unchanged": true,
+  "animation_rendered": false,
+  "human_approval": "Still02v002 accepted as initial frame; this spreading-pulse still pending",
+  "layers": "Approved source geometry/lighting kept separate from illustrative emission; all use same camera."
+}

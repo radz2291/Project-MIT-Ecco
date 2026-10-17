@@ -1,0 +1,39 @@
+{
+  "scene": "Mechanisms\\B201\\Scenes\\B201_wall-interaction_still03_v001.blend",
+  "image": "Mechanisms\\B201\\Previews\\Still_03\\B201_wall-interaction_still03_v001.png",
+  "scene_sha256": "aaded74873be9bf91eba068a9b1e4bfdec4270e35cf7d53580bc22e950011a89",
+  "image_sha256": "2b2585365cfe1dd8f092244e4079fc011110163afd71815c7eaebdf572edf855",
+  "approved_source_sha256": "33c4491f9dc9867b6b9cd36fc295f2dd6ad2abef8e7cc82706e451086128bdff",
+  "inputs": {
+    "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  "origin": [
+    2.799999952316284,
+    -0.01828734390437603,
+    0.13012121617794037
+  ],
+  "wall": [
+    2.799999952316284,
+    -0.02468518167734146,
+    0.175644189119339
+  ],
+  "standoff_m": 0.045970353173797864,
+  "front_radii_m": [
+    0.028,
+    0.037,
+    0.045970353173797864
+  ],
+  "wall_correspondence_max_m": 2.4038948254201387e-07,
+  "wall_vertices": 3965,
+  "camera_unchanged": true,
+  "render_seconds": 77.2836871999998,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "animation_rendered": false,
+  "visual_approval": "pending",
+  "rock_texture": "Authored surface shading, not geological/material identification",
+  "contact_glow": "Illustrative arrival emphasis, not physical emitted light"
+}

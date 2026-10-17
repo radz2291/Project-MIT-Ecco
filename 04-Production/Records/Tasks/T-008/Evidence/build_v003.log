@@ -1,0 +1,16 @@
+00:03.172  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\WellAssembly\WellAssembly_variants_v003.blend"
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scripts\build_study_v003.py:21: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.diffuse_color=(*color,alpha);m.use_nodes=True
+C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Scripts\build_study_v003.py:79: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  s.render.image_settings.file_format='PNG';s.world=bpy.data.worlds.new('B202 dark neutral space');s.world.use_nodes=True;s.world.node_tree.nodes['Background'].inputs[0].default_value=(.025,.032,.045,1);s.world.node_tree.nodes['Background'].inputs[1].default_value=.3
+00:06.469  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\Study_v003\B202_A_v003.png'
+00:09.156  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\Study_v003\B202_B_v003.png'
+00:10.578  render           | Saved: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B202\Previews\Study_v003\B202_C_v003.png'
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Info: Saved as "B202_study_A_v003.blend"
+Info: Saved as "B202_study_B_v003.blend"
+Info: Saved as "B202_study_C_v003.blend"
+B202_STUDY_BUILD_PASS
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

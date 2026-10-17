@@ -1,0 +1,10 @@
+00:06.515  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_pulse-echo_v004.blend"
+00:06.875  reports          | Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+Traceback (most recent call last):
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\verify_proof_v004.py", line 32, in <module>
+    assert out['passed'],[c for c in checks if not c['pass_']]
+           ~~~^^^^^^^^^^
+AssertionError: [{'name': 'section stays inside supplied tool OD (no Boolean complement)', 'pass_': False, 'details': [0.024000048637390137, 0.5, 0.5]}]
+
+Blender quit

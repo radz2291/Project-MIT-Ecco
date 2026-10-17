@@ -1,0 +1,116 @@
+[
+  {
+    "case": "retrieval",
+    "frames": 144,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 6.0
+    },
+    "video": "04-Production/Mechanisms/B203/Previews/v001/B203_retrieval_v001.mp4",
+    "sha256": "88a2c4949951ee7a768253e4e0132768bdaff18884270a0f9d0f44a43c50c3a9",
+    "encode_decode_seconds": 2.50331290000031
+  },
+  {
+    "case": "support",
+    "frames": 144,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 6.0
+    },
+    "video": "04-Production/Mechanisms/B203/Previews/v001/B203_support_v001.mp4",
+    "sha256": "bdb0b7bb0d2b355c4ae1e33300175904c44555036be10fe5386fcf5adf19f2e1",
+    "encode_decode_seconds": 5.4283505999992485
+  },
+  {
+    "case": "channel",
+    "frames": 144,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 6.0
+    },
+    "video": "04-Production/Mechanisms/B203/Previews/v001/B203_channel_v001.mp4",
+    "sha256": "6b8f0e41c6dfa322715e17151cb611e381257b03f978871f447879908fad6501",
+    "encode_decode_seconds": 6.398963800000274
+  },
+  {
+    "case": "wear",
+    "frames": 144,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 6.0
+    },
+    "video": "04-Production/Mechanisms/B203/Previews/v001/B203_wear_v001.mp4",
+    "sha256": "a814c838f5eb6035bf5fa5adc42d937fe88e663754b9bb4fdd900a0b53f6369b",
+    "encode_decode_seconds": 3.610387300000184
+  },
+  {
+    "case": "combined",
+    "frames": 576,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "fps": 24.0,
+      "source_size": [
+        1280,
+        720
+      ],
+      "size": [
+        1280,
+        720
+      ],
+      "rotate": 0,
+      "duration": 24.0
+    },
+    "sha256": "7e988c2e243a92cfa7a628a0c405e79418302c4809598243e4bdbe93d712fe86",
+    "video": "04-Production/Mechanisms/B203/Previews/v001/B203_all-proofs_v001.mp4"
+  }
+]

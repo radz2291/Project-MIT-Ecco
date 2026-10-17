@@ -1,0 +1,12 @@
+04-Production/Mechanisms/B201/direction.md
+04-Production/Mechanisms/B201/Scripts/build_still01_v004.py
+04-Production/Mechanisms/B201/Scripts/verify_still01_v004.py
+04-Production/Mechanisms/B201/Scripts/close_still01_v004.py
+04-Production/Mechanisms/B201/Previews/Still_01/B201_sensor-origin_still01_v004.png
+04-Production/Records/Tasks/T-007/report.md
+04-Production/Records/Tasks/T-007/still-proposal_01_v004.md
+04-Production/Records/Tasks/T-007/Evidence/Still_01/build-render_still01_v004.json
+04-Production/Records/Tasks/T-007/Evidence/Still_01/verification_still01_v004.json
+04-Production/Records/Tasks/T-007/report_v005.md
+04-Production/Records/Tasks/T-007/Evidence/direction_before-still-gate.md
+04-Production/Records/Tasks/T-007/Evidence/Still_01/output-manifest_still01_v004.json

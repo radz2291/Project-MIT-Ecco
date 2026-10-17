@@ -1,0 +1,44 @@
+{
+  "refs": [
+    {
+      "name": "ECCO_SENSOR_REF_01",
+      "xyz": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ]
+    },
+    {
+      "name": "ECCO_SENSOR_REF_02",
+      "xyz": [
+        0.7300000190734863,
+        -0.12043187767267227,
+        0.046229466795921326
+      ]
+    },
+    {
+      "name": "ECCO_SENSOR_REF_03",
+      "xyz": [
+        0.7300000190734863,
+        0.020180046558380127,
+        -0.12741179764270782
+      ]
+    }
+  ],
+  "instances": [
+    {
+      "name": "ECCO_LINK_v002",
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "EMPTY",
+      "instance": "ECCO_MASTER_v002"
+    }
+  ],
+  "libraries": [
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\WellAssembly_variants_v003.blend"
+  ]
+}

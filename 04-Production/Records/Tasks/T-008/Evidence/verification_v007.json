@@ -1,0 +1,1407 @@
+{
+  "passed": 331,
+  "total": 332,
+  "checks": [
+    {
+      "check": "A preset state",
+      "pass": true
+    },
+    {
+      "check": "A still-only scene",
+      "pass": true
+    },
+    {
+      "check": "A relative source libraries",
+      "pass": true
+    },
+    {
+      "check": "A housing + nine closures",
+      "pass": true
+    },
+    {
+      "check": "A source mesh ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "A source transform ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "A source mesh TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "A source transform TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "A source mesh TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "A source transform TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "A source mesh TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "A source transform TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "A source mesh TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "A source transform TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "A source mesh TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "A source transform TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "A source mesh TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "A source transform TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "A source mesh TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "A source transform TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "A source mesh TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "A source transform TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "A source mesh TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "A source transform TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "A registered irregular",
+      "pass": true
+    },
+    {
+      "check": "A registered tight",
+      "pass": true
+    },
+    {
+      "check": "A registered spiral",
+      "pass": true
+    },
+    {
+      "check": "A image 1280x720",
+      "pass": true
+    },
+    {
+      "check": "A image nonblank",
+      "pass": true
+    },
+    {
+      "check": "A saved render points to exact image",
+      "pass": true
+    },
+    {
+      "check": "A amplitude visibility independent",
+      "pass": true
+    },
+    {
+      "check": "B preset state",
+      "pass": true
+    },
+    {
+      "check": "B still-only scene",
+      "pass": true
+    },
+    {
+      "check": "B relative source libraries",
+      "pass": true
+    },
+    {
+      "check": "B housing + nine closures",
+      "pass": true
+    },
+    {
+      "check": "B source mesh ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "B source transform ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "B source mesh TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "B source transform TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "B source mesh TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "B source transform TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "B source mesh TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "B source transform TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "B source mesh TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "B source transform TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "B source mesh TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "B source transform TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "B source mesh TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "B source transform TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "B source mesh TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "B source transform TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "B source mesh TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "B source transform TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "B source mesh TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "B source transform TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "B registered irregular",
+      "pass": true
+    },
+    {
+      "check": "B registered tight",
+      "pass": true
+    },
+    {
+      "check": "B registered spiral",
+      "pass": true
+    },
+    {
+      "check": "B image 1280x720",
+      "pass": true
+    },
+    {
+      "check": "B image nonblank",
+      "pass": true
+    },
+    {
+      "check": "B saved render points to exact image",
+      "pass": true
+    },
+    {
+      "check": "B amplitude visibility independent",
+      "pass": true
+    },
+    {
+      "check": "C preset state",
+      "pass": true
+    },
+    {
+      "check": "C still-only scene",
+      "pass": true
+    },
+    {
+      "check": "C relative source libraries",
+      "pass": true
+    },
+    {
+      "check": "C housing + nine closures",
+      "pass": true
+    },
+    {
+      "check": "C source mesh ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "C source transform ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "C source mesh TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "C source transform TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "C source mesh TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "C source transform TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "C source mesh TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "C source transform TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "C source mesh TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "C source transform TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "C source mesh TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "C source transform TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "C source mesh TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "C source transform TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "C source mesh TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "C source transform TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "C source mesh TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "C source transform TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "C source mesh TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "C source transform TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "C registered irregular",
+      "pass": true
+    },
+    {
+      "check": "C registered tight",
+      "pass": true
+    },
+    {
+      "check": "C registered spiral",
+      "pass": true
+    },
+    {
+      "check": "C image 1280x720",
+      "pass": true
+    },
+    {
+      "check": "C image nonblank",
+      "pass": true
+    },
+    {
+      "check": "C saved render points to exact image",
+      "pass": true
+    },
+    {
+      "check": "C amplitude visibility independent",
+      "pass": true
+    },
+    {
+      "check": "D preset state",
+      "pass": true
+    },
+    {
+      "check": "D still-only scene",
+      "pass": true
+    },
+    {
+      "check": "D relative source libraries",
+      "pass": true
+    },
+    {
+      "check": "D housing + nine closures",
+      "pass": true
+    },
+    {
+      "check": "D source mesh ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "D source transform ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "D source mesh TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "D source transform TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "D source mesh TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "D source transform TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "D source mesh TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "D source transform TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "D source mesh TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "D source transform TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "D source mesh TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "D source transform TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "D source mesh TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "D source transform TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "D source mesh TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "D source transform TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "D source mesh TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "D source transform TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "D source mesh TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "D source transform TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "D registered irregular",
+      "pass": true
+    },
+    {
+      "check": "D registered tight",
+      "pass": true
+    },
+    {
+      "check": "D registered spiral",
+      "pass": true
+    },
+    {
+      "check": "D image 1280x720",
+      "pass": true
+    },
+    {
+      "check": "D image nonblank",
+      "pass": true
+    },
+    {
+      "check": "D saved render points to exact image",
+      "pass": true
+    },
+    {
+      "check": "D amplitude visibility independent",
+      "pass": true
+    },
+    {
+      "check": "E preset state",
+      "pass": true
+    },
+    {
+      "check": "E still-only scene",
+      "pass": true
+    },
+    {
+      "check": "E relative source libraries",
+      "pass": true
+    },
+    {
+      "check": "E housing + nine closures",
+      "pass": true
+    },
+    {
+      "check": "E source mesh ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "E source transform ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "E source mesh TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "E source transform TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "E source mesh TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "E source transform TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "E source mesh TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "E source transform TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "E source mesh TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "E source transform TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "E source mesh TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "E source transform TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "E source mesh TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "E source transform TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "E source mesh TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "E source transform TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "E source mesh TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "E source transform TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "E source mesh TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "E source transform TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "E registered irregular",
+      "pass": true
+    },
+    {
+      "check": "E registered tight",
+      "pass": true
+    },
+    {
+      "check": "E registered spiral",
+      "pass": true
+    },
+    {
+      "check": "E image 1280x720",
+      "pass": true
+    },
+    {
+      "check": "E image nonblank",
+      "pass": true
+    },
+    {
+      "check": "E saved render points to exact image",
+      "pass": true
+    },
+    {
+      "check": "E amplitude visibility independent",
+      "pass": true
+    },
+    {
+      "check": "F preset state",
+      "pass": true
+    },
+    {
+      "check": "F still-only scene",
+      "pass": true
+    },
+    {
+      "check": "F relative source libraries",
+      "pass": true
+    },
+    {
+      "check": "F housing + nine closures",
+      "pass": true
+    },
+    {
+      "check": "F source mesh ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "F source transform ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "F source mesh TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "F source transform TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "F source mesh TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "F source transform TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "F source mesh TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "F source transform TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "F source mesh TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "F source transform TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "F source mesh TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "F source transform TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "F source mesh TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "F source transform TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "F source mesh TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "F source transform TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "F source mesh TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "F source transform TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "F source mesh TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "F source transform TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "F registered irregular",
+      "pass": true
+    },
+    {
+      "check": "F registered tight",
+      "pass": true
+    },
+    {
+      "check": "F registered spiral",
+      "pass": true
+    },
+    {
+      "check": "F image 1280x720",
+      "pass": true
+    },
+    {
+      "check": "F image nonblank",
+      "pass": true
+    },
+    {
+      "check": "F saved render points to exact image",
+      "pass": true
+    },
+    {
+      "check": "F amplitude visibility independent",
+      "pass": true
+    },
+    {
+      "check": "whole hardware move/spin B202_PRESENTATION_ECCO_HOUSING_SOURCE_MESH",
+      "pass": true
+    },
+    {
+      "check": "whole hardware move/spin B202_PRESENTATION_TEMP | Service port 3 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "whole hardware move/spin B202_PRESENTATION_TEMP | Service port 2 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "whole hardware move/spin B202_PRESENTATION_TEMP | Service port 1 | removable metal plug",
+      "pass": true
+    },
+    {
+      "check": "whole hardware move/spin B202_PRESENTATION_TEMP | Service cover 3 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "whole hardware move/spin B202_PRESENTATION_TEMP | Service cover 2 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "whole hardware move/spin B202_PRESENTATION_TEMP | Service cover 1 | removable fitted plate",
+      "pass": true
+    },
+    {
+      "check": "whole hardware move/spin B202_PRESENTATION_TEMP | Imaging port 3 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "whole hardware move/spin B202_PRESENTATION_TEMP | Imaging port 2 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "whole hardware move/spin B202_PRESENTATION_TEMP | Imaging port 1 | removable acoustic cap",
+      "pass": true
+    },
+    {
+      "check": "measurements fixed while hardware moves",
+      "pass": true
+    },
+    {
+      "check": "sensor plane follows tool",
+      "pass": true
+    },
+    {
+      "check": "120deg source references",
+      "pass": true
+    },
+    {
+      "check": "depth reveal trims both ends",
+      "pass": true
+    },
+    {
+      "check": "depth full reveal restores surface",
+      "pass": true
+    },
+    {
+      "check": "profile visibility irregular",
+      "pass": true
+    },
+    {
+      "check": "profile visibility tight",
+      "pass": true
+    },
+    {
+      "check": "profile visibility spiral",
+      "pass": true
+    },
+    {
+      "check": "azimuth reveal driver",
+      "pass": true
+    },
+    {
+      "check": "azimuth reveal changes actual curve geometry",
+      "pass": false
+    },
+    {
+      "check": "opacity control B202 Radius deviation / NOT echo amplitude",
+      "pass": true
+    },
+    {
+      "check": "opacity control B202 Echo amplitude / NOT radius or optical rock",
+      "pass": true
+    },
+    {
+      "check": "separate quantity attributes",
+      "pass": true
+    },
+    {
+      "check": "amplitude derived only from independent illustrative angular/depth field",
+      "pass": true
+    },
+    {
+      "check": "distinct material field geometry_display",
+      "pass": true
+    },
+    {
+      "check": "distinct material field amplitude_display",
+      "pass": true
+    },
+    {
+      "check": "tight undersize exists",
+      "pass": true
+    },
+    {
+      "check": "tight full-envelope analytic clearance floor",
+      "pass": true
+    },
+    {
+      "check": "tight samples obey analytic lower bound",
+      "pass": true
+    },
+    {
+      "check": "red and blue field signs",
+      "pass": true
+    },
+    {
+      "check": "table exact sample irregular",
+      "pass": true
+    },
+    {
+      "check": "azimuth seam irregular",
+      "pass": true
+    },
+    {
+      "check": "table exact sample tight",
+      "pass": true
+    },
+    {
+      "check": "azimuth seam tight",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.0",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.05817764173314432",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.11635528346628864",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.17453292519943295",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.23271056693257727",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.29088820866572157",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.3490658503988659",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.4072434921320102",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.46542113386515455",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.5235987755982988",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.5817764173314431",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.6399540590645875",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.6981317007977318",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.7563093425308762",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.8144869842640204",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.8726646259971647",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.9308422677303091",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 0.9890199094634534",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.0471975511965976",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.105375192929742",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.1635528346628863",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.2217304763960308",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.279908118129175",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.3380857598623193",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.3962634015954636",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.454441043328608",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.5126186850617525",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.5707963267948966",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.6289739685280409",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.6871516102611852",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.7453292519943293",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.8035068937274739",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.8616845354606182",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.9198621771937625",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 1.9780398189269068",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.036217460660051",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.0943951023931953",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.15257274412634",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.210750385859484",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.2689280275926285",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.3271056693257726",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.3852833110589167",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.4434609527920617",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.5016385945252058",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.55981623625835",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.6179938779914944",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.6761715197246385",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.734349161457783",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.792526803190927",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.8507044449240713",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.908882086657216",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 2.96705972839036",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.025237370123505",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.083415011856649",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.141592653589793",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.1997702953229377",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.2579479370560818",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.316125578789226",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.3743032205223704",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.4324808622555145",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.4906585039886586",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.5488361457218036",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.6070137874549477",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.6651914291880923",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.7233690709212364",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.7815467126543805",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.839724354387525",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.897901996120669",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 3.9560796378538137",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.014257279586958",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.072434921320102",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.130612563053247",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.1887902047863905",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.246967846519535",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.30514548825268",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.363323129985823",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.421500771718968",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.479678413452112",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.537856055185257",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.5960336969184015",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.654211338651545",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.71238898038469",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.770566622117833",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.828744263850979",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.886921905584123",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 4.945099547317267",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.0032771890504115",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.061454830783555",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.1196324725167",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.177810114249844",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.235987755982989",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.2941653977161325",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.352343039449277",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.410520681182421",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.468698322915566",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.526875964648711",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.585053606381854",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.643231248114999",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.7014088898481425",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.759586531581288",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.817764173314432",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.875941815047576",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.93411945678072",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 5.992297098513864",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 6.05047474024701",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 6.1086523819801535",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 6.166830023713298",
+      "pass": true
+    },
+    {
+      "check": "tight polygon-interpolated clearance 6.225007665446442",
+      "pass": true
+    },
+    {
+      "check": "table exact sample spiral",
+      "pass": true
+    },
+    {
+      "check": "azimuth seam spiral",
+      "pass": true
+    },
+    {
+      "check": "source unchanged 04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "pass": true
+    },
+    {
+      "check": "source unchanged 04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "pass": true
+    }
+  ],
+  "metrics": {
+    "tight_sampled_min_radius_m": 0.15437846902283403,
+    "tight_analytic_min_radius_m": 0.15437499999999998,
+    "conservative_centered_radial_clearance_m": 0.0019749228861877244
+  },
+  "outputs": [
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202_A_v007.blend",
+      "sha256": "d7093bbd4fc8ed161b6702320e284fc767134817c18069caabda0f1f10b515e0",
+      "bytes": 23151722
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_A_v007.png",
+      "sha256": "ebeebc69e09bec4ca594c442722c1024b65aa305ad3f4cbb56c99828715e1722",
+      "bytes": 1063231
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202_B_v007.blend",
+      "sha256": "e282e76b7913e872201dff5023c546791f7d45d17a45d2e0b234700bc0771ce9",
+      "bytes": 23152770
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_B_v007.png",
+      "sha256": "491040319175acf203913600a5ff2bd82d49052bbce5fdfce7e4b063cfcfb7cd",
+      "bytes": 1026664
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202_C_v007.blend",
+      "sha256": "5567c1f69788819f15c604d45122fe1cb7825d5fa6986b70b9fac9bd16dfc4df",
+      "bytes": 23152569
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_C_v007.png",
+      "sha256": "da00c1941ee8d307b4f08d02908e55ce371d42ac3878bdc8f6d064878d88e13a",
+      "bytes": 1018029
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202_D_v007.blend",
+      "sha256": "e3890bbbc165fb8db8dc93053d8e826f4e489709fd660e21787d8b16f8d6316e",
+      "bytes": 23152809
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_D_v007.png",
+      "sha256": "51235009bc5c60adf9e2c6d5baf3156dbbd6126fbb09d643ecbe7bbf86cea99c",
+      "bytes": 1004214
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202_E_v007.blend",
+      "sha256": "de137928fcf0b67ab2c477a5105cd53bf5cdea52ebc28c7e0f3d0a7b2fb9f353",
+      "bytes": 23152855
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_E_v007.png",
+      "sha256": "b5f88ab5bf16009e34a2a53301a1e52cfd8698fd0b16046b60a6686b839a8a67",
+      "bytes": 1041590
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202_F_v007.blend",
+      "sha256": "6b46f0d27c181912ae74674d157bf5b5d91c2a834fb289f249c92e6306988b3b",
+      "bytes": 23152576
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/Stills_v007/B202_F_v007.png",
+      "sha256": "f6f281bd1f217cf85addcc846c7800819eb11b16e0ea9e216a3bff9711eeff8f",
+      "bytes": 1032116
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202_measured-envelope_master_v007.blend",
+      "sha256": "7e2ee6d6eea84fac85d0a8c3fd2bba8057997ea53a28a731cdf731d5ecf79f4e",
+      "bytes": 23152867
+    }
+  ],
+  "limits": "Self-checks of illustrative assets only. Conservative centered radial fit is not dynamic/eccentric/loaded safety, bit passage, acoustic calibration, motion QA or MIT certification."
+}

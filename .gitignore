@@ -7,6 +7,12 @@
 *.m4v
 *.wmv
 
+# Local narration audio; keep source text in Git.
+*.wav
+
+# Restricted real field-log reference in the V3 direction package.
+03-Context/02_Storyboard/V3/**/90_PRIVATE_REFERENCE_NOT_FOR_PUBLIC_PADLET/
+
 # ---------- Heavy documents (11 MB borehole report) ----------
 *BoreholeLog_Report*.pdf
 

@@ -1,0 +1,26 @@
+{
+  "passed": 4,
+  "total": 4,
+  "checks": [
+    {
+      "check": "independent fresh T6 evaluated irregular",
+      "pass": true,
+      "source_vertices": 5088,
+      "derived_vertices": 5088
+    },
+    {
+      "check": "independent fresh T6 evaluated spiral",
+      "pass": true,
+      "source_vertices": 5088,
+      "derived_vertices": 5088
+    },
+    {
+      "check": "accepted T7 byte preservation Mechanisms/B201/Scenes/B201_pulse-echo_fast-preview_v005.blend",
+      "pass": true
+    },
+    {
+      "check": "accepted T7 byte preservation Mechanisms/B201/Previews/Motion_v005/B201_pulse-echo_fast-preview_v005.mp4",
+      "pass": true
+    }
+  ]
+}

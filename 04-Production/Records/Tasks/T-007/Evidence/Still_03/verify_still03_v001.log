@@ -1,0 +1,12 @@
+00:02.546  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_spreading-pulse_still02c_v001.blend"
+00:02.765  blend            | Read blend: "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scenes\B201_wall-interaction_still03_v001.blend"
+Traceback (most recent call last):
+  File "C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Mechanisms\B201\Scripts\verify_still03_v001.py", line 32, in <module>
+    (E/'verification_still03_v001.json').write_text(json.dumps(output,indent=2));assert output['passed'],[x for x in checks if not x['pass']];print('WALL_STILL_VERIFY_PASS',len(checks))
+                                                                                        ~~~~~~^^^^^^^^^^
+AssertionError: [{'check': 'wall contains actual arrival point', 'pass': False}]
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Info: Read library: 'C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', '//..\..\..\Shared\Assets\ECCO\ECCO_master_temporary-plugs_v002.blend', parent '<direct>'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit
