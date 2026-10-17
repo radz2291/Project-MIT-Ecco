@@ -1,0 +1,8294 @@
+{
+  "status": "PASS",
+  "check_count": 2056,
+  "checks": [
+    {
+      "check": "14s bounded proof",
+      "pass": true
+    },
+    {
+      "check": "all4212 source events retained",
+      "pass": true
+    },
+    {
+      "check": "raw event values match original v009 indexed content hash",
+      "pass": true
+    },
+    {
+      "check": "three sensors with own receiver",
+      "pass": true
+    },
+    {
+      "check": "preserved 04-Production/Mechanisms/B202/Scenes/B202_measured-envelope_master_v009.blend",
+      "pass": true
+    },
+    {
+      "check": "preserved 04-Production/Mechanisms/B202/Scenes/B202-M_motion-proof_v003.blend",
+      "pass": true
+    },
+    {
+      "check": "preserved 04-Production/Mechanisms/B202/Scenes/B202-M_motion-proof_v004e.blend",
+      "pass": true
+    },
+    {
+      "check": "preserved 04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "pass": true
+    },
+    {
+      "check": "preserved 04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "pass": true
+    },
+    {
+      "check": "relative library resolves ECCO_master_temporary-plugs_v002.blend",
+      "pass": true
+    },
+    {
+      "check": "inner wall unchanged source T6 vertices",
+      "pass": true
+    },
+    {
+      "check": "solid rock cutaway has closed boundary surfaces",
+      "pass": true
+    },
+    {
+      "check": "registered inverse point cloud remains world fixed",
+      "pass": true
+    },
+    {
+      "check": "1 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "1 point registration",
+      "pass": true
+    },
+    {
+      "check": "1 contour causality",
+      "pass": true
+    },
+    {
+      "check": "1 no future averages",
+      "pass": true
+    },
+    {
+      "check": "1 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "2 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "2 point registration",
+      "pass": true
+    },
+    {
+      "check": "2 contour causality",
+      "pass": true
+    },
+    {
+      "check": "2 no future averages",
+      "pass": true
+    },
+    {
+      "check": "2 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "3 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "3 point registration",
+      "pass": true
+    },
+    {
+      "check": "3 contour causality",
+      "pass": true
+    },
+    {
+      "check": "3 no future averages",
+      "pass": true
+    },
+    {
+      "check": "3 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "4 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "4 point registration",
+      "pass": true
+    },
+    {
+      "check": "4 contour causality",
+      "pass": true
+    },
+    {
+      "check": "4 no future averages",
+      "pass": true
+    },
+    {
+      "check": "4 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "5 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "5 point registration",
+      "pass": true
+    },
+    {
+      "check": "5 contour causality",
+      "pass": true
+    },
+    {
+      "check": "5 no future averages",
+      "pass": true
+    },
+    {
+      "check": "5 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "6 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "6 point registration",
+      "pass": true
+    },
+    {
+      "check": "6 contour causality",
+      "pass": true
+    },
+    {
+      "check": "6 no future averages",
+      "pass": true
+    },
+    {
+      "check": "6 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "7 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "7 point registration",
+      "pass": true
+    },
+    {
+      "check": "7 contour causality",
+      "pass": true
+    },
+    {
+      "check": "7 no future averages",
+      "pass": true
+    },
+    {
+      "check": "7 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "8 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "8 point registration",
+      "pass": true
+    },
+    {
+      "check": "8 contour causality",
+      "pass": true
+    },
+    {
+      "check": "8 no future averages",
+      "pass": true
+    },
+    {
+      "check": "8 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "9 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "9 point registration",
+      "pass": true
+    },
+    {
+      "check": "9 contour causality",
+      "pass": true
+    },
+    {
+      "check": "9 no future averages",
+      "pass": true
+    },
+    {
+      "check": "9 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "10 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "10 point registration",
+      "pass": true
+    },
+    {
+      "check": "10 contour causality",
+      "pass": true
+    },
+    {
+      "check": "10 no future averages",
+      "pass": true
+    },
+    {
+      "check": "10 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "11 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "11 point registration",
+      "pass": true
+    },
+    {
+      "check": "11 contour causality",
+      "pass": true
+    },
+    {
+      "check": "11 no future averages",
+      "pass": true
+    },
+    {
+      "check": "11 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "12 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "12 point registration",
+      "pass": true
+    },
+    {
+      "check": "12 contour causality",
+      "pass": true
+    },
+    {
+      "check": "12 no future averages",
+      "pass": true
+    },
+    {
+      "check": "12 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "13 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "13 point registration",
+      "pass": true
+    },
+    {
+      "check": "13 contour causality",
+      "pass": true
+    },
+    {
+      "check": "13 no future averages",
+      "pass": true
+    },
+    {
+      "check": "13 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "14 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "14 point registration",
+      "pass": true
+    },
+    {
+      "check": "14 contour causality",
+      "pass": true
+    },
+    {
+      "check": "14 no future averages",
+      "pass": true
+    },
+    {
+      "check": "14 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "15 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "15 point registration",
+      "pass": true
+    },
+    {
+      "check": "15 contour causality",
+      "pass": true
+    },
+    {
+      "check": "15 no future averages",
+      "pass": true
+    },
+    {
+      "check": "15 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "16 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "16 point registration",
+      "pass": true
+    },
+    {
+      "check": "16 contour causality",
+      "pass": true
+    },
+    {
+      "check": "16 no future averages",
+      "pass": true
+    },
+    {
+      "check": "16 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "17 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "17 point registration",
+      "pass": true
+    },
+    {
+      "check": "17 contour causality",
+      "pass": true
+    },
+    {
+      "check": "17 no future averages",
+      "pass": true
+    },
+    {
+      "check": "17 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "18 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "18 point registration",
+      "pass": true
+    },
+    {
+      "check": "18 contour causality",
+      "pass": true
+    },
+    {
+      "check": "18 no future averages",
+      "pass": true
+    },
+    {
+      "check": "18 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "19 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "19 point registration",
+      "pass": true
+    },
+    {
+      "check": "19 contour causality",
+      "pass": true
+    },
+    {
+      "check": "19 no future averages",
+      "pass": true
+    },
+    {
+      "check": "19 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "20 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "20 point registration",
+      "pass": true
+    },
+    {
+      "check": "20 contour causality",
+      "pass": true
+    },
+    {
+      "check": "20 no future averages",
+      "pass": true
+    },
+    {
+      "check": "20 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "21 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "21 point registration",
+      "pass": true
+    },
+    {
+      "check": "21 contour causality",
+      "pass": true
+    },
+    {
+      "check": "21 no future averages",
+      "pass": true
+    },
+    {
+      "check": "21 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "22 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "22 point registration",
+      "pass": true
+    },
+    {
+      "check": "22 contour causality",
+      "pass": true
+    },
+    {
+      "check": "22 no future averages",
+      "pass": true
+    },
+    {
+      "check": "22 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "23 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "23 point registration",
+      "pass": true
+    },
+    {
+      "check": "23 contour causality",
+      "pass": true
+    },
+    {
+      "check": "23 no future averages",
+      "pass": true
+    },
+    {
+      "check": "23 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "24 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "24 point registration",
+      "pass": true
+    },
+    {
+      "check": "24 contour causality",
+      "pass": true
+    },
+    {
+      "check": "24 no future averages",
+      "pass": true
+    },
+    {
+      "check": "24 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "25 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "25 point registration",
+      "pass": true
+    },
+    {
+      "check": "25 contour causality",
+      "pass": true
+    },
+    {
+      "check": "25 no future averages",
+      "pass": true
+    },
+    {
+      "check": "25 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "26 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "26 point registration",
+      "pass": true
+    },
+    {
+      "check": "26 contour causality",
+      "pass": true
+    },
+    {
+      "check": "26 no future averages",
+      "pass": true
+    },
+    {
+      "check": "26 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "27 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "27 point registration",
+      "pass": true
+    },
+    {
+      "check": "27 contour causality",
+      "pass": true
+    },
+    {
+      "check": "27 no future averages",
+      "pass": true
+    },
+    {
+      "check": "27 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "28 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "28 point registration",
+      "pass": true
+    },
+    {
+      "check": "28 contour causality",
+      "pass": true
+    },
+    {
+      "check": "28 no future averages",
+      "pass": true
+    },
+    {
+      "check": "28 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "29 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "29 point registration",
+      "pass": true
+    },
+    {
+      "check": "29 contour causality",
+      "pass": true
+    },
+    {
+      "check": "29 no future averages",
+      "pass": true
+    },
+    {
+      "check": "29 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "30 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "30 point registration",
+      "pass": true
+    },
+    {
+      "check": "30 contour causality",
+      "pass": true
+    },
+    {
+      "check": "30 no future averages",
+      "pass": true
+    },
+    {
+      "check": "30 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "31 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "31 point registration",
+      "pass": true
+    },
+    {
+      "check": "31 contour causality",
+      "pass": true
+    },
+    {
+      "check": "31 no future averages",
+      "pass": true
+    },
+    {
+      "check": "31 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "32 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "32 point registration",
+      "pass": true
+    },
+    {
+      "check": "32 contour causality",
+      "pass": true
+    },
+    {
+      "check": "32 no future averages",
+      "pass": true
+    },
+    {
+      "check": "32 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "33 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "33 point registration",
+      "pass": true
+    },
+    {
+      "check": "33 contour causality",
+      "pass": true
+    },
+    {
+      "check": "33 no future averages",
+      "pass": true
+    },
+    {
+      "check": "33 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "34 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "34 point registration",
+      "pass": true
+    },
+    {
+      "check": "34 contour causality",
+      "pass": true
+    },
+    {
+      "check": "34 no future averages",
+      "pass": true
+    },
+    {
+      "check": "34 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "35 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "35 point registration",
+      "pass": true
+    },
+    {
+      "check": "35 contour causality",
+      "pass": true
+    },
+    {
+      "check": "35 no future averages",
+      "pass": true
+    },
+    {
+      "check": "35 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "36 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "36 point registration",
+      "pass": true
+    },
+    {
+      "check": "36 contour causality",
+      "pass": true
+    },
+    {
+      "check": "36 no future averages",
+      "pass": true
+    },
+    {
+      "check": "36 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "37 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "37 point registration",
+      "pass": true
+    },
+    {
+      "check": "37 contour causality",
+      "pass": true
+    },
+    {
+      "check": "37 no future averages",
+      "pass": true
+    },
+    {
+      "check": "37 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "38 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "38 point registration",
+      "pass": true
+    },
+    {
+      "check": "38 contour causality",
+      "pass": true
+    },
+    {
+      "check": "38 no future averages",
+      "pass": true
+    },
+    {
+      "check": "38 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "39 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "39 point registration",
+      "pass": true
+    },
+    {
+      "check": "39 contour causality",
+      "pass": true
+    },
+    {
+      "check": "39 no future averages",
+      "pass": true
+    },
+    {
+      "check": "39 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "40 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "40 point registration",
+      "pass": true
+    },
+    {
+      "check": "40 contour causality",
+      "pass": true
+    },
+    {
+      "check": "40 no future averages",
+      "pass": true
+    },
+    {
+      "check": "40 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "41 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "41 point registration",
+      "pass": true
+    },
+    {
+      "check": "41 contour causality",
+      "pass": true
+    },
+    {
+      "check": "41 no future averages",
+      "pass": true
+    },
+    {
+      "check": "41 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "42 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "42 point registration",
+      "pass": true
+    },
+    {
+      "check": "42 contour causality",
+      "pass": true
+    },
+    {
+      "check": "42 no future averages",
+      "pass": true
+    },
+    {
+      "check": "42 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "43 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "43 point registration",
+      "pass": true
+    },
+    {
+      "check": "43 contour causality",
+      "pass": true
+    },
+    {
+      "check": "43 no future averages",
+      "pass": true
+    },
+    {
+      "check": "43 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "44 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "44 point registration",
+      "pass": true
+    },
+    {
+      "check": "44 contour causality",
+      "pass": true
+    },
+    {
+      "check": "44 no future averages",
+      "pass": true
+    },
+    {
+      "check": "44 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "45 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "45 point registration",
+      "pass": true
+    },
+    {
+      "check": "45 contour causality",
+      "pass": true
+    },
+    {
+      "check": "45 no future averages",
+      "pass": true
+    },
+    {
+      "check": "45 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "46 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "46 point registration",
+      "pass": true
+    },
+    {
+      "check": "46 contour causality",
+      "pass": true
+    },
+    {
+      "check": "46 no future averages",
+      "pass": true
+    },
+    {
+      "check": "46 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "47 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "47 point registration",
+      "pass": true
+    },
+    {
+      "check": "47 contour causality",
+      "pass": true
+    },
+    {
+      "check": "47 no future averages",
+      "pass": true
+    },
+    {
+      "check": "47 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "48 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "48 point registration",
+      "pass": true
+    },
+    {
+      "check": "48 contour causality",
+      "pass": true
+    },
+    {
+      "check": "48 no future averages",
+      "pass": true
+    },
+    {
+      "check": "48 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "49 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "49 point registration",
+      "pass": true
+    },
+    {
+      "check": "49 contour causality",
+      "pass": true
+    },
+    {
+      "check": "49 no future averages",
+      "pass": true
+    },
+    {
+      "check": "49 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "50 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "50 point registration",
+      "pass": true
+    },
+    {
+      "check": "50 contour causality",
+      "pass": true
+    },
+    {
+      "check": "50 no future averages",
+      "pass": true
+    },
+    {
+      "check": "50 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "51 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "51 point registration",
+      "pass": true
+    },
+    {
+      "check": "51 contour causality",
+      "pass": true
+    },
+    {
+      "check": "51 no future averages",
+      "pass": true
+    },
+    {
+      "check": "51 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "52 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "52 point registration",
+      "pass": true
+    },
+    {
+      "check": "52 contour causality",
+      "pass": true
+    },
+    {
+      "check": "52 no future averages",
+      "pass": true
+    },
+    {
+      "check": "52 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "53 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "53 point registration",
+      "pass": true
+    },
+    {
+      "check": "53 contour causality",
+      "pass": true
+    },
+    {
+      "check": "53 no future averages",
+      "pass": true
+    },
+    {
+      "check": "53 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "54 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "54 point registration",
+      "pass": true
+    },
+    {
+      "check": "54 contour causality",
+      "pass": true
+    },
+    {
+      "check": "54 no future averages",
+      "pass": true
+    },
+    {
+      "check": "54 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "55 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "55 point registration",
+      "pass": true
+    },
+    {
+      "check": "55 contour causality",
+      "pass": true
+    },
+    {
+      "check": "55 no future averages",
+      "pass": true
+    },
+    {
+      "check": "55 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "56 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "56 point registration",
+      "pass": true
+    },
+    {
+      "check": "56 contour causality",
+      "pass": true
+    },
+    {
+      "check": "56 no future averages",
+      "pass": true
+    },
+    {
+      "check": "56 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "57 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "57 point registration",
+      "pass": true
+    },
+    {
+      "check": "57 contour causality",
+      "pass": true
+    },
+    {
+      "check": "57 no future averages",
+      "pass": true
+    },
+    {
+      "check": "57 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "58 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "58 point registration",
+      "pass": true
+    },
+    {
+      "check": "58 contour causality",
+      "pass": true
+    },
+    {
+      "check": "58 no future averages",
+      "pass": true
+    },
+    {
+      "check": "58 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "59 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "59 point registration",
+      "pass": true
+    },
+    {
+      "check": "59 contour causality",
+      "pass": true
+    },
+    {
+      "check": "59 no future averages",
+      "pass": true
+    },
+    {
+      "check": "59 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "60 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "60 point registration",
+      "pass": true
+    },
+    {
+      "check": "60 contour causality",
+      "pass": true
+    },
+    {
+      "check": "60 no future averages",
+      "pass": true
+    },
+    {
+      "check": "60 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "61 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "61 point registration",
+      "pass": true
+    },
+    {
+      "check": "61 contour causality",
+      "pass": true
+    },
+    {
+      "check": "61 no future averages",
+      "pass": true
+    },
+    {
+      "check": "61 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "61 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "62 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "62 point registration",
+      "pass": true
+    },
+    {
+      "check": "62 contour causality",
+      "pass": true
+    },
+    {
+      "check": "62 no future averages",
+      "pass": true
+    },
+    {
+      "check": "62 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "62 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "63 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "63 point registration",
+      "pass": true
+    },
+    {
+      "check": "63 contour causality",
+      "pass": true
+    },
+    {
+      "check": "63 no future averages",
+      "pass": true
+    },
+    {
+      "check": "63 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "64 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "64 point registration",
+      "pass": true
+    },
+    {
+      "check": "64 contour causality",
+      "pass": true
+    },
+    {
+      "check": "64 no future averages",
+      "pass": true
+    },
+    {
+      "check": "64 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "65 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "65 point registration",
+      "pass": true
+    },
+    {
+      "check": "65 contour causality",
+      "pass": true
+    },
+    {
+      "check": "65 no future averages",
+      "pass": true
+    },
+    {
+      "check": "65 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "66 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "66 point registration",
+      "pass": true
+    },
+    {
+      "check": "66 contour causality",
+      "pass": true
+    },
+    {
+      "check": "66 no future averages",
+      "pass": true
+    },
+    {
+      "check": "66 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "67 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "67 point registration",
+      "pass": true
+    },
+    {
+      "check": "67 contour causality",
+      "pass": true
+    },
+    {
+      "check": "67 no future averages",
+      "pass": true
+    },
+    {
+      "check": "67 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "68 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "68 point registration",
+      "pass": true
+    },
+    {
+      "check": "68 contour causality",
+      "pass": true
+    },
+    {
+      "check": "68 no future averages",
+      "pass": true
+    },
+    {
+      "check": "68 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "69 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "69 point registration",
+      "pass": true
+    },
+    {
+      "check": "69 contour causality",
+      "pass": true
+    },
+    {
+      "check": "69 no future averages",
+      "pass": true
+    },
+    {
+      "check": "69 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "70 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "70 point registration",
+      "pass": true
+    },
+    {
+      "check": "70 contour causality",
+      "pass": true
+    },
+    {
+      "check": "70 no future averages",
+      "pass": true
+    },
+    {
+      "check": "70 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "70 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "71 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "71 point registration",
+      "pass": true
+    },
+    {
+      "check": "71 contour causality",
+      "pass": true
+    },
+    {
+      "check": "71 no future averages",
+      "pass": true
+    },
+    {
+      "check": "71 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "71 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "72 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "72 point registration",
+      "pass": true
+    },
+    {
+      "check": "72 contour causality",
+      "pass": true
+    },
+    {
+      "check": "72 no future averages",
+      "pass": true
+    },
+    {
+      "check": "72 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "73 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "73 point registration",
+      "pass": true
+    },
+    {
+      "check": "73 contour causality",
+      "pass": true
+    },
+    {
+      "check": "73 no future averages",
+      "pass": true
+    },
+    {
+      "check": "73 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "74 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "74 point registration",
+      "pass": true
+    },
+    {
+      "check": "74 contour causality",
+      "pass": true
+    },
+    {
+      "check": "74 no future averages",
+      "pass": true
+    },
+    {
+      "check": "74 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "75 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "75 point registration",
+      "pass": true
+    },
+    {
+      "check": "75 contour causality",
+      "pass": true
+    },
+    {
+      "check": "75 no future averages",
+      "pass": true
+    },
+    {
+      "check": "75 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "76 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "76 point registration",
+      "pass": true
+    },
+    {
+      "check": "76 contour causality",
+      "pass": true
+    },
+    {
+      "check": "76 no future averages",
+      "pass": true
+    },
+    {
+      "check": "76 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "77 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "77 point registration",
+      "pass": true
+    },
+    {
+      "check": "77 contour causality",
+      "pass": true
+    },
+    {
+      "check": "77 no future averages",
+      "pass": true
+    },
+    {
+      "check": "77 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "78 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "78 point registration",
+      "pass": true
+    },
+    {
+      "check": "78 contour causality",
+      "pass": true
+    },
+    {
+      "check": "78 no future averages",
+      "pass": true
+    },
+    {
+      "check": "78 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "79 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "79 point registration",
+      "pass": true
+    },
+    {
+      "check": "79 contour causality",
+      "pass": true
+    },
+    {
+      "check": "79 no future averages",
+      "pass": true
+    },
+    {
+      "check": "79 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "79 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "80 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "80 point registration",
+      "pass": true
+    },
+    {
+      "check": "80 contour causality",
+      "pass": true
+    },
+    {
+      "check": "80 no future averages",
+      "pass": true
+    },
+    {
+      "check": "80 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "80 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "81 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "81 point registration",
+      "pass": true
+    },
+    {
+      "check": "81 contour causality",
+      "pass": true
+    },
+    {
+      "check": "81 no future averages",
+      "pass": true
+    },
+    {
+      "check": "81 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "82 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "82 point registration",
+      "pass": true
+    },
+    {
+      "check": "82 contour causality",
+      "pass": true
+    },
+    {
+      "check": "82 no future averages",
+      "pass": true
+    },
+    {
+      "check": "82 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "83 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "83 point registration",
+      "pass": true
+    },
+    {
+      "check": "83 contour causality",
+      "pass": true
+    },
+    {
+      "check": "83 no future averages",
+      "pass": true
+    },
+    {
+      "check": "83 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "84 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "84 point registration",
+      "pass": true
+    },
+    {
+      "check": "84 contour causality",
+      "pass": true
+    },
+    {
+      "check": "84 no future averages",
+      "pass": true
+    },
+    {
+      "check": "84 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "85 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "85 point registration",
+      "pass": true
+    },
+    {
+      "check": "85 contour causality",
+      "pass": true
+    },
+    {
+      "check": "85 no future averages",
+      "pass": true
+    },
+    {
+      "check": "85 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "86 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "86 point registration",
+      "pass": true
+    },
+    {
+      "check": "86 contour causality",
+      "pass": true
+    },
+    {
+      "check": "86 no future averages",
+      "pass": true
+    },
+    {
+      "check": "86 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "87 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "87 point registration",
+      "pass": true
+    },
+    {
+      "check": "87 contour causality",
+      "pass": true
+    },
+    {
+      "check": "87 no future averages",
+      "pass": true
+    },
+    {
+      "check": "87 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "88 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "88 point registration",
+      "pass": true
+    },
+    {
+      "check": "88 contour causality",
+      "pass": true
+    },
+    {
+      "check": "88 no future averages",
+      "pass": true
+    },
+    {
+      "check": "88 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "88 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "89 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "89 point registration",
+      "pass": true
+    },
+    {
+      "check": "89 contour causality",
+      "pass": true
+    },
+    {
+      "check": "89 no future averages",
+      "pass": true
+    },
+    {
+      "check": "89 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "89 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "90 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "90 point registration",
+      "pass": true
+    },
+    {
+      "check": "90 contour causality",
+      "pass": true
+    },
+    {
+      "check": "90 no future averages",
+      "pass": true
+    },
+    {
+      "check": "90 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "91 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "91 point registration",
+      "pass": true
+    },
+    {
+      "check": "91 contour causality",
+      "pass": true
+    },
+    {
+      "check": "91 no future averages",
+      "pass": true
+    },
+    {
+      "check": "91 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "92 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "92 point registration",
+      "pass": true
+    },
+    {
+      "check": "92 contour causality",
+      "pass": true
+    },
+    {
+      "check": "92 no future averages",
+      "pass": true
+    },
+    {
+      "check": "92 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "93 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "93 point registration",
+      "pass": true
+    },
+    {
+      "check": "93 contour causality",
+      "pass": true
+    },
+    {
+      "check": "93 no future averages",
+      "pass": true
+    },
+    {
+      "check": "93 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "94 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "94 point registration",
+      "pass": true
+    },
+    {
+      "check": "94 contour causality",
+      "pass": true
+    },
+    {
+      "check": "94 no future averages",
+      "pass": true
+    },
+    {
+      "check": "94 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "95 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "95 point registration",
+      "pass": true
+    },
+    {
+      "check": "95 contour causality",
+      "pass": true
+    },
+    {
+      "check": "95 no future averages",
+      "pass": true
+    },
+    {
+      "check": "95 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "96 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "96 point registration",
+      "pass": true
+    },
+    {
+      "check": "96 contour causality",
+      "pass": true
+    },
+    {
+      "check": "96 no future averages",
+      "pass": true
+    },
+    {
+      "check": "96 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "97 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "97 point registration",
+      "pass": true
+    },
+    {
+      "check": "97 contour causality",
+      "pass": true
+    },
+    {
+      "check": "97 no future averages",
+      "pass": true
+    },
+    {
+      "check": "97 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "97 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "98 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "98 point registration",
+      "pass": true
+    },
+    {
+      "check": "98 contour causality",
+      "pass": true
+    },
+    {
+      "check": "98 no future averages",
+      "pass": true
+    },
+    {
+      "check": "98 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "98 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "99 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "99 point registration",
+      "pass": true
+    },
+    {
+      "check": "99 contour causality",
+      "pass": true
+    },
+    {
+      "check": "99 no future averages",
+      "pass": true
+    },
+    {
+      "check": "99 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "100 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "100 point registration",
+      "pass": true
+    },
+    {
+      "check": "100 contour causality",
+      "pass": true
+    },
+    {
+      "check": "100 no future averages",
+      "pass": true
+    },
+    {
+      "check": "100 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "101 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "101 point registration",
+      "pass": true
+    },
+    {
+      "check": "101 contour causality",
+      "pass": true
+    },
+    {
+      "check": "101 no future averages",
+      "pass": true
+    },
+    {
+      "check": "101 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "102 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "102 point registration",
+      "pass": true
+    },
+    {
+      "check": "102 contour causality",
+      "pass": true
+    },
+    {
+      "check": "102 no future averages",
+      "pass": true
+    },
+    {
+      "check": "102 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "103 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "103 point registration",
+      "pass": true
+    },
+    {
+      "check": "103 contour causality",
+      "pass": true
+    },
+    {
+      "check": "103 no future averages",
+      "pass": true
+    },
+    {
+      "check": "103 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "104 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "104 point registration",
+      "pass": true
+    },
+    {
+      "check": "104 contour causality",
+      "pass": true
+    },
+    {
+      "check": "104 no future averages",
+      "pass": true
+    },
+    {
+      "check": "104 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "105 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "105 point registration",
+      "pass": true
+    },
+    {
+      "check": "105 contour causality",
+      "pass": true
+    },
+    {
+      "check": "105 no future averages",
+      "pass": true
+    },
+    {
+      "check": "105 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "106 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "106 point registration",
+      "pass": true
+    },
+    {
+      "check": "106 contour causality",
+      "pass": true
+    },
+    {
+      "check": "106 no future averages",
+      "pass": true
+    },
+    {
+      "check": "106 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "106 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "107 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "107 point registration",
+      "pass": true
+    },
+    {
+      "check": "107 contour causality",
+      "pass": true
+    },
+    {
+      "check": "107 no future averages",
+      "pass": true
+    },
+    {
+      "check": "107 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "107 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "108 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "108 point registration",
+      "pass": true
+    },
+    {
+      "check": "108 contour causality",
+      "pass": true
+    },
+    {
+      "check": "108 no future averages",
+      "pass": true
+    },
+    {
+      "check": "108 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "109 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "109 point registration",
+      "pass": true
+    },
+    {
+      "check": "109 contour causality",
+      "pass": true
+    },
+    {
+      "check": "109 no future averages",
+      "pass": true
+    },
+    {
+      "check": "109 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "110 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "110 point registration",
+      "pass": true
+    },
+    {
+      "check": "110 contour causality",
+      "pass": true
+    },
+    {
+      "check": "110 no future averages",
+      "pass": true
+    },
+    {
+      "check": "110 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "111 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "111 point registration",
+      "pass": true
+    },
+    {
+      "check": "111 contour causality",
+      "pass": true
+    },
+    {
+      "check": "111 no future averages",
+      "pass": true
+    },
+    {
+      "check": "111 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "112 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "112 point registration",
+      "pass": true
+    },
+    {
+      "check": "112 contour causality",
+      "pass": true
+    },
+    {
+      "check": "112 no future averages",
+      "pass": true
+    },
+    {
+      "check": "112 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "113 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "113 point registration",
+      "pass": true
+    },
+    {
+      "check": "113 contour causality",
+      "pass": true
+    },
+    {
+      "check": "113 no future averages",
+      "pass": true
+    },
+    {
+      "check": "113 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "114 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "114 point registration",
+      "pass": true
+    },
+    {
+      "check": "114 contour causality",
+      "pass": true
+    },
+    {
+      "check": "114 no future averages",
+      "pass": true
+    },
+    {
+      "check": "114 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "115 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "115 point registration",
+      "pass": true
+    },
+    {
+      "check": "115 contour causality",
+      "pass": true
+    },
+    {
+      "check": "115 no future averages",
+      "pass": true
+    },
+    {
+      "check": "115 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "115 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "116 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "116 point registration",
+      "pass": true
+    },
+    {
+      "check": "116 contour causality",
+      "pass": true
+    },
+    {
+      "check": "116 no future averages",
+      "pass": true
+    },
+    {
+      "check": "116 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "116 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "117 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "117 point registration",
+      "pass": true
+    },
+    {
+      "check": "117 contour causality",
+      "pass": true
+    },
+    {
+      "check": "117 no future averages",
+      "pass": true
+    },
+    {
+      "check": "117 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "118 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "118 point registration",
+      "pass": true
+    },
+    {
+      "check": "118 contour causality",
+      "pass": true
+    },
+    {
+      "check": "118 no future averages",
+      "pass": true
+    },
+    {
+      "check": "118 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "119 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "119 point registration",
+      "pass": true
+    },
+    {
+      "check": "119 contour causality",
+      "pass": true
+    },
+    {
+      "check": "119 no future averages",
+      "pass": true
+    },
+    {
+      "check": "119 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "120 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "120 point registration",
+      "pass": true
+    },
+    {
+      "check": "120 contour causality",
+      "pass": true
+    },
+    {
+      "check": "120 no future averages",
+      "pass": true
+    },
+    {
+      "check": "120 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "121 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "121 point registration",
+      "pass": true
+    },
+    {
+      "check": "121 contour causality",
+      "pass": true
+    },
+    {
+      "check": "121 no future averages",
+      "pass": true
+    },
+    {
+      "check": "121 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "122 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "122 point registration",
+      "pass": true
+    },
+    {
+      "check": "122 contour causality",
+      "pass": true
+    },
+    {
+      "check": "122 no future averages",
+      "pass": true
+    },
+    {
+      "check": "122 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "123 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "123 point registration",
+      "pass": true
+    },
+    {
+      "check": "123 contour causality",
+      "pass": true
+    },
+    {
+      "check": "123 no future averages",
+      "pass": true
+    },
+    {
+      "check": "123 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "124 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "124 point registration",
+      "pass": true
+    },
+    {
+      "check": "124 contour causality",
+      "pass": true
+    },
+    {
+      "check": "124 no future averages",
+      "pass": true
+    },
+    {
+      "check": "124 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "124 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "125 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "125 point registration",
+      "pass": true
+    },
+    {
+      "check": "125 contour causality",
+      "pass": true
+    },
+    {
+      "check": "125 no future averages",
+      "pass": true
+    },
+    {
+      "check": "125 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "125 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "126 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "126 point registration",
+      "pass": true
+    },
+    {
+      "check": "126 contour causality",
+      "pass": true
+    },
+    {
+      "check": "126 no future averages",
+      "pass": true
+    },
+    {
+      "check": "126 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "127 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "127 point registration",
+      "pass": true
+    },
+    {
+      "check": "127 contour causality",
+      "pass": true
+    },
+    {
+      "check": "127 no future averages",
+      "pass": true
+    },
+    {
+      "check": "127 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "128 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "128 point registration",
+      "pass": true
+    },
+    {
+      "check": "128 contour causality",
+      "pass": true
+    },
+    {
+      "check": "128 no future averages",
+      "pass": true
+    },
+    {
+      "check": "128 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "129 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "129 point registration",
+      "pass": true
+    },
+    {
+      "check": "129 contour causality",
+      "pass": true
+    },
+    {
+      "check": "129 no future averages",
+      "pass": true
+    },
+    {
+      "check": "129 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "130 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "130 point registration",
+      "pass": true
+    },
+    {
+      "check": "130 contour causality",
+      "pass": true
+    },
+    {
+      "check": "130 no future averages",
+      "pass": true
+    },
+    {
+      "check": "130 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "131 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "131 point registration",
+      "pass": true
+    },
+    {
+      "check": "131 contour causality",
+      "pass": true
+    },
+    {
+      "check": "131 no future averages",
+      "pass": true
+    },
+    {
+      "check": "131 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "132 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "132 point registration",
+      "pass": true
+    },
+    {
+      "check": "132 contour causality",
+      "pass": true
+    },
+    {
+      "check": "132 no future averages",
+      "pass": true
+    },
+    {
+      "check": "132 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "133 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "133 point registration",
+      "pass": true
+    },
+    {
+      "check": "133 contour causality",
+      "pass": true
+    },
+    {
+      "check": "133 no future averages",
+      "pass": true
+    },
+    {
+      "check": "133 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "133 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "134 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "134 point registration",
+      "pass": true
+    },
+    {
+      "check": "134 contour causality",
+      "pass": true
+    },
+    {
+      "check": "134 no future averages",
+      "pass": true
+    },
+    {
+      "check": "134 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "134 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "135 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "135 point registration",
+      "pass": true
+    },
+    {
+      "check": "135 contour causality",
+      "pass": true
+    },
+    {
+      "check": "135 no future averages",
+      "pass": true
+    },
+    {
+      "check": "135 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "136 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "136 point registration",
+      "pass": true
+    },
+    {
+      "check": "136 contour causality",
+      "pass": true
+    },
+    {
+      "check": "136 no future averages",
+      "pass": true
+    },
+    {
+      "check": "136 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "137 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "137 point registration",
+      "pass": true
+    },
+    {
+      "check": "137 contour causality",
+      "pass": true
+    },
+    {
+      "check": "137 no future averages",
+      "pass": true
+    },
+    {
+      "check": "137 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "138 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "138 point registration",
+      "pass": true
+    },
+    {
+      "check": "138 contour causality",
+      "pass": true
+    },
+    {
+      "check": "138 no future averages",
+      "pass": true
+    },
+    {
+      "check": "138 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "139 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "139 point registration",
+      "pass": true
+    },
+    {
+      "check": "139 contour causality",
+      "pass": true
+    },
+    {
+      "check": "139 no future averages",
+      "pass": true
+    },
+    {
+      "check": "139 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "140 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "140 point registration",
+      "pass": true
+    },
+    {
+      "check": "140 contour causality",
+      "pass": true
+    },
+    {
+      "check": "140 no future averages",
+      "pass": true
+    },
+    {
+      "check": "140 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "141 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "141 point registration",
+      "pass": true
+    },
+    {
+      "check": "141 contour causality",
+      "pass": true
+    },
+    {
+      "check": "141 no future averages",
+      "pass": true
+    },
+    {
+      "check": "141 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "142 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "142 point registration",
+      "pass": true
+    },
+    {
+      "check": "142 contour causality",
+      "pass": true
+    },
+    {
+      "check": "142 no future averages",
+      "pass": true
+    },
+    {
+      "check": "142 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "142 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "143 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "143 point registration",
+      "pass": true
+    },
+    {
+      "check": "143 contour causality",
+      "pass": true
+    },
+    {
+      "check": "143 no future averages",
+      "pass": true
+    },
+    {
+      "check": "143 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "143 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "144 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "144 point registration",
+      "pass": true
+    },
+    {
+      "check": "144 contour causality",
+      "pass": true
+    },
+    {
+      "check": "144 no future averages",
+      "pass": true
+    },
+    {
+      "check": "144 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "145 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "145 point registration",
+      "pass": true
+    },
+    {
+      "check": "145 contour causality",
+      "pass": true
+    },
+    {
+      "check": "145 no future averages",
+      "pass": true
+    },
+    {
+      "check": "145 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "146 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "146 point registration",
+      "pass": true
+    },
+    {
+      "check": "146 contour causality",
+      "pass": true
+    },
+    {
+      "check": "146 no future averages",
+      "pass": true
+    },
+    {
+      "check": "146 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "147 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "147 point registration",
+      "pass": true
+    },
+    {
+      "check": "147 contour causality",
+      "pass": true
+    },
+    {
+      "check": "147 no future averages",
+      "pass": true
+    },
+    {
+      "check": "147 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "148 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "148 point registration",
+      "pass": true
+    },
+    {
+      "check": "148 contour causality",
+      "pass": true
+    },
+    {
+      "check": "148 no future averages",
+      "pass": true
+    },
+    {
+      "check": "148 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "149 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "149 point registration",
+      "pass": true
+    },
+    {
+      "check": "149 contour causality",
+      "pass": true
+    },
+    {
+      "check": "149 no future averages",
+      "pass": true
+    },
+    {
+      "check": "149 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "150 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "150 point registration",
+      "pass": true
+    },
+    {
+      "check": "150 contour causality",
+      "pass": true
+    },
+    {
+      "check": "150 no future averages",
+      "pass": true
+    },
+    {
+      "check": "150 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "151 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "151 point registration",
+      "pass": true
+    },
+    {
+      "check": "151 contour causality",
+      "pass": true
+    },
+    {
+      "check": "151 no future averages",
+      "pass": true
+    },
+    {
+      "check": "151 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "151 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "152 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "152 point registration",
+      "pass": true
+    },
+    {
+      "check": "152 contour causality",
+      "pass": true
+    },
+    {
+      "check": "152 no future averages",
+      "pass": true
+    },
+    {
+      "check": "152 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "152 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "153 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "153 point registration",
+      "pass": true
+    },
+    {
+      "check": "153 contour causality",
+      "pass": true
+    },
+    {
+      "check": "153 no future averages",
+      "pass": true
+    },
+    {
+      "check": "153 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "154 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "154 point registration",
+      "pass": true
+    },
+    {
+      "check": "154 contour causality",
+      "pass": true
+    },
+    {
+      "check": "154 no future averages",
+      "pass": true
+    },
+    {
+      "check": "154 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "155 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "155 point registration",
+      "pass": true
+    },
+    {
+      "check": "155 contour causality",
+      "pass": true
+    },
+    {
+      "check": "155 no future averages",
+      "pass": true
+    },
+    {
+      "check": "155 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "156 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "156 point registration",
+      "pass": true
+    },
+    {
+      "check": "156 contour causality",
+      "pass": true
+    },
+    {
+      "check": "156 no future averages",
+      "pass": true
+    },
+    {
+      "check": "156 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "157 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "157 point registration",
+      "pass": true
+    },
+    {
+      "check": "157 contour causality",
+      "pass": true
+    },
+    {
+      "check": "157 no future averages",
+      "pass": true
+    },
+    {
+      "check": "157 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "158 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "158 point registration",
+      "pass": true
+    },
+    {
+      "check": "158 contour causality",
+      "pass": true
+    },
+    {
+      "check": "158 no future averages",
+      "pass": true
+    },
+    {
+      "check": "158 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "159 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "159 point registration",
+      "pass": true
+    },
+    {
+      "check": "159 contour causality",
+      "pass": true
+    },
+    {
+      "check": "159 no future averages",
+      "pass": true
+    },
+    {
+      "check": "159 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "160 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "160 point registration",
+      "pass": true
+    },
+    {
+      "check": "160 contour causality",
+      "pass": true
+    },
+    {
+      "check": "160 no future averages",
+      "pass": true
+    },
+    {
+      "check": "160 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "160 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "161 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "161 point registration",
+      "pass": true
+    },
+    {
+      "check": "161 contour causality",
+      "pass": true
+    },
+    {
+      "check": "161 no future averages",
+      "pass": true
+    },
+    {
+      "check": "161 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "161 no invented transfer events",
+      "pass": true
+    },
+    {
+      "check": "162 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "162 point registration",
+      "pass": true
+    },
+    {
+      "check": "162 contour causality",
+      "pass": true
+    },
+    {
+      "check": "162 no future averages",
+      "pass": true
+    },
+    {
+      "check": "162 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "163 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "163 point registration",
+      "pass": true
+    },
+    {
+      "check": "163 contour causality",
+      "pass": true
+    },
+    {
+      "check": "163 no future averages",
+      "pass": true
+    },
+    {
+      "check": "163 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "164 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "164 point registration",
+      "pass": true
+    },
+    {
+      "check": "164 contour causality",
+      "pass": true
+    },
+    {
+      "check": "164 no future averages",
+      "pass": true
+    },
+    {
+      "check": "164 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "165 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "165 point registration",
+      "pass": true
+    },
+    {
+      "check": "165 contour causality",
+      "pass": true
+    },
+    {
+      "check": "165 no future averages",
+      "pass": true
+    },
+    {
+      "check": "165 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "166 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "166 point registration",
+      "pass": true
+    },
+    {
+      "check": "166 contour causality",
+      "pass": true
+    },
+    {
+      "check": "166 no future averages",
+      "pass": true
+    },
+    {
+      "check": "166 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "167 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "167 point registration",
+      "pass": true
+    },
+    {
+      "check": "167 contour causality",
+      "pass": true
+    },
+    {
+      "check": "167 no future averages",
+      "pass": true
+    },
+    {
+      "check": "167 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "168 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "168 point registration",
+      "pass": true
+    },
+    {
+      "check": "168 contour causality",
+      "pass": true
+    },
+    {
+      "check": "168 no future averages",
+      "pass": true
+    },
+    {
+      "check": "168 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "169 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "169 point registration",
+      "pass": true
+    },
+    {
+      "check": "169 contour causality",
+      "pass": true
+    },
+    {
+      "check": "169 no future averages",
+      "pass": true
+    },
+    {
+      "check": "169 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "170 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "170 point registration",
+      "pass": true
+    },
+    {
+      "check": "170 contour causality",
+      "pass": true
+    },
+    {
+      "check": "170 no future averages",
+      "pass": true
+    },
+    {
+      "check": "170 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "171 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "171 point registration",
+      "pass": true
+    },
+    {
+      "check": "171 contour causality",
+      "pass": true
+    },
+    {
+      "check": "171 no future averages",
+      "pass": true
+    },
+    {
+      "check": "171 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "172 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "172 point registration",
+      "pass": true
+    },
+    {
+      "check": "172 contour causality",
+      "pass": true
+    },
+    {
+      "check": "172 no future averages",
+      "pass": true
+    },
+    {
+      "check": "172 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "173 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "173 point registration",
+      "pass": true
+    },
+    {
+      "check": "173 contour causality",
+      "pass": true
+    },
+    {
+      "check": "173 no future averages",
+      "pass": true
+    },
+    {
+      "check": "173 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "174 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "174 point registration",
+      "pass": true
+    },
+    {
+      "check": "174 contour causality",
+      "pass": true
+    },
+    {
+      "check": "174 no future averages",
+      "pass": true
+    },
+    {
+      "check": "174 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "175 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "175 point registration",
+      "pass": true
+    },
+    {
+      "check": "175 contour causality",
+      "pass": true
+    },
+    {
+      "check": "175 no future averages",
+      "pass": true
+    },
+    {
+      "check": "175 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "176 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "176 point registration",
+      "pass": true
+    },
+    {
+      "check": "176 contour causality",
+      "pass": true
+    },
+    {
+      "check": "176 no future averages",
+      "pass": true
+    },
+    {
+      "check": "176 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "177 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "177 point registration",
+      "pass": true
+    },
+    {
+      "check": "177 contour causality",
+      "pass": true
+    },
+    {
+      "check": "177 no future averages",
+      "pass": true
+    },
+    {
+      "check": "177 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "178 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "178 point registration",
+      "pass": true
+    },
+    {
+      "check": "178 contour causality",
+      "pass": true
+    },
+    {
+      "check": "178 no future averages",
+      "pass": true
+    },
+    {
+      "check": "178 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "179 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "179 point registration",
+      "pass": true
+    },
+    {
+      "check": "179 contour causality",
+      "pass": true
+    },
+    {
+      "check": "179 no future averages",
+      "pass": true
+    },
+    {
+      "check": "179 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "180 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "180 point registration",
+      "pass": true
+    },
+    {
+      "check": "180 contour causality",
+      "pass": true
+    },
+    {
+      "check": "180 no future averages",
+      "pass": true
+    },
+    {
+      "check": "180 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "181 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "181 point registration",
+      "pass": true
+    },
+    {
+      "check": "181 contour causality",
+      "pass": true
+    },
+    {
+      "check": "181 no future averages",
+      "pass": true
+    },
+    {
+      "check": "181 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "182 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "182 point registration",
+      "pass": true
+    },
+    {
+      "check": "182 contour causality",
+      "pass": true
+    },
+    {
+      "check": "182 no future averages",
+      "pass": true
+    },
+    {
+      "check": "182 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "183 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "183 point registration",
+      "pass": true
+    },
+    {
+      "check": "183 contour causality",
+      "pass": true
+    },
+    {
+      "check": "183 no future averages",
+      "pass": true
+    },
+    {
+      "check": "183 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "184 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "184 point registration",
+      "pass": true
+    },
+    {
+      "check": "184 contour causality",
+      "pass": true
+    },
+    {
+      "check": "184 no future averages",
+      "pass": true
+    },
+    {
+      "check": "184 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "185 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "185 point registration",
+      "pass": true
+    },
+    {
+      "check": "185 contour causality",
+      "pass": true
+    },
+    {
+      "check": "185 no future averages",
+      "pass": true
+    },
+    {
+      "check": "185 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "186 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "186 point registration",
+      "pass": true
+    },
+    {
+      "check": "186 contour causality",
+      "pass": true
+    },
+    {
+      "check": "186 no future averages",
+      "pass": true
+    },
+    {
+      "check": "186 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "187 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "187 point registration",
+      "pass": true
+    },
+    {
+      "check": "187 contour causality",
+      "pass": true
+    },
+    {
+      "check": "187 no future averages",
+      "pass": true
+    },
+    {
+      "check": "187 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "188 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "188 point registration",
+      "pass": true
+    },
+    {
+      "check": "188 contour causality",
+      "pass": true
+    },
+    {
+      "check": "188 no future averages",
+      "pass": true
+    },
+    {
+      "check": "188 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "189 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "189 point registration",
+      "pass": true
+    },
+    {
+      "check": "189 contour causality",
+      "pass": true
+    },
+    {
+      "check": "189 no future averages",
+      "pass": true
+    },
+    {
+      "check": "189 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "190 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "190 point registration",
+      "pass": true
+    },
+    {
+      "check": "190 contour causality",
+      "pass": true
+    },
+    {
+      "check": "190 no future averages",
+      "pass": true
+    },
+    {
+      "check": "190 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "191 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "191 point registration",
+      "pass": true
+    },
+    {
+      "check": "191 contour causality",
+      "pass": true
+    },
+    {
+      "check": "191 no future averages",
+      "pass": true
+    },
+    {
+      "check": "191 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "192 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "192 point registration",
+      "pass": true
+    },
+    {
+      "check": "192 contour causality",
+      "pass": true
+    },
+    {
+      "check": "192 no future averages",
+      "pass": true
+    },
+    {
+      "check": "192 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "193 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "193 point registration",
+      "pass": true
+    },
+    {
+      "check": "193 contour causality",
+      "pass": true
+    },
+    {
+      "check": "193 no future averages",
+      "pass": true
+    },
+    {
+      "check": "193 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "194 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "194 point registration",
+      "pass": true
+    },
+    {
+      "check": "194 contour causality",
+      "pass": true
+    },
+    {
+      "check": "194 no future averages",
+      "pass": true
+    },
+    {
+      "check": "194 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "195 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "195 point registration",
+      "pass": true
+    },
+    {
+      "check": "195 contour causality",
+      "pass": true
+    },
+    {
+      "check": "195 no future averages",
+      "pass": true
+    },
+    {
+      "check": "195 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "196 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "196 point registration",
+      "pass": true
+    },
+    {
+      "check": "196 contour causality",
+      "pass": true
+    },
+    {
+      "check": "196 no future averages",
+      "pass": true
+    },
+    {
+      "check": "196 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "197 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "197 point registration",
+      "pass": true
+    },
+    {
+      "check": "197 contour causality",
+      "pass": true
+    },
+    {
+      "check": "197 no future averages",
+      "pass": true
+    },
+    {
+      "check": "197 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "198 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "198 point registration",
+      "pass": true
+    },
+    {
+      "check": "198 contour causality",
+      "pass": true
+    },
+    {
+      "check": "198 no future averages",
+      "pass": true
+    },
+    {
+      "check": "198 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "199 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "199 point registration",
+      "pass": true
+    },
+    {
+      "check": "199 contour causality",
+      "pass": true
+    },
+    {
+      "check": "199 no future averages",
+      "pass": true
+    },
+    {
+      "check": "199 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "200 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "200 point registration",
+      "pass": true
+    },
+    {
+      "check": "200 contour causality",
+      "pass": true
+    },
+    {
+      "check": "200 no future averages",
+      "pass": true
+    },
+    {
+      "check": "200 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "201 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "201 point registration",
+      "pass": true
+    },
+    {
+      "check": "201 contour causality",
+      "pass": true
+    },
+    {
+      "check": "201 no future averages",
+      "pass": true
+    },
+    {
+      "check": "201 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "202 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "202 point registration",
+      "pass": true
+    },
+    {
+      "check": "202 contour causality",
+      "pass": true
+    },
+    {
+      "check": "202 no future averages",
+      "pass": true
+    },
+    {
+      "check": "202 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "203 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "203 point registration",
+      "pass": true
+    },
+    {
+      "check": "203 contour causality",
+      "pass": true
+    },
+    {
+      "check": "203 no future averages",
+      "pass": true
+    },
+    {
+      "check": "203 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "204 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "204 point registration",
+      "pass": true
+    },
+    {
+      "check": "204 contour causality",
+      "pass": true
+    },
+    {
+      "check": "204 no future averages",
+      "pass": true
+    },
+    {
+      "check": "204 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "205 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "205 point registration",
+      "pass": true
+    },
+    {
+      "check": "205 contour causality",
+      "pass": true
+    },
+    {
+      "check": "205 no future averages",
+      "pass": true
+    },
+    {
+      "check": "205 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "206 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "206 point registration",
+      "pass": true
+    },
+    {
+      "check": "206 contour causality",
+      "pass": true
+    },
+    {
+      "check": "206 no future averages",
+      "pass": true
+    },
+    {
+      "check": "206 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "207 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "207 point registration",
+      "pass": true
+    },
+    {
+      "check": "207 contour causality",
+      "pass": true
+    },
+    {
+      "check": "207 no future averages",
+      "pass": true
+    },
+    {
+      "check": "207 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "208 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "208 point registration",
+      "pass": true
+    },
+    {
+      "check": "208 contour causality",
+      "pass": true
+    },
+    {
+      "check": "208 no future averages",
+      "pass": true
+    },
+    {
+      "check": "208 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "209 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "209 point registration",
+      "pass": true
+    },
+    {
+      "check": "209 contour causality",
+      "pass": true
+    },
+    {
+      "check": "209 no future averages",
+      "pass": true
+    },
+    {
+      "check": "209 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "210 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "210 point registration",
+      "pass": true
+    },
+    {
+      "check": "210 contour causality",
+      "pass": true
+    },
+    {
+      "check": "210 no future averages",
+      "pass": true
+    },
+    {
+      "check": "210 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "211 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "211 point registration",
+      "pass": true
+    },
+    {
+      "check": "211 contour causality",
+      "pass": true
+    },
+    {
+      "check": "211 no future averages",
+      "pass": true
+    },
+    {
+      "check": "211 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "212 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "212 point registration",
+      "pass": true
+    },
+    {
+      "check": "212 contour causality",
+      "pass": true
+    },
+    {
+      "check": "212 no future averages",
+      "pass": true
+    },
+    {
+      "check": "212 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "213 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "213 point registration",
+      "pass": true
+    },
+    {
+      "check": "213 contour causality",
+      "pass": true
+    },
+    {
+      "check": "213 no future averages",
+      "pass": true
+    },
+    {
+      "check": "213 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "214 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "214 point registration",
+      "pass": true
+    },
+    {
+      "check": "214 contour causality",
+      "pass": true
+    },
+    {
+      "check": "214 no future averages",
+      "pass": true
+    },
+    {
+      "check": "214 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "215 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "215 point registration",
+      "pass": true
+    },
+    {
+      "check": "215 contour causality",
+      "pass": true
+    },
+    {
+      "check": "215 no future averages",
+      "pass": true
+    },
+    {
+      "check": "215 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "216 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "216 point registration",
+      "pass": true
+    },
+    {
+      "check": "216 contour causality",
+      "pass": true
+    },
+    {
+      "check": "216 no future averages",
+      "pass": true
+    },
+    {
+      "check": "216 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "217 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "217 point registration",
+      "pass": true
+    },
+    {
+      "check": "217 contour causality",
+      "pass": true
+    },
+    {
+      "check": "217 no future averages",
+      "pass": true
+    },
+    {
+      "check": "217 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "218 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "218 point registration",
+      "pass": true
+    },
+    {
+      "check": "218 contour causality",
+      "pass": true
+    },
+    {
+      "check": "218 no future averages",
+      "pass": true
+    },
+    {
+      "check": "218 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "219 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "219 point registration",
+      "pass": true
+    },
+    {
+      "check": "219 contour causality",
+      "pass": true
+    },
+    {
+      "check": "219 no future averages",
+      "pass": true
+    },
+    {
+      "check": "219 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "220 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "220 point registration",
+      "pass": true
+    },
+    {
+      "check": "220 contour causality",
+      "pass": true
+    },
+    {
+      "check": "220 no future averages",
+      "pass": true
+    },
+    {
+      "check": "220 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "221 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "221 point registration",
+      "pass": true
+    },
+    {
+      "check": "221 contour causality",
+      "pass": true
+    },
+    {
+      "check": "221 no future averages",
+      "pass": true
+    },
+    {
+      "check": "221 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "222 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "222 point registration",
+      "pass": true
+    },
+    {
+      "check": "222 contour causality",
+      "pass": true
+    },
+    {
+      "check": "222 no future averages",
+      "pass": true
+    },
+    {
+      "check": "222 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "223 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "223 point registration",
+      "pass": true
+    },
+    {
+      "check": "223 contour causality",
+      "pass": true
+    },
+    {
+      "check": "223 no future averages",
+      "pass": true
+    },
+    {
+      "check": "223 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "224 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "224 point registration",
+      "pass": true
+    },
+    {
+      "check": "224 contour causality",
+      "pass": true
+    },
+    {
+      "check": "224 no future averages",
+      "pass": true
+    },
+    {
+      "check": "224 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "225 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "225 point registration",
+      "pass": true
+    },
+    {
+      "check": "225 contour causality",
+      "pass": true
+    },
+    {
+      "check": "225 no future averages",
+      "pass": true
+    },
+    {
+      "check": "225 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "226 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "226 point registration",
+      "pass": true
+    },
+    {
+      "check": "226 contour causality",
+      "pass": true
+    },
+    {
+      "check": "226 no future averages",
+      "pass": true
+    },
+    {
+      "check": "226 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "227 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "227 point registration",
+      "pass": true
+    },
+    {
+      "check": "227 contour causality",
+      "pass": true
+    },
+    {
+      "check": "227 no future averages",
+      "pass": true
+    },
+    {
+      "check": "227 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "228 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "228 point registration",
+      "pass": true
+    },
+    {
+      "check": "228 contour causality",
+      "pass": true
+    },
+    {
+      "check": "228 no future averages",
+      "pass": true
+    },
+    {
+      "check": "228 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "229 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "229 point registration",
+      "pass": true
+    },
+    {
+      "check": "229 contour causality",
+      "pass": true
+    },
+    {
+      "check": "229 no future averages",
+      "pass": true
+    },
+    {
+      "check": "229 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "230 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "230 point registration",
+      "pass": true
+    },
+    {
+      "check": "230 contour causality",
+      "pass": true
+    },
+    {
+      "check": "230 no future averages",
+      "pass": true
+    },
+    {
+      "check": "230 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "231 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "231 point registration",
+      "pass": true
+    },
+    {
+      "check": "231 contour causality",
+      "pass": true
+    },
+    {
+      "check": "231 no future averages",
+      "pass": true
+    },
+    {
+      "check": "231 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "232 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "232 point registration",
+      "pass": true
+    },
+    {
+      "check": "232 contour causality",
+      "pass": true
+    },
+    {
+      "check": "232 no future averages",
+      "pass": true
+    },
+    {
+      "check": "232 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "233 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "233 point registration",
+      "pass": true
+    },
+    {
+      "check": "233 contour causality",
+      "pass": true
+    },
+    {
+      "check": "233 no future averages",
+      "pass": true
+    },
+    {
+      "check": "233 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "234 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "234 point registration",
+      "pass": true
+    },
+    {
+      "check": "234 contour causality",
+      "pass": true
+    },
+    {
+      "check": "234 no future averages",
+      "pass": true
+    },
+    {
+      "check": "234 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "235 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "235 point registration",
+      "pass": true
+    },
+    {
+      "check": "235 contour causality",
+      "pass": true
+    },
+    {
+      "check": "235 no future averages",
+      "pass": true
+    },
+    {
+      "check": "235 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "236 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "236 point registration",
+      "pass": true
+    },
+    {
+      "check": "236 contour causality",
+      "pass": true
+    },
+    {
+      "check": "236 no future averages",
+      "pass": true
+    },
+    {
+      "check": "236 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "237 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "237 point registration",
+      "pass": true
+    },
+    {
+      "check": "237 contour causality",
+      "pass": true
+    },
+    {
+      "check": "237 no future averages",
+      "pass": true
+    },
+    {
+      "check": "237 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "238 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "238 point registration",
+      "pass": true
+    },
+    {
+      "check": "238 contour causality",
+      "pass": true
+    },
+    {
+      "check": "238 no future averages",
+      "pass": true
+    },
+    {
+      "check": "238 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "239 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "239 point registration",
+      "pass": true
+    },
+    {
+      "check": "239 contour causality",
+      "pass": true
+    },
+    {
+      "check": "239 no future averages",
+      "pass": true
+    },
+    {
+      "check": "239 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "240 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "240 point registration",
+      "pass": true
+    },
+    {
+      "check": "240 contour causality",
+      "pass": true
+    },
+    {
+      "check": "240 no future averages",
+      "pass": true
+    },
+    {
+      "check": "240 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "241 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "241 point registration",
+      "pass": true
+    },
+    {
+      "check": "241 contour causality",
+      "pass": true
+    },
+    {
+      "check": "241 no future averages",
+      "pass": true
+    },
+    {
+      "check": "241 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "242 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "242 point registration",
+      "pass": true
+    },
+    {
+      "check": "242 contour causality",
+      "pass": true
+    },
+    {
+      "check": "242 no future averages",
+      "pass": true
+    },
+    {
+      "check": "242 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "243 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "243 point registration",
+      "pass": true
+    },
+    {
+      "check": "243 contour causality",
+      "pass": true
+    },
+    {
+      "check": "243 no future averages",
+      "pass": true
+    },
+    {
+      "check": "243 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "244 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "244 point registration",
+      "pass": true
+    },
+    {
+      "check": "244 contour causality",
+      "pass": true
+    },
+    {
+      "check": "244 no future averages",
+      "pass": true
+    },
+    {
+      "check": "244 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "245 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "245 point registration",
+      "pass": true
+    },
+    {
+      "check": "245 contour causality",
+      "pass": true
+    },
+    {
+      "check": "245 no future averages",
+      "pass": true
+    },
+    {
+      "check": "245 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "246 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "246 point registration",
+      "pass": true
+    },
+    {
+      "check": "246 contour causality",
+      "pass": true
+    },
+    {
+      "check": "246 no future averages",
+      "pass": true
+    },
+    {
+      "check": "246 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "247 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "247 point registration",
+      "pass": true
+    },
+    {
+      "check": "247 contour causality",
+      "pass": true
+    },
+    {
+      "check": "247 no future averages",
+      "pass": true
+    },
+    {
+      "check": "247 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "248 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "248 point registration",
+      "pass": true
+    },
+    {
+      "check": "248 contour causality",
+      "pass": true
+    },
+    {
+      "check": "248 no future averages",
+      "pass": true
+    },
+    {
+      "check": "248 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "249 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "249 point registration",
+      "pass": true
+    },
+    {
+      "check": "249 contour causality",
+      "pass": true
+    },
+    {
+      "check": "249 no future averages",
+      "pass": true
+    },
+    {
+      "check": "249 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "250 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "250 point registration",
+      "pass": true
+    },
+    {
+      "check": "250 contour causality",
+      "pass": true
+    },
+    {
+      "check": "250 no future averages",
+      "pass": true
+    },
+    {
+      "check": "250 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "251 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "251 point registration",
+      "pass": true
+    },
+    {
+      "check": "251 contour causality",
+      "pass": true
+    },
+    {
+      "check": "251 no future averages",
+      "pass": true
+    },
+    {
+      "check": "251 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "252 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "252 point registration",
+      "pass": true
+    },
+    {
+      "check": "252 contour causality",
+      "pass": true
+    },
+    {
+      "check": "252 no future averages",
+      "pass": true
+    },
+    {
+      "check": "252 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "253 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "253 point registration",
+      "pass": true
+    },
+    {
+      "check": "253 contour causality",
+      "pass": true
+    },
+    {
+      "check": "253 no future averages",
+      "pass": true
+    },
+    {
+      "check": "253 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "254 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "254 point registration",
+      "pass": true
+    },
+    {
+      "check": "254 contour causality",
+      "pass": true
+    },
+    {
+      "check": "254 no future averages",
+      "pass": true
+    },
+    {
+      "check": "254 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "255 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "255 point registration",
+      "pass": true
+    },
+    {
+      "check": "255 contour causality",
+      "pass": true
+    },
+    {
+      "check": "255 no future averages",
+      "pass": true
+    },
+    {
+      "check": "255 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "256 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "256 point registration",
+      "pass": true
+    },
+    {
+      "check": "256 contour causality",
+      "pass": true
+    },
+    {
+      "check": "256 no future averages",
+      "pass": true
+    },
+    {
+      "check": "256 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "257 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "257 point registration",
+      "pass": true
+    },
+    {
+      "check": "257 contour causality",
+      "pass": true
+    },
+    {
+      "check": "257 no future averages",
+      "pass": true
+    },
+    {
+      "check": "257 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "258 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "258 point registration",
+      "pass": true
+    },
+    {
+      "check": "258 contour causality",
+      "pass": true
+    },
+    {
+      "check": "258 no future averages",
+      "pass": true
+    },
+    {
+      "check": "258 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "259 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "259 point registration",
+      "pass": true
+    },
+    {
+      "check": "259 contour causality",
+      "pass": true
+    },
+    {
+      "check": "259 no future averages",
+      "pass": true
+    },
+    {
+      "check": "259 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "260 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "260 point registration",
+      "pass": true
+    },
+    {
+      "check": "260 contour causality",
+      "pass": true
+    },
+    {
+      "check": "260 no future averages",
+      "pass": true
+    },
+    {
+      "check": "260 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "261 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "261 point registration",
+      "pass": true
+    },
+    {
+      "check": "261 contour causality",
+      "pass": true
+    },
+    {
+      "check": "261 no future averages",
+      "pass": true
+    },
+    {
+      "check": "261 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "262 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "262 point registration",
+      "pass": true
+    },
+    {
+      "check": "262 contour causality",
+      "pass": true
+    },
+    {
+      "check": "262 no future averages",
+      "pass": true
+    },
+    {
+      "check": "262 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "263 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "263 point registration",
+      "pass": true
+    },
+    {
+      "check": "263 contour causality",
+      "pass": true
+    },
+    {
+      "check": "263 no future averages",
+      "pass": true
+    },
+    {
+      "check": "263 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "264 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "264 point registration",
+      "pass": true
+    },
+    {
+      "check": "264 contour causality",
+      "pass": true
+    },
+    {
+      "check": "264 no future averages",
+      "pass": true
+    },
+    {
+      "check": "264 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "265 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "265 point registration",
+      "pass": true
+    },
+    {
+      "check": "265 contour causality",
+      "pass": true
+    },
+    {
+      "check": "265 no future averages",
+      "pass": true
+    },
+    {
+      "check": "265 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "266 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "266 point registration",
+      "pass": true
+    },
+    {
+      "check": "266 contour causality",
+      "pass": true
+    },
+    {
+      "check": "266 no future averages",
+      "pass": true
+    },
+    {
+      "check": "266 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "267 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "267 point registration",
+      "pass": true
+    },
+    {
+      "check": "267 contour causality",
+      "pass": true
+    },
+    {
+      "check": "267 no future averages",
+      "pass": true
+    },
+    {
+      "check": "267 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "268 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "268 point registration",
+      "pass": true
+    },
+    {
+      "check": "268 contour causality",
+      "pass": true
+    },
+    {
+      "check": "268 no future averages",
+      "pass": true
+    },
+    {
+      "check": "268 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "269 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "269 point registration",
+      "pass": true
+    },
+    {
+      "check": "269 contour causality",
+      "pass": true
+    },
+    {
+      "check": "269 no future averages",
+      "pass": true
+    },
+    {
+      "check": "269 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "270 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "270 point registration",
+      "pass": true
+    },
+    {
+      "check": "270 contour causality",
+      "pass": true
+    },
+    {
+      "check": "270 no future averages",
+      "pass": true
+    },
+    {
+      "check": "270 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "271 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "271 point registration",
+      "pass": true
+    },
+    {
+      "check": "271 contour causality",
+      "pass": true
+    },
+    {
+      "check": "271 no future averages",
+      "pass": true
+    },
+    {
+      "check": "271 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "272 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "272 point registration",
+      "pass": true
+    },
+    {
+      "check": "272 contour causality",
+      "pass": true
+    },
+    {
+      "check": "272 no future averages",
+      "pass": true
+    },
+    {
+      "check": "272 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "273 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "273 point registration",
+      "pass": true
+    },
+    {
+      "check": "273 contour causality",
+      "pass": true
+    },
+    {
+      "check": "273 no future averages",
+      "pass": true
+    },
+    {
+      "check": "273 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "274 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "274 point registration",
+      "pass": true
+    },
+    {
+      "check": "274 contour causality",
+      "pass": true
+    },
+    {
+      "check": "274 no future averages",
+      "pass": true
+    },
+    {
+      "check": "274 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "275 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "275 point registration",
+      "pass": true
+    },
+    {
+      "check": "275 contour causality",
+      "pass": true
+    },
+    {
+      "check": "275 no future averages",
+      "pass": true
+    },
+    {
+      "check": "275 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "276 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "276 point registration",
+      "pass": true
+    },
+    {
+      "check": "276 contour causality",
+      "pass": true
+    },
+    {
+      "check": "276 no future averages",
+      "pass": true
+    },
+    {
+      "check": "276 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "277 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "277 point registration",
+      "pass": true
+    },
+    {
+      "check": "277 contour causality",
+      "pass": true
+    },
+    {
+      "check": "277 no future averages",
+      "pass": true
+    },
+    {
+      "check": "277 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "278 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "278 point registration",
+      "pass": true
+    },
+    {
+      "check": "278 contour causality",
+      "pass": true
+    },
+    {
+      "check": "278 no future averages",
+      "pass": true
+    },
+    {
+      "check": "278 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "279 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "279 point registration",
+      "pass": true
+    },
+    {
+      "check": "279 contour causality",
+      "pass": true
+    },
+    {
+      "check": "279 no future averages",
+      "pass": true
+    },
+    {
+      "check": "279 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "280 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "280 point registration",
+      "pass": true
+    },
+    {
+      "check": "280 contour causality",
+      "pass": true
+    },
+    {
+      "check": "280 no future averages",
+      "pass": true
+    },
+    {
+      "check": "280 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "281 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "281 point registration",
+      "pass": true
+    },
+    {
+      "check": "281 contour causality",
+      "pass": true
+    },
+    {
+      "check": "281 no future averages",
+      "pass": true
+    },
+    {
+      "check": "281 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "282 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "282 point registration",
+      "pass": true
+    },
+    {
+      "check": "282 contour causality",
+      "pass": true
+    },
+    {
+      "check": "282 no future averages",
+      "pass": true
+    },
+    {
+      "check": "282 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "283 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "283 point registration",
+      "pass": true
+    },
+    {
+      "check": "283 contour causality",
+      "pass": true
+    },
+    {
+      "check": "283 no future averages",
+      "pass": true
+    },
+    {
+      "check": "283 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "284 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "284 point registration",
+      "pass": true
+    },
+    {
+      "check": "284 contour causality",
+      "pass": true
+    },
+    {
+      "check": "284 no future averages",
+      "pass": true
+    },
+    {
+      "check": "284 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "285 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "285 point registration",
+      "pass": true
+    },
+    {
+      "check": "285 contour causality",
+      "pass": true
+    },
+    {
+      "check": "285 no future averages",
+      "pass": true
+    },
+    {
+      "check": "285 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "286 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "286 point registration",
+      "pass": true
+    },
+    {
+      "check": "286 contour causality",
+      "pass": true
+    },
+    {
+      "check": "286 no future averages",
+      "pass": true
+    },
+    {
+      "check": "286 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "287 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "287 point registration",
+      "pass": true
+    },
+    {
+      "check": "287 contour causality",
+      "pass": true
+    },
+    {
+      "check": "287 no future averages",
+      "pass": true
+    },
+    {
+      "check": "287 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "288 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "288 point registration",
+      "pass": true
+    },
+    {
+      "check": "288 contour causality",
+      "pass": true
+    },
+    {
+      "check": "288 no future averages",
+      "pass": true
+    },
+    {
+      "check": "288 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "289 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "289 point registration",
+      "pass": true
+    },
+    {
+      "check": "289 contour causality",
+      "pass": true
+    },
+    {
+      "check": "289 no future averages",
+      "pass": true
+    },
+    {
+      "check": "289 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "290 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "290 point registration",
+      "pass": true
+    },
+    {
+      "check": "290 contour causality",
+      "pass": true
+    },
+    {
+      "check": "290 no future averages",
+      "pass": true
+    },
+    {
+      "check": "290 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "291 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "291 point registration",
+      "pass": true
+    },
+    {
+      "check": "291 contour causality",
+      "pass": true
+    },
+    {
+      "check": "291 no future averages",
+      "pass": true
+    },
+    {
+      "check": "291 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "292 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "292 point registration",
+      "pass": true
+    },
+    {
+      "check": "292 contour causality",
+      "pass": true
+    },
+    {
+      "check": "292 no future averages",
+      "pass": true
+    },
+    {
+      "check": "292 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "293 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "293 point registration",
+      "pass": true
+    },
+    {
+      "check": "293 contour causality",
+      "pass": true
+    },
+    {
+      "check": "293 no future averages",
+      "pass": true
+    },
+    {
+      "check": "293 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "294 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "294 point registration",
+      "pass": true
+    },
+    {
+      "check": "294 contour causality",
+      "pass": true
+    },
+    {
+      "check": "294 no future averages",
+      "pass": true
+    },
+    {
+      "check": "294 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "295 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "295 point registration",
+      "pass": true
+    },
+    {
+      "check": "295 contour causality",
+      "pass": true
+    },
+    {
+      "check": "295 no future averages",
+      "pass": true
+    },
+    {
+      "check": "295 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "296 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "296 point registration",
+      "pass": true
+    },
+    {
+      "check": "296 contour causality",
+      "pass": true
+    },
+    {
+      "check": "296 no future averages",
+      "pass": true
+    },
+    {
+      "check": "296 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "297 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "297 point registration",
+      "pass": true
+    },
+    {
+      "check": "297 contour causality",
+      "pass": true
+    },
+    {
+      "check": "297 no future averages",
+      "pass": true
+    },
+    {
+      "check": "297 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "298 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "298 point registration",
+      "pass": true
+    },
+    {
+      "check": "298 contour causality",
+      "pass": true
+    },
+    {
+      "check": "298 no future averages",
+      "pass": true
+    },
+    {
+      "check": "298 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "299 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "299 point registration",
+      "pass": true
+    },
+    {
+      "check": "299 contour causality",
+      "pass": true
+    },
+    {
+      "check": "299 no future averages",
+      "pass": true
+    },
+    {
+      "check": "299 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "300 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "300 point registration",
+      "pass": true
+    },
+    {
+      "check": "300 contour causality",
+      "pass": true
+    },
+    {
+      "check": "300 no future averages",
+      "pass": true
+    },
+    {
+      "check": "300 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "301 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "301 point registration",
+      "pass": true
+    },
+    {
+      "check": "301 contour causality",
+      "pass": true
+    },
+    {
+      "check": "301 no future averages",
+      "pass": true
+    },
+    {
+      "check": "301 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "302 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "302 point registration",
+      "pass": true
+    },
+    {
+      "check": "302 contour causality",
+      "pass": true
+    },
+    {
+      "check": "302 no future averages",
+      "pass": true
+    },
+    {
+      "check": "302 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "303 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "303 point registration",
+      "pass": true
+    },
+    {
+      "check": "303 contour causality",
+      "pass": true
+    },
+    {
+      "check": "303 no future averages",
+      "pass": true
+    },
+    {
+      "check": "303 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "304 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "304 point registration",
+      "pass": true
+    },
+    {
+      "check": "304 contour causality",
+      "pass": true
+    },
+    {
+      "check": "304 no future averages",
+      "pass": true
+    },
+    {
+      "check": "304 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "305 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "305 point registration",
+      "pass": true
+    },
+    {
+      "check": "305 contour causality",
+      "pass": true
+    },
+    {
+      "check": "305 no future averages",
+      "pass": true
+    },
+    {
+      "check": "305 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "306 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "306 point registration",
+      "pass": true
+    },
+    {
+      "check": "306 contour causality",
+      "pass": true
+    },
+    {
+      "check": "306 no future averages",
+      "pass": true
+    },
+    {
+      "check": "306 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "307 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "307 point registration",
+      "pass": true
+    },
+    {
+      "check": "307 contour causality",
+      "pass": true
+    },
+    {
+      "check": "307 no future averages",
+      "pass": true
+    },
+    {
+      "check": "307 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "308 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "308 point registration",
+      "pass": true
+    },
+    {
+      "check": "308 contour causality",
+      "pass": true
+    },
+    {
+      "check": "308 no future averages",
+      "pass": true
+    },
+    {
+      "check": "308 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "309 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "309 point registration",
+      "pass": true
+    },
+    {
+      "check": "309 contour causality",
+      "pass": true
+    },
+    {
+      "check": "309 no future averages",
+      "pass": true
+    },
+    {
+      "check": "309 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "310 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "310 point registration",
+      "pass": true
+    },
+    {
+      "check": "310 contour causality",
+      "pass": true
+    },
+    {
+      "check": "310 no future averages",
+      "pass": true
+    },
+    {
+      "check": "310 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "311 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "311 point registration",
+      "pass": true
+    },
+    {
+      "check": "311 contour causality",
+      "pass": true
+    },
+    {
+      "check": "311 no future averages",
+      "pass": true
+    },
+    {
+      "check": "311 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "312 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "312 point registration",
+      "pass": true
+    },
+    {
+      "check": "312 contour causality",
+      "pass": true
+    },
+    {
+      "check": "312 no future averages",
+      "pass": true
+    },
+    {
+      "check": "312 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "313 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "313 point registration",
+      "pass": true
+    },
+    {
+      "check": "313 contour causality",
+      "pass": true
+    },
+    {
+      "check": "313 no future averages",
+      "pass": true
+    },
+    {
+      "check": "313 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "314 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "314 point registration",
+      "pass": true
+    },
+    {
+      "check": "314 contour causality",
+      "pass": true
+    },
+    {
+      "check": "314 no future averages",
+      "pass": true
+    },
+    {
+      "check": "314 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "315 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "315 point registration",
+      "pass": true
+    },
+    {
+      "check": "315 contour causality",
+      "pass": true
+    },
+    {
+      "check": "315 no future averages",
+      "pass": true
+    },
+    {
+      "check": "315 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "316 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "316 point registration",
+      "pass": true
+    },
+    {
+      "check": "316 contour causality",
+      "pass": true
+    },
+    {
+      "check": "316 no future averages",
+      "pass": true
+    },
+    {
+      "check": "316 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "317 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "317 point registration",
+      "pass": true
+    },
+    {
+      "check": "317 contour causality",
+      "pass": true
+    },
+    {
+      "check": "317 no future averages",
+      "pass": true
+    },
+    {
+      "check": "317 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "318 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "318 point registration",
+      "pass": true
+    },
+    {
+      "check": "318 contour causality",
+      "pass": true
+    },
+    {
+      "check": "318 no future averages",
+      "pass": true
+    },
+    {
+      "check": "318 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "319 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "319 point registration",
+      "pass": true
+    },
+    {
+      "check": "319 contour causality",
+      "pass": true
+    },
+    {
+      "check": "319 no future averages",
+      "pass": true
+    },
+    {
+      "check": "319 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "320 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "320 point registration",
+      "pass": true
+    },
+    {
+      "check": "320 contour causality",
+      "pass": true
+    },
+    {
+      "check": "320 no future averages",
+      "pass": true
+    },
+    {
+      "check": "320 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "321 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "321 point registration",
+      "pass": true
+    },
+    {
+      "check": "321 contour causality",
+      "pass": true
+    },
+    {
+      "check": "321 no future averages",
+      "pass": true
+    },
+    {
+      "check": "321 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "322 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "322 point registration",
+      "pass": true
+    },
+    {
+      "check": "322 contour causality",
+      "pass": true
+    },
+    {
+      "check": "322 no future averages",
+      "pass": true
+    },
+    {
+      "check": "322 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "323 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "323 point registration",
+      "pass": true
+    },
+    {
+      "check": "323 contour causality",
+      "pass": true
+    },
+    {
+      "check": "323 no future averages",
+      "pass": true
+    },
+    {
+      "check": "323 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "324 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "324 point registration",
+      "pass": true
+    },
+    {
+      "check": "324 contour causality",
+      "pass": true
+    },
+    {
+      "check": "324 no future averages",
+      "pass": true
+    },
+    {
+      "check": "324 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "325 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "325 point registration",
+      "pass": true
+    },
+    {
+      "check": "325 contour causality",
+      "pass": true
+    },
+    {
+      "check": "325 no future averages",
+      "pass": true
+    },
+    {
+      "check": "325 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "326 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "326 point registration",
+      "pass": true
+    },
+    {
+      "check": "326 contour causality",
+      "pass": true
+    },
+    {
+      "check": "326 no future averages",
+      "pass": true
+    },
+    {
+      "check": "326 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "327 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "327 point registration",
+      "pass": true
+    },
+    {
+      "check": "327 contour causality",
+      "pass": true
+    },
+    {
+      "check": "327 no future averages",
+      "pass": true
+    },
+    {
+      "check": "327 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "328 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "328 point registration",
+      "pass": true
+    },
+    {
+      "check": "328 contour causality",
+      "pass": true
+    },
+    {
+      "check": "328 no future averages",
+      "pass": true
+    },
+    {
+      "check": "328 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "329 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "329 point registration",
+      "pass": true
+    },
+    {
+      "check": "329 contour causality",
+      "pass": true
+    },
+    {
+      "check": "329 no future averages",
+      "pass": true
+    },
+    {
+      "check": "329 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "330 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "330 point registration",
+      "pass": true
+    },
+    {
+      "check": "330 contour causality",
+      "pass": true
+    },
+    {
+      "check": "330 no future averages",
+      "pass": true
+    },
+    {
+      "check": "330 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "331 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "331 point registration",
+      "pass": true
+    },
+    {
+      "check": "331 contour causality",
+      "pass": true
+    },
+    {
+      "check": "331 no future averages",
+      "pass": true
+    },
+    {
+      "check": "331 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "332 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "332 point registration",
+      "pass": true
+    },
+    {
+      "check": "332 contour causality",
+      "pass": true
+    },
+    {
+      "check": "332 no future averages",
+      "pass": true
+    },
+    {
+      "check": "332 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "333 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "333 point registration",
+      "pass": true
+    },
+    {
+      "check": "333 contour causality",
+      "pass": true
+    },
+    {
+      "check": "333 no future averages",
+      "pass": true
+    },
+    {
+      "check": "333 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "334 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "334 point registration",
+      "pass": true
+    },
+    {
+      "check": "334 contour causality",
+      "pass": true
+    },
+    {
+      "check": "334 no future averages",
+      "pass": true
+    },
+    {
+      "check": "334 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "335 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "335 point registration",
+      "pass": true
+    },
+    {
+      "check": "335 contour causality",
+      "pass": true
+    },
+    {
+      "check": "335 no future averages",
+      "pass": true
+    },
+    {
+      "check": "335 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "336 exact evidence cutoff",
+      "pass": true
+    },
+    {
+      "check": "336 point registration",
+      "pass": true
+    },
+    {
+      "check": "336 contour causality",
+      "pass": true
+    },
+    {
+      "check": "336 no future averages",
+      "pass": true
+    },
+    {
+      "check": "336 distinct quantity controls / explicit comparison view",
+      "pass": true
+    },
+    {
+      "check": "first recorded wall contact",
+      "pass": true
+    },
+    {
+      "check": "first same-sensor return",
+      "pass": true
+    },
+    {
+      "check": "full acquired 3m depth span",
+      "pass": true
+    },
+    {
+      "check": "camera no longer tracks tool",
+      "pass": true
+    },
+    {
+      "check": "108 valid measured comparison cells",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 0 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 0 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 0 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 1 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 1 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 1 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 2 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 2 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 2 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 3 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 3 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 3 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 4 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 4 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 4 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 5 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 5 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 5 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 6 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 6 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 6 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 7 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 7 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 7 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 8 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 8 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 8 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 9 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 9 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 9 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 10 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 10 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 10 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 11 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 11 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 11 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 12 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 12 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 12 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 13 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 13 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 13 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 14 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 14 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 14 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 15 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 15 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 15 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 16 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 16 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 16 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 17 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 17 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 17 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 18 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 18 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 18 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 19 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 19 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 19 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 20 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 20 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 20 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 21 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 21 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 21 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 22 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 22 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 22 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 23 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 23 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 23 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 24 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 24 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 24 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 25 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 25 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 25 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 26 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 26 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 26 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 27 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 27 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 27 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 28 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 28 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 28 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 29 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 29 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 29 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 30 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 30 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 30 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 31 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 31 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 31 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 32 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 32 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 32 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 33 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 33 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 33 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 34 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 34 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 34 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 35 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 35 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 35 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 36 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 36 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 36 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 37 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 37 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 37 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 38 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 38 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 38 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 39 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 39 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 39 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 40 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 40 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 40 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 41 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 41 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 41 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 42 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 42 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 42 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 43 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 43 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 43 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 44 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 44 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 44 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 45 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 45 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 45 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 46 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 46 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 46 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 47 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 47 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 47 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 48 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 48 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 48 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 49 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 49 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 49 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 50 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 50 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 50 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 51 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 51 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 51 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 52 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 52 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 52 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 53 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 53 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 53 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 54 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 54 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 54 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 55 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 55 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 55 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 56 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 56 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 56 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 57 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 57 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 57 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 58 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 58 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 58 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 59 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 59 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 59 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 60 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 60 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 60 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 61 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 61 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 61 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 62 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 62 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 62 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 63 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 63 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 63 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 64 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 64 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 64 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 65 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 65 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 65 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 66 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 66 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 66 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 67 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 67 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 67 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 68 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 68 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 68 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 69 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 69 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 69 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 70 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 70 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 70 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 71 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 71 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 71 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 72 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 72 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 72 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 73 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 73 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 73 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 74 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 74 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 74 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 75 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 75 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 75 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 76 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 76 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 76 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 77 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 77 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 77 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 78 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 78 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 78 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 79 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 79 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 79 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 80 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 80 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 80 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 81 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 81 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 81 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 82 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 82 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 82 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 83 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 83 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 83 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 84 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 84 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 84 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 85 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 85 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 85 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 86 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 86 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 86 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 87 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 87 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 87 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 88 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 88 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 88 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 89 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 89 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 89 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 90 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 90 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 90 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 91 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 91 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 91 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 92 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 92 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 92 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 93 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 93 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 93 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 94 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 94 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 94 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 95 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 95 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 95 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 96 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 96 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 96 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 97 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 97 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 97 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 98 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 98 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 98 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 99 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 99 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 99 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 100 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 100 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 100 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 101 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 101 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 101 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 102 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 102 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 102 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 103 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 103 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 103 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 104 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 104 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 104 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 105 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 105 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 105 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 106 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 106 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 106 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 107 exact measured position / no magnified geometry",
+      "pass": true
+    },
+    {
+      "check": "comparison cell 107 exact nominal baseline",
+      "pass": true
+    },
+    {
+      "check": "comparison band 107 merely joins actual to expected",
+      "pass": true
+    },
+    {
+      "check": "comparison waits for its scheduled view",
+      "pass": true
+    },
+    {
+      "check": "comparison has all source contributors",
+      "pass": true
+    },
+    {
+      "check": "comparison 132 entire outline inside frame",
+      "pass": true
+    },
+    {
+      "check": "comparison 132 meaningful 1:1 held frame",
+      "pass": true
+    },
+    {
+      "check": "comparison 168 entire outline inside frame",
+      "pass": true
+    },
+    {
+      "check": "comparison 168 meaningful 1:1 held frame",
+      "pass": true
+    },
+    {
+      "check": "comparison 204 entire outline inside frame",
+      "pass": true
+    },
+    {
+      "check": "comparison 204 meaningful 1:1 held frame",
+      "pass": true
+    },
+    {
+      "check": "font dependency resolves Segoe UI Regular",
+      "pass": true
+    },
+    {
+      "check": "focus is strongest existing section, not altered wall",
+      "pass": true
+    }
+  ],
+  "sample_frames": [
+    {
+      "frame": 1,
+      "events": 0,
+      "contour_edges": 0,
+      "travel_m": 1.0199999809265137
+    },
+    {
+      "frame": 7,
+      "events": 0,
+      "contour_edges": 0,
+      "travel_m": 1.0199999809265137
+    },
+    {
+      "frame": 18,
+      "events": 3,
+      "contour_edges": 0,
+      "travel_m": 1.0199999809265137
+    },
+    {
+      "frame": 60,
+      "events": 324,
+      "contour_edges": 108,
+      "travel_m": 1.0199999809265137
+    },
+    {
+      "frame": 105,
+      "events": 1944,
+      "contour_edges": 0,
+      "travel_m": 2.2699999809265137
+    },
+    {
+      "frame": 132,
+      "events": 2916,
+      "contour_edges": 0,
+      "travel_m": 3.0199999809265137
+    },
+    {
+      "frame": 168,
+      "events": 4212,
+      "contour_edges": 0,
+      "travel_m": 4.019999980926514
+    },
+    {
+      "frame": 204,
+      "events": 4212,
+      "contour_edges": 0,
+      "travel_m": 4.295000076293945
+    },
+    {
+      "frame": 240,
+      "events": 4212,
+      "contour_edges": 432,
+      "travel_m": 4.570000171661377
+    },
+    {
+      "frame": 336,
+      "events": 4212,
+      "contour_edges": 432,
+      "travel_m": 4.570000171661377
+    }
+  ],
+  "scope": "Agent synthetic scene/data checks only. Real-time visual comprehension, actual acoustic face/cadence and Radzi D2/D3 approval remain pending.",
+  "scene_sha256": "b75db3a34d2e1a4e08d2fded1445ce2e267603ca635e56424c9001858a8f9b75"
+}

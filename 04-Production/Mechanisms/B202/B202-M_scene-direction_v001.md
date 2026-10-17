@@ -121,3 +121,45 @@ Exact review candidate: `Scenes/B202-M_motion-proof_v004e.blend`, frames 1–336
 **Presentation and limits:** unchanged T6 inner-wall vertices plus authored .68 m square outer rock mass and sealed cut faces; exterior dimension is visual context, not sourced geology. Sector .07–1.4 rad opens toward camera. Physical wall coordinates never feed measured geometry. Fixed radius/amplitude scales and source masks remain. A 10 μs evidence-cutoff bias accommodates float32 above 32 seconds, far below original 10 ms spacing.
 
 **Re-review:** judge the moving enclosing context, actual-scale interaction, persistence when ECCO advances and final measured borehole. The underlying irregularity is subtle and remains unexaggerated. Scene/data checks do not establish visual comprehension. No exact camera/preview, acoustic-face datum or full explanation is accepted by this revision.
+
+## 10. Audience insight refinement — bounded v005b, 17 October 2026
+
+Discussion `acd516d6-c107-4274-9a3e-6fa9a2022099` recognizes v004e's mechanical/camera improvement but withholds D2/D3 approval. Audience includes non-engineering stakeholders/investors. New emphasis, within D1: **the expected perfect hole differs from the actual measured hole; that difference continues through depth.** Preserve acquisition/release and test this insight before expansion. No premium finishing or amplitude sequence is requested here.
+
+**One comparison, same coordinates/scale:** choose the existing `irregular_layers` v009 section at X=2.75 m, whose valid cached grid has approximately 2.6–25.2 mm of enlargement around the nominal radius. Do not alter those radii. An aligned white nominal circle, blue measured contour and filled blue enlargement band make the difference explicit. Band interiors connect the two source/reference boundaries; they are explanatory comparison, not additional acquired samples. Quiet labels **Expected hole / Measured hole** distinguish the reference and synthetic derived result.
+
+Exact version `Scenes/B202-M_motion-proof_v005b.blend`, 336 frames / 24 fps / 14 seconds. Raw event values/IDs/poses, all 13 stations and masks remain unchanged; only illustrative display timing/composition/material presentation changes. The X2.75 section has all contributors by frame96; focus enters105 and is held front-on132–204, avoiding future data. Other stations finish off-frame by168. Context data objects are hidden105–204 for the dedicated comparison, then displayed as already-acquired volume from205. This is an explicit presentation-view switch, not a claim that fresh measurements materialize at205.
+
+| Frames | Camera/event score | Audience job |
+|---|---|---|
+| 1–18 | Actual gap macro retained; wall contact7–9 and same-sensor return17, first points18. | Briefly establish a physical measurement. |
+| 19–60 | Pull out to (.75,.46,.34), gaze(1.90,0,0), 42mm; source first-station whole-tool rotation. | Relate the instrument to the enclosing wall and persistent readings. |
+| 61–104 | Compressed remaining stations, each two transfer frames without events then seven rotation/acquisition frames. Camera through(1.5,.65,.5), gaze(2.6,0,0) at98; rock presentation fades70–104. | Transfer attention from sensing to the acquired section. |
+| 105–132 | Align camera to(2.05,0,0), gaze(2.75,0,0), 35mm. Isolate the actual X2.75 measured section and nominal reference, with no scaling. | Let the irregular contour differ visibly from the expected circle. |
+| 132–204 | Hold three seconds. Two quiet sans-serif labels; complete outline inside frame. | Give non-engineers time to recognize expected versus actual. |
+| 205–270 | Known full data volume resumes; camera releases to(.5,2,1.15), gaze(3.05,0,0), lens42mm. Focus section stays world-fixed as part of the volume. | Show that the changing deviation continues through depth. |
+| 271–336 | Approach the measured shape to(1.3,1.2,.65), gaze(3.1,0,0); tool continues away beyond the retained data. | Geometry owns the frame; source-profile variation stays at real scale. |
+
+Fixed original geometry ramp/normalization retained. The data shader bypasses physical lighting that washed the blue scale toward white; it is presentation of the same radius field, not a new palette/quantity, amplitude or optical rock color. Geometry opacity .95 improves the solid shape's hierarchy. End framing may crop the interval's ends to prioritize its most variable region; the full measured source still spans three metres. All expected/reference contours remain distinct from acquired measurements. Segoe UI is a local system-font dependency, not an approved brand-font selection.
+
+**Review sought:** sound-off recognition of the white expected circle versus blue measured contour, followed by understanding that this deviation builds the borehole shape. Entry, acquisition and release remain supporting evidence. The earlier v004e and initial v005 study are preserved. D2/D3 remains open; no full-sequence/engineering acceptance is inferred.
+
+### Mixed-audience proof record (17 October amendment applied)
+
+```yaml
+audience:
+  groups: [engineers, non_engineering_stakeholders, investors]
+  prior_knowledge: mixed_no_prior_drilling_knowledge_assumed
+  nontechnical_takeaway: "The actual hole can differ from the expected circle; ECCO provides information about that difference while drilling."
+  why_it_matters: "It reveals actual hole geometry instead of relying only on nominal bit size; no savings, safety or ROI claim is made."
+  expert_truth_check: "White is an expected nominal reference; blue is synthetic v009 measurement-derived radius, in matching coordinates and scale, with source coverage and provenance preserved."
+  discovery_or_comparison: "White expected circle versus existing X2.75m actual contour, then the same deviation through depth."
+  planned_context: "Sound off; two labels Expected hole / Measured hole; accompanying review identifies synthetic data. No explanatory narration required by this candidate."
+  cold_viewer_question: "What did ECCO discover, and why would knowing that be useful?"
+  cold_viewer_method: "Show the actual v005b playable preview to an uninstructed non-specialist before explaining its intended message; record their answer verbatim."
+  cold_viewer_result: pending_not_yet_tested_with_an_uninstructed_viewer
+  domain_review: pending_MIT_specific_processing_and_interpretation
+  director_review: pending_Radzi_D2_D3
+```
+
+The implementation and agent's reading are not a cold-viewer result. Radzi/T26's targeted preview review remains necessary; any actual non-specialist response must be recorded against this exact version. No outside viewer was contacted. The new audience guidance at commit `9e0942c` was synchronized during closure and read before submitting this revision.

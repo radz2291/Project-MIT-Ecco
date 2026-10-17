@@ -1,0 +1,65 @@
+{
+  "status": "PASS",
+  "candidate": "v005b",
+  "report_links": [
+    {
+      "target": "report_v004e.md",
+      "exists": true
+    },
+    {
+      "target": "report_v003.md",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Previews/MotionProof_v005b/B202-M_motion-proof_v005b.mp4",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Previews/MotionProof_v005b/B202-M_review-sheet_v005b.jpg",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Previews/MotionProof_v005b/decoded_0168.jpg",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Previews/MotionProof_v005b/review_v005b.html",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scenes/B202-M_motion-proof_v005b.blend",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/B202-M_scene-direction_v001.md",
+      "exists": true
+    },
+    {
+      "target": "Evidence/replay_manifest_v005b.json",
+      "exists": true
+    },
+    {
+      "target": "Evidence/verification_motion-proof_v005b.json",
+      "exists": true
+    },
+    {
+      "target": "Evidence/playback_qa_v005b.json",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scripts/build_motion_proof_v005b.py",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scripts/verify_motion_proof_v005b.py",
+      "exists": true
+    },
+    {
+      "target": "../../../Mechanisms/B202/Scripts/package_motion_proof_v005b.py",
+      "exists": true
+    }
+  ],
+  "output_hashes_match": 6,
+  "discussion": "acd516d6-c107-4274-9a3e-6fa9a2022099",
+  "scope": "Bounded expected-versus-measured proof; D2/D3 pending; T27 In Progress; native media local only"
+}
