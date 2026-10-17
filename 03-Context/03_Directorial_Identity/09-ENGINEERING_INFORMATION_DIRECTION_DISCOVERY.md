@@ -1,6 +1,7 @@
 # Engineering Information Direction — Discovery v0.1 (Module 09)
 
 **Created:** 14 October 2026  
+**Audience-translation amendment:** 17 October 2026  
 **Status:** Research/discovery discipline. **Information-representation decisions are not technically/client-approved.** Rolladice's existing typography and graphic-integration preferences are recorded separately in [module 08](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md).  
 **Responsibility:** Artistic and narrative presentation of supplemental technical information within a film.  
 **Not the authority for:** physical truth, client engineering validation, data provenance, product calculations, the actual CFD/FEA model, official MIT charts or corporate style.
@@ -67,6 +68,26 @@ The camera may navigate **information as a subject**, not only a physical object
 
 Tie this to [Rolladice Camera & Motion Language](05-CAMERA_AND_MOTION_LANGUAGE_v0.2.md) without duplicating camera-spline rules.
 
+## 4A. Audience-first information translation (mixed technical and non-technical viewers)
+
+**Purpose:** Make source-faithful engineering information understandable to people without specialist vocabulary while keeping expert scrutiny possible. This is a **semantic/storytelling discipline**, not a prescribed typography, camera or style treatment. Identify the actual audience for each project/shot; MIT ECCO includes engineers, stakeholders and investors. The [MIT production identity](../01_Foundation/03-MIT_PRODUCTION_IDENTITY.md) owns that project-specific audience.
+
+Build an information reveal around four questions, only as many of which belong in the shot:
+1. **What was expected, unknown or at risk of misunderstanding?** Establish a meaningful reference or question; avoid unnecessary charts.
+2. **What did the sourced measurement or model reveal?** Show the phenomenon/result *causally* and with correct provenance.
+3. **What difference or consequence should be recognized?** Choose one visible comparison, change, boundary or result; let the audience read it before moving on.
+4. **Why does that matter to the viewer?** Offer a plain-language significance grounded in source facts, without inventing operational savings, financial return, formation classification or safety improvement.
+
+Two simultaneous acceptance lenses:
+- **Cold-viewer comprehension:** After the real moving preview (with the planned wording/sound context made explicit), can a non-specialist explain the *one* essential discovery and its significance in ordinary language? If not, test the framing, order, baseline, comparison, scale reference or hold before adding decorative effects.
+- **Expert truth check:** Can a technical reviewer trace what quantity was observed/derived/synthetic, the relevant reference/units and uncertainty, and confirm that the visualization does not imply a stronger conclusion than the evidence? A visually clear but false mechanism still fails.
+
+**Compression principle:** Keep the internal simulation/acquisition model complete where needed, but show only the smallest observable chain necessary to trust the result. For the mixed audience, clarity of the *result* often matters more than watching every repeated sample or reading every algorithmic step. This does not license concealment of essential limitations.
+
+**ECCO B202 example (proposal, not certified field output):** A simple white nominal borehole profile is an expected reference; an irregular blue mapped outline reveals measured/synthetically reconstructed enlargement. The viewer should see that the expected and discovered shapes differ, then recognize that the difference extends through depth. Show the two outlines **registered in the same scale/coordinate system**; do not enlarge source geometry to manufacture contrast. The output is a synthetic visualization pending MIT-specific interpretation/calibration. Its clear takeaway is: *the actual borehole may differ from the nominal hole, and ECCO can provide information about that difference while drilling*. A separate acoustic-amplitude field requires its own meaning, not a geometry-to-amplitude morph.
+
+Apply this method only where the shot genuinely conveys engineering information. A product hero may need emotional recognition rather than an expected-vs-measured diagram. Record audience decisions in the **existing Scene Direction Contract**, not a second specification.
+
 ## 5. ECCO examples — conceptual, not approved production designs
 
 ### S02 — Pulse/echo → measured time → derived spatial distance
@@ -91,6 +112,9 @@ A conceptual longitudinal seam/unwrapping explains the same recorded measurement
 information_beat:
   id: TBD
   question_for_viewer: TBD
+  nontechnical_takeaway: TBD_IF_MIXED_AUDIENCE
+  significance: TBD_GROUNDED_NOT_MARKETING_INFERENCE
+  expert_truth_question: TBD_IF_TECHNICAL_CLAIM
   source_kind: measured | derived | simulation_result | state | illustrative | interpretation
   exact_source_file_version: TBD
   quantity_or_claim: TBD
@@ -104,6 +128,7 @@ information_beat:
   emphasis_and_read_time: TBD_AFTER_PREVIS
   exit_or_persistence: TBD
   visual_qa: readability_source_integrity_and_correct_mapping
+  cold_viewer_test: TBD_FROM_PLAYABLE_PREVIEW
 ```
 
 **The human director/agent must make the creative choices** and record their rationale. No fixed fonts, color palettes, plot aesthetic, animation recipe or numerical measurements are implied by this schema. A value displayed without a unit, reference, reasonable precision or appropriate uncertainty can mislead.
@@ -117,6 +142,7 @@ Investigate separately:
 - **Narrative rhythm:** reveal versus accumulate versus compare versus resolve; coexistence with camera choreography.
 - **Legibility and restraint:** when selective emphasis beats a crowded screen.
 - **Trust:** audience recognition of actual measurements, derived values, hypothetical examples, simulation outputs and engineering interpretation.
+- **Mixed-audience comprehension:** what non-technical viewers understood from the moving reveal, separate from whether experts found the depiction faithful.
 
 Potential studies: Territory Studio **Desktop Metal**, NASA **Scientific Visualization Studio**, Ansys results post-processing and IBM **Data Visualization Design**.
 
