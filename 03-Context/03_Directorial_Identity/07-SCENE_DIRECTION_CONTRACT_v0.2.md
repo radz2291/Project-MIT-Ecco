@@ -2,6 +2,7 @@
 
 **Purpose:** A reproducible handoff from an AI/human director to Codex/Blender production.  
 **State:** Candidate contract, not yet production-tested. Do not confuse a filled contract with technical approval.
+**Amendment (17 October 2026):** Adds mixed-audience comprehension and discovery/payoff review; preserves the v0.2 schema and existing stage gates.
 
 ## Source-of-truth hierarchy
 
@@ -11,7 +12,7 @@ Before making a creative choice, check [Personality](01-ROLLADICE_CREATIVE_PERSO
 
 ## Minimum deliverable for a proposed shot
 
-1. **Shot purpose:** factual message, viewer's desired understanding/emotion, transition to next shot.
+1. **Shot purpose and audience:** factual message, target audiences and prior knowledge, one-sentence *non-technical audience takeaway*, expert-verifiable technical meaning, why the result matters, and transition to next shot.
 2. **Authority register:** which geometry, mechanism, dimensions and movement are verified; pending client questions, owner and blocking level.
 3. **Core visual premise:** why this particular composition? What makes the subject present, distinctive and understandable?
 4. **Camera score:** entry, all meaningful showcase arrivals, traversal purpose, gaze, lens/projection rationale, spatial continuity, timing/rhythm and exit.
@@ -21,6 +22,7 @@ Before making a creative choice, check [Personality](01-ROLLADICE_CREATIVE_PERSO
 8. **Implementation handoff:** scene file/link targets, units, FPS/aspect from project, concrete keyframe targets only once the relevant geometry is available, proposed render mode, pass/mask needs, QA conditions.
 9. **Review:** initial assistant critique, director response, technical review state, shot version and accepted/rejected alternatives.
 10. **Typography/graphics:** apply the evidence-backed typography preferences and *optional* 3D/on-screen graphic integration in [module 08](08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md) only when scene-appropriate. Record exact copy and whether it is approved. Font specifics, annotation systems, data-graphics language and motion-design parameters remain **UNDISCOVERED**.
+11. **Audience proof:** define a minimal *cold-viewer* comprehension question (what was discovered/changed; why it matters), the key visual comparison or consequence if relevant, and a separate expert truth/provenance check. Test the actual moving preview, not just the scene's technical implementation or attractive stills. If the sequence relies on voiceover or a label, specify that dependency rather than claiming silent clarity.
 
 ## Machine-readable draft — `scene-directive.yaml`
 
@@ -46,6 +48,14 @@ narrative:
   engineering_message: "Present genuine ECCO engineering"
   emotional_goal: "Confident technological presence"
   core_image_idea: "Fluid discovery through purposeful detail arrivals"
+audience:
+  groups: [engineers, non_technical_stakeholders] # illustrative MIT audience example; confirm for each project
+  prior_knowledge: mixed
+  nontechnical_takeaway: TBD_ONE_PLAIN_LANGUAGE_SENTENCE
+  expert_truth_check: TBD_SOURCE_GROUNDED_RELATIONSHIP
+  why_it_matters: TBD_GROUNDED_CONSEQUENCE_NO_UNSUPPORTED_VALUE_CLAIM
+  discovery_or_comparison: TBD_IF_RELEVANT
+  comprehension_check: "Can a new viewer explain the discovery and significance after the preview?"
 camera:
   pose_units: scene_units
   lens_mm: TBD_AFTER_BLOCKING
@@ -85,6 +95,8 @@ checks:
   - continuous_camera_travel_or_documented_cut
   - no_unapproved_material_claims
   - final_view_readable
+  - cold_viewer_understands_essential_discovery_and_why_it_matters
+  - expert_checks_technical_meaning_and_provenance_separately
   - typography_and_graphics_legible_if_present
   - exact_required_text_is_approved_or_placeholder
   - technical_review_recorded
@@ -101,20 +113,23 @@ approvals:
 
 ## Release gates
 
-- **D0 — Concept:** engineering purpose and source facts clearly separated from hypotheses; visual direction stated.
-- **D1 — Art direction:** hero compositions and camera-score rationale accepted internally, or explicitly released as a test.
+- **D0 — Concept:** engineering purpose and source facts clearly separated from hypotheses; visual direction stated; target audience and non-technical takeaway identified.
+- **D1 — Art direction:** hero compositions and camera-score rationale accepted internally, or explicitly released as a test; director can identify the intended discovery/consequence a non-specialist should recognize.
 - **D2 — Execution-ready:** exact scene/asset versions, coordinate system, frame rate, path poses and lens have been derived from source/Blender, not invented; implementation unknowns recorded.
-- **D3 — Animatic reviewed:** representative frames and continuous motion inspected for meaning, continuity and technical correctness; client engineering approval obtained where necessary.
+- **D3 — Animatic reviewed:** representative frames and continuous motion inspected for meaning, continuity, intended audience comprehension and technical correctness; client engineering approval obtained where necessary. A procedural/scene-check pass alone never proves comprehension.
 - **D4 — Finishing:** only after scene-specific dependencies are resolved; use [production workflow](../01_Foundation/05-PRODUCTION_WORKFLOW.md) and [Blender animation reference skill](../00_Skill/blender-animation-reference/SKILL.md).
 
 Do not block safe exploration because an unrelated technical question remains unresolved. Do not present a speculative scene as execution-ready.
 
 ## Agent handoff instruction
 
-"Implement the attached director-approved or explicitly experimental scene contract. Verify source asset/coordinate system and engineering restrictions before assigning transforms. Treat conceptual SVG as spatial explanation, not exact camera path. Preserve product and effect identities, generate a low-cost Blender playblast first, inspect entry/arrivals/transitions/exit and report deviations. Do not generate expensive finishing, alter approved geometry, or invent precise fonts/data-graphics styling/animation parameters as confirmed Rolladice taste. Use the typography evidence module when relevant, while deferring unresolved specifics to director review."
+"Implement the attached director-approved or explicitly experimental scene contract. Verify source asset/coordinate system and engineering restrictions before assigning transforms. Treat conceptual SVG as spatial explanation, not exact camera path. Preserve product and effect identities, generate a low-cost Blender playblast first, inspect entry/arrivals/transitions/exit **and the non-specialist discovery/meaning payoff**, and report deviations. Do not generate expensive finishing, alter approved geometry, or invent precise fonts/data-graphics styling/animation parameters as confirmed Rolladice taste. Use the typography evidence module when relevant, while deferring unresolved specifics to director review."
 
 ## QA / critique
 
+- Can a viewer without prior domain knowledge say what changed or was discovered and why it matters, using the proposed preview and any explicitly planned minimal wording?
+- Can a technical reviewer recognize the correct mechanism and source-versus-synthetic data distinction without an invented effect, exaggerated geometry, or unsourced business benefit?
+- Does the camera/graphic emphasis show the result and its meaningful difference rather than spending the entire sequence on acquisition detail?
 - Does every meaningful camera arrival communicate something new?
 - Is the journey itself expressive, fluid and legible rather than empty travel?
 - Would a major held frame still make a visual statement?
