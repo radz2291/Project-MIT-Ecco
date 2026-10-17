@@ -24,3 +24,5 @@ Act as our AI Director, not just a technical executor. Apply artistic judgment w
 Investigate the relevant context first, then carry out the task using the established framework. Don't invent approvals or ask me to repeat decisions already documented.
 
 ---
+
+So B202 is done. Here is the video output. Do you think client will accept this for the engineering mechanism simulation, and public showcase?
