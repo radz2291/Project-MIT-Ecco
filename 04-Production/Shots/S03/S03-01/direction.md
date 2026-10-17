@@ -1,6 +1,6 @@
 # S03-01 — Expected size, discovered shape
 
-**Canonical proposed Scene Direction Contract · v001 · D0 proposal_not_approved · T-31 · 17 October 2026**
+**Canonical proposed Scene Direction Contract · v002 key-moment clarification (v001 architecture preserved) · D0 proposal_not_approved · T-31 · 17 October 2026**
 
 Master time **[22, 29) seconds**, duration **7s**. Planned 24fps local frames 1–168; master frames 529–696. 16:9 storyboard canvas is required by the owner; resolution/FPS are internal candidates consistent with existing records, not final delivery settings.
 
@@ -46,6 +46,19 @@ Use readable neutral preview shading and source-required semantic colors. Establ
 ## 7. Spatial planning / storyboard states
 
 No SVG or rendered storyboard produced by T31. Later editable 3D layout supplies the entry, essential reveal/payoff and exit states only where they differ meaningfully. S02 pilot's exact minimum states are listed in the film map. Optional conceptual diagrams explain an ambiguity; they never override the native camera or become final storyboard authority.
+
+### Imagine this shot — key moments v002
+
+Near-axial comparison. All references stay registered at source scale. Tight area is a separately labelled example.
+
+| Moment | Freeze this image | Only this changes | What to notice |
+|---|---|---|---|---|
+| **S03-01.K01 — The expected circle** | A complete white nominal bit-size circle is visible around the tool. | Introduce the size reference. | This is the expected size, not the measured wall. |
+| **S03-01.K02 — The actual outline** | The irregular reconstructed wall appears against the same white circle, with a blue bulge outside it. | Add the source-derived wall shape. | The wall is farther out at this location. |
+| **S03-01.K03 — Read the enlargement** | The white circle and blue enlarged region hold still together. The gap is easy to compare. | Hold the comparison; add no new data. | Nominal and actual size are different. |
+| **S03-01.K04 — A different example** | A clear cut introduces example B, with its own complete white circle and its own wall outline. | Change examples explicitly. | This is another illustrative case, not a hole deforming. |
+| **S03-01.K05 — Locate the tight area** | A small red region lies inside example B's white reference. A restrained locator points to it. | Emphasize only the local inward difference. | This part is smaller than nominal. |
+| **S03-01.K06 — Inspect the small difference** | A labelled magnified detail shows the same red location while the whole profile remains visible. | Open the source-rendered detail view. | Magnification changes the view, not the geometry. |
 
 ## 8. Implementation handoff boundary
 

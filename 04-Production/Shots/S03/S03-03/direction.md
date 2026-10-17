@@ -1,6 +1,6 @@
 # S03-03 — Another property of the echo
 
-**Canonical proposed Scene Direction Contract · v001 · D0 proposal_not_approved · T-31 · 17 October 2026**
+**Canonical proposed Scene Direction Contract · v002 key-moment clarification (v001 architecture preserved) · D0 proposal_not_approved · T-31 · 17 October 2026**
 
 Master time **[33, 40) seconds**, duration **7s**. Planned 24fps local frames 1–168; master frames 793–960. 16:9 storyboard canvas is required by the owner; resolution/FPS are internal candidates consistent with existing records, not final delivery settings.
 
@@ -46,6 +46,18 @@ Use readable neutral preview shading and source-required semantic colors. Establ
 ## 7. Spatial planning / storyboard states
 
 No SVG or rendered storyboard produced by T31. Later editable 3D layout supplies the entry, essential reveal/payoff and exit states only where they differ meaningfully. S02 pilot's exact minimum states are listed in the film map. Optional conceptual diagrams explain an ambiguity; they never override the native camera or become final storyboard authority.
+
+### Imagine this shot — key moments v002
+
+Clean information space around the familiar reconstruction. Geometry and acoustic response use separate labelled views.
+
+| Moment | Freeze this image | Only this changes | What to notice |
+|---|---|---|---|---|
+| **S03-03.K01 — Recall the first property** | A small timing cue is paired with the blue geometry view: “Travel time: hole shape”. | Briefly recall the established relationship. | Timing supplied the shape information. |
+| **S03-03.K02 — Introduce the other property** | A separate echo-strength cue is labelled “Echo strength: acoustic response”. | Shift attention to the other property of the returned echo. | This is different information from the same measurement process. |
+| **S03-03.K03 — Make a clean separation** | The blue geometry display recedes. The acoustic-response label remains in clear space. | Clear the geometry emphasis before the warm result appears. | One colour map is not turning into the other. |
+| **S03-03.K04 — The warm image** | A separate yellow/brown response surface appears on the reconstructed positions, with visible variation. | Reveal the independently derived strength display. | These colours show acoustic response, not rock's optical colour. |
+| **S03-03.K05 — Read the variation** | A small camera shift reveals the response on another flank while the mapped features stay fixed. | Only the camera changes view. | The response varies around the wall and through depth. |
 
 ## 8. Implementation handoff boundary
 

@@ -1,6 +1,6 @@
 # S03-02 — The shape continues
 
-**Canonical proposed Scene Direction Contract · v001 · D0 proposal_not_approved · T-31 · 17 October 2026**
+**Canonical proposed Scene Direction Contract · v002 key-moment clarification (v001 architecture preserved) · D0 proposal_not_approved · T-31 · 17 October 2026**
 
 Master time **[29, 33) seconds**, duration **4s**. Planned 24fps local frames 1–96; master frames 697–792. 16:9 storyboard canvas is required by the owner; resolution/FPS are internal candidates consistent with existing records, not final delivery settings.
 
@@ -46,6 +46,17 @@ Use readable neutral preview shading and source-required semantic colors. Establ
 ## 7. Spatial planning / storyboard states
 
 No SVG or rendered storyboard produced by T31. Later editable 3D layout supplies the entry, essential reveal/payoff and exit states only where they differ meaningfully. S02 pilot's exact minimum states are listed in the film map. Optional conceptual diagrams explain an ambiguity; they never override the native camera or become final storyboard authority.
+
+### Imagine this shot — key moments v002
+
+Oblique depth view of a separately identified spiral example. The reconstructed wall becomes the hero.
+
+| Moment | Freeze this image | Only this changes | What to notice |
+|---|---|---|---|---|
+| **S03-02.K01 — One cross-section** | One irregular profile is prominent. The tool still provides orientation inside it. | Establish the first depth section. | We recognise the kind of shape already shown. |
+| **S03-02.K02 — Several depths** | The camera is farther back. Several registered cross-sections now recede through depth. | Only the camera withdraws. | The shape has length, not just a circumference. |
+| **S03-02.K03 — Follow the changing bulge** | The enlarged part occupies a different position around each successive section. | Emphasize that source-derived progression. | The irregularity follows a spiral-like path along the wall. |
+| **S03-02.K04 — The space left behind** | The full depth view fills the frame. ECCO is now small or near the frame edge. | The camera settles on the discovered space. | The wall shape is the result worth seeing. |
 
 ## 8. Implementation handoff boundary
 

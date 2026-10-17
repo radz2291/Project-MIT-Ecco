@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "scope": "S03 only",
+  "shots": 3,
+  "moments": 15,
+  "moment_ids": [
+    "S03-01.K01",
+    "S03-01.K02",
+    "S03-01.K03",
+    "S03-01.K04",
+    "S03-01.K05",
+    "S03-01.K06",
+    "S03-02.K01",
+    "S03-02.K02",
+    "S03-02.K03",
+    "S03-02.K04",
+    "S03-03.K01",
+    "S03-03.K02",
+    "S03-03.K03",
+    "S03-03.K04",
+    "S03-03.K05"
+  ],
+  "section_seconds": 18,
+  "shot_seconds": [
+    7,
+    4,
+    7
+  ],
+  "canonical_and_board_text_match": true,
+  "embedded_data_match": true,
+  "local_links_resolved": 41,
+  "rendered_frames": 0,
+  "browser_qa": "Unavailable: Chromium executable absent",
+  "files": [
+    {
+      "path": "04-Production/Direction/B3/S03_key-moment-board_v002.json",
+      "sha256": "78bebbed1a0bd7b9139219894f988f0d76cabadeda316e1fc0f5ad10664de6f7"
+    },
+    {
+      "path": "04-Production/Direction/B3/S03_key-moment-board_v002.md",
+      "sha256": "d04f1e72d5e674afd3c8b9a267c2d9273725cf8f2acc7ca3a9dff823e989089b"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-031/report_key-moments_v002.md",
+      "sha256": "cf0fcb1b813cd45bf75486504fdca109c10ef64094f38c804fd7e2237a292e87"
+    },
+    {
+      "path": "04-Production/Shots/S03/S03-01/direction.md",
+      "sha256": "c137e4058152fe664be7b439af579916445dbe34c0f3d470650d1154158269b1"
+    },
+    {
+      "path": "04-Production/Shots/S03/S03-02/direction.md",
+      "sha256": "846aa4c479d4bd91be4f5859088602525c2fb2875a7459148372d9a798a13cd6"
+    },
+    {
+      "path": "04-Production/Shots/S03/S03-03/direction.md",
+      "sha256": "2201f184e619bd8a553fd7e362e30f805dcd97f6de13ced206960e1fc25582e5"
+    }
+  ]
+}

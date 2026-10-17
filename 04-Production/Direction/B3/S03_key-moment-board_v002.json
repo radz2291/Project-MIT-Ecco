@@ -1,0 +1,122 @@
+{
+  "version": "v002",
+  "status": "D0 proposal — Radzi review pending",
+  "authority": "Reading aid derived from the key-moment tables in each canonical shot direction.md; not rendered stills, animation keyframes or an execution release.",
+  "shots": [
+    {
+      "id": "S03-01",
+      "title": "Expected size, discovered shape",
+      "time": "0:22–0:29",
+      "layout": "Near-axial comparison. All references stay registered at source scale. Tight area is a separately labelled example.",
+      "moments": [
+        [
+          "The expected circle",
+          "A complete white nominal bit-size circle is visible around the tool.",
+          "Introduce the size reference.",
+          "This is the expected size, not the measured wall."
+        ],
+        [
+          "The actual outline",
+          "The irregular reconstructed wall appears against the same white circle, with a blue bulge outside it.",
+          "Add the source-derived wall shape.",
+          "The wall is farther out at this location."
+        ],
+        [
+          "Read the enlargement",
+          "The white circle and blue enlarged region hold still together. The gap is easy to compare.",
+          "Hold the comparison; add no new data.",
+          "Nominal and actual size are different."
+        ],
+        [
+          "A different example",
+          "A clear cut introduces example B, with its own complete white circle and its own wall outline.",
+          "Change examples explicitly.",
+          "This is another illustrative case, not a hole deforming."
+        ],
+        [
+          "Locate the tight area",
+          "A small red region lies inside example B's white reference. A restrained locator points to it.",
+          "Emphasize only the local inward difference.",
+          "This part is smaller than nominal."
+        ],
+        [
+          "Inspect the small difference",
+          "A labelled magnified detail shows the same red location while the whole profile remains visible.",
+          "Open the source-rendered detail view.",
+          "Magnification changes the view, not the geometry."
+        ]
+      ]
+    },
+    {
+      "id": "S03-02",
+      "title": "The shape continues",
+      "time": "0:29–0:33",
+      "layout": "Oblique depth view of a separately identified spiral example. The reconstructed wall becomes the hero.",
+      "moments": [
+        [
+          "One cross-section",
+          "One irregular profile is prominent. The tool still provides orientation inside it.",
+          "Establish the first depth section.",
+          "We recognise the kind of shape already shown."
+        ],
+        [
+          "Several depths",
+          "The camera is farther back. Several registered cross-sections now recede through depth.",
+          "Only the camera withdraws.",
+          "The shape has length, not just a circumference."
+        ],
+        [
+          "Follow the changing bulge",
+          "The enlarged part occupies a different position around each successive section.",
+          "Emphasize that source-derived progression.",
+          "The irregularity follows a spiral-like path along the wall."
+        ],
+        [
+          "The space left behind",
+          "The full depth view fills the frame. ECCO is now small or near the frame edge.",
+          "The camera settles on the discovered space.",
+          "The wall shape is the result worth seeing."
+        ]
+      ]
+    },
+    {
+      "id": "S03-03",
+      "title": "Another property of the echo",
+      "time": "0:33–0:40",
+      "layout": "Clean information space around the familiar reconstruction. Geometry and acoustic response use separate labelled views.",
+      "moments": [
+        [
+          "Recall the first property",
+          "A small timing cue is paired with the blue geometry view: “Travel time: hole shape”.",
+          "Briefly recall the established relationship.",
+          "Timing supplied the shape information."
+        ],
+        [
+          "Introduce the other property",
+          "A separate echo-strength cue is labelled “Echo strength: acoustic response”.",
+          "Shift attention to the other property of the returned echo.",
+          "This is different information from the same measurement process."
+        ],
+        [
+          "Make a clean separation",
+          "The blue geometry display recedes. The acoustic-response label remains in clear space.",
+          "Clear the geometry emphasis before the warm result appears.",
+          "One colour map is not turning into the other."
+        ],
+        [
+          "The warm image",
+          "A separate yellow/brown response surface appears on the reconstructed positions, with visible variation.",
+          "Reveal the independently derived strength display.",
+          "These colours show acoustic response, not rock's optical colour."
+        ],
+        [
+          "Read the variation",
+          "A small camera shift reveals the response on another flank while the mapped features stay fixed.",
+          "Only the camera changes view.",
+          "The response varies around the wall and through depth."
+        ]
+      ]
+    }
+  ],
+  "scope": "Section 3 only — format pilot; other sections not expanded."
+}
