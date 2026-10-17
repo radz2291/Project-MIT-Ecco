@@ -1,0 +1,170 @@
+{
+  "date": "2026-10-18",
+  "shotCount": 22,
+  "cardCount": 30,
+  "imageCount": 30,
+  "failures": [],
+  "sourceLinkCount": 65,
+  "durationSeconds": 90,
+  "imageFingerprints": [
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_01_Cinematic_Rich_Direction_Separated/Section_01_Cinematic_Overview.png",
+      "size": 851722,
+      "sha256": "990f2b0a860efa3a3a8a305bd02e898ab76fd61a0f04210ef14d1aa586f76168"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_01_Cinematic_Rich_Direction_Separated/S01_A_From_Surface_To_Depth/S01_A_From_Surface_To_Depth.png",
+      "size": 897579,
+      "sha256": "834d54301e69a114894b795ea6f60818f1d3d77bdef16fec12f3eee934637468"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_01_Cinematic_Rich_Direction_Separated/S01_B_Into_Darkness/S01_B_Into_Darkness.png",
+      "size": 969997,
+      "sha256": "68cb1f599be75d1458cb69ecd00dd78125ec37fb42ef6ffb55dc577c8f793516"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_01_Cinematic_Rich_Direction_Separated/S01_C_A_World_Beyond_Sight/S01_C_A_World_Beyond_Sight.png",
+      "size": 688862,
+      "sha256": "93712229786c09dc025dfbb803a4a3b1d797e0123d9a3c13068d00dafba9e080"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_02_Cinematic_Rich_Direction_Package/Section_02_Cinematic_Overview.png",
+      "size": 2273947,
+      "sha256": "a716aea05d4902b9e8174aaa7e0d994d579ff062368457d033d629ce1cebafeb"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_02_Cinematic_Rich_Direction_Package/S02_A_First_Contact.png",
+      "size": 1874669,
+      "sha256": "7da69b35a8415cfc816bc1f84bc093532c40f09866ce626ec0e479951e1f5b4a"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_02_Cinematic_Rich_Direction_Package/S02_B_Sound_Becomes_Measurement.png",
+      "size": 2069263,
+      "sha256": "9c7156914169a43c74a64b00c491e493ee1383db531d61f6c1f8c22d66deec75"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_02_Cinematic_Rich_Direction_Package/S02_C_The_Hidden_Circumference.png",
+      "size": 2129982,
+      "sha256": "b1e262b750e799977e38ac7fafef946ec610c08c9fafcc27018286ed48dc67ea"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_03_Cinematic_Rich_Direction_Package/Section_03_Cinematic_Overview.png",
+      "size": 1784385,
+      "sha256": "01427d13e8d3b3dcb43d818fac5b2df6f181f7f73e7e0570812a857cd339da0d"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_03_Cinematic_Rich_Direction_Package/S03_A_Reality_Revealed.png",
+      "size": 2462482,
+      "sha256": "040ebb60a1f20128d526b7dadb2e772dcfa9cb6ecae6b9a8a80e8da00ba041ee"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_03_Cinematic_Rich_Direction_Package/S03_B_Geometry_Through_Depth.png",
+      "size": 2591540,
+      "sha256": "6c6de2b078b251365724ae5c8bb05be942f50921d90d1fa2ee8c08de6b6aedd8"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_03_Cinematic_Rich_Direction_Package/S03_C_Beyond_Geometry.png",
+      "size": 2394523,
+      "sha256": "fb684e363ff939faa9b30ea5443a78ea1ff841387fe81c94fa2e9c822dfa5840"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_04_Cinematic_Rich_Direction_Separated/S04_A_Entering_the_Cased_World/S04_A_Entering_the_Cased_World.png",
+      "size": 666551,
+      "sha256": "5d7af05222ef13ce96c23867d5492811979a06aa078cfc1f34603522012cb411"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_04_Cinematic_Rich_Direction_Separated/S04_B_What_Lies_Behind_Steel/S04_B_What_Lies_Behind_Steel.png",
+      "size": 583595,
+      "sha256": "6e8cc1a39e66dd289e562a2f2a5e2c825c88de6fb15bf03a0256740221efae29"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_04_Cinematic_Rich_Direction_Separated/S04_C_The_Hidden_Channel/S04_C_The_Hidden_Channel.png",
+      "size": 690779,
+      "sha256": "f0799edaa215fe7f2f9027401e2859e44cdf2b70b42399c44b7682badb7aaa41"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_04_Cinematic_Rich_Direction_Separated/S04_D_The_Damage_Within/S04_D_The_Damage_Within.png",
+      "size": 533945,
+      "sha256": "498ae66776c4c970276c562a290de57843184d9bc39e7a737b3e58fad9cee0b3"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_05_Cinematic_Rich_Direction_Package/Section_05_Cinematic_Overview.png",
+      "size": 2025716,
+      "sha256": "056c832aeadfdf127befd6df951c706f8aedfc84158d558e2d4a03a5c07c523f"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_05_Cinematic_Rich_Direction_Package/S05_A_The_Flow_Accelerates/S05_A_The_Flow_Accelerates.png",
+      "size": 2651425,
+      "sha256": "50d3331256d9e7c97f48e0e56fa63859a3a8bd628a5d5a69734c6afac168faed"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_05_Cinematic_Rich_Direction_Package/S05_B_Engineered_Turbulence/S05_B_Engineered_Turbulence.png",
+      "size": 3018819,
+      "sha256": "b73dedeac0754a695e260f16a10d65984bd26360a3ecbbf6cf7f6e5f9d269e01"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_05_Cinematic_Rich_Direction_Package/S05_C_The_Flow_Finds_Its_Path/S05_C_The_Flow_Finds_Its_Path.png",
+      "size": 2830963,
+      "sha256": "12d5bda1cf867a2f6b7d5fea636679cf8dcd5cdeb636cf329fc30a7a5c53703f"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_06_Cinematic_Rich_Direction_Separated/Section_06_Cinematic_Overview.png",
+      "size": 2749678,
+      "sha256": "5f23f8e5206161ffea17a73009ce45edfbbe1078760552d3524ee7ec37a18f83"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_06_Cinematic_Rich_Direction_Separated/S06_A_The_Invisible_Takes_Shape/S06_A_The_Invisible_Takes_Shape.png",
+      "size": 2701640,
+      "sha256": "bf895e592050fc5845c95a45cacce9bd0ae246059cd85ca348f283f2dd6846b7"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_06_Cinematic_Rich_Direction_Separated/S06_B_Unfolding_The_Underground/S06_B_Unfolding_The_Underground.png",
+      "size": 2921062,
+      "sha256": "6477d81a7e7f4b2ded9e91c24982c1c1786a82920463cf567774d22f95359359"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_06_Cinematic_Rich_Direction_Separated/S06_C_Real_Engineering_Evidence/S06_C_Real_Engineering_Evidence.png",
+      "size": 1747598,
+      "sha256": "53dfbb03b1731db1b4d6b38579e7ccdb70abcd5e247e0562783d833349231717"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_07_Cinematic_Rich_Direction_Separated/Section_07_Cinematic_Overview.png",
+      "size": 983218,
+      "sha256": "06aacbd3bbbb6b1bbeb94ba62e1f90d91cf1b876e1968d96eb15a450fc5be393"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_07_Cinematic_Rich_Direction_Separated/S07_A_From_Insight_To_Product/S07_A_From_Insight_To_Product.png",
+      "size": 990270,
+      "sha256": "05d90585f1c9a2134c86c096ef0afde78f92dae5aca7e1b014dc6a9da8e38c7d"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_07_Cinematic_Rich_Direction_Separated/S07_B_Product_Hero_And_Capability_Recall/S07_B_Product_Hero_And_Capability_Recall.png",
+      "size": 755672,
+      "sha256": "d36ba01ea0fd4fbeb856df19023c86aa5e2e50dccec0cddd49b47006c34d2ce4"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_07_Cinematic_Rich_Direction_Separated/S07_C_MIT_Brand_Closing/S07_C_Icon_Only_Brand_Closing.png",
+      "size": 272580,
+      "sha256": "87a67325b3406db5bed004887627b0581a119dfb5065d8f74a7e49aedb99fd7d"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_07_Cinematic_Rich_Direction_Separated/S07_C_MIT_Brand_Closing/S07_C_Official_Logo_Brand_Closing.png",
+      "size": 260995,
+      "sha256": "2b48b8e7e2712d3eea44564b6c1e29905ccba915a5aa9659ae47c3e3c5fa5bdd"
+    },
+    {
+      "file": "03-Context/02_Storyboard/V3/ECCO_Section_07_Cinematic_Rich_Direction_Separated/S07_C_MIT_Brand_Closing/MIT_Official_Logo_Supplied_Unaltered.png",
+      "size": 25416,
+      "sha256": "0d18d46d7d9554cc2e48075232772d5bff0a8eb01dead5f5e2a571d0bf36b63c"
+    }
+  ],
+  "board": {
+    "contentMatches": 30,
+    "shots": 22,
+    "durationSeconds": 90,
+    "attachments": 30,
+    "failures": [],
+    "revision": 13
+  },
+  "uploadsReady": true
+}

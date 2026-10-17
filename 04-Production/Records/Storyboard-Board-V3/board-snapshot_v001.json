@@ -1,0 +1,559 @@
+{
+  "boardId": "8466dd02-7299-4e68-85fc-f95d0d61931e",
+  "title": "ECCO - Cinematic Film Storyboard",
+  "revision": 13,
+  "sections": [
+    {
+      "id": "827872a6-18c0-4c04-b2f7-18248044abd0",
+      "title": "00 — Start here / Agent production guide"
+    },
+    {
+      "id": "af9ae78f-46d0-41a4-bad0-ac1455044226",
+      "title": "S01 — Enter the Unseen World | 0:00–0:10"
+    },
+    {
+      "id": "6cae346f-3a0d-4ab5-a996-32b6ed91c2ca",
+      "title": "S02 — The First Ping | 0:10–0:22"
+    },
+    {
+      "id": "c74e22a4-abe8-4c72-a310-1615839726a0",
+      "title": "S03 — Open Hole — Geometry & Formation Imaging | 0:22–0:40"
+    },
+    {
+      "id": "e129f3f5-d714-4dac-abe1-0ae754584106",
+      "title": "S04 — Cased Hole — Cement & Casing Integrity | 0:40–0:58"
+    },
+    {
+      "id": "623953cc-9758-4e13-ac7a-38264747668f",
+      "title": "S05 — ENP3 Hydraulic Enhancement | 0:58–1:10"
+    },
+    {
+      "id": "bf387e7a-20fc-4d63-bc36-fdc9397cb4f5",
+      "title": "S06 — From Measurements to Engineering Output | 1:10–1:22"
+    },
+    {
+      "id": "12125a77-d3ca-45b1-b7a7-f4e8d550bb7b",
+      "title": "S07 — Product Hero & MIT Closing | 1:22–1:30"
+    }
+  ],
+  "cards": [
+    {
+      "id": "c63052df-d285-44a3-a526-35ce9f44b1fd",
+      "section": "827872a6-18c0-4c04-b2f7-18248044abd0",
+      "order": 0,
+      "key": null,
+      "title": "START HERE — V3 film map & agent workflow",
+      "versionId": "47d3d694-f28a-4106-8218-0841df37aa03",
+      "assetIds": []
+    },
+    {
+      "id": "249c60ec-b138-4c9a-8b5e-ff66e7868c40",
+      "section": "af9ae78f-46d0-41a4-bad0-ac1455044226",
+      "order": 1,
+      "key": null,
+      "title": "S01 — Sequence guide & continuity",
+      "versionId": "7f82e343-b40e-473f-8253-d08a1d96b164",
+      "assetIds": [
+        "ebb08c52-c260-4388-9900-5643e77694cd"
+      ]
+    },
+    {
+      "id": "b4ab26be-5749-40c1-bf3b-a48f1b54df03",
+      "section": "af9ae78f-46d0-41a4-bad0-ac1455044226",
+      "order": 2,
+      "key": "S01-A",
+      "title": "S01-A — From Surface to Depth | 0:00–0:03",
+      "versionId": "f1f0a66f-6334-4d95-b575-16632df1c49a",
+      "assetIds": [
+        "20c740e9-b883-454f-bc4b-574b8a7b0f94"
+      ]
+    },
+    {
+      "id": "3bb7ca91-2d25-46cf-8238-655ffae59182",
+      "section": "af9ae78f-46d0-41a4-bad0-ac1455044226",
+      "order": 3,
+      "key": "S01-B",
+      "title": "S01-B — Into Darkness | 0:03–0:07",
+      "versionId": "27e4a214-4186-42a0-9adf-b5de6d42f2ce",
+      "assetIds": [
+        "61b0990f-43ac-4990-9169-c0d4ae9ec5dc"
+      ]
+    },
+    {
+      "id": "876920b1-a183-4095-bdf4-0f60ab07789a",
+      "section": "af9ae78f-46d0-41a4-bad0-ac1455044226",
+      "order": 4,
+      "key": "S01-C",
+      "title": "S01-C — A World Beyond Sight | 0:07–0:10",
+      "versionId": "aa314166-476a-432c-8946-009d4b15daf3",
+      "assetIds": [
+        "adcdf98b-02af-41a3-9b1b-f97962b42e64"
+      ]
+    },
+    {
+      "id": "19962415-00fd-4bfc-a4c4-c422c6342b01",
+      "section": "6cae346f-3a0d-4ab5-a996-32b6ed91c2ca",
+      "order": 5,
+      "key": null,
+      "title": "S02 — Sequence guide & continuity",
+      "versionId": "fb779ae0-522e-4398-9cd9-395ef7f66222",
+      "assetIds": [
+        "45633298-c021-4cd8-a709-bc237e64a1a1"
+      ]
+    },
+    {
+      "id": "9cf2af67-19d9-471e-83c7-262e15568712",
+      "section": "6cae346f-3a0d-4ab5-a996-32b6ed91c2ca",
+      "order": 6,
+      "key": "S02-A",
+      "title": "S02-A — First Contact | 0:10–0:13",
+      "versionId": "4b4aedbe-5b79-447d-b016-5d6673d095ec",
+      "assetIds": [
+        "27167e8d-2846-4157-a864-a1374ef3139c"
+      ]
+    },
+    {
+      "id": "60609ba6-9278-4887-b1d5-60b33fdf2fa6",
+      "section": "6cae346f-3a0d-4ab5-a996-32b6ed91c2ca",
+      "order": 7,
+      "key": "S02-B",
+      "title": "S02-B — Sound Becomes Measurement | 0:13–0:17",
+      "versionId": "b8dd5c4e-417a-4fcc-b9ad-3a59312a2cb5",
+      "assetIds": [
+        "0f730371-6bf5-41c6-8261-347ae4b91775"
+      ]
+    },
+    {
+      "id": "9da8c07d-b304-45a4-867e-a90363e7ba33",
+      "section": "6cae346f-3a0d-4ab5-a996-32b6ed91c2ca",
+      "order": 8,
+      "key": "S02-C",
+      "title": "S02-C — The Hidden Circumference | 0:17–0:22",
+      "versionId": "5569a453-cea9-446a-917a-624329e519ac",
+      "assetIds": [
+        "3411a36d-0f76-43f8-acf5-63fcf321450c"
+      ]
+    },
+    {
+      "id": "930d1b90-30c2-42f3-b0f8-edecc26cf92d",
+      "section": "c74e22a4-abe8-4c72-a310-1615839726a0",
+      "order": 9,
+      "key": null,
+      "title": "S03 — Sequence guide & continuity",
+      "versionId": "eab00c1d-a609-4a44-bf32-f774e69854d7",
+      "assetIds": [
+        "e839d2f2-725e-4dd9-b278-5441bf2ab50a"
+      ]
+    },
+    {
+      "id": "b13dad75-3b0d-4386-aefd-ab97ccb6c603",
+      "section": "c74e22a4-abe8-4c72-a310-1615839726a0",
+      "order": 10,
+      "key": "S03-A",
+      "title": "S03-A — Reality Revealed | 0:22–0:28",
+      "versionId": "3d7051bf-6914-4749-a86c-526bbf0b0fd1",
+      "assetIds": [
+        "60905034-5456-4ca0-8869-9b64b27e3bc3"
+      ]
+    },
+    {
+      "id": "4e1ff6b7-6ea2-4bda-b643-74ce215e7c30",
+      "section": "c74e22a4-abe8-4c72-a310-1615839726a0",
+      "order": 11,
+      "key": "S03-B",
+      "title": "S03-B — Geometry Through Depth | 0:28–0:34",
+      "versionId": "a94c7c52-de05-475a-aa60-25f79fc29272",
+      "assetIds": [
+        "29b33bac-69d0-4010-9845-99b82cc113f5"
+      ]
+    },
+    {
+      "id": "3ee4449f-8f49-489f-9984-c2dc481a0500",
+      "section": "c74e22a4-abe8-4c72-a310-1615839726a0",
+      "order": 12,
+      "key": "S03-C",
+      "title": "S03-C — Beyond Geometry | 0:34–0:40",
+      "versionId": "60deb7aa-a719-45c7-9ed5-a73631739437",
+      "assetIds": [
+        "bc67646b-e087-46d5-9b5c-5f3d0eaa5413"
+      ]
+    },
+    {
+      "id": "b5e647af-64c0-4110-bfe9-b39698ec10b5",
+      "section": "e129f3f5-d714-4dac-abe1-0ae754584106",
+      "order": 13,
+      "key": null,
+      "title": "S04 — Sequence guide & continuity",
+      "versionId": "8d54e74a-12f1-4f42-9479-d015858fc708",
+      "assetIds": []
+    },
+    {
+      "id": "f7ed562a-b2c0-4ba2-b63b-16673c7a7b28",
+      "section": "e129f3f5-d714-4dac-abe1-0ae754584106",
+      "order": 14,
+      "key": "S04-A",
+      "title": "S04-A — Entering the Cased World | 0:40–0:44",
+      "versionId": "bf27b412-93bc-49a1-8e64-b4f18ad86843",
+      "assetIds": [
+        "dbcf7ea7-cde6-4713-a900-3ea4f5b23da3"
+      ]
+    },
+    {
+      "id": "968fa353-6de3-4509-9e6e-a2814a54cdcd",
+      "section": "e129f3f5-d714-4dac-abe1-0ae754584106",
+      "order": 15,
+      "key": "S04-B",
+      "title": "S04-B — What Lies Behind Steel | 0:44–0:49",
+      "versionId": "2fb9cb84-f7b9-4f74-a2af-752a76019b1f",
+      "assetIds": [
+        "00630c3a-eee7-40a9-ab6f-e6975b09c332"
+      ]
+    },
+    {
+      "id": "b450b3d7-8036-48b5-8bcf-d3ae5a370e66",
+      "section": "e129f3f5-d714-4dac-abe1-0ae754584106",
+      "order": 16,
+      "key": "S04-C",
+      "title": "S04-C — The Hidden Channel | 0:49–0:54",
+      "versionId": "f819f51b-6bb0-49da-ae4c-62e0131decbe",
+      "assetIds": [
+        "c12e087f-dac0-4fc4-8ac5-0f20dc7c2a73"
+      ]
+    },
+    {
+      "id": "b31f8f92-7cd8-4a99-9404-513879f8686b",
+      "section": "e129f3f5-d714-4dac-abe1-0ae754584106",
+      "order": 17,
+      "key": "S04-D",
+      "title": "S04-D — The Damage Within | 0:54–0:58",
+      "versionId": "39b8b3a0-18a8-4609-bf3f-1cdb1d6388ba",
+      "assetIds": [
+        "c3efab0e-9915-42a6-ab77-4042d4879abf"
+      ]
+    },
+    {
+      "id": "a00be779-a1a0-4328-b2ea-ba8b492aeb2a",
+      "section": "623953cc-9758-4e13-ac7a-38264747668f",
+      "order": 18,
+      "key": null,
+      "title": "S05 — Sequence guide & continuity",
+      "versionId": "13b961e2-4247-444e-81f5-fe4469c64ea1",
+      "assetIds": [
+        "1e1919a2-9d62-4489-aa10-131cd291ba6a"
+      ]
+    },
+    {
+      "id": "158ef6d8-dd36-4ce4-a22b-34e7a7f7f908",
+      "section": "623953cc-9758-4e13-ac7a-38264747668f",
+      "order": 19,
+      "key": "S05-A",
+      "title": "S05-A — The Flow Accelerates | 0:58–1:02",
+      "versionId": "054fcb1d-9844-4c9d-9deb-4944506389dc",
+      "assetIds": [
+        "1ac3d70c-091e-40f5-a3c1-b99db2aad4bd"
+      ]
+    },
+    {
+      "id": "be619ee3-e0e4-4b45-b9c3-6e5425e05151",
+      "section": "623953cc-9758-4e13-ac7a-38264747668f",
+      "order": 20,
+      "key": "S05-B",
+      "title": "S05-B — Engineered Turbulence | 1:02–1:06",
+      "versionId": "84d03d3f-ebc8-4f03-800a-c7c2135db625",
+      "assetIds": [
+        "f322ab29-732d-4394-8ae6-5dabb4805d06"
+      ]
+    },
+    {
+      "id": "8edf2053-4de9-497c-bc94-06ea9677c999",
+      "section": "623953cc-9758-4e13-ac7a-38264747668f",
+      "order": 21,
+      "key": "S05-C",
+      "title": "S05-C — The Flow Finds Its Path | 1:06–1:10",
+      "versionId": "b85d5f65-9ab7-4072-833c-15c8ba1bde27",
+      "assetIds": [
+        "926d4ee3-2c20-4568-ba3f-c51b65408b91"
+      ]
+    },
+    {
+      "id": "b73d3f2a-e722-4a36-84bb-44f07940873d",
+      "section": "bf387e7a-20fc-4d63-bc36-fdc9397cb4f5",
+      "order": 22,
+      "key": null,
+      "title": "S06 — Sequence guide & continuity",
+      "versionId": "f0557d70-5fe6-45ed-b027-007629e7d1e3",
+      "assetIds": [
+        "dc7303d4-463c-4917-a473-888192583d52"
+      ]
+    },
+    {
+      "id": "6b175117-4f5a-4469-972f-ebabb86df091",
+      "section": "bf387e7a-20fc-4d63-bc36-fdc9397cb4f5",
+      "order": 23,
+      "key": "S06-A",
+      "title": "S06-A — The Invisible Takes Shape | 1:10–1:14",
+      "versionId": "d706b849-834d-411e-be3b-d9b3ae4f8ec8",
+      "assetIds": [
+        "24e6a66d-4343-4077-9894-7a89934c97e4"
+      ]
+    },
+    {
+      "id": "d2731856-9022-4ac0-9fcb-2a74d9f9e690",
+      "section": "bf387e7a-20fc-4d63-bc36-fdc9397cb4f5",
+      "order": 24,
+      "key": "S06-B",
+      "title": "S06-B — Unfolding the Underground | 1:14–1:19",
+      "versionId": "f757e950-25ff-4f1b-ad62-aecf5b33089f",
+      "assetIds": [
+        "e1588085-18b6-452c-877f-be4aef11b492"
+      ]
+    },
+    {
+      "id": "237453dc-571e-4f46-b8af-1db740148972",
+      "section": "bf387e7a-20fc-4d63-bc36-fdc9397cb4f5",
+      "order": 25,
+      "key": "S06-C",
+      "title": "S06-C — Real Engineering Evidence | 1:19–1:22",
+      "versionId": "9719569f-0b44-4722-94da-37f82aa56c9e",
+      "assetIds": [
+        "b5792dc4-196b-473c-8c26-a71b3b84fa5c"
+      ]
+    },
+    {
+      "id": "5928c98d-6be9-4562-90d0-fc40e158d95d",
+      "section": "12125a77-d3ca-45b1-b7a7-f4e8d550bb7b",
+      "order": 26,
+      "key": null,
+      "title": "S07 — Sequence guide & continuity",
+      "versionId": "23982660-17be-4b02-8a12-ec4966f75439",
+      "assetIds": [
+        "d41eb97e-2833-425b-9ac0-2f5a4ab5ce6c"
+      ]
+    },
+    {
+      "id": "ee153ebf-d6e7-47a9-b2e0-a6f330e9403d",
+      "section": "12125a77-d3ca-45b1-b7a7-f4e8d550bb7b",
+      "order": 27,
+      "key": "S07-A",
+      "title": "S07-A — From Insight to Product | 1:22–1:24",
+      "versionId": "75718591-2ddc-4122-8115-40b7d256b540",
+      "assetIds": [
+        "e60bdb8a-3745-44f5-8ef2-33fb9056c0a4"
+      ]
+    },
+    {
+      "id": "fc94ea11-b1cb-435e-8f27-70b7041ce2ec",
+      "section": "12125a77-d3ca-45b1-b7a7-f4e8d550bb7b",
+      "order": 28,
+      "key": "S07-B",
+      "title": "S07-B — Product Hero and Capability Recall | 1:24–1:28",
+      "versionId": "87e1b534-ead8-429e-bed9-b6c8dd29c470",
+      "assetIds": [
+        "4f980076-c547-48e0-8ed3-e98e7be4a23f"
+      ]
+    },
+    {
+      "id": "ed796d38-d632-4330-97d4-4308c5d84e2a",
+      "section": "12125a77-d3ca-45b1-b7a7-f4e8d550bb7b",
+      "order": 29,
+      "key": "S07-C",
+      "title": "S07-C — MIT Technologies Brand Closing | 1:28–1:30",
+      "versionId": "38b45747-1445-4f2a-9b00-6500c1164571",
+      "assetIds": [
+        "4727f881-f215-412a-b9a0-ac66c75e1175",
+        "9c8ddae7-bd1e-4a05-bd24-bb72a0217f8d",
+        "b1da6d29-a7df-4308-ac28-a4a79e402845"
+      ]
+    }
+  ],
+  "uploads": [
+    {
+      "id": "ebb08c52-c260-4388-9900-5643e77694cd",
+      "name": "Section_01_Cinematic_Overview.png",
+      "size": 851722,
+      "status": "ready"
+    },
+    {
+      "id": "20c740e9-b883-454f-bc4b-574b8a7b0f94",
+      "name": "S01_A_From_Surface_To_Depth.png",
+      "size": 897579,
+      "status": "ready"
+    },
+    {
+      "id": "61b0990f-43ac-4990-9169-c0d4ae9ec5dc",
+      "name": "S01_B_Into_Darkness.png",
+      "size": 969997,
+      "status": "ready"
+    },
+    {
+      "id": "adcdf98b-02af-41a3-9b1b-f97962b42e64",
+      "name": "S01_C_A_World_Beyond_Sight.png",
+      "size": 688862,
+      "status": "ready"
+    },
+    {
+      "id": "45633298-c021-4cd8-a709-bc237e64a1a1",
+      "name": "Section_02_Cinematic_Overview.png",
+      "size": 2273947,
+      "status": "ready"
+    },
+    {
+      "id": "27167e8d-2846-4157-a864-a1374ef3139c",
+      "name": "S02_A_First_Contact.png",
+      "size": 1874669,
+      "status": "ready"
+    },
+    {
+      "id": "0f730371-6bf5-41c6-8261-347ae4b91775",
+      "name": "S02_B_Sound_Becomes_Measurement.png",
+      "size": 2069263,
+      "status": "ready"
+    },
+    {
+      "id": "3411a36d-0f76-43f8-acf5-63fcf321450c",
+      "name": "S02_C_The_Hidden_Circumference.png",
+      "size": 2129982,
+      "status": "ready"
+    },
+    {
+      "id": "e839d2f2-725e-4dd9-b278-5441bf2ab50a",
+      "name": "Section_03_Cinematic_Overview.png",
+      "size": 1784385,
+      "status": "ready"
+    },
+    {
+      "id": "60905034-5456-4ca0-8869-9b64b27e3bc3",
+      "name": "S03_A_Reality_Revealed.png",
+      "size": 2462482,
+      "status": "ready"
+    },
+    {
+      "id": "29b33bac-69d0-4010-9845-99b82cc113f5",
+      "name": "S03_B_Geometry_Through_Depth.png",
+      "size": 2591540,
+      "status": "ready"
+    },
+    {
+      "id": "bc67646b-e087-46d5-9b5c-5f3d0eaa5413",
+      "name": "S03_C_Beyond_Geometry.png",
+      "size": 2394523,
+      "status": "ready"
+    },
+    {
+      "id": "dbcf7ea7-cde6-4713-a900-3ea4f5b23da3",
+      "name": "S04_A_Entering_the_Cased_World.png",
+      "size": 666551,
+      "status": "ready"
+    },
+    {
+      "id": "00630c3a-eee7-40a9-ab6f-e6975b09c332",
+      "name": "S04_B_What_Lies_Behind_Steel.png",
+      "size": 583595,
+      "status": "ready"
+    },
+    {
+      "id": "c12e087f-dac0-4fc4-8ac5-0f20dc7c2a73",
+      "name": "S04_C_The_Hidden_Channel.png",
+      "size": 690779,
+      "status": "ready"
+    },
+    {
+      "id": "c3efab0e-9915-42a6-ab77-4042d4879abf",
+      "name": "S04_D_The_Damage_Within.png",
+      "size": 533945,
+      "status": "ready"
+    },
+    {
+      "id": "1e1919a2-9d62-4489-aa10-131cd291ba6a",
+      "name": "Section_05_Cinematic_Overview.png",
+      "size": 2025716,
+      "status": "ready"
+    },
+    {
+      "id": "1ac3d70c-091e-40f5-a3c1-b99db2aad4bd",
+      "name": "S05_A_The_Flow_Accelerates.png",
+      "size": 2651425,
+      "status": "ready"
+    },
+    {
+      "id": "f322ab29-732d-4394-8ae6-5dabb4805d06",
+      "name": "S05_B_Engineered_Turbulence.png",
+      "size": 3018819,
+      "status": "ready"
+    },
+    {
+      "id": "926d4ee3-2c20-4568-ba3f-c51b65408b91",
+      "name": "S05_C_The_Flow_Finds_Its_Path.png",
+      "size": 2830963,
+      "status": "ready"
+    },
+    {
+      "id": "dc7303d4-463c-4917-a473-888192583d52",
+      "name": "Section_06_Cinematic_Overview.png",
+      "size": 2749678,
+      "status": "ready"
+    },
+    {
+      "id": "24e6a66d-4343-4077-9894-7a89934c97e4",
+      "name": "S06_A_The_Invisible_Takes_Shape.png",
+      "size": 2701640,
+      "status": "ready"
+    },
+    {
+      "id": "e1588085-18b6-452c-877f-be4aef11b492",
+      "name": "S06_B_Unfolding_The_Underground.png",
+      "size": 2921062,
+      "status": "ready"
+    },
+    {
+      "id": "b5792dc4-196b-473c-8c26-a71b3b84fa5c",
+      "name": "S06_C_Real_Engineering_Evidence.png",
+      "size": 1747598,
+      "status": "ready"
+    },
+    {
+      "id": "d41eb97e-2833-425b-9ac0-2f5a4ab5ce6c",
+      "name": "Section_07_Cinematic_Overview.png",
+      "size": 983218,
+      "status": "ready"
+    },
+    {
+      "id": "e60bdb8a-3745-44f5-8ef2-33fb9056c0a4",
+      "name": "S07_A_From_Insight_To_Product.png",
+      "size": 990270,
+      "status": "ready"
+    },
+    {
+      "id": "4f980076-c547-48e0-8ed3-e98e7be4a23f",
+      "name": "S07_B_Product_Hero_And_Capability_Recall.png",
+      "size": 755672,
+      "status": "ready"
+    },
+    {
+      "id": "4727f881-f215-412a-b9a0-ac66c75e1175",
+      "name": "S07_C_Icon_Only_Brand_Closing.png",
+      "size": 272580,
+      "status": "ready"
+    },
+    {
+      "id": "9c8ddae7-bd1e-4a05-bd24-bb72a0217f8d",
+      "name": "S07_C_Official_Logo_Brand_Closing.png",
+      "size": 260995,
+      "status": "ready"
+    },
+    {
+      "id": "b1da6d29-a7df-4308-ac28-a4a79e402845",
+      "name": "MIT_Official_Logo_Supplied_Unaltered.png",
+      "size": 25416,
+      "status": "ready"
+    }
+  ],
+  "verified": {
+    "contentMatches": 30,
+    "shots": 22,
+    "durationSeconds": 90,
+    "attachments": 30,
+    "failures": []
+  },
+  "visibility": "Private working board; no review link or publication created."
+}
