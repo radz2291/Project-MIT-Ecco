@@ -1,0 +1,38 @@
+{
+  "captured_date": "2026-10-17",
+  "workspace_revision": 534,
+  "task": {
+    "id": "d73a0020-fdf0-4036-a572-43e55eb309f0",
+    "number": 31,
+    "title": "B1.5-A — Develop 90s cinematic shot architecture",
+    "status_at_capture": "progress",
+    "reviewer": "Radzi",
+    "requirements": [
+      {
+        "id": "8de9e73e-1749-4600-888b-65945d82b035",
+        "revision": 1
+      }
+    ]
+  },
+  "dependencies": [
+    {
+      "id": "1ff92ebd-4585-4d64-b638-5b127d6c8314",
+      "number": 3,
+      "status": "done"
+    },
+    {
+      "id": "911d2198-d82e-450b-a4f5-a1f6dfb517d9",
+      "number": 5,
+      "status": "done"
+    },
+    {
+      "id": "0d01c109-a994-461b-b4c1-2fd3661f6fac",
+      "number": 6,
+      "status": "done"
+    }
+  ],
+  "worker": "codex-t31-ai-director",
+  "run_id": "8f6a420e-d1b7-4f5b-8dde-095c9704eb72",
+  "authority": "Direct owner T31 instruction; owner override revision 1; B2 paused; proposal review only.",
+  "note": "Sanitized shareable task/dependency evidence. Full live-input snapshot stays ignored locally under repository policy. Work owns current states."
+}

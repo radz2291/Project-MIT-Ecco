@@ -1,0 +1,246 @@
+{
+  "source_base_commit": "8d3ef594ac629c21adc255ebe8ad7a3cb1b10a99",
+  "limitations": [
+    "No Windows native .blend/video inspection",
+    "No actual confidential field-log pixels reused",
+    "No independent acoustic/CFD validation",
+    "No live Padlet sync verified"
+  ],
+  "inputs": [
+    {
+      "path": "01-Brief/Chat/chat.md",
+      "sha256": "440c060ca5627d61088a8bd4fdb6f7d0e4cace8960c47944984c1a5138d372fb",
+      "git_blob": "4071c0708e707c46a1fe18c7840de5a7d8711a42"
+    },
+    {
+      "path": "03-Context/00_Skill/AI Director \u2014 Creative Direction & Production Workflow.txt",
+      "sha256": "402c28a77f946356dabf8693971d3fd847d9c761830c4d70c4fb1c6de945d2c8",
+      "git_blob": "21564b8f491efa96f2f1cfd5f197381ea5d1f941"
+    },
+    {
+      "path": "03-Context/00_Skill/rolladice-scene-director/SKILL.md",
+      "sha256": "c99a1ad71031e5479acfcc9f3204b763f5fec8194cda6737234db30b65a51fdb",
+      "git_blob": "743a61e5bdd239d756b5053f3c6a810b1770e383"
+    },
+    {
+      "path": "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "sha256": "68c1889b1715aabb2c1ebb239cf257060baf7b5f7bc14b414737a2ef2efd4cc7",
+      "git_blob": "970d52b69fb00d24630491d8fd85969b98e3c2db"
+    },
+    {
+      "path": "03-Context/01_Foundation/03-MIT_PRODUCTION_IDENTITY.md",
+      "sha256": "6bae11147f96515fc44b7b7fcf05caa6b328b5472376d317210c80ae81b30c5b",
+      "git_blob": "f3a9e45f29ca3d03cb546955f519e546633dca36"
+    },
+    {
+      "path": "03-Context/01_Foundation/04-STORYBOARD_AND_SHOT_PLAN.md",
+      "sha256": "3e8fd4ac2c1483550e44660497318b2de535b6d265763199be9f1d407f909534",
+      "git_blob": "4fab7fe2a34550c0ffeb77971d6a71168ba3414b"
+    },
+    {
+      "path": "03-Context/01_Foundation/05-PRODUCTION_WORKFLOW.md",
+      "sha256": "8d8c22453da55d1c73a551ff8dff4b19967df5a048350c496d123f34e663ca3d",
+      "git_blob": "d1c0e550c26e7b2d9ba3ae4b78894afe09ae9c84"
+    },
+    {
+      "path": "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "sha256": "4869c35515035b646c413ef4da91f6631c375d69950fde3e4a9ddfd7df3500ad",
+      "git_blob": "42dfa705b0980e6d553857103e1e9a558d1609cd"
+    },
+    {
+      "path": "03-Context/02_Storyboard/README.md",
+      "sha256": "9a94745fca26f5e05c723e0b7f7b54dc3552cff73261de710005f633063c35cd",
+      "git_blob": "5f6f267dc1b17eecb41a8e66006afefc35eb262d"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_01_Enter_Unseen_World_Padlet/PADLET_CAPTIONS.txt",
+      "sha256": "683f82f09fc8a633e793520a79da26d896e6582ec11ed7a353daae203d7e10e1",
+      "git_blob": "691dd6adc8b817641224c77aa542afc124c1d1a5"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/CLIENT_FEEDBACK_REGISTER.md",
+      "sha256": "9084b52527ab79306f812fa81c679706706ac15a417261f1ae16f0334c3f65db",
+      "git_blob": "9e61b009c863386c309934a1c711506930cba649"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/PADLET_SECTION_02_V2.md",
+      "sha256": "dea5afcc6b2b4491fb0ea93deab1641feece45bd90edf323db2e655a4838ff71",
+      "git_blob": "606b892d7eb0b8cf6ae09b79c19ec12c1a99e97b"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/03_Borehole_Geometry_Through_Depth_Revised_CAPTION.txt",
+      "sha256": "d46d5d080938653dc6d0b04893da3c6e6cc3609f009da403b22eb556b561a195",
+      "git_blob": "51e81cbe8b399296d86223e861dd54edce69f6fe"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/CLIENT_FEEDBACK_REGISTER.md",
+      "sha256": "5cbfea34aa8388f462cfe049a891e89c0838204f11d8558ac6953e675f1c4a14",
+      "git_blob": "b7eb83ae81bdb54169d1732c819792b3139d8e9f"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/PADLET_SECTION_03_V2.md",
+      "sha256": "50404ef41be1f9276324b3d49708c92374eff04b972b4ff82583f3e7ae838b32",
+      "git_blob": "bd66d3e56c969f9baf3089146b8190fe1fa61808"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/CLIENT_FEEDBACK_REGISTER.md",
+      "sha256": "1d76ca7a54b44c1eb0ab9a784ebc177066dbc6c6bfbecce6b248e2e130dbd5a1",
+      "git_blob": "fe1d6c1f6e4227f9f4d8ff8e72da26e22637f419"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/MASTER_CLIENT_FEEDBACK_REGISTER.md",
+      "sha256": "f650bbafeddca6a03df402353e8457ec55bf74b309f57664979a9fef9b4ab971",
+      "git_blob": "f3a43cdfdac655881782d8163a2a9e5a95a55c15"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/PADLET_SECTION_04_V2.md",
+      "sha256": "ad5aabcd7b5b7d5513409cc0a9dfa93900e20fe761b7b145c9d5cef8b347e497",
+      "git_blob": "a54dc5f0a14a12efe75f499753bad6d7bb5fca6d"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/PADLET_CAPTIONS.txt",
+      "sha256": "a3e1e781d6e62cb4493df317fffd712e3867e4716f07d3df6aa9b34cb1ab6f2c",
+      "git_blob": "7bc76f3b7e484f6dc0a74c057080b973f993e5d5"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/CLIENT_FEEDBACK_REGISTER.md",
+      "sha256": "38b4d54bca1e673459a862f527ee407e3ffe9f87363ce8abbcd360e42a877613",
+      "git_blob": "ab165141c0bfeb7e9e0128ab47540cda7c2a31f2"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/PADLET_SECTION_06_V2.md",
+      "sha256": "5c93a1bbb43a82fda29b3fe35f3fa00b442bbd9f861a6d8218ab3dd86ed563e8",
+      "git_blob": "6598a030de43ef7d2d96cb3cc8979b916c653ca1"
+    },
+    {
+      "path": "03-Context/02_Storyboard/V2/ECCO_Section_07_Product_Hero_Padlet/PADLET_CAPTIONS.txt",
+      "sha256": "242b0cba713bf9b627416e8651ab20eb1e81eabbecf92cdce630e8e480a94a8c",
+      "git_blob": "04ab93f55d49612b6a29ec85eeb3ee89c65434a4"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/01-ROLLADICE_CREATIVE_PERSONALITY_v0.1.md",
+      "sha256": "6af96b0b3227619f2f59bad5706833024857528e42aabe73b22e5dbc1661ac87",
+      "git_blob": "3f724440d09b6df9063b496be318cb42d74178bb"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/02-TASTE_EVIDENCE_REGISTER.md",
+      "sha256": "3d1baca2a6325666fb219ef1bcfff7d13ee4f35ba66add541cde4c4a5fb153db",
+      "git_blob": "6fd9c204a1c76f986d7cc1b4f6a635509e57a6b4"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/04-VISUAL_DECISION_CASEBOOK_v0.2.md",
+      "sha256": "ca7d32041b3339cc2b0c1db1394a07942fc82744d3d5dfba084743d8432aa70d",
+      "git_blob": "1c984b3b7b06ffb4d8d730e18485d0d9b8fa364b"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/05-CAMERA_AND_MOTION_LANGUAGE_v0.2.md",
+      "sha256": "e9aa75173ee951fa619be8017492df161b8bb8596b199f41a534746bf61a56da",
+      "git_blob": "1be7dbe3212c1f029e1dae32aca4efae566a9539"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/06-LOOK_LIGHTING_AND_MATERIAL_DIRECTION_v0.2.md",
+      "sha256": "602891e628d3615ef2ba21ae9f21b1d98f6aadbf4d1a551a2cbb10db7346ee07",
+      "git_blob": "4fe150cf5522cbab8e9ae4b7ad756285aeb0360f"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md",
+      "sha256": "561e30adc1856c5f7f6e1f5fdade2048f96e018a228cb7a70e74ef7f6468d026",
+      "git_blob": "4038bcd2242198764aa56c0288c1b194a2d649b7"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/08-TYPOGRAPHY_AND_GRAPHIC_INTEGRATION_v0.3.md",
+      "sha256": "a5c2bba493b702f5b114498c350e0b9e948127f6bcb99921c7fe3ee664293c51",
+      "git_blob": "d3d534d459a0af20c5d29f496363bbd5e0e3c5da"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md",
+      "sha256": "fc723fa9bcb41e56df130b1f6d6f00c792a11dd2dbdc1ca4026edb35c59e8b36",
+      "git_blob": "dc449621c04313707c7acb104af10fa5bece1526"
+    },
+    {
+      "path": "03-Context/03_Directorial_Identity/README.md",
+      "sha256": "a4e0208e8fcd34bc72889209cebe5df3687f32c25e4455ace6d79e4b991e9067",
+      "git_blob": "96d5e407abbd4785652bacd20a8db02482ff6e64"
+    },
+    {
+      "path": "03-Context/README.md",
+      "sha256": "e3983991ee41cc4b04a55715abf990ab9a77bc6a4ea434e6019efcb16bfffcbe",
+      "git_blob": "e28dfc7b79fbe14ef1b1ec595e34901f6ec71cbe"
+    },
+    {
+      "path": "04-Production/Mechanisms/B201/README_v006.md",
+      "sha256": "4da67587576ec037f3c5901e0af220c63c4ecb920a376cfa935101ca76f94c48",
+      "git_blob": "120d5e5cb9593cb76e669083839d83d1b6d61086"
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/B202_acquisition_model_v009.md",
+      "sha256": "7c147499670f19ea58c10f06f0818a7e175b04657ed11f467ec404dfb61359ec",
+      "git_blob": "7ebd7920443ab19b827e0c71b0fa3e063ff23bf8"
+    },
+    {
+      "path": "04-Production/README.md",
+      "sha256": "dd6a710bb27ff1c0930d28ae43ac48fd8085fe199cce5176b6cf97b3bc3d864c",
+      "git_blob": "18c433d16e94bf1197da6d494f56a65cf57cede5"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-003/report.md",
+      "sha256": "de2314f482852ee84928637e32880641fa3b62e14ea88940d433aa867bf4482a",
+      "git_blob": "879d78b91001fba9eadb8b77d0709464c39c9e57"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-005/report.md",
+      "sha256": "516b276ac964d520c928d6bd825b1825f037fa6d3f0663c9e2091be271f098ef",
+      "git_blob": "9fe255a4cf2f603b3f4d2cee158dd4c229b933f3"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-006/report_v003.md",
+      "sha256": "0fbb6032ea5fdee0275cf9c29008f7d6df572ad0c79082cc7f3827c1d0833bb9",
+      "git_blob": "07db4a9fd10e5a64a231b80aa047c2a584436c85"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-007/report_motion_v006.md",
+      "sha256": "77eeec3fff53f2a2229578ad757f0a55bee3b25bb66d90814b3aa7a05f2f2297",
+      "git_blob": "60f5ce58807a5151de98c65547b36c128428e8ef"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-008/T27_mechanism_handover_v009.md",
+      "sha256": "8019e7ff0874d94a69b33b6a1b77db690c3ecb1900d778278ead1d27d82bb4cc",
+      "git_blob": "ee5aea42dfd5c229f1eba78f0896a2c23117a903"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-009/report.md",
+      "sha256": "9d30edc20a2b5b942f4baceb71bb19d6de0dad6e2a9dd57c131499cf57d8bc28",
+      "git_blob": "4a2a8474c89235b07cb5eb0da1a3877f8a775af5"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-010/report.md",
+      "sha256": "8d6ee7f0fcaa642d70bf3c7d3ec0864fea8d0cfee41a3d04b42667c3a66efcc9",
+      "git_blob": "5ad37a689fb451d0e467cce368bffaf3af9e0ce3"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-027/report.md",
+      "sha256": "bebb215753a38eabd81fac59ee0694625883c685abdba16dcf33eebf8c561099",
+      "git_blob": "d10a7af3fdc956dd8b4e413b00ce3e2d7beb186f"
+    },
+    {
+      "path": "04-Production/Records/preview-settings_v001.md",
+      "sha256": "3b4752e4932b782c8572f4d288265085c831964068483d23cd5521647dfb0df4",
+      "git_blob": "ad8b5ae82a20510c08b7866dc425956e05e11d66"
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/README_v002.md",
+      "sha256": "2a10d7e54eb870c1d691f9b103fc8f27a32c349f87d6271d9e8ad0a8206e2a87",
+      "git_blob": "3fe3d363e9d75517d06cafd5841826718048c0af"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/README_v003.md",
+      "sha256": "25a183f51ba5d2475493d672ff6de24f3464fb73c4849565c51429a21da1de4f",
+      "git_blob": "8e90dde6cf47523bdb7b86d3572ac4eb3aaf49fb"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "690cee5fdcfb51eb7214eb08b715c5baaefb27afc099d945965d85c1fad006ea",
+      "git_blob": "c48817efe320687ccc12e3650f1bb1f6d8a06144"
+    }
+  ]
+}

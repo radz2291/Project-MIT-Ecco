@@ -1,0 +1,97 @@
+{
+  "status": "PASS",
+  "shot_count": 17,
+  "duration_seconds": 90,
+  "frames_at_provisional_24fps": 2160,
+  "section_budgets_seconds": {
+    "S01": 10,
+    "S02": 12,
+    "S03": 18,
+    "S04": 18,
+    "S05": 12,
+    "S06": 12,
+    "S07": 8
+  },
+  "contracts_with_11_schema_fields": 17,
+  "resolved_local_markdown_links": 182,
+  "unchanged_fingerprinted_inputs": 47,
+  "outputs": [
+    {
+      "path": "04-Production/Shots/S01/S01-01/direction.md",
+      "sha256": "2848648233b42ba5b3b1ca599d2a8baa3bc634fe6b04e38de81cbb3282dd3622"
+    },
+    {
+      "path": "04-Production/Shots/S01/S01-02/direction.md",
+      "sha256": "fbf953df27c4480899dbccb37cd43f6fcef38e619954350b12b08a8dcc04b80c"
+    },
+    {
+      "path": "04-Production/Shots/S02/S02-01/direction.md",
+      "sha256": "e13b54c7c3431a385eff89599218e4e707141f7fa6de64f0a4887b8e2b363d54"
+    },
+    {
+      "path": "04-Production/Shots/S02/S02-02/direction.md",
+      "sha256": "be6b241d594fe95190cfabdddf2e012c9af286253bf186cd14838c72a5bf7b12"
+    },
+    {
+      "path": "04-Production/Shots/S02/S02-03/direction.md",
+      "sha256": "5a8ee5edfe7a9f78bcb842cfd05e33070d871015ff3cd80f1bb6ccea28e662e2"
+    },
+    {
+      "path": "04-Production/Shots/S03/S03-01/direction.md",
+      "sha256": "62d501850a89149f89c51db48f583c86ead3137e24917532508c765336c88f5b"
+    },
+    {
+      "path": "04-Production/Shots/S03/S03-02/direction.md",
+      "sha256": "49690d3a1fdec7385ca8e1bab5cf05a841bd43af720022d42202ef650772db61"
+    },
+    {
+      "path": "04-Production/Shots/S03/S03-03/direction.md",
+      "sha256": "d4e94ad0d4a85b1d8e044013823844066ca6255f038e23f7acf822ca154e0ab1"
+    },
+    {
+      "path": "04-Production/Shots/S04/S04-01/direction.md",
+      "sha256": "686b57a7ed0aa19a918e9ae13daf8947ccb8861bb91e74df109cff5975a7183a"
+    },
+    {
+      "path": "04-Production/Shots/S04/S04-02/direction.md",
+      "sha256": "3d928577f0fcf2983f1c7ac5263a029715df8d8026f67705390afeae9db70b6e"
+    },
+    {
+      "path": "04-Production/Shots/S04/S04-03/direction.md",
+      "sha256": "c6952a7c0202efaf9bdc89cb4e8d847355fd1811d7cbc63f580f01fa6dd4f8cd"
+    },
+    {
+      "path": "04-Production/Shots/S05/S05-01/direction.md",
+      "sha256": "c131f67d328e64d2173e5a4a7d37dd6b5e3622d99eb28b5c87f880b529cfffda"
+    },
+    {
+      "path": "04-Production/Shots/S05/S05-02/direction.md",
+      "sha256": "432fa53c843b68289102e19366dc32b75c71cb29925487e7fabb5c9c85970905"
+    },
+    {
+      "path": "04-Production/Shots/S06/S06-01/direction.md",
+      "sha256": "599e106b8d9d9cea1a3ccd35814f1f945e380ee0eaa7cca41ef82a582e250b08"
+    },
+    {
+      "path": "04-Production/Shots/S06/S06-02/direction.md",
+      "sha256": "c576bf12e3a4b409af35b6c24fc13689fa6dbf51384d0f5cb79739fb97835cc5"
+    },
+    {
+      "path": "04-Production/Shots/S06/S06-03/direction.md",
+      "sha256": "061691711dd5760dbfce0c61ee4db26276a03366d6c0002081022c513b620ede"
+    },
+    {
+      "path": "04-Production/Shots/S07/S07-01/direction.md",
+      "sha256": "8d9e633e1a6440cd18957a5d7a4407e9e79fded9b30148d8da06e61c2b9a1da5"
+    },
+    {
+      "path": "04-Production/Direction/B3/film-direction-map_v001.md",
+      "sha256": "074fa442d628e7662415be57201b2b903e925b2f4fa2be515ff6f1140df401c3"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-031/report.md",
+      "sha256": "1f01598ba350dba419bd270998eebbcde9f1b08363f1c6ca2d8405380f686e0c"
+    }
+  ],
+  "limits": "Text/arithmetic/source-integrity self-check only; no rendered, moving, audience or engineering validation."
+}

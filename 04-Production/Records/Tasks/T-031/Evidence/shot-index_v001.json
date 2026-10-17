@@ -1,0 +1,273 @@
+[
+  {
+    "shot_id": "S01-01",
+    "section": "S01",
+    "start_s": 0,
+    "end_s": 4,
+    "duration_s": 4,
+    "contract": "04-Production/Shots/S01/S01-01/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_01_Enter_Unseen_World_Padlet/PADLET_CAPTIONS.txt",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Shared/Assets/ECCO/README_v002.md",
+      "04-Production/Shared/Assets/WellAssembly/README_v003.md"
+    ]
+  },
+  {
+    "shot_id": "S01-02",
+    "section": "S01",
+    "start_s": 4,
+    "end_s": 10,
+    "duration_s": 6,
+    "contract": "04-Production/Shots/S01/S01-02/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_01_Enter_Unseen_World_Padlet/PADLET_CAPTIONS.txt",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Shared/Assets/ECCO/README_v002.md",
+      "04-Production/Shared/Assets/WellAssembly/README_v003.md"
+    ]
+  },
+  {
+    "shot_id": "S02-01",
+    "section": "S02",
+    "start_s": 10,
+    "end_s": 14,
+    "duration_s": 4,
+    "contract": "04-Production/Shots/S02/S02-01/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/PADLET_SECTION_02_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Mechanisms/B201/README_v006.md",
+      "04-Production/Mechanisms/B202/B202_acquisition_model_v009.md",
+      "04-Production/Records/Tasks/T-008/T27_mechanism_handover_v009.md"
+    ]
+  },
+  {
+    "shot_id": "S02-02",
+    "section": "S02",
+    "start_s": 14,
+    "end_s": 19,
+    "duration_s": 5,
+    "contract": "04-Production/Shots/S02/S02-02/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/PADLET_SECTION_02_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Mechanisms/B201/README_v006.md",
+      "04-Production/Mechanisms/B202/B202_acquisition_model_v009.md",
+      "04-Production/Records/Tasks/T-008/T27_mechanism_handover_v009.md"
+    ]
+  },
+  {
+    "shot_id": "S02-03",
+    "section": "S02",
+    "start_s": 19,
+    "end_s": 22,
+    "duration_s": 3,
+    "contract": "04-Production/Shots/S02/S02-03/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_02_Reveal_The_Principle_Padlet_v2/PADLET_SECTION_02_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Mechanisms/B201/README_v006.md",
+      "04-Production/Mechanisms/B202/B202_acquisition_model_v009.md",
+      "04-Production/Records/Tasks/T-008/T27_mechanism_handover_v009.md"
+    ]
+  },
+  {
+    "shot_id": "S03-01",
+    "section": "S03",
+    "start_s": 22,
+    "end_s": 29,
+    "duration_s": 7,
+    "contract": "04-Production/Shots/S03/S03-01/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/PADLET_SECTION_03_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Mechanisms/B202/B202_acquisition_model_v009.md",
+      "04-Production/Records/Tasks/T-027/report.md",
+      "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/03_Borehole_Geometry_Through_Depth_Revised_CAPTION.txt"
+    ]
+  },
+  {
+    "shot_id": "S03-02",
+    "section": "S03",
+    "start_s": 29,
+    "end_s": 33,
+    "duration_s": 4,
+    "contract": "04-Production/Shots/S03/S03-02/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/PADLET_SECTION_03_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Mechanisms/B202/B202_acquisition_model_v009.md",
+      "04-Production/Records/Tasks/T-027/report.md",
+      "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/03_Borehole_Geometry_Through_Depth_Revised_CAPTION.txt"
+    ]
+  },
+  {
+    "shot_id": "S03-03",
+    "section": "S03",
+    "start_s": 33,
+    "end_s": 40,
+    "duration_s": 7,
+    "contract": "04-Production/Shots/S03/S03-03/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/PADLET_SECTION_03_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Mechanisms/B202/B202_acquisition_model_v009.md",
+      "04-Production/Records/Tasks/T-027/report.md",
+      "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/03_Borehole_Geometry_Through_Depth_Revised_CAPTION.txt"
+    ]
+  },
+  {
+    "shot_id": "S04-01",
+    "section": "S04",
+    "start_s": 40,
+    "end_s": 43,
+    "duration_s": 3,
+    "contract": "04-Production/Shots/S04/S04-01/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/PADLET_SECTION_04_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Shared/Assets/WellAssembly/README_v003.md",
+      "04-Production/Records/Tasks/T-009/report.md"
+    ]
+  },
+  {
+    "shot_id": "S04-02",
+    "section": "S04",
+    "start_s": 43,
+    "end_s": 54,
+    "duration_s": 11,
+    "contract": "04-Production/Shots/S04/S04-02/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/PADLET_SECTION_04_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Shared/Assets/WellAssembly/README_v003.md",
+      "04-Production/Records/Tasks/T-009/report.md"
+    ]
+  },
+  {
+    "shot_id": "S04-03",
+    "section": "S04",
+    "start_s": 54,
+    "end_s": 58,
+    "duration_s": 4,
+    "contract": "04-Production/Shots/S04/S04-03/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_04_Cased_Hole_Padlet_v2/PADLET_SECTION_04_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Shared/Assets/WellAssembly/README_v003.md",
+      "04-Production/Records/Tasks/T-009/report.md"
+    ]
+  },
+  {
+    "shot_id": "S05-01",
+    "section": "S05",
+    "start_s": 58,
+    "end_s": 62,
+    "duration_s": 4,
+    "contract": "04-Production/Shots/S05/S05-01/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/PADLET_CAPTIONS.txt",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "01-Brief/Chat/chat.md",
+      "04-Production/Records/Tasks/T-010/report.md"
+    ]
+  },
+  {
+    "shot_id": "S05-02",
+    "section": "S05",
+    "start_s": 62,
+    "end_s": 70,
+    "duration_s": 8,
+    "contract": "04-Production/Shots/S05/S05-02/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/PADLET_CAPTIONS.txt",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "01-Brief/Chat/chat.md",
+      "04-Production/Records/Tasks/T-010/report.md"
+    ]
+  },
+  {
+    "shot_id": "S06-01",
+    "section": "S06",
+    "start_s": 70,
+    "end_s": 74,
+    "duration_s": 4,
+    "contract": "04-Production/Shots/S06/S06-01/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/PADLET_SECTION_06_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md"
+    ]
+  },
+  {
+    "shot_id": "S06-02",
+    "section": "S06",
+    "start_s": 74,
+    "end_s": 80,
+    "duration_s": 6,
+    "contract": "04-Production/Shots/S06/S06-02/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/PADLET_SECTION_06_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md"
+    ]
+  },
+  {
+    "shot_id": "S06-03",
+    "section": "S06",
+    "start_s": 80,
+    "end_s": 82,
+    "duration_s": 2,
+    "contract": "04-Production/Shots/S06/S06-03/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_06_MiVU_Padlet_v2/PADLET_SECTION_06_V2.md",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md"
+    ]
+  },
+  {
+    "shot_id": "S07-01",
+    "section": "S07",
+    "start_s": 82,
+    "end_s": 90,
+    "duration_s": 8,
+    "contract": "04-Production/Shots/S07/S07-01/direction.md",
+    "status": "D0_proposal_not_approved",
+    "source_paths": [
+      "03-Context/02_Storyboard/V2/ECCO_Section_07_Product_Hero_Padlet/PADLET_CAPTIONS.txt",
+      "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+      "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+      "04-Production/Shared/Assets/ECCO/README_v002.md"
+    ]
+  }
+]
