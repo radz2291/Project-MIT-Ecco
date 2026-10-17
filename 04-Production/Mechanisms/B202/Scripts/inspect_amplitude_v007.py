@@ -1,0 +1,5 @@
+import bpy,json
+bpy.ops.wm.open_mainfile(filepath=r'C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Mechanisms/B202/Scenes/B202-M_motion-full_v006d.blend')
+m=bpy.data.materials['B202_v009_received_echo_strength'];print('AMPLITUDE_NODES',[(n.name,n.type,getattr(n,'attribute_name',None)) for n in m.node_tree.nodes]);print('AMPLITUDE_LINKS',[(l.from_node.name,l.from_socket.name,l.to_node.name,l.to_socket.name) for l in m.node_tree.links]);print('RAMPS',[(n.name,[(e.position,list(e.color)) for e in n.color_ramp.elements]) for n in m.node_tree.nodes if n.type=='VALTORGB'])
+
+s=bpy.context.scene;s.frame_set(624);bpy.context.view_layer.update();o=bpy.data.objects["B202_v009_irregular_layers_echo_strength"];m=o.data.materials[0];print("ATTR_TYPE",[(n.attribute_name,n.attribute_type) for n in m.node_tree.nodes if n.type=="ATTRIBUTE"]);print("ATTR_RANGE",[(a.name,min(x.value for x in a.data),max(x.value for x in a.data)) for a in o.data.attributes if a.name in ("echo_strength_display","echo_strength")]);print("MATERIAL",m.name,o.hide_render)

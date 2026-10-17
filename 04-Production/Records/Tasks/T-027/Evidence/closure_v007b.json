@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "report_local_links": 19,
+  "linked_paths": [
+    "04-Production/Records/Tasks/T-027/report_v006d.md",
+    "04-Production/Mechanisms/B202/Previews/MotionRevision_v007b/B202-M_motion-revision_v007b.mp4",
+    "04-Production/Mechanisms/B202/Scenes/B202-M_motion-revision_v007b.blend",
+    "04-Production/Mechanisms/B202/Previews/MotionRevision_v007b/review_v007b.html",
+    "04-Production/Mechanisms/B202/Previews/MotionRevision_v007b/B202-M_review-sheet_v007b.jpg",
+    "04-Production/Mechanisms/B202/Previews/MotionRevision_v007b/decoded_0384.jpg",
+    "04-Production/Mechanisms/B202/Previews/MotionRevision_v007b/decoded_0480.jpg",
+    "04-Production/Mechanisms/B202/Previews/MotionRevision_v007b/decoded_0552.jpg",
+    "04-Production/Mechanisms/B202/Previews/MotionRevision_v007b/decoded_0648.jpg",
+    "04-Production/Mechanisms/B202/B202-M_scene-direction_v001.md",
+    "04-Production/Records/Tasks/T-027/Evidence/source_diagnosis_v007.json",
+    "04-Production/Records/Tasks/T-027/Evidence/replay_manifest_v007b.json",
+    "04-Production/Records/Tasks/T-027/Evidence/verification_motion-revision_v007b.json",
+    "04-Production/Records/Tasks/T-027/Evidence/playback_qa_v007b.json",
+    "04-Production/Records/Tasks/T-027/Evidence/opening_reuse_v007b.json",
+    "04-Production/Records/Tasks/T-027/Evidence/closure_v007b.json",
+    "04-Production/Mechanisms/B202/Previews/MotionRevision_v007b/tight_detail_source_v007b.png",
+    "03-Context/01_Foundation/04-STORYBOARD_AND_SHOT_PLAN.md",
+    "03-Context/02_Storyboard/V2/ECCO_Section_03_Open_Hole_SVG_v2/PADLET_SECTION_03_V2.md"
+  ],
+  "output_hashes_verified": 6,
+  "inset_dependency_sha256": "999760cd4a1993275b352560f2436ea586373692940580447e04a36a8e3b54f8",
+  "accepted_opening_render_pixel_identical_frames": 336,
+  "saved_scene_checks": 10923,
+  "decoded_video_frames": 720,
+  "agent_visual_inspection": {
+    "exact_version": "v007b",
+    "key_frames": [
+      1,
+      7,
+      60,
+      168,
+      240,
+      336,
+      384,
+      480,
+      552,
+      601,
+      648,
+      684,
+      720
+    ],
+    "chronological_sheets": [
+      "chronological_01_v007b.jpg",
+      "chronological_02_v007b.jpg",
+      "chronological_03_v007b.jpg",
+      "chronological_04_v007b.jpg",
+      "chronological_05_v007b.jpg"
+    ],
+    "findings": "Opening preserved. Paired independent source profiles keep full tight-hole reference with5x source-camera inset and locator. Spiral contours/crest retain source positions; data guide is not new measurement. Bridge distinguishes properties. Full-circumference camera/fixed transfer makes original acoustic variation legible. All5chronological sheets and keyframes inspected. Human comprehension remains pending."
+  },
+  "human_comprehension": "Pending actual uninstructed non-specialist response; no outside viewer contacted.",
+  "MIT_technical_review": "Pending calibration/datum/processing/interpretation; source integrity checks only.",
+  "media_status": "Native/video/raw frames local ignored; not uploaded/backed up by Git.",
+  "publication_scope": "Explicit B202/T027 files only; unrelated B201/T007 excluded."
+}
