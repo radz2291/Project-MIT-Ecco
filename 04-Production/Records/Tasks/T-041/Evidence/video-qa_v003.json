@@ -1,0 +1,21 @@
+{
+  "video": "Shots\\S02\\PREVIS-T041\\Previews\\v003\\S02_previs_T041_v003.mp4",
+  "sha256": "e4e72cd0d68f1fdab242596c88de0860d1616efac356b8a7b10cb65e0a0b3231",
+  "decoded_frames": 288,
+  "fps": 24,
+  "size": [
+    640,
+    360
+  ],
+  "duration_seconds": 12.0,
+  "silent": true,
+  "distinct_decoded_frames": 282,
+  "min_pixel_std": 31.88206836491036,
+  "max_mean_pixel_step": 12.226734664351852,
+  "static_hold_frames": 22,
+  "verification_kind": "executor decode and sampled-motion review; no independent cold-viewer result",
+  "ffmpeg": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Mechanisms\\B201\\Cache\\python\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+  "max_source_to_decode_mean_error": 1.1915335648148149,
+  "mean_source_to_decode_error": 1.1009909999517749,
+  "container_metadata_verified": true
+}

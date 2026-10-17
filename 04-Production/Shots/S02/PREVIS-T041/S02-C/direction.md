@@ -1,0 +1,7 @@
+# S02-C — Hidden circumference / experimental v001
+
+Contract: Scene Direction Contract v0.2, common fields in ../direction.md. Stage: authorized previs test.
+
+Frames 169–288, film 0:17–0:22. Purpose: repeated directional readings reveal the surrounding cross-section. Pull back and rise into an oblique along-axis view; suppress the analytic layer, preserve wall points. Full-body 120-degree sweep with all three source references gives three 120-degree sectors. Dots/short arcs appear only after each synthetic round trip, remain fixed to the T6 wall, then form one irregular ring. No instantaneous full volume or optical scan head. Retain source wall geometry/scale. Final recognition hold before S03 nominal-size comparison.
+
+Copy proposal: “Repeated echoes reveal the surrounding shape”, “Wall-fixed outline / x-ray data overlay”. The v003 graphic is visible through hardware while retaining exact world-space wall coordinates; it is not a transparent physical tool. Reproducible geometry from exact T6 evaluated wall; sampling schedule is a sparse illustrative subset, not the instrument's 108-bin acquisition algorithm. +X surface-to-bottom viewpoint is a declared experimental convention because mesh shoulder/end identity remains unverified; no certified downhole rotation orientation. Expert review must check that interpretation before production. Actual camera/event data saved in task evidence. Assess full ring readability and absence of wall-point co-rotation; human comprehension and MIT technical acceptance pending.

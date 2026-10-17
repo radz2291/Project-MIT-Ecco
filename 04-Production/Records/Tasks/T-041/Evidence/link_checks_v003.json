@@ -1,0 +1,72 @@
+[
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "../../../Shots/S02/PREVIS-T041/Previews/v003/review_v003.html",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "../../../Shots/S02/PREVIS-T041/Previews/v003/S02_previs_T041_v003.mp4",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "../../../Shots/S02/PREVIS-T041/Previews/v003/S02_review-sheet_v003.jpg",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "../../../Shots/S02/PREVIS-T041/Scenes/S02_previs_T041_v003.blend",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "../../../Shots/S02/PREVIS-T041/Scripts/build_previs_v003.py",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "../../../Shots/S02/PREVIS-T041/Scripts/render_previs_v003.py",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "../../../Shots/S02/PREVIS-T041/Scripts/verify_previs_v003.py",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "../../../Shots/S02/PREVIS-T041/Scripts/package_previs_v003.py",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "../../../Shots/S02/PREVIS-T041/direction.md",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "asset-register_v003.md",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "Evidence/build_v003.json",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "Evidence/verification_v003.json",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "Evidence/video-qa_v003.json",
+    "exists": true
+  },
+  {
+    "from": "04-Production\\Records\\Tasks\\T-041\\report.md",
+    "target": "Evidence/artifacts_v003.json",
+    "exists": true
+  }
+]

@@ -1,0 +1,120 @@
+{
+  "candidate": "T41 experimental v003",
+  "local_root": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco",
+  "artifacts": [
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Scenes/S02_previs_T041_v003.blend",
+      "bytes": 5361907,
+      "sha256": "69cd1d24417fa22b608e9c8ba60f498cd4d3701b2522636bd120250f2e4bee47",
+      "local_only_ignored": true
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_previs_T041_v003.mp4",
+      "bytes": 422901,
+      "sha256": "e4e72cd0d68f1fdab242596c88de0860d1616efac356b8a7b10cb65e0a0b3231",
+      "local_only_ignored": true
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/review_v003.html",
+      "bytes": 1215,
+      "sha256": "f9cc399f6a0d38f614699a17ec06b7979a982a71d5662c593c3a75210e784f5e",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_contact_v003.png",
+      "bytes": 139677,
+      "sha256": "021c123d87334d83f056de029f82b3fbf6e28b7267cf80f1f5a1287374b8091d",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_entry_v003.png",
+      "bytes": 136118,
+      "sha256": "8aec134612c9c753b5373bdbd2e867b1ad1f20cc20b98f8d9b693508eebbaa78",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_exit_v003.png",
+      "bytes": 156173,
+      "sha256": "ce5c6c663ece0dff6deb3a97c6724e1f680f9425a6a2f794fa9c3ddd95dc6f66",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_reception_v003.png",
+      "bytes": 138965,
+      "sha256": "621e30a63ffc6c7013281eadbc312b3adb44ba2959661cb3edf86810f2e055b1",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_ring_v003.png",
+      "bytes": 156057,
+      "sha256": "4c0701e6eeabd0f7acd9c68ff2a98c04b7e6a565e4de4d1805267e17c7dbaae8",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_waveform_v003.png",
+      "bytes": 144850,
+      "sha256": "f9a6e709d7de9236ec1478d7f8efbeea63402c996ec7306bf9ee3ffd5d0e1525",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_motion-review_01_v003.jpg",
+      "bytes": 67229,
+      "sha256": "5c0cfe40949a23aff50463e401ce615ca8697e05ac242749585bc5948386aeac",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_motion-review_02_v003.jpg",
+      "bytes": 70841,
+      "sha256": "ee6669de955f1eb0694e3e90ff1924d1bdbc4eae4a7ced7aa4c69ce8fd543e79",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_motion-review_03_v003.jpg",
+      "bytes": 71371,
+      "sha256": "37f556d6355bdab2cffdc1d26e126ddca3e997fcc1ca5d169dd87224ff61bfb3",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_motion-review_04_v003.jpg",
+      "bytes": 67119,
+      "sha256": "0027fc66a02fa5e732dbbb62d900013d88c259ab35f6f87a551825404a44a173",
+      "local_only_ignored": false
+    },
+    {
+      "path": "04-Production/Shots/S02/PREVIS-T041/Previews/v003/S02_review-sheet_v003.jpg",
+      "bytes": 70305,
+      "sha256": "9e9f0f17605a338a55ef011d3b35d10b455d9e9157632c34d213ee16e8fc582a",
+      "local_only_ignored": false
+    }
+  ],
+  "native_hash_matches_verification": true,
+  "raw_frames": 288,
+  "render_seconds": {
+    "mean": 0.5652569444444444,
+    "max": 1.729,
+    "total": 162.794
+  },
+  "checks": {
+    "range_fps_aspect": true,
+    "relative_libraries_resolve": true,
+    "source_hashes_unchanged": true,
+    "one_sensor_plane": true,
+    "sensor_spacing_120deg": true,
+    "all_round_trips_ordered": true,
+    "pulse_contact_same_sensor_endpoints": true,
+    "records_only_after_reception": true,
+    "wall_records_world_fixed": true,
+    "three_sector_120degree_scan": true,
+    "continuous_camera_no_position_jumps": true,
+    "static_final_recognition_hold": true,
+    "complete_ring_inside_frame": true,
+    "native_camera_gaze_editable": true,
+    "no_external_python_handlers": true
+  },
+  "human_comprehension": "pending",
+  "engineering_review": "pending",
+  "preserved_attempts": [
+    "v001",
+    "v002"
+  ]
+}
