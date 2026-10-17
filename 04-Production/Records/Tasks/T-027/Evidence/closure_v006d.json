@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "report_local_links": 16,
+  "linked_paths": [
+    "04-Production/Records/Tasks/T-027/report_v005b.md",
+    "04-Production/Records/Tasks/T-027/report_v004e.md",
+    "04-Production/Records/Tasks/T-027/report_v003.md",
+    "04-Production/Mechanisms/B202/Previews/MotionFull_v006d/B202-M_motion-full_v006d.mp4",
+    "04-Production/Mechanisms/B202/Previews/MotionFull_v006d/review_v006d.html",
+    "04-Production/Mechanisms/B202/Scenes/B202-M_motion-full_v006d.blend",
+    "04-Production/Mechanisms/B202/Previews/MotionFull_v006d/B202-M_review-sheet_v006d.jpg",
+    "04-Production/Mechanisms/B202/Previews/MotionFull_v006d/decoded_0384.jpg",
+    "04-Production/Mechanisms/B202/Previews/MotionFull_v006d/decoded_0528.jpg",
+    "04-Production/Mechanisms/B202/Previews/MotionFull_v006d/decoded_0624.jpg",
+    "04-Production/Mechanisms/B202/B202-M_scene-direction_v001.md",
+    "04-Production/Records/Tasks/T-027/Evidence/replay_manifest_v006d.json",
+    "04-Production/Records/Tasks/T-027/Evidence/verification_motion-full_v006d.json",
+    "04-Production/Records/Tasks/T-027/Evidence/playback_qa_v006d.json",
+    "04-Production/Records/Tasks/T-027/Evidence/render_provenance_v006d.json",
+    "04-Production/Records/Tasks/T-027/Evidence/closure_v006d.json"
+  ],
+  "output_hashes_verified": 6,
+  "accepted_opening_render_pixel_identical_frames": 336,
+  "saved_scene_checks": 7317,
+  "decoded_video_frames": 720,
+  "agent_visual_inspection": {
+    "exact_version": "v006d",
+    "key_frames": [
+      1,
+      7,
+      60,
+      168,
+      240,
+      336,
+      384,
+      456,
+      528,
+      540,
+      553,
+      624,
+      720
+    ],
+    "chronological_sheets": [
+      "chronological_01_v006d.jpg",
+      "chronological_02_v006d.jpg",
+      "chronological_03_v006d.jpg",
+      "chronological_04_v006d.jpg",
+      "chronological_05_v006d.jpg"
+    ],
+    "findings": "Expected/actual opening preserved pixel-for-pixel. Explicit cuts separate completed examples. Tight camera approach exposes true small deficit. Labels fit. Fixed-range warm variation remains subtle and unexaggerated. No blank/corrupt frames. Sampled chronological inspection, not independent cold-viewer evidence."
+  },
+  "human_comprehension": "Pending actual uninstructed non-specialist response; no outside viewer contacted.",
+  "MIT_technical_review": "Pending calibration/datum/processing/interpretation; source integrity checks only.",
+  "media_status": "Native/video/raw frames local ignored; not uploaded/backed up by Git.",
+  "publication_scope": "Explicit B202/T027 files only; unrelated B201/T007 excluded."
+}

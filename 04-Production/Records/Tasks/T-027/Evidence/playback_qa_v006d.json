@@ -1,0 +1,69 @@
+{
+  "status": "PASS",
+  "decoded_frames": 720,
+  "fps": 24.0,
+  "duration_s": 30.0,
+  "width": 960,
+  "height": 540,
+  "nonblank_frame_mean_min": 18.64769547325103,
+  "adjacent_frame_mean_pixel_delta": {
+    "min": 0.0,
+    "max": 91.6680742026749,
+    "mean": 2.2484639007294653
+  },
+  "cut_frames": [
+    337,
+    433,
+    529,
+    553
+  ],
+  "key_frames": [
+    1,
+    7,
+    60,
+    168,
+    240,
+    336,
+    384,
+    456,
+    528,
+    540,
+    553,
+    624,
+    720
+  ],
+  "chronological_sample_interval_frames": 12,
+  "outputs": [
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202-M_motion-full_v006d.blend",
+      "bytes": 22193430,
+      "sha256": "fd7e2fc92034a72514b29b26eb8166a2b004f0b86d3d6fb5f8a256e248c31f7e"
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/MotionFull_v006d/B202-M_motion-full_v006d.mp4",
+      "bytes": 4433428,
+      "sha256": "987ab83a701c672e2f22680211c389da1c1f4da95c970b6dca4190665a468225"
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/MotionFull_v006d/B202-M_review-sheet_v006d.jpg",
+      "bytes": 209762,
+      "sha256": "04c83297f1f18a9e883700205045aa9d26bf4278ec6b5faf3109c7447a3b3d5f"
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Previews/MotionFull_v006d/review_v006d.html",
+      "bytes": 1818,
+      "sha256": "745fdd5fc0cdda519aff52747689d5f14481821fc843e3872e2c2d16e7a24bda"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-027/Evidence/replay_manifest_v006d.json",
+      "bytes": 183021,
+      "sha256": "29b10f834aa81549383765da4203e69a2b36c5e150c405cf032590cc149eeffa"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-027/Evidence/verification_motion-full_v006d.json",
+      "bytes": 703080,
+      "sha256": "63ec17680bc7a6114291a8968d0bb7dc2311e18d4adf25d893eb5a722891158d"
+    }
+  ],
+  "scope": "All720frames decoded/nonblank. Agent chronological visual inspection recorded separately; no human comprehension/acceptance inferred."
+}
