@@ -1,6 +1,6 @@
 # MIT Technologies — Cinematic Production Identity
 
-**Working internal standard · v0.2 · 14 October 2026**  
+**Working internal standard · v0.2 · audience amendment 17 October 2026**  
 **Purpose:** MIT's project-specific communication and visual boundaries across ECCO and future MIT engineering films.  
 **Status:** Not an official MIT corporate rebrand. MIT must confirm official logo, colors, typography, product finish and public claims.
 
@@ -9,7 +9,7 @@
 **Creative thesis:** *Engineering truth. Cinematic imagination.*  
 **Narrative grammar:** *Invisible → Visible → Verifiable.*
 
-These are internal production ideas, **not approved public-facing slogans**. Explain real engineering as something worth discovering. An engineering viewer should recognize faithful mechanisms; a general viewer should understand why a product matters.
+These are internal production ideas, **not approved public-facing slogans**. Explain real engineering as something worth discovering. An engineering viewer should recognize faithful mechanisms; a general viewer should understand why a product matters. **For the ECCO film specifically, the intended audience includes engineers, stakeholders and investors who may not have an engineering background** (producer clarification, 17 October 2026). This is a technology presentation, not a training course; avoid specialist prerequisites for the main takeaway.
 
 **Priority:** verified engineering truth → comprehension → cinematic expression → efficiency. The hero is MIT technology, not AI as a production technique.
 
@@ -19,10 +19,18 @@ These are internal production ideas, **not approved public-facing slogans**. Exp
 2. **Technological credibility.** Let actual engineering feel advanced, purposeful and carefully manufactured. Do not introduce imaginary hardware or exaggerated physical effects as though they were measured.
 3. **Clear revelation.** A technical visualization should make a real or explicitly illustrative relationship understandable. Distinguish sensor, environment, signal interaction and information outcome.
 4. **Controlled sophistication.** Avoid unrelated science-fiction spectacle, gratuitous HUDs, arbitrary particles and neon decoration. This is an MIT communication safeguard, **not** a prohibition against expressive artistic choices when meaningful.
-5. **Audience hierarchy.** Important technical detail must remain readable. Complex ideas can transition between cinematic explanation and direct technical views.
+5. **Audience hierarchy.** Important technical detail must remain readable. Complex ideas can transition between cinematic explanation and direct technical views. **First make the engineering discovery and grounded significance legible to a newcomer; allow experts to verify the mechanism and data provenance.** A demonstration of acquisition alone is not the same as showing what the technology discovered.
 6. **Coherent project finishing.** Individual films may vary in environment and mood while retaining faithful product depiction, coherent brand assets and source-traceable technical information.
 
 **Do not prescribe camera spline, movement pacing, light locations, number of highlights, specific framing or universal material recipe in this identity.** Those are **Rolladice's scene-specific directorial decisions**, guided by [Directorial Identity](../03_Directorial_Identity/README.md).
+
+## ECCO audience-comprehension target (producer clarification)
+
+Every technical sequence should identify **one short, non-specialist takeaway** as well as its source-verifiable technical meaning. Where useful, lead from **a familiar question or baseline → what ECCO reveals → why the difference matters**. Let the result have a recognizable visual arrival and enough reading time. Repetition of every pulse/sample, formulas and jargon are optional—not the measure of scientific credibility.
+
+For B202 open-hole geometry, the provisional example is **nominal hole size versus measured/reconstructed wall shape**, then deviations through depth. Preserve client-agreed white/blue/red meaning, actual source scale, reconstruction provenance and separate yellow/brown amplitude. Do not paint unsupported deformation or suggest formation type, well safety, financial return or quantified savings without authorized evidence.
+
+This is **shot communication guidance**, not a hardcoded graphical treatment or automatic approval of current B202 previews. Specific visual phrasing and real-preview comprehension checks belong in the [Scene Direction Contract](../03_Directorial_Identity/07-SCENE_DIRECTION_CONTRACT_v0.2.md); information meaning/provenance belong to [Module 09](../03_Directorial_Identity/09-ENGINEERING_INFORMATION_DIRECTION_DISCOVERY.md). Audience clarification does not supersede technical source authority or MIT review.
 
 ## Flexible MIT presentation territories
 
