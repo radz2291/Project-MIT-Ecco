@@ -10,7 +10,7 @@ Read [Production workspace](04-Production/README.md) for the current cycle, life
 - The orchestrator/planning agent supplies visual-instruction placeholders. A separate AI directing agent owns treatments and execution briefs using the [Scene Director skill](03-Context/00_Skill/rolladice-scene-director/SKILL.md) and [Directorial Identity](03-Context/03_Directorial_Identity/README.md). Blender executes the approved briefs; consequential visual ambiguities return to the director.
 - Shot renders must be **strictly less than 5 seconds per frame** on the executing machine. Benchmark representative/heaviest frames at working settings before batch rendering, record timings/settings, and reduce cost if needed. Do not silently raise this cap. No expensive rendering now.
 - Shots reference canonical shared masters with stable controls and documented versions. Record consumers; shared revisions require affected-shot checks/rerenders. Preserve supplied originals and useful completed work.
-- Only T42 / P01 shared-component planning is created in the fresh cycle. It proposes later tickets; it does not create or start them automatically.
+- Read live Work for current tickets and releases. Planning proposes downstream work; only owner-authorized tickets are created or executed. A directing ticket may release approved components/shot briefs progressively without finishing every brief first.
 
 ## Execution and source authority
 
