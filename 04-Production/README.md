@@ -1,12 +1,29 @@
 # MIT / ECCO — Production workspace
 
-Updated: 16 October 2026. Operating conventions authorized by Radzi; technical content, scope and production acceptance retain their recorded status.
+## Current cycle and ownership — 18 October 2026
+
+OWNER-AUTHORIZED CURRENT CYCLE — 18 October 2026. Supersedes earlier mechanical-first, B2 pairing, separate still/animation and editable 3D storyboard gates. T31 is completed. Visual source: ECCO - Cinematic Film Storyboard, board ID 8466dd02-7299-4e68-85fc-f95d0d61931e; V3, 22 shots S01-A through S07-C, seven sequences, 90 seconds. Repository source: 03-Context/02_Storyboard/V3/; board/source mapping: 04-Production/Records/Storyboard-Board-V3/README.md.
+
+Cycle: shared-component planning → shared assets and AI-director execution instructions → actual movie shots using fast renders → Radzi assembles film and handles client feedback → affected shot/shared-asset revisions → delivery. Radzi alone owns film assembly/editing, narration/sound integration and final timeline. Agents deliver individual shots and organized editable sources; no agent film assembly ticket.
+
+Planning/orchestration creates placeholders only for visual instructions. A separate AI directing agent owns visual treatments and shot execution instructions using the V3 board, Scene Director skill and Directorial Identity. Blender executes approved instructions. Mechanical boards remain engineering information references.
+
+Shared assets must have canonical masters, stable controls, source/version records, relative links and a shot-consumer map. Decide hardware/BHA/bit, environment, pulse/contact/echo and graphic treatment consistently before dependent shot builds. Reuse verified existing work; do not assume historical acceptance covers new uses. A shared revision propagates through references, then affected shots are checked/rerendered.
+
+Current shot-production render budget: STRICTLY LESS THAN 5 SECONDS PER FRAME on the executing machine at the chosen working settings. Benchmark representative and heaviest frames before batch rendering; record settings and timings. Reduce cost if the limit fails; do not silently raise the cap. This is fast-render actual movie production, not expensive final rendering. Any later expensive delivery-render stage requires a separate owner decision.
+
+Preserve engineering/client constraints, provenance and useful prior evidence. No invented technical approval. Save under 04-Production; masters in Shared/Assets; use V3 shot IDs and map historical IDs explicitly. Commit/push permitted tracked records/scripts/config/evidence, verify remote, attach exact report/commit and local media paths. Heavy/restricted media exclusions remain. Only Radzi accepts results. Only one planning ticket is created now; propose later build/directing/shot tickets after inventory, do not create or execute them automatically.
+
+Active Work project ID: `a0b9b971-e282-42f0-a25f-0c78729eff87`. The prior MIT ECCO and PREVIS projects are archived; their unfinished tickets and old gates are superseded. T42/P01 is the sole new planning ticket. This section supersedes historical B2/B3/B4 phase references below and elsewhere. Source constraints and asset evidence remain valid within their recorded limits.
+
+
+Updated: 18 October 2026. Operating conventions authorized by Radzi; technical content, scope and production acceptance retain their recorded status.
 
 ## Root and ownership
 
-The producer identifies the local working repository as `C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco`. Work in its `04-Production` directory. `Shared/Assets` already exists locally and is reported empty; this remote documentation update does not inspect or populate the Windows filesystem. Use the actual checkout root when working elsewhere; portable records use repository-relative paths and exact case.
+The producer identifies the local working repository as `C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco`. Work in its `04-Production` directory. Existing shared assets must be inspected in the actual checkout; remote documentation does not inspect the Windows filesystem. Use the actual checkout root when working elsewhere; portable records use repository-relative paths and exact case.
 
-- Rolladice Work / project **MIT ECCO** (ID `c04ff6c8-4447-4ad1-ada8-09a2c9a5d4a6`) owns live tickets, assignments, dependencies, pinned standards, runs, review and acceptance.
+- Rolladice Work / project **MIT ECCO** (ID `a0b9b971-e282-42f0-a25f-0c78729eff87`) owns live tickets, assignments, dependencies, pinned standards, runs, review and acceptance.
 - GitHub/repository owns technical sources, decisions, editable implementation, scripts and evidence records. Existing `01-Brief`, `02-Reference` and `03-Context` remain canonical for their subjects.
 - Local production media belongs inside this checkout even when ignored by Git. A file on disk is not necessarily committed, pushed or backed up. Record those distinctions.
 - The central [Decision Register](../03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md) owns global technical questions and approval evidence. The production blocker register references its decision IDs instead of maintaining contradictory approval states.
@@ -23,8 +40,8 @@ Create folders as needed; do not create empty production scenes or claim assets 
 | `Mechanisms/<mechanism-id>/Scenes/` | Standalone mechanism proofs, e.g. B201 pulse/echo |
 | `Mechanisms/<mechanism-id>/Scripts/` | Mechanism-specific implementation |
 | `Mechanisms/<mechanism-id>/Previews/` | Moving tests and inspection frames |
-| `Shots/S01/S01-01/` through `Shots/S07/<shot-id>/` | Shot-specific `Scenes/`, `Scripts/`, `Graphics/`, `Previews/` and later `Renders/` |
-| `Edit/Projects/`, `Edit/Previews/` | Editable assembly/timeline and versioned full-film previews |
+| `Shots/<section>/<V3-shot-id>/`, e.g. `Shots/S02/S02-A/` | Shot-specific `Scenes/`, `Scripts/`, `Graphics/`, `Previews/` and later `Renders/` |
+| `Edit/Projects/`, `Edit/Previews/` | Radzi-owned assembly/timeline and full-film previews; agents do not edit or assemble the film |
 | `Delivery/<version>/` | Agreed masters, compressed copies and source handover package |
 | `Records/` | Asset manifest, shot register, blocker register and confirmed preview settings |
 | `Records/Tasks/T-<number>/` | Task report, review questions, verification evidence and recovery/sync notes |
@@ -45,12 +62,6 @@ Use meaningful versioned names such as `S02-01_blocking_v001.blend` and `B201_ec
 7. Execute and verify within the ticket scope. Continue routine in-scope repairs without repeated permission requests. Record precise blockers; continue independent authorized work when safe. Do not start another ticket without authority for it.
 
 If the connector is unavailable before claiming, perform only inspection/preparation unless Radzi has explicitly authorized offline execution. For an outage during an owned run, preserve authorized work and a dated recovery note in the task record; do not claim successful remote synchronization or exclusive ownership. Reconcile live state/lease before resuming shared execution.
-
-## Division of work and review loops
-
-Agents prepare source summaries, handoffs, preview/question packets, implementation, corrections and records. Radzi supplies unavailable local inputs, makes scope/taste decisions, communicates with MIT, and accepts reviewed work. Engineering confirmation comes from supported sources/MIT; no agent can invent it.
-
-A01 is agent preparation, with Radzi confirming its scope summary in review. Mechanism tickets prepare the material for human B206 feedback. B301 prepares the complete review cut for human B401 acceptance. Human review feedback returns as bounded rework to the responsible agent ticket (or an explicitly scoped follow-up); preserve previous evidence and recheck dependent shots. Reopen changed prerequisites rather than leaving dependent acceptance apparently valid. D01 owns human final direction/client review, while supported technical preparation/corrections belong to C01/C02 or a scoped follow-up.
 
 ## Mandatory task closure
 
@@ -78,22 +89,6 @@ Owner authority: Radzi requested automatic task commit/push for online review an
 
 Existing heavy-media exclusions remain in force. Blender binaries, MP4s, caches and renders stay organized locally with exact paths/versions and explicit backup/handover status. Remote review of reports/stills does not imply that local media was uploaded or independently inspected. This rule does not require reopening already accepted historical tasks. No client contact or delivery is implied by task completion.
 
-## B2 pairing amendment — 16 October 2026
-
-Blender supplies grounded baseline stills and actual scene constraints; T26 discusses and critiques them with Radzi, with optional generated references; Blender implements selected bounded changes. Repeat where needed. T26 is an ongoing partner across B2, not a completed-package prerequisite. Follow [B2 paired workflow](B2-VISUAL_APPROVAL.md), which supersedes earlier sequential direction/implementation rules. Technical dependencies remain; approvals apply to specific treatments and motion scope. Preserve T7's completed still phase and authorized continuation.
-
-## Still and animation task arrangement — 16 October 2026
-
-T7 continues its current combined still/animation scope. Other B2 work is paired in list order: **T8 → T27**, **T9 → T28**, **T10 → T29**, **T11 → T30**. The first task owns still development and handover; a fresh agent owns the successor's animation direction/execution. T26 supports both alongside the work. Preserve existing assets and evidence. Read the [B2 workflow](B2-VISUAL_APPROVAL.md) and live ticket dependencies before starting. This supersedes only the earlier proposal to move T7 motion to T27; it does not stop T7 or launch new workers.
-
-## Directorial work during development
-
-B1 builds reusable hardware/environment foundations. **B2 requires model-integrated engineering scenes guided by the Scene Director skill and relevant Directorial Identity modules**, including information provenance. Follow the [16 October B2 visual approval amendment](B2-VISUAL_APPROVAL.md): representative framing, coherent explanatory action and editable scenes suitable for direct B3 reuse. Detached schematics remain supporting evidence. B3 adds camera choreography and shot/edit transitions; it does not rebuild B2's explanation.
-
-For **every actual shot in S01–S07**, apply the [rolladice-scene-director skill](../03-Context/00_Skill/rolladice-scene-director/SKILL.md) before construction. Read the [active Directorial Identity index](../03-Context/03_Directorial_Identity/README.md) and relevant modules rather than every document. The old AI Director Interpretation Guide is a superseded pointer. Save one Scene Direction Contract as `Shots/<section>/<shot-id>/direction.md`, using the canonical contract schema. Reference sources, technical uncertainty, camera/composition, information beats, transitions and review stage. Avoid parallel competing shot specifications.
-
-Use cheap SVG/previs where it resolves a concrete ambiguity, then inspect actual moving previews for camera purpose, physical readability, pacing, text/data placement and transitions. B3 must demonstrate direction through motion before final lighting/material work. B301 checks continuity and directorial consistency across those contracts; B401 reviews the exact moving candidate with technical evidence. Finishing applies relevant look/typography modules and preserves accepted shot meaning; substantive changes reopen affected review.
-
 ## Current production baseline and incoming plugged ECCO version
 
 **Superseding owner decision, 16 October 2026:** the current T5 plugged master v002 is usable as the production baseline, including final imagery. Accepted T6 well/assembly v003 supports B2. The client is expected to supply only a plugged product revision, not a complete BHA/bit package; the owner's estimate of roughly 5% change is not an inspected dimensional result. Do not wait for that delivery to continue. If it arrives, compare actual differences before deciding whether to replace the baseline.
@@ -107,10 +102,6 @@ B101 must keep replaceable product geometry separate from animation controls, do
 Continue non-blocked foundation and mechanism work using explicitly provisional assets. When the replacement arrives: register source/version and inspect units, dimensions, closures, sensor count/locations and animation interfaces; compare against the current master; create a versioned replacement; check relinking/controls and re-run affected geometry, pulse-contact, clearance, camera/occlusion and continuity checks. Preserve earlier evidence and record affected shots.
 
 Do not automatically overwrite a shared master, invent unavailable geometry or promise a zero-rework swap. Missing replacement data blocks dependent claims/final hardware acceptance where material; it does not automatically block independent preparation. Before B4, record which client-supported product version the retained film depicts and resolve replacement-related issues.
-
-## Development and finishing boundary
-
-Follow [Production Workflow](../03-Context/01_Foundation/05-PRODUCTION_WORKFLOW.md): A readiness → B1 foundation → B2 mechanisms → B3 shots/full animatic → B4 mechanical/technical acceptance → C finishing → D delivery. B2 proves the mechanism; B3 proves the shot communicates it. Deferred rendering is not an excuse to omit moving previews or semantic data colors. No new AI finishing pilot is required before mechanical development.
 
 ## Decision provenance
 
