@@ -29,3 +29,10 @@ Previews/Revision_v006/*.png
 !Previews/Revision_v006/layers_working_v010.png
 !Previews/Revision_v006/downhole_A_working_v010.png
 !Previews/Revision_v006/downhole_B_working_v010.png
+Revision_v007/Evidence/*.log
+Revision_v007/Evidence/sync-verification_v007.json
+Previews/Revision_v007/*.png
+!Previews/Revision_v007/connection_wide_v003.png
+!Previews/Revision_v007/furthest_uphole_v002.png
+!Previews/Revision_v007/Reuse_A_v002.png
+!Previews/Revision_v007/Reuse_B_v002.png

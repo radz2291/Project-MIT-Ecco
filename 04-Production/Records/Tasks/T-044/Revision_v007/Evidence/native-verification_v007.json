@@ -1,0 +1,2315 @@
+{
+  "checks": [
+    {
+      "name": "preserved accepted native 04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved accepted native 04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved accepted native 04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_detail_cleanup_v010.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved accepted native 04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_face_cleanup_v010.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved accepted native 04-Production/Records/Tasks/T-044/Revision_v006/Scenes/layers_cleanup_v010.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved accepted native 04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_A_cleanup_v010.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved accepted native 04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_B_cleanup_v010.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved accepted native 04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_A_cleanup_v010.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved accepted native 04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_B_cleanup_v010.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fresh relative links and single product/extension Reuse_A_continuity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source metre scale Reuse_A_continuity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f17",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f17",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f18",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f18",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f19",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f19",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f20",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f20",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f21",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f21",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f22",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f22",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f23",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f23",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f24",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f24",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f25",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f25",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f26",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f26",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f27",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f27",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f28",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f28",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f29",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f29",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f31",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f31",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f32",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f32",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f33",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f33",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f34",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f34",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f35",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f35",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f36",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f36",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f37",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f37",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f38",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f38",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f39",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f39",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f40",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f40",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f41",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f41",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f42",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f42",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f43",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f43",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f44",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f44",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f45",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f45",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f46",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f46",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f47",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f47",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f48",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f48",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f49",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f49",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f50",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f50",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f51",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f51",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f52",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f52",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f53",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f53",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f54",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f54",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f55",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f55",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f56",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f56",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f57",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f57",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f58",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f58",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f59",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f59",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f60",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f60",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f61",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f61",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f62",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f62",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f63",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f63",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f64",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f64",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f65",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f65",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f66",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f66",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f67",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f67",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f68",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f68",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f69",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f69",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f70",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f70",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f71",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f71",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_A_continuity f72",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_A_continuity f72",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "transverse radius unchanged Reuse_A_continuity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "adjustable length Reuse_A_continuity 1.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 1.0
+      }
+    },
+    {
+      "name": "adjustable length Reuse_A_continuity 12.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 12.0
+      }
+    },
+    {
+      "name": "adjustable length Reuse_A_continuity 24.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 24.0
+      }
+    },
+    {
+      "name": "hero hides continuation/joint Reuse_A_continuity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "show restores continuation/joint Reuse_A_continuity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fresh relative links and single product/extension Reuse_B_continuity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source metre scale Reuse_B_continuity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f17",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f17",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f18",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f18",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f19",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f19",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f20",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f20",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f21",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f21",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f22",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f22",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f23",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f23",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f24",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f24",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f25",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f25",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f26",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f26",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f27",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f27",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f28",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f28",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f29",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f29",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f31",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f31",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f32",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f32",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f33",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f33",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f34",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f34",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f35",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f35",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f36",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f36",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f37",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f37",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f38",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f38",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f39",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f39",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f40",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f40",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f41",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f41",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f42",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f42",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f43",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f43",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f44",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f44",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f45",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f45",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f46",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f46",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f47",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f47",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f48",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f48",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f49",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f49",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f50",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f50",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f51",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f51",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f52",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f52",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f53",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f53",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f54",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f54",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f55",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f55",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f56",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f56",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f57",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f57",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f58",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f58",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f59",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f59",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f60",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f60",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f61",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f61",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f62",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f62",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f63",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f63",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f64",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f64",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f65",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f65",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f66",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f66",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f67",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f67",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f68",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f68",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f69",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f69",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f70",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f70",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f71",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f71",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f72",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f72",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f73",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f73",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f74",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f74",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f75",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f75",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f76",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f76",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f77",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f77",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f78",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f78",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f79",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f79",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f80",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f80",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f81",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f81",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f82",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f82",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f83",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f83",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f84",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f84",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f85",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f85",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f86",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f86",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f87",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f87",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f88",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f88",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f89",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f89",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f90",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f90",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f91",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f91",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f92",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f92",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f93",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f93",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f94",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f94",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f95",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f95",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join Reuse_B_continuity f96",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera Reuse_B_continuity f96",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "transverse radius unchanged Reuse_B_continuity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "adjustable length Reuse_B_continuity 1.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 1.0
+      }
+    },
+    {
+      "name": "adjustable length Reuse_B_continuity 12.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 12.0
+      }
+    },
+    {
+      "name": "adjustable length Reuse_B_continuity 24.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 24.0
+      }
+    },
+    {
+      "name": "hero hides continuation/joint Reuse_B_continuity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "show restores continuation/joint Reuse_B_continuity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fresh relative links and single product/extension connection_wide",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source metre scale connection_wide",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join connection_wide f1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera connection_wide f1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "transverse radius unchanged connection_wide",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "adjustable length connection_wide 1.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 1.0
+      }
+    },
+    {
+      "name": "adjustable length connection_wide 12.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 12.0
+      }
+    },
+    {
+      "name": "adjustable length connection_wide 24.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 24.0
+      }
+    },
+    {
+      "name": "hero hides continuation/joint connection_wide",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "show restores continuation/joint connection_wide",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original source endpoint now connection visible in wider frame",
+      "passed": true,
+      "detail": [
+        0.5389612317085266,
+        0.48933902382850647,
+        8.080558776855469
+      ]
+    },
+    {
+      "name": "fresh relative links and single product/extension furthest_uphole",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source metre scale furthest_uphole",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "continuous join furthest_uphole f1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "far end outside camera furthest_uphole f1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "transverse radius unchanged furthest_uphole",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "adjustable length furthest_uphole 1.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 1.0
+      }
+    },
+    {
+      "name": "adjustable length furthest_uphole 12.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 12.0
+      }
+    },
+    {
+      "name": "adjustable length furthest_uphole 24.0",
+      "passed": true,
+      "detail": {
+        "measured_m": 24.0
+      }
+    },
+    {
+      "name": "hero hides continuation/joint furthest_uphole",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "show restores continuation/joint furthest_uphole",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original camera/timing/controls preserved A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original camera/timing/controls preserved B",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "all_pass": true,
+  "native": [
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_A_continuity_v001.blend",
+      "sha256": "780171b1e2b933590a32c4f003e069900b0053df3140bdc337f6a677585ef778",
+      "libraries": [
+        {
+          "path": "//..\\CandidateMaster\\BHA_film_v007.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "eccos": 1,
+      "extension_meshes": 1,
+      "far_endpoint_world": [
+        -13.0,
+        0.0,
+        0.0
+      ],
+      "endpoint_camera": [
+        -4.4713454246521,
+        1.047478199005127,
+        3.8988428115844727
+      ],
+      "join_world": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "join_camera": [
+        -0.8453488349914551,
+        0.6481592059135437,
+        2.6060516834259033
+      ],
+      "length_m": 12.0,
+      "camera": {
+        "name": "REUSE_CAMERA_A",
+        "location": [
+          1.899999976158142,
+          -2.0,
+          1.149999976158142
+        ],
+        "rotation": [
+          1.0523052215576172,
+          -1.1699889057581458e-08,
+          0.12435498833656311
+        ],
+        "lens": 48.0,
+        "keys": [
+          [
+            "location",
+            0,
+            [
+              [
+                1.0,
+                1.9,
+                "BEZIER"
+              ],
+              [
+                72.0,
+                1.98,
+                "BEZIER"
+              ]
+            ]
+          ],
+          [
+            "location",
+            1,
+            [
+              [
+                1.0,
+                -2.0,
+                "BEZIER"
+              ],
+              [
+                72.0,
+                -2.0,
+                "BEZIER"
+              ]
+            ]
+          ],
+          [
+            "location",
+            2,
+            [
+              [
+                1.0,
+                1.15,
+                "BEZIER"
+              ],
+              [
+                72.0,
+                1.15,
+                "BEZIER"
+              ]
+            ]
+          ]
+        ]
+      },
+      "timing": [
+        1,
+        72,
+        24
+      ]
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_B_continuity_v001.blend",
+      "sha256": "cefadc73a8389b89b4cfb2d5808ce1293d4f22543c340039bf3cfc14398de4af",
+      "libraries": [
+        {
+          "path": "//..\\CandidateMaster\\BHA_film_v007.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "eccos": 1,
+      "extension_meshes": 1,
+      "far_endpoint_world": [
+        -13.0,
+        0.0,
+        0.0
+      ],
+      "endpoint_camera": [
+        -1.6663541793823242,
+        0.9213178157806396,
+        8.126577377319336
+      ],
+      "join_world": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "join_camera": [
+        0.17282535135746002,
+        0.5636294484138489,
+        5.441391944885254
+      ],
+      "length_m": 12.0,
+      "camera": {
+        "name": "REUSE_CAMERA_B",
+        "location": [
+          1.5,
+          -4.5,
+          2.200000047683716
+        ],
+        "rotation": [
+          1.1284369230270386,
+          -4.435515954526181e-09,
+          0.2502005398273468
+        ],
+        "lens": 49.0,
+        "keys": [
+          [
+            "location",
+            0,
+            [
+              [
+                1.0,
+                1.5,
+                "BEZIER"
+              ],
+              [
+                96.0,
+                1.58,
+                "BEZIER"
+              ]
+            ]
+          ],
+          [
+            "location",
+            1,
+            [
+              [
+                1.0,
+                -4.5,
+                "BEZIER"
+              ],
+              [
+                96.0,
+                -4.5,
+                "BEZIER"
+              ]
+            ]
+          ],
+          [
+            "location",
+            2,
+            [
+              [
+                1.0,
+                2.2,
+                "BEZIER"
+              ],
+              [
+                96.0,
+                2.2,
+                "BEZIER"
+              ]
+            ]
+          ]
+        ]
+      },
+      "timing": [
+        1,
+        96,
+        24
+      ]
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v001.blend",
+      "sha256": "d4debf57b05632e7d97a39e409b560f00f9a3d117738191f299b50f68ba65bb5",
+      "libraries": [
+        {
+          "path": "//..\\CandidateMaster\\BHA_film_v007.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "eccos": 1,
+      "extension_meshes": 1,
+      "far_endpoint_world": [
+        -13.0,
+        0.0,
+        0.0
+      ],
+      "endpoint_camera": [
+        -0.4406333565711975,
+        0.7573829889297485,
+        13.053211212158203
+      ],
+      "join_world": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "join_camera": [
+        0.5389612317085266,
+        0.48933902382850647,
+        8.080558776855469
+      ],
+      "length_m": 12.0,
+      "camera": {
+        "name": "REUSE_CAMERA_B",
+        "location": [
+          2.0999999046325684,
+          -7.0,
+          2.5999999046325684
+        ],
+        "rotation": [
+          1.2483532428741455,
+          -2.4375887974770194e-08,
+          0.45215389132499695
+        ],
+        "lens": 42.0,
+        "keys": []
+      },
+      "timing": [
+        1,
+        1,
+        24
+      ]
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/furthest_uphole_v001.blend",
+      "sha256": "866cd09111b3facac544f7c9e08aa65e09c28bd58a3011dbd380cd577e6da68e",
+      "libraries": [
+        {
+          "path": "//..\\CandidateMaster\\BHA_film_v007.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "eccos": 1,
+      "extension_meshes": 1,
+      "far_endpoint_world": [
+        -13.0,
+        0.0,
+        0.0
+      ],
+      "endpoint_camera": [
+        -1.1309242248535156,
+        0.6888775825500488,
+        6.3453874588012695
+      ],
+      "join_world": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "join_camera": [
+        1.3570138216018677,
+        0.4007476568222046,
+        4.3910813331604
+      ],
+      "length_m": 12.0,
+      "camera": {
+        "name": "REUSE_CAMERA_B",
+        "location": [
+          -3.4000000953674316,
+          -4.5,
+          1.7999999523162842
+        ],
+        "rotation": [
+          1.1956249475479126,
+          -1.1655327369908264e-08,
+          0.1759396195411682
+        ],
+        "lens": 43.0,
+        "keys": []
+      },
+      "timing": [
+        1,
+        1,
+        24
+      ]
+    }
+  ],
+  "status": "Isolated native candidate, unpublished; no rendered appearance/performance or shared integration acceptance claimed",
+  "limits": "Interface is simplified/provisional; coverage is for these saved static views and original consumer camera/travel ranges at12m default only. Recheck other camera paths/shorter lengths."
+}

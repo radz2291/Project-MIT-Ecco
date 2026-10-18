@@ -1,0 +1,15 @@
+{
+  "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v002.blend",
+  "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/connection_wide_v002.png",
+  "seconds": 1.969001900004514,
+  "under_5": true,
+  "engine": "BLENDER_EEVEE",
+  "backend": "VULKAN",
+  "resolution": [
+    1280,
+    720
+  ],
+  "samples": 16,
+  "measurement": "First full render-to-file in fresh process; normal existing disk GPU caches, no warmup render; process/file loading excluded",
+  "known_limit": "Original empty-cache startup12.55-25.13s remains unresolved."
+}

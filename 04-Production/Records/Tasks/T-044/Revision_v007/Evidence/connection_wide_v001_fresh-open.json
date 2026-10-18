@@ -1,0 +1,65 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v001.blend",
+  "sha256": "d4debf57b05632e7d97a39e409b560f00f9a3d117738191f299b50f68ba65bb5",
+  "libraries": [
+    {
+      "path": "//..\\CandidateMaster\\BHA_film_v007.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true
+    }
+  ],
+  "eccos": 1,
+  "extension_meshes": 1,
+  "far_endpoint_world": [
+    -13.0,
+    0.0,
+    0.0
+  ],
+  "endpoint_camera": [
+    -0.4406333565711975,
+    0.7573829889297485,
+    13.053211212158203
+  ],
+  "join_world": [
+    -1.0,
+    0.0,
+    0.0
+  ],
+  "join_camera": [
+    0.5389612317085266,
+    0.48933902382850647,
+    8.080558776855469
+  ],
+  "length_m": 12.0,
+  "camera": {
+    "name": "REUSE_CAMERA_B",
+    "location": [
+      2.0999999046325684,
+      -7.0,
+      2.5999999046325684
+    ],
+    "rotation": [
+      1.2483532428741455,
+      -2.4375887974770194e-08,
+      0.45215389132499695
+    ],
+    "lens": 42.0,
+    "keys": []
+  },
+  "timing": [
+    1,
+    1,
+    24
+  ]
+}

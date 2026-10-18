@@ -1,0 +1,114 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_A_continuity_v002.blend",
+  "sha256": "3603be6bfb5a715659350efe0d18af10f42fdfcf0c286b6ff86b3b66f6586f97",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true
+    }
+  ],
+  "eccos": 1,
+  "extension_meshes": 1,
+  "far_endpoint_world": [
+    -13.0,
+    0.0,
+    0.0
+  ],
+  "endpoint_camera": [
+    -4.4713454246521,
+    1.047478199005127,
+    3.8988428115844727
+  ],
+  "join_world": [
+    -1.0,
+    0.0,
+    0.0
+  ],
+  "join_camera": [
+    -0.8453488349914551,
+    0.6481592059135437,
+    2.6060516834259033
+  ],
+  "length_m": 12.0,
+  "camera": {
+    "name": "REUSE_CAMERA_A",
+    "location": [
+      1.899999976158142,
+      -2.0,
+      1.149999976158142
+    ],
+    "rotation": [
+      1.0523052215576172,
+      -1.1699889057581458e-08,
+      0.12435498833656311
+    ],
+    "lens": 48.0,
+    "keys": [
+      [
+        "location",
+        0,
+        [
+          [
+            1.0,
+            1.9,
+            "BEZIER"
+          ],
+          [
+            72.0,
+            1.98,
+            "BEZIER"
+          ]
+        ]
+      ],
+      [
+        "location",
+        1,
+        [
+          [
+            1.0,
+            -2.0,
+            "BEZIER"
+          ],
+          [
+            72.0,
+            -2.0,
+            "BEZIER"
+          ]
+        ]
+      ],
+      [
+        "location",
+        2,
+        [
+          [
+            1.0,
+            1.15,
+            "BEZIER"
+          ],
+          [
+            72.0,
+            1.15,
+            "BEZIER"
+          ]
+        ]
+      ]
+    ]
+  },
+  "timing": [
+    1,
+    72,
+    24
+  ]
+}

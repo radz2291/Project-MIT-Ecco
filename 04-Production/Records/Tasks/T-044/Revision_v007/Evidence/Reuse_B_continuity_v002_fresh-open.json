@@ -1,0 +1,114 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_B_continuity_v002.blend",
+  "sha256": "23f97d97487eaee0b9b48c6e89bafe7c7eed05d2dd33ea60ea965746035c54c8",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true
+    }
+  ],
+  "eccos": 1,
+  "extension_meshes": 1,
+  "far_endpoint_world": [
+    -13.0,
+    0.0,
+    0.0
+  ],
+  "endpoint_camera": [
+    -1.6663541793823242,
+    0.9213178157806396,
+    8.126577377319336
+  ],
+  "join_world": [
+    -1.0,
+    0.0,
+    0.0
+  ],
+  "join_camera": [
+    0.17282535135746002,
+    0.5636294484138489,
+    5.441391944885254
+  ],
+  "length_m": 12.0,
+  "camera": {
+    "name": "REUSE_CAMERA_B",
+    "location": [
+      1.5,
+      -4.5,
+      2.200000047683716
+    ],
+    "rotation": [
+      1.1284369230270386,
+      -4.435515954526181e-09,
+      0.2502005398273468
+    ],
+    "lens": 49.0,
+    "keys": [
+      [
+        "location",
+        0,
+        [
+          [
+            1.0,
+            1.5,
+            "BEZIER"
+          ],
+          [
+            96.0,
+            1.58,
+            "BEZIER"
+          ]
+        ]
+      ],
+      [
+        "location",
+        1,
+        [
+          [
+            1.0,
+            -4.5,
+            "BEZIER"
+          ],
+          [
+            96.0,
+            -4.5,
+            "BEZIER"
+          ]
+        ]
+      ],
+      [
+        "location",
+        2,
+        [
+          [
+            1.0,
+            2.2,
+            "BEZIER"
+          ],
+          [
+            96.0,
+            2.2,
+            "BEZIER"
+          ]
+        ]
+      ]
+    ]
+  },
+  "timing": [
+    1,
+    96,
+    24
+  ]
+}

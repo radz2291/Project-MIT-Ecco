@@ -1,58 +1,47 @@
-# T44 — A-WORLD bounded visual cleanup
+# T44 — shared uphole continuity correction
 
-18 October 2026. Candidate for Radzi image approval; executor work complete, not accepted as Done.
+18 October2026. Prepared for Radzi review; new appearance approval pending. Task b77297cc-0600-4a17-8fb9-ba95cc3d6220, MIT ECCO project a0b9b971-e282-42f0-a25f-0c78729eff87. Authority: owner-requested T44 discussion174d6ae2-c620-40c0-a7b1-92c01f613dda and the user's request to inspect/handle the update. Base commit df1bc5626e820dc3a0b9af286bfcca4ce498d8c0. [Preserved preceding report](report_v006.md).
 
-Task: `b77297cc-0600-4a17-8fb9-ba95cc3d6220`, active MIT ECCO project `a0b9b971-e282-42f0-a25f-0c78729eff87`. Authority: Radzi's request to inspect new discussion and owner-agreed review comment `b9543a37-2583-48d4-84b8-d251b9ebe98b` (18 October06:40UTC). Base commit: `85902bb01b9669c592e2f5c058d54337ff9d3e1f`. Current T42/T43 source contracts and production rules apply. Previous [report](report_v005.md) and candidates preserved.
+## Result and images
 
-## Result and review images
+The actual uphole collar stopped at localX-1.5m, with no hidden continuation. Canonical BHA filmv007 nests the unchanged accepted v006 hardware and adds a lightweight12m collar continuation plus a simplified connection shoulder. It remains connected through the saved wider/furthest views; the unwanted pipe endpoint is outside their frames. Length and visibility are local controls; isolated hero shots can hide the addition. No complete string-to-rig build, exact client/thread-fit claim, actual shot or film assembly.
 
-The accepted surrounding formation coverage is unchanged. This pass replaces the rounded bit placeholder with a documented provisional six-blade PDC study; corrects native casing normals and coincident rim interference; refines static fluid and hardware reflections. No new animation, movie shots, environment rebuild or film assembly.
+[Full-size review images](Revision_v007/review-guide.md): [wider connection/product view](Previews/Revision_v007/connection_wide_v003.png), [second/furthest uphole view](Previews/Revision_v007/furthest_uphole_v002.png), [unchanged consumer A](Previews/Revision_v007/Reuse_A_v002.png), [unchanged consumer B](Previews/Revision_v007/Reuse_B_v002.png), [before/after proof](Previews/Revision_v007/propagation_v007.jpg). The wider view is an intentional local cutaway and shows finite formation bounds; it does not replace the previously accepted immersive environment views.
 
-Primary deliverable: [five individually viewable approval images](Revision_v006/review-guide.md). Please judge bit silhouette/cutter layout, steel-layer readability, fluid presence and retained tool detail. [Bit-face detail](Previews/Revision_v006/BHA_face_working_v010.png), [bit/adapter side view](Previews/Revision_v006/BHA_detail_working_v010.png), [steel/cement/formation](Previews/Revision_v006/layers_working_v010.png), [nearby A](Previews/Revision_v006/downhole_A_working_v010.png), [nearby B](Previews/Revision_v006/downhole_B_working_v010.png). The [compact index](Previews/Revision_v006/approval-overview_v006.jpg) accompanies the full-size PNGs. Preserve [accepted wide context](Previews/Revision_v005/wide_context_working_v007.png).
+## Canonical source, controls and migration
 
-## Native changes and source limits
+[Native manifest/hashes](../../../Shared/Assets/World/manifest_v007.json), [interface/migration guide](../../../Shared/Assets/World/README_v004.md), [T45 handoff](Revision_v007/handoff_v007.md).
 
-- BHA filmv006: six broad integral blades,48two-part compact cutters, six recessed nozzle mouths, open junk courses and gauge pads. Evaluated12.25in gauge and X[2.9,3.24]m envelope checked. Reference: SLB [The Defining Series: Bits](https://www.slb.com/resource-library/oilfield-review/defining-series/defining-bits),2016, Figure2; labelled image visually inspected. [Reference/simplification record](Revision_v006/source-reference_v006.md). This is authored provisional morphology, not an exact manufacturer or MIT/client bit. Crown, cutter count/rake and transition are simplified; secondary cutter rows, central conical element, internal hydraulics and threads omitted. No connection/fit/performance certification. Redundant coplanar shoulder overlay retained hidden; collar cylindrical normals corrected without coordinate/topology changes.
-- Environmentv009: casing diagnosis found18,816flat-shaded faces, including18,432cylindrical faces, correct radial winding, no modifiers/custom normals and a simple material. Analytic radial corner normals smooth cylindrical surfaces while rims/cuts remain crisp. Geometry/topology/dimensions are identical. A second cause at the front rim was the provisional shoe's coplanar overlap with source casing over the last70mm; redundant mesh retained hidden. The flush source casing end remains the visible shoe-boundary context. Exact shoe/float equipment remains unverified. The compatibility `show_shoe` switch does not restore this hidden overlap.
-- Static fluid: the flat olive plane is replaced by a curved, continuously blended optical cut inside every registered bore; a duplicate rear skin is retained hidden. Tool geometry occludes it naturally. Simplified green-grey transparency and restrained reflections replace the solid-strip appearance. This is not a free liquid surface, calibrated filled volume, CFD or flow animation. New lighting overrides reduce broad highlight flattening. Product geometry/material files remain unchanged.
-- All accepted formation mass meshes, source wall/layer meshes, rig/wide/cased-host context, T5/T6 originals, sensor references, source scales and previous native candidates are hash/geometry verified unchanged. Housing remains2.400m. No clearance enlargement, source rescale or duplicated ECCO.
+Local root: C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production.
 
-## Saved candidates and propagation
+- Shared\Assets\BHA\BHA_film_v007.blend: SHA256 b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1. WORLD_HARDWARE preserves accepted v006 via one identity collection instance. Separate WORLD_UPHOLE_EXTENSION/WORLD_UPHOLE_JOINT provide canonical added geometry; BHA_CONTINUITY_PREVIEW provides assembled native defaults.
+- World\Scripts\formation_controls_v004.py creates new composed consumers. continuation_controls_v001.attach_continuation attaches to an existing local hardware collection-instance after reloading the direct hardware library. Do not recursively replace the nested frozen v006 library.
+- New UPHOLE_CONTINUATION_CONTROL.length_m defaults12m (clamped.25–40m); show0 hides extension/joint. Existing hardware visibility also hides both. Parenting inherits placement, travel and spin without duplicating geometry or adding motion tracks. Only unit continuation localX scales; OD/bore/ECCO remain unchanged.
+- Native source basis: +X selected downhole, metres; original collar endpointX-1.5m. Default continuation sourceX[-13.5,-1.5]m, OD8.25in/ID2.8125in inherited generic collar reference. Simplified raised transition spansX[-1.58,-1.44]m, maxradius.107m. No exact BHA connection or thread qualification.
+- Final local consumers: Revision_v007\Scenes\Reuse_A_continuity_v002.blend, Reuse_B_continuity_v002.blend, connection_wide_v003.blend, furthest_uphole_v002.blend. Original reuse cameras,72/96frame timing, independent control values/keys and source geometry are unchanged. Extra wide/furthest cameras belong only to separate static inspection files.
 
-Current [native manifest/hashes](../../../Shared/Assets/World/manifest_v006.json), [usage/migration guide](../../../Shared/Assets/World/README_v003.md), [component/consumer map](Revision_v006/component-consumers_v006.json).
+All accepted predecessor native hashes, ECCO geometry/sensor references, source dimensions/orientation, bit and environment are preserved. The live Blender scene has unsaved user changes and was not reopened/overwritten. Shorter continuation lengths or new camera paths require new coverage checks. T45 combined sensing/casing/flow consumers require relink, unchanged-camera/timing/control verification, source registration, contact/occlusion/clearance checks and their own benchmark/render evidence.
 
-Local root: `C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production`.
+## Verification and performance
 
-- `Shared\Assets\BHA\BHA_film_v006.blend`, collection `WORLD_HARDWARE`.
-- `Shared\Assets\WellAssembly\World_environment_v009.blend`, existing named collections/controls.
-- Unchanged nested product: `Shared\Assets\ECCO\ECCO_film_v002.blend`.
-- Seven final consumers: `Records\Tasks\T-044\Revision_v006\Scenes\{BHA_detail,BHA_face,layers,downhole_A,downhole_B,Reuse_A,Reuse_B}_cleanup_v010.blend`.
-- New builder interface: `formation_controls_v003.create_world(asset_dir)`; old interfaces/candidates remain preserved.
+[Canonical native verification](Revision_v007/Evidence/native-verification_canonical_v007.json):389checks pass. These include all accepted native hashes, fresh relative links, one ECCO/continuation, exact metre scale, continuous joint to1e-5m tolerance across all original reuse frames, far endpoint outside the intended cameras, length1/12/24m, hero visibility, whole-hardware visibility and unchanged cameras/timing/old controls. Isolated preparation candidate and earlier wide framing remain preserved.
 
-Both reuse consumers adopt shared revisions by library-path reload/Save As, with original cameras,72/96frame timing, local controls and animation intact. Every saved migration stage records equality. The additional bit-face camera is a separate static inspection; it does not replace a reuse camera. [Propagation comparison](Previews/Revision_v006/propagation_v006.jpg) and native migration evidence accompany the individual images. No actual V3 movie-shot consumers exist yet; inherited component-to-shot mapping identifies later checks without authorizing production.
+Full first render-to-file timings, separate fresh processes,1280x720/EEVEE16/Vulkan, normal existing GPU disk caches, no excluded warmup, no compositor/raytracing/shadows:
 
-## Verification and render budget
-
-[Native verification](Revision_v006/Evidence/native-verification_v006.json):96checks pass, including all preserved file hashes, unchanged source/environment geometry, casing normals, hidden overlap, fluid bounds, evaluated bit gauge/envelope, fresh relative links, one ECCO/six bit blades, control variants and end-to-end camera/timing/control retention. These are executor self-checks, not independent engineering or visual acceptance.
-
-Full first render-to-file measurements, separate fresh processes,1280x720/EEVEE16/Vulkan on GTX1060/driver560.94, AgX Medium High Contrast, no compositor/raytracing/shadows, normal existing GPU disk caches, no warmup render excluded:
-
-| Saved consumerv010 | Seconds |
+| View | Seconds |
 |---|---:|
-| Bit/adapter side |1.037|
-| Bit face |1.051|
-| Layer section |1.193|
-| Downhole A |1.533|
-| Downhole B |1.648|
-| Reuse A |1.461|
-| Reuse B |1.460|
+| Wider complete product/connectionv003 |2.557|
+| Furthest upholev002 |1.699|
+| Reuse A v002 |1.550|
+| Reuse B v002 |2.045|
+| Preserved earlier cropped widev002 |1.969|
 
-All seven final renders are strictly below5s. Timers wrap the entire render-to-file call; process/file loading is excluded. A superseded complex blended-fluid shader took6.448s on its first new-shader render. That failure is retained, prompted removing shader noise/angle logic and duplicate transparent overdraw, and no batch was launched on the failed setting. The simplified shader first test took4.197s before the final gauge/joint pass. [Package evidence](Revision_v006/Evidence/package-verification_v006.json) retains every benchmark, including failures. Prior empty-cache initialization12.55–25.13s remains unresolved: normal-cache timings do not establish universal cold-machine compliance. Rebenchmark cache/backend/driver/machine/material changes or heavier views; do not raise the cap.
+Every retained revision render is strictly below5s. Timers include the complete render-to-file call; process/file loading excluded. Empty-cache startup12.55–25.13s from the prior release remains unresolved; these measurements establish normal-cache performance only. Rebenchmark changed machine/cache/backend/driver/material/heavier views, without raising the cap. The initial wide was retained after executor inspection found the product cropped; a separate perpendicular view now includes the complete assembly. Executor visual inspection and native checks do not establish Radzi appearance or engineering acceptance.
 
-Executor inspected the individual full-size saved-candidate renders. Both close views retain full opaque formation coverage. Final beauty/technical interpretation remains Radzi's review.
+## Coordination, storage and gate
 
-## Storage, synchronization and handoff
+The user initially chose coordination in this chat, then directly instructed T45, “Please coordinate with T44 and get things done.” That actual user message was verified before cross-chat replies. T45 confirmed it began no extension work, granted T44 exclusive new successor paths and serialized slot T44-CONTINUITY-01 plus one replacement still, and retained sole Git integration. Slot released after five renders. No T45–T48/unrelated generated file edits, Git staging/commit/push, competing jobs or live Blender replacement by T44.
 
-Selected review stills, scripts, manifests and records are synchronized to the established repository; the exact remote-verified containing commit/report links are attached to live T44 after push. Heavy .blend files, prior/intermediate samples, logs and the inspected manufacturer image remain local/Git-ignored. No native-media upload or off-machine backup is claimed. Unrelated generated source image remains untouched.
+T45 receives the exact permitted file list, native/API/hash/migration handoff and actual images for inspection/scoped commit. The exact remote-verified containing commit/report links are attached to live T44 after integration. Native .blend files, intermediate samples and logs remain local/Git-ignored; no native upload or off-machine backup claimed.
 
-Next action: Radzi reviews the five images, with previously accepted environment coverage retained. T44 returns to Review; no self-acceptance or downstream shot/effects work. Source/interface questions about exact client bit, threads and shoe equipment remain explicitly provisional.
+Progressive release: the canonical successor/API are available for T45 integration/rechecks; human visual approval remains pending. T44 returns to Review after verified synchronization, not self-accepted Done. The Work dependency gate for T45 must be reported truthfully and cannot be bypassed by this technical release. Radzi owns appearance acceptance and film assembly.

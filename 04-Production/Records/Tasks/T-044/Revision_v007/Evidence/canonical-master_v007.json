@@ -1,0 +1,8 @@
+{
+  "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+  "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+  "candidate_sha256": "b6f9a4eb2e113bea8e2bf3e9901c027d5cb60d8d25dea336ee5c45bf795b9e87",
+  "length_default_m": 12,
+  "geometry": "Accepted BHAv006 nested unchanged; new canonical collar continuation/joint only",
+  "gate": "Ready for inspection/integration; human approval pending"
+}

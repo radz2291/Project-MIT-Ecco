@@ -1,0 +1,533 @@
+{
+  "all_pass": true,
+  "checks": [
+    {
+      "name": "389 canonical native checks pass",
+      "passed": true
+    },
+    {
+      "name": "all prior native/source hashes unchanged",
+      "passed": true
+    },
+    {
+      "name": "all five full render-to-file samples below5s",
+      "passed": true
+    },
+    {
+      "name": "all current review/report/API links resolve",
+      "passed": true
+    },
+    {
+      "name": "allow-list excludes private/heavy/other-worker roots",
+      "passed": true
+    }
+  ],
+  "native_check_count": 389,
+  "approval_images": [
+    {
+      "name": "connection_wide",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/connection_wide_v003.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v003.blend",
+      "label": "Wider connected assembly",
+      "sha256": "e610cefe0620b95de4c2dfaf0800b737e2b19f40b82f8f5e29a9c5a89e75269e",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1146279,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v007/Evidence/connection_wide_v003_benchmark_v007.json"
+    },
+    {
+      "name": "furthest_uphole",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/furthest_uphole_v002.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/furthest_uphole_v002.blend",
+      "label": "Second / furthest intended view",
+      "sha256": "ff8ebafb4b99d2638737a2edb6f9fd1eb75a131323dedd0a9521e67456d053ff",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1021246,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v007/Evidence/furthest_uphole_v002_benchmark_v007.json"
+    },
+    {
+      "name": "Reuse_A",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/Reuse_A_v002.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_A_continuity_v002.blend",
+      "label": "Consumer A / preserved camera and timing",
+      "sha256": "bb030fa369ad8ae5f4522694f41c10a31f84b0ae11dd205ca4f2574199bf75ac",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1227054,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v007/Evidence/Reuse_A_v002_benchmark_v007.json"
+    },
+    {
+      "name": "Reuse_B",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/Reuse_B_v002.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_B_continuity_v002.blend",
+      "label": "Consumer B / preserved camera and timing",
+      "sha256": "eb35c2a954aefa33153ee4105a71a53e216abebe4b5dc2936af715276ea6acf0",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1261622,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v007/Evidence/Reuse_B_v002_benchmark_v007.json"
+    }
+  ],
+  "benchmarks": [
+    {
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v002.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/connection_wide_v002.png",
+      "seconds": 1.969001900004514,
+      "under_5": true,
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "measurement": "First full render-to-file in fresh process; normal existing disk GPU caches, no warmup render; process/file loading excluded",
+      "known_limit": "Original empty-cache startup12.55-25.13s remains unresolved."
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v003.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/connection_wide_v003.png",
+      "seconds": 2.55666360000032,
+      "under_5": true,
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "measurement": "First full render-to-file in fresh process; normal existing disk GPU caches, no warmup render; process/file loading excluded",
+      "known_limit": "Original empty-cache startup12.55-25.13s remains unresolved."
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/furthest_uphole_v002.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/furthest_uphole_v002.png",
+      "seconds": 1.6986137999992934,
+      "under_5": true,
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "measurement": "First full render-to-file in fresh process; normal existing disk GPU caches, no warmup render; process/file loading excluded",
+      "known_limit": "Original empty-cache startup12.55-25.13s remains unresolved."
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_A_continuity_v002.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/Reuse_A_v002.png",
+      "seconds": 1.5500732000000426,
+      "under_5": true,
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "measurement": "First full render-to-file in fresh process; normal existing disk GPU caches, no warmup render; process/file loading excluded",
+      "known_limit": "Original empty-cache startup12.55-25.13s remains unresolved."
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_B_continuity_v002.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/Reuse_B_v002.png",
+      "seconds": 2.0451135000039358,
+      "under_5": true,
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "measurement": "First full render-to-file in fresh process; normal existing disk GPU caches, no warmup render; process/file loading excluded",
+      "known_limit": "Original empty-cache startup12.55-25.13s remains unresolved."
+    }
+  ],
+  "preserved_sources": [
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v002.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v003.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v004.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/Surface/Surface_context_v002.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/Surface/Originals/IntoTheInvisible_Shot01.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_A_before_v003.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_A_after_v004.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_B_before_v003.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_B_after_v004.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_surface_before_v003.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Controls_stress_v001.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Hardware_overview_v001.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v005.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/Surface/Surface_context_v003.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/wide_context_v007.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_A_v006.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_B_v006.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v010.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/BHA_detail_v006.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_A_formation_v005.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_B_formation_v005.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_detail_cleanup_v010.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_face_cleanup_v010.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/layers_cleanup_v010.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_A_cleanup_v010.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_B_cleanup_v010.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_A_cleanup_v010.blend",
+      "unchanged": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_B_cleanup_v010.blend",
+      "unchanged": true
+    }
+  ],
+  "links": [
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "report_v006.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Revision_v007/review-guide.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v007/connection_wide_v003.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v007/furthest_uphole_v002.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v007/Reuse_A_v002.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v007/Reuse_B_v002.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v007/propagation_v007.jpg",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "../../../Shared/Assets/World/manifest_v007.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "../../../Shared/Assets/World/README_v004.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Revision_v007/handoff_v007.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Revision_v007/Evidence/native-verification_canonical_v007.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "target": "../Previews/Revision_v007/connection_wide_v003.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "target": "../Previews/Revision_v007/furthest_uphole_v002.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "target": "../Previews/Revision_v007/Reuse_A_v002.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "target": "../Previews/Revision_v007/Reuse_B_v002.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "target": "../Previews/Revision_v007/propagation_v007.jpg",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "target": "Evidence/native-verification_canonical_v007.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "target": "../../../../Shared/Assets/World/manifest_v007.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "target": "../../../../Shared/Assets/World/README_v004.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "target": "handoff_v007.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "../../../../Shared/Assets/World/manifest_v007.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "../../../../Shared/Assets/World/README_v004.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "../Previews/Revision_v007/connection_wide_v003.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "../Previews/Revision_v007/furthest_uphole_v002.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "../Previews/Revision_v007/Reuse_A_v002.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "../Previews/Revision_v007/Reuse_B_v002.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "../Previews/Revision_v007/propagation_v007.jpg",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "Evidence/native-verification_canonical_v007.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "Evidence/package-verification_v007.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "allowed-tracked_v007.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "target": "../report.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v004.md",
+      "target": "manifest_v007.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v004.md",
+      "target": "../../../Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v004.md",
+      "target": "../../../Records/Tasks/T-044/Revision_v007/handoff_v007.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v004.md",
+      "target": "../../../Records/Tasks/T-044/report.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v004.md",
+      "target": "README_v003.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v004.md",
+      "target": "manifest_v006.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "README_v004.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "manifest_v007.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "../../../Records/Tasks/T-044/Revision_v007/review-guide.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "README_v003.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "manifest_v006.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "README_v002.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "manifest_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "README_v001.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "manifest_v004.json",
+      "exists": true
+    }
+  ],
+  "performance_limit": "Normal existing disk GPU caches only. Prior empty-cache startup12.55-25.13s unresolved.",
+  "gate": "Human appearance acceptance pending; T45 sole integrator and downstream Work dependency gate remain explicit"
+}

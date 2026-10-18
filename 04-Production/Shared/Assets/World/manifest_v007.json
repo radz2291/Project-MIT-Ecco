@@ -1,0 +1,115 @@
+{
+  "version": "v007",
+  "task": "T44",
+  "status": "canonical_continuity_successor_for_Radzi_review",
+  "baseline_commit": "df1bc5626e820dc3a0b9af286bfcca4ce498d8c0",
+  "local_root": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco",
+  "native_backup": "All .blend files local Git-ignored; no upload or off-machine backup claimed",
+  "artifacts": [
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+      "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "bytes": 103695,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v003.blend",
+      "sha256": "fcb4d066f76b227d21045ad931de212bd82e987e7693a72bd9b047097d8f8081",
+      "bytes": 92300,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/furthest_uphole_v002.blend",
+      "sha256": "c95e4dcd30cc848fd87c83ab7723fabe5eca36c11a46af3229a9177b4426321e",
+      "bytes": 92332,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_A_continuity_v002.blend",
+      "sha256": "3603be6bfb5a715659350efe0d18af10f42fdfcf0c286b6ff86b3b66f6586f97",
+      "bytes": 92016,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_B_continuity_v002.blend",
+      "sha256": "23f97d97487eaee0b9b48c6e89bafe7c7eed05d2dd33ea60ea965746035c54c8",
+      "bytes": 92032,
+      "storage": "local-native"
+    }
+  ],
+  "approval_images": [
+    {
+      "name": "connection_wide",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/connection_wide_v003.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v003.blend",
+      "label": "Wider connected assembly",
+      "sha256": "e610cefe0620b95de4c2dfaf0800b737e2b19f40b82f8f5e29a9c5a89e75269e",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1146279,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v007/Evidence/connection_wide_v003_benchmark_v007.json"
+    },
+    {
+      "name": "furthest_uphole",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/furthest_uphole_v002.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/furthest_uphole_v002.blend",
+      "label": "Second / furthest intended view",
+      "sha256": "ff8ebafb4b99d2638737a2edb6f9fd1eb75a131323dedd0a9521e67456d053ff",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1021246,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v007/Evidence/furthest_uphole_v002_benchmark_v007.json"
+    },
+    {
+      "name": "Reuse_A",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/Reuse_A_v002.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_A_continuity_v002.blend",
+      "label": "Consumer A / preserved camera and timing",
+      "sha256": "bb030fa369ad8ae5f4522694f41c10a31f84b0ae11dd205ca4f2574199bf75ac",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1227054,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v007/Evidence/Reuse_A_v002_benchmark_v007.json"
+    },
+    {
+      "name": "Reuse_B",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v007/Reuse_B_v002.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_B_continuity_v002.blend",
+      "label": "Consumer B / preserved camera and timing",
+      "sha256": "eb35c2a954aefa33153ee4105a71a53e216abebe4b5dc2936af715276ea6acf0",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 1261622,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v007/Evidence/Reuse_B_v002_benchmark_v007.json"
+    }
+  ],
+  "source_preservation": "Accepted BHAv006, ECCO filmv002 and environmentv009 unchanged; v007 nests v006",
+  "api": [
+    "World/Scripts/formation_controls_v004.py",
+    "World/Scripts/continuation_controls_v001.py"
+  ],
+  "continuation": {
+    "default_length_m": 12,
+    "range_m": [
+      0.25,
+      40
+    ],
+    "join_x_m": -1.5,
+    "source_far_x_m": -13.5,
+    "outer_radius_m": 0.104775,
+    "inner_radius_m": 0.03571875,
+    "connection_outer_radius_m": 0.107,
+    "coordinates": "metres; +X selected downhole; parented to existing hardware placement/travel/rotation"
+  },
+  "limits": "Simplified collar continuation and raised transition; no exact client BHA/thread fit, full string-to-rig or engineering acceptance. Coverage checked for these cameras/default12m only.",
+  "human_gate": "Appearance approval pending; technical release does not bypass Work dependency gate",
+  "integrator": "T45 sole Git integrator; T44 makes no Git mutation"
+}

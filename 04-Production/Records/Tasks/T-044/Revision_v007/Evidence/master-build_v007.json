@@ -1,0 +1,13 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v007/CandidateMaster/BHA_film_v007.blend",
+  "sha256": "b6f9a4eb2e113bea8e2bf3e9901c027d5cb60d8d25dea336ee5c45bf795b9e87",
+  "source": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+  "source_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+  "default_length_m": 12,
+  "original_join_x_m": -1.5,
+  "far_endpoint_x_m": -13.5,
+  "outer_radius_m": 0.104775,
+  "inner_radius_m": 0.03571875,
+  "connection_outer_radius_m": 0.107,
+  "provisional": true
+}
