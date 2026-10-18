@@ -1,0 +1,701 @@
+{
+  "scene": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v009.blend",
+  "scene_sha256": "f152264a61d237a2baaed1b106b1a47f649de719dac90a136051bd21aba59033",
+  "mode": "batch",
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "engine": "BLENDER_EEVEE",
+  "samples": 16,
+  "color_management": [
+    "AgX",
+    "AgX - Medium High Contrast"
+  ],
+  "compositor": false,
+  "cache": "Normal existing GPU disk caches; no warmup render. First-process is first full render-to-file in fresh process, not empty-cache machine. T44 empty-cache12.55\u201325.13s remains unresolved.",
+  "measurement": "wall-clock around complete bpy.ops.render.render(write_still=True); includes initialization/compositor if enabled/write, excludes process/file loading",
+  "frames": [
+    {
+      "frame": 1,
+      "seconds": 1.660328700003447,
+      "under_5": true,
+      "first_process": true,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0001.png"
+    },
+    {
+      "frame": 2,
+      "seconds": 0.669306299998425,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0002.png"
+    },
+    {
+      "frame": 3,
+      "seconds": 0.6764917000036803,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0003.png"
+    },
+    {
+      "frame": 4,
+      "seconds": 0.6509506000002148,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0004.png"
+    },
+    {
+      "frame": 5,
+      "seconds": 0.6953263000032166,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0005.png"
+    },
+    {
+      "frame": 6,
+      "seconds": 0.6772712000019965,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0006.png"
+    },
+    {
+      "frame": 7,
+      "seconds": 0.6987911000032909,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0007.png"
+    },
+    {
+      "frame": 8,
+      "seconds": 0.6728822000004584,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0008.png"
+    },
+    {
+      "frame": 9,
+      "seconds": 0.693709500003024,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0009.png"
+    },
+    {
+      "frame": 10,
+      "seconds": 0.6166299000033177,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0010.png"
+    },
+    {
+      "frame": 11,
+      "seconds": 0.6929325999954017,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0011.png"
+    },
+    {
+      "frame": 12,
+      "seconds": 0.6959732000032091,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0012.png"
+    },
+    {
+      "frame": 13,
+      "seconds": 0.6938202000019373,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0013.png"
+    },
+    {
+      "frame": 14,
+      "seconds": 0.6768914999993285,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0014.png"
+    },
+    {
+      "frame": 15,
+      "seconds": 0.6961585000026389,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0015.png"
+    },
+    {
+      "frame": 16,
+      "seconds": 0.6701323000015691,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0016.png"
+    },
+    {
+      "frame": 17,
+      "seconds": 0.6944992999997339,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0017.png"
+    },
+    {
+      "frame": 18,
+      "seconds": 0.6823106999945594,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0018.png"
+    },
+    {
+      "frame": 19,
+      "seconds": 0.6904444999963744,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0019.png"
+    },
+    {
+      "frame": 20,
+      "seconds": 0.6935941999981878,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0020.png"
+    },
+    {
+      "frame": 21,
+      "seconds": 0.7432617000013124,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0021.png"
+    },
+    {
+      "frame": 22,
+      "seconds": 0.7061229999962961,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0022.png"
+    },
+    {
+      "frame": 23,
+      "seconds": 0.7116561999937403,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0023.png"
+    },
+    {
+      "frame": 24,
+      "seconds": 0.6952200999949127,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0024.png"
+    },
+    {
+      "frame": 25,
+      "seconds": 0.6411583999943105,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0025.png"
+    },
+    {
+      "frame": 26,
+      "seconds": 0.7356778999965172,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0026.png"
+    },
+    {
+      "frame": 27,
+      "seconds": 0.7950055000037537,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0027.png"
+    },
+    {
+      "frame": 28,
+      "seconds": 0.742463399998087,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0028.png"
+    },
+    {
+      "frame": 29,
+      "seconds": 0.702135299994552,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0029.png"
+    },
+    {
+      "frame": 30,
+      "seconds": 0.7168070999978227,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0030.png"
+    },
+    {
+      "frame": 31,
+      "seconds": 0.7175152999989223,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0031.png"
+    },
+    {
+      "frame": 32,
+      "seconds": 0.7271019999971031,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0032.png"
+    },
+    {
+      "frame": 33,
+      "seconds": 0.6966938000041409,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0033.png"
+    },
+    {
+      "frame": 34,
+      "seconds": 0.7262908000047901,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0034.png"
+    },
+    {
+      "frame": 35,
+      "seconds": 0.715484699998342,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0035.png"
+    },
+    {
+      "frame": 36,
+      "seconds": 0.7151203999965219,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0036.png"
+    },
+    {
+      "frame": 37,
+      "seconds": 0.6881428999986383,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0037.png"
+    },
+    {
+      "frame": 38,
+      "seconds": 0.7093136999974377,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0038.png"
+    },
+    {
+      "frame": 39,
+      "seconds": 0.6802519999982906,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0039.png"
+    },
+    {
+      "frame": 40,
+      "seconds": 0.7288072000010288,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0040.png"
+    },
+    {
+      "frame": 41,
+      "seconds": 0.7778660999974818,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0041.png"
+    },
+    {
+      "frame": 42,
+      "seconds": 0.6984530000045197,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0042.png"
+    },
+    {
+      "frame": 43,
+      "seconds": 0.6637042000002111,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0043.png"
+    },
+    {
+      "frame": 44,
+      "seconds": 0.7092440000051283,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0044.png"
+    },
+    {
+      "frame": 45,
+      "seconds": 0.6609832999965874,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0045.png"
+    },
+    {
+      "frame": 46,
+      "seconds": 0.7062566000022343,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0046.png"
+    },
+    {
+      "frame": 47,
+      "seconds": 0.7084875000000466,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0047.png"
+    },
+    {
+      "frame": 48,
+      "seconds": 0.6900282000060542,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0048.png"
+    },
+    {
+      "frame": 49,
+      "seconds": 0.7032368999934988,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0049.png"
+    },
+    {
+      "frame": 50,
+      "seconds": 0.6959741000027861,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0050.png"
+    },
+    {
+      "frame": 51,
+      "seconds": 0.707969499999308,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0051.png"
+    },
+    {
+      "frame": 52,
+      "seconds": 0.695436999994854,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0052.png"
+    },
+    {
+      "frame": 53,
+      "seconds": 0.6992048999964027,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0053.png"
+    },
+    {
+      "frame": 54,
+      "seconds": 0.7109930000005988,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0054.png"
+    },
+    {
+      "frame": 55,
+      "seconds": 0.7150812999971095,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0055.png"
+    },
+    {
+      "frame": 56,
+      "seconds": 0.6990774999940186,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0056.png"
+    },
+    {
+      "frame": 57,
+      "seconds": 0.6652379000006476,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0057.png"
+    },
+    {
+      "frame": 58,
+      "seconds": 0.6982315999994171,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0058.png"
+    },
+    {
+      "frame": 59,
+      "seconds": 0.688525400000799,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0059.png"
+    },
+    {
+      "frame": 60,
+      "seconds": 0.684113500006788,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0060.png"
+    },
+    {
+      "frame": 61,
+      "seconds": 0.7029620999965118,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0061.png"
+    },
+    {
+      "frame": 62,
+      "seconds": 0.6950690999947255,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0062.png"
+    },
+    {
+      "frame": 63,
+      "seconds": 0.6532643999962602,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0063.png"
+    },
+    {
+      "frame": 64,
+      "seconds": 0.6852316000004066,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0064.png"
+    },
+    {
+      "frame": 65,
+      "seconds": 0.6875303000051645,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0065.png"
+    },
+    {
+      "frame": 66,
+      "seconds": 0.7146240000001853,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0066.png"
+    },
+    {
+      "frame": 67,
+      "seconds": 0.6804057999979705,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0067.png"
+    },
+    {
+      "frame": 68,
+      "seconds": 0.6873261999935494,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0068.png"
+    },
+    {
+      "frame": 69,
+      "seconds": 0.7232034999979078,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0069.png"
+    },
+    {
+      "frame": 70,
+      "seconds": 0.7664742999986629,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0070.png"
+    },
+    {
+      "frame": 71,
+      "seconds": 0.7004272000049241,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0071.png"
+    },
+    {
+      "frame": 72,
+      "seconds": 0.7305653000003076,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0072.png"
+    },
+    {
+      "frame": 73,
+      "seconds": 0.6945473000014317,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0073.png"
+    },
+    {
+      "frame": 74,
+      "seconds": 0.6926042000050074,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0074.png"
+    },
+    {
+      "frame": 75,
+      "seconds": 0.6898390999995172,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0075.png"
+    },
+    {
+      "frame": 76,
+      "seconds": 0.6846518000020296,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0076.png"
+    },
+    {
+      "frame": 77,
+      "seconds": 0.6574182999975164,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0077.png"
+    },
+    {
+      "frame": 78,
+      "seconds": 0.699026700000104,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0078.png"
+    },
+    {
+      "frame": 79,
+      "seconds": 0.7191576000041096,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0079.png"
+    },
+    {
+      "frame": 80,
+      "seconds": 0.6960990000006859,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0080.png"
+    },
+    {
+      "frame": 81,
+      "seconds": 0.7265598000012687,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0081.png"
+    },
+    {
+      "frame": 82,
+      "seconds": 0.8073858999996446,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0082.png"
+    },
+    {
+      "frame": 83,
+      "seconds": 0.70406599999842,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0083.png"
+    },
+    {
+      "frame": 84,
+      "seconds": 0.9860909000053653,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0084.png"
+    },
+    {
+      "frame": 85,
+      "seconds": 0.7770719000036479,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0085.png"
+    },
+    {
+      "frame": 86,
+      "seconds": 0.8547115999972448,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0086.png"
+    },
+    {
+      "frame": 87,
+      "seconds": 0.7612977999961004,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0087.png"
+    },
+    {
+      "frame": 88,
+      "seconds": 0.6818287999994936,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0088.png"
+    },
+    {
+      "frame": 89,
+      "seconds": 0.7014373000056366,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0089.png"
+    },
+    {
+      "frame": 90,
+      "seconds": 0.7018396999992547,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0090.png"
+    },
+    {
+      "frame": 91,
+      "seconds": 0.6803140999982134,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0091.png"
+    },
+    {
+      "frame": 92,
+      "seconds": 0.6894726000027731,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0092.png"
+    },
+    {
+      "frame": 93,
+      "seconds": 0.8508431000009296,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0093.png"
+    },
+    {
+      "frame": 94,
+      "seconds": 0.7777006000032998,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0094.png"
+    },
+    {
+      "frame": 95,
+      "seconds": 0.8939119999995455,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0095.png"
+    },
+    {
+      "frame": 96,
+      "seconds": 0.6913400999983423,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Frames/batch_A_v009/f0096.png"
+    }
+  ],
+  "backend": "VULKAN",
+  "hardware": [
+    "Windows-11-10.0.26100-SP0",
+    "NVIDIA Corporation",
+    "NVIDIA GeForce GTX 1060 3GB",
+    "NVIDIA 560.94"
+  ],
+  "all_under_5": true
+}

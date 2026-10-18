@@ -1,0 +1,151 @@
+{
+  "contract": "ecco-acoustic-event-v001",
+  "events": [
+    {
+      "event_id": "t46-b-01",
+      "provenance": "native_ray_intersection_illustrative_timing",
+      "emitter_ref": "ECCO_SENSOR_REF_01",
+      "receiver_ref": "ECCO_SENSOR_REF_01",
+      "emitter_local_m": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "emitter_world_m": [
+        1.2300000190734863,
+        0.0607241615653038,
+        0.11381378024816513
+      ],
+      "emitter_pose_world": [
+        [
+          -1.0,
+          1.4782422397274786e-07,
+          -7.458959316863911e-08,
+          1.2300000190734863
+        ],
+        [
+          -1.6553353532344772e-07,
+          -0.8822773694992065,
+          0.4707300364971161,
+          0.0607241615653038
+        ],
+        [
+          3.7765879312701145e-09,
+          0.4707300364971161,
+          0.8822773694992065,
+          0.11381378024816513
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "direction_world": [
+        -7.458958606321175e-08,
+        0.4707299768924713,
+        0.882277250289917
+      ],
+      "hit_world_m": [
+        1.2300000190734863,
+        0.07323292642831802,
+        0.1372586488723755
+      ],
+      "normal_world": [
+        -0.0,
+        -0.4569030702114105,
+        -0.8895164728164673
+      ],
+      "wall_source": {
+        "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Records/Tasks/T-044/Revision_v006/Scenes/../../../../../Shared/Assets/WellAssembly/World_environment_v009.blend",
+        "object": "IRREGULAR_CUTAWAY",
+        "version": "World_environment_v009",
+        "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+        "face_index": 1905
+      },
+      "send_s": 0.6,
+      "contact_s": 1.1,
+      "receive_s": 1.6,
+      "patch_lifetime_s": 0.65,
+      "opacity": 0.72,
+      "visible": true,
+      "standoff_m": 0.026573119685053825,
+      "timing_kind": "illustrative_not_acoustic_velocity",
+      "sample_policy": "sampled world pose; fixed contact retained during later assembly movement"
+    },
+    {
+      "event_id": "t46-b-02",
+      "provenance": "native_ray_intersection_illustrative_timing",
+      "emitter_ref": "ECCO_SENSOR_REF_01",
+      "receiver_ref": "ECCO_SENSOR_REF_01",
+      "emitter_local_m": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "emitter_world_m": [
+        1.2450000047683716,
+        0.029423899948596954,
+        0.12559950351715088
+      ],
+      "emitter_pose_world": [
+        [
+          -1.0,
+          1.4782422397274786e-07,
+          -7.458959316863911e-08,
+          1.2450000047683716
+        ],
+        [
+          -1.609408286640246e-07,
+          -0.9736394882202148,
+          0.22809234261512756,
+          0.029423899948596954
+        ],
+        [
+          -3.890581012910843e-08,
+          0.22809234261512756,
+          0.9736394882202148,
+          0.12559950351715088
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "direction_world": [
+        -7.458959316863911e-08,
+        0.22809234261512756,
+        0.9736394882202148
+      ],
+      "hit_world_m": [
+        1.2450000047683716,
+        0.03548486530780792,
+        0.15147146582603455
+      ],
+      "normal_world": [
+        -0.0,
+        -0.24298101663589478,
+        -0.9700310230255127
+      ],
+      "wall_source": {
+        "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Records/Tasks/T-044/Revision_v006/Scenes/../../../../../Shared/Assets/WellAssembly/World_environment_v009.blend",
+        "object": "IRREGULAR_CUTAWAY",
+        "version": "World_environment_v009",
+        "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+        "face_index": 1912
+      },
+      "send_s": 2.5,
+      "contact_s": 2.9,
+      "receive_s": 3.3,
+      "patch_lifetime_s": 0.65,
+      "opacity": 0.72,
+      "visible": true,
+      "standoff_m": 0.026572419330477715,
+      "timing_kind": "illustrative_not_acoustic_velocity",
+      "sample_policy": "sampled world pose; fixed contact retained during later assembly movement"
+    }
+  ]
+}

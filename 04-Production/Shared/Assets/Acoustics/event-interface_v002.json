@@ -1,0 +1,29 @@
+{
+  "contract": "ecco-acoustic-event-v001",
+  "adapter": "acoustic_event_v002.py",
+  "units": "metres_seconds",
+  "timing_reference": "send_s/contact_s/receive_s are leading-front times; three fronts lag0/.07/.14s",
+  "arc_phases": [
+    {"arc_index": 1, "lag_s": 0, "send_s": "event.send_s", "contact_s": "event.contact_s", "receive_s": "event.receive_s"},
+    {"arc_index": 2, "lag_s": 0.07, "send_s": "event.send_s+0.07", "contact_s": "event.contact_s+0.07", "receive_s": "event.receive_s+0.07"},
+    {"arc_index": 3, "lag_s": 0.14, "send_s": "event.send_s+0.14", "contact_s": "event.contact_s+0.14", "receive_s": "event.receive_s+0.14"}
+  ],
+  "packet_intervals": {
+    "send_start_s": "event.send_s",
+    "last_send_launch_s": "event.send_s+0.14",
+    "send_end_s": "event.contact_s+0.14",
+    "contact_first_s": "event.contact_s",
+    "contact_last_s": "event.contact_s+0.14",
+    "return_start_s": "event.contact_s",
+    "return_end_s": "event.receive_s+0.14"
+  },
+  "packet_end_s": "event.receive_s+0.14",
+  "hold_emitter_until_s": "at least packet_end_s",
+  "native_cap_policy": "Exactly one named native retained temporary imaging-cap mesh is required. Missing or ambiguous caps raise; no implicit inherited-reference fallback.",
+  "source_metadata": ["library", "object", "version", "sha256", "face_index", "library_parent", "library_filepath_exposed", "resolution_policy"],
+  "emitter_surface_additions": ["offset_from_reference_m", "status"],
+  "source_validation": "Actual resolved file exists and SHA256 matches; native re-sample validates cap/reference/wall coordinates, normal, face, source identity and measured offset. Blender5.2 exposed nested paths are consumer-normalized, as evidenced in nested-path-inspection_resume_v001.json; no basename lookup.",
+  "verifier": "acoustic_verify_v002.verify_packet(event,objects=None,frames=None,fps=None)",
+  "verifier_scope": "Each of3 fronts per leg: nondegenerate visible progression, declared visibility, saved position channels for hidden endpoints, evaluated world positions while visible, finite curve envelope within first wall/outside cap plane. Actual reference/cap/wall held through final packet return.",
+  "limits": "Illustrative timing/graphics. Native temporary-cap exit is a provisional geometric emission convention; no certified transducer datum, acoustic speed or firing cadence. No reconstruction/output or film shot implied."
+}

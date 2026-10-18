@@ -1,0 +1,1372 @@
+[
+  {
+    "kind": "A",
+    "scene": "Scenes/Sensing_reuse_A_v009.blend",
+    "rim_vertex_facecentre_samples": 24864,
+    "projected": 0,
+    "unoccluded": 0,
+    "all_outside_or_opaque_occluded": true,
+    "unoccluded_examples": [],
+    "frames": [
+      {
+        "frame": 1,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 2,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 3,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 4,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 5,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 6,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 7,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 8,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 9,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 10,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 11,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 12,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 13,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 14,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 15,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 16,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 17,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 18,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 19,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 20,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 21,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 22,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 23,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 24,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 25,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 26,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 27,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 28,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 29,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 30,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 31,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 32,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 33,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 34,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 35,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 36,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 37,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 38,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 39,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 40,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 41,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 42,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 43,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 44,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 45,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 46,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 47,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 48,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 49,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 50,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 51,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 52,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 53,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 54,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 55,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 56,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 57,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 58,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 59,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 60,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 61,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 62,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 63,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 64,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 65,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 66,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 67,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 68,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 69,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 70,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 71,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 72,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 73,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 74,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 75,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 76,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 77,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 78,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 79,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 80,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 81,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 82,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 83,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 84,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 85,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 86,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 87,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 88,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 89,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 90,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 91,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 92,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 93,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 94,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 95,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 96,
+        "projected": 0,
+        "unoccluded": 0
+      }
+    ],
+    "method": "All finite far-rim vertices/end-facecentres, every saved frame. Camera clipping plus actual evaluated opaque mesh BVH ray occlusion; static local mesh caches, current rigid matrices."
+  },
+  {
+    "kind": "B",
+    "scene": "Scenes/Sensing_reuse_B_v009.blend",
+    "rim_vertex_facecentre_samples": 27972,
+    "projected": 27972,
+    "unoccluded": 1944,
+    "all_outside_or_opaque_occluded": false,
+    "unoccluded_examples": [
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.09650415927171707,
+          0.04080130532383919
+        ],
+        "uv": [
+          0.5276286005973816,
+          0.5763920545578003,
+          14.26675796508789
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.09204024821519852,
+          0.05006390064954758
+        ],
+        "uv": [
+          0.5273512601852417,
+          0.5774193406105042,
+          14.266383171081543
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.08668991923332214,
+          0.058844346553087234
+        ],
+        "uv": [
+          0.527018666267395,
+          0.5783932209014893,
+          14.266059875488281
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.08050473034381866,
+          0.06705810129642487
+        ],
+        "uv": [
+          0.5266339778900146,
+          0.5793042778968811,
+          14.265791893005371
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.07354423403739929,
+          0.07462603598833084
+        ],
+        "uv": [
+          0.5262008309364319,
+          0.5801436901092529,
+          14.265582084655762
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.06587547808885574,
+          0.08147528767585754
+        ],
+        "uv": [
+          0.5257234573364258,
+          0.5809035301208496,
+          14.26543140411377
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.05757229030132294,
+          0.08753988146781921
+        ],
+        "uv": [
+          0.525206446647644,
+          0.5815762877464294,
+          14.265342712402344
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.04871465265750885,
+          0.09276142716407776
+        ],
+        "uv": [
+          0.5246548056602478,
+          0.5821555256843567,
+          14.265316009521484
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.03938787057995796,
+          0.09708963334560394
+        ],
+        "uv": [
+          0.5240738391876221,
+          0.582635760307312,
+          14.265351295471191
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.02968176081776619,
+          0.10048280656337738
+        ],
+        "uv": [
+          0.5234691500663757,
+          0.5830121636390686,
+          14.265448570251465
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.01968979462981224,
+          0.10290826857089996
+        ],
+        "uv": [
+          0.522846519947052,
+          0.5832812786102295,
+          14.265606880187988
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.009508207440376282,
+          0.10434267669916153
+        ],
+        "uv": [
+          0.522212028503418,
+          0.5834404826164246,
+          14.265824317932129
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          -0.0007649436593055725,
+          0.10477221012115479
+        ],
+        "uv": [
+          0.5215718150138855,
+          0.5834881663322449,
+          14.26609992980957
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          -0.011030737310647964,
+          0.10419271886348724
+        ],
+        "uv": [
+          0.5209319591522217,
+          0.5834239721298218,
+          14.266429901123047
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          -0.02119028940796852,
+          0.1026097983121872
+        ],
+        "uv": [
+          0.5202986598014832,
+          0.5832484364509583,
+          14.26681137084961
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          -0.031145773828029633,
+          0.10003869980573654
+        ],
+        "uv": [
+          0.5196780562400818,
+          0.5829633474349976,
+          14.267241477966309
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.10003869980573654,
+          0.031145773828029633
+        ],
+        "uv": [
+          0.5278478860855103,
+          0.5753213167190552,
+          14.267181396484375
+        ]
+      },
+      {
+        "frame": 1,
+        "point_world": [
+          -13.0,
+          0.09650415927171707,
+          0.04080130532383919
+        ],
+        "uv": [
+          0.5276286005973816,
+          0.5763920545578003,
+          14.26675796508789
+        ]
+      },
+      {
+        "frame": 2,
+        "point_world": [
+          -13.0,
+          0.09650415927171707,
+          0.04080130532383919
+        ],
+        "uv": [
+          0.5276286005973816,
+          0.5763920545578003,
+          14.26675796508789
+        ]
+      },
+      {
+        "frame": 2,
+        "point_world": [
+          -13.0,
+          0.09204024821519852,
+          0.05006390064954758
+        ],
+        "uv": [
+          0.5273512601852417,
+          0.5774193406105042,
+          14.266383171081543
+        ]
+      },
+      {
+        "frame": 2,
+        "point_world": [
+          -13.0,
+          0.08668991923332214,
+          0.058844346553087234
+        ],
+        "uv": [
+          0.527018666267395,
+          0.5783932209014893,
+          14.266059875488281
+        ]
+      },
+      {
+        "frame": 2,
+        "point_world": [
+          -13.0,
+          0.08050473034381866,
+          0.06705810129642487
+        ],
+        "uv": [
+          0.5266339778900146,
+          0.5793042778968811,
+          14.265791893005371
+        ]
+      },
+      {
+        "frame": 2,
+        "point_world": [
+          -13.0,
+          0.07354423403739929,
+          0.07462603598833084
+        ],
+        "uv": [
+          0.5262008309364319,
+          0.5801436901092529,
+          14.265582084655762
+        ]
+      },
+      {
+        "frame": 2,
+        "point_world": [
+          -13.0,
+          0.06587547808885574,
+          0.08147528767585754
+        ],
+        "uv": [
+          0.5257234573364258,
+          0.5809035301208496,
+          14.26543140411377
+        ]
+      },
+      {
+        "frame": 2,
+        "point_world": [
+          -13.0,
+          0.05757229030132294,
+          0.08753988146781921
+        ],
+        "uv": [
+          0.525206446647644,
+          0.5815762877464294,
+          14.265342712402344
+        ]
+      }
+    ],
+    "frames": [
+      {
+        "frame": 1,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 2,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 3,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 4,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 5,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 6,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 7,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 8,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 9,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 10,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 11,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 12,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 13,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 14,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 15,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 16,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 17,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 18,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 19,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 20,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 21,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 22,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 23,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 24,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 25,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 26,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 27,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 28,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 29,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 30,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 31,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 32,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 33,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 34,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 35,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 36,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 37,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 38,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 39,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 40,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 41,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 42,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 43,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 44,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 45,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 46,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 47,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 48,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 49,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 50,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 51,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 52,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 53,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 54,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 55,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 56,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 57,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 58,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 59,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 60,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 61,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 62,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 63,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 64,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 65,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 66,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 67,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 68,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 69,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 70,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 71,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 72,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 73,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 74,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 75,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 76,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 77,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 78,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 79,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 80,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 81,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 82,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 83,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 84,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 85,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 86,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 87,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 88,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 89,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 90,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 91,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 92,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 93,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 94,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 95,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 96,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 97,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 98,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 99,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 100,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 101,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 102,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 103,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 104,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 105,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 106,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 107,
+        "projected": 259,
+        "unoccluded": 18
+      },
+      {
+        "frame": 108,
+        "projected": 259,
+        "unoccluded": 18
+      }
+    ],
+    "method": "All finite far-rim vertices/end-facecentres, every saved frame. Camera clipping plus actual evaluated opaque mesh BVH ray occlusion; static local mesh caches, current rigid matrices."
+  }
+]

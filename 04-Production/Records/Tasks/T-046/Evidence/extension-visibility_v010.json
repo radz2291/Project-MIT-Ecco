@@ -1,0 +1,1046 @@
+[
+  {
+    "kind": "A",
+    "scene": "Scenes/Sensing_reuse_A_v009.blend",
+    "rim_vertex_facecentre_samples": 24864,
+    "projected": 0,
+    "unoccluded": 0,
+    "all_outside_or_opaque_occluded": true,
+    "unoccluded_examples": [],
+    "frames": [
+      {
+        "frame": 1,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 2,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 3,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 4,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 5,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 6,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 7,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 8,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 9,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 10,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 11,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 12,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 13,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 14,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 15,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 16,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 17,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 18,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 19,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 20,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 21,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 22,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 23,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 24,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 25,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 26,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 27,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 28,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 29,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 30,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 31,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 32,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 33,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 34,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 35,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 36,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 37,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 38,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 39,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 40,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 41,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 42,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 43,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 44,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 45,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 46,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 47,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 48,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 49,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 50,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 51,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 52,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 53,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 54,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 55,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 56,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 57,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 58,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 59,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 60,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 61,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 62,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 63,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 64,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 65,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 66,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 67,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 68,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 69,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 70,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 71,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 72,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 73,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 74,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 75,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 76,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 77,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 78,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 79,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 80,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 81,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 82,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 83,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 84,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 85,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 86,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 87,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 88,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 89,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 90,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 91,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 92,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 93,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 94,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 95,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 96,
+        "projected": 0,
+        "unoccluded": 0
+      }
+    ],
+    "method": "All finite far-rim vertices/end-facecentres, every saved frame unless failed frame found. Camera clipping plus actual evaluated opaque mesh BVH ray occlusion; static local mesh caches, current rigid matrices."
+  },
+  {
+    "kind": "B",
+    "scene": "Scenes/Sensing_reuse_B_v010.blend",
+    "rim_vertex_facecentre_samples": 27972,
+    "projected": 0,
+    "unoccluded": 0,
+    "all_outside_or_opaque_occluded": true,
+    "unoccluded_examples": [],
+    "frames": [
+      {
+        "frame": 1,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 2,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 3,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 4,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 5,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 6,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 7,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 8,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 9,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 10,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 11,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 12,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 13,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 14,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 15,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 16,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 17,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 18,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 19,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 20,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 21,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 22,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 23,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 24,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 25,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 26,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 27,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 28,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 29,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 30,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 31,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 32,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 33,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 34,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 35,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 36,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 37,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 38,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 39,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 40,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 41,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 42,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 43,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 44,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 45,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 46,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 47,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 48,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 49,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 50,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 51,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 52,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 53,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 54,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 55,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 56,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 57,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 58,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 59,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 60,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 61,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 62,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 63,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 64,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 65,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 66,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 67,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 68,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 69,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 70,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 71,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 72,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 73,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 74,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 75,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 76,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 77,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 78,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 79,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 80,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 81,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 82,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 83,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 84,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 85,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 86,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 87,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 88,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 89,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 90,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 91,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 92,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 93,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 94,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 95,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 96,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 97,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 98,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 99,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 100,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 101,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 102,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 103,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 104,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 105,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 106,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 107,
+        "projected": 0,
+        "unoccluded": 0
+      },
+      {
+        "frame": 108,
+        "projected": 0,
+        "unoccluded": 0
+      }
+    ],
+    "method": "All finite far-rim vertices/end-facecentres, every saved frame unless failed frame found. Camera clipping plus actual evaluated opaque mesh BVH ray occlusion; static local mesh caches, current rigid matrices."
+  }
+]

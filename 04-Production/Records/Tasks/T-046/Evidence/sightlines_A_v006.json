@@ -1,0 +1,66 @@
+{
+  "rays": [
+    {
+      "event": "t46-a-01",
+      "target": "cap_exit",
+      "camera": [
+        1.1800000667572021,
+        0.07013875991106033,
+        0.1314593255519867
+      ],
+      "point": [
+        1.2300000190734863,
+        0.0616656132042408,
+        0.1155783087015152
+      ],
+      "occluders": []
+    },
+    {
+      "event": "t46-a-01",
+      "target": "wall_contact",
+      "camera": [
+        1.1800000667572021,
+        0.07013875991106033,
+        0.1314593255519867
+      ],
+      "point": [
+        1.2300000190734863,
+        0.07323293387889862,
+        0.1372586339712143
+      ],
+      "occluders": []
+    },
+    {
+      "event": "t46-a-02",
+      "target": "cap_exit",
+      "camera": [
+        1.1950000524520874,
+        0.033985745161771774,
+        0.14507229626178741
+      ],
+      "point": [
+        1.2450000047683716,
+        0.029880080372095108,
+        0.1275467574596405
+      ],
+      "occluders": []
+    },
+    {
+      "event": "t46-a-02",
+      "target": "wall_contact",
+      "camera": [
+        1.1950000524520874,
+        0.033985745161771774,
+        0.14507229626178741
+      ],
+      "point": [
+        1.2450000047683716,
+        0.03548486530780792,
+        0.15147146582603455
+      ],
+      "occluders": []
+    }
+  ],
+  "all_clear": true,
+  "camera_method": "Actual reference + axial offset plus radial distance inside annulus; look at native cap-exit/wall midpoint; follows between held events only"
+}

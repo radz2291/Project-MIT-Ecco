@@ -1,0 +1,41 @@
+{
+  "task": "T46",
+  "retained": [
+    {
+      "attempt": "first sampler inspection during initial consumer build",
+      "error": "ReferenceError: StructRNA of type DepsgraphObjectInstance has been removed",
+      "repair": "Copy original object and matrix during depsgraph iteration, rather than retaining ephemeral instance structs.",
+      "impact": "Consumer build stopped; no render started. Immutable Acoustics v001/v002 had already saved."
+    },
+    {
+      "attempt": "Sensing_reuse_A/B_v002 and v003.blend",
+      "error": "Fresh reopen found unrelated BHA/environment library paths shifted to 04-Production/Records/Shared/Assets.",
+      "repair": "Start again from valid v001; capture all absolute library paths before reload/remap. Save v004 and fresh-open verify.",
+      "impact": "Failed task-owned native files preserved locally; originals unchanged."
+    },
+    {
+      "attempt": "first render script metadata preflight",
+      "error": "GPU platform query before renderer initialization raised SystemError; next attempt used unavailable gpu.platform.device_get.",
+      "repair": "Defer supported backend/vendor/renderer/version queries until after full first timed render.",
+      "impact": "First error prevented rendering. Second attempt wrote frame1 but did not create a successful timing log; excluded from compliance claims."
+    },
+    {
+      "attempt": "Sensing_reuse_A/B_v004 queued benchmark",
+      "error": "Actual images showed foreground formation covering sensor/contact.",
+      "repair": "Save lower consumer-camera successor v005 and test through actual existing cutaway opening. Further image inspection required before any demo batch.",
+      "impact": "All ten measured renders below5s; visual failure still rejected. No batch started. Benchmark PNGs/logs preserved."
+    },
+    {
+      "attempt": "v005 native sender sightline diagnostic",
+      "error": "Lower external camera could see contact but source housing intercepted the emitter line32.35mm before the inherited reference. Native cap face was2mm proud of the reference.",
+      "repair": "Sample exact retained temporary-cap outer exit with reference separate; derive inside-annulus along-X camera from actual sensor/wall gap. Source references/geometry unchanged.",
+      "impact": "No v005 render was run; native sightline evidence retained."
+    },
+    {
+      "attempt": "v006 queued3-frame sample",
+      "error": "Source/contact/cup/patch visible, but edge-on fan and thick arcs read as rods; fixed marker too strong in macro view.",
+      "repair": "Immutable Acoustics_v003 thin curves; consumer fan rotated to circumferential plane; fixed sample scaled0.4. v008 retains native event/camera/timing and passes finite-envelope tests.",
+      "impact": "All three full renders0.690–1.861s; no batch started. v006 PNGs/logs and natives preserved."
+    }
+  ]
+}

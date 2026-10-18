@@ -1,0 +1,70 @@
+{
+  "scene": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v004.blend",
+  "kind": "benchmark",
+  "backend": "VULKAN",
+  "hardware": [
+    "Windows-11-10.0.26100-SP0",
+    "NVIDIA Corporation",
+    "NVIDIA GeForce GTX 1060 3GB",
+    "NVIDIA 560.94"
+  ],
+  "engine": "BLENDER_EEVEE",
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "samples": 16,
+  "color_management": [
+    "AgX",
+    "AgX - Medium High Contrast"
+  ],
+  "compositor": false,
+  "cache": "Normal pre-existing GPU driver disk caches; no warmup render, first render in this process labelled first_process. Empty-cache 12.55\u201325.13s T44 limitation unresolved.",
+  "measurement": "wall clock complete bpy.ops.render.render(write_still=True), initialization/write included, process/file loading excluded",
+  "frames": [
+    {
+      "frame": 1,
+      "seconds": 1.5324382000035257,
+      "under_5": true,
+      "first_process": true,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Benchmark_A/f0001.png"
+    },
+    {
+      "frame": 17,
+      "seconds": 1.071933799998078,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Benchmark_A/f0017.png"
+    },
+    {
+      "frame": 23,
+      "seconds": 0.735960600002727,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Benchmark_A/f0023.png"
+    },
+    {
+      "frame": 31,
+      "seconds": 0.9450445999973454,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Benchmark_A/f0031.png"
+    },
+    {
+      "frame": 40,
+      "seconds": 0.7315899999957765,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Benchmark_A/f0040.png"
+    },
+    {
+      "frame": 96,
+      "seconds": 0.7706433000057586,
+      "under_5": true,
+      "first_process": false,
+      "path": "04-Production/Records/Tasks/T-046/Previews/Benchmark_A/f0096.png"
+    }
+  ],
+  "all_under_5": true
+}

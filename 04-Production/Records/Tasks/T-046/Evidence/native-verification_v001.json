@@ -1,0 +1,1380 @@
+{
+  "checks": [
+    {
+      "name": "relative/resolved libraries A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Acoustics v003 linked A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "single product A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one sensor plane A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "120 degree references A",
+      "passed": true,
+      "detail": [
+        2.0943950706332117,
+        2.0943951437983355,
+        2.094395092748039
+      ]
+    },
+    {
+      "name": "event valid t46-a-01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native first hit t46-a-01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 22",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 23",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 24",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 25",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 26",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 27",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 28",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 29",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 31",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 32",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 33",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 34",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 35",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 36",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 37",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 38",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 39",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 40",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 41",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 42",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 43",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 44",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 45",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 46",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 47",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 48",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 49",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 50",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 51",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 52",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 53",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 54",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 55",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 56",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 57",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 58",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 59",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 60",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 61",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 62",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 63",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 64",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 65",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 66",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 67",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 68",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 69",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 70",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 71",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 72",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 73",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 74",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 75",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 76",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 77",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 78",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 79",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 80",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 81",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 82",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 83",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 84",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 85",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 86",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 87",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 88",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 89",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 90",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 91",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 92",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 93",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 94",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 95",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-01 96",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "sensor stationary during event t46-a-01",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "name": "event valid t46-a-02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native first hit t46-a-02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 65",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 66",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 67",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 68",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 69",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 70",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 71",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 72",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 73",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 74",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 75",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 76",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 77",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 78",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 79",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 80",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 81",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 82",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 83",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 84",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 85",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 86",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 87",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 88",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 89",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 90",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 91",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 92",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 93",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 94",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 95",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-a-02 96",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "sensor stationary during event t46-a-02",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "name": "no visible arc centerline beyond wall A",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "name": "no finite arc envelope beyond wall A",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "name": "no finite arc envelope behind native emitter cap exit A",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "name": "saved send and return arcs actually visible A",
+      "passed": true,
+      "detail": {
+        "SEND": 65,
+        "RETURN": 65
+      }
+    },
+    {
+      "name": "shared migration camera/timing preserved A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "clear actual cap/contact sightlines A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "relative/resolved libraries B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Acoustics v003 linked B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "single product B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one sensor plane B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "120 degree references B",
+      "passed": true,
+      "detail": [
+        2.0943950706332117,
+        2.0943951437983355,
+        2.094395092748039
+      ]
+    },
+    {
+      "name": "event valid t46-b-01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native first hit t46-b-01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 28",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 29",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 31",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 32",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 33",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 34",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 35",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 36",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 37",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 38",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 39",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 40",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 41",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 42",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 43",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 44",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 45",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 46",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 47",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 48",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 49",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 50",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 51",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 52",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 53",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 54",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 55",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 56",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 57",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 58",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 59",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 60",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 61",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 62",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 63",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 64",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 65",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 66",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 67",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 68",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 69",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 70",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 71",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 72",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 73",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 74",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 75",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 76",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 77",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 78",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 79",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 80",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 81",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 82",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 83",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 84",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 85",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 86",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 87",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 88",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 89",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 90",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 91",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 92",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 93",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 94",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 95",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 96",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 97",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 98",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 99",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 100",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 101",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 102",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 103",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 104",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 105",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 106",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 107",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-01 108",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "sensor stationary during event t46-b-01",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "name": "event valid t46-b-02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native first hit t46-b-02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 71",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 72",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 73",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 74",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 75",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 76",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 77",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 78",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 79",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 80",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 81",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 82",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 83",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 84",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 85",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 86",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 87",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 88",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 89",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 90",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 91",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 92",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 93",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 94",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 95",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 96",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 97",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 98",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 99",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 100",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 101",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 102",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 103",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 104",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 105",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 106",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 107",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fixed sample t46-b-02 108",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "sensor stationary during event t46-b-02",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "name": "no visible arc centerline beyond wall B",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "name": "no finite arc envelope beyond wall B",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "name": "no finite arc envelope behind native emitter cap exit B",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "name": "saved send and return arcs actually visible B",
+      "passed": true,
+      "detail": {
+        "SEND": 65,
+        "RETURN": 65
+      }
+    },
+    {
+      "name": "shared migration camera/timing preserved B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "clear actual cap/contact sightlines B",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "all_pass": true,
+  "native": [
+    {
+      "path": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v008.blend",
+      "sha256": "40634d8f88069c2d0d9fdc1f890287c064bd6d36679f29554e775b40704e451a",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend"
+        }
+      ],
+      "camera": [
+        1.1950000524520874,
+        0.033985745161771774,
+        0.14507229626178741
+      ],
+      "frames": 96,
+      "max_arc_penetration_m": 0
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_B_v008.blend",
+      "sha256": "5e10f833249a1c930f9648925a05bcf05f7cb9d37f81f7a9a47a89b7f4325e09",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend"
+        }
+      ],
+      "camera": [
+        1.3049999475479126,
+        0.03352956101298332,
+        0.1431250125169754
+      ],
+      "frames": 108,
+      "max_arc_penetration_m": 0
+    }
+  ],
+  "kind": "executor self-checks, not independent verification or human acceptance"
+}

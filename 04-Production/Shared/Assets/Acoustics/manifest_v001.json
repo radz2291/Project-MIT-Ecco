@@ -1,0 +1,150 @@
+{
+  "task": "T46",
+  "ticket_id": "41cb52bd-780a-4fc2-9b2f-df2728b3aba4",
+  "version": "v001",
+  "status": "held_waiting_revised_T44_release_and_T45_ownership",
+  "base_commit": "df1bc5626e820dc3a0b9af286bfcca4ce498d8c0",
+  "current_master": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+  "current_consumers": [
+    "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v008.blend",
+    "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_B_v008.blend"
+  ],
+  "top_collection": "ACOUSTICS_MASTER",
+  "units": "metres_seconds",
+  "basis": "Frozen unscaled T44 +X longitudinal; prototype+Z propagation/normal",
+  "artifacts": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+      "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+      "bytes": 97869,
+      "kind": "current_local_master"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v008.blend",
+      "sha256": "40634d8f88069c2d0d9fdc1f890287c064bd6d36679f29554e775b40704e451a",
+      "bytes": 169494,
+      "kind": "current_local_consumer_not_yet_rendered"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_B_v008.blend",
+      "sha256": "5e10f833249a1c930f9648925a05bcf05f7cb9d37f81f7a9a47a89b7f4325e09",
+      "bytes": 173669,
+      "kind": "current_local_consumer_not_yet_rendered"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Evidence/events_A_v002.json",
+      "sha256": "e63e67b5346aa6e6d64c5c3e6b81c7f9d9d349b06395ae36fd0140c525187572",
+      "bytes": 6803,
+      "kind": "current_native_cap_exit_events"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Evidence/events_B_v002.json",
+      "sha256": "fe8f3fa87dc02f0932234ea01d3be6f40d9e4a01a5a55090e5cbee9616081768",
+      "bytes": 6797,
+      "kind": "current_native_cap_exit_events"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Evidence/native-verification_v001.json",
+      "sha256": "27159cbb8e6c95f23f4da1a67aa2bb679a06426fabda80bbcb677454ee56e57b",
+      "bytes": 30558,
+      "kind": "executor_native_260_checks"
+    }
+  ],
+  "preserved": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/Acoustics_v001.blend",
+      "sha256": "9438956e8d7bd405faed29c9e1e8c531706f3b155516285bd44ff58a6656bcba",
+      "bytes": 97882,
+      "kind": "preserved_prior_master"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/Acoustics_v002.blend",
+      "sha256": "9712ec199316ed337769582c735722b56370fb6cd01691fd77e6526b3742163a",
+      "bytes": 97870,
+      "kind": "preserved_prior_master"
+    }
+  ],
+  "sources": [
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "bytes": 194252,
+      "kind": "frozen_prior_T44_release"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "bytes": 9608678,
+      "kind": "frozen_prior_T44_release"
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "bytes": 18275711,
+      "kind": "frozen_prior_T44_release"
+    }
+  ],
+  "failed_visual_evidence": [
+    {
+      "path": "04-Production/Records/Tasks/T-046/Previews/Sample_v006_A/f0017.png",
+      "sha256": "5e8d149320d8f6a35ffa52b859c074aa55cfe152f647ec971237d4b59c80451c",
+      "bytes": 1084898,
+      "kind": "retained_failed_arc_readability"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Previews/Sample_v006_A/f0023.png",
+      "sha256": "6d299ea20eded4253a613539c6234bd13fe036fe7d92de18c9f6113092c69b86",
+      "bytes": 1101122,
+      "kind": "retained_failed_arc_readability"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Previews/Sample_v006_A/f0031.png",
+      "sha256": "420e1b9f5e0ec1559e67943f9a644d762a04bb2ac02dfd1c66c8769f4e84ec55",
+      "bytes": 1106447,
+      "kind": "retained_failed_arc_readability"
+    }
+  ],
+  "event_exports": [
+    "04-Production/Records/Tasks/T-046/Evidence/events_A_v002.json",
+    "04-Production/Records/Tasks/T-046/Evidence/events_B_v002.json"
+  ],
+  "consumer_ids": [
+    "S02-A",
+    "S02-B",
+    "S02-C",
+    "S04-B",
+    "S04-D"
+  ],
+  "interface_modules": [
+    "Scripts/acoustic_event_v001.py",
+    "Scripts/acoustic_binding_v001.py"
+  ],
+  "event_contract": "ecco-acoustic-event-v001 plus optional reference_world_m/reference_pose_world/emitter_surface native cap-exit metadata",
+  "native_self_checks": {
+    "count": 260,
+    "passed": true,
+    "evidence": "04-Production/Records/Tasks/T-046/Evidence/native-verification_v001.json",
+    "independent": false
+  },
+  "visual_status": "v004 failed framing; v005 diagnosed source occlusion; v006 showed source/contact but arcs were thick edge-on rods. v008 thinfan/smallmarker NOT yet rendered. No demo exists.",
+  "pending": [
+    "Revised T44 release and explicit T45 restoration",
+    "Reconcile native face/wall samples and source hashes to revised upstream",
+    "Queued3frame thin-fan image sample and appearance repair if needed",
+    "Representative/peak benchmarks on both final consumers before batches",
+    "Short playable behavior demo, decode and actual motion/selected-image inspection",
+    "Cross-package actual cased event compatibility",
+    "Sole-integrator allowed-path commit/push and fresh remote SHA verification",
+    "Independent verification against exact candidate SHA/native hashes",
+    "Only then Review; Radzi retains acceptance"
+  ],
+  "render_limit": "Strictly<5s complete render-to-file. Prior v00410 samples0.707\u20131.561s; v0063 samples0.690\u20131.861s. All normal existing Vulkan caches; T44 empty-cache initialization12.55\u201325.13s unresolved.",
+  "storage": "All native/video/raw-frame media local Git-ignored; no upload/off-machine backup claimed.",
+  "limits": [
+    "Native temporary-cap exit is a provisional graphic emission convention, not certified transducer geometry",
+    "Illustrative timing/graphics, not calibrated acoustics/firing cadence",
+    "Reference plane/120degree spacing and2.400m source preserved; no mud-sensor coordinate",
+    "No reconstruction/A-OUTPUT/actual movie shot/narration/editing/client contact",
+    "No final visual verdict, engineering approval, client acceptance or Review claim"
+  ]
+}

@@ -1,0 +1,1001 @@
+[
+  {
+    "name": "v005",
+    "camera": [
+      1.0800000429153442,
+      -0.6499999761581421,
+      0.22499999403953552
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.7348408730471061,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.7024944424629211,
+            0.03234643058418496
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.7348408102989197,
+            6.274818642459934e-08
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.7438174522816373,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_-0.15_0.008",
+    "camera": [
+      1.0800000429153442,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.15021316009310023,
+        "occluders": [
+          [
+            "TEMP | Service cover 1 | removable fitted plate",
+            0.06444530934095383,
+            0.08576785075214641
+          ],
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.11976992338895798,
+            0.030443236704142257
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.1301846206188202,
+            0.020028539474280044
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.15114547434717304,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_-0.15_0.012",
+    "camera": [
+      1.0800000429153442,
+      0.06637292355298996,
+      0.12440110743045807
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.15047921269138956,
+        "occluders": [
+          [
+            "TEMP | Service cover 1 | removable fitted plate",
+            0.09319935739040375,
+            0.05727985530098581
+          ],
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.1199820339679718,
+            0.030497178723417756
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.1304151862859726,
+            0.020064026405416963
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.15070623563857802,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_-0.15_0.017",
+    "camera": [
+      1.0800000429153442,
+      0.0687265694141388,
+      0.1288124918937683
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.15096023755627566,
+        "occluders": [
+          [
+            "TEMP | Service cover 1 | removable fitted plate",
+            0.11039814352989197,
+            0.040562094026383694
+          ],
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.12036559730768204,
+            0.030594640248593624
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.13320045173168182,
+            0.017759785824593838
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.15030515050336968,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_-0.1_0.008",
+    "camera": [
+      1.1299999952316284,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.10031951183474601,
+        "occluders": [
+          [
+            "TEMP | Service cover 1 | removable fitted plate",
+            0.04303964227437973,
+            0.05727986956036628
+          ],
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.06982234865427017,
+            0.030497163180475836
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.08025550842285156,
+            0.020064003411894446
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.10171020305376607,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_-0.1_0.012",
+    "camera": [
+      1.1299999952316284,
+      0.06637292355298996,
+      0.12440110743045807
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.1007174485470459,
+        "occluders": [
+          [
+            "TEMP | Service cover 1 | removable fitted plate",
+            0.062379397451877594,
+            0.0383380510951683
+          ],
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.07009931653738022,
+            0.030618132009665677
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.08393142372369766,
+            0.016786024823348233
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.10105632315672772,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_-0.1_0.017",
+    "camera": [
+      1.1299999952316284,
+      0.0687265694141388,
+      0.1288124918937683
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.10143472932212892,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.0705985352396965,
+            0.03083619408243242
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.08950138092041016,
+            0.011933348401718766
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.10045720112290103,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_-0.07_0.008",
+    "camera": [
+      1.159999966621399,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.07045571325564318,
+        "occluders": [
+          [
+            "TEMP | Service cover 1 | removable fitted plate",
+            0.030227303504943848,
+            0.04022840975069933
+          ],
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.03985778987407684,
+            0.030597923381566333
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.052842024713754654,
+            0.017613688541888523
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.07242215462714428,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_-0.07_0.012",
+    "camera": [
+      1.159999966621399,
+      0.06637292355298996,
+      0.12440110743045807
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.0710211765421167,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.04017767310142517,
+            0.030843503440691533
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.05918446183204651,
+            0.011836714710070195
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.07150093373905443,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_-0.07_0.017",
+    "camera": [
+      1.159999966621399,
+      0.0687265694141388,
+      0.1288124918937683
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.07203476513637863,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.06356020271778107,
+            0.008474562418597564
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.07065162654211621,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_0.07_0.008",
+    "camera": [
+      1.3000000715255737,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.07045571325564318,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.011023106053471565,
+            0.05943260720217161
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.052841998636722565,
+            0.017613714618920612
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.07242215462714428,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_0.07_0.012",
+    "camera": [
+      1.3000000715255737,
+      0.06637292355298996,
+      0.12440110743045807
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.0710211765421167,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.031076623126864433,
+            0.03994455341525227
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.05918445438146591,
+            0.011836722160650792
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.07150093373905443,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_0.07_0.017",
+    "camera": [
+      1.3000000715255737,
+      0.0687265694141388,
+      0.1288124918937683
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.07203476513637863,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.06356018781661987,
+            0.008474577319758758
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.07065162654211621,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_0.1_0.008",
+    "camera": [
+      1.3300000429153442,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.10031951183474601,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.01572054997086525,
+            0.08459896186388076
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.08025574684143066,
+            0.020063764993315344
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.10171020305376607,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_0.1_0.012",
+    "camera": [
+      1.3300000429153442,
+      0.06637292355298996,
+      0.12440110743045807
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.1007174485470459,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.044075723737478256,
+            0.05664172480956764
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.08393140137195587,
+            0.016786047175090024
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.10105632315672772,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_0.1_0.017",
+    "camera": [
+      1.3300000429153442,
+      0.0687265694141388,
+      0.1288124918937683
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.10143472932212892,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.06116412207484245,
+            0.04027060724728647
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.08950138092041016,
+            0.011933348401718766
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.10045720112290103,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_0.15_0.008",
+    "camera": [
+      1.3799999952316284,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.15021316009310023,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.023577814921736717,
+            0.12663534517136352
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.1301848590373993,
+            0.020028301055700942
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.15114547434717304,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_0.15_0.012",
+    "camera": [
+      1.3799999952316284,
+      0.06637292355298996,
+      0.12440110743045807
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.15047921269138956,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.06588025391101837,
+            0.08459895878037119
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.1304154396057129,
+            0.020063773085676667
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.15070623563857802,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "inside_0.15_0.017",
+    "camera": [
+      1.3799999952316284,
+      0.0687265694141388,
+      0.1288124918937683
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.15096023755627566,
+        "occluders": [
+          [
+            "ECCO_HOUSING_SOURCE_MESH",
+            0.09103498607873917,
+            0.059925251477536495
+          ],
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.13320042192935944,
+            0.017759815626916226
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.15030515050336968,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_-0.03_0.008",
+    "camera": [
+      1.2000000476837158,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.03104832230868791,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.02328633889555931,
+            0.007761983413128597
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.035283980340386066,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_-0.03_0.014",
+    "camera": [
+      1.2000000476837158,
+      0.06731437891721725,
+      0.12616565823554993
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.03310586274710474,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.028376508504152298,
+            0.004729354242952441
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.03252817153612477,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_-0.03_0.02",
+    "camera": [
+      1.2000000476837158,
+      0.07013875991106033,
+      0.1314593255519867
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.03605548808336132,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.03244998678565025,
+            0.003605501297711068
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.030711631551162542,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_-0.02_0.008",
+    "camera": [
+      1.2100000381469727,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.021540641932445898,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.016155550256371498,
+            0.005385091676074399
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.027293959136380885,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_-0.02_0.014",
+    "camera": [
+      1.2100000381469727,
+      0.06731437891721725,
+      0.12616565823554993
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.024413092489642043,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.020925549790263176,
+            0.003487542699378867
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.02362377785539893,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_-0.02_0.02",
+    "camera": [
+      1.2100000381469727,
+      0.07013875991106033,
+      0.1314593255519867
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.0282842563559145,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.025455866008996964,
+            0.0028283903469175364
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.021052440457392154,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_0_0.008",
+    "camera": [
+      1.2300000190734863,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.008000001354142909,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.006000026594847441,
+            0.0019999747592954684
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.0185731249966954,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_0_0.014",
+    "camera": [
+      1.2300000190734863,
+      0.06731437891721725,
+      0.12616565823554993
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.013999994704008232,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.01200001873075962,
+            0.0019999759732486112
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.012573131947358176,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_0_0.02",
+    "camera": [
+      1.2300000190734863,
+      0.07013875991106033,
+      0.1314593255519867
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.0199999981102882,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.018000025302171707,
+            0.001999972808116493
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.006573128328009713,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_0.02_0.008",
+    "camera": [
+      1.25,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.021540641932445898,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.01615554839372635,
+            0.005385093538719549
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.027293959136380885,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_0.02_0.014",
+    "camera": [
+      1.25,
+      0.06731437891721725,
+      0.12616565823554993
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.024413092489642043,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.020925551652908325,
+            0.003487540836733718
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.02362377785539893,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_0.02_0.02",
+    "camera": [
+      1.25,
+      0.07013875991106033,
+      0.1314593255519867
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.0282842563559145,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.025455866008996964,
+            0.0028283903469175364
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.021052440457392154,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_0.03_0.008",
+    "camera": [
+      1.2599999904632568,
+      0.06449000537395477,
+      0.12087199836969376
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.03104832230868791,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.023286335170269012,
+            0.007761987138418896
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.035283980340386066,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_0.03_0.014",
+    "camera": [
+      1.2599999904632568,
+      0.06731437891721725,
+      0.12616565823554993
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.03310586274710474,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.028376508504152298,
+            0.004729354242952441
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.03252817153612477,
+        "occluders": []
+      }
+    ]
+  },
+  {
+    "name": "near_0.03_0.02",
+    "camera": [
+      1.2599999904632568,
+      0.07013875991106033,
+      0.1314593255519867
+    ],
+    "targets": [
+      {
+        "target": "emitter",
+        "distance": 0.03605548808336132,
+        "occluders": [
+          [
+            "TEMP | Imaging port 1 | removable acoustic cap",
+            0.032449983060359955,
+            0.0036055050230013666
+          ]
+        ]
+      },
+      {
+        "target": "contact",
+        "distance": 0.030711631551162542,
+        "occluders": []
+      }
+    ]
+  }
+]

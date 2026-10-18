@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Acoustics_v001.blend",
+    "filepath": "//..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+    "parent": null,
+    "scene_abspath": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+    "scene_exists": true,
+    "parent_abspath": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+    "parent_exists": true
+  },
+  {
+    "name": "BHA_film_v002.blend",
+    "filepath": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+    "parent": null,
+    "scene_abspath": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+    "scene_exists": true,
+    "parent_abspath": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+    "parent_exists": true
+  },
+  {
+    "name": "ECCO_film_v002.blend",
+    "filepath": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "parent": "BHA_film_v002.blend",
+    "scene_abspath": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "scene_exists": true,
+    "parent_abspath": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "parent_exists": false
+  },
+  {
+    "name": "World_environment_v005.blend",
+    "filepath": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+    "parent": null,
+    "scene_abspath": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+    "scene_exists": true,
+    "parent_abspath": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+    "parent_exists": true
+  }
+]

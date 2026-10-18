@@ -1,0 +1,25 @@
+{
+  "video": {
+    "path": "04-Production/Records/Tasks/T-046/Previews/Sensing_behavior_v002.mp4",
+    "sha256": "c4fcef813fe52709ab10f36ae2d18fb8a3b38a0c294f324e3b3cf5a4416ec30d",
+    "bytes": 529769,
+    "storage": "local-video"
+  },
+  "decoded_frames": 96,
+  "fps": 24,
+  "duration_s": 4.0,
+  "resolution": [
+    1280,
+    720
+  ],
+  "decode_without_errors": true,
+  "all_frames_nonblank_size": true,
+  "distinct_decoded_frame_hashes": 95,
+  "successive_frame_rgb_delta": {
+    "min": 0.000263671875,
+    "max": 34.69192599826389,
+    "moving_transitions": 69
+  },
+  "inspection_sheet": "04-Production/Records/Tasks/T-046/Previews/Frames/motion-inspection_v002.jpg",
+  "scope": "Decoded full local MP4 and selected chronological image inspection. Human narrated comprehension/engineering acceptance not inferred."
+}

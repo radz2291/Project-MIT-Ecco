@@ -1,0 +1,451 @@
+{
+  "world": {
+    "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_A_cleanup_v010.blend",
+    "sha256": "5b97e498582b50f7b24492d97fe8c87b416220ec31412ff4e3a6461cd7cb6031",
+    "instances": [
+      {
+        "name": "WORLD_IRREGULAR_CUTAWAY_INSTANCE",
+        "type": "EMPTY",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "vertices": null
+      },
+      {
+        "name": "IRREGULAR_CUTAWAY",
+        "type": "MESH",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "vertices": 9409
+      },
+      {
+        "name": "ECCO_SENSOR_REF_01",
+        "type": "EMPTY",
+        "matrix": [
+          [
+            -1.0,
+            1.4782422397274786e-07,
+            -7.458959316863911e-08,
+            1.2300000190734863
+          ],
+          [
+            -1.6553353532344772e-07,
+            -0.8822773694992065,
+            0.4707300364971161,
+            0.0607241615653038
+          ],
+          [
+            3.7765879312701145e-09,
+            0.4707300364971161,
+            0.8822773694992065,
+            0.11381378024816513
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "vertices": null
+      },
+      {
+        "name": "ECCO_SENSOR_REF_02",
+        "type": "EMPTY",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            1.2300000190734863
+          ],
+          [
+            0.0,
+            -0.03347468376159668,
+            -0.9994395971298218,
+            -0.12892770767211914
+          ],
+          [
+            0.0,
+            0.9994395971298218,
+            -0.03347468376159668,
+            -0.004318222403526306
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "vertices": null
+      },
+      {
+        "name": "ECCO_SENSOR_REF_03",
+        "type": "EMPTY",
+        "matrix": [
+          [
+            -1.0,
+            7.16074239903719e-08,
+            9.98540414798299e-08,
+            1.2300000190734863
+          ],
+          [
+            1.1357438722825464e-07,
+            0.8488025665283203,
+            0.528709888458252,
+            0.06820353865623474
+          ],
+          [
+            -4.6896815319996676e-08,
+            0.528709888458252,
+            -0.8488025665283203,
+            -0.10949555784463882
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "vertices": null
+      },
+      {
+        "name": "WORLD_FORMATION_IRREGULAR_CUTAWAY_INSTANCE",
+        "type": "EMPTY",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "vertices": null
+      },
+      {
+        "name": "FORMATION_IRREGULAR_CUTAWAY",
+        "type": "MESH",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "vertices": 50232
+      }
+    ],
+    "camera": {
+      "location": [
+        0.7200000286102295,
+        -0.7799999713897705,
+        0.3199999928474426
+      ],
+      "rotation": [
+        1.317097783088684,
+        0.11619391292333603,
+        -0.842307984828949
+      ],
+      "lens": 42.0
+    },
+    "objects": [
+      "APPROVAL_CAMERA",
+      "SOFT_COOL_KEY",
+      "WET_WARM_EDGE",
+      "FORMATION_FILL",
+      "FLUID_GRAZE",
+      "WORLD_PLACEMENT",
+      "WORLD_CONTROL",
+      "WORLD_NOMINAL_FULL_INSTANCE",
+      "WORLD_NOMINAL_CUTAWAY_INSTANCE",
+      "WORLD_IRREGULAR_FULL_INSTANCE",
+      "WORLD_IRREGULAR_CUTAWAY_INSTANCE",
+      "WORLD_SPIRAL_FULL_INSTANCE",
+      "WORLD_SPIRAL_CUTAWAY_INSTANCE",
+      "WORLD_CASING_FULL_INSTANCE",
+      "WORLD_CASING_CUTAWAY_INSTANCE",
+      "WORLD_CEMENT_FULL_INSTANCE",
+      "WORLD_CEMENT_CUTAWAY_INSTANCE",
+      "WORLD_SHOE_INSTANCE",
+      "WORLD_MUD_INSTANCE",
+      "WORLD_HARDWARE_INSTANCE",
+      "WORLD_FORMATION_NOMINAL_FULL_INSTANCE",
+      "WORLD_FORMATION_NOMINAL_CUTAWAY_INSTANCE",
+      "WORLD_FORMATION_IRREGULAR_FULL_INSTANCE",
+      "WORLD_FORMATION_IRREGULAR_CUTAWAY_INSTANCE",
+      "WORLD_FORMATION_SPIRAL_FULL_INSTANCE",
+      "WORLD_FORMATION_SPIRAL_CUTAWAY_INSTANCE"
+    ],
+    "libraries": [
+      "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend"
+    ]
+  },
+  "b201": {
+    "path": "04-Production/Mechanisms/B201/Scenes/B201_pulse-echo_refinement_v006.blend",
+    "sha256": "5523728f2e0862a92cd0f4a0a29eca694b90eebe47c8f1e4a181a77382c9d4c2",
+    "instances": [
+      {
+        "name": "T6_WALL_CONTACT_SECTION",
+        "type": "MESH",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "vertices": 11041
+      }
+    ],
+    "camera": {
+      "location": [
+        2.700000047683716,
+        -0.028798112645745277,
+        0.1474268138408661
+      ],
+      "rotation": [
+        -1.2595170736312866,
+        -1.7170506715774536,
+        1.3369853496551514
+      ],
+      "lens": 27.0
+    },
+    "objects": [
+      "ACOUSTIC_CONTACT_CONTROLLER",
+      "ASSEMBLY_CONTROL",
+      "ASSEMBLY_TRAVEL_X",
+      "ASSEMBLY_ROTATION_X",
+      "ECCO_LINK_v002",
+      "UPPER_COLLAR_PROXY",
+      "UPPER_ADAPTER_UNRESOLVED",
+      "LOWER_ADAPTER_UNRESOLVED",
+      "LOWER_COLLAR_PROXY",
+      "BIT_GAUGE_PROXY_NOT_CUTTERS",
+      "CASING_FULL",
+      "CEMENT_FULL",
+      "CASING_CUTAWAY",
+      "CEMENT_CUTAWAY",
+      "NOMINAL_FULL",
+      "NOMINAL_CUTAWAY",
+      "IRREGULAR_FULL",
+      "IRREGULAR_CUTAWAY",
+      "SPIRAL_FULL",
+      "SPIRAL_CUTAWAY",
+      "T6_IRREGULAR_VIEW_WINDOW",
+      "B201_CONTROL",
+      "TX_1",
+      "ECHO_1",
+      "EMITTER_1",
+      "ANNULAR_PATH_1",
+      "WALL_CONTACT_1",
+      "TX_2",
+      "ECHO_2",
+      "EMITTER_2",
+      "ANNULAR_PATH_2",
+      "WALL_CONTACT_2",
+      "TX_3",
+      "ECHO_3",
+      "EMITTER_3",
+      "ANNULAR_PATH_3",
+      "WALL_CONTACT_3",
+      "TX_4",
+      "ECHO_4",
+      "EMITTER_4",
+      "ANNULAR_PATH_4",
+      "WALL_CONTACT_4",
+      "TX_5",
+      "ECHO_5",
+      "EMITTER_5",
+      "ANNULAR_PATH_5",
+      "WALL_CONTACT_5",
+      "TX_6",
+      "ECHO_6",
+      "EMITTER_6",
+      "ANNULAR_PATH_6",
+      "WALL_CONTACT_6",
+      "CONTACT_AFTERMARK_1",
+      "CONTACT_AFTERMARK_2",
+      "CONTACT_AFTERMARK_3",
+      "CONTACT_AFTERMARK_4",
+      "CONTACT_AFTERMARK_5",
+      "CONTACT_AFTERMARK_6",
+      "B2 review caption",
+      "Meaning",
+      "Illustrative provenance",
+      "Origin limit",
+      "Graphic meaning",
+      "Formula",
+      "Correction caveat",
+      "EVENT_TRACE_4",
+      "TRACE_BASE_4",
+      "Trace ID0",
+      "Tx label0",
+      "Echo label0",
+      "ROUND_TRIP_4",
+      "Delta t0",
+      "EMITTER_TO_TRACE_4",
+      "Explanation phase0",
+      "EVENT_TRACE_5",
+      "TRACE_BASE_5",
+      "Trace ID1",
+      "Tx label1",
+      "Echo label1",
+      "ROUND_TRIP_5",
+      "Delta t1",
+      "EMITTER_TO_TRACE_5",
+      "Explanation phase1",
+      "EVENT_TRACE_6",
+      "TRACE_BASE_6",
+      "Trace ID2",
+      "Tx label2",
+      "Echo label2",
+      "ROUND_TRIP_6",
+      "Delta t2",
+      "EMITTER_TO_TRACE_6",
+      "Explanation phase2",
+      "B201_FILM_VIEW",
+      "Broad soft key",
+      "Long shoulder reflection",
+      "Quiet fill",
+      "Gap soft illumination",
+      "OUTGOING_WAVEFRONT_ILLUSTRATION_1",
+      "OUTGOING_WAVEFRONT_ILLUSTRATION_2",
+      "OUTGOING_WAVEFRONT_ILLUSTRATION_3",
+      "RETURNING_ECHO_FIRST_RECEPTION",
+      "RETURNING_ECHO_FOLLOWER_1",
+      "RETURNING_ECHO_FOLLOWER_2",
+      "T6_WALL_CONTACT_SECTION",
+      "FAST_PREVIEW_TOOL_ROTATION",
+      "PREVIEW | ECCO_HOUSING_SOURCE_MESH",
+      "PREVIEW | TEMP | Service port 3 | removable metal plug",
+      "PREVIEW | TEMP | Service port 2 | removable metal plug",
+      "PREVIEW | TEMP | Service port 1 | removable metal plug",
+      "PREVIEW | TEMP | Service cover 3 | removable fitted plate",
+      "PREVIEW | TEMP | Service cover 2 | removable fitted plate",
+      "PREVIEW | TEMP | Service cover 1 | removable fitted plate",
+      "PREVIEW | TEMP | Imaging port 3 | removable acoustic cap",
+      "PREVIEW | TEMP | Imaging port 2 | removable acoustic cap",
+      "PREVIEW | TEMP | Imaging port 1 | removable acoustic cap",
+      "B201_MOTION_CONTROL",
+      "Timing quiet backing",
+      "Timing purpose",
+      "Transmit label",
+      "Echo label",
+      "Round trip label",
+      "Timing baseline",
+      "Transmit peak",
+      "Echo peak",
+      "Round-trip interval"
+    ],
+    "libraries": [
+      "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend"
+    ]
+  }
+}

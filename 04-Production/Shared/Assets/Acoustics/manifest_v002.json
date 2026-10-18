@@ -1,0 +1,137 @@
+{
+  "task": "T46",
+  "ticket_id": "41cb52bd-780a-4fc2-9b2f-df2728b3aba4",
+  "version": "v002",
+  "status": "candidate_waiting_master_remote_integration_and_independent_verdict",
+  "accepted_upstream_commit": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "current_master": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+  "current_consumers": [
+    "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v009.blend",
+    "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_B_v010.blend"
+  ],
+  "top_collection": "ACOUSTICS_MASTER",
+  "units": "metres_seconds",
+  "axes": "T44 unscaled world+X longitudinal; acoustic local+Z propagation/normal",
+  "artifacts": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+      "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+      "bytes": 97869,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v009.blend",
+      "sha256": "f152264a61d237a2baaed1b106b1a47f649de719dac90a136051bd21aba59033",
+      "bytes": 171899,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_B_v010.blend",
+      "sha256": "040e0562972255c6e6bd13b5b2ade6f42f2cf4fee81d9ce09d40bb7710f261b3",
+      "bytes": 172933,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Previews/Sensing_behavior_v002.mp4",
+      "sha256": "c4fcef813fe52709ab10f36ae2d18fb8a3b38a0c294f324e3b3cf5a4416ec30d",
+      "bytes": 529769,
+      "storage": "local-video"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Previews/Review_send_v002.png",
+      "sha256": "a5deb5ded79aec882a9179bd43ac4a1401f441e6230281705049eca16a2adc06",
+      "bytes": 1093904,
+      "storage": "selected-tracked-still"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Previews/Review_contact_v002.png",
+      "sha256": "395a5fb7bf19116f3c0654c9abe8e589fd06e60c2b9b6f48d364329692ad8599",
+      "bytes": 1103925,
+      "storage": "selected-tracked-still"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Previews/Review_return_v002.png",
+      "sha256": "cd19fb023f734d333bf8da57dec0ca117bde74fe4bbb4b6bd5daeeae796b2dae",
+      "bytes": 1115128,
+      "storage": "selected-tracked-still"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Previews/Review_arrival_cue_v002.png",
+      "sha256": "3de65a434914928ff7e7d1c70c9ede7f40dd4818e1f2430793eb1c0beddcb2fe",
+      "bytes": 1087028,
+      "storage": "selected-tracked-still"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Previews/Review_reuse_B_v002.png",
+      "sha256": "40d823e054f90974b73ab37ac8ae216753f05d51a102e67b43d2faa67e47c8ab",
+      "bytes": 1100384,
+      "storage": "selected-tracked-still"
+    }
+  ],
+  "sources": [
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+      "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "bytes": 103695,
+      "storage": "unchanged-accepted-native-source"
+    },
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "bytes": 194252,
+      "storage": "unchanged-accepted-native-source"
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "bytes": 18275711,
+      "storage": "unchanged-accepted-native-source"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "bytes": 9608678,
+      "storage": "unchanged-accepted-native-source"
+    }
+  ],
+  "event_exports": [
+    {
+      "path": "04-Production/Records/Tasks/T-046/Evidence/events_A_v003.json",
+      "sha256": "c35f42c41f13f8456fb9762f874b0ad8a7116f18d0df9c0a625cdcf4fe85fe61",
+      "bytes": 10463,
+      "storage": "portable-event-json"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-046/Evidence/events_B_v003.json",
+      "sha256": "107a6438bc919059e7d4c739a59f8975ecc1c93153d8764f2f73ab8ef0ff7493",
+      "bytes": 10501,
+      "storage": "portable-event-json"
+    }
+  ],
+  "event_interface": "04-Production/Shared/Assets/Acoustics/event-interface_v002.json",
+  "consumer_ids": [
+    "S02-A",
+    "S02-B",
+    "S02-C",
+    "S04-B",
+    "S04-D"
+  ],
+  "native_verification": "04-Production/Records/Tasks/T-046/Evidence/native-verification_v010.json",
+  "finite_continuation_visibility": "04-Production/Records/Tasks/T-046/Evidence/extension-visibility_v010.json",
+  "media_verification": "04-Production/Records/Tasks/T-046/Evidence/media-verification_v002.json",
+  "benchmarks": [
+    "04-Production/Records/Tasks/T-046/Evidence/benchmark_A_v009.json",
+    "04-Production/Records/Tasks/T-046/Evidence/benchmark_B_v010.json",
+    "04-Production/Records/Tasks/T-046/Evidence/batch_A_v009.json"
+  ],
+  "timing": "Leading-front common times;3fronts lag0/.07/.14s; hold actual cap throughreceive_s+.14; all per-front intervals exported.",
+  "native_backup": "All .blend/video/raw frames/cache local Git-ignored; no media upload or off-machine backup claimed.",
+  "limits": [
+    "Illustrative acoustic timing/graphics; no calibrated speed/firing cadence or field measurements",
+    "Native temporary-cap emission exit is source-derived but provisional, not certified transducer datum",
+    "Source2.400m geometry/reference plane/120degrees retained; no mud-sensor coordinate invented",
+    "No reconstruction/A-OUTPUT/actual film shot/narration/editing/client contact",
+    "Normal-cache render cap only; T44 empty-cache initialization12.55\u201325.13s remains unresolved",
+    "Executor checks/visual inspection do not establish human comprehension, engineering approval or client acceptance"
+  ]
+}
