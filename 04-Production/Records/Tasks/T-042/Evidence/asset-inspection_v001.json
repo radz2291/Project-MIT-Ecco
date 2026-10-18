@@ -1,0 +1,1041 @@
+{
+  "time_utc": "2026-10-18T00:36:27.439956+00:00",
+  "blender": "5.2.2 LTS",
+  "method": "isolated background; scripts disabled; no save or render",
+  "assets": [
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 18296495,
+      "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_WORKBENCH",
+        "x": 1280,
+        "y": 720,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        1
+      ],
+      "object_count": 25,
+      "collections": [
+        "B101_INSPECTION_ONLY",
+        "Collection",
+        "ECCO_CONTROLS",
+        "ECCO_CUTAWAY_TOOLS",
+        "ECCO_EFFECTS_EMPTY",
+        "ECCO_GEOMETRY_REPLACEABLE",
+        "ECCO_MASTER_v002",
+        "ECCO_SENSOR_REFERENCES",
+        "ECCO_TEMPORARY_CLOSURES"
+      ],
+      "controls": [
+        {
+          "name": "ECCO_ROOT",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Translate root; source longitudinal +X, X=0 mesh end, not verified pin shoulder"
+          }
+        },
+        {
+          "name": "ECCO_ROTATION_X",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Rotate local X in radians; inherits axial travel from root. Physical operating direction requires end/viewpoint identification."
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_01",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_02",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_03",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        }
+      ],
+      "libraries": [],
+      "missing_images": [],
+      "source_unchanged": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 4683504,
+      "sha256": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_WORKBENCH",
+        "x": 1280,
+        "y": 720,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        96
+      ],
+      "object_count": 38,
+      "collections": [
+        "ASSEMBLY_CONTROLS",
+        "B102_INSPECTION_ONLY",
+        "LINKED_ECCO",
+        "LOWER_IRREGULAR",
+        "LOWER_NOMINAL",
+        "LOWER_SPIRAL",
+        "PROVISIONAL_BHA_PROXIES",
+        "UPPER_CASED_INTERVAL",
+        "WELL_ASSEMBLY_v003",
+        "WELL_INTERVALS"
+      ],
+      "controls": [
+        {
+          "name": "ASSEMBLY_CONTROL",
+          "type": "EMPTY",
+          "properties": {
+            "travel_m": 0.5,
+            "rotation_rad": 0.0,
+            "variant": 0,
+            "cutaway": 1,
+            "show_open": 1,
+            "show_casing": 1,
+            "show_cement": 1,
+            "show_hardware": 1,
+            "show_proxies": 1,
+            "irregular_strength": 1.0,
+            "spiral_strength": 1.0,
+            "status": "PROVISIONAL ILLUSTRATION authorized by Radzi; O05 remains open before technical lock",
+            "axes": "Source +X test travel. Pin/box source-end identification and actual BHA placement unconfirmed."
+          }
+        },
+        {
+          "name": "ECCO_ROOT",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Translate root; source longitudinal +X, X=0 mesh end, not verified pin shoulder"
+          }
+        },
+        {
+          "name": "ECCO_ROTATION_X",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Rotate local X in radians; inherits axial travel from root. Physical operating direction requires end/viewpoint identification."
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_01",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_02",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_03",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "exists": true
+        }
+      ],
+      "missing_images": [],
+      "source_unchanged": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B201/Scenes/B201_pulse-echo_v005.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 4713393,
+      "sha256": "597b852d3ee851bdac5dc806f6f000b9b882acc66324eeade18a2e895fbc01d5",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_WORKBENCH",
+        "x": 700,
+        "y": 700,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        432
+      ],
+      "object_count": 67,
+      "collections": [
+        "ASSEMBLY_CONTROLS",
+        "B201_SCHEMATIC_EFFECTS",
+        "LINKED_ECCO",
+        "LOWER_IRREGULAR",
+        "LOWER_NOMINAL",
+        "LOWER_SPIRAL",
+        "PROVISIONAL_BHA_PROXIES",
+        "UPPER_CASED_INTERVAL",
+        "WELL_ASSEMBLY_v003",
+        "WELL_INTERVALS"
+      ],
+      "controls": [
+        {
+          "name": "ASSEMBLY_CONTROL",
+          "type": "EMPTY",
+          "properties": {
+            "travel_m": 2.07,
+            "rotation_rad": 0.0,
+            "variant": 1,
+            "cutaway": 0,
+            "show_open": 1,
+            "show_casing": 0,
+            "show_cement": 0,
+            "show_hardware": 0,
+            "show_proxies": 0,
+            "irregular_strength": 1.0,
+            "spiral_strength": 1.0,
+            "status": "PROVISIONAL ILLUSTRATION authorized by Radzi; O05 remains open before technical lock",
+            "axes": "Source +X test travel. Pin/box source-end identification and actual BHA placement unconfirmed."
+          }
+        },
+        {
+          "name": "ECCO_ROOT",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Translate root; source longitudinal +X, X=0 mesh end, not verified pin shoulder"
+          }
+        },
+        {
+          "name": "ECCO_ROTATION_X",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Rotate local X in radians; inherits axial travel from root. Physical operating direction requires end/viewpoint identification."
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_01",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_02",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_03",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "exists": true
+        }
+      ],
+      "missing_images": [],
+      "source_unchanged": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B201/Scenes/B201_pulse-echo_refinement_v006.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 25581688,
+      "sha256": "5523728f2e0862a92cd0f4a0a29eca694b90eebe47c8f1e4a181a77382c9d4c2",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_EEVEE",
+        "x": 960,
+        "y": 540,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        240
+      ],
+      "object_count": 143,
+      "collections": [
+        "ASSEMBLY_CONTROLS",
+        "B201_CONTACT_HISTORY",
+        "B201_ECHO_TIMING_v006",
+        "B201_PULSE_ECHO",
+        "B201_REGISTERED_WALL_CUTAWAY",
+        "B201_REVIEW_CAMERA",
+        "B201_SPATIAL_GRAPHICS",
+        "FAST_PREVIEW_PRODUCT",
+        "LINKED_ECCO",
+        "LOWER_IRREGULAR",
+        "LOWER_NOMINAL",
+        "LOWER_SPIRAL",
+        "PROVISIONAL_BHA_PROXIES",
+        "STILL01_LIGHTING",
+        "STILL02_ILLUSTRATIVE_WAVEFRONT",
+        "STILL03_WALL_CONTACT",
+        "UPPER_CASED_INTERVAL",
+        "WELL_ASSEMBLY_v003",
+        "WELL_INTERVALS"
+      ],
+      "controls": [
+        {
+          "name": "ACOUSTIC_CONTACT_CONTROLLER",
+          "type": "EMPTY",
+          "properties": {
+            "scan_radius_x_m": 0.00504,
+            "scan_radius_y_m": 0.00798,
+            "cell_size_m": 0.0015,
+            "scan_opacity": 0.384,
+            "scan_fade": 1,
+            "meaning": "Illustrative localized acquisition, not a measured rock image from a single ping",
+            "leading_radius_m": 0.0,
+            "contact_band_m": 0.00065,
+            "propagation_m_per_frame": 0.0019320985302329063,
+            "flow_description": "Actual rock intersection -> varied local cell maturation -> exponential local memory; independent cells do not switch on simultaneously"
+          }
+        },
+        {
+          "name": "ASSEMBLY_CONTROL",
+          "type": "EMPTY",
+          "properties": {
+            "travel_m": 2.07,
+            "rotation_rad": 1.029744267463684,
+            "variant": 1,
+            "cutaway": 0,
+            "show_open": 0,
+            "show_casing": 0,
+            "show_cement": 0,
+            "show_hardware": 1,
+            "show_proxies": 0,
+            "irregular_strength": 1.0,
+            "spiral_strength": 1.0,
+            "status": "PROVISIONAL ILLUSTRATION authorized by Radzi; O05 remains open before technical lock",
+            "axes": "Source +X test travel. Pin/box source-end identification and actual BHA placement unconfirmed."
+          }
+        },
+        {
+          "name": "B201_CONTROL",
+          "type": "EMPTY",
+          "properties": {
+            "signals": 1.0,
+            "wall": 1.0,
+            "waveforms": 1.0,
+            "contact_history": 1.0,
+            "contact_hold_frames": 120.0,
+            "signal_radius_m": 0.004,
+            "spot_radius_m": 0.008,
+            "interpretation": "Illustrative signal/time/glyph. No calibrated acoustic face/field data/RPM.",
+            "geometry_edit": "Rebuild/version/reverify after changing source geometry or acquisition angles.",
+            "emit_1": 11.0,
+            "leg_1": 18.0,
+            "emit_2": 83.0,
+            "leg_2": 17.0,
+            "emit_3": 155.0,
+            "leg_3": 16.0,
+            "emit_4": 227.0,
+            "leg_4": 18.0,
+            "emit_5": 299.0,
+            "leg_5": 17.0,
+            "emit_6": 371.0,
+            "leg_6": 16.0
+          }
+        },
+        {
+          "name": "B201_MOTION_CONTROL",
+          "type": "EMPTY",
+          "properties": {
+            "transmit": 0,
+            "receive": 0,
+            "outgoing_fade": 0,
+            "return_fade": 0,
+            "timing": "Illustrative and time-compressed; not physical TOF or RPM",
+            "excluded": "B202 accumulation, reconstruction, equations, numerical calibration",
+            "wall_stop_0": 1,
+            "wall_stop_1": 1,
+            "wall_stop_2": 1,
+            "panel": 0.0,
+            "graphic": 0,
+            "sent_graphic": 0,
+            "echo_graphic": 0,
+            "interval_graphic": 0
+          }
+        },
+        {
+          "name": "ECCO_ROOT",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Translate root; source longitudinal +X, X=0 mesh end, not verified pin shoulder"
+          }
+        },
+        {
+          "name": "ECCO_ROTATION_X",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Rotate local X in radians; inherits axial travel from root. Physical operating direction requires end/viewpoint identification."
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_01",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_02",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_03",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "exists": true
+        }
+      ],
+      "missing_images": [],
+      "source_unchanged": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202_measured-envelope_master_v009.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 23800853,
+      "sha256": "414cb3bfce1b32f235d255c343eea77d341d2c41e02572db9c29877f3386fbd5",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_EEVEE",
+        "x": 1280,
+        "y": 720,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        1
+      ],
+      "object_count": 165,
+      "collections": [
+        "B202_CONTROLS",
+        "B202_DERIVED_DATA_v009",
+        "B202_INFORMATION",
+        "B202_MEASURED_ENVELOPE_v009",
+        "B202_PHYSICAL_WALL",
+        "B202_REPLACEABLE_HARDWARE",
+        "B202_REVIEW_CAMERAS_LIGHTS",
+        "LOWER_IRREGULAR",
+        "LOWER_NOMINAL",
+        "LOWER_SPIRAL",
+        "UPPER_CASED_INTERVAL"
+      ],
+      "controls": [
+        {
+          "name": "ASSEMBLY_CONTROL",
+          "type": "EMPTY",
+          "properties": {
+            "travel_m": 0.5,
+            "rotation_rad": 0.0,
+            "variant": 2,
+            "cutaway": 0,
+            "show_open": 1,
+            "show_casing": 1,
+            "show_cement": 1,
+            "show_hardware": 1,
+            "show_proxies": 1,
+            "irregular_strength": 1.0,
+            "spiral_strength": 1.0,
+            "status": "PROVISIONAL ILLUSTRATION authorized by Radzi; O05 remains open before technical lock",
+            "axes": "Source +X test travel. Pin/box source-end identification and actual BHA placement unconfirmed."
+          }
+        },
+        {
+          "name": "B202_CONTROL",
+          "type": "EMPTY",
+          "properties": {
+            "travel_m": 2.0,
+            "rotation_rad": 0.0,
+            "profile": 0,
+            "show_tool": 0,
+            "show_wall": 0,
+            "show_envelope": 0,
+            "show_sections": 1,
+            "show_samples": 0,
+            "show_nominal": 0,
+            "show_amplitude": 0,
+            "depth_reveal_m": 4.8,
+            "scan_fraction": 1.0,
+            "geometry_opacity": 0.8,
+            "amplitude_opacity": 0.9,
+            "depth_start_m": 1.5,
+            "show_depth_sections": 1,
+            "meaning": "0 irregular T6; 1 tight illustrative; 2 spiral T6. No calibrated data or animation.",
+            "coordinate_note": "Source X metres; travel+rotation controls entire hardware; wall measurements remain fixed. End/drilling sign not certified.",
+            "data_case": 3,
+            "show_reconstruction": 1,
+            "show_echo_strength": 0,
+            "show_acquired_points": 0,
+            "show_interpolated": 0,
+            "event_time_s": 1000.0,
+            "eccentric_y_m": 0.0,
+            "eccentric_z_m": 0.0,
+            "v009_case_names": "[\"eccentric_nominal\", \"irregular_changed_constant\", \"irregular_constant\", \"irregular_layers\", \"irregular_material_changed\", \"missed_nominal\", \"nominal_constant\", \"sparse_irregular\", \"spiral_layers\", \"tight_layers\", \"weak_nominal\", \"interpolation_fixture\"]",
+            "v009_scope": "Synthetic acquisition consistency. No calibrated ENP3 processing or cinematic motion. Test10 deferred T27."
+          }
+        },
+        {
+          "name": "B202_SENSOR_REF_01",
+          "type": "EMPTY",
+          "properties": {
+            "status": "Inherited reference, not calibrated acoustic face"
+          }
+        },
+        {
+          "name": "B202_SENSOR_REF_02",
+          "type": "EMPTY",
+          "properties": {
+            "status": "Inherited reference, not calibrated acoustic face"
+          }
+        },
+        {
+          "name": "B202_SENSOR_REF_03",
+          "type": "EMPTY",
+          "properties": {
+            "status": "Inherited reference, not calibrated acoustic face"
+          }
+        },
+        {
+          "name": "ECCO_ROOT",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Translate root; source longitudinal +X, X=0 mesh end, not verified pin shoulder"
+          }
+        },
+        {
+          "name": "ECCO_ROTATION_X",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Rotate local X in radians; inherits axial travel from root. Physical operating direction requires end/viewpoint identification."
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_01",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_02",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_03",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "exists": true
+        }
+      ],
+      "missing_images": [],
+      "source_unchanged": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B202/Scenes/B202-M_motion-revision_v007b.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 19835801,
+      "sha256": "6ebe46bee42fcf6995ff807eae0f749e1bacd31286ad6376c7062ad8ad584f20",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_EEVEE",
+        "x": 960,
+        "y": 540,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        720
+      ],
+      "object_count": 644,
+      "collections": [
+        "B202_CONTROLS",
+        "B202_DERIVED_DATA_v009",
+        "B202_INFORMATION",
+        "B202_MEASURED_ENVELOPE_v009",
+        "B202_PHYSICAL_WALL",
+        "B202_REPLACEABLE_HARDWARE",
+        "B202_REVIEW_CAMERAS_LIGHTS",
+        "T27_v005b_ENCLOSING_WELL_AND_REPLAY",
+        "T27_v006d_FULL_EXTENSION",
+        "T27_v007b_INSET_SOURCE",
+        "T27_v007b_PRESENTATION",
+        "T27_v007b_SPIRAL_CONTOURS"
+      ],
+      "controls": [
+        {
+          "name": "B202_CONTROL",
+          "type": "EMPTY",
+          "properties": {
+            "travel_m": 1.0199999809265137,
+            "rotation_rad": -0.651589572429657,
+            "profile": 0,
+            "show_tool": 1,
+            "show_wall": 0,
+            "show_envelope": 0,
+            "show_sections": 1,
+            "show_samples": 0,
+            "show_nominal": 0,
+            "show_amplitude": 0,
+            "depth_reveal_m": 4.8,
+            "scan_fraction": 1.0,
+            "geometry_opacity": 0.95,
+            "amplitude_opacity": 0.8999999761581421,
+            "depth_start_m": 1.5,
+            "show_depth_sections": 1,
+            "meaning": "0 irregular T6; 1 tight illustrative; 2 spiral T6. No calibrated data or animation.",
+            "coordinate_note": "Source X metres; travel+rotation controls entire hardware; wall measurements remain fixed. End/drilling sign not certified.",
+            "data_case": 3,
+            "show_reconstruction": 1,
+            "show_echo_strength": 0,
+            "show_acquired_points": 1,
+            "show_interpolated": 0,
+            "event_time_s": -0.9999899864196777,
+            "eccentric_y_m": 0.0,
+            "eccentric_z_m": 0.0,
+            "v009_case_names": "[\"eccentric_nominal\", \"irregular_changed_constant\", \"irregular_constant\", \"irregular_layers\", \"irregular_material_changed\", \"missed_nominal\", \"nominal_constant\", \"sparse_irregular\", \"spiral_layers\", \"tight_layers\", \"weak_nominal\", \"interpolation_fixture\"]",
+            "v009_scope": "Synthetic acquisition consistency. No calibrated ENP3 processing or cinematic motion. Test10 deferred T27."
+          }
+        },
+        {
+          "name": "B202_SENSOR_REF_01",
+          "type": "EMPTY",
+          "properties": {
+            "status": "Inherited reference, not calibrated acoustic face"
+          }
+        },
+        {
+          "name": "B202_SENSOR_REF_02",
+          "type": "EMPTY",
+          "properties": {
+            "status": "Inherited reference, not calibrated acoustic face"
+          }
+        },
+        {
+          "name": "B202_SENSOR_REF_03",
+          "type": "EMPTY",
+          "properties": {
+            "status": "Inherited reference, not calibrated acoustic face"
+          }
+        },
+        {
+          "name": "ECCO_ROOT",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Translate root; source longitudinal +X, X=0 mesh end, not verified pin shoulder"
+          }
+        },
+        {
+          "name": "ECCO_ROTATION_X",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Rotate local X in radians; inherits axial travel from root. Physical operating direction requires end/viewpoint identification."
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_01",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_02",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_03",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "exists": true
+        }
+      ],
+      "missing_images": [],
+      "source_unchanged": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scenes/B203_retrieval_v002.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 4681105,
+      "sha256": "f323a8caac238ec31b5a72eef2bba063106de001541e4cea68126bc3aca99995",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_WORKBENCH",
+        "x": 1280,
+        "y": 400,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        144
+      ],
+      "object_count": 38,
+      "collections": [
+        "ASSEMBLY_CONTROLS",
+        "LINKED_ECCO",
+        "LOWER_IRREGULAR",
+        "LOWER_NOMINAL",
+        "LOWER_SPIRAL",
+        "PROVISIONAL_BHA_PROXIES",
+        "UPPER_CASED_INTERVAL",
+        "WELL_ASSEMBLY_v003",
+        "WELL_INTERVALS"
+      ],
+      "controls": [
+        {
+          "name": "ASSEMBLY_CONTROL",
+          "type": "EMPTY",
+          "properties": {
+            "travel_m": 0.6000000238418579,
+            "rotation_rad": 0,
+            "variant": 0,
+            "cutaway": 1,
+            "show_open": 1,
+            "show_casing": 1,
+            "show_cement": 1,
+            "show_hardware": 1,
+            "show_proxies": 1,
+            "irregular_strength": 1.0,
+            "spiral_strength": 1.0,
+            "status": "PROVISIONAL ILLUSTRATION authorized by Radzi; O05 remains open before technical lock",
+            "axes": "Source +X test travel. Pin/box source-end identification and actual BHA placement unconfirmed."
+          }
+        },
+        {
+          "name": "ECCO_ROOT",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Translate root; source longitudinal +X, X=0 mesh end, not verified pin shoulder"
+          }
+        },
+        {
+          "name": "ECCO_ROTATION_X",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Rotate local X in radians; inherits axial travel from root. Physical operating direction requires end/viewpoint identification."
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_01",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_02",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_03",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "exists": true
+        }
+      ],
+      "missing_images": [],
+      "source_unchanged": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scenes/B203_support_v002.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 566100,
+      "sha256": "e6bcb3537bb459285ea5dcaaa6b551255a917e2d1d22e17527ed2ced9fa90721",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_WORKBENCH",
+        "x": 1280,
+        "y": 400,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        144
+      ],
+      "object_count": 8,
+      "collections": [],
+      "controls": [],
+      "libraries": [],
+      "missing_images": [],
+      "source_unchanged": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scenes/B203_channel_v002.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 370984,
+      "sha256": "972312fdde4f2d2c3ccf3dee99dea7773a8f8401a41abea54c762415fe0d4e42",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_WORKBENCH",
+        "x": 1280,
+        "y": 400,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        144
+      ],
+      "object_count": 5,
+      "collections": [],
+      "controls": [],
+      "libraries": [],
+      "missing_images": [],
+      "source_unchanged": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B203/Scenes/B203_wear_v002.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 289189,
+      "sha256": "bc29e7b8cf669930a5f440afa095702e50e00804fec9741567c651cf6ef8b1f5",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_WORKBENCH",
+        "x": 1280,
+        "y": 400,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        144
+      ],
+      "object_count": 4,
+      "collections": [],
+      "controls": [],
+      "libraries": [],
+      "missing_images": [],
+      "source_unchanged": true
+    },
+    {
+      "path": "04-Production/Mechanisms/B204/Scenes/B204_hydraulic-proof_v001.blend",
+      "exists": true,
+      "opened": true,
+      "bytes": 110347,
+      "sha256": "1c0d30f70cabdbc51f4d399bee5a2ce84b5a560b9a1dc5a15fa3331ddbc95ca9",
+      "units": {
+        "system": "METRIC",
+        "scale_length": 1.0
+      },
+      "render": {
+        "engine": "BLENDER_WORKBENCH",
+        "x": 1280,
+        "y": 720,
+        "percentage": 100,
+        "fps": 24,
+        "fps_base": 1.0
+      },
+      "frames": [
+        1,
+        288
+      ],
+      "object_count": 102,
+      "collections": [
+        "B204_ILLUSTRATIVE_FLOW"
+      ],
+      "controls": [
+        {
+          "name": "HYDRAULIC_CONTROL",
+          "type": "EMPTY",
+          "properties": {
+            "flow_rate": 1.0,
+            "flow_visible": 1,
+            "cuttings_visible": 1,
+            "mode": "CIRCULATION ONLY: stationary tool; authored flow paths, not CFD",
+            "mapping": "Source +X return direction is provisional; no CAD-stage labels"
+          }
+        },
+        {
+          "name": "ECCO_ROOT",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Translate root; source longitudinal +X, X=0 mesh end, not verified pin shoulder"
+          }
+        },
+        {
+          "name": "ECCO_ROTATION_X",
+          "type": "EMPTY",
+          "properties": {
+            "interface": "Rotate local X in radians; inherits axial travel from root. Physical operating direction requires end/viewpoint identification."
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_01",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_02",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        },
+        {
+          "name": "ECCO_SENSOR_REF_03",
+          "type": "EMPTY",
+          "properties": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          }
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "exists": true
+        }
+      ],
+      "missing_images": [],
+      "source_unchanged": true
+    }
+  ]
+}

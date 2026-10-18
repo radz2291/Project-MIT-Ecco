@@ -1,0 +1,551 @@
+{
+  "checks": [
+    {
+      "check": "Exactly the 22 V3 IDs in order",
+      "pass": true
+    },
+    {
+      "check": "Contiguous 0\u201390 second coverage",
+      "pass": true
+    },
+    {
+      "check": "Positive durations total 90 seconds",
+      "pass": true
+    },
+    {
+      "check": "All 12 components have consumers and no unknown IDs",
+      "pass": true
+    },
+    {
+      "check": "S01-A source exists",
+      "pass": true
+    },
+    {
+      "check": "S01-A direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S01-B source exists",
+      "pass": true
+    },
+    {
+      "check": "S01-B direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S01-C source exists",
+      "pass": true
+    },
+    {
+      "check": "S01-C direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S02-A source exists",
+      "pass": true
+    },
+    {
+      "check": "S02-A direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S02-B source exists",
+      "pass": true
+    },
+    {
+      "check": "S02-B direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S02-C source exists",
+      "pass": true
+    },
+    {
+      "check": "S02-C direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S03-A source exists",
+      "pass": true
+    },
+    {
+      "check": "S03-A direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S03-B source exists",
+      "pass": true
+    },
+    {
+      "check": "S03-B direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S03-C source exists",
+      "pass": true
+    },
+    {
+      "check": "S03-C direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S04-A source exists",
+      "pass": true
+    },
+    {
+      "check": "S04-A direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S04-B source exists",
+      "pass": true
+    },
+    {
+      "check": "S04-B direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S04-C source exists",
+      "pass": true
+    },
+    {
+      "check": "S04-C direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S04-D source exists",
+      "pass": true
+    },
+    {
+      "check": "S04-D direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S05-A source exists",
+      "pass": true
+    },
+    {
+      "check": "S05-A direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S05-B source exists",
+      "pass": true
+    },
+    {
+      "check": "S05-B direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S05-C source exists",
+      "pass": true
+    },
+    {
+      "check": "S05-C direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S06-A source exists",
+      "pass": true
+    },
+    {
+      "check": "S06-A direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S06-B source exists",
+      "pass": true
+    },
+    {
+      "check": "S06-B direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S06-C source exists",
+      "pass": true
+    },
+    {
+      "check": "S06-C direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S07-A source exists",
+      "pass": true
+    },
+    {
+      "check": "S07-A direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S07-B source exists",
+      "pass": true
+    },
+    {
+      "check": "S07-B direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "S07-C source exists",
+      "pass": true
+    },
+    {
+      "check": "S07-C direction remains unfilled",
+      "pass": true
+    },
+    {
+      "check": "Live board index includes 22 shot cards",
+      "pass": true
+    },
+    {
+      "check": "Start guide and seven sequence guides indexed",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B201/Scenes/B201_pulse-echo_v005.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B201/Scenes/B201_pulse-echo_v005.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B201/Scenes/B201_pulse-echo_refinement_v006.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B201/Scenes/B201_pulse-echo_refinement_v006.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B202/Scenes/B202_measured-envelope_master_v009.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B202/Scenes/B202_measured-envelope_master_v009.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B202/Scenes/B202-M_motion-revision_v007b.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B202/Scenes/B202-M_motion-revision_v007b.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B203/Scenes/B203_retrieval_v002.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B203/Scenes/B203_retrieval_v002.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B203/Scenes/B203_support_v002.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B203/Scenes/B203_support_v002.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B203/Scenes/B203_channel_v002.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B203/Scenes/B203_channel_v002.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B203/Scenes/B203_wear_v002.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B203/Scenes/B203_wear_v002.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B204/Scenes/B204_hydraulic-proof_v001.blend opens and preserved",
+      "pass": true
+    },
+    {
+      "check": "04-Production/Mechanisms/B204/Scenes/B204_hydraulic-proof_v001.blend image and library dependencies",
+      "pass": true
+    },
+    {
+      "check": "B202 registered source hashes match current files",
+      "pass": true
+    },
+    {
+      "check": "All indexed B202 case files exist",
+      "pass": true
+    },
+    {
+      "check": "build-plan_v001.md link shot-map_v001.json",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link shot-map_v001.json",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link ../../Storyboard-Board-V3/README.md",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link Evidence/asset-inspection_v001.json",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link build-plan_v001.md",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link ../../../Shared/Assets/ECCO/README_v002.md",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link ../../../Shared/Assets/ECCO/README_v001.md",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link ../../../Shared/Assets/WellAssembly/README_v003.md",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link ../T-007/report.md",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link ../T-008/report.md",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link ../T-027/report.md",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link ../T-009/report.md",
+      "pass": true
+    },
+    {
+      "check": "component-register_v001.md link ../T-010/report.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link Evidence/source-index_v001.json",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link component-register_v001.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link shot-map_v001.json",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S01-A.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S01-B.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S01-C.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S02-A.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S02-B.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S02-C.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S03-A.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S03-B.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S03-C.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S04-A.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S04-B.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S04-C.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S04-D.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S05-A.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S05-B.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S05-C.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S06-A.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S06-B.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S06-C.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S07-A.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S07-B.md",
+      "pass": true
+    },
+    {
+      "check": "direction-placeholders_v001.md link ../../Storyboard-Board-V3/Shots/S07-C.md",
+      "pass": true
+    },
+    {
+      "check": "report.md link component-register_v001.md",
+      "pass": true
+    },
+    {
+      "check": "report.md link build-plan_v001.md",
+      "pass": true
+    },
+    {
+      "check": "report.md link direction-placeholders_v001.md",
+      "pass": true
+    },
+    {
+      "check": "report.md link shot-map_v001.json",
+      "pass": true
+    },
+    {
+      "check": "report.md link Evidence/asset-inspection_v001.json",
+      "pass": true
+    },
+    {
+      "check": "report.md link Evidence/source-index_v001.json",
+      "pass": true
+    },
+    {
+      "check": "report.md link Evidence/package-verification_v001.json",
+      "pass": true
+    },
+    {
+      "check": "Supplied original logo exists",
+      "pass": true
+    },
+    {
+      "check": "Supplied logo PNG header",
+      "pass": true
+    }
+  ],
+  "passed": 121,
+  "failed": [],
+  "logo": {
+    "path": "03-Context/02_Storyboard/V3/ECCO_Section_07_Cinematic_Rich_Direction_Separated/S07_C_MIT_Brand_Closing/MIT_Official_Logo_Supplied_Unaltered.png",
+    "sha256": "0d18d46d7d9554cc2e48075232772d5bff0a8eb01dead5f5e2a571d0bf36b63c",
+    "dimensions_px": [
+      420,
+      75
+    ]
+  },
+  "data_index": {
+    "path": "04-Production/Mechanisms/B202/Data/v009/index_v009.json",
+    "sha256": "c0d1a8322932f349bae74e9960d72bb8ee00a93adb494cba366f54f08c0a409f",
+    "case_count": 11
+  },
+  "outputs": [
+    {
+      "path": "04-Production/Records/Tasks/T-042/build-plan_v001.md",
+      "bytes": 9741,
+      "sha256": "7d0b14814bd36e5dee6dc89056c9c3ff4c2954469ae32dbf8ac1b3523508b127"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-042/component-register_v001.md",
+      "bytes": 11720,
+      "sha256": "eec29e63e98cd98b8ce2a3c3dfea93232a94bb63a30eb96a602494aa362d927c"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-042/direction-placeholders_v001.md",
+      "bytes": 9162,
+      "sha256": "dbc3932f8f101dffe469764656bdf19daf62198113f24c7eb1dbe7bce21559df"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-042/Evidence/asset-inspection_v001.json",
+      "bytes": 35863,
+      "sha256": "b823fc2863e68bd8f8f4909c897e03cf5d82a338cfc2e3a8b8ac7f4ef1d67e36"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-042/Evidence/source-index_v001.json",
+      "bytes": 6495,
+      "sha256": "4790e3cc6414d2ac9169a7809a8947b34c7370bae3f581f0a8504447443dbbd9"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-042/report.md",
+      "bytes": 5920,
+      "sha256": "1f7d713ca19607959b2014484876ca77a3912bbd945f7ec5f15b7918c5912f94"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-042/Scripts/inspect_assets_v001.py",
+      "bytes": 3000,
+      "sha256": "cd81210adcf6e4006f3a5e39282888d2c23dc2eac6774fc7f26c4389514b7f15"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-042/Scripts/verify_package_v001.py",
+      "bytes": 3939,
+      "sha256": "e941c52b1325fcf8b8e615b2787717fb352ee61ef2a9fea6cac253d884ba5873"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-042/shot-map_v001.json",
+      "bytes": 15107,
+      "sha256": "6b90dc6d255c6526c15e996d62e6e4b7d9326d0443df3eb9e36ff5eb2b8b833c"
+    }
+  ],
+  "limits": "Self-checks of planning coverage and saved-file availability. No render, visual acceptance or engineering certification."
+}

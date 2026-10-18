@@ -1,0 +1,452 @@
+{
+  "version": "v001",
+  "authority": "P01 T42 planning proposal",
+  "board_revision": 14,
+  "duration_s": 90,
+  "shots": [
+    {
+      "id": "S01-A",
+      "start_s": 0,
+      "end_s": 3,
+      "components": [
+        "SURFACE",
+        "BHA",
+        "WELL"
+      ],
+      "requirement": "Rig, sea/seabed or selected setting, string and strata; establish route below surface.",
+      "director_question": "Surface setting and practical transition; no precise field-location claim.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S01-A.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S01/S01-A/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S01-B",
+      "start_s": 3,
+      "end_s": 7,
+      "components": [
+        "BHA",
+        "WELL",
+        "MUD"
+      ],
+      "requirement": "Continuous string in fluid-filled geological context.",
+      "director_question": "Descent continuity and visibility; no dry cave or through-steel camera.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S01-B.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S01/S01-B/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S01-C",
+      "start_s": 7,
+      "end_s": 10,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD"
+      ],
+      "requirement": "Actual product and nearest wall, no acoustic event yet.",
+      "director_question": "Exact handoff to S02-A; verify sensor region.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S01-C.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S01/S01-C/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S02-A",
+      "start_s": 10,
+      "end_s": 13,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "ACOUSTICS"
+      ],
+      "requirement": "Isolated transmit/contact/same-sensor return; transient local patch.",
+      "director_question": "Select/adapt B201 candidate appearance and event timing.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S02-A.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S02/S02-A/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S02-B",
+      "start_s": 13,
+      "end_s": 17,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "ACOUSTICS",
+        "DATA",
+        "GRAPHICS"
+      ],
+      "requirement": "Arrival-time waveform tied to wall points; additional acquisitions.",
+      "director_question": "Conceptual signal treatment, arrival spacing and point persistence.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S02-B.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S02/S02-B/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S02-C",
+      "start_s": 17,
+      "end_s": 22,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "ACOUSTICS",
+        "DATA"
+      ],
+      "requirement": "Whole assembly rotates; wall-fixed samples form one circumference.",
+      "director_question": "One-plane reveal and match to S03; no full-depth volume yet.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S02-C.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S02/S02-C/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S03-A",
+      "start_s": 22,
+      "end_s": 28,
+      "components": [
+        "ECCO",
+        "WELL",
+        "DATA",
+        "GRAPHICS"
+      ],
+      "requirement": "White nominal reference, blue enlargement, red tight region.",
+      "director_question": "How separate existing cases satisfy V3 without inventing a combined measured hole.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S03-A.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S03/S03-A/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S03-B",
+      "start_s": 28,
+      "end_s": 34,
+      "components": [
+        "ECCO",
+        "WELL",
+        "DATA"
+      ],
+      "requirement": "Successive measured sections and wall-bound spiral irregularity.",
+      "director_question": "Preserve geometry while selecting readable source contours/surface.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S03-B.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S03/S03-B/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S03-C",
+      "start_s": 34,
+      "end_s": 40,
+      "components": [
+        "ECCO",
+        "WELL",
+        "DATA",
+        "GRAPHICS"
+      ],
+      "requirement": "Independent yellow/brown echo-strength channel on same coordinates.",
+      "director_question": "Fixed transfer and semantic bridge; no lithology certainty.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S03-C.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S03/S03-C/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S04-A",
+      "start_s": 40,
+      "end_s": 44,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "CASING"
+      ],
+      "requirement": "Later upward retrieval into existing casing, product before lower bit.",
+      "director_question": "Deviated context, shoe boundary and visible hardware refinement.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S04-A.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S04/S04-A/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S04-B",
+      "start_s": 44,
+      "end_s": 49,
+      "components": [
+        "ECCO",
+        "WELL",
+        "MUD",
+        "ACOUSTICS",
+        "CASING",
+        "GRAPHICS"
+      ],
+      "requirement": "Qualitative supported/poor-support response behind steel.",
+      "director_question": "Package schematic proof into same spatial scene; response provenance.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S04-B.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S04/S04-B/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S04-C",
+      "start_s": 49,
+      "end_s": 54,
+      "components": [
+        "ECCO",
+        "WELL",
+        "MUD",
+        "CASING",
+        "GRAPHICS"
+      ],
+      "requirement": "Localized axial channel outside steel within cement.",
+      "director_question": "Anchored reveal, no river or full unwrap.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S04-C.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S04/S04-C/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S04-D",
+      "start_s": 54,
+      "end_s": 58,
+      "components": [
+        "ECCO",
+        "WELL",
+        "MUD",
+        "ACOUSTICS",
+        "CASING",
+        "GRAPHICS"
+      ],
+      "requirement": "Inner groove increases local radius; exterior fixed.",
+      "director_question": "Source-scale groove and nominal comparison; avoid thickness claim.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S04-D.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S04/S04-D/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S05-A",
+      "start_s": 58,
+      "end_s": 62,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "FLOW"
+      ],
+      "requirement": "Uphole return flow and cuttings near accelerator body region.",
+      "director_question": "Resolve stage map and mode before close feature attribution.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S05-A.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S05/S05-A/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S05-B",
+      "start_s": 62,
+      "end_s": 66,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "FLOW"
+      ],
+      "requirement": "Twisted-pad flow illustration and transported cuttings.",
+      "director_question": "Resolve pad identity and affordable effect density.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S05-B.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S05/S05-B/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S05-C",
+      "start_s": 66,
+      "end_s": 70,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "FLOW"
+      ],
+      "requirement": "Integrated downstream flow story.",
+      "director_question": "No invented pressure/efficiency evidence; transition out of hydraulics.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S05-C.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S05/S05-C/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S06-A",
+      "start_s": 70,
+      "end_s": 74,
+      "components": [
+        "ECCO",
+        "WELL",
+        "DATA",
+        "GRAPHICS"
+      ],
+      "requirement": "Retrieved data becomes reconstructed surface.",
+      "director_question": "Flow-to-data editorial separation; same dataset for next shot.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S06-A.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S06/S06-A/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S06-B",
+      "start_s": 74,
+      "end_s": 79,
+      "components": [
+        "DATA",
+        "GRAPHICS"
+      ],
+      "requirement": "Same depth/azimuth samples unwrap; separate geometry/amplitude maps.",
+      "director_question": "Seam, depth direction and coordinate mapping; no physical peeling.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S06-B.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S06/S06-B/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S06-C",
+      "start_s": 79,
+      "end_s": 82,
+      "components": [
+        "OUTPUT",
+        "GRAPHICS"
+      ],
+      "requirement": "Authorized real/redacted report or labeled demonstrator.",
+      "director_question": "Choose permitted content and truthful identity; generated screen is composition only.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S06-C.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S06/S06-C/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S07-A",
+      "start_s": 82,
+      "end_s": 84,
+      "components": [
+        "ECCO",
+        "OUTPUT",
+        "GRAPHICS"
+      ],
+      "requirement": "Output recedes into actual product.",
+      "director_question": "Carry S06 provenance; editorial association, no live stream.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S07-A.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S07/S07-A/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S07-B",
+      "start_s": 84,
+      "end_s": 88,
+      "components": [
+        "ECCO",
+        "GRAPHICS"
+      ],
+      "requirement": "Actual hero with optional five capability reminders.",
+      "director_question": "Shared finish and restrained motifs; no simultaneous-mode claim.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S07-B.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S07/S07-B/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    },
+    {
+      "id": "S07-C",
+      "start_s": 88,
+      "end_s": 90,
+      "components": [
+        "ECCO",
+        "BRAND",
+        "GRAPHICS"
+      ],
+      "requirement": "Product and unaltered supplied MIT identity.",
+      "director_question": "Icon-only versus full logo, approved wording and end hold.",
+      "source": "04-Production/Records/Storyboard-Board-V3/Shots/S07-C.md",
+      "direction_status": "UNASSIGNED PLACEHOLDER — separate AI directing agent",
+      "direction_contract": "04-Production/Shots/S07/S07-C/direction.md",
+      "camera": null,
+      "look": null,
+      "event_frames": null,
+      "approved_by": null
+    }
+  ]
+}
