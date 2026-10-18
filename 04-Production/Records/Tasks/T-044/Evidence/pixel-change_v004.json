@@ -1,0 +1,27 @@
+{
+  "comparisons": [
+    {
+      "consumer": "A",
+      "changed_pixels_gt2": 24799,
+      "percent": 2.690863715277778,
+      "mean_abs_difference": [
+        0.16315212673611112,
+        0.1599142795138889,
+        0.1568532986111111
+      ],
+      "camera_timing_controls_preserved": true
+    },
+    {
+      "consumer": "B",
+      "changed_pixels_gt2": 19516,
+      "percent": 2.1176215277777777,
+      "mean_abs_difference": [
+        0.10769965277777778,
+        0.12376953125,
+        0.137177734375
+      ],
+      "camera_timing_controls_preserved": true
+    }
+  ],
+  "note": "Before/after first frames rendered with Vulkan. Material-grain/roughness revision; no intended geometry/camera/timing change. Pixel differences are supporting visual evidence, not independent proof of appearance approval."
+}

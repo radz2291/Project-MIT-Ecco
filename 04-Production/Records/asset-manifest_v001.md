@@ -1,5 +1,11 @@
 # ECCO production asset manifest
 
+## A-WORLD / T44 — shared film candidate, 18 October 2026
+
+[Versioned manifest](../Shared/Assets/World/manifest_v004.json) · [usage/controls and migration guide](../Shared/Assets/World/README_v001.md) · [T44 report](Tasks/T-044/report.md) · [review sheet](Tasks/T-044/Previews/review-sheet_v004.jpg) · [component/shot consumers](Tasks/T-044/component-consumers_v004.json).
+
+T5/T6 originals preserved; ECCO film v002, BHA v002, environment v004 (v003 rollback) and surface v002 register reusable candidates. Owner-designated IntoTheInvisible rig is copied locally and its surface collection reused/polished; no old well/tool imported. Two relative-linked consumers prove shared revision propagation while retaining cameras/timing/local animation. Stable instance controls and source/gauge checks pass. Vulkan/EEVEE720p16-sample fresh-process tests pass under5s with normal driver caches; initial uncached startup failures and required retest conditions remain explicit. Native libraries/copied original remain local ignored files with no off-machine backup claimed. Shared asset and look acceptance pending Radzi; no actual shot, downstream effects, engineering certification or film assembly is implied.
+
 15 October 2026 · A02 / T-002 · Inspected candidates, not a production lock.
 
 Local root: `C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco`. External source root: `C:\Users\RZ1\Desktop\RZ`. Original inputs remain at their inspected locations. No asset is declared MIT-approved by its filename or presence on disk. Hashes, exact filenames and versions are in the linked evidence inventories.

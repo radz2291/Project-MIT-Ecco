@@ -1,0 +1,117 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_surface_before_v003.blend",
+  "sha256": "a3b242db4fc1eef6d4261b82d465b1cf0cc7d568fea64c8da99eef726776d3a4",
+  "snapshot": {
+    "camera": {
+      "name": "REUSE_CAMERA_surface",
+      "location": [
+        115.0,
+        -180.0,
+        75.0
+      ],
+      "rotation": [
+        1.3364206552505493,
+        -2.1571178621115905e-08,
+        0.5685246586799622
+      ],
+      "lens": 45.0,
+      "keys": [
+        [
+          "location",
+          0,
+          [
+            [
+              1.0,
+              115.0,
+              "BEZIER"
+            ],
+            [
+              48.0,
+              117.0,
+              "BEZIER"
+            ]
+          ]
+        ],
+        [
+          "location",
+          1,
+          [
+            [
+              1.0,
+              -180.0,
+              "BEZIER"
+            ],
+            [
+              48.0,
+              -180.0,
+              "BEZIER"
+            ]
+          ]
+        ],
+        [
+          "location",
+          2,
+          [
+            [
+              1.0,
+              75.0,
+              "BEZIER"
+            ],
+            [
+              48.0,
+              75.0,
+              "BEZIER"
+            ]
+          ]
+        ]
+      ]
+    },
+    "timing": [
+      1,
+      48,
+      24
+    ],
+    "local_controls": {
+      "CONSUMER_CONTROL": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "SURFACE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_context_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_context_v002.blend",
+        "exists": true
+      }
+    ],
+    "mineral": null
+  },
+  "one_product_instance": null,
+  "all_links_relative": true,
+  "all_links_exist": true,
+  "units": 1.0
+}

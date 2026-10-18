@@ -1,0 +1,105 @@
+{
+  "version": "v004",
+  "task": "T44",
+  "status": "candidate_for_Radzi_review",
+  "local_root": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco",
+  "native_media_remote_backup": "none claimed; ignored local files",
+  "sources": [
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "sha256": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "bytes": 18275711,
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v002.blend",
+      "bytes": 116383,
+      "sha256": "38a9d1d6b327d1d89adc51a002c957cab3abebdc98241859d7250b1b6625a19f",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v003.blend",
+      "bytes": 2559955,
+      "sha256": "5f9abf5183d6b173f154f99c67515e8e247625f7ee5dfbef3ff9665df508074b",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v004.blend",
+      "bytes": 2560094,
+      "sha256": "3d6ccd17831e889315832c04ca654ba0e4f383ab77fb7b1ce5ff90417d22afc6",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Surface/Surface_context_v002.blend",
+      "bytes": 350357,
+      "sha256": "1e7d8cefc24884d514473cf676250e67068b19f604005dcbca6e1f48ba53b256",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Surface/Originals/IntoTheInvisible_Shot01.blend",
+      "bytes": 2600755,
+      "sha256": "ef669ae4fdd20a74d1d4b6a16e0978c17ae857f5c839dc08128247ff3bf29ab0",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_A_before_v003.blend",
+      "bytes": 90655,
+      "sha256": "824ae8fc65bc2fb0b505588cf71b10381243bccf23db5d4b485c59e2ff5749e6",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_A_after_v004.blend",
+      "bytes": 90609,
+      "sha256": "665bbaee828c8ad22edc06ac7107f907d329e47fad4c87ee3ca3fc5f181be2e1",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_B_before_v003.blend",
+      "bytes": 90676,
+      "sha256": "d135445d92f48f383bdd7f522c3f71e2803c7535185b712ac9b3478d2e5c6482",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_B_after_v004.blend",
+      "bytes": 90629,
+      "sha256": "12a12914470acfa54f16092ba6ce981fa7aa00d4e52798add97ed425cfad1fb4",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_surface_before_v003.blend",
+      "bytes": 89041,
+      "sha256": "a3b242db4fc1eef6d4261b82d465b1cf0cc7d568fea64c8da99eef726776d3a4",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Controls_stress_v001.blend",
+      "bytes": 93520,
+      "sha256": "ce46f603a0292c9e2df0c662cf70e0aa8fce75bd6d9ef7882c1088b9ac2045f7",
+      "storage": "local Git-ignored native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/ReuseTests/Hardware_overview_v001.blend",
+      "bytes": 92887,
+      "sha256": "4abddbcbf6efc7628d67c6a6656feefd3882dd00cd5805eecf1c0723eec6d9ef",
+      "storage": "local Git-ignored native"
+    }
+  ],
+  "interfaces": {
+    "hardware": "WORLD_HARDWARE",
+    "environment": "WORLD_* named collections",
+    "product": "ECCO_FILM",
+    "surface": "WORLD_SURFACE",
+    "controls": "world_controls.py v001"
+  },
+  "source_truth": "T5/T6 originals unchanged; geometry identity verified separately. Versions are immutable candidates; no human/engineering approval inferred."
+}

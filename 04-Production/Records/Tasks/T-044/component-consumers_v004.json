@@ -1,0 +1,147 @@
+{
+  "version": "v004",
+  "source": "T42 shot-map_v001.json",
+  "components": {
+    "ECCO": {
+      "shots": [
+        "S01-C",
+        "S02-A",
+        "S02-B",
+        "S02-C",
+        "S03-A",
+        "S03-B",
+        "S03-C",
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D",
+        "S05-A",
+        "S05-B",
+        "S05-C",
+        "S06-A",
+        "S07-A",
+        "S07-B",
+        "S07-C"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_A",
+        "T44 Reuse_B",
+        "T44 Controls_stress"
+      ],
+      "future_shots_state": "not-built; identify and verify actual files when created"
+    },
+    "BHA": {
+      "shots": [
+        "S01-A",
+        "S01-B",
+        "S01-C",
+        "S02-A",
+        "S02-B",
+        "S02-C",
+        "S04-A",
+        "S05-A",
+        "S05-B",
+        "S05-C"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_A",
+        "T44 Reuse_B",
+        "T44 Controls_stress"
+      ],
+      "future_shots_state": "not-built; identify and verify actual files when created"
+    },
+    "WELL": {
+      "shots": [
+        "S01-A",
+        "S01-B",
+        "S01-C",
+        "S02-A",
+        "S02-B",
+        "S02-C",
+        "S03-A",
+        "S03-B",
+        "S03-C",
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D",
+        "S05-A",
+        "S05-B",
+        "S05-C",
+        "S06-A"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_A",
+        "T44 Reuse_B",
+        "T44 Controls_stress"
+      ],
+      "future_shots_state": "not-built; identify and verify actual files when created"
+    },
+    "MUD": {
+      "shots": [
+        "S01-B",
+        "S01-C",
+        "S02-A",
+        "S02-B",
+        "S02-C",
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D",
+        "S05-A",
+        "S05-B",
+        "S05-C"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_A",
+        "T44 Reuse_B",
+        "T44 Controls_stress"
+      ],
+      "future_shots_state": "not-built; identify and verify actual files when created"
+    },
+    "SURFACE": {
+      "shots": [
+        "S01-A"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_surface"
+      ],
+      "future_shots_state": "not-built; identify and verify actual files when created"
+    },
+    "CASING": {
+      "shots": [
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_A",
+        "T44 Reuse_B",
+        "T44 Controls_stress"
+      ],
+      "future_shots_state": "not-built; identify and verify actual files when created"
+    }
+  },
+  "migrations": [
+    {
+      "consumer": "A",
+      "from_version": "environment_v003",
+      "to_version": "environment_v004",
+      "status": "saved and fresh-open verified",
+      "camera_timing_controls": "preserved",
+      "local_material_override": false,
+      "rollback": "ReuseTests/Reuse_A_before_v003.blend"
+    },
+    {
+      "consumer": "B",
+      "from_version": "environment_v003",
+      "to_version": "environment_v004",
+      "status": "saved and fresh-open verified",
+      "camera_timing_controls": "preserved",
+      "local_material_override": false,
+      "rollback": "ReuseTests/Reuse_B_before_v003.blend"
+    }
+  ],
+  "future_revision_procedure": "See Shared/Assets/World/README_v001.md; identify consumers, relink/reload, check source/overrides/continuity, cold benchmark, rerender affected frames, record status; rollback to preserved immutable library."
+}

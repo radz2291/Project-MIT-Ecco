@@ -1,0 +1,210 @@
+{
+  "checks": [
+    {
+      "name": "all native artifacts exist",
+      "passed": true
+    },
+    {
+      "name": "60 geometry/source checks",
+      "passed": true
+    },
+    {
+      "name": "13 stable control checks",
+      "passed": true
+    },
+    {
+      "name": "every current profile render including fresh-process first frame below5",
+      "passed": true
+    },
+    {
+      "name": "both consumers visibly adopt revision",
+      "passed": true
+    },
+    {
+      "name": "all report/guide relative links resolve",
+      "passed": true
+    }
+  ],
+  "all_pass": true,
+  "benchmarks": [
+    {
+      "path": "Controls_stress_v001_vulkan-working_benchmark.json",
+      "all_under_5": true,
+      "cold": [
+        1.3830324999980803
+      ],
+      "seconds": [
+        1.3830324999980803,
+        0.3791687999982969,
+        0.3962303000007523,
+        0.43122980000043754
+      ]
+    },
+    {
+      "path": "Hardware_overview_v001_vulkan-working_benchmark.json",
+      "all_under_5": true,
+      "cold": [
+        0.9103852000007464
+      ],
+      "seconds": [
+        0.9103852000007464
+      ]
+    },
+    {
+      "path": "Reuse_A_after_v004_vulkan-working_benchmark.json",
+      "all_under_5": true,
+      "cold": [
+        1.4307541999987734
+      ],
+      "seconds": [
+        1.4307541999987734,
+        0.4777773999994679,
+        0.41197939999983646
+      ]
+    },
+    {
+      "path": "Reuse_A_before_v003_vulkan-working_benchmark.json",
+      "all_under_5": true,
+      "cold": [
+        1.2112640000013926
+      ],
+      "seconds": [
+        1.2112640000013926
+      ]
+    },
+    {
+      "path": "Reuse_B_before_v003_vulkan-working_benchmark.json",
+      "all_under_5": true,
+      "cold": [
+        1.3119318999997631
+      ],
+      "seconds": [
+        1.3119318999997631
+      ]
+    },
+    {
+      "path": "Reuse_surface_before_v003_vulkan-working_benchmark.json",
+      "all_under_5": true,
+      "cold": [
+        1.4920234000019263
+      ],
+      "seconds": [
+        1.4920234000019263,
+        0.7457375000012689,
+        0.7941085999991628
+      ]
+    },
+    {
+      "path": "Reuse_B_after_v004_vulkan-cold-retest_benchmark.json",
+      "all_under_5": true,
+      "cold": [
+        1.356151600000885
+      ],
+      "seconds": [
+        1.356151600000885,
+        0.4328034000027401,
+        0.39684999999735737
+      ]
+    }
+  ],
+  "geometry_checks": 60,
+  "control_checks": 13,
+  "links": [
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "Previews/review-sheet_v004.jpg",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "Previews/revision-comparison_v004.jpg",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "../../../Shared/Assets/World/README_v001.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "../../../Shared/Assets/World/manifest_v004.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "Evidence/package-verification_v004.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "Evidence/geometry-verification_v004.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "Evidence/controls-verification_v001.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "Evidence/rig-reuse_v002.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "Evidence/migration_A_v004.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "Evidence/migration_B_v004.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Records\\Tasks\\T-044\\report.md",
+      "target": "component-consumers_v004.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Shared\\Assets\\World\\README_v001.md",
+      "target": "manifest_v004.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Shared\\Assets\\World\\README_v001.md",
+      "target": "Scripts/world_controls.py",
+      "exists": true
+    },
+    {
+      "source": "04-Production\\Shared\\Assets\\World\\README_v001.md",
+      "target": "../../../Records/Tasks/T-044/component-consumers_v004.json",
+      "exists": true
+    }
+  ],
+  "pixel_changes": [
+    {
+      "consumer": "A",
+      "changed_pixels_gt2": 24799,
+      "percent": 2.690863715277778,
+      "mean_abs_difference": [
+        0.16315212673611112,
+        0.1599142795138889,
+        0.1568532986111111
+      ],
+      "camera_timing_controls_preserved": true
+    },
+    {
+      "consumer": "B",
+      "changed_pixels_gt2": 19516,
+      "percent": 2.1176215277777777,
+      "mean_abs_difference": [
+        0.10769965277777778,
+        0.12376953125,
+        0.137177734375
+      ],
+      "camera_timing_controls_preserved": true
+    }
+  ],
+  "performance_limit": "Fresh process with normal existing driver caches, no in-process warmup. First uncached initialization failed12.55\u201325.13s and is not covered by current performance release; benchmark after cache/backend/driver/machine/shot changes.",
+  "review": "Executor checks only; Radzi acceptance pending"
+}

@@ -1,0 +1,319 @@
+{
+  "blender": "5.2.2 LTS",
+  "checks": [
+    {
+      "name": "T5 exact vertex/topology ECCO_HOUSING_SOURCE_MESH",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 exact vertex/topology ECCO_CUTTER_PREVIEW_ONLY",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 exact vertex/topology TEMP | Service port 3 | removable metal plug",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 exact vertex/topology TEMP | Service port 2 | removable metal plug",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 exact vertex/topology TEMP | Service port 1 | removable metal plug",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 exact vertex/topology TEMP | Service cover 3 | removable fitted plate",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 exact vertex/topology TEMP | Service cover 2 | removable fitted plate",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 exact vertex/topology TEMP | Service cover 1 | removable fitted plate",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 exact vertex/topology TEMP | Imaging port 3 | removable acoustic cap",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 exact vertex/topology TEMP | Imaging port 2 | removable acoustic cap",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 exact vertex/topology TEMP | Imaging port 1 | removable acoustic cap",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 sensor reference ECCO_SENSOR_REF_01",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 sensor reference ECCO_SENSOR_REF_02",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T5 sensor reference ECCO_SENSOR_REF_03",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "Metres and original product length",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T6 exact base mesh CASING_FULL",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T6 exact base mesh CEMENT_FULL",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T6 exact base mesh CASING_CUTAWAY",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T6 exact base mesh CEMENT_CUTAWAY",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T6 exact base mesh NOMINAL_FULL",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T6 exact base mesh NOMINAL_CUTAWAY",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T6 exact base mesh IRREGULAR_FULL",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T6 exact base mesh IRREGULAR_CUTAWAY",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T6 exact base mesh SPIRAL_FULL",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "T6 exact base mesh SPIRAL_CUTAWAY",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "Environment has no product geometry",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "Casing/cement/host physical order",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "Bit remains inside 12.25in gauge",
+      "pass_": true,
+      "detail": {
+        "maximum_radial_m": 0.15557500426103663,
+        "gauge_radius_m": 0.155575
+      }
+    },
+    {
+      "name": "Centered bit fits nominal casing body",
+      "pass_": true,
+      "detail": {
+        "radial_clearance_m": 0.0033654957389633866,
+        "limit": "Centered straight nominal geometry only; not loaded passage or connection drift"
+      }
+    },
+    {
+      "name": "ECCO above bit in selected layout",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A before_v003 relative/existing libraries",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A before_v003 frame1 one evaluated housing",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A before_v003 frame1 preserved source mm-to-m object scale",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A before_v003 frame72 one evaluated housing",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A before_v003 frame72 preserved source mm-to-m object scale",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A camera/timing/local overrides preserved",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A before_v003 local wrapper no mesh copies",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A after_v004 relative/existing libraries",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A after_v004 frame1 one evaluated housing",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A after_v004 frame1 preserved source mm-to-m object scale",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A after_v004 frame72 one evaluated housing",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A after_v004 frame72 preserved source mm-to-m object scale",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A camera/timing/local overrides preserved",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A after_v004 local wrapper no mesh copies",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "A adopts shared grain revision",
+      "pass_": true,
+      "detail": [
+        38.0,
+        62.0
+      ]
+    },
+    {
+      "name": "B before_v003 relative/existing libraries",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B before_v003 frame1 one evaluated housing",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B before_v003 frame1 preserved source mm-to-m object scale",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B before_v003 frame96 one evaluated housing",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B before_v003 frame96 preserved source mm-to-m object scale",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B camera/timing/local overrides preserved",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B before_v003 local wrapper no mesh copies",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B after_v004 relative/existing libraries",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B after_v004 frame1 one evaluated housing",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B after_v004 frame1 preserved source mm-to-m object scale",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B after_v004 frame96 one evaluated housing",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B after_v004 frame96 preserved source mm-to-m object scale",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B camera/timing/local overrides preserved",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B after_v004 local wrapper no mesh copies",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "B adopts shared grain revision",
+      "pass_": true,
+      "detail": [
+        38.0,
+        62.0
+      ]
+    }
+  ],
+  "all_pass": true,
+  "method": "Executor scripted self-checks; no independent engineering or visual acceptance"
+}

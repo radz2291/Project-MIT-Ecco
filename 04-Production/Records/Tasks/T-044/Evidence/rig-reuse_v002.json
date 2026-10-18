@@ -1,0 +1,16 @@
+{
+  "original": "C:\\Users\\RZ1\\Desktop\\RZ\\261006-Rolladice\\IntoTheInvisible\\IntoTheInvisible_Shot01.blend",
+  "preserved_copy": "04-Production/Shared/Assets/Surface/Originals/IntoTheInvisible_Shot01.blend",
+  "sha256": "ef669ae4fdd20a74d1d4b6a16e0978c17ae857f5c839dc08128247ff3bf29ab0",
+  "unchanged": true,
+  "collection": "01_SURFACE",
+  "objects": 442,
+  "vertices": 20652,
+  "changes": [
+    "Source collection only; excludes old tool, well, mechanism, lighting, camera, ocean and geology",
+    "Retained object transforms/topology/layout",
+    "Removed animation on copied objects",
+    "Replaced complex materials with restrained PBR equivalents; no textures required",
+    "Added simple quiet-water plate and source-axis route anchor"
+  ]
+}

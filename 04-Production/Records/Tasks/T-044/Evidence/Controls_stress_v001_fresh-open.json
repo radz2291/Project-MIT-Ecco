@@ -1,0 +1,415 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/ReuseTests/Controls_stress_v001.blend",
+  "sha256": "ce46f603a0292c9e2df0c662cf70e0aa8fce75bd6d9ef7882c1088b9ac2045f7",
+  "snapshot": {
+    "camera": {
+      "name": "CONTROLS_CAMERA",
+      "location": [
+        3.5999999046325684,
+        -5.0,
+        2.5
+      ],
+      "rotation": [
+        1.1487784385681152,
+        -1.1447944814335642e-09,
+        0.45561566948890686
+      ],
+      "lens": 46.0,
+      "keys": []
+    },
+    "timing": [
+      1,
+      120,
+      24
+    ],
+    "local_controls": {
+      "WORLD_CASING_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CASING_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CEMENT_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CEMENT_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CONTROL": {
+        "properties": {
+          "travel_m": 0.5,
+          "rotation_rad": 0.4000000059604645,
+          "variant": 1,
+          "cutaway": 1,
+          "show_hardware": 1,
+          "show_open": 1,
+          "show_casing": 1,
+          "show_cement": 1,
+          "show_formation": 1,
+          "show_shoe": 1,
+          "show_mud": 1,
+          "interface": "v001; metres, X longitudinal; variant0 nominal/1 irregular/2 spiral; optical mud proxy"
+        },
+        "keys": [
+          [
+            "[\"rotation_rad\"]",
+            0,
+            [
+              [
+                1.0,
+                0.4,
+                "BEZIER"
+              ],
+              [
+                40.0,
+                1.0,
+                "BEZIER"
+              ],
+              [
+                80.0,
+                1.8,
+                "BEZIER"
+              ],
+              [
+                120.0,
+                2.4,
+                "BEZIER"
+              ]
+            ]
+          ],
+          [
+            "[\"variant\"]",
+            0,
+            [
+              [
+                1.0,
+                1.0,
+                "LINEAR"
+              ],
+              [
+                40.0,
+                0.0,
+                "LINEAR"
+              ],
+              [
+                80.0,
+                2.0,
+                "LINEAR"
+              ],
+              [
+                120.0,
+                2.0,
+                "LINEAR"
+              ]
+            ]
+          ],
+          [
+            "[\"cutaway\"]",
+            0,
+            [
+              [
+                1.0,
+                1.0,
+                "LINEAR"
+              ],
+              [
+                40.0,
+                1.0,
+                "LINEAR"
+              ],
+              [
+                80.0,
+                1.0,
+                "LINEAR"
+              ],
+              [
+                120.0,
+                0.0,
+                "LINEAR"
+              ]
+            ]
+          ],
+          [
+            "[\"travel_m\"]",
+            0,
+            [
+              [
+                1.0,
+                0.5,
+                "BEZIER"
+              ],
+              [
+                40.0,
+                0.3,
+                "BEZIER"
+              ],
+              [
+                80.0,
+                0.0,
+                "BEZIER"
+              ],
+              [
+                120.0,
+                -0.4,
+                "BEZIER"
+              ]
+            ]
+          ]
+        ],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_HARDWARE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.4999999403953552,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_IRREGULAR_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_IRREGULAR_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_MUD_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_NOMINAL_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_NOMINAL_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_PLACEMENT": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SHOE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SPIRAL_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SPIRAL_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_UPPER_FORMATION_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v004.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v004.blend",
+        "exists": true
+      }
+    ],
+    "mineral": {
+      "roughness": 0.3400000035762787,
+      "grain": 62.0
+    }
+  },
+  "one_product_instance": true,
+  "all_links_relative": true,
+  "all_links_exist": true,
+  "units": 1.0,
+  "housing_vertices": 348876,
+  "housing_mesh_hash": "8fdbba227e8c46a9520e1cc8fb4cd270d6486ed0a58781efea5f7ee2116ebc9b",
+  "sensor_refs": {
+    "ECCO_SENSOR_REF_01": [
+      0.7300000190734863,
+      0.10025183111429214,
+      0.0811823308467865
+    ],
+    "ECCO_SENSOR_REF_02": [
+      0.7300000190734863,
+      -0.12043187767267227,
+      0.046229466795921326
+    ],
+    "ECCO_SENSOR_REF_03": [
+      0.7300000190734863,
+      0.020180046558380127,
+      -0.12741179764270782
+    ]
+  },
+  "evaluated_housing_instances": 1
+}

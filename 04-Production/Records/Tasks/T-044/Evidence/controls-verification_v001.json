@@ -1,0 +1,57 @@
+{
+  "checks": [
+    {
+      "name": "one wall variant (0, 0)",
+      "passed": true
+    },
+    {
+      "name": "one wall variant (0, 1)",
+      "passed": true
+    },
+    {
+      "name": "one wall variant (0, 2)",
+      "passed": true
+    },
+    {
+      "name": "one wall variant (1, 0)",
+      "passed": true
+    },
+    {
+      "name": "one wall variant (1, 1)",
+      "passed": true
+    },
+    {
+      "name": "one wall variant (1, 2)",
+      "passed": true
+    },
+    {
+      "name": "toggle show_hardware",
+      "passed": true
+    },
+    {
+      "name": "toggle show_open",
+      "passed": true
+    },
+    {
+      "name": "toggle show_casing",
+      "passed": true
+    },
+    {
+      "name": "toggle show_cement",
+      "passed": true
+    },
+    {
+      "name": "toggle show_formation",
+      "passed": true
+    },
+    {
+      "name": "toggle show_shoe",
+      "passed": true
+    },
+    {
+      "name": "toggle show_mud",
+      "passed": true
+    }
+  ],
+  "all_pass": true
+}

@@ -1,0 +1,2238 @@
+{
+  "blender": "5.2.2 LTS",
+  "sources": [
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+      "unchanged": true,
+      "units": 1.0,
+      "objects": [
+        {
+          "name": "Camera",
+          "type": "CAMERA",
+          "parent": null,
+          "library": null,
+          "location": [
+            7.358891487121582,
+            -6.925790786743164,
+            4.958309173583984
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "Cube",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              -1.0,
+              -1.0,
+              -1.0
+            ],
+            [
+              1.0,
+              1.0,
+              1.0
+            ]
+          ],
+          "vertices": 8,
+          "materials": [
+            "Material"
+          ],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "ECCO_CUTTER_PREVIEW_ONLY",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            1.2000000476837158,
+            0.0,
+            0.25
+          ],
+          "scale": [
+            2.799999952316284,
+            0.800000011920929,
+            0.5
+          ],
+          "bounds": [
+            [
+              -0.19999992847442627,
+              -0.4000000059604645,
+              0.0
+            ],
+            [
+              2.5999999046325684,
+              0.4000000059604645,
+              0.5
+            ]
+          ],
+          "vertices": 8,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "ECCO_HOUSING_SOURCE_MESH",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            0.0010000000474974513,
+            0.0010000000474974513,
+            0.0010000000474974513
+          ],
+          "bounds": [
+            [
+              0.0,
+              -0.15239855647087097,
+              -0.15133929252624512
+            ],
+            [
+              2.4000000953674316,
+              0.15021024644374847,
+              0.15239837765693665
+            ]
+          ],
+          "vertices": 348876,
+          "materials": [
+            "Housing_neutral"
+          ],
+          "props": {
+            "source_step": "//Originals/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+            "mesh_tolerance_mm": "0.01",
+            "provenance": "Preserved earlier import; not independently retessellated from STEP in T-005",
+            "status": "PROVISIONAL: O04/O14 unresolved; no added faces/plugs/closures"
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_MUD_SENSOR_UNLOCATED",
+          "type": "EMPTY",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "status": "Unlocated. Origin is placeholder only; MUST NOT emit effects or be treated as a sensor position."
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_ROOT",
+          "type": "EMPTY",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "interface": "Translate root; source longitudinal +X, X=0 mesh end, not verified pin shoulder"
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_ROTATION_X",
+          "type": "EMPTY",
+          "parent": "ECCO_ROOT",
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "interface": "Rotate local X in radians; inherits axial travel from root. Physical operating direction requires end/viewpoint identification."
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_SENSOR_PLANE_PROVISIONAL",
+          "type": "EMPTY",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.7300000190734863,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "ECCO_SENSOR_REF_01",
+          "type": "EMPTY",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.7300000190734863,
+            0.10025183111429214,
+            0.0811823308467865
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_SENSOR_REF_02",
+          "type": "EMPTY",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.7300000190734863,
+            -0.12043187767267227,
+            0.046229466795921326
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_SENSOR_REF_03",
+          "type": "EMPTY",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.7300000190734863,
+            0.020180046558380127,
+            -0.12741179764270782
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          },
+          "instance": null
+        },
+        {
+          "name": "INSPECT_end-X0",
+          "type": "CAMERA",
+          "parent": null,
+          "library": null,
+          "location": [
+            -3.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "INSPECT_opposite",
+          "type": "CAMERA",
+          "parent": null,
+          "library": null,
+          "location": [
+            1.2000000476837158,
+            3.5,
+            -1.600000023841858
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "INSPECT_overview",
+          "type": "CAMERA",
+          "parent": null,
+          "library": null,
+          "location": [
+            1.2000000476837158,
+            -3.5,
+            1.600000023841858
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "INSPECT_sensor-closeup",
+          "type": "CAMERA",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.7300000190734863,
+            1.0,
+            0.8199999928474426
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "Light",
+          "type": "LIGHT",
+          "parent": null,
+          "library": null,
+          "location": [
+            4.076245307922363,
+            1.0054539442062378,
+            5.903861999511719
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "TEMP | Imaging port 1 | removable acoustic cap",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.7299999594688416,
+            0.10102897137403488,
+            0.08181162178516388
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.7099999785423279,
+              0.08766542375087738,
+              0.06563937664031982
+            ],
+            [
+              0.7499999403953552,
+              0.11439251899719238,
+              0.09798386693000793
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Imaging port 2 | removable acoustic cap",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.7299999594688416,
+            -0.12136545777320862,
+            0.04658779874444008
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.7099999785423279,
+              -0.12946639955043793,
+              0.027557823807001114
+            ],
+            [
+              0.7499999403953552,
+              -0.11326451599597931,
+              0.06561777740716934
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Imaging port 3 | removable acoustic cap",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.7299999594688416,
+            0.02033648081123829,
+            -0.12839952111244202
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.7099999785423279,
+              0.0004262758302502334,
+              -0.13251589238643646
+            ],
+            [
+              0.7499999403953552,
+              0.04024668410420418,
+              -0.12428314238786697
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service cover 1 | removable fitted plate",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.6283499598503113,
+            0.11320976167917252,
+            0.06536164879798889
+          ],
+          "scale": [
+            1.3809523582458496,
+            1.4814814329147339,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.5558499693870544,
+              0.09217053651809692,
+              0.03012063167989254
+            ],
+            [
+              0.7008499503135681,
+              0.1342489868402481,
+              0.1006026640534401
+            ]
+          ],
+          "vertices": 8,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "temporary_fit": "145x80mm plate including pocket extension; top seated at surrounding rim ray samples, not manufacturing design",
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service cover 2 | removable fitted plate",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.6283499598503113,
+            -0.11321008205413818,
+            0.06536183506250381
+          ],
+          "scale": [
+            1.3809523582458496,
+            1.4814814329147339,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.5558499693870544,
+              -0.13424931466579437,
+              0.030120817944407463
+            ],
+            [
+              0.7008499503135681,
+              -0.09217085689306259,
+              0.10060285031795502
+            ]
+          ],
+          "vertices": 8,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "temporary_fit": "145x80mm plate including pocket extension; top seated at surrounding rim ray samples, not manufacturing design",
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service cover 3 | removable fitted plate",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.6283499598503113,
+            -2.401348331633292e-17,
+            -0.13072335720062256
+          ],
+          "scale": [
+            1.3809523582458496,
+            1.4814814329147339,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.5558499693870544,
+              -0.03999999910593033,
+              -0.1319233626127243
+            ],
+            [
+              0.7008499503135681,
+              0.03999999910593033,
+              -0.1295233517885208
+            ]
+          ],
+          "vertices": 8,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "temporary_fit": "145x80mm plate including pocket extension; top seated at surrounding rim ray samples, not manufacturing design",
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service port 1 | removable metal plug",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.9097999930381775,
+            0.11708663403987885,
+            0.06759995967149734
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.892300009727478,
+              0.10747060924768448,
+              0.051944512873888016
+            ],
+            [
+              0.927299976348877,
+              0.1267026662826538,
+              0.08325540274381638
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service port 2 | removable metal plug",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.9097999930381775,
+            -0.11708663403987885,
+            0.06759995967149734
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.892300009727478,
+              -0.1267026662826538,
+              0.051944512873888016
+            ],
+            [
+              0.927299976348877,
+              -0.10747060924768448,
+              0.08325540274381638
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service port 3 | removable metal plug",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": null,
+          "location": [
+            0.9097999334335327,
+            -2.483583650283109e-17,
+            -0.13520003855228424
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.8922999501228333,
+              -0.017500001937150955,
+              -0.13620004057884216
+            ],
+            [
+              0.9272999167442322,
+              0.017500001937150955,
+              -0.13420003652572632
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        }
+      ],
+      "collections": [
+        {
+          "name": "B101_INSPECTION_ONLY",
+          "library": null,
+          "children": [],
+          "objects": [
+            "INSPECT_overview",
+            "INSPECT_opposite",
+            "INSPECT_sensor-closeup",
+            "INSPECT_end-X0"
+          ]
+        },
+        {
+          "name": "Collection",
+          "library": null,
+          "children": [],
+          "objects": [
+            "Cube",
+            "Light",
+            "Camera"
+          ]
+        },
+        {
+          "name": "ECCO_CONTROLS",
+          "library": null,
+          "children": [],
+          "objects": [
+            "ECCO_ROOT",
+            "ECCO_ROTATION_X"
+          ]
+        },
+        {
+          "name": "ECCO_CUTAWAY_TOOLS",
+          "library": null,
+          "children": [],
+          "objects": [
+            "ECCO_CUTTER_PREVIEW_ONLY"
+          ]
+        },
+        {
+          "name": "ECCO_EFFECTS_EMPTY",
+          "library": null,
+          "children": [],
+          "objects": []
+        },
+        {
+          "name": "ECCO_GEOMETRY_REPLACEABLE",
+          "library": null,
+          "children": [],
+          "objects": [
+            "ECCO_HOUSING_SOURCE_MESH"
+          ]
+        },
+        {
+          "name": "ECCO_MASTER_v002",
+          "library": null,
+          "children": [
+            "ECCO_GEOMETRY_REPLACEABLE",
+            "ECCO_CONTROLS",
+            "ECCO_SENSOR_REFERENCES",
+            "ECCO_EFFECTS_EMPTY",
+            "ECCO_CUTAWAY_TOOLS",
+            "ECCO_TEMPORARY_CLOSURES"
+          ],
+          "objects": []
+        },
+        {
+          "name": "ECCO_SENSOR_REFERENCES",
+          "library": null,
+          "children": [],
+          "objects": [
+            "ECCO_SENSOR_REF_01",
+            "ECCO_SENSOR_REF_02",
+            "ECCO_SENSOR_REF_03",
+            "ECCO_SENSOR_PLANE_PROVISIONAL",
+            "ECCO_MUD_SENSOR_UNLOCATED"
+          ]
+        },
+        {
+          "name": "ECCO_TEMPORARY_CLOSURES",
+          "library": null,
+          "children": [],
+          "objects": [
+            "TEMP | Service port 3 | removable metal plug",
+            "TEMP | Service port 2 | removable metal plug",
+            "TEMP | Service port 1 | removable metal plug",
+            "TEMP | Service cover 3 | removable fitted plate",
+            "TEMP | Service cover 2 | removable fitted plate",
+            "TEMP | Service cover 1 | removable fitted plate",
+            "TEMP | Imaging port 3 | removable acoustic cap",
+            "TEMP | Imaging port 2 | removable acoustic cap",
+            "TEMP | Imaging port 1 | removable acoustic cap"
+          ]
+        }
+      ],
+      "libraries": []
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "sha256": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4",
+      "unchanged": true,
+      "units": 1.0,
+      "objects": [
+        {
+          "name": "ASSEMBLY_CONTROL",
+          "type": "EMPTY",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "travel_m": "0.5",
+            "rotation_rad": "0.0",
+            "variant": "0",
+            "cutaway": "1",
+            "show_open": "1",
+            "show_casing": "1",
+            "show_cement": "1",
+            "show_hardware": "1",
+            "show_proxies": "1",
+            "irregular_strength": "1.0",
+            "spiral_strength": "1.0",
+            "status": "PROVISIONAL ILLUSTRATION authorized by Radzi; O05 remains open before technical lock",
+            "axes": "Source +X test travel. Pin/box source-end identification and actual BHA placement unconfirmed."
+          },
+          "instance": null
+        },
+        {
+          "name": "ASSEMBLY_ROTATION_X",
+          "type": "EMPTY",
+          "parent": "ASSEMBLY_TRAVEL_X",
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "ASSEMBLY_TRAVEL_X",
+          "type": "EMPTY",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.4999999403953552,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "BIT_GAUGE_PROXY_NOT_CUTTERS",
+          "type": "MESH",
+          "parent": "ASSEMBLY_ROTATION_X",
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              3.4000000953674316,
+              -0.1555750072002411,
+              -0.1555750072002411
+            ],
+            [
+              3.5799999237060547,
+              0.1555750072002411,
+              0.1555750072002411
+            ]
+          ],
+          "vertices": 18624,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "status": "PROVISIONAL layout/length and adapter/bit representation, not manufacturer geometry or actual MIT BHA placement"
+          },
+          "instance": null
+        },
+        {
+          "name": "CASING_CUTAWAY",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              -5.5,
+              9.732298548930441e-18,
+              -0.16986249387264252
+            ],
+            [
+              0.0,
+              0.16986249387264252,
+              0.16986249387264252
+            ]
+          ],
+          "vertices": 18818,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "interval": "upper cased host 17.5in; casing13.375in OD /12.515in nominal ID; separate lower open hole"
+          },
+          "instance": null
+        },
+        {
+          "name": "CASING_FULL",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              -5.5,
+              -0.16986249387264252,
+              -0.16986249387264252
+            ],
+            [
+              0.0,
+              0.16986249387264252,
+              0.16986249387264252
+            ]
+          ],
+          "vertices": 18624,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "interval": "upper cased host 17.5in; casing13.375in OD /12.515in nominal ID; separate lower open hole"
+          },
+          "instance": null
+        },
+        {
+          "name": "CEMENT_CUTAWAY",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              -5.5,
+              1.0401078210082627e-17,
+              -0.22224999964237213
+            ],
+            [
+              0.0,
+              0.22224999964237213,
+              0.22224999964237213
+            ]
+          ],
+          "vertices": 18818,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "interval": "upper cased host 17.5in; casing13.375in OD /12.515in nominal ID; separate lower open hole"
+          },
+          "instance": null
+        },
+        {
+          "name": "CEMENT_FULL",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              -5.5,
+              -0.22224999964237213,
+              -0.22224999964237213
+            ],
+            [
+              0.0,
+              0.22224999964237213,
+              0.22224999964237213
+            ]
+          ],
+          "vertices": 18624,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "interval": "upper cased host 17.5in; casing13.375in OD /12.515in nominal ID; separate lower open hole"
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_LINK_v002",
+          "type": "EMPTY",
+          "parent": "ASSEMBLY_ROTATION_X",
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": "ECCO_MASTER_v002"
+        },
+        {
+          "name": "INSPECTION_CAMERA",
+          "type": "CAMERA",
+          "parent": "ASSEMBLY_TRAVEL_X",
+          "library": null,
+          "location": [
+            1.2000000476837158,
+            -4.0,
+            2.200000047683716
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "IRREGULAR_CUTAWAY",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.0,
+              9.52622138856388e-18,
+              -0.1555750072002411
+            ],
+            [
+              6.0,
+              0.1555750072002411,
+              0.1555750072002411
+            ]
+          ],
+          "vertices": 9409,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "profile": "Illustrative outward enlargement only; nominal12.25in, no measured field log/spiral claim"
+          },
+          "instance": null
+        },
+        {
+          "name": "IRREGULAR_FULL",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.0,
+              -0.1555750072002411,
+              -0.1555750072002411
+            ],
+            [
+              6.0,
+              0.1555750072002411,
+              0.1555750072002411
+            ]
+          ],
+          "vertices": 9312,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "profile": "Illustrative outward enlargement only; nominal12.25in, no measured field log/spiral claim"
+          },
+          "instance": null
+        },
+        {
+          "name": "LOWER_ADAPTER_UNRESOLVED",
+          "type": "MESH",
+          "parent": "ASSEMBLY_ROTATION_X",
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              2.9000000953674316,
+              -0.10477499663829803,
+              -0.10477499663829803
+            ],
+            [
+              3.0199999809265137,
+              0.10477499663829803,
+              0.10477499663829803
+            ]
+          ],
+          "vertices": 18624,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "status": "PROVISIONAL layout/length and adapter/bit representation, not manufacturer geometry or actual MIT BHA placement"
+          },
+          "instance": null
+        },
+        {
+          "name": "LOWER_COLLAR_PROXY",
+          "type": "MESH",
+          "parent": "ASSEMBLY_ROTATION_X",
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              3.0199999809265137,
+              -0.10477499663829803,
+              -0.10477499663829803
+            ],
+            [
+              3.4000000953674316,
+              0.10477499663829803,
+              0.10477499663829803
+            ]
+          ],
+          "vertices": 18624,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "status": "PROVISIONAL layout/length and adapter/bit representation, not manufacturer geometry or actual MIT BHA placement"
+          },
+          "instance": null
+        },
+        {
+          "name": "NOMINAL_CUTAWAY",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.0,
+              9.52622138856388e-18,
+              -0.1555750072002411
+            ],
+            [
+              6.0,
+              0.1555750072002411,
+              0.1555750072002411
+            ]
+          ],
+          "vertices": 9409,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "profile": "Illustrative outward enlargement only; nominal12.25in, no measured field log/spiral claim"
+          },
+          "instance": null
+        },
+        {
+          "name": "NOMINAL_FULL",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.0,
+              -0.1555750072002411,
+              -0.1555750072002411
+            ],
+            [
+              6.0,
+              0.1555750072002411,
+              0.1555750072002411
+            ]
+          ],
+          "vertices": 9312,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "profile": "Illustrative outward enlargement only; nominal12.25in, no measured field log/spiral claim"
+          },
+          "instance": null
+        },
+        {
+          "name": "SPIRAL_CUTAWAY",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.0,
+              9.52622138856388e-18,
+              -0.1555750072002411
+            ],
+            [
+              6.0,
+              0.1555750072002411,
+              0.1555750072002411
+            ]
+          ],
+          "vertices": 9409,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "profile": "Illustrative outward enlargement only; nominal12.25in, no measured field log/spiral claim"
+          },
+          "instance": null
+        },
+        {
+          "name": "SPIRAL_FULL",
+          "type": "MESH",
+          "parent": null,
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.0,
+              -0.1555750072002411,
+              -0.1555750072002411
+            ],
+            [
+              6.0,
+              0.1555750072002411,
+              0.1555750072002411
+            ]
+          ],
+          "vertices": 9312,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "profile": "Illustrative outward enlargement only; nominal12.25in, no measured field log/spiral claim"
+          },
+          "instance": null
+        },
+        {
+          "name": "UPPER_ADAPTER_UNRESOLVED",
+          "type": "MESH",
+          "parent": "ASSEMBLY_ROTATION_X",
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.37999993562698364,
+              -0.10477499663829803,
+              -0.10477499663829803
+            ],
+            [
+              0.4999999403953552,
+              0.10477499663829803,
+              0.10477499663829803
+            ]
+          ],
+          "vertices": 18624,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "status": "PROVISIONAL layout/length and adapter/bit representation, not manufacturer geometry or actual MIT BHA placement"
+          },
+          "instance": null
+        },
+        {
+          "name": "UPPER_COLLAR_PROXY",
+          "type": "MESH",
+          "parent": "ASSEMBLY_ROTATION_X",
+          "library": null,
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              -1.0,
+              -0.10477499663829803,
+              -0.10477499663829803
+            ],
+            [
+              0.37999993562698364,
+              0.10477499663829803,
+              0.10477499663829803
+            ]
+          ],
+          "vertices": 18624,
+          "materials": [],
+          "props": {
+            "source": "config_authorized_v003.json; researched dimensional reference / labeled illustrative geometry",
+            "status": "PROVISIONAL layout/length and adapter/bit representation, not manufacturer geometry or actual MIT BHA placement"
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_CUTTER_PREVIEW_ONLY",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            1.2000000476837158,
+            0.0,
+            0.25
+          ],
+          "scale": [
+            2.799999952316284,
+            0.800000011920929,
+            0.5
+          ],
+          "bounds": [
+            [
+              -0.19999992847442627,
+              -0.4000000059604645,
+              0.0
+            ],
+            [
+              2.5999999046325684,
+              0.4000000059604645,
+              0.5
+            ]
+          ],
+          "vertices": 8,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "ECCO_HOUSING_SOURCE_MESH",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            0.0010000000474974513,
+            0.0010000000474974513,
+            0.0010000000474974513
+          ],
+          "bounds": [
+            [
+              0.0,
+              -0.15239855647087097,
+              -0.15133929252624512
+            ],
+            [
+              2.4000000953674316,
+              0.15021024644374847,
+              0.15239837765693665
+            ]
+          ],
+          "vertices": 348876,
+          "materials": [
+            "Housing_neutral"
+          ],
+          "props": {
+            "source_step": "//Originals/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+            "mesh_tolerance_mm": "0.01",
+            "provenance": "Preserved earlier import; not independently retessellated from STEP in T-005",
+            "status": "PROVISIONAL: O04/O14 unresolved; no added faces/plugs/closures"
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_MUD_SENSOR_UNLOCATED",
+          "type": "EMPTY",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "status": "Unlocated. Origin is placeholder only; MUST NOT emit effects or be treated as a sensor position."
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_ROOT",
+          "type": "EMPTY",
+          "parent": null,
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "interface": "Translate root; source longitudinal +X, X=0 mesh end, not verified pin shoulder"
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_ROTATION_X",
+          "type": "EMPTY",
+          "parent": "ECCO_ROOT",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "interface": "Rotate local X in radians; inherits axial travel from root. Physical operating direction requires end/viewpoint identification."
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_SENSOR_PLANE_PROVISIONAL",
+          "type": "EMPTY",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.7300000190734863,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {},
+          "instance": null
+        },
+        {
+          "name": "ECCO_SENSOR_REF_01",
+          "type": "EMPTY",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.7300000190734863,
+            0.10025183111429214,
+            0.0811823308467865
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_SENSOR_REF_02",
+          "type": "EMPTY",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.7300000190734863,
+            -0.12043187767267227,
+            0.046229466795921326
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          },
+          "instance": null
+        },
+        {
+          "name": "ECCO_SENSOR_REF_03",
+          "type": "EMPTY",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.7300000190734863,
+            0.020180046558380127,
+            -0.12741179764270782
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": null,
+          "vertices": 0,
+          "materials": [],
+          "props": {
+            "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+            "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Imaging port 1 | removable acoustic cap",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.7299999594688416,
+            0.10102897137403488,
+            0.08181162178516388
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.7099999785423279,
+              0.08766542375087738,
+              0.06563937664031982
+            ],
+            [
+              0.7499999403953552,
+              0.11439251899719238,
+              0.09798386693000793
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Imaging port 2 | removable acoustic cap",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.7299999594688416,
+            -0.12136545777320862,
+            0.04658779874444008
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.7099999785423279,
+              -0.12946639955043793,
+              0.027557823807001114
+            ],
+            [
+              0.7499999403953552,
+              -0.11326451599597931,
+              0.06561777740716934
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Imaging port 3 | removable acoustic cap",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.7299999594688416,
+            0.02033648081123829,
+            -0.12839952111244202
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.7099999785423279,
+              0.0004262758302502334,
+              -0.13251589238643646
+            ],
+            [
+              0.7499999403953552,
+              0.04024668410420418,
+              -0.12428314238786697
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service cover 1 | removable fitted plate",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.6283499598503113,
+            0.11320976167917252,
+            0.06536164879798889
+          ],
+          "scale": [
+            1.3809523582458496,
+            1.4814814329147339,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.5558499693870544,
+              0.09217053651809692,
+              0.03012063167989254
+            ],
+            [
+              0.7008499503135681,
+              0.1342489868402481,
+              0.1006026640534401
+            ]
+          ],
+          "vertices": 8,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "temporary_fit": "145x80mm plate including pocket extension; top seated at surrounding rim ray samples, not manufacturing design",
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service cover 2 | removable fitted plate",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.6283499598503113,
+            -0.11321008205413818,
+            0.06536183506250381
+          ],
+          "scale": [
+            1.3809523582458496,
+            1.4814814329147339,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.5558499693870544,
+              -0.13424931466579437,
+              0.030120817944407463
+            ],
+            [
+              0.7008499503135681,
+              -0.09217085689306259,
+              0.10060285031795502
+            ]
+          ],
+          "vertices": 8,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "temporary_fit": "145x80mm plate including pocket extension; top seated at surrounding rim ray samples, not manufacturing design",
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service cover 3 | removable fitted plate",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.6283499598503113,
+            -2.401348331633292e-17,
+            -0.13072335720062256
+          ],
+          "scale": [
+            1.3809523582458496,
+            1.4814814329147339,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.5558499693870544,
+              -0.03999999910593033,
+              -0.1319233626127243
+            ],
+            [
+              0.7008499503135681,
+              0.03999999910593033,
+              -0.1295233517885208
+            ]
+          ],
+          "vertices": 8,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "temporary_fit": "145x80mm plate including pocket extension; top seated at surrounding rim ray samples, not manufacturing design",
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service port 1 | removable metal plug",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.9097999930381775,
+            0.11708663403987885,
+            0.06759995967149734
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.892300009727478,
+              0.10747060924768448,
+              0.051944512873888016
+            ],
+            [
+              0.927299976348877,
+              0.1267026662826538,
+              0.08325540274381638
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service port 2 | removable metal plug",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.9097999930381775,
+            -0.11708663403987885,
+            0.06759995967149734
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.892300009727478,
+              -0.1267026662826538,
+              0.051944512873888016
+            ],
+            [
+              0.927299976348877,
+              -0.10747060924768448,
+              0.08325540274381638
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        },
+        {
+          "name": "TEMP | Service port 3 | removable metal plug",
+          "type": "MESH",
+          "parent": "ECCO_ROTATION_X",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "location": [
+            0.9097999334335327,
+            -2.483583650283109e-17,
+            -0.13520003855228424
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "bounds": [
+            [
+              0.8922999501228333,
+              -0.017500001937150955,
+              -0.13620004057884216
+            ],
+            [
+              0.9272999167442322,
+              0.017500001937150955,
+              -0.13420003652572632
+            ]
+          ],
+          "vertices": 128,
+          "materials": [
+            "TEMP_CLOSURES_neutral"
+          ],
+          "props": {
+            "status": "TEMPORARY VISUALIZATION CLOSURE; replace with client assembled STEP; not manufacturing geometry",
+            "provenance": "Earlier First Ping removable presentation component; source-mesh correspondence checked, transformed back to source X axis"
+          },
+          "instance": null
+        }
+      ],
+      "collections": [
+        {
+          "name": "ASSEMBLY_CONTROLS",
+          "library": null,
+          "children": [],
+          "objects": [
+            "ASSEMBLY_CONTROL",
+            "ASSEMBLY_TRAVEL_X",
+            "ASSEMBLY_ROTATION_X"
+          ]
+        },
+        {
+          "name": "B102_INSPECTION_ONLY",
+          "library": null,
+          "children": [],
+          "objects": [
+            "INSPECTION_CAMERA"
+          ]
+        },
+        {
+          "name": "LINKED_ECCO",
+          "library": null,
+          "children": [],
+          "objects": [
+            "ECCO_LINK_v002"
+          ]
+        },
+        {
+          "name": "LOWER_IRREGULAR",
+          "library": null,
+          "children": [],
+          "objects": [
+            "IRREGULAR_FULL",
+            "IRREGULAR_CUTAWAY"
+          ]
+        },
+        {
+          "name": "LOWER_NOMINAL",
+          "library": null,
+          "children": [],
+          "objects": [
+            "NOMINAL_FULL",
+            "NOMINAL_CUTAWAY"
+          ]
+        },
+        {
+          "name": "LOWER_SPIRAL",
+          "library": null,
+          "children": [],
+          "objects": [
+            "SPIRAL_FULL",
+            "SPIRAL_CUTAWAY"
+          ]
+        },
+        {
+          "name": "PROVISIONAL_BHA_PROXIES",
+          "library": null,
+          "children": [],
+          "objects": [
+            "UPPER_COLLAR_PROXY",
+            "UPPER_ADAPTER_UNRESOLVED",
+            "LOWER_ADAPTER_UNRESOLVED",
+            "LOWER_COLLAR_PROXY",
+            "BIT_GAUGE_PROXY_NOT_CUTTERS"
+          ]
+        },
+        {
+          "name": "UPPER_CASED_INTERVAL",
+          "library": null,
+          "children": [],
+          "objects": [
+            "CASING_FULL",
+            "CEMENT_FULL",
+            "CASING_CUTAWAY",
+            "CEMENT_CUTAWAY"
+          ]
+        },
+        {
+          "name": "WELL_ASSEMBLY_v003",
+          "library": null,
+          "children": [
+            "ASSEMBLY_CONTROLS",
+            "LINKED_ECCO",
+            "PROVISIONAL_BHA_PROXIES",
+            "WELL_INTERVALS"
+          ],
+          "objects": []
+        },
+        {
+          "name": "WELL_INTERVALS",
+          "library": null,
+          "children": [
+            "UPPER_CASED_INTERVAL",
+            "LOWER_NOMINAL",
+            "LOWER_IRREGULAR",
+            "LOWER_SPIRAL"
+          ],
+          "objects": []
+        },
+        {
+          "name": "ECCO_CONTROLS",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "children": [],
+          "objects": [
+            "ECCO_ROOT",
+            "ECCO_ROTATION_X"
+          ]
+        },
+        {
+          "name": "ECCO_CUTAWAY_TOOLS",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "children": [],
+          "objects": [
+            "ECCO_CUTTER_PREVIEW_ONLY"
+          ]
+        },
+        {
+          "name": "ECCO_EFFECTS_EMPTY",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "children": [],
+          "objects": []
+        },
+        {
+          "name": "ECCO_GEOMETRY_REPLACEABLE",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "children": [],
+          "objects": [
+            "ECCO_HOUSING_SOURCE_MESH"
+          ]
+        },
+        {
+          "name": "ECCO_MASTER_v002",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "children": [
+            "ECCO_GEOMETRY_REPLACEABLE",
+            "ECCO_CONTROLS",
+            "ECCO_SENSOR_REFERENCES",
+            "ECCO_EFFECTS_EMPTY",
+            "ECCO_CUTAWAY_TOOLS",
+            "ECCO_TEMPORARY_CLOSURES"
+          ],
+          "objects": []
+        },
+        {
+          "name": "ECCO_SENSOR_REFERENCES",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "children": [],
+          "objects": [
+            "ECCO_SENSOR_REF_01",
+            "ECCO_SENSOR_REF_02",
+            "ECCO_SENSOR_REF_03",
+            "ECCO_SENSOR_PLANE_PROVISIONAL",
+            "ECCO_MUD_SENSOR_UNLOCATED"
+          ]
+        },
+        {
+          "name": "ECCO_TEMPORARY_CLOSURES",
+          "library": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "children": [],
+          "objects": [
+            "TEMP | Service port 3 | removable metal plug",
+            "TEMP | Service port 2 | removable metal plug",
+            "TEMP | Service port 1 | removable metal plug",
+            "TEMP | Service cover 3 | removable fitted plate",
+            "TEMP | Service cover 2 | removable fitted plate",
+            "TEMP | Service cover 1 | removable fitted plate",
+            "TEMP | Imaging port 3 | removable acoustic cap",
+            "TEMP | Imaging port 2 | removable acoustic cap",
+            "TEMP | Imaging port 1 | removable acoustic cap"
+          ]
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "exists": true
+        }
+      ]
+    }
+  ]
+}

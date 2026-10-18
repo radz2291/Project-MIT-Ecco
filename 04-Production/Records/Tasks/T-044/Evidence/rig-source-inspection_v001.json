@@ -1,0 +1,6313 @@
+[
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261006-Rolladice\\IntoTheInvisible\\IntoTheInvisible_Shot01.blend",
+    "sha256": "ef669ae4fdd20a74d1d4b6a16e0978c17ae857f5c839dc08128247ff3bf29ab0",
+    "unchanged": true,
+    "collections": [
+      {
+        "name": "00_CAMERA",
+        "objects": 1,
+        "verts": 0,
+        "bounds": null
+      },
+      {
+        "name": "01_SURFACE",
+        "objects": 442,
+        "verts": 20652,
+        "bounds": [
+          [
+            -29.065000534057617,
+            -24.399999618530273,
+            -20.0
+          ],
+          [
+            50.0,
+            23.0,
+            64.03166961669922
+          ]
+        ]
+      },
+      {
+        "name": "02_OCEAN",
+        "objects": 2,
+        "verts": 22809,
+        "bounds": [
+          [
+            -1600.0,
+            -1600.0,
+            -160.0
+          ],
+          [
+            1600.0,
+            1600.0,
+            0.4599662125110626
+          ]
+        ]
+      },
+      {
+        "name": "03_SUBSEA",
+        "objects": 118,
+        "verts": 11544,
+        "bounds": [
+          [
+            -4.5,
+            -4.5,
+            -160.0
+          ],
+          [
+            4.5,
+            4.5,
+            11.0
+          ]
+        ]
+      },
+      {
+        "name": "04_GEOLOGY",
+        "objects": 35,
+        "verts": 1380,
+        "bounds": [
+          [
+            -90.0,
+            -48.0,
+            -335.9700012207031
+          ],
+          [
+            164.0,
+            56.0,
+            -160.02999877929688
+          ]
+        ]
+      },
+      {
+        "name": "05_WELL",
+        "objects": 40,
+        "verts": 39670,
+        "bounds": [
+          [
+            -0.3799999952316284,
+            -0.24500000476837158,
+            -331.0
+          ],
+          [
+            0.3799999952316284,
+            0.3799999952316284,
+            14.0
+          ]
+        ]
+      },
+      {
+        "name": "06_TOOL",
+        "objects": 64,
+        "verts": 10880,
+        "bounds": [
+          [
+            -0.10300000011920929,
+            -0.10300000011920929,
+            -322.1600036621094
+          ],
+          [
+            0.10300000011920929,
+            0.10300000011920929,
+            -320.19000244140625
+          ]
+        ]
+      },
+      {
+        "name": "07_MECHANISM",
+        "objects": 39,
+        "verts": 15859,
+        "bounds": [
+          [
+            -0.08500000089406967,
+            -0.06553158909082413,
+            -321.7449951171875
+          ],
+          [
+            0.11999999731779099,
+            0.08399999886751175,
+            -320.6099853515625
+          ]
+        ]
+      },
+      {
+        "name": "08_FLOW",
+        "objects": 9,
+        "verts": 432,
+        "bounds": [
+          [
+            -0.019536791369318962,
+            -0.019734077155590057,
+            -321.8190002441406
+          ],
+          [
+            0.01979999989271164,
+            0.019209587946534157,
+            -321.41900634765625
+          ]
+        ]
+      },
+      {
+        "name": "09_LIGHTING",
+        "objects": 12,
+        "verts": 0,
+        "bounds": null
+      },
+      {
+        "name": "10_HELPERS",
+        "objects": 0,
+        "verts": 0,
+        "bounds": null
+      },
+      {
+        "name": "Collection",
+        "objects": 3,
+        "verts": 8,
+        "bounds": [
+          [
+            -1.0,
+            -1.0,
+            -1.0
+          ],
+          [
+            1.0,
+            1.0,
+            1.0
+          ]
+        ]
+      }
+    ],
+    "objects": [
+      {
+        "name": "CAM_Shot01",
+        "type": "CAMERA",
+        "collections": [
+          "00_CAMERA"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "Camera",
+        "type": "CAMERA",
+        "collections": [
+          "Collection"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "Cube",
+        "type": "MESH",
+        "collections": [
+          "Collection"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "FLOW_Main_00",
+        "type": "MESH",
+        "collections": [
+          "08_FLOW"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "FLOW_Main_01",
+        "type": "MESH",
+        "collections": [
+          "08_FLOW"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "FLOW_Main_02",
+        "type": "MESH",
+        "collections": [
+          "08_FLOW"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "FLOW_Main_03",
+        "type": "MESH",
+        "collections": [
+          "08_FLOW"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "FLOW_Main_04",
+        "type": "MESH",
+        "collections": [
+          "08_FLOW"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "FLOW_Main_05",
+        "type": "MESH",
+        "collections": [
+          "08_FLOW"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "FLOW_Main_06",
+        "type": "MESH",
+        "collections": [
+          "08_FLOW"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "FLOW_Main_07",
+        "type": "MESH",
+        "collections": [
+          "08_FLOW"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "FLOW_Main_08",
+        "type": "MESH",
+        "collections": [
+          "08_FLOW"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "GEO_00_BackFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 106
+      },
+      {
+        "name": "GEO_00_LeftFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_00_RevealSector",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_01_BackFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 106
+      },
+      {
+        "name": "GEO_01_LeftFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_01_RevealSector",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_02_BackFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 106
+      },
+      {
+        "name": "GEO_02_LeftFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_02_RevealSector",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_03_BackFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 106
+      },
+      {
+        "name": "GEO_03_LeftFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_03_RevealSector",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_04_BackFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 106
+      },
+      {
+        "name": "GEO_04_LeftFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_04_RevealSector",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_05_BackFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 106
+      },
+      {
+        "name": "GEO_05_LeftFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_05_RevealSector",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_06_BackFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 106
+      },
+      {
+        "name": "GEO_06_LeftFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_06_RevealSector",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_07_BackFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 106
+      },
+      {
+        "name": "GEO_07_LeftFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_07_RevealSector",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_08_BackFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 106
+      },
+      {
+        "name": "GEO_08_LeftFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_08_RevealSector",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_09_BackFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 106
+      },
+      {
+        "name": "GEO_09_LeftFormation",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_09_RevealSector",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "GEO_BeddingSeam",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 32
+      },
+      {
+        "name": "GEO_BeddingSeam.001",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 32
+      },
+      {
+        "name": "GEO_BeddingSeam.002",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 32
+      },
+      {
+        "name": "GEO_BeddingSeam.003",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 32
+      },
+      {
+        "name": "GEO_BeddingSeam.004",
+        "type": "MESH",
+        "collections": [
+          "04_GEOLOGY"
+        ],
+        "vertices": 32
+      },
+      {
+        "name": "Light",
+        "type": "LIGHT",
+        "collections": [
+          "Collection"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_CasingApproach",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_DeckFill",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_OvercastSun",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_SectionFill",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_SectionFill.001",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_SectionFill.002",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_SubseaFill",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_SubseaFill.001",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_ToolEdge",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_ToolKey",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_ToolLower",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "LIGHT_WellEntry_SteelReadability",
+        "type": "LIGHT",
+        "collections": [
+          "09_LIGHTING"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "MECH_ActuatorCylinderLiner",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 324
+      },
+      {
+        "name": "MECH_ActuatorPiston",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 4079
+      },
+      {
+        "name": "MECH_AntiRotationKey",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "MECH_AntiRotationKey.001",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "MECH_AxialActuatorAssembly",
+        "type": "EMPTY",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "MECH_AxialBore_Lower",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "MECH_AxialBore_Upper",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "MECH_CamFollowerRoller",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 96
+      },
+      {
+        "name": "MECH_CamJournal",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 324
+      },
+      {
+        "name": "MECH_CaptiveDetentSpring",
+        "type": "CURVE",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "MECH_CentralGuideTube",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 324
+      },
+      {
+        "name": "MECH_DetentCartridge_Section",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 580
+      },
+      {
+        "name": "MECH_DetentMount",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 162
+      },
+      {
+        "name": "MECH_DetentMountScrew",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 96
+      },
+      {
+        "name": "MECH_DetentMountScrew.001",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 96
+      },
+      {
+        "name": "MECH_DetentPlunger",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 96
+      },
+      {
+        "name": "MECH_DetentPlungerFlange",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 96
+      },
+      {
+        "name": "MECH_DetentPlungerNose",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 482
+      },
+      {
+        "name": "MECH_DetentRearCap",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 96
+      },
+      {
+        "name": "MECH_FixedFlowMandrel",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 2388
+      },
+      {
+        "name": "MECH_FollowerRetainingHead",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 96
+      },
+      {
+        "name": "MECH_FollowerShoulderPin",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 96
+      },
+      {
+        "name": "MECH_GuideKeyCarrier",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 354
+      },
+      {
+        "name": "MECH_GuideKeyScrew",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 96
+      },
+      {
+        "name": "MECH_GuideKeyScrew.001",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 96
+      },
+      {
+        "name": "MECH_HelicalCamDrum",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 1499
+      },
+      {
+        "name": "MECH_IndexRotaryAssembly",
+        "type": "EMPTY",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 0
+      },
+      {
+        "name": "MECH_LowerFlowGuide",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "MECH_PistonInnerGuideSeal",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 324
+      },
+      {
+        "name": "MECH_PistonInnerGuideSeal.001",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 324
+      },
+      {
+        "name": "MECH_PistonSeal",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 324
+      },
+      {
+        "name": "MECH_PistonSeal.001",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 324
+      },
+      {
+        "name": "MECH_PressureChamberHead",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 324
+      },
+      {
+        "name": "MECH_RotaryValve",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 352
+      },
+      {
+        "name": "MECH_SideFlowPort",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 526
+      },
+      {
+        "name": "MECH_Sleeve",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 437
+      },
+      {
+        "name": "MECH_ValveBoreSeal",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 324
+      },
+      {
+        "name": "MECH_ValveBoreSeal.001",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 324
+      },
+      {
+        "name": "MECH_ValveSeat",
+        "type": "MESH",
+        "collections": [
+          "07_MECHANISM"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "OCEAN_DepthMedium",
+        "type": "MESH",
+        "collections": [
+          "02_OCEAN"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "OCEAN_Surface",
+        "type": "MESH",
+        "collections": [
+          "02_OCEAN"
+        ],
+        "vertices": 22801
+      },
+      {
+        "name": "RIG_Accommodation",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Antenna",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_Antenna.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_AntennaCrossbar",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_AntennaCrossbar.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_Bridge",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_ColumnDeckKnee_X",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_ColumnDeckKnee_X.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_ColumnDeckKnee_X.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_ColumnDeckKnee_X.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_ColumnDeckKnee_Y",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_ColumnDeckKnee_Y.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_ColumnDeckKnee_Y.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_ColumnDeckKnee_Y.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_ColumnSafetyBand",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "RIG_ColumnSafetyBand.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "RIG_ColumnSafetyBand.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "RIG_ColumnSafetyBand.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "RIG_CraneCable",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneCable.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneChord",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneChord.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneChord.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneChord.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.012",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.013",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.014",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.015",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.016",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.017",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.018",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.019",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.020",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.021",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.022",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.023",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.024",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.025",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.026",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.027",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.028",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.029",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.030",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.031",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.032",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.033",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.034",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.035",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.036",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.037",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.038",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.039",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.040",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.041",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.042",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.043",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.044",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.045",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.046",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CraneLattice.047",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_CranePedestal",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_CranePedestal.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_CrownBlock",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_DeckEdgeRib",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.012",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.013",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.014",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.015",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.016",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.017",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.018",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.019",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.020",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckEdgeRib.021",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DeckWing",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_DeckWing.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_DerrickHorizontal",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.012",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.013",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.014",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.015",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.016",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.017",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.018",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickHorizontal.019",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.012",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.013",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.014",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.015",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.016",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.017",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.018",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickLeg.019",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.012",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.013",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.014",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.015",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.016",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.017",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.018",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.019",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.020",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.021",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.022",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.023",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.024",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.025",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.026",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.027",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.028",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.029",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.030",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.031",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.032",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.033",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.034",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.035",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.036",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.037",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.038",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DerrickXBrace.039",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_DrillFloor",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_DrillString",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "RIG_EquipmentSkid",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_EquipmentSkid.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_EquipmentSkid.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_EquipmentSkid.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_EquipmentSkid.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_EquipmentSkid.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Floodlight",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Floodlight.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Floodlight.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Floodlight.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Floodlight.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Floodlight.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Floodlight.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Floodlight.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_H_Marking",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_H_Marking.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_H_Marking.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Helipad",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_HelipadCircle",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "RIG_HelipadStrut",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_HelipadStrut.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_LightMast",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_LightMast.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_LightMast.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_LightMast.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_LightMast.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_LightMast.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_LightMast.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_LightMast.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_MarineRiser",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "RIG_MoonpoolCrossDeck",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_MoonpoolCrossDeck.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_OrangeLifeboat",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_OrangeLifeboat.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_PerimeterRail",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PerimeterRail.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PerimeterRail.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PerimeterRail.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PerimeterRail.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PerimeterRail.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PerimeterRail.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PerimeterRail.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeRackUpright",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeRackUpright.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeRackUpright.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeRackUpright.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeRackUpright.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeRackUpright.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeRackUpright.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeRackUpright.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.012",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.013",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.014",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.015",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.016",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.017",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.018",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.019",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.020",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.021",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.022",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.023",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.024",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.025",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.026",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.027",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.028",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.029",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.030",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.031",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.032",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.033",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.034",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.035",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.036",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.037",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.038",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.039",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.040",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.041",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.042",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.043",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.044",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.045",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.046",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.047",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.048",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.049",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.050",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.051",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.052",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.053",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.054",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.055",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.056",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.057",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.058",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.059",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.060",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.061",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.062",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.063",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.064",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.065",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.066",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.067",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.068",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.069",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.070",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeStock.071",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_PipeSupport",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PipeSupport.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_PressureVessel",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_PressureVessel.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_PressureVessel.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_PressureVessel.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_PressureVessel.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_PressureVessel.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_ProcessPipe",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_ProcessPipe.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_ProcessPipe.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_ProcessPipe.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RackPipe.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.012",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.013",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.014",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.015",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.016",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.017",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.018",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.019",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.020",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.021",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.022",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.023",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.024",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.025",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.026",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.027",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.028",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.029",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.030",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.031",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.032",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.033",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.034",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.035",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.036",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.037",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.038",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.039",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.040",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.041",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.042",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.043",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.044",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.045",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.046",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.047",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.048",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.049",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.050",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_RailPost.051",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_SideWindow",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.012",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.013",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SideWindow.014",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_StairTread.012",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SubmergedPontoon",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SubmergedPontoon.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_SupportColumn",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_SupportColumn.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_SupportColumn.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_SupportColumn.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "RIG_TensionerBody",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerBody.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerBody.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerBody.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerBody.004",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerBody.005",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerLink",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerLink.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerLink.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerLink.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerLink.004",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerLink.005",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerPiston",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerPiston.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerPiston.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerPiston.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerPiston.004",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionerPiston.005",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "RIG_TensionRing",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "RIG_Window",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.001",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.002",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.003",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.004",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.005",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.006",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.007",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.008",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.009",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.010",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.011",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.012",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.013",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.014",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.015",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.016",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.017",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.018",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "RIG_Window.019",
+        "type": "MESH",
+        "collections": [
+          "01_SURFACE"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "SUBSEA_Accumulator",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "SUBSEA_Accumulator.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "SUBSEA_Accumulator.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "SUBSEA_Accumulator.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "SUBSEA_Accumulator.004",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.004",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.005",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.006",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.007",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.008",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.009",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.010",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.011",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.012",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.013",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.014",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.015",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.016",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.017",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.018",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.019",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.020",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.021",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.022",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.023",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.024",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.025",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.026",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.027",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.028",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.029",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.030",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.031",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.032",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.033",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.034",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.035",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.036",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.037",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.038",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.039",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.040",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.041",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.042",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.043",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.044",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.045",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.046",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.047",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.048",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.049",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.050",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.051",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.052",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.053",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.054",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_AuxiliaryLine.055",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_BOPStack",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "SUBSEA_BOPStack.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "SUBSEA_BOPStack.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "SUBSEA_BOPStack.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 128
+      },
+      {
+        "name": "SUBSEA_Foundation",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "SUBSEA_Frame",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_Frame.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_Frame.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_Frame.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_GuideCable",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_GuideCable.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_GuideCable.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_GuideCable.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_GuidePost",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_GuidePost.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_GuidePost.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_GuidePost.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "SUBSEA_RamActuator",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "SUBSEA_RamActuator.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "SUBSEA_RamActuator.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "SUBSEA_RamActuator.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "SUBSEA_RamActuator.004",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "SUBSEA_RamActuator.005",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 8
+      },
+      {
+        "name": "SUBSEA_RiserCoupling",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.001",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.002",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.003",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.004",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.005",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.006",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.007",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.008",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.009",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.010",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.011",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.012",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "SUBSEA_RiserCoupling.013",
+        "type": "MESH",
+        "collections": [
+          "03_SUBSEA"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "TOOL_ActuatorHousing",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ActuatorHousing_RemovableSection",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.001",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.002",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.003",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.004",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.005",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.006",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.007",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.008",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.009",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.010",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_Collar_RemovableSection.011",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_IndexValveHousing",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 252
+      },
+      {
+        "name": "TOOL_IndexValveHousing_RemovableSection",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 252
+      },
+      {
+        "name": "TOOL_LowerConnector",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_LowerConnector_RemovableSection",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_LowerHousing",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_LowerHousing_RemovableSection",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.001",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.002",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.003",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.004",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.005",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.006",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.007",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.008",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.009",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.010",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_MachinedCollar.011",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_RetainingFastener",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.001",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.002",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.003",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.004",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.005",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.006",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.007",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.008",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.009",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.010",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_RetainingFastener.011",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 48
+      },
+      {
+        "name": "TOOL_ThreadLand",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.001",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.002",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.003",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.004",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.005",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.006",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.007",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.008",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.009",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.010",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.011",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.012",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.013",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.014",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.015",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.016",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_ThreadLand.017",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_UpperConnector",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "TOOL_UpperConnector_RemovableSection",
+        "type": "MESH",
+        "collections": [
+          "06_TOOL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "WELL_CasingCollar",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.001",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.002",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.003",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.004",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.005",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.006",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.007",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.008",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.009",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.010",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.011",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.012",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.013",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingCollar.014",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CasingDeepRetained",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "WELL_CasingEntryWall",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 196
+      },
+      {
+        "name": "WELL_CasingUpper",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 388
+      },
+      {
+        "name": "WELL_CementSheathSection",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 25006
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.001",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.002",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.003",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.004",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.005",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.006",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.007",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.008",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.009",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.010",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.011",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.012",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.013",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.014",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.015",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.016",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillPipe_ToolJoint.017",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillString_BHA_Crossover",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_DrillString_Continuous",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      },
+      {
+        "name": "WELL_FluidFilledAnnulus",
+        "type": "MESH",
+        "collections": [
+          "05_WELL"
+        ],
+        "vertices": 384
+      }
+    ],
+    "images": [],
+    "libraries": []
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261006-Rolladice\\IntoTheInvisible\\IntoTheInvisible_Materials.blend",
+    "sha256": "03c25597f89c2f8b2db9eb25cdaca31928e429c622a5a7b84b458730ca7d8f26",
+    "unchanged": true,
+    "collections": [],
+    "objects": [],
+    "images": [],
+    "libraries": []
+  }
+]

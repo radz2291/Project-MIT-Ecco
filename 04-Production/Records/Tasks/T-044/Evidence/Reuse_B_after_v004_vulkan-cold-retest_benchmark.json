@@ -1,0 +1,46 @@
+{
+  "hardware": {
+    "gpu": "NVIDIA GeForce GTX1060 3GB",
+    "driver": "560.94 (nvidia-smi)",
+    "cpu": "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel",
+    "platform": "Windows-11-10.0.26100-SP0"
+  },
+  "backend": "VULKAN",
+  "label": "vulkan-cold-retest",
+  "engine": "BLENDER_EEVEE",
+  "resolution": [
+    1280,
+    720
+  ],
+  "samples": 16,
+  "color_management": [
+    "AgX",
+    "AgX - Medium High Contrast"
+  ],
+  "compositor": false,
+  "measurement": "wall clock around full bpy.ops.render.render(write_still=True), includes render initialization/shaders/compositor if enabled/PNG writing; process/file load excluded; cold means first render in a fresh process using normal existing driver caches, no in-process warmup",
+  "renders": [
+    {
+      "frame": 1,
+      "cold": true,
+      "seconds": 1.356151600000885,
+      "output": "04-Production/Records/Tasks/T-044/Previews/Reuse_B_after_v004_vulkan-cold-retest_f001.png",
+      "under_5": true
+    },
+    {
+      "frame": 48,
+      "cold": false,
+      "seconds": 0.4328034000027401,
+      "output": "04-Production/Records/Tasks/T-044/Previews/Reuse_B_after_v004_vulkan-cold-retest_f048.png",
+      "under_5": true
+    },
+    {
+      "frame": 96,
+      "cold": false,
+      "seconds": 0.39684999999735737,
+      "output": "04-Production/Records/Tasks/T-044/Previews/Reuse_B_after_v004_vulkan-cold-retest_f096.png",
+      "under_5": true
+    }
+  ],
+  "all_under_5": true
+}
