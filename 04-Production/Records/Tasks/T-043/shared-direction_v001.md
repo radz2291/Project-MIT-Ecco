@@ -1,6 +1,34 @@
 # T43 — Shared visual direction v001
 Date: 18 October 2026
-Status: PROPOSED FOR RADZI REVIEW. No component or shot is released by this document.
+Status: Shared look and narration-led emphasis approved by Radzi on 18 October 2026; detailed choices retain the scoped statuses below. No executable shot is released by this document.
+
+
+## Approved narration-led amendment — 18 October 2026
+
+**Owner evidence:** Radzi approved the five-panel visual treatment, supplied working narration `Script-2.txt`, then replied “Okay, I agree.” to the director's narration-led revision at approximately 12:44 MYT. This approves the responsibility split and section-level adjustments below. The script remains working narration; recorded duration, exact word timings, technical sign-off and all 22 executable contracts are not approved by this exchange.
+
+**Source:** user attachment `Script-2.txt` (Library ID `libfile_16bdd1892b9c8191a964450aad7c7715`), read directly in the conversation. No audio recording was inspected.
+
+**Responsibility:** narration guides thought and significance; visuals make location, shape, motion and contrast tangible; graphics clarify only relationships that still need them; sound and pauses give events emotional weight. Review comprehension using the intended picture-and-narration combination. Silent visual legibility remains a useful diagnostic, not a requirement for every shot to teach the complete mechanism. Narration cannot excuse false spatial or technical meaning.
+
+**Retain:** From Confinement to Clarity, overall camera progression, 22 V3 IDs, 90-second target and approved tactile rock/fluid/satin-metal appearance; cyan outgoing and emerald returning acoustic cues; continuous AMBER hydraulic paths; clean product finish. Amber supersedes the original blue flow suggestion below. Generated hardware and data patterns are concept references, not engineering sources.
+
+| Section | Approved narration-led adjustment | Review focus |
+|---|---|---|
+| S01 | Descent and restrained arrival; diminishing visibility follows the words; preserve a small pause before sound answers darkness. | S01-C connects spatially to first contact; no premature ping. |
+| S02 | Distinct pulse and echo moments; retain client-requested arrival-time waveform briefly and delicately; fewer labels. | Match spoken pulse/echo/distance/turning to correct causal events. Check repeated pings and waveform examples fit the actual read. |
+| S03 | White reference establishes expectation; blue/red comparisons follow spoken widening/tightness; amplitude arrives with the echo-strength phrase. | Source-grounded separate cases, same-scale comparison, independent amplitude; no manufactured geometry. |
+| S04 | Narration's questions motivate support/channel then inner wear; reduce waveform prominence and emphasize discoveries. | Place the internal-wear question at transition into S04-D, not over the external cement channel. |
+| S05 | Tactile three-region flow passage linked by continuous amber flow; omit unnecessary stage labels and technical turbulence exposition. | All regions operate together; upward cuttings; actual stage mapping and operating mode still need resolution. |
+| S06 | “Back at the surface” establishes later processing of stored measurements; prioritize surface-to-map transformation in clean information space. | Same-sample mapping; no live telemetry implication; real-output rights and model identity retained. |
+| S07 | Calm clean hero with narration carrying the conclusion and product/maker names. | Product recognition and readable brand hold; no rushed five-label recap. |
+
+**Timing boundary:** use phrase/event anchors now. Section allocations remain the 90-second planning target; internal shot boundaries and pauses remain provisional until a working voice read is checked. Do not time-stretch narration to force fit. Missing audio does not block qualitative shot-contract preparation; it blocks claims of synchronized timing or a proven 90-second read. Radzi owns narration and final assembly.
+
+**Focused future deliverable/review:** prepare one existing Scene Direction Contract per shot, incorporating narrated meaning, visible event, minimum graphic, phrase anchor, entry/exit continuity, source assets and uncertainty. Review a cheap moving candidate with working narration, then expert meaning separately. Render-to-file budget remains strictly under five seconds per frame and untested here.
+
+**Approval scope:** the earlier five-panel treatment approved the look, not every implementation choice in VD01–VD08. This amendment does not silently approve circulation-only mode, exact output profile, specific font/logo lockup, permission to publish field data, or deletion of a client-requested example. Separate spiral omission remains a proposal; no new production instruction removes it here. Actual geometry, sensor-face identification and hydraulic stage mapping remain executor/source checks.
+
 
 ## Direction
 **A hidden world becomes understandable.** Narration leads the story; each image supplies a tangible discovery. Preserve V3's 22 shots and 90 seconds. The visual progression is physical confinement → local acoustic contact → structured information → the instrument and its maker.
@@ -76,7 +104,7 @@ For wear, cut back inside and graze along a shallow pre-existing groove. Keep th
 **Radzi decision:** pending v001.
 
 ## VD06 — Flow as a distinct visual language
-**Recommendation:** illustrative circulation-only mode for the first implementation. The body can remain stationary while continuous slender blue streamlines and sparse matte cuttings travel uphole. Sound uses discrete outward-and-return arcs; flow uses continuous axial travel. This makes the distinction readable without changing the board's flow palette.
+**Recommendation:** illustrative circulation-only mode for the first implementation. The body can remain stationary while continuous slender amber streamlines and sparse matte cuttings travel uphole. Sound uses discrete outward-and-return arcs; flow uses continuous axial travel. The approved amber visual treatment supersedes the earlier blue flow palette; it is an illustrative graphic choice.
 
 Use a deliberate cut from casing to open-hole/body detail at 58 seconds. Move along the return flow, arrive at the twisted-pad region, then widen to unite the body. All three hydraulic regions operate together; camera emphasis advances, not stage activation.
 
@@ -111,10 +139,10 @@ If cost fails: remove invisible detail, simplify transparency and particles, the
 **Radzi decision:** pending v001.
 
 ## Release index and next action
-All VD01–VD08: PROPOSED v001 / Radzi decision pending / RELEASED: NO.
+Shared look and narration-led emphasis: APPROVED as scoped in the amendment above. Detailed VD01–VD08 recommendations below retain pending choices except where explicitly superseded by that amendment. RELEASED FOR BLENDER EXECUTION: NO.
 All 22 shot contracts: NOT RELEASED. The approved storyboard remains intact; detailed executor contracts follow shared-treatment review progressively.
 
 First proposed release group: VD02/03/08 → S02-A/B/C plus S01-C boundary and S03-A entry. Then VD04 → S03; VD01 → S01-A/B; VD05 → S04; VD06 → S05; VD07 → S06/S07. Source/asset inspection holds apply only to dependent claims.
 
 No downstream tickets, Blender scenes, final timeline or client publication are created by T43.
-Review requested: accept or amend this exact shared-treatment v001. Approval can be per VD; unresolved output permission or hydraulic source mapping need not block unrelated direction.
+Next: progressively prepare narrated shot contracts under the existing Scene Direction Contract. Resolve only consequential remaining choices; do not request approval again for the shared look or narration-led responsibility split. Output permission and hydraulic mapping do not block unrelated direction.
