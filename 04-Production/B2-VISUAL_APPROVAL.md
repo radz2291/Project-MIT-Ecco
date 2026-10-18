@@ -1,3 +1,5 @@
+> **HISTORICAL WORKFLOW — superseded 18 October 2026.** Do not execute the old phases, gates or ticket assignments below. Read [current production cycle](README.md) and the active MIT ECCO Work project (`a0b9b971-e282-42f0-a25f-0c78729eff87`). The V3 cinematic board guides separate AI-director instructions, shared assets and actual fast-render shots (<5 seconds/frame). Radzi alone assembles the film. Prior work/evidence is retained as history.
+
 # B2 — Paired Blender execution and visual direction
 
 Updated 16 October 2026, following Radzi's T7 experience. **T26 and the Blender mechanism tickets work as a pair. T26 completion is not a prerequisite for B2 execution.** This supersedes the earlier serial direction-package gate and its blanket no-Blender/no-motion wording. Original engineering dependencies, human approval and technical verification remain in force.
