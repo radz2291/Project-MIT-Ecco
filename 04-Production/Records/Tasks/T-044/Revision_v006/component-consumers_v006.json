@@ -1,0 +1,205 @@
+{
+  "version": "v006",
+  "components": {
+    "ECCO": {
+      "shots": [
+        "S01-C",
+        "S02-A",
+        "S02-B",
+        "S02-C",
+        "S03-A",
+        "S03-B",
+        "S03-C",
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D",
+        "S05-A",
+        "S05-B",
+        "S05-C",
+        "S06-A",
+        "S07-A",
+        "S07-B",
+        "S07-C"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_A",
+        "T44 Reuse_B",
+        "T44 Controls_stress"
+      ],
+      "future_shots_state": "not built; old V3 map retained, no automatic migration/approval"
+    },
+    "BHA": {
+      "shots": [
+        "S01-A",
+        "S01-B",
+        "S01-C",
+        "S02-A",
+        "S02-B",
+        "S02-C",
+        "S04-A",
+        "S05-A",
+        "S05-B",
+        "S05-C"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_A",
+        "T44 Reuse_B",
+        "T44 Controls_stress"
+      ],
+      "future_shots_state": "not built; old V3 map retained, no automatic migration/approval"
+    },
+    "WELL": {
+      "shots": [
+        "S01-A",
+        "S01-B",
+        "S01-C",
+        "S02-A",
+        "S02-B",
+        "S02-C",
+        "S03-A",
+        "S03-B",
+        "S03-C",
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D",
+        "S05-A",
+        "S05-B",
+        "S05-C",
+        "S06-A"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_A",
+        "T44 Reuse_B",
+        "T44 Controls_stress"
+      ],
+      "future_shots_state": "not built; old V3 map retained, no automatic migration/approval"
+    },
+    "MUD": {
+      "shots": [
+        "S01-B",
+        "S01-C",
+        "S02-A",
+        "S02-B",
+        "S02-C",
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D",
+        "S05-A",
+        "S05-B",
+        "S05-C"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_A",
+        "T44 Reuse_B",
+        "T44 Controls_stress"
+      ],
+      "future_shots_state": "not built; old V3 map retained, no automatic migration/approval"
+    },
+    "SURFACE": {
+      "shots": [
+        "S01-A"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_surface"
+      ],
+      "future_shots_state": "not built; old V3 map retained, no automatic migration/approval"
+    },
+    "CASING": {
+      "shots": [
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D"
+      ],
+      "actual_consumers": [
+        "T44 Reuse_A",
+        "T44 Reuse_B",
+        "T44 Controls_stress"
+      ],
+      "future_shots_state": "not built; old V3 map retained, no automatic migration/approval"
+    },
+    "FORMATION": {
+      "parent_components": [
+        "WELL",
+        "SURFACE"
+      ],
+      "shots": [
+        "S01-A",
+        "S01-B",
+        "S01-C",
+        "S02-A",
+        "S02-B",
+        "S02-C",
+        "S03-A",
+        "S03-B",
+        "S03-C",
+        "S04-A",
+        "S04-B",
+        "S04-C",
+        "S04-D",
+        "S05-A",
+        "S05-B",
+        "S05-C",
+        "S06-A"
+      ],
+      "actual_consumers": [
+        "Reuse_A_formation_v005",
+        "Reuse_B_formation_v005",
+        "downhole_A_v006",
+        "downhole_B_v006",
+        "layers_v010",
+        "wide_context_v007"
+      ],
+      "future_shots_state": "not built; verify exact view/coverage when authorized"
+    }
+  },
+  "migrations": [
+    {
+      "consumer": "A",
+      "from_master": [
+        "World_environment_v005.blend",
+        "BHA_film_v002.blend"
+      ],
+      "to_master": [
+        "World_environment_v009.blend",
+        "BHA_film_v006.blend"
+      ],
+      "saved": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_A_cleanup_v010.blend",
+      "camera_timing_controls_preserved": true,
+      "rollback": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_A_formation_v005.blend"
+    },
+    {
+      "consumer": "B",
+      "from_master": [
+        "World_environment_v005.blend",
+        "BHA_film_v002.blend"
+      ],
+      "to_master": [
+        "World_environment_v009.blend",
+        "BHA_film_v006.blend"
+      ],
+      "saved": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_B_cleanup_v010.blend",
+      "camera_timing_controls_preserved": true,
+      "rollback": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_B_formation_v005.blend"
+    }
+  ],
+  "procedure": "Read World/README_v002.md; identify consumers, relink/reload, verify source/controls/overrides/coverage, benchmark and rerender. Preserve prior immutable candidate for rollback.",
+  "masters": [
+    "BHA_film_v006.blend",
+    "World_environment_v009.blend",
+    "ECCO_film_v002.blend"
+  ],
+  "actual_cleanup_consumers": [
+    "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_detail_cleanup_v010.blend",
+    "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_face_cleanup_v010.blend",
+    "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/layers_cleanup_v010.blend",
+    "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_A_cleanup_v010.blend",
+    "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_B_cleanup_v010.blend",
+    "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_A_cleanup_v010.blend",
+    "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_B_cleanup_v010.blend"
+  ],
+  "future_shot_status": "V3 component mapping inherited; actual film shots not built or authorized by this cleanup"
+}

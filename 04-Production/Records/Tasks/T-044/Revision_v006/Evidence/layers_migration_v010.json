@@ -1,0 +1,746 @@
+{
+  "source": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/layers_cleanup_v009.blend",
+  "output": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/layers_cleanup_v010.blend",
+  "before": {
+    "camera": {
+      "name": "APPROVAL_CAMERA",
+      "location": [
+        0.8500000238418579,
+        -0.4000000059604645,
+        0.30000001192092896
+      ],
+      "rotation": [
+        1.2742010354995728,
+        -3.000740989023143e-08,
+        1.1117045879364014
+      ],
+      "lens": 38.0,
+      "keys": []
+    },
+    "timing": [
+      1,
+      1,
+      24
+    ],
+    "local_controls": {
+      "CASED_SECTION_LINK": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CASING_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CASING_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CEMENT_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CEMENT_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CONTROL": {
+        "properties": {
+          "travel_m": -1.5,
+          "rotation_rad": 0.4,
+          "variant": 1,
+          "cutaway": 1,
+          "show_hardware": 0,
+          "show_open": 0,
+          "show_casing": 1,
+          "show_cement": 1,
+          "show_formation": 0,
+          "show_shoe": 1,
+          "show_mud": 0,
+          "interface": "v002 / environment v005; surrounding mass18m axial, 4.8m transverse; source bore dimensions fixed"
+        },
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_IRREGULAR_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_IRREGULAR_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_NOMINAL_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_NOMINAL_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_SPIRAL_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_SPIRAL_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_HARDWARE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          -1.5,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_IRREGULAR_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_IRREGULAR_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_MUD_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_NOMINAL_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_NOMINAL_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_PLACEMENT": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SHOE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SPIRAL_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SPIRAL_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v005.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v005.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "mineral": null
+  },
+  "after": {
+    "camera": {
+      "name": "APPROVAL_CAMERA",
+      "location": [
+        0.8500000238418579,
+        -0.4000000059604645,
+        0.30000001192092896
+      ],
+      "rotation": [
+        1.2742010354995728,
+        -3.000740989023143e-08,
+        1.1117045879364014
+      ],
+      "lens": 38.0,
+      "keys": []
+    },
+    "timing": [
+      1,
+      1,
+      24
+    ],
+    "local_controls": {
+      "CASED_SECTION_LINK": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CASING_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CASING_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CEMENT_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CEMENT_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CONTROL": {
+        "properties": {
+          "travel_m": -1.5,
+          "rotation_rad": 0.4,
+          "variant": 1,
+          "cutaway": 1,
+          "show_hardware": 0,
+          "show_open": 0,
+          "show_casing": 1,
+          "show_cement": 1,
+          "show_formation": 0,
+          "show_shoe": 1,
+          "show_mud": 0,
+          "interface": "v002 / environment v005; surrounding mass18m axial, 4.8m transverse; source bore dimensions fixed"
+        },
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_IRREGULAR_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_IRREGULAR_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_NOMINAL_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_NOMINAL_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_SPIRAL_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_FORMATION_SPIRAL_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_HARDWARE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          -1.5,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_IRREGULAR_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_IRREGULAR_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_MUD_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_NOMINAL_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_NOMINAL_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_PLACEMENT": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SHOE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SPIRAL_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SPIRAL_FULL_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "libraries": [
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "mineral": null
+  },
+  "preserved_camera_timing_controls": true
+}

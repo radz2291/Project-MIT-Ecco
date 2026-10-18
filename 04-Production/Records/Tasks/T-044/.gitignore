@@ -20,3 +20,12 @@ Previews/Revision_v005/*.png
 !Previews/Revision_v005/downhole_B_working_v006.png
 !Previews/Revision_v005/layers_working_v010.png
 !Previews/Revision_v005/BHA_detail_working_v006.png
+Revision_v006/Evidence/*.log
+Revision_v006/Evidence/sync-verification_v006.json
+Revision_v006/SourceReferences/
+Previews/Revision_v006/*.png
+!Previews/Revision_v006/BHA_detail_working_v010.png
+!Previews/Revision_v006/BHA_face_working_v010.png
+!Previews/Revision_v006/layers_working_v010.png
+!Previews/Revision_v006/downhole_A_working_v010.png
+!Previews/Revision_v006/downhole_B_working_v010.png

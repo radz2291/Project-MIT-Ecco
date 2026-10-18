@@ -1,0 +1,16 @@
+{
+  "scene": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_B_cleanup_v007.blend",
+  "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v006/downhole_B_working_v007.png",
+  "seconds": 1.546398999998928,
+  "under_5": true,
+  "engine": "BLENDER_EEVEE",
+  "backend": "VULKAN",
+  "resolution": [
+    1280,
+    720
+  ],
+  "samples": 16,
+  "measurement": "Complete first render(write_still=True) in fresh process; process/file loading excluded; no warmup render",
+  "cache": "Normal pre-existing driver disk caches",
+  "known_limit": "Prior empty-cache startup12.55-25.13s remains unresolved; this timing does not establish cold-machine compliance."
+}

@@ -1,0 +1,40 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_face_cleanup_v007.blend",
+  "sha256": "32608ae2d63c655639e92251bcfb5578d2b876cb6e059d1262af2b63ed421902",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v004.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v007.blend",
+      "exists": true
+    }
+  ],
+  "camera": {
+    "name": "APPROVAL_CAMERA",
+    "location": [
+      4.349999904632568,
+      -0.7200000286102295,
+      0.4300000071525574
+    ],
+    "rotation": [
+      1.1786251068115234,
+      -2.82046341837372e-09,
+      0.8058035969734192
+    ],
+    "lens": 58.0,
+    "keys": []
+  },
+  "timing": [
+    1,
+    1,
+    24
+  ],
+  "eccos": 1,
+  "blades": 6
+}

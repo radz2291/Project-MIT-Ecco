@@ -1,0 +1,54 @@
+{
+  "source": "04-Production/Shared/Assets/WellAssembly/World_environment_v005.blend",
+  "source_sha256": "e3c255ca84f8c92c17332ee2fda9a873f2fd4eca7d65c308ea2898ed2bc5fdde",
+  "output": "04-Production/Shared/Assets/WellAssembly/World_environment_v006.blend",
+  "sha256": "44a8b84d9c9ac30f05e8a0a815e93ee878a77303a5e6b2fc8ca8b202c3148213",
+  "steel_diagnosis": [
+    {
+      "object": "CASING_CUTAWAY",
+      "before": {
+        "vertices": 18818,
+        "polygons": 18816,
+        "coordinates": "7a5af6cde1aa53b6d41b3f9b6e6ace353843956e945adeaefd9b37d909127703",
+        "faces": "43cc5ac666d48ac57916f05db7a9a96e8d3ccf1542b502bb08a84058edd95da6",
+        "smooth": 0,
+        "custom_normals": false
+      },
+      "after": {
+        "vertices": 18818,
+        "polygons": 18816,
+        "coordinates": "7a5af6cde1aa53b6d41b3f9b6e6ace353843956e945adeaefd9b37d909127703",
+        "faces": "43cc5ac666d48ac57916f05db7a9a96e8d3ccf1542b502bb08a84058edd95da6",
+        "smooth": 18432,
+        "custom_normals": true
+      },
+      "cylindrical_faces": 18432,
+      "cause": "Flat face shading on source cylindrical tessellation; radial winding checked correct. No modifier or texture-bump cause.",
+      "fix": "Analytic radial corner normals on cylindrical surfaces only; flat rim/cut faces retained; no coordinate/topology edits."
+    },
+    {
+      "object": "CASING_FULL",
+      "before": {
+        "vertices": 18624,
+        "polygons": 18624,
+        "coordinates": "7a4693d381769e188fbdccfdf8c44f61e36aea08f87069fab7b2f80e66d47b52",
+        "faces": "e06de2fe61b7d3884bc11a9345f6bf5dfbafdd2f1702930527fc20c778762054",
+        "smooth": 0,
+        "custom_normals": false
+      },
+      "after": {
+        "vertices": 18624,
+        "polygons": 18624,
+        "coordinates": "7a4693d381769e188fbdccfdf8c44f61e36aea08f87069fab7b2f80e66d47b52",
+        "faces": "e06de2fe61b7d3884bc11a9345f6bf5dfbafdd2f1702930527fc20c778762054",
+        "smooth": 18432,
+        "custom_normals": true
+      },
+      "cylindrical_faces": 18432,
+      "cause": "Flat face shading on source cylindrical tessellation; radial winding checked correct. No modifier or texture-bump cause.",
+      "fix": "Analytic radial corner normals on cylindrical surfaces only; flat rim/cut faces retained; no coordinate/topology edits."
+    }
+  ],
+  "fluid": "Curved rear bore optical skin replaces flat cut-plane band; no physical simulation.",
+  "formation_geometry_changed": false
+}

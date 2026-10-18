@@ -1,0 +1,40 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_B_cleanup_v006.blend",
+  "sha256": "655f0487164165aec694e5ffb63fabc549dce3f223bd893cc06980dcf98c1119",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v003.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v006.blend",
+      "exists": true
+    }
+  ],
+  "camera": {
+    "name": "APPROVAL_CAMERA",
+    "location": [
+      0.949999988079071,
+      -0.7200000286102295,
+      0.3799999952316284
+    ],
+    "rotation": [
+      1.256788969039917,
+      0.11418458819389343,
+      -0.838667631149292
+    ],
+    "lens": 42.0,
+    "keys": []
+  },
+  "timing": [
+    1,
+    1,
+    24
+  ],
+  "eccos": 1,
+  "blades": 6
+}

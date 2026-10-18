@@ -1,0 +1,168 @@
+{
+  "version": "v006",
+  "task": "T44",
+  "status": "bounded_cleanup_candidate_for_Radzi_image_review",
+  "local_root": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco",
+  "baseline_manifest": "manifest_v005.json",
+  "native_backup": "All .blend originals/candidates local Git-ignored; no native upload or off-machine backup claimed",
+  "artifacts": [
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "bytes": 194252,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "bytes": 9608678,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_detail_cleanup_v010.blend",
+      "sha256": "314160f5af0d75aa79cde9eafd615d8d8ff8256822b6959e122c722a3a68be9c",
+      "bytes": 94905,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_face_cleanup_v010.blend",
+      "sha256": "bc7e6f8acba88a4c169bb4c603e06744d5d0675ee8f89a6cf28c5541aea5915d",
+      "bytes": 94937,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/layers_cleanup_v010.blend",
+      "sha256": "c66ffe89520f11200734b9cda05eb336c3822043ce8154a3884446dc95a0a987",
+      "bytes": 95149,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_A_cleanup_v010.blend",
+      "sha256": "5b97e498582b50f7b24492d97fe8c87b416220ec31412ff4e3a6461cd7cb6031",
+      "bytes": 95288,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_B_cleanup_v010.blend",
+      "sha256": "f14c4fe5ce26de2313d0be005f81e9f60a45d16e17e3321a4ad676b918aa7442",
+      "bytes": 95278,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_A_cleanup_v010.blend",
+      "sha256": "8b0da06df9c251379750c690ac7b5b066fa75a485fa164b0ea8da60bd48f66e0",
+      "bytes": 90650,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_B_cleanup_v010.blend",
+      "sha256": "48550cc72d1c57d43af1da9958e435107d31bb056a1022bfd55fb8199906d901",
+      "bytes": 90665,
+      "storage": "local-native"
+    }
+  ],
+  "approval_images": [
+    {
+      "name": "BHA_detail",
+      "label": "Bit / adapter side view; original camera",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v006/BHA_detail_working_v010.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_detail_cleanup_v010.blend",
+      "sha256": "ac1e7b069a3423506fb94d59f4955832fae13a9a4ab9a132c9cd2e272cad9a63",
+      "bytes": 942771,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v006/Evidence/BHA_detail_working_benchmark_v010.json"
+    },
+    {
+      "name": "BHA_face",
+      "label": "Additional bit-face inspection",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v006/BHA_face_working_v010.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_face_cleanup_v010.blend",
+      "sha256": "a1ffe4e128fe3c44f71567d0bd8dc4a671712ff99feefea4186303ead57d3e5e",
+      "bytes": 994420,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v006/Evidence/BHA_face_working_benchmark_v010.json"
+    },
+    {
+      "name": "layers",
+      "label": "Smooth steel / cement / formation section",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v006/layers_working_v010.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/layers_cleanup_v010.blend",
+      "sha256": "fb2ca46a22288ff7c7e9b46af4d8d66b059a58750f0fce8851f9d74b53143aa4",
+      "bytes": 1190459,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bright_pixels_percent": 0.0,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v006/Evidence/layers_working_benchmark_v010.json"
+    },
+    {
+      "name": "downhole_A",
+      "label": "Downhole A / curved static fluid and controlled highlights",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v006/downhole_A_working_v010.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_A_cleanup_v010.blend",
+      "sha256": "9a465de01476ce3d04234be98fd43f38b26b3b50d1a2103bb6b048e0d9cd2b1a",
+      "bytes": 1260049,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v006/Evidence/downhole_A_working_benchmark_v010.json"
+    },
+    {
+      "name": "downhole_B",
+      "label": "Nearby downhole B / same shared masters",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v006/downhole_B_working_v010.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_B_cleanup_v010.blend",
+      "sha256": "bb21998ca343a2f98a648858eb837df420d79884838254586538fd2028b9921a",
+      "bytes": 1236425,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0,
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v006/Evidence/downhole_B_working_benchmark_v010.json"
+    }
+  ],
+  "reused_unchanged": [
+    "ECCO/ECCO_film_v002.blend",
+    "Formation/Formation_context_v002.blend",
+    "Formation/Formation_cased-section_v002.blend",
+    "Surface/Surface_context_v003.blend"
+  ],
+  "controls": "formation_controls_v003.py",
+  "accepted_coverage": "Exact v005 formation mesh retained; X[-8,10]m / transverse half-width2.4m",
+  "bit_reference": "https://www.slb.com/resource-library/oilfield-review/defining-series/defining-bits",
+  "bit_limit": "Authored six-blade fixed-cutter visual study; no exact MIT/client bit, thread fit, selected alloy or hydraulic qualification",
+  "fluid_limit": "Static curved continuously blended optical cut, not a free liquid surface, volumetric fluid domain or flow simulation",
+  "shoe_limit": "Prior redundant coplanar illustrative rim retained hidden; flush source casing end represents boundary context. Exact shoe assembly remains unverified."
+}

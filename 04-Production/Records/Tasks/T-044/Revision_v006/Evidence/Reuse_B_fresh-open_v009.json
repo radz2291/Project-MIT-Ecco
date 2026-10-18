@@ -1,0 +1,89 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_B_cleanup_v009.blend",
+  "sha256": "865c6568852e41b5561bfa8a5d2dd44f098a039e5de7ea74fdcfe9bb117a9089",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v005.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true
+    }
+  ],
+  "camera": {
+    "name": "REUSE_CAMERA_B",
+    "location": [
+      1.5,
+      -4.5,
+      2.200000047683716
+    ],
+    "rotation": [
+      1.1284369230270386,
+      -4.435515954526181e-09,
+      0.2502005398273468
+    ],
+    "lens": 49.0,
+    "keys": [
+      [
+        "location",
+        0,
+        [
+          [
+            1.0,
+            1.5,
+            "BEZIER"
+          ],
+          [
+            96.0,
+            1.58,
+            "BEZIER"
+          ]
+        ]
+      ],
+      [
+        "location",
+        1,
+        [
+          [
+            1.0,
+            -4.5,
+            "BEZIER"
+          ],
+          [
+            96.0,
+            -4.5,
+            "BEZIER"
+          ]
+        ]
+      ],
+      [
+        "location",
+        2,
+        [
+          [
+            1.0,
+            2.2,
+            "BEZIER"
+          ],
+          [
+            96.0,
+            2.2,
+            "BEZIER"
+          ]
+        ]
+      ]
+    ]
+  },
+  "timing": [
+    1,
+    96,
+    24
+  ],
+  "eccos": 1,
+  "blades": 6
+}

@@ -1,0 +1,804 @@
+{
+  "checks": [
+    {
+      "name": "preserved 04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/BHA/BHA_film_v002.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/WellAssembly/World_environment_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/WellAssembly/World_environment_v004.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/Surface/Surface_context_v002.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/Surface/Originals/IntoTheInvisible_Shot01.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Reuse_A_before_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Reuse_A_after_v004.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Reuse_B_before_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Reuse_B_after_v004.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Reuse_surface_before_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Controls_stress_v001.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Hardware_overview_v001.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/WellAssembly/World_environment_v005.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/Surface/Surface_context_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/Revision_v005/Scenes/wide_context_v007.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_A_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_B_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v010.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/Revision_v005/Scenes/BHA_detail_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_A_formation_v005.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_B_formation_v005.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry CASING_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry CASING_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry CEMENT_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry CEMENT_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry FORMATION_IRREGULAR_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry FORMATION_IRREGULAR_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry FORMATION_NOMINAL_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry FORMATION_NOMINAL_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry FORMATION_SPIRAL_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry FORMATION_SPIRAL_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry ILLUSTRATIVE_SHOE_RIM",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry IRREGULAR_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry IRREGULAR_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry NOMINAL_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry NOMINAL_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry SPIRAL_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged environment geometry SPIRAL_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "analytic cylindrical corner normals CASING_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "analytic cylindrical corner normals CASING_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no render-overlapping illustrative shoe surfaces",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fluid inside every registered bore MUD_CURVED_REAR_OPTICAL_SKIN",
+      "passed": true,
+      "detail": {
+        "minimum_margin_m": 0.0005999936733454558
+      }
+    },
+    {
+      "name": "fluid inside every registered bore MUD_CURVED_OPTICAL_CUT",
+      "passed": true,
+      "detail": {
+        "minimum_margin_m": 0.000549992897987378
+      }
+    },
+    {
+      "name": "fluid uses continuous alpha blending",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "evaluated bit within registered diameter and axial envelope",
+      "passed": true,
+      "detail": {
+        "radius_max_m": 0.15521434994451302,
+        "diameter_max_m": 0.31042869988902605,
+        "x_min_m": 2.9000000953674316,
+        "x_max_m": 3.2293829917907715
+      }
+    },
+    {
+      "name": "six integral blades",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "48 cutter substrates and tables",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "six recessed nozzle mouths",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained downhole_A v006",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained downhole_A v007",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained downhole_A v009",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained downhole_B v006",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained downhole_B v007",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained downhole_B v009",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained layers v006",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained layers v007",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained layers v009",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained BHA_detail v006",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained BHA_detail v007",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained BHA_detail v009",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained BHA_face v009",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained Reuse_A v006",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained Reuse_A v007",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained Reuse_A v009",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained Reuse_B v006",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained Reuse_B v007",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls retained Reuse_B v009",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "end-to-end prior reuse camera/timing A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "end-to-end prior reuse camera/timing B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one correct formation control (0, 0)",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one correct formation control (0, 1)",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one correct formation control (0, 2)",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one correct formation control (1, 0)",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one correct formation control (1, 1)",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one correct formation control (1, 2)",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fluid visibility control",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "all_pass": true,
+  "native": [
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_A_cleanup_v009.blend",
+      "sha256": "acc9db00929023ae938e06259282d31830a61e2b5938cedfa542c608c09691c8",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v005.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "camera": {
+        "name": "APPROVAL_CAMERA",
+        "location": [
+          0.7200000286102295,
+          -0.7799999713897705,
+          0.3199999928474426
+        ],
+        "rotation": [
+          1.317097783088684,
+          0.11619391292333603,
+          -0.842307984828949
+        ],
+        "lens": 42.0,
+        "keys": []
+      },
+      "timing": [
+        1,
+        1,
+        24
+      ],
+      "eccos": 1,
+      "blades": 6
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_B_cleanup_v009.blend",
+      "sha256": "06930cb2bc2ed73330a9686204539457048189ab063a544cd3bcbaa0b655e239",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v005.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "camera": {
+        "name": "APPROVAL_CAMERA",
+        "location": [
+          0.949999988079071,
+          -0.7200000286102295,
+          0.3799999952316284
+        ],
+        "rotation": [
+          1.256788969039917,
+          0.11418458819389343,
+          -0.838667631149292
+        ],
+        "lens": 42.0,
+        "keys": []
+      },
+      "timing": [
+        1,
+        1,
+        24
+      ],
+      "eccos": 1,
+      "blades": 6
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/layers_cleanup_v009.blend",
+      "sha256": "85ad2604265ad8426f7513b151d5c41d741cf2f16d6a4c560b88ead41f8bdb2e",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v005.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "camera": {
+        "name": "APPROVAL_CAMERA",
+        "location": [
+          0.8500000238418579,
+          -0.4000000059604645,
+          0.30000001192092896
+        ],
+        "rotation": [
+          1.2742010354995728,
+          -3.000740989023143e-08,
+          1.1117045879364014
+        ],
+        "lens": 38.0,
+        "keys": []
+      },
+      "timing": [
+        1,
+        1,
+        24
+      ],
+      "eccos": 0,
+      "blades": 0
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_detail_cleanup_v009.blend",
+      "sha256": "e3a80c76dda42fad47505dea250b6fdc3e917058dcf6da7b5030fd560d2d6109",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v005.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "camera": {
+        "name": "APPROVAL_CAMERA",
+        "location": [
+          4.099999904632568,
+          -1.7000000476837158,
+          0.800000011920929
+        ],
+        "rotation": [
+          1.1784738302230835,
+          0.11096051335334778,
+          0.4638059735298157
+        ],
+        "lens": 58.0,
+        "keys": []
+      },
+      "timing": [
+        1,
+        1,
+        24
+      ],
+      "eccos": 1,
+      "blades": 6
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_face_cleanup_v009.blend",
+      "sha256": "e347bc48ca092ee20213406a94796431312a2352a46dd27a1fe6c6a459dfe80e",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v005.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "camera": {
+        "name": "APPROVAL_CAMERA",
+        "location": [
+          4.349999904632568,
+          -0.7200000286102295,
+          0.4300000071525574
+        ],
+        "rotation": [
+          1.1786251068115234,
+          -2.82046341837372e-09,
+          0.8058035969734192
+        ],
+        "lens": 58.0,
+        "keys": []
+      },
+      "timing": [
+        1,
+        1,
+        24
+      ],
+      "eccos": 1,
+      "blades": 6
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_A_cleanup_v009.blend",
+      "sha256": "623ac2be13987417c13df50f571f2ef140168de13bdb829de610fa75539a05df",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v005.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "camera": {
+        "name": "REUSE_CAMERA_A",
+        "location": [
+          1.899999976158142,
+          -2.0,
+          1.149999976158142
+        ],
+        "rotation": [
+          1.0523052215576172,
+          -1.1699889057581458e-08,
+          0.12435498833656311
+        ],
+        "lens": 48.0,
+        "keys": [
+          [
+            "location",
+            0,
+            [
+              [
+                1.0,
+                1.9,
+                "BEZIER"
+              ],
+              [
+                72.0,
+                1.98,
+                "BEZIER"
+              ]
+            ]
+          ],
+          [
+            "location",
+            1,
+            [
+              [
+                1.0,
+                -2.0,
+                "BEZIER"
+              ],
+              [
+                72.0,
+                -2.0,
+                "BEZIER"
+              ]
+            ]
+          ],
+          [
+            "location",
+            2,
+            [
+              [
+                1.0,
+                1.15,
+                "BEZIER"
+              ],
+              [
+                72.0,
+                1.15,
+                "BEZIER"
+              ]
+            ]
+          ]
+        ]
+      },
+      "timing": [
+        1,
+        72,
+        24
+      ],
+      "eccos": 1,
+      "blades": 6
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_B_cleanup_v009.blend",
+      "sha256": "865c6568852e41b5561bfa8a5d2dd44f098a039e5de7ea74fdcfe9bb117a9089",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v005.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "camera": {
+        "name": "REUSE_CAMERA_B",
+        "location": [
+          1.5,
+          -4.5,
+          2.200000047683716
+        ],
+        "rotation": [
+          1.1284369230270386,
+          -4.435515954526181e-09,
+          0.2502005398273468
+        ],
+        "lens": 49.0,
+        "keys": [
+          [
+            "location",
+            0,
+            [
+              [
+                1.0,
+                1.5,
+                "BEZIER"
+              ],
+              [
+                96.0,
+                1.58,
+                "BEZIER"
+              ]
+            ]
+          ],
+          [
+            "location",
+            1,
+            [
+              [
+                1.0,
+                -4.5,
+                "BEZIER"
+              ],
+              [
+                96.0,
+                -4.5,
+                "BEZIER"
+              ]
+            ]
+          ],
+          [
+            "location",
+            2,
+            [
+              [
+                1.0,
+                2.2,
+                "BEZIER"
+              ],
+              [
+                96.0,
+                2.2,
+                "BEZIER"
+              ]
+            ]
+          ]
+        ]
+      },
+      "timing": [
+        1,
+        96,
+        24
+      ],
+      "eccos": 1,
+      "blades": 6
+    }
+  ],
+  "verification": "Executor native self-checks; visual and technical acceptance remain human-owned."
+}

@@ -1,0 +1,18 @@
+{
+  "source": "04-Production/Shared/Assets/BHA/BHA_film_v002.blend",
+  "source_sha256": "38a9d1d6b327d1d89adc51a002c957cab3abebdc98241859d7250b1b6625a19f",
+  "output": "04-Production/Shared/Assets/BHA/BHA_film_v003.blend",
+  "sha256": "e66b23ca06acd2fccd33b97db18c52b2054f515cca7e7814b31eea2379408d88",
+  "reference": "https://www.slb.com/resource-library/oilfield-review/defining-series/defining-bits",
+  "figure": "Figure2",
+  "gauge_diameter_m": 0.31115,
+  "axial_envelope_m": [
+    2.9,
+    3.24
+  ],
+  "blades": 6,
+  "cutters": 48,
+  "nozzles": 6,
+  "exact_client_bit": false,
+  "thread_fit_verified": false
+}

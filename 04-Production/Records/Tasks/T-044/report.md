@@ -1,41 +1,58 @@
-# T44 — surrounding formation revision for review
+# T44 — A-WORLD bounded visual cleanup
 
-18 October 2026 · revision v005 · **revised image approval pending Radzi**. Prior T44 work was marked Done by the owner; this covers the additional visual revision in the discussion. [Previous report](report_v004.md) and every previous master/consumer remain preserved.
+18 October 2026. Candidate for Radzi image approval; executor work complete, not accepted as Done.
 
-**Result:** reusable surrounding rock now fills the foreground, sides and background. Five full-size saved-candidate images are the primary deliverable: [wide rig/earth context](Previews/Revision_v005/wide_context_working_v007.png), [downhole A](Previews/Revision_v005/downhole_A_working_v006.png), [nearby downhole B](Previews/Revision_v005/downhole_B_working_v006.png), [steel/cement/formation](Previews/Revision_v005/layers_working_v010.png), and [BHA/bit/adapter detail](Previews/Revision_v005/BHA_detail_working_v006.png).
+Task: `b77297cc-0600-4a17-8fb9-ba95cc3d6220`, active MIT ECCO project `a0b9b971-e282-42f0-a25f-0c78729eff87`. Authority: Radzi's request to inspect new discussion and owner-agreed review comment `b9543a37-2583-48d4-84b8-d251b9ebe98b` (18 October06:40UTC). Base commit: `85902bb01b9669c592e2f5c058d54337ff9d3e1f`. Current T42/T43 source contracts and production rules apply. Previous [report](report_v005.md) and candidates preserved.
 
-[Overview](Previews/Revision_v005/approval-overview_v005.jpg) · [image notes](Revision_v005/review-guide.md) · [shared usage/controls](../../../Shared/Assets/World/README_v002.md) · [native versions/hashes](../../../Shared/Assets/World/manifest_v005.json).
+## Result and review images
 
-## Review decision
+The accepted surrounding formation coverage is unchanged. This pass replaces the rounded bit placeholder with a documented provisional six-blade PDC study; corrects native casing normals and coincident rim interference; refines static fluid and hardware reflections. No new animation, movie shots, environment rebuild or film assembly.
 
-Judge surrounding-ground depth/coverage, tactile rock/fluid treatment, metal detail, layer distinction and simplified bit/adapter appearance. Both nearby downhole images have255 alpha throughout: no studio pixels. This supports coverage, not automatic appearance approval. Source bore/hardware were not enlarged. No new concept, movie animation, sensing/flow effects or film assembly was produced. Radzi alone approves these images.
+Primary deliverable: [five individually viewable approval images](Revision_v006/review-guide.md). Please judge bit silhouette/cutter layout, steel-layer readability, fluid presence and retained tool detail. [Bit-face detail](Previews/Revision_v006/BHA_face_working_v010.png), [bit/adapter side view](Previews/Revision_v006/BHA_detail_working_v010.png), [steel/cement/formation](Previews/Revision_v006/layers_working_v010.png), [nearby A](Previews/Revision_v006/downhole_A_working_v010.png), [nearby B](Previews/Revision_v006/downhole_B_working_v010.png). The [compact index](Previews/Revision_v006/approval-overview_v006.jpg) accompanies the full-size PNGs. Preserve [accepted wide context](Previews/Revision_v005/wide_context_working_v007.png).
 
-## Shared implementation and verification
+## Native changes and source limits
 
-- Environment v005:18 m axial /4.8 m transverse coverage; six nominal/irregular/spiral × full/cutaway masses, relief outside the bore, wet mineral shading and a static optical fluid section. Exact registered T6 inner wall/casing/cement meshes remain unchanged.
-- Context v002 and surface v003: shared earth/strata/seafloor section and unchanged owner-designated rig geometry, with a deliberate near water cutaway. Depths/strata/riser arrangement are illustrative.
-- Cased section v002: shared upper-host-only end reveal. Tool, mud and foreground lower rock are hidden to inspect steel/cement/formation/shoe; dimensions/layer spacing remain fixed. BHA/ECCO film v002 and sensor references are unchanged.
-- Two old consumers migrate v004→v005 through the same library reload procedure with cameras, timing and local controls identical. [Rendered proof](Previews/Revision_v005/propagation_v005.jpg), [migration A](Revision_v005/Evidence/migration_A_v005.json), [B](Revision_v005/Evidence/migration_B_v005.json).
-- **62 native/source/geometry/control/fresh-open checks pass**: prior hashes preserved, ten source layer/wall meshes exact, added mass outside the bore, controls select one matching mass, relative libraries resolve and one product remains where shown. [Native checks](Revision_v005/Evidence/native-verification_v005.json) · [package/image checks and timings](Revision_v005/Evidence/package-verification_v005.json).
+- BHA filmv006: six broad integral blades,48two-part compact cutters, six recessed nozzle mouths, open junk courses and gauge pads. Evaluated12.25in gauge and X[2.9,3.24]m envelope checked. Reference: SLB [The Defining Series: Bits](https://www.slb.com/resource-library/oilfield-review/defining-series/defining-bits),2016, Figure2; labelled image visually inspected. [Reference/simplification record](Revision_v006/source-reference_v006.md). This is authored provisional morphology, not an exact manufacturer or MIT/client bit. Crown, cutter count/rake and transition are simplified; secondary cutter rows, central conical element, internal hydraulics and threads omitted. No connection/fit/performance certification. Redundant coplanar shoulder overlay retained hidden; collar cylindrical normals corrected without coordinate/topology changes.
+- Environmentv009: casing diagnosis found18,816flat-shaded faces, including18,432cylindrical faces, correct radial winding, no modifiers/custom normals and a simple material. Analytic radial corner normals smooth cylindrical surfaces while rims/cuts remain crisp. Geometry/topology/dimensions are identical. A second cause at the front rim was the provisional shoe's coplanar overlap with source casing over the last70mm; redundant mesh retained hidden. The flush source casing end remains the visible shoe-boundary context. Exact shoe/float equipment remains unverified. The compatibility `show_shoe` switch does not restore this hidden overlap.
+- Static fluid: the flat olive plane is replaced by a curved, continuously blended optical cut inside every registered bore; a duplicate rear skin is retained hidden. Tool geometry occludes it naturally. Simplified green-grey transparency and restrained reflections replace the solid-strip appearance. This is not a free liquid surface, calibrated filled volume, CFD or flow animation. New lighting overrides reduce broad highlight flattening. Product geometry/material files remain unchanged.
+- All accepted formation mass meshes, source wall/layer meshes, rig/wide/cased-host context, T5/T6 originals, sensor references, source scales and previous native candidates are hash/geometry verified unchanged. Housing remains2.400m. No clearance enlargement, source rescale or duplicated ECCO.
 
-## Render evidence
+## Saved candidates and propagation
 
-Blender5.2.2, EEVEE/Vulkan,1280×720 /24fps /16 samples, ray tracing/compositor off, AgX Medium High Contrast. Lighting/exposure are saved. Every image is rendered individually from a freshly reopened candidate; timers include the complete first render through PNG writing, excluding process/file loading and no warmup render.
+Current [native manifest/hashes](../../../Shared/Assets/World/manifest_v006.json), [usage/migration guide](../../../Shared/Assets/World/README_v003.md), [component/consumer map](Revision_v006/component-consumers_v006.json).
 
-Final approval images take approximately1.23–2.32 s/frame. Initial new-shader test4.04 s also passed; all revision samples are below5 s. **Normal existing GPU caches are required for this measured result.** The original empty-cache startup12.55–25.13 s remains disclosed in prior evidence. Cache/backend/driver/machine/material or heavier-shot changes require a new benchmark before batches; any sample≥5 s stops the batch. No cap waiver or universal cold-machine guarantee.
+Local root: `C:\Users\RZ1\Desktop\RZ\261013-MIT-Ecco\04-Production`.
 
-## Authority and scope
+- `Shared\Assets\BHA\BHA_film_v006.blend`, collection `WORLD_HARDWARE`.
+- `Shared\Assets\WellAssembly\World_environment_v009.blend`, existing named collections/controls.
+- Unchanged nested product: `Shared\Assets\ECCO\ECCO_film_v002.blend`.
+- Seven final consumers: `Records\Tasks\T-044\Revision_v006\Scenes\{BHA_detail,BHA_face,layers,downhole_A,downhole_B,Reuse_A,Reuse_B}_cleanup_v010.blend`.
+- New builder interface: `formation_controls_v003.create_world(asset_dir)`; old interfaces/candidates remain preserved.
 
-T44 ID `b77297cc-0600-4a17-8fb9-ba95cc3d6220`, active MIT ECCO `a0b9b971-e282-42f0-a25f-0c78729eff87`. User instructed this chat to read the discussion and work autonomously. Controlling comments `19ea2372-2aa4-4b78-8ba6-ac46272b843f` and `69a691b5-d597-415c-9b59-7e8f0a2696f3` require surrounding coverage, neighboring views and approval images. They describe two reference images; new reference pixels were not returned as Work attachments. T43/V3, actual native sources and the explicit spatial requirements governed this revision, not generated tool anatomy or clearance.
+Both reuse consumers adopt shared revisions by library-path reload/Save As, with original cameras,72/96frame timing, local controls and animation intact. Every saved migration stage records equality. The additional bit-face camera is a separate static inspection; it does not replace a reuse camera. [Propagation comparison](Previews/Revision_v006/propagation_v006.jpg) and native migration evidence accompany the individual images. No actual V3 movie-shot consumers exist yet; inherited component-to-shot mapping identifies later checks without authorizing production.
 
-Fresh handoff: T42/T43 Done, current production standard revision1. Reopened only this requested revision; run `60e85272-1228-42ad-8ebd-340346c58fae`, worker `codex-a-world-t44-formation-20261018`. Git base `86bbab19ed1cdc10a3961a97f795ffbdecaf0c09`, main, authorized origin `radz2291/Project-MIT-Ecco`.
+## Verification and render budget
 
-The live v004 scene was inspected clean and preserved during background work. Exact native paths/hashes/camera versions are in the manifest under local root `C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/`. Native media stay ignored/local; no off-machine backup/upload is claimed. Source sensor-face/interface, actual BHA/thread/shoe and O04/O05/O14 limits remain; executor checks do not certify engineering.
+[Native verification](Revision_v006/Evidence/native-verification_v006.json):96checks pass, including all preserved file hashes, unchanged source/environment geometry, casing normals, hidden overlap, fluid bounds, evaluated bit gauge/envelope, fresh relative links, one ECCO/six bit blades, control variants and end-to-end camera/timing/control retention. These are executor self-checks, not independent engineering or visual acceptance.
 
-Visual QA corrected framing/exposure, macro seafloor closure, foreground layer masking and section-cap indexing. Initial iterations remain local and superseded; only manifest-listed candidates are submitted. Individual images, not the checklist or tiny overview, are the primary acceptance deliverable.
+Full first render-to-file measurements, separate fresh processes,1280x720/EEVEE16/Vulkan on GTX1060/driver560.94, AgX Medium High Contrast, no compositor/raytracing/shadows, normal existing GPU disk caches, no warmup render excluded:
 
-## Closure and next action
+| Saved consumerv010 | Seconds |
+|---|---:|
+| Bit/adapter side |1.037|
+| Bit face |1.051|
+| Layer section |1.193|
+| Downhole A |1.533|
+| Downhole B |1.648|
+| Reuse A |1.461|
+| Reuse B |1.460|
 
-Permitted scripts/records/JSON and five individual stills plus overview/proof JPGs synchronize for review. Exact remote commit/parity and commit-pinned report attach to T44 after push. Native files/raw iterations/logs remain organized locally; unrelated imagery is preserved. [Consumer map](Revision_v005/component-consumers_v005.json) identifies actual tests and affected future V3 IDs; no movie shot is falsely reported migrated. No downstream ticket was started.
+All seven final renders are strictly below5s. Timers wrap the entire render-to-file call; process/file loading is excluded. A superseded complex blended-fluid shader took6.448s on its first new-shader render. That failure is retained, prompted removing shader noise/angle logic and duplicate transparent overdraw, and no batch was launched on the failed setting. The simplified shader first test took4.197s before the final gauge/joint pass. [Package evidence](Revision_v006/Evidence/package-verification_v006.json) retains every benchmark, including failures. Prior empty-cache initialization12.55–25.13s remains unresolved: normal-cache timings do not establish universal cold-machine compliance. Rebenchmark cache/backend/driver/machine/material changes or heavier views; do not raise the cap.
 
-Radzi reviews these five images and exact candidates. Later authorized builders link the approved environment, use the extent/cutaway/axis controls and benchmark their actual shot states.
+Executor inspected the individual full-size saved-candidate renders. Both close views retain full opaque formation coverage. Final beauty/technical interpretation remains Radzi's review.
+
+## Storage, synchronization and handoff
+
+Selected review stills, scripts, manifests and records are synchronized to the established repository; the exact remote-verified containing commit/report links are attached to live T44 after push. Heavy .blend files, prior/intermediate samples, logs and the inspected manufacturer image remain local/Git-ignored. No native-media upload or off-machine backup is claimed. Unrelated generated source image remains untouched.
+
+Next action: Radzi reviews the five images, with previously accepted environment coverage retained. T44 returns to Review; no self-acceptance or downstream shot/effects work. Source/interface questions about exact client bit, threads and shoe equipment remain explicitly provisional.
