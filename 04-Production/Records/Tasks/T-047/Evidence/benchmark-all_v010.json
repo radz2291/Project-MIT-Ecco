@@ -1,0 +1,118 @@
+{
+  "mode": "benchmark-all",
+  "samples": [
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedHardware_v008.blend",
+      "native_sha256": "e65c663baff3f739116dd5875f0f8071b720aaa5dc1a1537d29eb27d81fd83f3",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedHardware_f001_v010.png",
+      "seconds": 1.967406800002209,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedChannel_v008.blend",
+      "native_sha256": "50b70c9c4cc565c5a1a432b3a84203a844e456f5f339e13ebac500e587d9de6a",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedChannel_f001_v010.png",
+      "seconds": 0.35368469999957597,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedWearGraze_v008.blend",
+      "native_sha256": "1c88c513ce467b14a2f6c336b434f1f53aea30ca8b9ce02578ff5961df6a8319",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedWearGraze_f001_v010.png",
+      "seconds": 0.4366089000031934,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v008.blend",
+      "native_sha256": "555d9310b778b346037c2607b1959658292bd853f438694425404595651b19ab",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedWearSection_f001_v010.png",
+      "seconds": 1.009953900000255,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedRetrieval_f001_v010.png",
+      "seconds": 0.5282948000021861,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 48,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedRetrieval_f048_v010.png",
+      "seconds": 0.5198959000044852,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 96,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedRetrieval_f096_v010.png",
+      "seconds": 0.6491887999945902,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v010.blend",
+      "native_sha256": "70fa0c48359c2ad4e992ab708350c1aaf066f8c05abf73778f7016f092a44007",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedSupport_f001_v010.png",
+      "seconds": 0.7059077000012621,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v010.blend",
+      "native_sha256": "70fa0c48359c2ad4e992ab708350c1aaf066f8c05abf73778f7016f092a44007",
+      "frame": 12,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedSupport_f012_v010.png",
+      "seconds": 0.5655692000000272,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v010.blend",
+      "native_sha256": "70fa0c48359c2ad4e992ab708350c1aaf066f8c05abf73778f7016f092a44007",
+      "frame": 18,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedSupport_f018_v010.png",
+      "seconds": 0.715180599996529,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v010.blend",
+      "native_sha256": "70fa0c48359c2ad4e992ab708350c1aaf066f8c05abf73778f7016f092a44007",
+      "frame": 56,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedSupport_f056_v010.png",
+      "seconds": 0.8215731000018422,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v010.blend",
+      "native_sha256": "70fa0c48359c2ad4e992ab708350c1aaf066f8c05abf73778f7016f092a44007",
+      "frame": 76,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v010/CasedSupport_f076_v010.png",
+      "seconds": 0.6892674999980954,
+      "under_5": true
+    }
+  ],
+  "all_under_5": true,
+  "settings": {
+    "resolution": [
+      1280,
+      720
+    ],
+    "fps": 24,
+    "engine": "EEVEE",
+    "samples": 16,
+    "backend": "VULKAN",
+    "color": "AgX Medium High Contrast",
+    "compositor": false
+  },
+  "machine": "DESKTOP-46SO266",
+  "measurement": "Whole render(write_still=True) call, including written PNG; process/file load excluded. No warmup render.",
+  "cache": "Normal existing driver disk caches. T44 empty-cache initialization12.55–25.13s remains unresolved; no universal cold-machine claim.",
+  "concurrency": "Master reported a coordination race: T46 non-render native verification had already launched before grant and exited at17:34MYT; possible brief overlap during initial samples. No other GPU render reported. All12 actual complete render-to-file calls remained<5s; do not claim an idle-machine benchmark."
+}

@@ -1,0 +1,13 @@
+{
+  "travel_start_m": 0.5,
+  "travel_end_m": -3.8,
+  "frames": 96,
+  "fps": 24,
+  "leading_ecco_end_local_x": 0,
+  "lower_bit_min_local_x": 2.9,
+  "leading_ecco_entry_frame": 12.046511627906977,
+  "full_ecco_inside_frame": 65.06976744186046,
+  "lower_bit_entry_frame": 76.11627906976744,
+  "source_scale": 1,
+  "limits": "Authored longitudinal motion, no loaded passage/drift/connection or deployment certification"
+}

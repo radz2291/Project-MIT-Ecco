@@ -1,0 +1,9 @@
+{
+  "source": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v008.blend",
+  "candidate": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v011.blend",
+  "sha256": "fe2fdfba03f2a98c228f5bef6bf2556c620debcfb853060e69662e331b052e76",
+  "old_ortho_scale": 0.4300000071525574,
+  "new_ortho_scale": 0.7,
+  "geometry_unchanged": true,
+  "lighting": "Section light50\u21925W to preserve gray surface rather than white clipping"
+}

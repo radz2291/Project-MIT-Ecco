@@ -1,0 +1,72 @@
+{
+  "mode": "benchmark-repaired",
+  "granted_slot": "T47-FINAL-02",
+  "samples": [
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v011.blend",
+      "native_sha256": "fe2fdfba03f2a98c228f5bef6bf2556c620debcfb853060e69662e331b052e76",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/CasedWearSection_f001_v012.png",
+      "seconds": 1.1364468000028864,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedLayerSection_v011.blend",
+      "native_sha256": "28f26599883e51a57b21dd4c4382382a7f6284ec4dc7454955e4fa93eea3a086",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/CasedLayerSection_f001_v012.png",
+      "seconds": 0.31718130000081146,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 12,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f012_v012.png",
+      "seconds": 0.8596049999978277,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 18,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f018_v012.png",
+      "seconds": 0.6254533000028459,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 56,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f056_v012.png",
+      "seconds": 0.5860350000002654,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 76,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f076_v012.png",
+      "seconds": 0.6470369999951799,
+      "under_5": true
+    }
+  ],
+  "all_under_5": true,
+  "settings": {
+    "resolution": [
+      1280,
+      720
+    ],
+    "fps": 24,
+    "engine": "EEVEE",
+    "samples": 16,
+    "backend": "VULKAN",
+    "color": "AgX Medium High Contrast",
+    "compositor": false
+  },
+  "machine": "DESKTOP-46SO266",
+  "measurement": "Whole render(write_still=True) call including written PNG; process/file load excluded. No warmup render.",
+  "cache": "Normal existing driver disk caches. Prior T44 empty-cache initialization12.55\u201325.13s remains unresolved; no universal cold-machine claim.",
+  "concurrency": "Parent granted T47-FINAL-02 after Flow native verifier and sensing renderer exited; no other native jobs announced in queue during these six samples.",
+  "executor_visual_inspection": "All six actual PNGs inspected: complete wear circle/registered left recess, steel inside exterior tan/blue native section, source/contact waves visible with no oversized world response rods; long lane visible after packet return. Parent visual inspection remains separate."
+}

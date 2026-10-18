@@ -1,0 +1,46 @@
+{
+  "policy": "One granted worker render job at a time; other workers pause background Blender for benchmark slots",
+  "grants": [
+    {
+      "id": "T47-01",
+      "worker": "cased_builder",
+      "purpose": "CasedReuse A/B v002 frames1/48 initial benchmark",
+      "samples_s": [1.840, 0.670, 0.468, 0.416],
+      "all_under_5": true,
+      "status": "released",
+      "evidence": "04-Production/Records/Tasks/T-047/Evidence/benchmark_v002.json",
+      "visual_followup": "Builder identified weak groove readability/channel occlusion; bounded inspection framing repair in progress"
+    },
+    {
+      "id": "T46-01",
+      "worker": "sensing_builder",
+      "purpose": "SensingReuse A/B v004 ten initial benchmark frames",
+      "sample_range_s": [0.707, 1.561],
+      "all_under_5": true,
+      "status": "released",
+      "evidence": ["04-Production/Records/Tasks/T-046/Evidence/benchmark_A_v001.json", "04-Production/Records/Tasks/T-046/Evidence/benchmark_B_v001.json"],
+      "visual_followup": "Both builder and master reject initial framing: formation obscures actual sender/contact. Camera repair before replacement benchmark; no batch started."
+    },
+    {
+      "id": "T48-01",
+      "worker": "flow_builder",
+      "purpose": "Flow reuse A/B v004 six benchmark frames",
+      "sample_range_s": [0.646, 1.669],
+      "all_under_5": true,
+      "status": "released",
+      "evidence": "04-Production/Records/Tasks/T-048/Evidence/benchmark_v001.json",
+      "visual_followup": "Master inspected A36/B48: amber paths read, cuttings too small. Bounded axial particle-shape successor with unchanged radial envelope before rebenchmark."
+    },
+    {
+      "id": "T47-02",
+      "worker": "cased_builder",
+      "purpose": "Hardware/channel/wear v003 and retrieval v004 independent six samples; support held for surface-registration repair",
+      "samples_s": [1.566, 0.450, 0.415, 0.554, 0.499, 0.516],
+      "all_under_5": true,
+      "status": "released",
+      "evidence": "04-Production/Records/Tasks/T-047/Evidence/benchmark-independent_v003.json",
+      "visual_followup": "Channel ends cropped/dim and wear insufficiently legible. Reframe/light, add actual-mesh same-scale wear section inspection; no wear deepening/source geometry edit."
+    }
+  ],
+  "cache_limit": "Normal existing driver caches; T44 empty-cache initialization12.55–25.13s unresolved"
+}

@@ -1,0 +1,639 @@
+{
+  "task": "T45",
+  "upstream": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "manifests": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "sha256": "bb6d1a44c108a51f1f79af91e9b0b58fe88a592d3513a8e742aa95f215ef0e47"
+    },
+    {
+      "path": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "sha256": "654e2153de746f66c159121434c1733175e164b4ef920d360e9fb0a4a9a8d0f1"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "sha256": "eceecab58385cba5317ff330261c5ea858aabce624be55146063b11fc62abe09"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-045/release-manifest_v001.json",
+      "sha256": "f2c027863fa2bff571dbad239ee08e89dae9355011cbf22c37b26bc1edca7296"
+    }
+  ],
+  "artifacts": [
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+      "expected_sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+      "actual_sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+      "bytes": 97869,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v009.blend",
+      "expected_sha256": "f152264a61d237a2baaed1b106b1a47f649de719dac90a136051bd21aba59033",
+      "actual_sha256": "f152264a61d237a2baaed1b106b1a47f649de719dac90a136051bd21aba59033",
+      "bytes": 171899,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_B_v010.blend",
+      "expected_sha256": "040e0562972255c6e6bd13b5b2ade6f42f2cf4fee81d9ce09d40bb7710f261b3",
+      "actual_sha256": "040e0562972255c6e6bd13b5b2ade6f42f2cf4fee81d9ce09d40bb7710f261b3",
+      "bytes": 172933,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-046/Previews/Sensing_behavior_v002.mp4",
+      "expected_sha256": "c4fcef813fe52709ab10f36ae2d18fb8a3b38a0c294f324e3b3cf5a4416ec30d",
+      "actual_sha256": "c4fcef813fe52709ab10f36ae2d18fb8a3b38a0c294f324e3b3cf5a4416ec30d",
+      "bytes": 529769,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-046/Previews/Review_send_v002.png",
+      "expected_sha256": "a5deb5ded79aec882a9179bd43ac4a1401f441e6230281705049eca16a2adc06",
+      "actual_sha256": "a5deb5ded79aec882a9179bd43ac4a1401f441e6230281705049eca16a2adc06",
+      "bytes": 1093904,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-046/Previews/Review_contact_v002.png",
+      "expected_sha256": "395a5fb7bf19116f3c0654c9abe8e589fd06e60c2b9b6f48d364329692ad8599",
+      "actual_sha256": "395a5fb7bf19116f3c0654c9abe8e589fd06e60c2b9b6f48d364329692ad8599",
+      "bytes": 1103925,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-046/Previews/Review_return_v002.png",
+      "expected_sha256": "cd19fb023f734d333bf8da57dec0ca117bde74fe4bbb4b6bd5daeeae796b2dae",
+      "actual_sha256": "cd19fb023f734d333bf8da57dec0ca117bde74fe4bbb4b6bd5daeeae796b2dae",
+      "bytes": 1115128,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-046/Previews/Review_arrival_cue_v002.png",
+      "expected_sha256": "3de65a434914928ff7e7d1c70c9ede7f40dd4818e1f2430793eb1c0beddcb2fe",
+      "actual_sha256": "3de65a434914928ff7e7d1c70c9ede7f40dd4818e1f2430793eb1c0beddcb2fe",
+      "bytes": 1087028,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-046/Previews/Review_reuse_B_v002.png",
+      "expected_sha256": "40d823e054f90974b73ab37ac8ae216753f05d51a102e67b43d2faa67e47c8ab",
+      "actual_sha256": "40d823e054f90974b73ab37ac8ae216753f05d51a102e67b43d2faa67e47c8ab",
+      "bytes": 1100384,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+      "expected_sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "actual_sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "bytes": 103695,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "expected_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "actual_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "bytes": 194252,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "expected_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "actual_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "bytes": 18275711,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "expected_sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "actual_sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "bytes": 9608678,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-046/Evidence/events_A_v003.json",
+      "expected_sha256": "c35f42c41f13f8456fb9762f874b0ad8a7116f18d0df9c0a625cdcf4fe85fe61",
+      "actual_sha256": "c35f42c41f13f8456fb9762f874b0ad8a7116f18d0df9c0a625cdcf4fe85fe61",
+      "bytes": 10463,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-046/Evidence/events_B_v003.json",
+      "expected_sha256": "107a6438bc919059e7d4c739a59f8975ecc1c93153d8764f2f73ab8ef0ff7493",
+      "actual_sha256": "107a6438bc919059e7d4c739a59f8975ecc1c93153d8764f2f73ab8ef0ff7493",
+      "bytes": 10501,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+      "expected_sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "actual_sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "bytes": 358482,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_A_v008.blend",
+      "expected_sha256": "fa7e7d90b55fa3506bca08498cf08a1edd9d268daba47e298d5ba8750c51a9c3",
+      "actual_sha256": "fa7e7d90b55fa3506bca08498cf08a1edd9d268daba47e298d5ba8750c51a9c3",
+      "bytes": 100039,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_B_v008.blend",
+      "expected_sha256": "7e0b68399e2bbcf8639471bd18ac46b0889b146dfee7c811e145fbd53fd00426",
+      "actual_sha256": "7e0b68399e2bbcf8639471bd18ac46b0889b146dfee7c811e145fbd53fd00426",
+      "bytes": 100090,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedHardware_v008.blend",
+      "expected_sha256": "e65c663baff3f739116dd5875f0f8071b720aaa5dc1a1537d29eb27d81fd83f3",
+      "actual_sha256": "e65c663baff3f739116dd5875f0f8071b720aaa5dc1a1537d29eb27d81fd83f3",
+      "bytes": 100027,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedChannel_v008.blend",
+      "expected_sha256": "50b70c9c4cc565c5a1a432b3a84203a844e456f5f339e13ebac500e587d9de6a",
+      "actual_sha256": "50b70c9c4cc565c5a1a432b3a84203a844e456f5f339e13ebac500e587d9de6a",
+      "bytes": 100343,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedWearGraze_v008.blend",
+      "expected_sha256": "1c88c513ce467b14a2f6c336b434f1f53aea30ca8b9ce02578ff5961df6a8319",
+      "actual_sha256": "1c88c513ce467b14a2f6c336b434f1f53aea30ca8b9ce02578ff5961df6a8319",
+      "bytes": 100327,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v011.blend",
+      "expected_sha256": "fe2fdfba03f2a98c228f5bef6bf2556c620debcfb853060e69662e331b052e76",
+      "actual_sha256": "fe2fdfba03f2a98c228f5bef6bf2556c620debcfb853060e69662e331b052e76",
+      "bytes": 108598,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedLayerSection_v011.blend",
+      "expected_sha256": "28f26599883e51a57b21dd4c4382382a7f6284ec4dc7454955e4fa93eea3a086",
+      "actual_sha256": "28f26599883e51a57b21dd4c4382382a7f6284ec4dc7454955e4fa93eea3a086",
+      "bytes": 111270,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "expected_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "actual_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "bytes": 100470,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "expected_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "actual_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "bytes": 178194,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+      "expected_sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "actual_sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "bytes": 103695,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "expected_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "actual_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "bytes": 194252,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "expected_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "actual_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "bytes": 18275711,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "expected_sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "actual_sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "bytes": 9608678,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+      "expected_sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+      "actual_sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+      "bytes": 97869,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/Acoustics/Scripts/acoustic_event_v002.py",
+      "expected_sha256": "5188b68d4769167b3abbd5f75de6f71f03b9963c734d9e9b7be443bc2d56bde0",
+      "actual_sha256": "5188b68d4769167b3abbd5f75de6f71f03b9963c734d9e9b7be443bc2d56bde0",
+      "bytes": 8398,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/Acoustics/Scripts/acoustic_binding_v001.py",
+      "expected_sha256": "286c91b162804d2391a81cabdf822540389d24a811ad71c16f9b2bfcd3196f3a",
+      "actual_sha256": "286c91b162804d2391a81cabdf822540389d24a811ad71c16f9b2bfcd3196f3a",
+      "bytes": 2332,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/Acoustics/Scripts/acoustic_verify_v002.py",
+      "expected_sha256": "cb89584bb04a1fc3c5b9a26b7523c9e1ab697fffa49fce9a271e0ce6b0da926a",
+      "actual_sha256": "cb89584bb04a1fc3c5b9a26b7523c9e1ab697fffa49fce9a271e0ce6b0da926a",
+      "bytes": 6174,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/World/Scripts/continuation_controls_v001.py",
+      "expected_sha256": "c17c80ff3a42fad6b0575da7154aff070d8da0846ff80440805b069f0c6fb590",
+      "actual_sha256": "c17c80ff3a42fad6b0575da7154aff070d8da0846ff80440805b069f0c6fb590",
+      "bytes": 2542,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-045/event-contract_v001.json",
+      "expected_sha256": "c8733b4674ba9cf433a80dc512d4002079e045098d223156ef47ea068bf3893b",
+      "actual_sha256": "c8733b4674ba9cf433a80dc512d4002079e045098d223156ef47ea068bf3893b",
+      "bytes": 2680,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Evidence/actual-cased-events_v009.json",
+      "expected_sha256": "bed4da5efbcfe4518e47ed67ea9421890b48ceb08871508ba64f8a788c46341a",
+      "actual_sha256": "bed4da5efbcfe4518e47ed67ea9421890b48ceb08871508ba64f8a788c46341a",
+      "bytes": 9769,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v010/CasedHardware_f001_v010.png",
+      "expected_sha256": "b01aff2564b3a67a30d7178f08025674b80060f3236232e889c91d4dcfc083a5",
+      "actual_sha256": "b01aff2564b3a67a30d7178f08025674b80060f3236232e889c91d4dcfc083a5",
+      "bytes": 976726,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v010/CasedChannel_f001_v010.png",
+      "expected_sha256": "a9782f3de4839200993d4afe83d4597858040fc3b30c1a6152dd2fe4e8e828ac",
+      "actual_sha256": "a9782f3de4839200993d4afe83d4597858040fc3b30c1a6152dd2fe4e8e828ac",
+      "bytes": 773348,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v010/CasedWearGraze_f001_v010.png",
+      "expected_sha256": "46352f764284bc77b2765d6381d88f07357e1493ad507bce49321b611368de6d",
+      "actual_sha256": "46352f764284bc77b2765d6381d88f07357e1493ad507bce49321b611368de6d",
+      "bytes": 784578,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v010/CasedRetrieval_f048_v010.png",
+      "expected_sha256": "b481ac1a82da64d1aa1f72979a0de3c97658b30c844684de6316330e47de0b1e",
+      "actual_sha256": "b481ac1a82da64d1aa1f72979a0de3c97658b30c844684de6316330e47de0b1e",
+      "bytes": 774608,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v010/CasedRetrieval_f096_v010.png",
+      "expected_sha256": "45aa02dc7a62d1165c2714f398f35725a96c0c85397083c1c78e6ec1a5b3a606",
+      "actual_sha256": "45aa02dc7a62d1165c2714f398f35725a96c0c85397083c1c78e6ec1a5b3a606",
+      "bytes": 780381,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedWearSection_f001_v012.png",
+      "expected_sha256": "7eed85ff512d7a2e9272f3df9062b2acbb5ca68d1cbdbc0b623c11a30c0b1845",
+      "actual_sha256": "7eed85ff512d7a2e9272f3df9062b2acbb5ca68d1cbdbc0b623c11a30c0b1845",
+      "bytes": 773312,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedLayerSection_f001_v012.png",
+      "expected_sha256": "0037ba2390c686a72b52bda5b3334707a3cbaa158d9d7edaae8e5ea88dbc1251",
+      "actual_sha256": "0037ba2390c686a72b52bda5b3334707a3cbaa158d9d7edaae8e5ea88dbc1251",
+      "bytes": 767629,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f012_v012.png",
+      "expected_sha256": "d727516347ff00318f0091df2b655167fae46b1a7c10a3b4740bb11c092e08e7",
+      "actual_sha256": "d727516347ff00318f0091df2b655167fae46b1a7c10a3b4740bb11c092e08e7",
+      "bytes": 793566,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f018_v012.png",
+      "expected_sha256": "be251a8cc84a5432665d9449e92db468a2ae03c016b74dcc7c58210374665688",
+      "actual_sha256": "be251a8cc84a5432665d9449e92db468a2ae03c016b74dcc7c58210374665688",
+      "bytes": 800244,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f056_v012.png",
+      "expected_sha256": "0bcacdc580909b4d2c590ecc4aa5df3342ce3eb579f8e0882eb0fa7ace2ee9dc",
+      "actual_sha256": "0bcacdc580909b4d2c590ecc4aa5df3342ce3eb579f8e0882eb0fa7ace2ee9dc",
+      "bytes": 803666,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f076_v012.png",
+      "expected_sha256": "6c92aafe644e7a0945ef69e9ab67a4a67fe0ce028c7a8a388f3c3cf767b47f24",
+      "actual_sha256": "6c92aafe644e7a0945ef69e9ab67a4a67fe0ce028c7a8a388f3c3cf767b47f24",
+      "bytes": 772109,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Evidence/benchmark-all_v010.json",
+      "expected_sha256": "15adf5851f376b80cbb85c5e0bdaefd6f84bf3b141cc93d3980c6ebccb534948",
+      "actual_sha256": "15adf5851f376b80cbb85c5e0bdaefd6f84bf3b141cc93d3980c6ebccb534948",
+      "bytes": 5361,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Evidence/benchmark-repaired_v012.json",
+      "expected_sha256": "6ba402d1960aebbd5d3362d032fa6d589a6f9f7e8676c8f4d38df0e1c8fb0f81",
+      "actual_sha256": "6ba402d1960aebbd5d3362d032fa6d589a6f9f7e8676c8f4d38df0e1c8fb0f81",
+      "bytes": 3361,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-047/Evidence/demo_v012.json",
+      "expected_sha256": "e34f2b5095dbf81f5303f6ddf5a68497e470487c8489d4f12882b8558b8621a4",
+      "actual_sha256": "e34f2b5095dbf81f5303f6ddf5a68497e470487c8489d4f12882b8558b8621a4",
+      "bytes": 74709,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend",
+      "expected_sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+      "actual_sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+      "bytes": 105963,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v006.blend",
+      "expected_sha256": "24813e95903c38ba6d7dd24badc4f1ae0f2f09b19cd76c3de6b699b90218a4ab",
+      "actual_sha256": "24813e95903c38ba6d7dd24badc4f1ae0f2f09b19cd76c3de6b699b90218a4ab",
+      "bytes": 135440,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v006.blend",
+      "expected_sha256": "463c7acc16eed27476eaa8de8d126e288c1fef2adfd494ae83d5e957807531aa",
+      "actual_sha256": "463c7acc16eed27476eaa8de8d126e288c1fef2adfd494ae83d5e957807531aa",
+      "bytes": 135452,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "expected_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "actual_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "bytes": 194252,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+      "expected_sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "actual_sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "bytes": 103695,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "expected_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "actual_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "bytes": 18275711,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "expected_sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "actual_sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "bytes": 9608678,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_A_f0036.png",
+      "expected_sha256": "331f984a674fc4c983615edfc26f8d0d427fac7e0594bccb4ac83b126945c506",
+      "actual_sha256": "331f984a674fc4c983615edfc26f8d0d427fac7e0594bccb4ac83b126945c506",
+      "bytes": 1197792,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_B_f0048.png",
+      "expected_sha256": "3ca95707e2b0d0059eb61e3498d20d0310aa18b59d00e86591e6a9a86d56bcd4",
+      "actual_sha256": "3ca95707e2b0d0059eb61e3498d20d0310aa18b59d00e86591e6a9a86d56bcd4",
+      "bytes": 1000299,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_B_f0096.png",
+      "expected_sha256": "1c8fc9212485a52660a2d41c879dd602b139b9f6e8af3f636a838462379d30cf",
+      "actual_sha256": "1c8fc9212485a52660a2d41c879dd602b139b9f6e8af3f636a838462379d30cf",
+      "bytes": 987930,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Hydraulics_behavior_B_v007.mp4",
+      "expected_sha256": "1083449ff1ea54fb94b79ade3e1db149b6c7dd36082aaf5f1b69915ba6d565b8",
+      "actual_sha256": "1083449ff1ea54fb94b79ade3e1db149b6c7dd36082aaf5f1b69915ba6d565b8",
+      "bytes": 878311,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Records/Tasks/T-045/release-manifest_v001.json",
+      "path": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "expected_sha256": "bb6d1a44c108a51f1f79af91e9b0b58fe88a592d3513a8e742aa95f215ef0e47",
+      "actual_sha256": "bb6d1a44c108a51f1f79af91e9b0b58fe88a592d3513a8e742aa95f215ef0e47",
+      "bytes": 6122,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Records/Tasks/T-045/release-manifest_v001.json",
+      "path": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "expected_sha256": "654e2153de746f66c159121434c1733175e164b4ef920d360e9fb0a4a9a8d0f1",
+      "actual_sha256": "654e2153de746f66c159121434c1733175e164b4ef920d360e9fb0a4a9a8d0f1",
+      "bytes": 10951,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Records/Tasks/T-045/release-manifest_v001.json",
+      "path": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "expected_sha256": "eceecab58385cba5317ff330261c5ea858aabce624be55146063b11fc62abe09",
+      "actual_sha256": "eceecab58385cba5317ff330261c5ea858aabce624be55146063b11fc62abe09",
+      "bytes": 7171,
+      "pass": true,
+      "storage": "tracked review record or selected image"
+    },
+    {
+      "manifest": "04-Production/Records/Tasks/T-045/release-manifest_v001.json",
+      "path": "04-Production/Records/Tasks/T-046/Previews/Sensing_behavior_v002.mp4",
+      "expected_sha256": "c4fcef813fe52709ab10f36ae2d18fb8a3b38a0c294f324e3b3cf5a4416ec30d",
+      "actual_sha256": "c4fcef813fe52709ab10f36ae2d18fb8a3b38a0c294f324e3b3cf5a4416ec30d",
+      "bytes": 529769,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Records/Tasks/T-045/release-manifest_v001.json",
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Hydraulics_behavior_B_v007.mp4",
+      "expected_sha256": "1083449ff1ea54fb94b79ade3e1db149b6c7dd36082aaf5f1b69915ba6d565b8",
+      "actual_sha256": "1083449ff1ea54fb94b79ade3e1db149b6c7dd36082aaf5f1b69915ba6d565b8",
+      "bytes": 878311,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Records/Tasks/T-045/release-manifest_v001.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedRetrieval_v012.mp4",
+      "expected_sha256": "698fa8a756fe45cf23c53701c5ab2a424dc86c796ec2d881797f7c2deab9d4b4",
+      "actual_sha256": "698fa8a756fe45cf23c53701c5ab2a424dc86c796ec2d881797f7c2deab9d4b4",
+      "bytes": 301889,
+      "pass": true,
+      "storage": "local Git-ignored"
+    },
+    {
+      "manifest": "04-Production/Records/Tasks/T-045/release-manifest_v001.json",
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_v012.mp4",
+      "expected_sha256": "688cc2cbb71464ea8116a97b3c02a1d0f2054f8cdbf488f5739fd42332393abb",
+      "actual_sha256": "688cc2cbb71464ea8116a97b3c02a1d0f2054f8cdbf488f5739fd42332393abb",
+      "bytes": 308077,
+      "pass": true,
+      "storage": "local Git-ignored"
+    }
+  ],
+  "all_pass": true,
+  "scope": "Exact local artifact integrity; native behavior and human acceptance require separate evidence",
+  "backup": "Heavy native/video/raw/cache files remain local. No off-machine backup established."
+}

@@ -1,0 +1,166 @@
+[
+  {
+    "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_A_v002.blend",
+    "sha256": "e3e669241bf98466ca6f29e1c5d034830375a4b3d2416b0b59a97b9fcce73795",
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "snapshot": {
+      "camera": {
+        "location": [
+          -1.0499999523162842,
+          -1.0499999523162842,
+          0.6100000143051147
+        ],
+        "rotation": [
+          1.080336093902588,
+          3.5170895529290647e-08,
+          0.40489184856414795
+        ],
+        "lens": 45.0,
+        "type": "PERSP",
+        "ortho_scale": 6.0
+      },
+      "timing": [
+        1,
+        72,
+        24
+      ],
+      "controls": {
+        "WORLD_CONTROL": {
+          "travel_m": -2.23,
+          "rotation_rad": 0.0,
+          "variant": 1.0,
+          "cutaway": 1.0,
+          "show_hardware": 1.0,
+          "show_open": 0.0,
+          "show_casing": 0.0,
+          "show_cement": 0.0,
+          "show_formation": 1.0,
+          "show_shoe": 0.0,
+          "show_mud": 1.0
+        },
+        "CASED_CONTROL": {
+          "cutaway": 1.0,
+          "show_steel": 1.0,
+          "show_cement": 1.0,
+          "show_channel": 1.0,
+          "show_reference": 1.0,
+          "wear": 0.0,
+          "channel": 0.0,
+          "channel_x0_m": -2.5,
+          "channel_x1_m": -0.4,
+          "channel_angle_min_rad": 0.3,
+          "channel_angle_max_rad": 0.8,
+          "wear_depth_m": 0.004
+        }
+      }
+    },
+    "eccos": 1,
+    "steel_outer_radius_m": 0.1698625,
+    "nominal_inner_radius_m": 0.1589405,
+    "authored_preexisting_wear_max_m": 0.004,
+    "unit_scale": 1.0
+  },
+  {
+    "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_B_v002.blend",
+    "sha256": "3bdaeb270fb4f813e2bcfa6df98c8f12f57d544075d4f096fcf4480898216bf1",
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "snapshot": {
+      "camera": {
+        "location": [
+          -1.4800000190734863,
+          -0.7099999785423279,
+          0.27000001072883606
+        ],
+        "rotation": [
+          1.2715158462524414,
+          -6.946065944646307e-11,
+          0.02468631975352764
+        ],
+        "lens": 55.0,
+        "type": "PERSP",
+        "ortho_scale": 6.0
+      },
+      "timing": [
+        1,
+        96,
+        24
+      ],
+      "controls": {
+        "WORLD_CONTROL": {
+          "travel_m": -2.23,
+          "rotation_rad": 0.0,
+          "variant": 1.0,
+          "cutaway": 1.0,
+          "show_hardware": 0.0,
+          "show_open": 0.0,
+          "show_casing": 0.0,
+          "show_cement": 0.0,
+          "show_formation": 1.0,
+          "show_shoe": 0.0,
+          "show_mud": 0.0
+        },
+        "CASED_CONTROL": {
+          "cutaway": 1.0,
+          "show_steel": 1.0,
+          "show_cement": 1.0,
+          "show_channel": 1.0,
+          "show_reference": 1.0,
+          "wear": 1.0,
+          "channel": 1.0,
+          "channel_x0_m": -2.5,
+          "channel_x1_m": -0.4,
+          "channel_angle_min_rad": 0.3,
+          "channel_angle_max_rad": 0.8,
+          "wear_depth_m": 0.004
+        }
+      }
+    },
+    "eccos": 0,
+    "steel_outer_radius_m": 0.1698625,
+    "nominal_inner_radius_m": 0.1589405,
+    "authored_preexisting_wear_max_m": 0.004,
+    "unit_scale": 1.0
+  }
+]

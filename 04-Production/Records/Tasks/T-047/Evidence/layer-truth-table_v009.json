@@ -1,0 +1,1670 @@
+{
+  "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_A_v008.blend",
+  "sha256": "fa7e7d90b55fa3506bca08498cf08a1edd9d268daba47e298d5ba8750c51a9c3",
+  "states": [
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 0,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 0,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 0,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 0,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 0,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 0,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 0
+      },
+      "passed": true,
+      "failures": []
+    },
+    {
+      "parameters": {
+        "cutaway": 1,
+        "show_steel": 1,
+        "show_cement": 1,
+        "show_channel": 1,
+        "show_reference": 1,
+        "wear": 1,
+        "channel": 1
+      },
+      "passed": true,
+      "failures": []
+    }
+  ]
+}

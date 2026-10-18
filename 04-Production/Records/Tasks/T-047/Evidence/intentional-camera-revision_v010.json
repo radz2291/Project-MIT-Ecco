@@ -1,0 +1,40 @@
+{
+  "source": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v009.blend",
+  "source_sha256": "cf1a796f2157799770fc3875e64525f7e9379010c4d6cc765a72a119237357b6",
+  "candidate": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v010.blend",
+  "sha256": "70fa0c48359c2ad4e992ab708350c1aaf066f8c05abf73778f7016f092a44007",
+  "before": {
+    "location": [
+      -1.4500000476837158,
+      0.11734902858734131,
+      0.0950273647904396
+    ],
+    "rotation": [
+      1.4948735237121582,
+      -1.1275504618879495e-07,
+      1.6648728847503662
+    ],
+    "lens": 30.0
+  },
+  "after": {
+    "location": [
+      -1.5499999523162842,
+      0.11734902858734131,
+      0.0950273647904396
+    ],
+    "rotation": [
+      1.4948735237121582,
+      1.1275504618879495e-07,
+      -1.6648728847503662
+    ],
+    "lens": 30.0
+  },
+  "all_animation_keys_preserved": true,
+  "timing": [
+    1,
+    96,
+    24
+  ],
+  "change": "Only axial camera offset +.05\u2192\u2212.05m and look direction; addresses actual finite uphole-rim visibility. This follows completed separately documented migration camera preservation.",
+  "event_export": "actual-cased-events_v009.json"
+}

@@ -1,0 +1,3571 @@
+{
+  "candidate_commit": "974f138a9634965254dd58ca8a6cb30fb623bfde",
+  "pass_checks": true,
+  "method": "Independent triangle clipping and exact 2D segment/polygon radial extrema; no builder verification function imported; no renders or native writes",
+  "consumers": [
+    {
+      "kind": "A",
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v006.blend",
+      "sha256": "24813e95903c38ba6d7dd24badc4f1ae0f2f09b19cd76c3de6b699b90218a4ab",
+      "predecessor_sha256": "55648b57df9bdb7848a0c96bf8dd8c5a4913d986147b7109d57f325496466ada",
+      "unchanged_camera_timing_keys_old_controls": true,
+      "initial_controls": {
+        "phase": 0.0,
+        "speed": 0.16,
+        "density": 10,
+        "cuttings_visible": 1,
+        "flow_visible": 1,
+        "stage_emphasis": 0,
+        "operating_mode": 0,
+        "interface": "A-FLOWv001; illustrative circulation-only; phase cycles, speed cycles/s, density0..10; emphasis0all/1lower/2middle/3upper; mode0circulation/1off"
+      },
+      "source_scales": [
+        0.0010000000474974513,
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "source_mesh_hash": "8fdbba227e8c46a9520e1cc8fb4cd270d6486ed0a58781efea5f7ee2116ebc9b",
+      "source_length_m": 2.4000000953674316,
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+          "parent": null,
+          "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "parent": "BHA_film_v006.blend",
+          "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "parent": "BHA_film_v006.blend.001",
+          "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+          "parent": null,
+          "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "parent": null,
+          "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+        }
+      ],
+      "hardware_counts": {
+        "base": 135,
+        "extension": 1,
+        "joint": 1
+      },
+      "one_housing": 1,
+      "slab": [
+        0.19399906253272295,
+        2.20600104773587
+      ],
+      "finite_radial_interval": [
+        0.1532984191628606,
+        0.15470100774069181
+      ],
+      "hardware_max": 0.15240007711381226,
+      "wall_minimum_all_clipped_triangles": 0.1555541634007652,
+      "hardware_clearance_m": 0.0008973420490483451,
+      "wall_clearance_m": 0.0008521556600733782,
+      "crossing_face_regression_pass": true,
+      "actual_crossing_faces": 0,
+      "all_frame_count": 72,
+      "all_frame_finite_vertices": 21600,
+      "control_probes": "density/independent_visibility/speed_zero/phase/mode_off/emphasis_all_regions_pass",
+      "first_particle_positions": [
+        [
+          2.200000047683716,
+          0.15399999916553497,
+          5.0811863707346505e-34
+        ],
+        [
+          2.0397868156433105,
+          0.15399998426437378,
+          5.0811863707346505e-34
+        ],
+        [
+          1.8795735836029053,
+          0.15399999916553497,
+          5.0811863707346505e-34
+        ],
+        [
+          1.7193603515625,
+          0.15399999916553497,
+          5.0811863707346505e-34
+        ],
+        [
+          1.5591471195220947,
+          0.15399999916553497,
+          7.4593191357053e-07
+        ],
+        [
+          1.3991382122039795,
+          0.15383455157279968,
+          0.007133296690881252
+        ]
+      ],
+      "hardware_wall_records": [
+        {
+          "name": "NOMINAL_CUTAWAY",
+          "roles": [],
+          "wall": true,
+          "triangles": 18432,
+          "selected": 6336,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": 0.1555541634007652
+        },
+        {
+          "name": "ECCO_HOUSING_SOURCE_MESH",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 697805,
+          "selected": 632728,
+          "crossing_faces": 0,
+          "radial_max": 0.15240007711381226,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service port 3 | removable metal plug",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.13724444082652162,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service port 2 | removable metal plug",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.13724437712483234,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service port 1 | removable metal plug",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.13724437712483234,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service cover 3 | removable fitted plate",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 300,
+          "selected": 300,
+          "crossing_faces": 0,
+          "radial_max": 0.13745213450442964,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service cover 2 | removable fitted plate",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 300,
+          "selected": 300,
+          "crossing_faces": 0,
+          "radial_max": 0.13745249354002434,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service cover 1 | removable fitted plate",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 300,
+          "selected": 300,
+          "crossing_faces": 0,
+          "radial_max": 0.13745213118203173,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Imaging port 3 | removable acoustic cap",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.13242862942512956,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Imaging port 2 | removable acoustic cap",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.1324285918299835,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Imaging port 1 | removable acoustic cap",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.13242857252481594,
+          "radial_min": null
+        },
+        {
+          "name": "UPHOLE_COLLAR",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 512,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "DOWNHOLE_COLLAR",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 512,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "UPHOLE_ADAPTER",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 768,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "DOWNHOLE_ADAPTER",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 768,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_WEB_AND_SHANK",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 2112,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "FORMATION_NOMINAL_CUTAWAY",
+          "roles": [],
+          "wall": true,
+          "triangles": 98464,
+          "selected": 11968,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": 0.15625406796405125
+        },
+        {
+          "name": "UPHOLE_UNIT_COLLAR_EXTENSION",
+          "roles": [
+            "extension"
+          ],
+          "wall": false,
+          "triangles": 512,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "UPHOLE_SIMPLIFIED_CONNECTION",
+          "roles": [
+            "joint"
+          ],
+          "wall": false,
+          "triangles": 576,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        }
+      ]
+    },
+    {
+      "kind": "B",
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v006.blend",
+      "sha256": "463c7acc16eed27476eaa8de8d126e288c1fef2adfd494ae83d5e957807531aa",
+      "predecessor_sha256": "1e10e2df59b1e6b2c8334c69f42b0f70a73829985203ac7a63f8df9a8e87fbcc",
+      "unchanged_camera_timing_keys_old_controls": true,
+      "initial_controls": {
+        "phase": 0.21,
+        "speed": 0.12,
+        "density": 7,
+        "cuttings_visible": 1,
+        "flow_visible": 1,
+        "stage_emphasis": 0,
+        "operating_mode": 0,
+        "interface": "A-FLOWv001; illustrative circulation-only; phase cycles, speed cycles/s, density0..10; emphasis0all/1lower/2middle/3upper; mode0circulation/1off"
+      },
+      "source_scales": [
+        0.0010000000474974513,
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "source_mesh_hash": "8fdbba227e8c46a9520e1cc8fb4cd270d6486ed0a58781efea5f7ee2116ebc9b",
+      "source_length_m": 2.4000000953674316,
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+          "parent": null,
+          "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "parent": "BHA_film_v006.blend",
+          "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "parent": "BHA_film_v006.blend.001",
+          "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+          "parent": null,
+          "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c"
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "parent": null,
+          "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+        }
+      ],
+      "hardware_counts": {
+        "base": 135,
+        "extension": 1,
+        "joint": 1
+      },
+      "one_housing": 1,
+      "slab": [
+        0.19399906253272295,
+        2.20600104773587
+      ],
+      "finite_radial_interval": [
+        0.1532984191628606,
+        0.15470100774069181
+      ],
+      "hardware_max": 0.15240007711381226,
+      "wall_minimum_all_clipped_triangles": 0.1555541634007652,
+      "hardware_clearance_m": 0.0008973420490483451,
+      "wall_clearance_m": 0.0008521556600733782,
+      "crossing_face_regression_pass": true,
+      "actual_crossing_faces": 0,
+      "all_frame_count": 96,
+      "all_frame_finite_vertices": 28800,
+      "control_probes": "density/independent_visibility/speed_zero/phase/mode_off/emphasis_all_regions_pass",
+      "first_particle_positions": [
+        [
+          1.77944016456604,
+          0.15399999916553497,
+          5.0811863707346505e-34
+        ],
+        [
+          1.6592803001403809,
+          0.15399999916553497,
+          5.0811863707346505e-34
+        ],
+        [
+          1.5391209125518799,
+          0.153999924659729,
+          0.00013391584798227996
+        ],
+        [
+          1.4191038608551025,
+          0.15389883518218994,
+          0.005574008449912071
+        ],
+        [
+          1.2994444370269775,
+          0.15311743319034576,
+          0.016462257131934166
+        ],
+        [
+          1.1798040866851807,
+          0.15152844786643982,
+          0.027477771043777466
+        ],
+        [
+          1.059812068939209,
+          0.15034618973731995,
+          0.03334696963429451
+        ],
+        [
+          0.9396944642066956,
+          0.15078803896903992,
+          0.031287889927625656
+        ]
+      ],
+      "hardware_wall_records": [
+        {
+          "name": "NOMINAL_CUTAWAY",
+          "roles": [],
+          "wall": true,
+          "triangles": 18432,
+          "selected": 6336,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": 0.1555541634007652
+        },
+        {
+          "name": "ECCO_HOUSING_SOURCE_MESH",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 697805,
+          "selected": 632728,
+          "crossing_faces": 0,
+          "radial_max": 0.15240007711381226,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service port 3 | removable metal plug",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.13724444082652162,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service port 2 | removable metal plug",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.13724437712483234,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service port 1 | removable metal plug",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.13724437712483234,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service cover 3 | removable fitted plate",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 300,
+          "selected": 300,
+          "crossing_faces": 0,
+          "radial_max": 0.13745213450442964,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service cover 2 | removable fitted plate",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 300,
+          "selected": 300,
+          "crossing_faces": 0,
+          "radial_max": 0.13745249354002434,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Service cover 1 | removable fitted plate",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 300,
+          "selected": 300,
+          "crossing_faces": 0,
+          "radial_max": 0.13745213118203173,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Imaging port 3 | removable acoustic cap",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.13242862942512956,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Imaging port 2 | removable acoustic cap",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.1324285918299835,
+          "radial_min": null
+        },
+        {
+          "name": "TEMP | Imaging port 1 | removable acoustic cap",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 1020,
+          "selected": 1020,
+          "crossing_faces": 0,
+          "radial_max": 0.13242857252481594,
+          "radial_min": null
+        },
+        {
+          "name": "UPHOLE_COLLAR",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 512,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "DOWNHOLE_COLLAR",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 512,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "UPHOLE_ADAPTER",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 768,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "DOWNHOLE_ADAPTER",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 768,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_WEB_AND_SHANK",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 2112,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_01_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_01_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_02_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_02_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_03_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_03_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_04_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_04_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_05_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_05_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_INTEGRAL_BLADE_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 412,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_01",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_02",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_03",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_04",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_05",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_07",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_COMPACT_06_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_TABLE_06_08",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_GAUGE_PAD_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 16,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 256,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "PDC_NOZZLE_BORE_06",
+          "roles": [
+            "base"
+          ],
+          "wall": false,
+          "triangles": 380,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "FORMATION_NOMINAL_CUTAWAY",
+          "roles": [],
+          "wall": true,
+          "triangles": 98464,
+          "selected": 11968,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": 0.15625406796405125
+        },
+        {
+          "name": "UPHOLE_UNIT_COLLAR_EXTENSION",
+          "roles": [
+            "extension"
+          ],
+          "wall": false,
+          "triangles": 512,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        },
+        {
+          "name": "UPHOLE_SIMPLIFIED_CONNECTION",
+          "roles": [
+            "joint"
+          ],
+          "wall": false,
+          "triangles": 576,
+          "selected": 0,
+          "crossing_faces": 0,
+          "radial_max": 0,
+          "radial_min": null
+        }
+      ]
+    }
+  ]
+}

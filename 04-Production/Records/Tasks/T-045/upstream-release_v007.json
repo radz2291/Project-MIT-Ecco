@@ -1,0 +1,26 @@
+{
+  "task": "T45 integration support for T44",
+  "date_local": "2026-10-18 Asia/Kuala_Lumpur",
+  "authority": "Radzi explicitly authorized direct T44 coordination and completion; T44 delegated its exact scoped integration to sole Git integrator T45",
+  "commit": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "destination": "radz2291/Project-MIT-Ecco origin/main",
+  "fresh_remote_head": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "head_origin_parity": [0, 0],
+  "scoped_files": 52,
+  "allow_list": "04-Production/Records/Tasks/T-044/Revision_v007/allowed-tracked_v007.json",
+  "source_manifest": "04-Production/Shared/Assets/World/manifest_v007.json",
+  "master": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+  "master_sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+  "checks": "Five final native hashes and four primary PNG hashes match manifest; exactly52 staged allowed paths, whitespace check passes, unrelated staged paths absent; actual wide/furthest/replacement images inspected by master",
+  "native_verification": "T44 executor reports389 canonical checks, separately recorded; no engineering/human acceptance inferred",
+  "render_slot": {
+    "id": "T44-CONTINUITY-01",
+    "status": "released",
+    "samples_s": [1.9690, 1.6986, 1.5501, 2.0451, 2.5567],
+    "all_under_5": true,
+    "cache": "Normal existing GPU disk caches; empty-cache12.55-25.13s limitation unresolved"
+  },
+  "migration": "Reload direct BHAv006 to v007 only; preserve nested v006. Attach continuation to existing hardware instance via continuation_controls_v001. Fresh-open/recheck exact sources, camera/timing/controls, contact/occlusion/clearances and performance.",
+  "t45_gate": "Recheck live Work/reclaim after T44 Review update. Progressive technical release does not self-accept T44 or bypass a blocking dependency.",
+  "storage": "Heavy native files remain local/Git-ignored; no native upload or off-machine backup claimed"
+}

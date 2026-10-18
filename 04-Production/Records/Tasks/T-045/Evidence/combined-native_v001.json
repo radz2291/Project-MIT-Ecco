@@ -1,0 +1,214 @@
+{
+  "results": [
+    {
+      "scene": "04-Production/Records/Tasks/T-045/Scenes/OpenFlowSensing_v001.blend",
+      "sha256": "6d0336c9dfaf98fe1f26bd4722f53b9d8b262817965ffa505cf92268e9e6d01d",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+          "parent": null,
+          "resolved": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+          "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+          "relative": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+          "parent": null,
+          "resolved": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+          "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+          "relative": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+          "resolved": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+          "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+          "relative": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "resolved": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+          "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+          "relative": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+          "parent": null,
+          "resolved": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend",
+          "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+          "relative": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "parent": null,
+          "resolved": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+          "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+          "relative": true
+        }
+      ],
+      "product_instances": 1,
+      "sensor_instances": {
+        "ECCO_SENSOR_REF_01": 1,
+        "ECCO_SENSOR_REF_02": 1,
+        "ECCO_SENSOR_REF_03": 1
+      },
+      "continuation": {
+        "WORLD_UPHOLE_EXTENSION": {
+          "instance": "WORLD_UPHOLE_EXTENSION_INSTANCE",
+          "parent": "WORLD_HARDWARE_INSTANCE"
+        },
+        "WORLD_UPHOLE_JOINT": {
+          "instance": "WORLD_UPHOLE_JOINT_INSTANCE",
+          "parent": "WORLD_HARDWARE_INSTANCE"
+        }
+      },
+      "continuation_control": {
+        "length_m": 12.0,
+        "show": 1
+      },
+      "unit_scale": 1.0,
+      "snapshot": {
+        "camera_matrix": [
+          [
+            0.9657388925552368,
+            -0.0740702822804451,
+            0.24872075021266937,
+            2.059999942779541
+          ],
+          [
+            0.2595157325267792,
+            0.27563855051994324,
+            -0.9255673885345459,
+            -2.2699999809265137
+          ],
+          [
+            7.081599306957287e-09,
+            0.9584033489227295,
+            0.28541725873947144,
+            0.699999988079071
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "lens": 48.0,
+        "frames": [
+          1,
+          72,
+          24
+        ]
+      },
+      "invalid_drivers": []
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v010.blend",
+      "sha256": "70fa0c48359c2ad4e992ab708350c1aaf066f8c05abf73778f7016f092a44007",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+          "parent": null,
+          "resolved": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+          "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+          "relative": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+          "parent": null,
+          "resolved": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+          "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+          "relative": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+          "resolved": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+          "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+          "relative": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+          "parent": null,
+          "resolved": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+          "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+          "relative": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "resolved": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+          "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+          "relative": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "parent": null,
+          "resolved": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+          "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+          "relative": true
+        }
+      ],
+      "product_instances": 1,
+      "sensor_instances": {
+        "ECCO_SENSOR_REF_01": 1,
+        "ECCO_SENSOR_REF_02": 1,
+        "ECCO_SENSOR_REF_03": 1
+      },
+      "continuation": {
+        "WORLD_UPHOLE_EXTENSION": {
+          "instance": "WORLD_UPHOLE_EXTENSION_INSTANCE",
+          "parent": "WORLD_HARDWARE_INSTANCE"
+        },
+        "WORLD_UPHOLE_JOINT": {
+          "instance": "WORLD_UPHOLE_JOINT_INSTANCE",
+          "parent": "WORLD_HARDWARE_INSTANCE"
+        }
+      },
+      "continuation_control": {
+        "length_m": 12.0,
+        "show": 1
+      },
+      "unit_scale": 1.0,
+      "snapshot": {
+        "camera_matrix": [
+          [
+            -0.09393785148859024,
+            0.07551447302103043,
+            -0.9927100539207458,
+            -1.5499999523162842
+          ],
+          [
+            -0.9955780506134033,
+            -0.007125286851078272,
+            0.09366723150014877,
+            0.11734902858734131
+          ],
+          [
+            -1.1275504618879495e-07,
+            0.9971192479133606,
+            0.07584988325834274,
+            0.0950273647904396
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "lens": 30.0,
+        "frames": [
+          1,
+          96,
+          24
+        ]
+      },
+      "invalid_drivers": []
+    }
+  ],
+  "all_pass": true,
+  "scope": "Master fresh-open checks, source links, single product, scale and driver validity; separate fresh-context review follows"
+}

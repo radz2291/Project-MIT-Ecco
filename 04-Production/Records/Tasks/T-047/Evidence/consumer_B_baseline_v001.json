@@ -1,0 +1,51 @@
+{
+  "camera": {
+    "location": [
+      -1.4800000190734863,
+      -0.7099999785423279,
+      0.27000001072883606
+    ],
+    "rotation": [
+      1.2715158462524414,
+      -6.946065944646307e-11,
+      0.02468631975352764
+    ],
+    "lens": 55.0,
+    "type": "PERSP",
+    "ortho_scale": 6.0
+  },
+  "timing": [
+    1,
+    96,
+    24
+  ],
+  "controls": {
+    "WORLD_CONTROL": {
+      "travel_m": -2.23,
+      "rotation_rad": 0.0,
+      "variant": 1.0,
+      "cutaway": 1.0,
+      "show_hardware": 0.0,
+      "show_open": 0.0,
+      "show_casing": 0.0,
+      "show_cement": 0.0,
+      "show_formation": 1.0,
+      "show_shoe": 0.0,
+      "show_mud": 0.0
+    },
+    "CASED_CONTROL": {
+      "cutaway": 1.0,
+      "show_steel": 1.0,
+      "show_cement": 1.0,
+      "show_channel": 1.0,
+      "show_reference": 1.0,
+      "wear": 1.0,
+      "channel": 1.0,
+      "channel_x0_m": -2.5,
+      "channel_x1_m": -0.4,
+      "channel_angle_min_rad": 0.3,
+      "channel_angle_max_rad": 0.8,
+      "wear_depth_m": 0.004
+    }
+  }
+}

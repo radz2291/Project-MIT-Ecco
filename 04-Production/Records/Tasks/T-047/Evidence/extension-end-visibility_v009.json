@@ -1,0 +1,4600 @@
+{
+  "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v009.blend",
+  "far_rim_vertex_and_facecentre_samples": 259,
+  "projected_samples": 259,
+  "unoccluded_samples": 18,
+  "all_projected_samples_occluded": false,
+  "rays": [
+    {
+      "point": [
+        -15.729999542236328,
+        0.03571875020861626,
+        0.0
+      ],
+      "camera_projection": [
+        0.5740014314651489,
+        0.602745532989502,
+        14.190752983093262
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.401889324188232,
+        "occlusion_margin_m": 8.87866002439888
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03554675355553627,
+        0.0035010497085750103
+      ],
+      "camera_projection": [
+        0.5739926695823669,
+        0.6031119227409363,
+        14.190503120422363
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.489380359649658,
+        "occlusion_margin_m": 8.791147105214682
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.035032425075769424,
+        0.006968382280319929
+      ],
+      "camera_projection": [
+        0.5739637017250061,
+        0.6034747958183289,
+        14.190288543701172
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.56587028503418,
+        "occlusion_margin_m": 8.71463833352544
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03418071195483208,
+        0.010368606075644493
+      ],
+      "camera_projection": [
+        0.5739148259162903,
+        0.6038306951522827,
+        14.190110206604004
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.629549980163574,
+        "occlusion_margin_m": 8.650943010953469
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03299982100725174,
+        0.013668973930180073
+      ],
+      "camera_projection": [
+        0.5738465189933777,
+        0.6041762232780457,
+        14.189970970153809
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.678835391998291,
+        "occlusion_margin_m": 8.601645341247854
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.031501125544309616,
+        0.016837703064084053
+      ],
+      "camera_projection": [
+        0.5737594366073608,
+        0.6045079231262207,
+        14.189870834350586
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.7124457359313965,
+        "occlusion_margin_m": 8.56802622690305
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0296990554779768,
+        0.01984427496790886
+      ],
+      "camera_projection": [
+        0.5736543536186218,
+        0.6048226952552795,
+        14.189811706542969
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.729482173919678,
+        "occlusion_margin_m": 8.550984590554544
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.027610966935753822,
+        0.02265973575413227
+      ],
+      "camera_projection": [
+        0.5735324025154114,
+        0.6051174998283386,
+        14.189793586730957
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.729482650756836,
+        "occlusion_margin_m": 8.550982537401016
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.025256970897316933,
+        0.025256970897316933
+      ],
+      "camera_projection": [
+        0.5733946561813354,
+        0.605389416217804,
+        14.189817428588867
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.7222771644592285,
+        "occlusion_margin_m": 8.558190084606455
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.02265973575413227,
+        0.027610966935753822
+      ],
+      "camera_projection": [
+        0.5732424259185791,
+        0.605635941028595,
+        14.189882278442383
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.70524787902832,
+        "occlusion_margin_m": 8.575225048342006
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.01984427496790886,
+        0.0296990554779768
+      ],
+      "camera_projection": [
+        0.5730772614479065,
+        0.6058546304702759,
+        14.189987182617188
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.671651363372803,
+        "occlusion_margin_m": 8.608830804961741
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.016837703064084053,
+        0.031501125544309616
+      ],
+      "camera_projection": [
+        0.5729007720947266,
+        0.6060433983802795,
+        14.190132141113281
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.622389316558838,
+        "occlusion_margin_m": 8.658105566567835
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.013668973930180073,
+        0.03299982100725174
+      ],
+      "camera_projection": [
+        0.5727145671844482,
+        0.6062003970146179,
+        14.190315246582031
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.558736801147461,
+        "occlusion_margin_m": 8.721774147893594
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.010368606075644493,
+        0.03418071195483208
+      ],
+      "camera_projection": [
+        0.5725204944610596,
+        0.6063241362571716,
+        14.190534591674805
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.4822845458984375,
+        "occlusion_margin_m": 8.798245665621746
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.006968382280319929,
+        0.035032425075769424
+      ],
+      "camera_projection": [
+        0.5723204016685486,
+        0.6064134240150452,
+        14.190789222717285
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.394836902618408,
+        "occlusion_margin_m": 8.885715582376477
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0035010497085750103,
+        0.03554675355553627
+      ],
+      "camera_projection": [
+        0.5721161961555481,
+        0.6064673662185669,
+        14.19107437133789
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.298333644866943,
+        "occlusion_margin_m": 8.9822439100397
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        2.1871426741823257e-18,
+        0.03571875020861626
+      ],
+      "camera_projection": [
+        0.5719099640846252,
+        0.6064855456352234,
+        14.191389083862305
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.194758415222168,
+        "occlusion_margin_m": 9.085846764613738
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0035010497085750103,
+        0.03554675355553627
+      ],
+      "camera_projection": [
+        0.5717035531997681,
+        0.6064676642417908,
+        14.191730499267578
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.086066722869873,
+        "occlusion_margin_m": 9.194568370882864
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.006968382280319929,
+        0.035032425075769424
+      ],
+      "camera_projection": [
+        0.5714989900588989,
+        0.6064140200614929,
+        14.192093849182129
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.974758625030518,
+        "occlusion_margin_m": 9.305908383424406
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.010368606075644493,
+        0.03418071195483208
+      ],
+      "camera_projection": [
+        0.5712983012199402,
+        0.6063250303268433,
+        14.192477226257324
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.8639678955078125,
+        "occlusion_margin_m": 9.416732721199324
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.013668973930180073,
+        0.03299982100725174
+      ],
+      "camera_projection": [
+        0.5711033940315247,
+        0.6062015295028687,
+        14.192875862121582
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.751723289489746,
+        "occlusion_margin_m": 9.529012305262581
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.016837703064084053,
+        0.031501125544309616
+      ],
+      "camera_projection": [
+        0.5709161162376404,
+        0.6060448884963989,
+        14.193286895751953
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.639563083648682,
+        "occlusion_margin_m": 9.641208522209663
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.01984427496790886,
+        0.0296990554779768
+      ],
+      "camera_projection": [
+        0.5707382559776306,
+        0.6058564186096191,
+        14.193704605102539
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.528838157653809,
+        "occlusion_margin_m": 9.751970145338376
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.02265973575413227,
+        0.027610966935753822
+      ],
+      "camera_projection": [
+        0.5705716013908386,
+        0.6056380271911621,
+        14.194127082824707
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.420708656311035,
+        "occlusion_margin_m": 9.860136676528159
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.025256970897316933,
+        0.025256970897316933
+      ],
+      "camera_projection": [
+        0.5704177021980286,
+        0.6053918600082397,
+        14.194548606872559
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.318147659301758,
+        "occlusion_margin_m": 9.96273467959921
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.027610966935753822,
+        0.02265973575413227
+      ],
+      "camera_projection": [
+        0.5702780485153198,
+        0.6051202416419983,
+        14.194966316223145
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.2216033935546875,
+        "occlusion_margin_m": 10.059315570981372
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0296990554779768,
+        0.01984427496790886
+      ],
+      "camera_projection": [
+        0.5701540112495422,
+        0.6048257946968079,
+        14.195375442504883
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.130589008331299,
+        "occlusion_margin_m": 10.15036584888386
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.031501125544309616,
+        0.016837703064084053
+      ],
+      "camera_projection": [
+        0.5700467228889465,
+        0.6045113205909729,
+        14.195772171020508
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.045491695404053,
+        "occlusion_margin_m": 10.235497975774333
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03299982100725174,
+        0.013668973930180073
+      ],
+      "camera_projection": [
+        0.5699572563171387,
+        0.6041799187660217,
+        14.196152687072754
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.966596841812134,
+        "occlusion_margin_m": 10.314426229323738
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03418071195483208,
+        0.010368606075644493
+      ],
+      "camera_projection": [
+        0.5698864459991455,
+        0.6038346886634827,
+        14.196514129638672
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.8941032886505127,
+        "occlusion_margin_m": 10.386951447040566
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.035032425075769424,
+        0.006968382280319929
+      ],
+      "camera_projection": [
+        0.5698350071907043,
+        0.6034790873527527,
+        14.19685173034668
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.8281426429748535,
+        "occlusion_margin_m": 10.452941716696817
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03554675355553627,
+        0.0035010497085750103
+      ],
+      "camera_projection": [
+        0.5698034167289734,
+        0.6031163930892944,
+        14.197162628173828
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.7687933444976807,
+        "occlusion_margin_m": 10.51231831323429
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03571875020861626,
+        4.3742853483646515e-18
+      ],
+      "camera_projection": [
+        0.5697919726371765,
+        0.6027502417564392,
+        14.197443962097168
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.716092824935913,
+        "occlusion_margin_m": 10.565043542367345
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03554675355553627,
+        -0.0035010497085750103
+      ],
+      "camera_projection": [
+        0.5698007941246033,
+        0.6023840308189392,
+        14.197693824768066
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.670051097869873,
+        "occlusion_margin_m": 10.611107152190497
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.035032425075769424,
+        -0.006968382280319929
+      ],
+      "camera_projection": [
+        0.5698298215866089,
+        0.602021336555481,
+        14.197908401489258
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.6306567192077637,
+        "occlusion_margin_m": 10.650520376365249
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03418071195483208,
+        -0.010368606075644493
+      ],
+      "camera_projection": [
+        0.5698786973953247,
+        0.6016656756401062,
+        14.198086738586426
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.5978875160217285,
+        "occlusion_margin_m": 10.68330520621266
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03299982100725174,
+        -0.013668973930180073
+      ],
+      "camera_projection": [
+        0.5699470043182373,
+        0.6013203859329224,
+        14.198226928710938
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.5717179775238037,
+        "occlusion_margin_m": 10.709487001954065
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.031501125544309616,
+        -0.016837703064084053
+      ],
+      "camera_projection": [
+        0.5700340867042542,
+        0.6009888648986816,
+        14.198326110839844
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.552119255065918,
+        "occlusion_margin_m": 10.729094494406093
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0296990554779768,
+        -0.01984427496790886
+      ],
+      "camera_projection": [
+        0.5701391100883484,
+        0.6006743311882019,
+        14.198386192321777
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.539067268371582,
+        "occlusion_margin_m": 10.742151679205055
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.027610966935753822,
+        -0.02265973575413227
+      ],
+      "camera_projection": [
+        0.5702610611915588,
+        0.6003797054290771,
+        14.198403358459473
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.5381343364715576,
+        "occlusion_margin_m": 10.743086187370858
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.025256970897316933,
+        -0.025256970897316933
+      ],
+      "camera_projection": [
+        0.5703986883163452,
+        0.6001079082489014,
+        14.198380470275879
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.5446624755859375,
+        "occlusion_margin_m": 10.736555987489956
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.02265973575413227,
+        -0.027610966935753822
+      ],
+      "camera_projection": [
+        0.570550799369812,
+        0.5998615026473999,
+        14.198315620422363
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.557727813720703,
+        "occlusion_margin_m": 10.72348497124916
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.01984427496790886,
+        -0.0296990554779768
+      ],
+      "camera_projection": [
+        0.5707158446311951,
+        0.5996429324150085,
+        14.198209762573242
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.57734751701355,
+        "occlusion_margin_m": 10.70385602748116
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.016837703064084053,
+        -0.031501125544309616
+      ],
+      "camera_projection": [
+        0.5708922147750854,
+        0.5994542241096497,
+        14.198064804077148
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.6035447120666504,
+        "occlusion_margin_m": 10.677646118266864
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.013668973930180073,
+        -0.03299982100725174
+      ],
+      "camera_projection": [
+        0.5710783004760742,
+        0.5992972254753113,
+        14.197881698608398
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.6363470554351807,
+        "occlusion_margin_m": 10.644827709675432
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.010368606075644493,
+        -0.03418071195483208
+      ],
+      "camera_projection": [
+        0.5712722539901733,
+        0.5991734266281128,
+        14.197662353515625
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.675781488418579,
+        "occlusion_margin_m": 10.605374015082283
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.006968382280319929,
+        -0.035032425075769424
+      ],
+      "camera_projection": [
+        0.5714722275733948,
+        0.5990840196609497,
+        14.197408676147461
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.7218704223632812,
+        "occlusion_margin_m": 10.559262808725647
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0035010497085750103,
+        -0.03554675355553627
+      ],
+      "camera_projection": [
+        0.5716763138771057,
+        0.5990299582481384,
+        14.197122573852539
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.774623394012451,
+        "occlusion_margin_m": 10.506484768140188
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -6.561427815751824e-18,
+        -0.03571875020861626
+      ],
+      "camera_projection": [
+        0.5718824863433838,
+        0.5990116596221924,
+        14.196807861328125
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.834031105041504,
+        "occlusion_margin_m": 10.447049433057007
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0035010497085750103,
+        -0.03554675355553627
+      ],
+      "camera_projection": [
+        0.5720888376235962,
+        0.5990293025970459,
+        14.196467399597168
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.900054931640625,
+        "occlusion_margin_m": 10.38099569357193
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.006968382280319929,
+        -0.035032425075769424
+      ],
+      "camera_projection": [
+        0.5722932815551758,
+        0.5990827679634094,
+        14.1961030960083
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.972616195678711,
+        "occlusion_margin_m": 10.308402515688948
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.010368606075644493,
+        -0.03418071195483208
+      ],
+      "camera_projection": [
+        0.5724939703941345,
+        0.5991715788841248,
+        14.195719718933105
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.051584243774414,
+        "occlusion_margin_m": 10.229400859967347
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.013668973930180073,
+        -0.03299982100725174
+      ],
+      "camera_projection": [
+        0.5726889371871948,
+        0.5992947816848755,
+        14.195321083068848
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.139777183532715,
+        "occlusion_margin_m": 10.141172942774972
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.016837703064084053,
+        -0.031501125544309616
+      ],
+      "camera_projection": [
+        0.5728762149810791,
+        0.5994512438774109,
+        14.194911003112793
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.235239505767822,
+        "occlusion_margin_m": 10.045674609957375
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.01984427496790886,
+        -0.0296990554779768
+      ],
+      "camera_projection": [
+        0.5730540752410889,
+        0.5996395349502563,
+        14.19449234008789
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.335702896118164,
+        "occlusion_margin_m": 9.945174522745097
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.02265973575413227,
+        -0.027610966935753822
+      ],
+      "camera_projection": [
+        0.5732208490371704,
+        0.5998576879501343,
+        14.194070816040039
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.440528869628906,
+        "occlusion_margin_m": 9.840311519454241
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.025256970897316933,
+        -0.025256970897316933
+      ],
+      "camera_projection": [
+        0.5733748078346252,
+        0.6001037359237671,
+        14.193648338317871
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.548920154571533,
+        "occlusion_margin_m": 9.731883228438956
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.027610966935753822,
+        -0.02265973575413227
+      ],
+      "camera_projection": [
+        0.5735145807266235,
+        0.600375235080719,
+        14.193231582641602
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.659900188446045,
+        "occlusion_margin_m": 9.620866568600315
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0296990554779768,
+        -0.01984427496790886
+      ],
+      "camera_projection": [
+        0.5736387372016907,
+        0.6006696224212646,
+        14.192822456359863
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.772309303283691,
+        "occlusion_margin_m": 9.508421560578197
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.031501125544309616,
+        -0.016837703064084053
+      ],
+      "camera_projection": [
+        0.5737461447715759,
+        0.6009840369224548,
+        14.192424774169922
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.884792804718018,
+        "occlusion_margin_m": 9.395903244533413
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03299982100725174,
+        -0.013668973930180073
+      ],
+      "camera_projection": [
+        0.5738357305526733,
+        0.601315438747406,
+        14.192044258117676
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.995805740356445,
+        "occlusion_margin_m": 9.284856908140044
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03418071195483208,
+        -0.010368606075644493
+      ],
+      "camera_projection": [
+        0.573906660079956,
+        0.6016606688499451,
+        14.191683769226074
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.103639602661133,
+        "occlusion_margin_m": 9.176991380427074
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.035032425075769424,
+        -0.006968382280319929
+      ],
+      "camera_projection": [
+        0.5739582180976868,
+        0.6020163893699646,
+        14.191346168518066
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.20643949508667,
+        "occlusion_margin_m": 9.074161863113062
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03554675355553627,
+        -0.0035010497085750103
+      ],
+      "camera_projection": [
+        0.5739899277687073,
+        0.6023792028427124,
+        14.191034317016602
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.30533504486084,
+        "occlusion_margin_m": 8.975239014237909
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03571875020861626,
+        -8.748570696729303e-18
+      ],
+      "camera_projection": [
+        0.5740014314651489,
+        0.602745532989502,
+        14.190752983093262
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.401889324188232,
+        "occlusion_margin_m": 8.87866002439888
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.10477499663829803,
+        0.0
+      ],
+      "camera_projection": [
+        0.5780743360519409,
+        0.602741003036499,
+        14.184285163879395
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.10427048057317734,
+        0.01026974618434906
+      ],
+      "camera_projection": [
+        0.578048825263977,
+        0.6038162708282471,
+        14.183552742004395
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.10276177525520325,
+        0.020440587773919106
+      ],
+      "camera_projection": [
+        0.5779640674591064,
+        0.6048813462257385,
+        14.182923316955566
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.10026342421770096,
+        0.030414577573537827
+      ],
+      "camera_projection": [
+        0.5778207778930664,
+        0.6059259176254272,
+        14.182400703430176
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.09679947793483734,
+        0.04009565711021423
+      ],
+      "camera_projection": [
+        0.5776203870773315,
+        0.606939971446991,
+        14.181990623474121
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.09240330010652542,
+        0.04939059168100357
+      ],
+      "camera_projection": [
+        0.5773648023605347,
+        0.607913613319397,
+        14.181696891784668
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.08711722493171692,
+        0.058209870010614395
+      ],
+      "camera_projection": [
+        0.5770565271377563,
+        0.6088375449180603,
+        14.181523323059082
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.08099216967821121,
+        0.06646855920553207
+      ],
+      "camera_projection": [
+        0.5766984820365906,
+        0.6097027659416199,
+        14.18147087097168
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.07408711314201355,
+        0.07408711314201355
+      ],
+      "camera_projection": [
+        0.5762941241264343,
+        0.6105009317398071,
+        14.181539535522461
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.06646855920553207,
+        0.08099216967821121
+      ],
+      "camera_projection": [
+        0.5758473873138428,
+        0.6112244129180908,
+        14.181729316711426
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.058209870010614395,
+        0.08711722493171692
+      ],
+      "camera_projection": [
+        0.5753626227378845,
+        0.6118661165237427,
+        14.182038307189941
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.04939059168100357,
+        0.09240330010652542
+      ],
+      "camera_projection": [
+        0.574844479560852,
+        0.6124199032783508,
+        14.182463645935059
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.04009565711021423,
+        0.09679947793483734
+      ],
+      "camera_projection": [
+        0.5742979049682617,
+        0.6128804683685303,
+        14.183000564575195
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.030414577573537827,
+        0.10026342421770096
+      ],
+      "camera_projection": [
+        0.5737282633781433,
+        0.6132433414459229,
+        14.183645248413086
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.020440587773919106,
+        0.10276177525520325
+      ],
+      "camera_projection": [
+        0.5731409788131714,
+        0.6135050058364868,
+        14.1843900680542
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.01026974618434906,
+        0.10427048057317734
+      ],
+      "camera_projection": [
+        0.5725418329238892,
+        0.6136629581451416,
+        14.185227394104004
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        6.4156186212255705e-18,
+        0.10477499663829803
+      ],
+      "camera_projection": [
+        0.5719364881515503,
+        0.6137157678604126,
+        14.186151504516602
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 12.380901336669922,
+        "occlusion_margin_m": 1.8995840124669456
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.01026974618434906,
+        0.10427048057317734
+      ],
+      "camera_projection": [
+        0.5713308453559875,
+        0.613662838935852,
+        14.187151908874512
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 10.394387245178223,
+        "occlusion_margin_m": 3.8861858519784658
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.020440587773919106,
+        0.10276177525520325
+      ],
+      "camera_projection": [
+        0.5707307457923889,
+        0.6135047674179077,
+        14.18821907043457
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 8.887588500976562,
+        "occlusion_margin_m": 5.3930782130272785
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.030414577573537827,
+        0.10026342421770096
+      ],
+      "camera_projection": [
+        0.5701419711112976,
+        0.6132431030273438,
+        14.189342498779297
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.755651473999023,
+        "occlusion_margin_m": 6.52511382402249
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.04009565711021423,
+        0.09679947793483734
+      ],
+      "camera_projection": [
+        0.5695701837539673,
+        0.6128804087638855,
+        14.190511703491211
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 6.829875946044922,
+        "occlusion_margin_m": 7.4509919535277565
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.04939059168100357,
+        0.09240330010652542
+      ],
+      "camera_projection": [
+        0.5690209269523621,
+        0.6124201416969299,
+        14.191716194152832
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 6.0929765701293945,
+        "occlusion_margin_m": 8.187996960423467
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.058209870010614395,
+        0.08711722493171692
+      ],
+      "camera_projection": [
+        0.5684993863105774,
+        0.6118667721748352,
+        14.192943572998047
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.472893714904785,
+        "occlusion_margin_m": 8.808187458843687
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.06646855920553207,
+        0.08099216967821121
+      ],
+      "camera_projection": [
+        0.568010687828064,
+        0.6112257242202759,
+        14.194181442260742
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.984947204589844,
+        "occlusion_margin_m": 9.29624258796832
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.07408711314201355,
+        0.07408711314201355
+      ],
+      "camera_projection": [
+        0.567559540271759,
+        0.6105031371116638,
+        14.195418357849121
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.5635247230529785,
+        "occlusion_margin_m": 9.717773617324438
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.08099216967821121,
+        0.06646855920553207
+      ],
+      "camera_projection": [
+        0.5671501755714417,
+        0.6097059845924377,
+        14.196643829345703
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.2090654373168945,
+        "occlusion_margin_m": 10.072340334908533
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.08711722493171692,
+        0.058209870010614395
+      ],
+      "camera_projection": [
+        0.5667865872383118,
+        0.6088420152664185,
+        14.197843551635742
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.9231886863708496,
+        "occlusion_margin_m": 10.35832236716424
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.09240330010652542,
+        0.04939059168100357
+      ],
+      "camera_projection": [
+        0.5664722323417664,
+        0.607919454574585,
+        14.199007987976074
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.674804449081421,
+        "occlusion_margin_m": 10.606808721257224
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.09679947793483734,
+        0.04009565711021423
+      ],
+      "camera_projection": [
+        0.566210150718689,
+        0.6069473028182983,
+        14.200124740600586
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.458980083465576,
+        "occlusion_margin_m": 10.822731056009562
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.10026342421770096,
+        0.030414577573537827
+      ],
+      "camera_projection": [
+        0.5660028457641602,
+        0.6059349179267883,
+        14.201183319091797
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.280787229537964,
+        "occlusion_margin_m": 11.001016787595479
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.10276177525520325,
+        0.020440587773919106
+      ],
+      "camera_projection": [
+        0.5658522844314575,
+        0.6048919558525085,
+        14.202173233032227
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.1343131065368652,
+        "occlusion_margin_m": 11.14757780296877
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.10427048057317734,
+        0.01026974618434906
+      ],
+      "camera_projection": [
+        0.5657599568367004,
+        0.603828489780426,
+        14.203086853027344
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.0077133178710938,
+        "occlusion_margin_m": 11.274257661684487
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.10477499663829803,
+        1.2831237242451141e-17
+      ],
+      "camera_projection": [
+        0.565726637840271,
+        0.6027547717094421,
+        14.203912734985352
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.898857355117798,
+        "occlusion_margin_m": 11.383186100837499
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.10427048057317734,
+        -0.01026974618434906
+      ],
+      "camera_projection": [
+        0.5657527446746826,
+        0.601681113243103,
+        14.204644203186035
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.8059616088867188,
+        "occlusion_margin_m": 11.476146032800102
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.10276177525520325,
+        -0.020440587773919106
+      ],
+      "camera_projection": [
+        0.5658379197120667,
+        0.6006177663803101,
+        14.20527458190918
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.737170934677124,
+        "occlusion_margin_m": 11.544991983141472
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.10026342421770096,
+        -0.030414577573537827
+      ],
+      "camera_projection": [
+        0.565981388092041,
+        0.5995750427246094,
+        14.20579719543457
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.6831343173980713,
+        "occlusion_margin_m": 11.599074435149605
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.09679947793483734,
+        -0.04009565711021423
+      ],
+      "camera_projection": [
+        0.5661817789077759,
+        0.5985629558563232,
+        14.206207275390625
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.6408119201660156,
+        "occlusion_margin_m": 11.641432784631405
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.09240330010652542,
+        -0.04939059168100357
+      ],
+      "camera_projection": [
+        0.5664371848106384,
+        0.5975911617279053,
+        14.206500053405762
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.609588384628296,
+        "occlusion_margin_m": 11.672682043366846
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.08711722493171692,
+        -0.058209870010614395
+      ],
+      "camera_projection": [
+        0.5667450428009033,
+        0.5966690182685852,
+        14.206673622131348
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.589014768600464,
+        "occlusion_margin_m": 11.693270906195618
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.08099216967821121,
+        -0.06646855920553207
+      ],
+      "camera_projection": [
+        0.5671024918556213,
+        0.5958053469657898,
+        14.206727027893066
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.5832419395446777,
+        "occlusion_margin_m": 11.699048358579399
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.07408711314201355,
+        -0.07408711314201355
+      ],
+      "camera_projection": [
+        0.5675060749053955,
+        0.5950084924697876,
+        14.206657409667969
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.593470811843872,
+        "occlusion_margin_m": 11.688813441608342
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.06646855920553207,
+        -0.08099216967821121
+      ],
+      "camera_projection": [
+        0.5679519176483154,
+        0.5942860841751099,
+        14.206467628479004
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.6140706539154053,
+        "occlusion_margin_m": 11.668196945473818
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.058209870010614395,
+        -0.08711722493171692
+      ],
+      "camera_projection": [
+        0.5684356689453125,
+        0.5936450958251953,
+        14.206158638000488
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.645336866378784,
+        "occlusion_margin_m": 11.636903629084255
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.04939059168100357,
+        -0.09240330010652542
+      ],
+      "camera_projection": [
+        0.5689527988433838,
+        0.5930916666984558,
+        14.205733299255371
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.6877145767211914,
+        "occlusion_margin_m": 11.594488626901159
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.04009565711021423,
+        -0.09679947793483734
+      ],
+      "camera_projection": [
+        0.5694983005523682,
+        0.5926311016082764,
+        14.205196380615234
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.741884231567383,
+        "occlusion_margin_m": 11.540271850998911
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.030414577573537827,
+        -0.10026342421770096
+      ],
+      "camera_projection": [
+        0.5700668692588806,
+        0.5922678709030151,
+        14.20455265045166
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.820613384246826,
+        "occlusion_margin_m": 11.46148620141471
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.020440587773919106,
+        -0.10276177525520325
+      ],
+      "camera_projection": [
+        0.5706531405448914,
+        0.5920054912567139,
+        14.203807830810547
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.913870334625244,
+        "occlusion_margin_m": 11.368163922278624
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.01026974618434906,
+        -0.10427048057317734
+      ],
+      "camera_projection": [
+        0.571251392364502,
+        0.5918464660644531,
+        14.202969551086426
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.0231406688690186,
+        "occlusion_margin_m": 11.258820057098509
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -1.92468550364961e-17,
+        -0.10477499663829803
+      ],
+      "camera_projection": [
+        0.5718559622764587,
+        0.5917922854423523,
+        14.202045440673828
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.1502082347869873,
+        "occlusion_margin_m": 11.131671465598687
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.01026974618434906,
+        -0.10427048057317734
+      ],
+      "camera_projection": [
+        0.5724610090255737,
+        0.5918436050415039,
+        14.201045989990234
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.300565004348755,
+        "occlusion_margin_m": 10.981226955990675
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.020440587773919106,
+        -0.10276177525520325
+      ],
+      "camera_projection": [
+        0.5730606913566589,
+        0.591999888420105,
+        14.199978828430176
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.4891669750213623,
+        "occlusion_margin_m": 10.792531375751913
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.030414577573537827,
+        -0.10026342421770096
+      ],
+      "camera_projection": [
+        0.5736492872238159,
+        0.5922597050666809,
+        14.198854446411133
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.7062292098999023,
+        "occlusion_margin_m": 10.575370563512456
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.04009565711021423,
+        -0.09679947793483734
+      ],
+      "camera_projection": [
+        0.5742210745811462,
+        0.5926204919815063,
+        14.197685241699219
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.9559454917907715,
+        "occlusion_margin_m": 10.325551685390836
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.04939059168100357,
+        -0.09240330010652542
+      ],
+      "camera_projection": [
+        0.5747705698013306,
+        0.5930789113044739,
+        14.196480751037598
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.252450466156006,
+        "occlusion_margin_m": 10.02894108369086
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.058209870010614395,
+        -0.08711722493171692
+      ],
+      "camera_projection": [
+        0.5752924680709839,
+        0.5936304926872253,
+        14.1952543258667
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.618805885314941,
+        "occlusion_margin_m": 9.662478023549511
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.06646855920553207,
+        -0.08099216967821121
+      ],
+      "camera_projection": [
+        0.5757817625999451,
+        0.5942699313163757,
+        14.194016456604004
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.042685031890869,
+        "occlusion_margin_m": 9.238490259189476
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.07408711314201355,
+        -0.07408711314201355
+      ],
+      "camera_projection": [
+        0.5762336850166321,
+        0.5949912071228027,
+        14.192778587341309
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.549156665802002,
+        "occlusion_margin_m": 8.731910076324608
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.08099216967821121,
+        -0.06646855920553207
+      ],
+      "camera_projection": [
+        0.5766439437866211,
+        0.5957872867584229,
+        14.191554069519043
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 6.185841083526611,
+        "occlusion_margin_m": 8.0951182242953
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.08711722493171692,
+        -0.058209870010614395
+      ],
+      "camera_projection": [
+        0.5770085453987122,
+        0.5966505408287048,
+        14.190354347229004
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 6.924474716186523,
+        "occlusion_margin_m": 7.356379306252032
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.09240330010652542,
+        -0.04939059168100357
+      ],
+      "camera_projection": [
+        0.5773239731788635,
+        0.5975727438926697,
+        14.189189910888672
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.900208473205566,
+        "occlusion_margin_m": 6.380543426876708
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.09679947793483734,
+        -0.04009565711021423
+      ],
+      "camera_projection": [
+        0.5775871276855469,
+        0.5985448956489563,
+        14.18807315826416
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 9.05677604675293,
+        "occlusion_margin_m": 5.223877877666217
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.10026342421770096,
+        -0.030414577573537827
+      ],
+      "camera_projection": [
+        0.5777954459190369,
+        0.5995576977729797,
+        14.18701457977295
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 10.591434478759766,
+        "occlusion_margin_m": 3.6891265604365486
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.10276177525520325,
+        -0.020440587773919106
+      ],
+      "camera_projection": [
+        0.5779470205307007,
+        0.6006013751029968,
+        14.186023712158203
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 12.664079666137695,
+        "occlusion_margin_m": 1.61639447275404
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.10427048057317734,
+        -0.01026974618434906
+      ],
+      "camera_projection": [
+        0.5780402421951294,
+        0.6016659140586853,
+        14.185111045837402
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.10477499663829803,
+        -2.5662474484902282e-17
+      ],
+      "camera_projection": [
+        0.5780743360519409,
+        0.602741003036499,
+        14.184285163879395
+      ],
+      "blocked": false,
+      "first_occluder": null
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03571875020861626,
+        0.0
+      ],
+      "camera_projection": [
+        0.5740014314651489,
+        0.602745532989502,
+        14.190752983093262
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.401889324188232,
+        "occlusion_margin_m": 8.87866002439888
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03554675355553627,
+        0.0035010497085750103
+      ],
+      "camera_projection": [
+        0.5739926695823669,
+        0.6031119227409363,
+        14.190503120422363
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.489380359649658,
+        "occlusion_margin_m": 8.791147105214682
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.035032425075769424,
+        0.006968382280319929
+      ],
+      "camera_projection": [
+        0.5739637017250061,
+        0.6034747958183289,
+        14.190288543701172
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.56587028503418,
+        "occlusion_margin_m": 8.71463833352544
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03418071195483208,
+        0.010368606075644493
+      ],
+      "camera_projection": [
+        0.5739148259162903,
+        0.6038306951522827,
+        14.190110206604004
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.629549980163574,
+        "occlusion_margin_m": 8.650943010953469
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03299982100725174,
+        0.013668973930180073
+      ],
+      "camera_projection": [
+        0.5738465189933777,
+        0.6041762232780457,
+        14.189970970153809
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.678835391998291,
+        "occlusion_margin_m": 8.601645341247854
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.031501125544309616,
+        0.016837703064084053
+      ],
+      "camera_projection": [
+        0.5737594366073608,
+        0.6045079231262207,
+        14.189870834350586
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.7124457359313965,
+        "occlusion_margin_m": 8.56802622690305
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0296990554779768,
+        0.01984427496790886
+      ],
+      "camera_projection": [
+        0.5736543536186218,
+        0.6048226952552795,
+        14.189811706542969
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.729482173919678,
+        "occlusion_margin_m": 8.550984590554544
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.027610966935753822,
+        0.02265973575413227
+      ],
+      "camera_projection": [
+        0.5735324025154114,
+        0.6051174998283386,
+        14.189793586730957
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.729482650756836,
+        "occlusion_margin_m": 8.550982537401016
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.025256970897316933,
+        0.025256970897316933
+      ],
+      "camera_projection": [
+        0.5733946561813354,
+        0.605389416217804,
+        14.189817428588867
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.7222771644592285,
+        "occlusion_margin_m": 8.558190084606455
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.02265973575413227,
+        0.027610966935753822
+      ],
+      "camera_projection": [
+        0.5732424259185791,
+        0.605635941028595,
+        14.189882278442383
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.70524787902832,
+        "occlusion_margin_m": 8.575225048342006
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.01984427496790886,
+        0.0296990554779768
+      ],
+      "camera_projection": [
+        0.5730772614479065,
+        0.6058546304702759,
+        14.189987182617188
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.671651363372803,
+        "occlusion_margin_m": 8.608830804961741
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.016837703064084053,
+        0.031501125544309616
+      ],
+      "camera_projection": [
+        0.5729007720947266,
+        0.6060433983802795,
+        14.190132141113281
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.622389316558838,
+        "occlusion_margin_m": 8.658105566567835
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.013668973930180073,
+        0.03299982100725174
+      ],
+      "camera_projection": [
+        0.5727145671844482,
+        0.6062003970146179,
+        14.190315246582031
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.558736801147461,
+        "occlusion_margin_m": 8.721774147893594
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.010368606075644493,
+        0.03418071195483208
+      ],
+      "camera_projection": [
+        0.5725204944610596,
+        0.6063241362571716,
+        14.190534591674805
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.4822845458984375,
+        "occlusion_margin_m": 8.798245665621746
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.006968382280319929,
+        0.035032425075769424
+      ],
+      "camera_projection": [
+        0.5723204016685486,
+        0.6064134240150452,
+        14.190789222717285
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.394836902618408,
+        "occlusion_margin_m": 8.885715582376477
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0035010497085750103,
+        0.03554675355553627
+      ],
+      "camera_projection": [
+        0.5721161961555481,
+        0.6064673662185669,
+        14.19107437133789
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.298333644866943,
+        "occlusion_margin_m": 8.9822439100397
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        2.1871426741823257e-18,
+        0.03571875020861626
+      ],
+      "camera_projection": [
+        0.5719099640846252,
+        0.6064855456352234,
+        14.191389083862305
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.194758415222168,
+        "occlusion_margin_m": 9.085846764613738
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0035010497085750103,
+        0.03554675355553627
+      ],
+      "camera_projection": [
+        0.5717035531997681,
+        0.6064676642417908,
+        14.191730499267578
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.086066722869873,
+        "occlusion_margin_m": 9.194568370882864
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.006968382280319929,
+        0.035032425075769424
+      ],
+      "camera_projection": [
+        0.5714989900588989,
+        0.6064140200614929,
+        14.192093849182129
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.974758625030518,
+        "occlusion_margin_m": 9.305908383424406
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.010368606075644493,
+        0.03418071195483208
+      ],
+      "camera_projection": [
+        0.5712983012199402,
+        0.6063250303268433,
+        14.192477226257324
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.8639678955078125,
+        "occlusion_margin_m": 9.416732721199324
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.013668973930180073,
+        0.03299982100725174
+      ],
+      "camera_projection": [
+        0.5711033940315247,
+        0.6062015295028687,
+        14.192875862121582
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.751723289489746,
+        "occlusion_margin_m": 9.529012305262581
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.016837703064084053,
+        0.031501125544309616
+      ],
+      "camera_projection": [
+        0.5709161162376404,
+        0.6060448884963989,
+        14.193286895751953
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.639563083648682,
+        "occlusion_margin_m": 9.641208522209663
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.01984427496790886,
+        0.0296990554779768
+      ],
+      "camera_projection": [
+        0.5707382559776306,
+        0.6058564186096191,
+        14.193704605102539
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.528838157653809,
+        "occlusion_margin_m": 9.751970145338376
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.02265973575413227,
+        0.027610966935753822
+      ],
+      "camera_projection": [
+        0.5705716013908386,
+        0.6056380271911621,
+        14.194127082824707
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.420708656311035,
+        "occlusion_margin_m": 9.860136676528159
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.025256970897316933,
+        0.025256970897316933
+      ],
+      "camera_projection": [
+        0.5704177021980286,
+        0.6053918600082397,
+        14.194548606872559
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.318147659301758,
+        "occlusion_margin_m": 9.96273467959921
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.027610966935753822,
+        0.02265973575413227
+      ],
+      "camera_projection": [
+        0.5702780485153198,
+        0.6051202416419983,
+        14.194966316223145
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.2216033935546875,
+        "occlusion_margin_m": 10.059315570981372
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0296990554779768,
+        0.01984427496790886
+      ],
+      "camera_projection": [
+        0.5701540112495422,
+        0.6048257946968079,
+        14.195375442504883
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.130589008331299,
+        "occlusion_margin_m": 10.15036584888386
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.031501125544309616,
+        0.016837703064084053
+      ],
+      "camera_projection": [
+        0.5700467228889465,
+        0.6045113205909729,
+        14.195772171020508
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.045491695404053,
+        "occlusion_margin_m": 10.235497975774333
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03299982100725174,
+        0.013668973930180073
+      ],
+      "camera_projection": [
+        0.5699572563171387,
+        0.6041799187660217,
+        14.196152687072754
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.966596841812134,
+        "occlusion_margin_m": 10.314426229323738
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03418071195483208,
+        0.010368606075644493
+      ],
+      "camera_projection": [
+        0.5698864459991455,
+        0.6038346886634827,
+        14.196514129638672
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.8941032886505127,
+        "occlusion_margin_m": 10.386951447040566
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.035032425075769424,
+        0.006968382280319929
+      ],
+      "camera_projection": [
+        0.5698350071907043,
+        0.6034790873527527,
+        14.19685173034668
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.8281426429748535,
+        "occlusion_margin_m": 10.452941716696817
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03554675355553627,
+        0.0035010497085750103
+      ],
+      "camera_projection": [
+        0.5698034167289734,
+        0.6031163930892944,
+        14.197162628173828
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.7687933444976807,
+        "occlusion_margin_m": 10.51231831323429
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03571875020861626,
+        4.3742853483646515e-18
+      ],
+      "camera_projection": [
+        0.5697919726371765,
+        0.6027502417564392,
+        14.197443962097168
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.716092824935913,
+        "occlusion_margin_m": 10.565043542367345
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03554675355553627,
+        -0.0035010497085750103
+      ],
+      "camera_projection": [
+        0.5698007941246033,
+        0.6023840308189392,
+        14.197693824768066
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.670051097869873,
+        "occlusion_margin_m": 10.611107152190497
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.035032425075769424,
+        -0.006968382280319929
+      ],
+      "camera_projection": [
+        0.5698298215866089,
+        0.602021336555481,
+        14.197908401489258
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.6306567192077637,
+        "occlusion_margin_m": 10.650520376365249
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03418071195483208,
+        -0.010368606075644493
+      ],
+      "camera_projection": [
+        0.5698786973953247,
+        0.6016656756401062,
+        14.198086738586426
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.5978875160217285,
+        "occlusion_margin_m": 10.68330520621266
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03299982100725174,
+        -0.013668973930180073
+      ],
+      "camera_projection": [
+        0.5699470043182373,
+        0.6013203859329224,
+        14.198226928710938
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.5717179775238037,
+        "occlusion_margin_m": 10.709487001954065
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.031501125544309616,
+        -0.016837703064084053
+      ],
+      "camera_projection": [
+        0.5700340867042542,
+        0.6009888648986816,
+        14.198326110839844
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.552119255065918,
+        "occlusion_margin_m": 10.729094494406093
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0296990554779768,
+        -0.01984427496790886
+      ],
+      "camera_projection": [
+        0.5701391100883484,
+        0.6006743311882019,
+        14.198386192321777
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.539067268371582,
+        "occlusion_margin_m": 10.742151679205055
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.027610966935753822,
+        -0.02265973575413227
+      ],
+      "camera_projection": [
+        0.5702610611915588,
+        0.6003797054290771,
+        14.198403358459473
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.5381343364715576,
+        "occlusion_margin_m": 10.743086187370858
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.025256970897316933,
+        -0.025256970897316933
+      ],
+      "camera_projection": [
+        0.5703986883163452,
+        0.6001079082489014,
+        14.198380470275879
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.5446624755859375,
+        "occlusion_margin_m": 10.736555987489956
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.02265973575413227,
+        -0.027610966935753822
+      ],
+      "camera_projection": [
+        0.570550799369812,
+        0.5998615026473999,
+        14.198315620422363
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.557727813720703,
+        "occlusion_margin_m": 10.72348497124916
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.01984427496790886,
+        -0.0296990554779768
+      ],
+      "camera_projection": [
+        0.5707158446311951,
+        0.5996429324150085,
+        14.198209762573242
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.57734751701355,
+        "occlusion_margin_m": 10.70385602748116
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.016837703064084053,
+        -0.031501125544309616
+      ],
+      "camera_projection": [
+        0.5708922147750854,
+        0.5994542241096497,
+        14.198064804077148
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.6035447120666504,
+        "occlusion_margin_m": 10.677646118266864
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.013668973930180073,
+        -0.03299982100725174
+      ],
+      "camera_projection": [
+        0.5710783004760742,
+        0.5992972254753113,
+        14.197881698608398
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.6363470554351807,
+        "occlusion_margin_m": 10.644827709675432
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.010368606075644493,
+        -0.03418071195483208
+      ],
+      "camera_projection": [
+        0.5712722539901733,
+        0.5991734266281128,
+        14.197662353515625
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.675781488418579,
+        "occlusion_margin_m": 10.605374015082283
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.006968382280319929,
+        -0.035032425075769424
+      ],
+      "camera_projection": [
+        0.5714722275733948,
+        0.5990840196609497,
+        14.197408676147461
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.7218704223632812,
+        "occlusion_margin_m": 10.559262808725647
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0035010497085750103,
+        -0.03554675355553627
+      ],
+      "camera_projection": [
+        0.5716763138771057,
+        0.5990299582481384,
+        14.197122573852539
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.774623394012451,
+        "occlusion_margin_m": 10.506484768140188
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -6.561427815751824e-18,
+        -0.03571875020861626
+      ],
+      "camera_projection": [
+        0.5718824863433838,
+        0.5990116596221924,
+        14.196807861328125
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.834031105041504,
+        "occlusion_margin_m": 10.447049433057007
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0035010497085750103,
+        -0.03554675355553627
+      ],
+      "camera_projection": [
+        0.5720888376235962,
+        0.5990293025970459,
+        14.196467399597168
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.900054931640625,
+        "occlusion_margin_m": 10.38099569357193
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.006968382280319929,
+        -0.035032425075769424
+      ],
+      "camera_projection": [
+        0.5722932815551758,
+        0.5990827679634094,
+        14.1961030960083
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.972616195678711,
+        "occlusion_margin_m": 10.308402515688948
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.010368606075644493,
+        -0.03418071195483208
+      ],
+      "camera_projection": [
+        0.5724939703941345,
+        0.5991715788841248,
+        14.195719718933105
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.051584243774414,
+        "occlusion_margin_m": 10.229400859967347
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.013668973930180073,
+        -0.03299982100725174
+      ],
+      "camera_projection": [
+        0.5726889371871948,
+        0.5992947816848755,
+        14.195321083068848
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.139777183532715,
+        "occlusion_margin_m": 10.141172942774972
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.016837703064084053,
+        -0.031501125544309616
+      ],
+      "camera_projection": [
+        0.5728762149810791,
+        0.5994512438774109,
+        14.194911003112793
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.235239505767822,
+        "occlusion_margin_m": 10.045674609957375
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.01984427496790886,
+        -0.0296990554779768
+      ],
+      "camera_projection": [
+        0.5730540752410889,
+        0.5996395349502563,
+        14.19449234008789
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.335702896118164,
+        "occlusion_margin_m": 9.945174522745097
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.02265973575413227,
+        -0.027610966935753822
+      ],
+      "camera_projection": [
+        0.5732208490371704,
+        0.5998576879501343,
+        14.194070816040039
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.440528869628906,
+        "occlusion_margin_m": 9.840311519454241
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.025256970897316933,
+        -0.025256970897316933
+      ],
+      "camera_projection": [
+        0.5733748078346252,
+        0.6001037359237671,
+        14.193648338317871
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.548920154571533,
+        "occlusion_margin_m": 9.731883228438956
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.027610966935753822,
+        -0.02265973575413227
+      ],
+      "camera_projection": [
+        0.5735145807266235,
+        0.600375235080719,
+        14.193231582641602
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.659900188446045,
+        "occlusion_margin_m": 9.620866568600315
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0296990554779768,
+        -0.01984427496790886
+      ],
+      "camera_projection": [
+        0.5736387372016907,
+        0.6006696224212646,
+        14.192822456359863
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.772309303283691,
+        "occlusion_margin_m": 9.508421560578197
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.031501125544309616,
+        -0.016837703064084053
+      ],
+      "camera_projection": [
+        0.5737461447715759,
+        0.6009840369224548,
+        14.192424774169922
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.884792804718018,
+        "occlusion_margin_m": 9.395903244533413
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03299982100725174,
+        -0.013668973930180073
+      ],
+      "camera_projection": [
+        0.5738357305526733,
+        0.601315438747406,
+        14.192044258117676
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.995805740356445,
+        "occlusion_margin_m": 9.284856908140044
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03418071195483208,
+        -0.010368606075644493
+      ],
+      "camera_projection": [
+        0.573906660079956,
+        0.6016606688499451,
+        14.191683769226074
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.103639602661133,
+        "occlusion_margin_m": 9.176991380427074
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.035032425075769424,
+        -0.006968382280319929
+      ],
+      "camera_projection": [
+        0.5739582180976868,
+        0.6020163893699646,
+        14.191346168518066
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.20643949508667,
+        "occlusion_margin_m": 9.074161863113062
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03554675355553627,
+        -0.0035010497085750103
+      ],
+      "camera_projection": [
+        0.5739899277687073,
+        0.6023792028427124,
+        14.191034317016602
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.30533504486084,
+        "occlusion_margin_m": 8.975239014237909
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03571875020861626,
+        -8.748570696729303e-18
+      ],
+      "camera_projection": [
+        0.5740014314651489,
+        0.602745532989502,
+        14.190752983093262
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.401889324188232,
+        "occlusion_margin_m": 8.87866002439888
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.07007774710655212,
+        0.0034426990896463394
+      ],
+      "camera_projection": [
+        0.5760288238525391,
+        0.6031036376953125,
+        14.187273979187012
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.335111618041992,
+        "occlusion_margin_m": 6.945260167068556
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.06940285861492157,
+        0.010294941253960133
+      ],
+      "camera_projection": [
+        0.5759918093681335,
+        0.6038209199905396,
+        14.186817169189453
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.564375877380371,
+        "occlusion_margin_m": 6.715955855960079
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.06805958598852158,
+        0.01704803854227066
+      ],
+      "camera_projection": [
+        0.5759153366088867,
+        0.6045279502868652,
+        14.186430931091309
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.777385711669922,
+        "occlusion_margin_m": 6.5029121220885795
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0660608559846878,
+        0.02363695576786995
+      ],
+      "camera_projection": [
+        0.5758001208305359,
+        0.6052178740501404,
+        14.186118125915527
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.9386186599731445,
+        "occlusion_margin_m": 6.3416517528323215
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0634259283542633,
+        0.029998231679201126
+      ],
+      "camera_projection": [
+        0.575647234916687,
+        0.6058840155601501,
+        14.185882568359375
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 8.043407440185547,
+        "occlusion_margin_m": 6.236842294480409
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0601801723241806,
+        0.03607060760259628
+      ],
+      "camera_projection": [
+        0.575458288192749,
+        0.606519877910614,
+        14.185726165771484
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 8.143674850463867,
+        "occlusion_margin_m": 6.13656114805546
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.05635485425591469,
+        0.04179561138153076
+      ],
+      "camera_projection": [
+        0.5752349495887756,
+        0.6071195006370544,
+        14.185649871826172
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 8.177762985229492,
+        "occlusion_margin_m": 6.1024663513359325
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.051986806094646454,
+        0.04711809754371643
+      ],
+      "camera_projection": [
+        0.5749794840812683,
+        0.6076769828796387,
+        14.18565559387207
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 8.17042064666748,
+        "occlusion_margin_m": 6.109809166402327
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.04711809381842613,
+        0.051986806094646454
+      ],
+      "camera_projection": [
+        0.5746942758560181,
+        0.6081869006156921,
+        14.185742378234863
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 8.136321067810059,
+        "occlusion_margin_m": 6.143916355611633
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.04179561138153076,
+        0.05635485053062439
+      ],
+      "camera_projection": [
+        0.5743821263313293,
+        0.6086444854736328,
+        14.185909271240234
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 8.036027908325195,
+        "occlusion_margin_m": 6.244224186020752
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03607061132788658,
+        0.0601801760494709
+      ],
+      "camera_projection": [
+        0.5740460157394409,
+        0.609045147895813,
+        14.186155319213867
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.915745735168457,
+        "occlusion_margin_m": 6.364527949301754
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.029998231679201126,
+        0.0634259283542633
+      ],
+      "camera_projection": [
+        0.5736891627311707,
+        0.6093851923942566,
+        14.186477661132812
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.754408359527588,
+        "occlusion_margin_m": 6.525893626400244
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0236369539052248,
+        0.0660608559846878
+      ],
+      "camera_projection": [
+        0.5733151435852051,
+        0.6096612215042114,
+        14.186874389648438
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.541296005249023,
+        "occlusion_margin_m": 6.739040720769294
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.01704803854227066,
+        0.06805958598852158
+      ],
+      "camera_projection": [
+        0.5729274153709412,
+        0.6098706722259521,
+        14.187339782714844
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.294142246246338,
+        "occlusion_margin_m": 6.986235323905806
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.010294942185282707,
+        0.06940285861492157
+      ],
+      "camera_projection": [
+        0.5725297927856445,
+        0.6100113987922668,
+        14.187870025634766
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.0396037101745605,
+        "occlusion_margin_m": 7.24082041477824
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0034426990896463394,
+        0.07007774710655212
+      ],
+      "camera_projection": [
+        0.5721260905265808,
+        0.61008220911026,
+        14.188461303710938
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 6.756117820739746,
+        "occlusion_margin_m": 7.524358121328554
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0034426990896463394,
+        0.07007774710655212
+      ],
+      "camera_projection": [
+        0.5717202425003052,
+        0.6100823283195496,
+        14.189105987548828
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 6.454920291900635,
+        "occlusion_margin_m": 7.8256122304184625
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.010294941253960133,
+        0.06940285861492157
+      ],
+      "camera_projection": [
+        0.5713160634040833,
+        0.6100118160247803,
+        14.189798355102539
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 6.146031379699707,
+        "occlusion_margin_m": 8.134561941134768
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.01704803854227066,
+        0.06805958598852158
+      ],
+      "camera_projection": [
+        0.570917546749115,
+        0.6098712682723999,
+        14.190533638000488
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.837808132171631,
+        "occlusion_margin_m": 8.442849619709481
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.02363695576786995,
+        0.0660608559846878
+      ],
+      "camera_projection": [
+        0.570528507232666,
+        0.6096621751785278,
+        14.191302299499512
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.536808013916016,
+        "occlusion_margin_m": 8.743917181293765
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.029998231679201126,
+        0.0634259283542633
+      ],
+      "camera_projection": [
+        0.5701526999473572,
+        0.6093865036964417,
+        14.192097663879395
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.247860908508301,
+        "occlusion_margin_m": 9.032934092485233
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03607060760259628,
+        0.0601801723241806
+      ],
+      "camera_projection": [
+        0.569793701171875,
+        0.6090469360351562,
+        14.192913055419922
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.974271774291992,
+        "occlusion_margin_m": 9.306594722888534
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.04179561138153076,
+        0.05635485425591469
+      ],
+      "camera_projection": [
+        0.5694550275802612,
+        0.6086466908454895,
+        14.19373893737793
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.718086242675781,
+        "occlusion_margin_m": 9.562852752181588
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.04711809754371643,
+        0.051986806094646454
+      ],
+      "camera_projection": [
+        0.569139838218689,
+        0.6081897020339966,
+        14.194568634033203
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.4803571701049805,
+        "occlusion_margin_m": 9.800654626019796
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.051986806094646454,
+        0.04711809381842613
+      ],
+      "camera_projection": [
+        0.5688512921333313,
+        0.6076803803443909,
+        14.195394515991211
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.265509128570557,
+        "occlusion_margin_m": 10.015575071205232
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.05635485053062439,
+        0.04179561138153076
+      ],
+      "camera_projection": [
+        0.5685920715332031,
+        0.6071236729621887,
+        14.196207046508789
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.077602863311768,
+        "occlusion_margin_m": 10.203552645006734
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0601801760494709,
+        0.03607061132788658
+      ],
+      "camera_projection": [
+        0.568364679813385,
+        0.6065248250961304,
+        14.196999549865723
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.907142162322998,
+        "occlusion_margin_m": 10.374082873156178
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0634259283542633,
+        0.029998231679201126
+      ],
+      "camera_projection": [
+        0.5681713223457336,
+        0.6058896780014038,
+        14.19776439666748
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.7532780170440674,
+        "occlusion_margin_m": 10.528014094227508
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0660608559846878,
+        0.0236369539052248
+      ],
+      "camera_projection": [
+        0.5680139064788818,
+        0.6052243709564209,
+        14.198493957519531
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.615095853805542,
+        "occlusion_margin_m": 10.66626023629676
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.06805958598852158,
+        0.01704803854227066
+      ],
+      "camera_projection": [
+        0.5678938031196594,
+        0.6045352816581726,
+        14.199180603027344
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.491673707962036,
+        "occlusion_margin_m": 10.789742647860875
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.06940285861492157,
+        0.010294942185282707
+      ],
+      "camera_projection": [
+        0.5678122639656067,
+        0.6038290858268738,
+        14.19981861114502
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.382115364074707,
+        "occlusion_margin_m": 10.899356963644447
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.07007774710655212,
+        0.0034426990896463394
+      ],
+      "camera_projection": [
+        0.5677700638771057,
+        0.603112518787384,
+        14.200401306152344
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.2869246006011963,
+        "occlusion_margin_m": 10.994598866510085
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.07007774710655212,
+        -0.0034426990896463394
+      ],
+      "camera_projection": [
+        0.5677675604820251,
+        0.6023924946784973,
+        14.200923919677734
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.212796211242676,
+        "occlusion_margin_m": 11.068773070314977
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.06940285861492157,
+        -0.010294941253960133
+      ],
+      "camera_projection": [
+        0.5678048133850098,
+        0.6016759276390076,
+        14.201380729675293
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.149784803390503,
+        "occlusion_margin_m": 11.131824526548144
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.06805958598852158,
+        -0.01704803854227066
+      ],
+      "camera_projection": [
+        0.5678814649581909,
+        0.6009697318077087,
+        14.201766967773438
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.0973591804504395,
+        "occlusion_margin_m": 11.18428404603049
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0660608559846878,
+        -0.02363695576786995
+      ],
+      "camera_projection": [
+        0.5679966807365417,
+        0.6002806425094604,
+        14.202079772949219
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.055069923400879,
+        "occlusion_margin_m": 11.22660072128315
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0634259283542633,
+        -0.029998231679201126
+      ],
+      "camera_projection": [
+        0.5681495070457458,
+        0.5996153950691223,
+        14.202315330505371
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.0225534439086914,
+        "occlusion_margin_m": 11.259137876800484
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0601801723241806,
+        -0.03607060760259628
+      ],
+      "camera_projection": [
+        0.5683383345603943,
+        0.5989803075790405,
+        14.202471733093262
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.9995269775390625,
+        "occlusion_margin_m": 11.28217807802298
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.05635485425591469,
+        -0.04179561138153076
+      ],
+      "camera_projection": [
+        0.5685614347457886,
+        0.5983814597129822,
+        14.202547073364258
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.9861838817596436,
+        "occlusion_margin_m": 11.295527834896749
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.051986806094646454,
+        -0.04711809754371643
+      ],
+      "camera_projection": [
+        0.5688166618347168,
+        0.5978246331214905,
+        14.202542304992676
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 2.9907548427581787,
+        "occlusion_margin_m": 11.290956397598151
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.04711809381842613,
+        -0.051986806094646454
+      ],
+      "camera_projection": [
+        0.5691014528274536,
+        0.59731525182724,
+        14.202455520629883
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.0045080184936523,
+        "occlusion_margin_m": 11.277195612275772
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.04179561138153076,
+        -0.05635485053062439
+      ],
+      "camera_projection": [
+        0.5694131851196289,
+        0.5968580842018127,
+        14.202287673950195
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.0275626182556152,
+        "occlusion_margin_m": 11.254126342925774
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.03607061132788658,
+        -0.0601801760494709
+      ],
+      "camera_projection": [
+        0.5697488188743591,
+        0.5964576601982117,
+        14.202041625976562
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.0601179599761963,
+        "occlusion_margin_m": 11.221549413428317
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.029998231679201126,
+        -0.0634259283542633
+      ],
+      "camera_projection": [
+        0.5701051950454712,
+        0.5961176753044128,
+        14.201719284057617
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.1024575233459473,
+        "occlusion_margin_m": 11.179181551106979
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0236369539052248,
+        -0.0660608559846878
+      ],
+      "camera_projection": [
+        0.5704787373542786,
+        0.5958415865898132,
+        14.201323509216309
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.154944896697998,
+        "occlusion_margin_m": 11.126659441019894
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.01704803854227066,
+        -0.06805958598852158
+      ],
+      "camera_projection": [
+        0.5708659887313843,
+        0.5956318974494934,
+        14.200858116149902
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.218029260635376,
+        "occlusion_margin_m": 11.063534236334876
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.010294942185282707,
+        -0.06940285861492157
+      ],
+      "camera_projection": [
+        0.5712631940841675,
+        0.5954906940460205,
+        14.200326919555664
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.3020122051239014,
+        "occlusion_margin_m": 10.979504740912652
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        -0.0034426990896463394,
+        -0.07007774710655212
+      ],
+      "camera_projection": [
+        0.5716665387153625,
+        0.5954194068908691,
+        14.199736595153809
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.3988845348358154,
+        "occlusion_margin_m": 10.882580597770588
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0034426990896463394,
+        -0.07007774710655212
+      ],
+      "camera_projection": [
+        0.5720720887184143,
+        0.5954185724258423,
+        14.199091911315918
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.5088114738464355,
+        "occlusion_margin_m": 10.772597082203996
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.010294941253960133,
+        -0.06940285861492157
+      ],
+      "camera_projection": [
+        0.5724760293960571,
+        0.5954883694648743,
+        14.19839859008789
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.6326348781585693,
+        "occlusion_margin_m": 10.648712882938804
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.01704803854227066,
+        -0.06805958598852158
+      ],
+      "camera_projection": [
+        0.5728743672370911,
+        0.5956280827522278,
+        14.197664260864258
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.7712502479553223,
+        "occlusion_margin_m": 10.5100330850556
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.02363695576786995,
+        -0.0660608559846878
+      ],
+      "camera_projection": [
+        0.5732633471488953,
+        0.5958362817764282,
+        14.196895599365234
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 3.9255762100219727,
+        "occlusion_margin_m": 10.355639682418373
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.029998231679201126,
+        -0.0634259283542633
+      ],
+      "camera_projection": [
+        0.5736392736434937,
+        0.5961111187934875,
+        14.196099281311035
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.096523284912109,
+        "occlusion_margin_m": 10.1846228036143
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.03607060760259628,
+        -0.0601801723241806
+      ],
+      "camera_projection": [
+        0.5739983916282654,
+        0.5964499115943909,
+        14.195284843444824
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.295814514160156,
+        "occlusion_margin_m": 9.985260079819469
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.04179561138153076,
+        -0.05635485425591469
+      ],
+      "camera_projection": [
+        0.5743373036384583,
+        0.5968493819236755,
+        14.1944580078125
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.5157389640808105,
+        "occlusion_margin_m": 9.765263132849205
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.04711809754371643,
+        -0.051986806094646454
+      ],
+      "camera_projection": [
+        0.5746527314186096,
+        0.5973056554794312,
+        14.193628311157227
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 4.7544331550598145,
+        "occlusion_margin_m": 9.526496140520742
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.051986806094646454,
+        -0.04711809381842613
+      ],
+      "camera_projection": [
+        0.5749416947364807,
+        0.5978144407272339,
+        14.192803382873535
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.011559009552002,
+        "occlusion_margin_m": 9.269297881628862
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.05635485053062439,
+        -0.04179561138153076
+      ],
+      "camera_projection": [
+        0.5752013325691223,
+        0.5983707904815674,
+        14.19198989868164
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.286032199859619,
+        "occlusion_margin_m": 8.994753381132558
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0601801760494709,
+        -0.03607061132788658
+      ],
+      "camera_projection": [
+        0.5754292011260986,
+        0.5989693999290466,
+        14.191197395324707
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.575784206390381,
+        "occlusion_margin_m": 8.704931845432021
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0634259283542633,
+        -0.029998231679201126
+      ],
+      "camera_projection": [
+        0.5756229758262634,
+        0.5996044278144836,
+        14.190433502197266
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 5.87747859954834,
+        "occlusion_margin_m": 8.403170373694408
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.0660608559846878,
+        -0.0236369539052248
+      ],
+      "camera_projection": [
+        0.5757809281349182,
+        0.6002698540687561,
+        14.189703941345215
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 6.1862616539001465,
+        "occlusion_margin_m": 8.094323337368358
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.06805958598852158,
+        -0.01704803854227066
+      ],
+      "camera_projection": [
+        0.5759015083312988,
+        0.6009591817855835,
+        14.189017295837402
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 6.495561599731445,
+        "occlusion_margin_m": 7.784963122454718
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.06940285861492157,
+        -0.010294942185282707
+      ],
+      "camera_projection": [
+        0.575983464717865,
+        0.6016657948493958,
+        14.18837833404541
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 6.797006130218506,
+        "occlusion_margin_m": 7.483462616283932
+      }
+    },
+    {
+      "point": [
+        -15.729999542236328,
+        0.07007774710655212,
+        -0.0034426990896463394
+      ],
+      "camera_projection": [
+        0.5760260224342346,
+        0.6023829579353333,
+        14.187795639038086
+      ],
+      "blocked": true,
+      "first_occluder": {
+        "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+        "distance_m": 7.080594062805176,
+        "occlusion_margin_m": 7.19982354044657
+      }
+    }
+  ],
+  "limits": "Actual full native rim vertices and cap face centres checked; body held stationary. Projection alone is not visibility. Render inspection still required."
+}

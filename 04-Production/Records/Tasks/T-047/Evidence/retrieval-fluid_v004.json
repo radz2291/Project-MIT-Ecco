@@ -1,0 +1,5 @@
+{
+  "source": "CasedRetrieval_v003.blend",
+  "candidate": "CasedRetrieval_v004.blend",
+  "repair": "Restored accepted static optical fluid in retrieval context; camera/timing/source-scale unchanged. Static optical approximation, no circulation claim."
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "video": "04-Production/Records/Tasks/T-047/Previews/v012/CasedRetrieval_v012.mp4",
+    "sha256": "698fa8a756fe45cf23c53701c5ab2a424dc86c796ec2d881797f7c2deab9d4b4",
+    "bytes": 301889,
+    "source_native": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+    "source_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+    "fps": 24,
+    "frames": 96,
+    "duration_s": 4,
+    "decoded_nonblank": true,
+    "distinct_decoded_frames": 96,
+    "review": "All96frames decoded nonblank at1280x720. Executor inspected chronological decoded Retrieval1/48/96 and Support12/18/26/56/76/96; condition response/pulse/retrieval order read. Human appearance/comprehension remains Radzi review."
+  },
+  {
+    "video": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_v012.mp4",
+    "sha256": "688cc2cbb71464ea8116a97b3c02a1d0f2054f8cdbf488f5739fd42332393abb",
+    "bytes": 308077,
+    "source_native": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+    "source_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+    "fps": 24,
+    "frames": 96,
+    "duration_s": 4,
+    "decoded_nonblank": true,
+    "distinct_decoded_frames": 96,
+    "review": "All96frames decoded nonblank at1280x720. Executor inspected chronological decoded Retrieval1/48/96 and Support12/18/26/56/76/96; condition response/pulse/retrieval order read. Human appearance/comprehension remains Radzi review."
+  }
+]

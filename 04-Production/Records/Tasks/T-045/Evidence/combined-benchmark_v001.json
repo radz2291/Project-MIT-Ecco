@@ -1,0 +1,53 @@
+{
+  "scene": "04-Production/Records/Tasks/T-045/Scenes/OpenFlowSensing_v001.blend",
+  "native_sha256": "6d0336c9dfaf98fe1f26bd4722f53b9d8b262817965ffa505cf92268e9e6d01d",
+  "samples": [
+    {
+      "frame": 1,
+      "seconds": 1.9135213999979896,
+      "under_5": true,
+      "path": "04-Production/Records/Tasks/T-045/Previews/OpenFlowSensing_f001_v001.png"
+    },
+    {
+      "frame": 12,
+      "seconds": 0.6483319000035408,
+      "under_5": true,
+      "path": "04-Production/Records/Tasks/T-045/Previews/OpenFlowSensing_f012_v001.png"
+    },
+    {
+      "frame": 17,
+      "seconds": 0.7304989000040223,
+      "under_5": true,
+      "path": "04-Production/Records/Tasks/T-045/Previews/OpenFlowSensing_f017_v001.png"
+    },
+    {
+      "frame": 24,
+      "seconds": 0.7012103000015486,
+      "under_5": true,
+      "path": "04-Production/Records/Tasks/T-045/Previews/OpenFlowSensing_f024_v001.png"
+    },
+    {
+      "frame": 36,
+      "seconds": 0.7119319999983418,
+      "under_5": true,
+      "path": "04-Production/Records/Tasks/T-045/Previews/OpenFlowSensing_f036_v001.png"
+    },
+    {
+      "frame": 72,
+      "seconds": 0.6978630000012345,
+      "under_5": true,
+      "path": "04-Production/Records/Tasks/T-045/Previews/OpenFlowSensing_f072_v001.png"
+    }
+  ],
+  "resolution": [
+    1280,
+    720
+  ],
+  "samples_eevee": 16,
+  "compositor": false,
+  "color": [
+    "AgX",
+    "AgX - Medium High Contrast"
+  ],
+  "cache": "Normal existing driver cache; full first-process render included; empty-cache T44 limitation unresolved"
+}

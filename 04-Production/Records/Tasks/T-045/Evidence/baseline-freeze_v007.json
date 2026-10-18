@@ -1,0 +1,135 @@
+{
+  "task": "T45",
+  "accepted_source_commit": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "manifest_sha256": "b6fa88acfb3ccf9bedbf8fb75c87b9c283715087002b8739ea92b46a3cfc2f69",
+  "baseline": [
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+      "expected_sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "actual_sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "bytes": 103695,
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v003.blend",
+      "expected_sha256": "fcb4d066f76b227d21045ad931de212bd82e987e7693a72bd9b047097d8f8081",
+      "actual_sha256": "fcb4d066f76b227d21045ad931de212bd82e987e7693a72bd9b047097d8f8081",
+      "bytes": 92300,
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/furthest_uphole_v002.blend",
+      "expected_sha256": "c95e4dcd30cc848fd87c83ab7723fabe5eca36c11a46af3229a9177b4426321e",
+      "actual_sha256": "c95e4dcd30cc848fd87c83ab7723fabe5eca36c11a46af3229a9177b4426321e",
+      "bytes": 92332,
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_A_continuity_v002.blend",
+      "expected_sha256": "3603be6bfb5a715659350efe0d18af10f42fdfcf0c286b6ff86b3b66f6586f97",
+      "actual_sha256": "3603be6bfb5a715659350efe0d18af10f42fdfcf0c286b6ff86b3b66f6586f97",
+      "bytes": 92016,
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_B_continuity_v002.blend",
+      "expected_sha256": "23f97d97487eaee0b9b48c6e89bafe7c7eed05d2dd33ea60ea965746035c54c8",
+      "actual_sha256": "23f97d97487eaee0b9b48c6e89bafe7c7eed05d2dd33ea60ea965746035c54c8",
+      "bytes": 92032,
+      "pass": true
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "bytes": 18275711,
+      "pass": true,
+      "role": "frozen_nested_dependency"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+      "sha256": "731d7dfed6e7d91ae74c05503005f43b996e98caa0120b24ad0def97ea612ac4",
+      "bytes": 1255854,
+      "pass": true,
+      "role": "frozen_nested_dependency"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+      "sha256": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556",
+      "bytes": 1214774,
+      "pass": true,
+      "role": "frozen_nested_dependency"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Surface/Surface_context_v003.blend",
+      "sha256": "a68823658495ba09ca626167a3c12042ffc825cfdcde3fffd616df23a4b64aa5",
+      "bytes": 354156,
+      "pass": true,
+      "role": "frozen_nested_dependency"
+    },
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "expected_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "actual_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "pass": true,
+      "role": "preserved_predecessor"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "expected_sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "actual_sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "pass": true,
+      "role": "preserved_predecessor"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_detail_cleanup_v010.blend",
+      "expected_sha256": "314160f5af0d75aa79cde9eafd615d8d8ff8256822b6959e122c722a3a68be9c",
+      "actual_sha256": "314160f5af0d75aa79cde9eafd615d8d8ff8256822b6959e122c722a3a68be9c",
+      "pass": true,
+      "role": "preserved_predecessor"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/BHA_face_cleanup_v010.blend",
+      "expected_sha256": "bc7e6f8acba88a4c169bb4c603e06744d5d0675ee8f89a6cf28c5541aea5915d",
+      "actual_sha256": "bc7e6f8acba88a4c169bb4c603e06744d5d0675ee8f89a6cf28c5541aea5915d",
+      "pass": true,
+      "role": "preserved_predecessor"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/layers_cleanup_v010.blend",
+      "expected_sha256": "c66ffe89520f11200734b9cda05eb336c3822043ce8154a3884446dc95a0a987",
+      "actual_sha256": "c66ffe89520f11200734b9cda05eb336c3822043ce8154a3884446dc95a0a987",
+      "pass": true,
+      "role": "preserved_predecessor"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_A_cleanup_v010.blend",
+      "expected_sha256": "5b97e498582b50f7b24492d97fe8c87b416220ec31412ff4e3a6461cd7cb6031",
+      "actual_sha256": "5b97e498582b50f7b24492d97fe8c87b416220ec31412ff4e3a6461cd7cb6031",
+      "pass": true,
+      "role": "preserved_predecessor"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/downhole_B_cleanup_v010.blend",
+      "expected_sha256": "f14c4fe5ce26de2313d0be005f81e9f60a45d16e17e3321a4ad676b918aa7442",
+      "actual_sha256": "f14c4fe5ce26de2313d0be005f81e9f60a45d16e17e3321a4ad676b918aa7442",
+      "pass": true,
+      "role": "preserved_predecessor"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_A_cleanup_v010.blend",
+      "expected_sha256": "8b0da06df9c251379750c690ac7b5b066fa75a485fa164b0ea8da60bd48f66e0",
+      "actual_sha256": "8b0da06df9c251379750c690ac7b5b066fa75a485fa164b0ea8da60bd48f66e0",
+      "pass": true,
+      "role": "preserved_predecessor"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v006/Scenes/Reuse_B_cleanup_v010.blend",
+      "expected_sha256": "48550cc72d1c57d43af1da9958e435107d31bb056a1022bfd55fb8199906d901",
+      "actual_sha256": "48550cc72d1c57d43af1da9958e435107d31bb056a1022bfd55fb8199906d901",
+      "pass": true,
+      "role": "preserved_predecessor"
+    }
+  ],
+  "baseline_pass": true,
+  "storage": "Native files local/Git-ignored; no off-machine backup established"
+}

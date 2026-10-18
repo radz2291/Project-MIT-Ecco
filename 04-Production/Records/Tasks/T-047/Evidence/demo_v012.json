@@ -1,0 +1,1559 @@
+{
+  "mode": "demo",
+  "granted_slot": "T47-FINAL-02",
+  "samples": [
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f001_v012.png",
+      "seconds": 1.4580275000043912,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 2,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f002_v012.png",
+      "seconds": 0.593001400004141,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 3,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f003_v012.png",
+      "seconds": 0.5727943000019877,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 4,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f004_v012.png",
+      "seconds": 0.5266937000051257,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 5,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f005_v012.png",
+      "seconds": 0.5151986999990186,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 6,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f006_v012.png",
+      "seconds": 0.5558814999967581,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 7,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f007_v012.png",
+      "seconds": 0.505562699996517,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 8,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f008_v012.png",
+      "seconds": 0.6258989000052679,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 9,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f009_v012.png",
+      "seconds": 0.6089310000024852,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 10,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f010_v012.png",
+      "seconds": 0.5420751999990898,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 11,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f011_v012.png",
+      "seconds": 0.5175499999968451,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 12,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f012_v012.png",
+      "seconds": 0.5460104000012507,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 13,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f013_v012.png",
+      "seconds": 0.5922371999986353,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 14,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f014_v012.png",
+      "seconds": 0.525547600002028,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 15,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f015_v012.png",
+      "seconds": 0.5315166000000318,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 16,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f016_v012.png",
+      "seconds": 0.5656884999989416,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 17,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f017_v012.png",
+      "seconds": 0.5146295000013197,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 18,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f018_v012.png",
+      "seconds": 0.5290943999934825,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 19,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f019_v012.png",
+      "seconds": 0.8152002999995602,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 20,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f020_v012.png",
+      "seconds": 0.5276950000043144,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 21,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f021_v012.png",
+      "seconds": 0.49922190000506816,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 22,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f022_v012.png",
+      "seconds": 0.5486611000014818,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 23,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f023_v012.png",
+      "seconds": 0.520252000002074,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 24,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f024_v012.png",
+      "seconds": 0.5334653000027174,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 25,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f025_v012.png",
+      "seconds": 0.5083902999976999,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 26,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f026_v012.png",
+      "seconds": 0.5147025999976904,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 27,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f027_v012.png",
+      "seconds": 0.5618379000006826,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 28,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f028_v012.png",
+      "seconds": 0.5069894999978715,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 29,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f029_v012.png",
+      "seconds": 0.5015643000006094,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 30,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f030_v012.png",
+      "seconds": 0.5238754000019981,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 31,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f031_v012.png",
+      "seconds": 0.5375602999993134,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 32,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f032_v012.png",
+      "seconds": 0.5210566000023391,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 33,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f033_v012.png",
+      "seconds": 0.4904556000037701,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 34,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f034_v012.png",
+      "seconds": 0.5393622999981744,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 35,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f035_v012.png",
+      "seconds": 0.5245880000002217,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 36,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f036_v012.png",
+      "seconds": 0.52051819999906,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 37,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f037_v012.png",
+      "seconds": 0.5529632999969181,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 38,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f038_v012.png",
+      "seconds": 0.5546122999949148,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 39,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f039_v012.png",
+      "seconds": 0.6025287000011303,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 40,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f040_v012.png",
+      "seconds": 0.5055862000008347,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 41,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f041_v012.png",
+      "seconds": 0.48255760000029113,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 42,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f042_v012.png",
+      "seconds": 0.5445161000025109,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 43,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f043_v012.png",
+      "seconds": 0.5440242000040598,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 44,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f044_v012.png",
+      "seconds": 0.5250551999997697,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 45,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f045_v012.png",
+      "seconds": 0.4867778999978327,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 46,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f046_v012.png",
+      "seconds": 0.49471709999488667,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 47,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f047_v012.png",
+      "seconds": 0.5193212000012863,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 48,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f048_v012.png",
+      "seconds": 0.487057400001504,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 49,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f049_v012.png",
+      "seconds": 0.5260533999971813,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 50,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f050_v012.png",
+      "seconds": 0.49632890000066254,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 51,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f051_v012.png",
+      "seconds": 0.5272206000008737,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 52,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f052_v012.png",
+      "seconds": 0.512244900004589,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 53,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f053_v012.png",
+      "seconds": 0.4598601999969105,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 54,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f054_v012.png",
+      "seconds": 0.5206887999956962,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 55,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f055_v012.png",
+      "seconds": 0.4898705000014161,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 56,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f056_v012.png",
+      "seconds": 0.48101150000002235,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 57,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f057_v012.png",
+      "seconds": 0.5149707999953534,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 58,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f058_v012.png",
+      "seconds": 0.4910489999965648,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 59,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f059_v012.png",
+      "seconds": 0.5444971999968402,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 60,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f060_v012.png",
+      "seconds": 0.4843187000005855,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 61,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f061_v012.png",
+      "seconds": 0.487316999999166,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 62,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f062_v012.png",
+      "seconds": 0.5309944999971776,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 63,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f063_v012.png",
+      "seconds": 0.4987992000023951,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 64,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f064_v012.png",
+      "seconds": 0.5263974999979837,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 65,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f065_v012.png",
+      "seconds": 0.5996808000054443,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 66,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f066_v012.png",
+      "seconds": 0.6668696999986423,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 67,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f067_v012.png",
+      "seconds": 0.5003260000012233,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 68,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f068_v012.png",
+      "seconds": 0.5600191999983508,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 69,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f069_v012.png",
+      "seconds": 0.5104337000011583,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 70,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f070_v012.png",
+      "seconds": 0.5115024000042467,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 71,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f071_v012.png",
+      "seconds": 0.5120432999974582,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 72,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f072_v012.png",
+      "seconds": 0.5190876999986358,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 73,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f073_v012.png",
+      "seconds": 0.5475936000002548,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 74,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f074_v012.png",
+      "seconds": 0.5456945000041742,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 75,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f075_v012.png",
+      "seconds": 0.5626722000015434,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 76,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f076_v012.png",
+      "seconds": 0.6295437000007951,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 77,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f077_v012.png",
+      "seconds": 0.8027328000025591,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 78,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f078_v012.png",
+      "seconds": 0.5243504000027315,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 79,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f079_v012.png",
+      "seconds": 0.49204199999803677,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 80,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f080_v012.png",
+      "seconds": 0.5032085999991978,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 81,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f081_v012.png",
+      "seconds": 0.516941299996688,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 82,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f082_v012.png",
+      "seconds": 0.564022999998997,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 83,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f083_v012.png",
+      "seconds": 0.5393917000037618,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 84,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f084_v012.png",
+      "seconds": 0.5101825000019744,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 85,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f085_v012.png",
+      "seconds": 0.5901879000011832,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 86,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f086_v012.png",
+      "seconds": 0.5608710999949835,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 87,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f087_v012.png",
+      "seconds": 0.5344273000009707,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 88,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f088_v012.png",
+      "seconds": 0.5566976999980398,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 89,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f089_v012.png",
+      "seconds": 0.5328624000030686,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 90,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f090_v012.png",
+      "seconds": 0.5830597999956808,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 91,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f091_v012.png",
+      "seconds": 0.48371140000381274,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 92,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f092_v012.png",
+      "seconds": 0.6364106000037282,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 93,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f093_v012.png",
+      "seconds": 0.7278217999992194,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 94,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f094_v012.png",
+      "seconds": 0.5321194999996806,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 95,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f095_v012.png",
+      "seconds": 0.5353261999989627,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "native_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "frame": 96,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Retrieval/CasedRetrieval_f096_v012.png",
+      "seconds": 0.5427988000010373,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f001_v012.png",
+      "seconds": 0.6624674000049708,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 2,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f002_v012.png",
+      "seconds": 0.626431999997294,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 3,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f003_v012.png",
+      "seconds": 0.6165286000032211,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 4,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f004_v012.png",
+      "seconds": 0.6342494999989867,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 5,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f005_v012.png",
+      "seconds": 0.5686072000025888,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 6,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f006_v012.png",
+      "seconds": 0.5849940000043716,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 7,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f007_v012.png",
+      "seconds": 0.5618362999957753,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 8,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f008_v012.png",
+      "seconds": 0.6044062000000849,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 9,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f009_v012.png",
+      "seconds": 0.5795697999928962,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 10,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f010_v012.png",
+      "seconds": 0.5810219999984838,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 11,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f011_v012.png",
+      "seconds": 0.5955573999963235,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 12,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f012_v012.png",
+      "seconds": 0.6269537000043783,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 13,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f013_v012.png",
+      "seconds": 0.5821262000026763,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 14,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f014_v012.png",
+      "seconds": 0.6451375000033295,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 15,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f015_v012.png",
+      "seconds": 0.5834216000002925,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 16,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f016_v012.png",
+      "seconds": 0.5870017999986885,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 17,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f017_v012.png",
+      "seconds": 0.5665174000023399,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 18,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f018_v012.png",
+      "seconds": 0.5738617000024533,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 19,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f019_v012.png",
+      "seconds": 0.576950200003921,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 20,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f020_v012.png",
+      "seconds": 0.5872056000007433,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 21,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f021_v012.png",
+      "seconds": 0.6438039999993634,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 22,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f022_v012.png",
+      "seconds": 0.6910769999958575,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 23,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f023_v012.png",
+      "seconds": 0.6237771999949473,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 24,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f024_v012.png",
+      "seconds": 0.6305692000023555,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 25,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f025_v012.png",
+      "seconds": 0.6177536000031978,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 26,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f026_v012.png",
+      "seconds": 0.5972615999999107,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 27,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f027_v012.png",
+      "seconds": 0.5877707000036025,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 28,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f028_v012.png",
+      "seconds": 0.6478203000006033,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 29,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f029_v012.png",
+      "seconds": 0.608536700005061,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 30,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f030_v012.png",
+      "seconds": 0.5824237999986508,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 31,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f031_v012.png",
+      "seconds": 0.580599600005371,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 32,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f032_v012.png",
+      "seconds": 0.6381731000001309,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 33,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f033_v012.png",
+      "seconds": 0.6089366000014707,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 34,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f034_v012.png",
+      "seconds": 0.6911261000059312,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 35,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f035_v012.png",
+      "seconds": 0.609875699999975,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 36,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f036_v012.png",
+      "seconds": 0.6856177999943611,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 37,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f037_v012.png",
+      "seconds": 0.6741840999966371,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 38,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f038_v012.png",
+      "seconds": 0.6482249999971827,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 39,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f039_v012.png",
+      "seconds": 0.6224531999978353,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 40,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f040_v012.png",
+      "seconds": 0.6660768000001553,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 41,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f041_v012.png",
+      "seconds": 0.5818042000028072,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 42,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f042_v012.png",
+      "seconds": 0.6106476999993902,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 43,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f043_v012.png",
+      "seconds": 0.6143026999998256,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 44,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f044_v012.png",
+      "seconds": 0.637045900002704,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 45,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f045_v012.png",
+      "seconds": 0.6325846000036108,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 46,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f046_v012.png",
+      "seconds": 0.6712527999989106,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 47,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f047_v012.png",
+      "seconds": 0.628792200004682,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 48,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f048_v012.png",
+      "seconds": 0.6786859999992885,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 49,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f049_v012.png",
+      "seconds": 0.7873908999972627,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 50,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f050_v012.png",
+      "seconds": 0.8029335000028368,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 51,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f051_v012.png",
+      "seconds": 0.8432014999998501,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 52,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f052_v012.png",
+      "seconds": 0.8323804999963613,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 53,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f053_v012.png",
+      "seconds": 0.7503381999995327,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 54,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f054_v012.png",
+      "seconds": 0.687612599998829,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 55,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f055_v012.png",
+      "seconds": 0.6353218000003835,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 56,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f056_v012.png",
+      "seconds": 0.6340268999992986,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 57,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f057_v012.png",
+      "seconds": 0.6593126000007032,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 58,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f058_v012.png",
+      "seconds": 0.6196906999975909,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 59,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f059_v012.png",
+      "seconds": 0.5751829000000726,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 60,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f060_v012.png",
+      "seconds": 0.602316200005589,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 61,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f061_v012.png",
+      "seconds": 0.5796817000009469,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 62,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f062_v012.png",
+      "seconds": 0.6271945999978925,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 63,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f063_v012.png",
+      "seconds": 0.5746622000006028,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 64,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f064_v012.png",
+      "seconds": 0.5902244000026258,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 65,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f065_v012.png",
+      "seconds": 0.5538019999949029,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 66,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f066_v012.png",
+      "seconds": 0.7160500999962096,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 67,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f067_v012.png",
+      "seconds": 0.5484960000030696,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 68,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f068_v012.png",
+      "seconds": 0.59913200000301,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 69,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f069_v012.png",
+      "seconds": 0.5964889000024414,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 70,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f070_v012.png",
+      "seconds": 0.7562363999968511,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 71,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f071_v012.png",
+      "seconds": 0.5805168000006233,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 72,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f072_v012.png",
+      "seconds": 0.8400295000028564,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 73,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f073_v012.png",
+      "seconds": 0.6868675000005169,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 74,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f074_v012.png",
+      "seconds": 0.6161720000018249,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 75,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f075_v012.png",
+      "seconds": 0.6193702000018675,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 76,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f076_v012.png",
+      "seconds": 0.6369431000057375,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 77,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f077_v012.png",
+      "seconds": 0.600036399999226,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 78,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f078_v012.png",
+      "seconds": 0.6238154999955441,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 79,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f079_v012.png",
+      "seconds": 0.6129976999945939,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 80,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f080_v012.png",
+      "seconds": 0.6261559999984456,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 81,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f081_v012.png",
+      "seconds": 0.5895106000025407,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 82,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f082_v012.png",
+      "seconds": 0.6232204999978421,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 83,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f083_v012.png",
+      "seconds": 0.6508427000007941,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 84,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f084_v012.png",
+      "seconds": 0.7205697999961558,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 85,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f085_v012.png",
+      "seconds": 0.6237614000056055,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 86,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f086_v012.png",
+      "seconds": 0.6129693999973824,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 87,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f087_v012.png",
+      "seconds": 0.5985724999991362,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 88,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f088_v012.png",
+      "seconds": 0.6207930000018678,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 89,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f089_v012.png",
+      "seconds": 0.5936168000043835,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 90,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f090_v012.png",
+      "seconds": 0.6115172999998322,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 91,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f091_v012.png",
+      "seconds": 0.5812434000035864,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 92,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f092_v012.png",
+      "seconds": 0.635623799993482,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 93,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f093_v012.png",
+      "seconds": 0.598309100001643,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 94,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f094_v012.png",
+      "seconds": 0.6667214999979478,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 95,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f095_v012.png",
+      "seconds": 0.5964342000006582,
+      "under_5": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "native_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "frame": 96,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v012/Frames/Support/CasedSupport_f096_v012.png",
+      "seconds": 0.6247494000053848,
+      "under_5": true
+    }
+  ],
+  "all_under_5": true,
+  "settings": {
+    "resolution": [
+      1280,
+      720
+    ],
+    "fps": 24,
+    "engine": "EEVEE",
+    "samples": 16,
+    "backend": "VULKAN",
+    "color": "AgX Medium High Contrast",
+    "compositor": false
+  },
+  "machine": "DESKTOP-46SO266",
+  "measurement": "Whole render(write_still=True) call including written PNG; process/file load excluded. No warmup render.",
+  "cache": "Normal existing driver disk caches. Prior T44 empty-cache initialization12.55\u201325.13s remains unresolved; no universal cold-machine claim.",
+  "concurrency": "Serialized T47-FINAL-02 render grant; no other native jobs announced while rendering. Documentation edits only by T47; no secondary T47 background process."
+}

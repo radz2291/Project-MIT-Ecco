@@ -1,0 +1,53 @@
+{
+  "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedLayerSection_v011.blend",
+  "sha256": "28f26599883e51a57b21dd4c4382382a7f6284ec4dc7454955e4fa93eea3a086",
+  "section_x_m": -1.5,
+  "extraction": [
+    {
+      "source_mesh": "CASED_STEEL_NOMINAL_FULL",
+      "source_hash": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "source_x_bounds_m": [
+        -5.5,
+        0.0
+      ],
+      "angular_points": 97,
+      "extracted_vertices": 194,
+      "material": "CASED_SATIN_STEEL"
+    },
+    {
+      "source_mesh": "CASED_CEMENT_LEFT_FULL",
+      "source_hash": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "source_x_bounds_m": [
+        -2.5,
+        -0.4000000059604645
+      ],
+      "angular_points": 30,
+      "extracted_vertices": 60,
+      "material": "CASED_CEMENT"
+    },
+    {
+      "source_mesh": "CASED_CEMENT_RIGHT_FULL",
+      "source_hash": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "source_x_bounds_m": [
+        -2.5,
+        -0.4000000059604645
+      ],
+      "angular_points": 61,
+      "extracted_vertices": 122,
+      "material": "CASED_CEMENT"
+    },
+    {
+      "source_mesh": "CASED_EXTERIOR_CHANNEL_FULL",
+      "source_hash": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "source_x_bounds_m": [
+        -2.5,
+        -0.4000000059604645
+      ],
+      "angular_points": 9,
+      "extracted_vertices": 18,
+      "material": "CASED_CHANNEL_UNCLASSIFIED"
+    }
+  ],
+  "source_scale": 1,
+  "limits": "Actual authored static condition section: steel inside cement/blue gap. Tool/fluid/formation omitted for inspection; no chemistry or flow inferred."
+}

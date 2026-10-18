@@ -1,0 +1,32 @@
+{
+  "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v010.blend",
+  "far_rim_vertex_and_facecentre_samples": 259,
+  "projected_samples": 0,
+  "unoccluded_samples": 0,
+  "all_projected_samples_occluded": true,
+  "rays": [],
+  "actual_cap_contact_rays": [
+    {
+      "event_id": "t47-cased-native-01",
+      "target": "cap",
+      "occluders": []
+    },
+    {
+      "event_id": "t47-cased-native-01",
+      "target": "contact",
+      "occluders": []
+    },
+    {
+      "event_id": "t47-cased-native-02",
+      "target": "cap",
+      "occluders": []
+    },
+    {
+      "event_id": "t47-cased-native-02",
+      "target": "contact",
+      "occluders": []
+    }
+  ],
+  "cap_contact_all_clear": true,
+  "limits": "Actual full native rim vertices and cap face centres checked; body held stationary. Projection alone is not visibility. Render inspection still required."
+}

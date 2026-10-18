@@ -1,0 +1,44 @@
+# Flow independent verdict — PASS_WITH_LIMITS
+
+18 October 2026. Fresh-context T45 verifier, separate from the T48 builder and master integrator. This is a bounded technical verification of the frozen Flow candidate, not ticket acceptance. No corrective defect requiring a builder revision was found.
+
+Candidate commit: `974f138a9634965254dd58ca8a6cb30fb623bfde`. Local HEAD, origin/main and a fresh `git ls-remote origin refs/heads/main` agreed with this SHA. All 62 committed Hydraulics/T048 files match the working copy: 26 byte-for-byte; 36 text files differ only in CRLF/LF. The native/media identity checks cover exact bytes and sizes, independently of text normalization.
+
+| Exact local native | SHA256 |
+|---|---|
+| `04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend` | `e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c` |
+| `04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v006.blend` | `24813e95903c38ba6d7dd24badc4f1ae0f2f09b19cd76c3de6b699b90218a4ab` |
+| `04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v006.blend` | `463c7acc16eed27476eaa8de8d126e288c1fef2adfd494ae83d5e957807531aa` |
+
+All 12 native/dependency/still/video entries in manifest v002 match SHA256 and size. The demo is local `04-Production/Records/Tasks/T-048/Previews/Revision_v007/Hydraulics_behavior_B_v007.mp4`, SHA256 `1083449ff1ea54fb94b79ade3e1db149b6c7dd36082aaf5f1b69915ba6d565b8`. Root: `C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco`. No remote native/video access or backup was established.
+
+## What was independently checked
+
+Read current AGENTS/production lifecycle, live T45/T48 handoffs (T43/T44 dependencies Done), engineering limits, source maps, T43 controlling flow direction, the exact candidate's report/manifest/interface/scripts and current verification/performance evidence. Git object contents were read directly for working-copy correspondence. Only this verifier's directory was written; no Git, Work, live Blender or shared native mutations occurred.
+
+An isolated Blender 5.2.2/Vulkan process freshly opened both v005 predecessors and both exact v006 consumers with scripts disabled. The verifier imports no builder verification functions. It compares actual camera/lens/timing/keyframes/old local controls against the preserved predecessor, checks linked geometry and active local control behavior, and recomputes the clearance proof with independently written clipping and radial-extrema functions. No rendering was performed.
+
+- Both v006 consumers preserve their respective predecessor camera, 72/96-frame timing, 24 fps, camera animation and prior controls. Distinct local settings remain A phase0/speed0.16/density10 and B phase0.21/speed0.12/density7. All ten paths, thirty cuttings and twenty dashes use linked Hydraulics v003 data. Density, independent visibility, phase, zero-speed freeze, mode-off and every emphasis state pass direct evaluated control probes. All continuous paths span all three neutral windows and remain active during emphasis; no sequential region activation was found.
+- Direct BHA v007 and its nested immutable v006 resolve through relative links, alongside the exact ECCO v002 and environment v009 dependencies. There is one evaluated ECCO housing, 135 visible base hardware meshes, one extension and one joint. Extension and joint parent to the existing hardware instance. The retained CAD conversion is actually `0.0010000000474974513` on each source axis, not an assumed metre-scale source mesh. Its transformed axial length is `2.4000000953674316 m`; source vertex hash is `8fdbba227e8c46a9520e1cc8fb4cd270d6486ed0a58781efea5f7ee2116ebc9b`. The common assembly frame has unit scale/determinant, and every one of A72/B96 frames preserves housing = rigid assembly × original CAD basis and flow = rigid assembly.
+- The complete finite support slab is `[0.1939990625, 2.2060010477] m`, derived from actual path nodes plus axial shape support and the numerical guard. Every relevant triangle is considered by recursive collection provenance and clipped to the slab, including faces whose original vertices are outside it. The synthetic crossing-face witness passes. These particular native sources contain zero actual faces with all three endpoints outside yet crossing the slab; that case is therefore covered by the regression witness and algorithm, not misrepresented as an observed source feature.
+- Hardware radius is at most `0.1524000771 m` in the slab. The verifier computes the wall's radial minimum from **all** clipped NOMINAL_CUTAWAY/FORMATION_NOMINAL_CUTAWAY triangles and projected edge/polygon minima, without the builder's face-normal heuristic. The actual lower wall radius is `0.1555541634 m`. Combined finite shape/path support lies in radial interval `[0.1532984192, 0.1547010077] m`; with a further 1 micrometre guard, conservative clearances are **0.897342 mm hardware / 0.852156 mm wall**. These agree with the claimed rounded bounds. All 50,400 moving finite vertices across 168 frames stay within that support interval; nonuniform rotation/overscaling is excluded by evaluated transform checks. No source enlargement or arbitrary hardware pose is used to obtain the pass.
+- Full independent FFmpeg decode completes without errors: 96 distinct RGB frames, 1280×720, 24 fps, 4 seconds, H.264/yuv420p, no audio. Every recorded six-sample and 96-frame render output hash matches its actual file. Recorded sample full-write times are 0.722–1.914 s and all96 batch times are 0.612–1.644 s (68.654527 s summed). This checks the recorded operations and outputs; it is not a new independent timing measurement.
+- Visually inspected the actual A36 still, full-size independently decoded B48/B96, and ordered nine-frame decoded chronology. The hardware/wall relationship and thin continuous amber language remain coherent across those frames. The camera change is apparent. Matte cuttings and directional dashes are subtle; I cannot establish cold-viewer direction, three-region comprehension or moving cuttings readability from this inspection. No such appearance approval is granted.
+
+## Limits and next handoff
+
+PASS_WITH_LIMITS applies only to the declared centred nominal circulation-only pose, travel0.5m/spin0, current hardware/environment and exact linked candidates. New bores, eccentricity, source scaling, hardware or motion require affected checks. This is geometric display clearance, not CFD, calibrated speed/pressure, particle-transport validity, stage-function identity, physical end qualification or engineering approval. The neutral morphological-region treatment is consistent with the unresolved source mapping; feature-specific hydraulic labels remain unreleased.
+
+Normal existing GPU caches were retained for the recorded renders. The disclosed 12.55–25.13 s empty-cache startup remains unresolved, so there is no universal cold-machine <5s claim. No fresh render was needed or performed during this verification. The full video was decoded and sampled visually; no real-time full-motion human comprehension pass is claimed. Radzi still reviews moving readability/appearance, accepts tickets and assembles the film. No actual movie shot or film assembly was verified.
+
+No FIX_REQUIRED item. Integrator may attach this verdict to the exact Flow candidate review while retaining these limits. Only the integrator commits/pushes the verifier evidence and records its containing commit separately.
+
+## Evidence and reproducibility
+
+- `identity-media-check_v001.json`: 62 candidate comparisons, all manifest hashes, fresh remote read, all96 output hashes/timings, full decode and all raw-frame hashes.
+- `native-check_v001.json`: exact candidates/predecessors, matrices/units, relative dependency lineage/hashes, every hardware/wall record, independent bounds, all-frame counts and control probes.
+- `verify_flow_native_v001.py`, `verify_identity_media_v001.py`: independent read-only checks; output destination is this directory.
+- `decoded-chronology_v001.jpg`, `decoded_B_{001,048,096}_v001.png`: decoded visual evidence, local inspection outputs.
+- `native-run_v002.log`: completed `INDEPENDENT_FLOW_NATIVE_PASS`. Initial harness run `native-run_v001.log`/`native-failure_v001.txt` is retained: it attempted to retain Blender's ephemeral DepsgraphObjectInstance outside its iterator. Copying matrices inside iteration repaired the verifier. This was a harness error, not a candidate defect; the complete rerun passed.
+
+Native command: explicit `C:/Program Files/Blender Foundation/Blender 5.2/blender.exe`, `--background --gpu-backend vulkan --factory-startup --python <this directory>/verify_flow_native_v001.py`. Identity/media command: bundled Python executing `verify_identity_media_v001.py`. Both use the repository root as working directory. No render or native save operation appears in either verifier.

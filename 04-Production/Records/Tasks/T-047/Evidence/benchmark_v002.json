@@ -1,0 +1,46 @@
+{
+  "samples": [
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_A_v002.blend",
+      "frame": 1,
+      "seconds": 1.8404032000034931,
+      "under_5": true,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v001/CasedReuse_A_f001_v002.png"
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_A_v002.blend",
+      "frame": 48,
+      "seconds": 0.6695464000003994,
+      "under_5": true,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v001/CasedReuse_A_f048_v002.png"
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_B_v002.blend",
+      "frame": 1,
+      "seconds": 0.4675268999999389,
+      "under_5": true,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v001/CasedReuse_B_f001_v002.png"
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_B_v002.blend",
+      "frame": 48,
+      "seconds": 0.41583209999953397,
+      "under_5": true,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v001/CasedReuse_B_f048_v002.png"
+    }
+  ],
+  "settings": {
+    "engine": "BLENDER_EEVEE",
+    "backend": "VULKAN",
+    "samples": 16,
+    "resolution": [
+      1280,
+      720
+    ],
+    "fps": 24,
+    "color": "AgX Medium High Contrast",
+    "compositor": false
+  },
+  "cache": "Normal pre-existing GPU driver caches; no warmup render. Known T44 empty-cache initialization12.55\u201325.13s remains unresolved. Process/file load excluded.",
+  "machine": "DESKTOP-46SO266"
+}

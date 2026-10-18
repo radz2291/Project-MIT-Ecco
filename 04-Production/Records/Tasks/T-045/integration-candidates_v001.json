@@ -1,0 +1,10 @@
+{
+  "upstream_commit": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "status": "Released successors for master integration proof",
+  "ready": true,
+  "flow_consumer": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v006.blend",
+  "flow_sha256": "24813e95903c38ba6d7dd24badc4f1ae0f2f09b19cd76c3de6b699b90218a4ab",
+  "cased_consumer": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v010.blend",
+  "cased_sha256": "70fa0c48359c2ad4e992ab708350c1aaf066f8c05abf73778f7016f092a44007",
+  "acoustics_version": "v003"
+}

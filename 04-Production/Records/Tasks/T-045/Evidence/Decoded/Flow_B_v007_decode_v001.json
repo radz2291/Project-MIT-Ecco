@@ -1,0 +1,50 @@
+{
+  "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Previews\\Revision_v007\\Hydraulics_behavior_B_v007.mp4",
+  "sha256": "1083449ff1ea54fb94b79ade3e1db149b6c7dd36082aaf5f1b69915ba6d565b8",
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, unknown/bt709/iec61966-2-1, progressive)",
+    "fps": 24.0,
+    "source_size": [
+      1280,
+      720
+    ],
+    "size": [
+      1280,
+      720
+    ],
+    "rotate": 0,
+    "duration": 4.0
+  },
+  "decoded_frames": 96,
+  "distinct_decoded_frames": 96,
+  "min_mean": 108.25910915798612,
+  "min_stddev": 54.4700347211519,
+  "duration_s": 4.0,
+  "expected_size": [
+    1280,
+    720
+  ],
+  "dimensions_match": true,
+  "chronology": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-045\\Evidence\\Decoded\\Flow_B_v007_chronology_v001.jpg",
+  "sample_frames": [
+    1,
+    7,
+    14,
+    20,
+    26,
+    33,
+    39,
+    45,
+    52,
+    58,
+    64,
+    71,
+    77,
+    83,
+    90,
+    96
+  ],
+  "scope": "Full decode and ordered still sampling; viewer comprehension and human acceptance pending"
+}

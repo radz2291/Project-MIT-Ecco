@@ -1,0 +1,8 @@
+04-Production/Records/Tasks/T-045/Verification/Flow/verdict_v001.md
+04-Production/Records/Tasks/T-045/Verification/Flow/verify_flow_native_v001.py
+04-Production/Records/Tasks/T-045/Verification/Flow/verify_identity_media_v001.py
+04-Production/Records/Tasks/T-045/Verification/Flow/native-check_v001.json
+04-Production/Records/Tasks/T-045/Verification/Flow/identity-media-check_v001.json
+04-Production/Records/Tasks/T-045/Verification/Flow/native-failure_v001.txt
+04-Production/Records/Tasks/T-045/Verification/Flow/decoded-chronology_v001.jpg
+04-Production/Records/Tasks/T-045/Verification/Flow/allowed-tracked-files_v001.txt

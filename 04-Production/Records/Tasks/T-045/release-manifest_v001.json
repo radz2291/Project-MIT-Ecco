@@ -1,0 +1,74 @@
+{
+  "task": "T45",
+  "upstream_commit": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "packages": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+      "sha256": "bb6d1a44c108a51f1f79af91e9b0b58fe88a592d3513a8e742aa95f215ef0e47"
+    },
+    {
+      "path": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+      "sha256": "654e2153de746f66c159121434c1733175e164b4ef920d360e9fb0a4a9a8d0f1"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+      "sha256": "eceecab58385cba5317ff330261c5ea858aabce624be55146063b11fc62abe09"
+    }
+  ],
+  "media": [
+    {
+      "path": "04-Production/Records/Tasks/T-046/Previews/Sensing_behavior_v002.mp4",
+      "sha256": "c4fcef813fe52709ab10f36ae2d18fb8a3b38a0c294f324e3b3cf5a4416ec30d",
+      "bytes": 529769,
+      "frames": 96,
+      "fps": 24,
+      "duration_s": 4,
+      "resolution": [
+        1280,
+        720
+      ],
+      "storage": "local ignored; no off-machine backup established"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Hydraulics_behavior_B_v007.mp4",
+      "sha256": "1083449ff1ea54fb94b79ade3e1db149b6c7dd36082aaf5f1b69915ba6d565b8",
+      "bytes": 878311,
+      "frames": 96,
+      "fps": 24,
+      "duration_s": 4,
+      "resolution": [
+        1280,
+        720
+      ],
+      "storage": "local ignored; no off-machine backup established"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedRetrieval_v012.mp4",
+      "sha256": "698fa8a756fe45cf23c53701c5ab2a424dc86c796ec2d881797f7c2deab9d4b4",
+      "bytes": 301889,
+      "frames": 96,
+      "fps": 24,
+      "duration_s": 4,
+      "resolution": [
+        1280,
+        720
+      ],
+      "storage": "local ignored; no off-machine backup established"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_v012.mp4",
+      "sha256": "688cc2cbb71464ea8116a97b3c02a1d0f2054f8cdbf488f5739fd42332393abb",
+      "bytes": 308077,
+      "frames": 96,
+      "fps": 24,
+      "duration_s": 4,
+      "resolution": [
+        1280,
+        720
+      ],
+      "storage": "local ignored; no off-machine backup established"
+    }
+  ],
+  "review": "Radzi personally reviews media; targeted Flow verifier PASS_WITH_LIMITS, other checks executor/master",
+  "source": "Original2.400m geometry; CAD unit conversion preserved; no engineering certification"
+}

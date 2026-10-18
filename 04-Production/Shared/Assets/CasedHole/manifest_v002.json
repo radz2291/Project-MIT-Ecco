@@ -1,0 +1,254 @@
+{
+  "task": "T47",
+  "task_id": "de4e8339-fbdd-4c40-9f30-bf61302ed04e",
+  "base_commit": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "status": "candidate_for_master_checks_integration_and_Radzi_review",
+  "units": "metres",
+  "axis": "common T44 +X downhole; retrieval toward negativeX",
+  "master": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+  "current_native_candidates": [
+    {
+      "path": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+      "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "bytes": 358482
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_A_v008.blend",
+      "sha256": "fa7e7d90b55fa3506bca08498cf08a1edd9d268daba47e298d5ba8750c51a9c3",
+      "bytes": 100039
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_B_v008.blend",
+      "sha256": "7e0b68399e2bbcf8639471bd18ac46b0889b146dfee7c811e145fbd53fd00426",
+      "bytes": 100090
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedHardware_v008.blend",
+      "sha256": "e65c663baff3f739116dd5875f0f8071b720aaa5dc1a1537d29eb27d81fd83f3",
+      "bytes": 100027
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedChannel_v008.blend",
+      "sha256": "50b70c9c4cc565c5a1a432b3a84203a844e456f5f339e13ebac500e587d9de6a",
+      "bytes": 100343
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedWearGraze_v008.blend",
+      "sha256": "1c88c513ce467b14a2f6c336b434f1f53aea30ca8b9ce02578ff5961df6a8319",
+      "bytes": 100327
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v011.blend",
+      "sha256": "fe2fdfba03f2a98c228f5bef6bf2556c620debcfb853060e69662e331b052e76",
+      "bytes": 108598
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedLayerSection_v011.blend",
+      "sha256": "28f26599883e51a57b21dd4c4382382a7f6284ec4dc7454955e4fa93eea3a086",
+      "bytes": 111270
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "bytes": 100470
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "bytes": 178194
+    }
+  ],
+  "inputs": [
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+      "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+    },
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+      "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/Scripts/acoustic_event_v002.py",
+      "sha256": "5188b68d4769167b3abbd5f75de6f71f03b9963c734d9e9b7be443bc2d56bde0"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/Scripts/acoustic_binding_v001.py",
+      "sha256": "286c91b162804d2391a81cabdf822540389d24a811ad71c16f9b2bfcd3196f3a"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/Scripts/acoustic_verify_v002.py",
+      "sha256": "cb89584bb04a1fc3c5b9a26b7523c9e1ab697fffa49fce9a271e0ce6b0da926a"
+    },
+    {
+      "path": "04-Production/Shared/Assets/World/Scripts/continuation_controls_v001.py",
+      "sha256": "c17c80ff3a42fad6b0575da7154aff070d8da0846ff80440805b069f0c6fb590"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-045/event-contract_v001.json",
+      "sha256": "c8733b4674ba9cf433a80dc512d4002079e045098d223156ef47ea068bf3893b"
+    }
+  ],
+  "event_export": {
+    "path": "04-Production/Records/Tasks/T-047/Evidence/actual-cased-events_v009.json",
+    "sha256": "bed4da5efbcfe4518e47ed67ea9421890b48ceb08871508ba64f8a788c46341a"
+  },
+  "consumer_map": {
+    "S04-A": "Later upward retrieval/context",
+    "S04-B": "Qualitative support and actual cap/steel acoustic response",
+    "S04-C": "Static localized exterior channel",
+    "S04-D": "Pre-existing inner wear/registered nominal contour"
+  },
+  "controls": [
+    "cutaway",
+    "show_steel",
+    "show_cement",
+    "show_channel",
+    "show_reference",
+    "wear",
+    "channel"
+  ],
+  "layer_truth_table_states": 128,
+  "bounds_control_policy": "Linked geometry bounds/4mm authored wear are master-owned; local numeric bounds metadata is informational. Republish versioned master for dimension edits.",
+  "geometry": {
+    "casing_interval_x_m": [
+      -5.5,
+      0
+    ],
+    "nominal_inner_radius_m": 0.1589405,
+    "outer_radius_m": 0.1698625,
+    "cement_outer_radius_m": 0.22225,
+    "channel_interval_x_m": [
+      -2.5,
+      -0.4
+    ],
+    "channel_azimuth_rad": [
+      0.3,
+      0.8
+    ],
+    "authored_preexisting_wear_max_m": 0.004
+  },
+  "selected_review_stills": [
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v010/CasedHardware_f001_v010.png",
+      "sha256": "b01aff2564b3a67a30d7178f08025674b80060f3236232e889c91d4dcfc083a5",
+      "bytes": 976726
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v010/CasedChannel_f001_v010.png",
+      "sha256": "a9782f3de4839200993d4afe83d4597858040fc3b30c1a6152dd2fe4e8e828ac",
+      "bytes": 773348
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v010/CasedWearGraze_f001_v010.png",
+      "sha256": "46352f764284bc77b2765d6381d88f07357e1493ad507bce49321b611368de6d",
+      "bytes": 784578
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v010/CasedRetrieval_f048_v010.png",
+      "sha256": "b481ac1a82da64d1aa1f72979a0de3c97658b30c844684de6316330e47de0b1e",
+      "bytes": 774608
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v010/CasedRetrieval_f096_v010.png",
+      "sha256": "45aa02dc7a62d1165c2714f398f35725a96c0c85397083c1c78e6ec1a5b3a606",
+      "bytes": 780381
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedWearSection_f001_v012.png",
+      "sha256": "7eed85ff512d7a2e9272f3df9062b2acbb5ca68d1cbdbc0b623c11a30c0b1845",
+      "bytes": 773312
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedLayerSection_f001_v012.png",
+      "sha256": "0037ba2390c686a72b52bda5b3334707a3cbaa158d9d7edaae8e5ea88dbc1251",
+      "bytes": 767629
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f012_v012.png",
+      "sha256": "d727516347ff00318f0091df2b655167fae46b1a7c10a3b4740bb11c092e08e7",
+      "bytes": 793566
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f018_v012.png",
+      "sha256": "be251a8cc84a5432665d9449e92db468a2ae03c016b74dcc7c58210374665688",
+      "bytes": 800244
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f056_v012.png",
+      "sha256": "0bcacdc580909b4d2c590ecc4aa5df3342ce3eb579f8e0882eb0fa7ace2ee9dc",
+      "bytes": 803666
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_f076_v012.png",
+      "sha256": "6c92aafe644e7a0945ef69e9ab67a4a67fe0ce028c7a8a388f3c3cf767b47f24",
+      "bytes": 772109
+    }
+  ],
+  "response": {
+    "short_lifetime_s": 0.45,
+    "long_lifetime_s": 1.2,
+    "representation": "Compact screen lanes only; legacy24worldbars removed; contactcup/patch consumer0.35; shared acoustic fronts unchanged"
+  },
+  "limits": [
+    "No calibrated acoustics, quantified bond/thickness result or chemistry classification",
+    "No actual V3 movie shots, narration or film assembly",
+    "Native/video/raw/cache local ignored, no remote upload or off-machine backup claimed",
+    "Normal GPU-cache tests do not establish empty-cache compliance; prior T44 12.55\u00e2\u20ac\u201c25.13s initialization unresolved",
+    "Generic full-BVH nearest3.4035mm discrepancy retained alongside passing actual ray/native face plane+bounds",
+    "Human appearance/comprehension, engineering/client interpretation and final acceptance pending"
+  ],
+  "playable_media": [
+    {
+      "video": "04-Production/Records/Tasks/T-047/Previews/v012/CasedRetrieval_v012.mp4",
+      "sha256": "698fa8a756fe45cf23c53701c5ab2a424dc86c796ec2d881797f7c2deab9d4b4",
+      "bytes": 301889,
+      "source_native": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+      "source_sha256": "264f0625ad79a383ddf7ae0ffd63ed47123eb64884552d9e97c3a36ff5772e3b",
+      "fps": 24,
+      "frames": 96,
+      "duration_s": 4,
+      "decoded_nonblank": true,
+      "distinct_decoded_frames": 96,
+      "review": "All96frames decoded nonblank at1280x720. Executor inspected chronological decoded Retrieval1/48/96 and Support12/18/26/56/76/96; condition response/pulse/retrieval order read. Human appearance/comprehension remains Radzi review."
+    },
+    {
+      "video": "04-Production/Records/Tasks/T-047/Previews/v012/CasedSupport_v012.mp4",
+      "sha256": "688cc2cbb71464ea8116a97b3c02a1d0f2054f8cdbf488f5739fd42332393abb",
+      "bytes": 308077,
+      "source_native": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+      "source_sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+      "fps": 24,
+      "frames": 96,
+      "duration_s": 4,
+      "decoded_nonblank": true,
+      "distinct_decoded_frames": 96,
+      "review": "All96frames decoded nonblank at1280x720. Executor inspected chronological decoded Retrieval1/48/96 and Support12/18/26/56/76/96; condition response/pulse/retrieval order read. Human appearance/comprehension remains Radzi review."
+    }
+  ],
+  "render_evidence": [
+    {
+      "path": "04-Production/Records/Tasks/T-047/Evidence/benchmark-all_v010.json",
+      "sha256": "15adf5851f376b80cbb85c5e0bdaefd6f84bf3b141cc93d3980c6ebccb534948"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Evidence/benchmark-repaired_v012.json",
+      "sha256": "6ba402d1960aebbd5d3362d032fa6d589a6f9f7e8676c8f4d38df0e1c8fb0f81"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Evidence/demo_v012.json",
+      "sha256": "e34f2b5095dbf81f5303f6ddf5a68497e470487c8489d4f12882b8558b8621a4"
+    }
+  ]
+}

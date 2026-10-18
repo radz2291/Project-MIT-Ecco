@@ -1,0 +1,185 @@
+{
+  "task": "T47",
+  "status": "upstream_hold_incomplete_not_review",
+  "baseline": "df1bc5626e820dc3a0b9af286bfcca4ce498d8c0",
+  "native": [
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedChannel_v003.blend",
+      "sha256": "ee689539bd9e5facf55b91f891305e6199d559545617dec0092821651e77d5b8",
+      "bytes": 98702,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedChannel_v005.blend",
+      "sha256": "bc24b0532957292131e0e4668eb03c7721a737b42779e04eedcea8dcf7d0d6d5",
+      "bytes": 99131,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedHardware_v003.blend",
+      "sha256": "f0c03ea831f22d42a4f3d781df4e5e49a7b6139dd23efe42ac31b34dc0d383d9",
+      "bytes": 98749,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v003.blend",
+      "sha256": "e7121d16d8f3b7c1025064fd76b6529faf1128ec80bc69ee57c04b89ee99023b",
+      "bytes": 99181,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v004.blend",
+      "sha256": "6306c3fe851c11ce62df80f88fef612277bf55a15858fc8c49c43c1fa4f7fb56",
+      "bytes": 99210,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_A_v001.blend",
+      "sha256": "3cd63699c0b765cc21fa9fc919be7efcf63cd0c40557d5b7af29d656f0f26290",
+      "bytes": 98685,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_A_v002.blend",
+      "sha256": "e3e669241bf98466ca6f29e1c5d034830375a4b3d2416b0b59a97b9fcce73795",
+      "bytes": 98691,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_B_v001.blend",
+      "sha256": "65921b75cc2b9f0747caaa573f5341430ecf8a85498b0ae25766a6b7bc1cb732",
+      "bytes": 98713,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_B_v002.blend",
+      "sha256": "3bdaeb270fb4f813e2bcfa6df98c8f12f57d544075d4f096fcf4480898216bf1",
+      "bytes": 98688,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v003.blend",
+      "sha256": "e7d0b1f68083f413191cb2f28ca72de21442bb36e6ba2c1e21d563fa060e4630",
+      "bytes": 175364,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v004.blend",
+      "sha256": "c08d6aadeca67240f2183b28ce7d0d438dc27cd96c1b1e6549ade487ee1663b8",
+      "bytes": 175555,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v005.blend",
+      "sha256": "8cd2518addb083e8ec2d5a4ccb95f1abff9f39105093ae49d510d86f02e74f9d",
+      "bytes": 184505,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v006.blend",
+      "sha256": "86097eb2020b608ee58b2319973cbf592e97e22467b0c1e288d57c0be13d0fa1",
+      "bytes": 182497,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedWear_v003.blend",
+      "sha256": "9089ed63596009d29ef7ec03150dfcb067ed73930563a4b7a44eab6dc8acd274",
+      "bytes": 98764,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedWearGraze_v005.blend",
+      "sha256": "e2ae99cbc04667b32ff37c0e69e2351431eeb99f3ef051e57a1d0afe3b24058f",
+      "bytes": 99050,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v005.blend",
+      "sha256": "c437f4816a57288d5f9208c896fb9442886a15a8b224e6b20454cbec4ce0cff8",
+      "bytes": 107430,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Shared/Assets/CasedHole/CasedHole_v001.blend",
+      "sha256": "cc402a2ef50645c361944b2ba59bb10ed3cf7236ab5bd0a2ff8a8cda9fbe59c5",
+      "bytes": 358816,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    },
+    {
+      "path": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+      "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "bytes": 358482,
+      "storage": "local_ignored_no_offmachine_backup_claimed"
+    }
+  ],
+  "rendered_stills": [
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v001/CasedReuse_A_f001_v002.png",
+      "sha256": "eceebe5e4427fef2aba91a2920dd90ce5174314d74a09268ea1d0838434e6c2e",
+      "bytes": 1049239,
+      "status": "benchmark_or_failed_readability_evidence_not_approval"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v001/CasedReuse_A_f048_v002.png",
+      "sha256": "82062868224803a48626c09d21e0ab092c28e54f3a2d6753af70c1f2f68041a9",
+      "bytes": 1049239,
+      "status": "benchmark_or_failed_readability_evidence_not_approval"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v001/CasedReuse_B_f001_v002.png",
+      "sha256": "2b56e793f076f09470c8f74a4955947918be23cf828994b0726d58e7cb885bbb",
+      "bytes": 740865,
+      "status": "benchmark_or_failed_readability_evidence_not_approval"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v001/CasedReuse_B_f048_v002.png",
+      "sha256": "19a5fd39522718814dea9607da724de4b2b942ffc2db2acec8a6772c873e2ea8",
+      "bytes": 740865,
+      "status": "benchmark_or_failed_readability_evidence_not_approval"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v003/CasedChannel_f001_v003.png",
+      "sha256": "7241db4589f3f88d626c42b0541dc5c9715bdfda8eca20c536c110a434160085",
+      "bytes": 719196,
+      "status": "benchmark_or_failed_readability_evidence_not_approval"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v003/CasedHardware_f001_v003.png",
+      "sha256": "61e3315957267cef9ee7e01dbcfbd6953b8857cf344beedb1efbf9ba28e6c246",
+      "bytes": 976726,
+      "status": "benchmark_or_failed_readability_evidence_not_approval"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v003/CasedRetrieval_f001_v003.png",
+      "sha256": "0eccc82df234d005835548cb9a6803c4dd73d9ccdf1ed87a087300da905bd4ac",
+      "bytes": 760668,
+      "status": "benchmark_or_failed_readability_evidence_not_approval"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v003/CasedRetrieval_f048_v003.png",
+      "sha256": "f8c33910e7c9128525f9d049bb1a82e18f3cd0c93e72fa41d6ba3ad89deabc3c",
+      "bytes": 773494,
+      "status": "benchmark_or_failed_readability_evidence_not_approval"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v003/CasedRetrieval_f096_v003.png",
+      "sha256": "d6e96761be1fb49da3697ba920916d1ad4fdde10fdf33fd8cfcb4e166227a019",
+      "bytes": 780381,
+      "status": "benchmark_or_failed_readability_evidence_not_approval"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-047/Previews/v003/CasedWear_f001_v003.png",
+      "sha256": "37747f59fcd28524eb107022603fd9d84843ac89fa7c6fd83f4d9c3e9723f715",
+      "bytes": 776268,
+      "status": "benchmark_or_failed_readability_evidence_not_approval"
+    }
+  ],
+  "pending": [
+    "Reconcile revised T44 release",
+    "Final prototype3 active-data assertion rerun",
+    "Repaired condition/support render samples",
+    "Playable192frame batch and media QA",
+    "Master remote candidate and independent verifier",
+    "Review submission"
+  ]
+}

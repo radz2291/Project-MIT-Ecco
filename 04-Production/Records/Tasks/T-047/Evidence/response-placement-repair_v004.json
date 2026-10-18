@@ -1,0 +1,5 @@
+{
+  "source": "CasedSupport_v003.blend",
+  "candidate": "CasedSupport_v004.blend",
+  "repair": "Contact-local response bars moved2mm toward fluid, from hit-normal1mm to hit+normal1mm. Acoustic event/prototypes/geometry/camera/timing unchanged."
+}

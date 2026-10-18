@@ -45,8 +45,3 @@ The minimal `Echo arrival` cue is explicitly labeled `Schematic timing`, uses no
 Benchmarks and visual results are recorded in the [task report](../../../Records/Tasks/T-046/report.md). Rendering requires T45's serialized queue. Start at 1280×720/24 fps/EEVEE16/Vulkan/AgX Medium High Contrast, benchmark complete render-to-file calls and keep every sample strictly below 5s before batches. Normal-cache performance never resolves the documented T44 empty-cache initialization exception.
 
 All `.blend`, MP4 and raw frame files remain local and Git-ignored on this machine. Exact paths/hashes and backup status are in the manifest; no native upload or off-machine backup is claimed. T45 alone integrates permitted scripts/reports/evidence/selected stills. Human appearance, narration-led comprehension and technical acceptance remain Radzi/client review.
-
-
-
-
-

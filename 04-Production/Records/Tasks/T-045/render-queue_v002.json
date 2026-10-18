@@ -1,0 +1,95 @@
+{
+  "policy": "One explicit master grant at a time. Pause all other background Blender jobs during representative/peak benchmarks. Stop on any full render-to-file >=5 seconds.",
+  "predecessor": "render-queue_v001.json",
+  "upstream": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "grants": [
+    {
+      "id": "T48-FINAL-01",
+      "worker": "flow_builder",
+      "purpose": "A/B v006 six representative/peak samples; master inspected A36/B48 then granted B96demo",
+      "status": "released",
+      "samples_s": [
+        1.913744,
+        0.776525,
+        0.822525,
+        0.803824,
+        0.753296,
+        0.722128
+      ],
+      "batch": {
+        "frames": 96,
+        "range_s": [
+          0.611798,
+          1.644461
+        ],
+        "all_under_5": true
+      },
+      "evidence": "04-Production/Records/Tasks/T-048/Evidence/benchmark_v007.json"
+    },
+    {
+      "id": "T47-FINAL-01",
+      "worker": "cased_builder",
+      "purpose": "Twelve condition/support/context samples on continuity successors",
+      "status": "released",
+      "range_s": [
+        0.353685,
+        1.967407
+      ],
+      "all_under_5": true,
+      "concurrency_note": "Brief nonrender T46 native verification overlap caused by grant/message race; full observed times passed, no quiet-process claim",
+      "visual_followup": "Actual Support18/76 show oversized local response rods; remove them while retaining screen response. Fit wear section circle inside frame.",
+      "evidence": "04-Production/Records/Tasks/T-047/Evidence/benchmark-all_v010.json"
+    },
+    {
+      "id": "T46-FINAL-01",
+      "worker": "sensing_builder",
+      "purpose": "Three A009 sampleframes17/23/31 for actual wave/contact inspection",
+      "status": "released",
+      "samples_s": [
+        1.837,
+        0.872,
+        0.873
+      ],
+      "all_under_5": true
+    },
+    {
+      "id": "T45-COMBINED-01",
+      "worker": "master",
+      "status": "released",
+      "frames": 6,
+      "range_s": [
+        0.648332,
+        1.913522
+      ],
+      "all_under_5": true,
+      "concurrency_note": "Brief nonrender CasedSupport12 native-check overlap; actual timings pass, no quiet-process claim"
+    },
+    {
+      "id": "T46-FINAL-02",
+      "worker": "sensing_builder",
+      "status": "released",
+      "benchmark_frames": 10,
+      "batch_frames": 96,
+      "all_under_5": true,
+      "evidence": "04-Production/Records/Tasks/T-046/Evidence/batch_A_v009.json"
+    },
+    {
+      "id": "T47-FINAL-02",
+      "worker": "cased_builder",
+      "status": "released",
+      "benchmark_frames": 6,
+      "range_s": [
+        0.3172,
+        1.1364
+      ],
+      "batch_frames": 192,
+      "batch_range_s": [
+        0.4599,
+        1.4581
+      ],
+      "all_under_5": true,
+      "evidence": "04-Production/Records/Tasks/T-047/Evidence/demo_v012.json"
+    }
+  ],
+  "cache_limit": "Normal existing GPU disk caches only; T44 empty-cache initialization12.55-25.13 seconds remains unresolved."
+}

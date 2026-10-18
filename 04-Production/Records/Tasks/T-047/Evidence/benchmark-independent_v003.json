@@ -1,0 +1,59 @@
+{
+  "samples": [
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedHardware_v003.blend",
+      "frame": 1,
+      "seconds": 1.5657370000044466,
+      "under_5": true,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v003/CasedHardware_f001_v003.png"
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedChannel_v003.blend",
+      "frame": 1,
+      "seconds": 0.4504626000052667,
+      "under_5": true,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v003/CasedChannel_f001_v003.png"
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedWear_v003.blend",
+      "frame": 1,
+      "seconds": 0.4146688999971957,
+      "under_5": true,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v003/CasedWear_f001_v003.png"
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v004.blend",
+      "frame": 1,
+      "seconds": 0.5537456000020029,
+      "under_5": true,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v003/CasedRetrieval_f001_v003.png"
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v004.blend",
+      "frame": 48,
+      "seconds": 0.49931069999729516,
+      "under_5": true,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v003/CasedRetrieval_f048_v003.png"
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v004.blend",
+      "frame": 96,
+      "seconds": 0.5160311999934493,
+      "under_5": true,
+      "output": "04-Production/Records/Tasks/T-047/Previews/v003/CasedRetrieval_f096_v003.png"
+    }
+  ],
+  "settings": {
+    "engine": "EEVEE",
+    "backend": "VULKAN",
+    "resolution": [
+      1280,
+      720
+    ],
+    "samples": 16,
+    "fps": 24,
+    "compositor": false,
+    "color": "AgX Medium High Contrast"
+  },
+  "cache": "Normal preexisting driver caches; no warmup render; T44 empty-cache initialization12.55\u201325.13s remains unresolved; process/file loading excluded."
+}

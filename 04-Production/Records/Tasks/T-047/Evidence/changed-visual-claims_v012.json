@@ -1,0 +1,80 @@
+{
+  "passed": true,
+  "source": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v011.blend",
+  "source_sha256": "60b0a0d7e1613b36bb9e31c4e0ed4cf56d26989299e8855d07bb6761f009c41a",
+  "candidate": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+  "sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+  "checks": [
+    {
+      "kind": "short_qualitative",
+      "lifetime_s": 0.45,
+      "visible_frames": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "onset_end_and_each_bar_pass": true
+    },
+    {
+      "kind": "long_qualitative",
+      "lifetime_s": 1.2,
+      "visible_frames": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "onset_end_and_each_bar_pass": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v011.blend",
+      "actual_vertices_in_frame": 192,
+      "full_section_framing_pass": true
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedLayerSection_v011.blend",
+      "actual_vertices_in_frame": 394,
+      "full_section_framing_pass": true
+    }
+  ],
+  "shared_acoustic_arc_keys_unchanged": true,
+  "camera_timing_unchanged": true,
+  "prototypes_unchanged": true,
+  "world_response_bars_removed": 24,
+  "contact_cup_patch_consumer_scale": 0.35,
+  "repair": "Short screen lane .40\u2192declared .45s; long1.20s retained. Exact response visibility with discrete frame sampling, labels remain screen space.",
+  "previous_failed_evidence": "Repair11 per-bar comparison caught mismatched short-lane duration before rendering."
+}

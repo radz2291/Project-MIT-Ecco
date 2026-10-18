@@ -1,0 +1,50 @@
+{
+  "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Previews\\Sensing_behavior_v002.mp4",
+  "sha256": "c4fcef813fe52709ab10f36ae2d18fb8a3b38a0c294f324e3b3cf5a4416ec30d",
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, unknown/bt709/iec61966-2-1, progressive)",
+    "fps": 24.0,
+    "source_size": [
+      1280,
+      720
+    ],
+    "size": [
+      1280,
+      720
+    ],
+    "rotate": 0,
+    "duration": 4.0
+  },
+  "decoded_frames": 96,
+  "distinct_decoded_frames": 95,
+  "min_mean": 52.07988534432871,
+  "min_stddev": 58.89099632283894,
+  "duration_s": 4.0,
+  "expected_size": [
+    1280,
+    720
+  ],
+  "dimensions_match": true,
+  "chronology": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-045\\Evidence\\Decoded\\Sensing_v002_chronology_v001.jpg",
+  "sample_frames": [
+    1,
+    7,
+    14,
+    20,
+    26,
+    33,
+    39,
+    45,
+    52,
+    58,
+    64,
+    71,
+    77,
+    83,
+    90,
+    96
+  ],
+  "scope": "Full decode and ordered still sampling; viewer comprehension and human acceptance pending"
+}

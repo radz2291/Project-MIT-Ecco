@@ -1,0 +1,248 @@
+{
+  "contract": "ecco-acoustic-event-v001",
+  "events": [
+    {
+      "event_id": "t47-cased-native-01",
+      "provenance": "native_ray_intersection_illustrative_timing",
+      "emitter_ref": "ECCO_SENSOR_REF_01",
+      "receiver_ref": "ECCO_SENSOR_REF_01",
+      "emitter_local_m": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reference_world_m": [
+        -1.5,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reference_pose_world": [
+        [
+          -1.0,
+          1.4782422397274786e-07,
+          -7.458959316863911e-08,
+          -1.5
+        ],
+        [
+          -1.5099580252808664e-07,
+          -0.6293203234672546,
+          0.77714604139328,
+          0.10025183111429214
+        ],
+        [
+          6.794026319312252e-08,
+          0.77714604139328,
+          0.6293203234672546,
+          0.0811823308467865
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "emitter_surface": {
+        "object": "TEMP | Imaging port 1 | removable acoustic cap",
+        "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+        "face_index": 62,
+        "offset_from_reference_m": 0.0019999765208922327,
+        "status": "retained temporary cap face, not newly certified transducer datum"
+      },
+      "emitter_world_m": [
+        -1.5,
+        0.10180610418319702,
+        0.08244095742702484
+      ],
+      "emitter_pose_world": [
+        [
+          -1.0,
+          1.4782422397274786e-07,
+          -7.458959316863911e-08,
+          -1.5
+        ],
+        [
+          -1.5099580252808664e-07,
+          -0.6293203234672546,
+          0.77714604139328,
+          0.10180610418319702
+        ],
+        [
+          6.794026319312252e-08,
+          0.77714604139328,
+          0.6293203234672546,
+          0.08244095742702484
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "direction_world": [
+        -7.458959316863911e-08,
+        0.77714604139328,
+        0.6293203234672546
+      ],
+      "hit_world_m": [
+        -1.5,
+        0.12345647811889648,
+        0.09997308254241943
+      ],
+      "normal_world": [
+        0.0,
+        -0.7730104923248291,
+        -0.6343932151794434
+      ],
+      "wall_source": {
+        "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+        "object": "CASED_STEEL_NOMINAL_CUTAWAY",
+        "version": "CasedHole_v002",
+        "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+        "face_index": 34
+      },
+      "send_s": 0.25,
+      "contact_s": 0.65,
+      "receive_s": 1.05,
+      "patch_lifetime_s": 0.65,
+      "opacity": 0.72,
+      "visible": true,
+      "standoff_m": 0.027858827263116837,
+      "timing_kind": "illustrative_not_acoustic_velocity",
+      "sample_policy": "sampled native cap face plus unchanged reference; fixed contact retained during later assembly movement"
+    },
+    {
+      "event_id": "t47-cased-native-02",
+      "provenance": "native_ray_intersection_illustrative_timing",
+      "emitter_ref": "ECCO_SENSOR_REF_01",
+      "receiver_ref": "ECCO_SENSOR_REF_01",
+      "emitter_local_m": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reference_world_m": [
+        -1.5,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reference_pose_world": [
+        [
+          -1.0,
+          1.4782422397274786e-07,
+          -7.458959316863911e-08,
+          -1.5
+        ],
+        [
+          -1.5099580252808664e-07,
+          -0.6293203234672546,
+          0.77714604139328,
+          0.10025183111429214
+        ],
+        [
+          6.794026319312252e-08,
+          0.77714604139328,
+          0.6293203234672546,
+          0.0811823308467865
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "emitter_surface": {
+        "object": "TEMP | Imaging port 1 | removable acoustic cap",
+        "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+        "face_index": 62,
+        "offset_from_reference_m": 0.0019999765208922327,
+        "status": "retained temporary cap face, not newly certified transducer datum"
+      },
+      "emitter_world_m": [
+        -1.5,
+        0.10180610418319702,
+        0.08244095742702484
+      ],
+      "emitter_pose_world": [
+        [
+          -1.0,
+          1.4782422397274786e-07,
+          -7.458959316863911e-08,
+          -1.5
+        ],
+        [
+          -1.5099580252808664e-07,
+          -0.6293203234672546,
+          0.77714604139328,
+          0.10180610418319702
+        ],
+        [
+          6.794026319312252e-08,
+          0.77714604139328,
+          0.6293203234672546,
+          0.08244095742702484
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "direction_world": [
+        -7.458959316863911e-08,
+        0.77714604139328,
+        0.6293203234672546
+      ],
+      "hit_world_m": [
+        -1.5,
+        0.12345647811889648,
+        0.09997308254241943
+      ],
+      "normal_world": [
+        0.0,
+        -0.7730104923248291,
+        -0.6343932151794434
+      ],
+      "wall_source": {
+        "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+        "object": "CASED_STEEL_NOMINAL_CUTAWAY",
+        "version": "CasedHole_v002",
+        "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+        "face_index": 34
+      },
+      "send_s": 1.8,
+      "contact_s": 2.2,
+      "receive_s": 2.6,
+      "patch_lifetime_s": 0.65,
+      "opacity": 0.72,
+      "visible": true,
+      "standoff_m": 0.027858827263116837,
+      "timing_kind": "illustrative_not_acoustic_velocity",
+      "sample_policy": "sampled native cap face plus unchanged reference; fixed contact retained during later assembly movement"
+    }
+  ],
+  "responses": [
+    {
+      "event_id": "t47-cased-native-01",
+      "support_state": "supported",
+      "decay_kind": "short_qualitative",
+      "response_start_s": 0.65,
+      "provenance": "native_ray_intersection_illustrative_timing"
+    },
+    {
+      "event_id": "t47-cased-native-02",
+      "support_state": "weakly_supported",
+      "decay_kind": "long_qualitative",
+      "response_start_s": 2.2,
+      "provenance": "native_ray_intersection_illustrative_timing"
+    }
+  ],
+  "fixture_replaced": true,
+  "binding": "A-SENSING public native-capface sample + bind_event",
+  "native_source_note": "Inherited reference retained; emitter endpoint derives actual provisional removable cap, not engineering certification."
+}

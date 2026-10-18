@@ -1,0 +1,11 @@
+{
+  "source_mesh": "CASED_STEEL_WEAR_FULL",
+  "source_hash": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+  "section_x_m": -1.5,
+  "nominal_radius_m": 0.1589405,
+  "outer_radius_m": 0.1698625,
+  "max_section_inner_radius_m": 0.16291683912277222,
+  "angular_samples": 96,
+  "actual_geometry_scale": 1,
+  "interpretation": "Known authored pre-existing wear section; white nominal and emerald actual edge, no inferred measured metal loss/thickness."
+}

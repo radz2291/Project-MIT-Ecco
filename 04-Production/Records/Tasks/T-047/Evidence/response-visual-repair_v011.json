@@ -1,0 +1,42 @@
+{
+  "source": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v010.blend",
+  "source_sha256": "70fa0c48359c2ad4e992ab708350c1aaf066f8c05abf73778f7016f092a44007",
+  "candidate": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v011.blend",
+  "sha256": "60b0a0d7e1613b36bb9e31c4e0ed4cf56d26989299e8855d07bb6761f009c41a",
+  "removed_spatial_response_bars": [
+    "CASED_supported_RESPONSE_0",
+    "CASED_supported_RESPONSE_1",
+    "CASED_supported_RESPONSE_10",
+    "CASED_supported_RESPONSE_11",
+    "CASED_supported_RESPONSE_2",
+    "CASED_supported_RESPONSE_3",
+    "CASED_supported_RESPONSE_4",
+    "CASED_supported_RESPONSE_5",
+    "CASED_supported_RESPONSE_6",
+    "CASED_supported_RESPONSE_7",
+    "CASED_supported_RESPONSE_8",
+    "CASED_supported_RESPONSE_9",
+    "CASED_weakly_supported_RESPONSE_0",
+    "CASED_weakly_supported_RESPONSE_1",
+    "CASED_weakly_supported_RESPONSE_10",
+    "CASED_weakly_supported_RESPONSE_11",
+    "CASED_weakly_supported_RESPONSE_2",
+    "CASED_weakly_supported_RESPONSE_3",
+    "CASED_weakly_supported_RESPONSE_4",
+    "CASED_weakly_supported_RESPONSE_5",
+    "CASED_weakly_supported_RESPONSE_6",
+    "CASED_weakly_supported_RESPONSE_7",
+    "CASED_weakly_supported_RESPONSE_8",
+    "CASED_weakly_supported_RESPONSE_9"
+  ],
+  "contact_cup_patch_scaled": 0.35,
+  "scaled_objects": [
+    "t47-cased-native-01_ACOUSTICS_CONTACT_CUP",
+    "t47-cased-native-01_ACOUSTICS_FINE_PATCH",
+    "t47-cased-native-02_ACOUSTICS_CONTACT_CUP",
+    "t47-cased-native-02_ACOUSTICS_FINE_PATCH"
+  ],
+  "all_acoustic_arc_keys_preserved": true,
+  "camera_timing_preserved": true,
+  "event_export": "actual-cased-events_v009.json"
+}

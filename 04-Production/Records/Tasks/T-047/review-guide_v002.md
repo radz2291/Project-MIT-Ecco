@@ -1,0 +1,15 @@
+# T47 component review
+
+Use `release-selection_v012.json` and final `Shared/Assets/CasedHole/manifest_v002.json` for exact paths/hashes. All scene/video files remain local. The current implementation guide is `Shared/Assets/CasedHole/README_v002.md`. T45 owns integration checks and remote synchronization. Independent verifiers address specific unresolved concerns under the owner's clarified direction. Radzi owns acceptance.
+
+1. Inspect the Hardware8 and Retrieval8 images: actual accepted ECCO/BHA, fluid, steel, cement and formation preserve relative scale/order. The later upward retrieval demonstration must show ECCO entering casing before the lower bit. The linked continuation follows the same hardware instance.
+2. Compare Channel8 overview with LayerSection11: the entire2.1m axial blue channel is localized to a sector outside steel. LayerSection is a transverse extraction of real master edges at X−1.5m, with no exploded offsets. Color supplies no chemistry claim.
+3. Inspect WearGraze8 and WearSection11: same-scale registered nominal contour against pre-existing inner wear; fixed OD. The actual worn section is not deepened for the camera. The pulse does not create the condition.
+4. Inspect Support12 frames12/18/56/76 and its four-second demonstration: native temporary cap and steel contact remain visible, three fronts per leg move across the annular gap and return to the same sensor. The small cup/patch no longer obscures contact. Compact short/long lanes begin at contact and last .45/1.20s. They are authored qualitative comparisons, without measured bond strength or thickness.
+5. Review evidence: shared roughness revision propagation, fresh-open continuity, strict event/packet finite geometry and full128-state layer truth, public packet check, intentional macro-camera revision, response/framing repair and actual render timings. Generic full-BVH nearest discrepancy is retained beside passing repeated actual-ray/native-face evidence.
+
+Older previews remain failure/history evidence. They include cropped wear, dim channel, flat steel close-up and oversized world-space green response bars. The selected final set uses WearSection11, LayerSection11 and Support12; those bars are absent. No media or appearance approval is inferred from automated checks.
+
+Working renders use normal existing GPU caches,1280×720/24fps/EEVEE16/Vulkan. Every whole render-to-PNG call must pass<5s. Previous T44 empty-cache initialization12.55–25.13s remains unresolved. Verify any relocation, font substitution, machine/backend/cache or camera/material change again.
+
+Only the explicitly allowed scripts/reports/evidence/selected PNGs are intended for Git. Heavy natives, videos, raw frames and cache remain local and ignored; no off-machine backup is claimed. Master checks and exact pushed candidate precede Review. A blanket independent Cased verifier is not required; specific unresolved concerns can trigger one. These are reusable component tests, not completed movie shots or client acceptance.

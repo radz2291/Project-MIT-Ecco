@@ -1,0 +1,21 @@
+{
+  "task": "T47",
+  "base_commit": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "master": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+  "reuse": [
+    "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_A_v008.blend",
+    "04-Production/Records/Tasks/T-047/Scenes/CasedReuse_B_v008.blend"
+  ],
+  "inspection": {
+    "Hardware": "04-Production/Records/Tasks/T-047/Scenes/CasedHardware_v008.blend",
+    "Channel": "04-Production/Records/Tasks/T-047/Scenes/CasedChannel_v008.blend",
+    "WearGraze": "04-Production/Records/Tasks/T-047/Scenes/CasedWearGraze_v008.blend",
+    "WearSection": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v011.blend",
+    "LayerSection": "04-Production/Records/Tasks/T-047/Scenes/CasedLayerSection_v011.blend",
+    "Retrieval": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v008.blend",
+    "Support": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend"
+  },
+  "events": "04-Production/Records/Tasks/T-047/Evidence/actual-cased-events_v009.json",
+  "preview_folder": "04-Production/Records/Tasks/T-047/Previews/v012",
+  "status": "frozen_builder_candidate_waiting_master_checks_integration_and_Radzi_review"
+}

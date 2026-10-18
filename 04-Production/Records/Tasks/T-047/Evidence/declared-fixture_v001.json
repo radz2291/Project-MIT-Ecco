@@ -1,0 +1,38 @@
+{
+  "event_id": "T47_DECLARED_FIXTURE_001",
+  "provenance": "declared_adapter_fixture",
+  "emitter_ref": "ECCO_SENSOR_REF_01",
+  "receiver_ref": "ECCO_SENSOR_REF_01",
+  "emitter_world_m": [
+    -1.5,
+    0.10025183,
+    0.08118233
+  ],
+  "direction_world": [
+    0,
+    0.7771459614569709,
+    0.6293203910498374
+  ],
+  "hit_world_m": [
+    -1.5,
+    0.1235199676869517,
+    0.10002449761365668
+  ],
+  "normal_world": [
+    0,
+    -0.7771459614569709,
+    -0.6293203910498374
+  ],
+  "wall_source": {
+    "library": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+    "object": "CASED_STEEL_NOMINAL_CUTAWAY",
+    "version": "v002",
+    "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba"
+  },
+  "send_s": 0.3,
+  "contact_s": 0.7,
+  "receive_s": 1.1,
+  "patch_lifetime_s": 0.65,
+  "opacity": 0.8,
+  "visible": true
+}

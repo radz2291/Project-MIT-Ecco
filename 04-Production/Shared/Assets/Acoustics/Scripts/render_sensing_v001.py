@@ -18,5 +18,3 @@ for i,f in enumerate(frames):
  log['backend']=gpu.platform.backend_type_get();log['hardware']=[platform.platform(),gpu.platform.vendor_get(),gpu.platform.renderer_get(),gpu.platform.version_get()]
  row=dict(frame=f,seconds=elapsed,under_5=elapsed<5,first_process=i==0,path=str(Path(s.render.filepath).relative_to(ROOT)).replace('\\','/'));log['frames'].append(row);log['all_under_5']=all(r['under_5'] for r in log['frames']);logpath.write_text(json.dumps(log,indent=2));print('SENSING_RENDER',kind,f,elapsed,elapsed<5,flush=True)
  if elapsed>=5:raise RuntimeError('Strict 5s cap failed; stop before batch/remaining frames and retain evidence')
-
-

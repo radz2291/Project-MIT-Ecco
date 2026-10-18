@@ -1,0 +1,37 @@
+{
+  "contract": "ecco-acoustic-event-v001",
+  "units": "metres_seconds",
+  "basis": "T44 unscaled common world frame, source longitudinal +X",
+  "required": ["event_id", "provenance", "emitter_ref", "receiver_ref", "emitter_world_m", "direction_world", "hit_world_m", "normal_world", "wall_source", "send_s", "contact_s", "receive_s", "patch_lifetime_s", "opacity", "visible"],
+  "provenance_values": ["native_ray_intersection_illustrative_timing", "declared_adapter_fixture"],
+  "source_surface_extension": {
+    "reason": "Native sightline inspection found inherited sensor reference2mm behind preserved provisional imaging-cap face",
+    "policy": "Keep emitter_ref/receiver_ref and inherited local reference unchanged. emitter_world_m may register the actual native geometric exit surface, with reference_world_m and emitter_surface metadata explicitly recorded. Expected caps must resolve uniquely; implicit reference fallback is rejected.",
+    "metadata": ["reference_world_m", "emitter_surface object/library/hash", "native source-derived offset and method"],
+    "limit": "Temporary cap is a provisional visualization surface; no certified acoustic-face identification or source geometry edit"
+  },
+  "rules": [
+    "emitter_ref equals receiver_ref",
+    "send_s < contact_s < receive_s",
+    "all coordinate vectors have three finite components",
+    "normal_world and direction_world are unit length within tolerance",
+    "sampled emitter/hit world positions remain fixed for this event",
+    "opacity between zero and one; patch_lifetime_s positive",
+    "wall_source contains exact library, object or surface, version and native hash",
+    "timing and response illustrative; no calibrated velocity or bond inference"
+  ],
+  "packet_timing_extension": {
+    "api": "Acoustics/Scripts/acoustic_event_v002.py",
+    "reference": "Common send/contact/receive are leading-front times; three fronts lag0/.07/.14 seconds",
+    "required_native_fields": ["timing_reference", "arc_phases", "packet_intervals", "packet_end_s", "hold_emitter_until_s"],
+    "hold": "The actual emitting surface stays fixed through receive_s+.14s; each arc ends at its individual contact/receive time",
+    "limit": "Illustrative graphic packet timing; no calibrated acoustic velocity"
+  },
+  "response_adapter": {
+    "input": "one event dictionary",
+    "output_required": ["event_id", "support_state", "decay_kind", "response_start_s", "provenance"],
+    "support_state_values": ["supported", "weakly_supported"],
+    "decay_kind_values": ["short_qualitative", "long_qualitative"],
+    "limits": "Casing response only; reuse sensing send/contact/return assets. No global waveform fork."
+  }
+}

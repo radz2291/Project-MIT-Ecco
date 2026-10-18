@@ -1,0 +1,327 @@
+{
+  "contract": "ecco-acoustic-event-v001",
+  "extension": "T46 strict native cap + three-front packet intervals",
+  "events": [
+    {
+      "event_id": "t47-cased-native-01",
+      "provenance": "native_ray_intersection_illustrative_timing",
+      "emitter_ref": "ECCO_SENSOR_REF_01",
+      "receiver_ref": "ECCO_SENSOR_REF_01",
+      "emitter_local_m": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reference_world_m": [
+        -1.5,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reference_pose_world": [
+        [
+          -1.0,
+          1.4782422397274786e-07,
+          -7.458959316863911e-08,
+          -1.5
+        ],
+        [
+          -1.5099580252808664e-07,
+          -0.6293203234672546,
+          0.77714604139328,
+          0.10025183111429214
+        ],
+        [
+          6.794026319312252e-08,
+          0.77714604139328,
+          0.6293203234672546,
+          0.0811823308467865
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "emitter_surface": {
+        "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+        "object": "TEMP | Imaging port 1 | removable acoustic cap",
+        "version": "ECCO_film_v002",
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+        "face_index": 62,
+        "offset_from_reference_m": 0.0019999765208922327,
+        "status": "retained temporary cap face; provisional graphical emission exit, not certified transducer datum"
+      },
+      "emitter_world_m": [
+        -1.5,
+        0.10180610418319702,
+        0.08244095742702484
+      ],
+      "emitter_pose_world": [
+        [
+          -1.0,
+          1.4782422397274786e-07,
+          -7.458959316863911e-08,
+          -1.5
+        ],
+        [
+          -1.5099580252808664e-07,
+          -0.6293203234672546,
+          0.77714604139328,
+          0.10180610418319702
+        ],
+        [
+          6.794026319312252e-08,
+          0.77714604139328,
+          0.6293203234672546,
+          0.08244095742702484
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "direction_world": [
+        -7.458959316863911e-08,
+        0.77714604139328,
+        0.6293203234672546
+      ],
+      "hit_world_m": [
+        -1.5,
+        0.12345647811889648,
+        0.09997308254241943
+      ],
+      "normal_world": [
+        0.0,
+        -0.7730104923248291,
+        -0.6343932151794434
+      ],
+      "wall_source": {
+        "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+        "object": "CASED_STEEL_NOMINAL_CUTAWAY",
+        "version": "CasedHole_v002",
+        "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+        "face_index": 34
+      },
+      "send_s": 0.25,
+      "contact_s": 0.65,
+      "receive_s": 1.05,
+      "patch_lifetime_s": 0.65,
+      "opacity": 0.72,
+      "visible": true,
+      "standoff_m": 0.027858827263116837,
+      "timing_kind": "illustrative_not_acoustic_velocity",
+      "sample_policy": "native temporary-cap exit; unchanged reference; fixed contact; emitter held through final lagged return",
+      "timing_reference": "send_s/contact_s/receive_s are leading-front times; three fronts lag0/.07/.14s",
+      "arc_phases": [
+        {
+          "arc_index": 1,
+          "lag_s": 0.0,
+          "send_s": 0.25,
+          "contact_s": 0.65,
+          "receive_s": 1.05
+        },
+        {
+          "arc_index": 2,
+          "lag_s": 0.07,
+          "send_s": 0.32,
+          "contact_s": 0.72,
+          "receive_s": 1.12
+        },
+        {
+          "arc_index": 3,
+          "lag_s": 0.14,
+          "send_s": 0.39,
+          "contact_s": 0.79,
+          "receive_s": 1.19
+        }
+      ],
+      "packet_intervals": {
+        "send_start_s": 0.25,
+        "last_send_launch_s": 0.39,
+        "send_end_s": 0.79,
+        "contact_first_s": 0.65,
+        "contact_last_s": 0.79,
+        "return_start_s": 0.65,
+        "return_end_s": 1.19
+      },
+      "packet_end_s": 1.19,
+      "hold_emitter_until_s": 1.19
+    },
+    {
+      "event_id": "t47-cased-native-02",
+      "provenance": "native_ray_intersection_illustrative_timing",
+      "emitter_ref": "ECCO_SENSOR_REF_01",
+      "receiver_ref": "ECCO_SENSOR_REF_01",
+      "emitter_local_m": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reference_world_m": [
+        -1.5,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reference_pose_world": [
+        [
+          -1.0,
+          1.4782422397274786e-07,
+          -7.458959316863911e-08,
+          -1.5
+        ],
+        [
+          -1.5099580252808664e-07,
+          -0.6293203234672546,
+          0.77714604139328,
+          0.10025183111429214
+        ],
+        [
+          6.794026319312252e-08,
+          0.77714604139328,
+          0.6293203234672546,
+          0.0811823308467865
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "emitter_surface": {
+        "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+        "object": "TEMP | Imaging port 1 | removable acoustic cap",
+        "version": "ECCO_film_v002",
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+        "face_index": 62,
+        "offset_from_reference_m": 0.0019999765208922327,
+        "status": "retained temporary cap face; provisional graphical emission exit, not certified transducer datum"
+      },
+      "emitter_world_m": [
+        -1.5,
+        0.10180610418319702,
+        0.08244095742702484
+      ],
+      "emitter_pose_world": [
+        [
+          -1.0,
+          1.4782422397274786e-07,
+          -7.458959316863911e-08,
+          -1.5
+        ],
+        [
+          -1.5099580252808664e-07,
+          -0.6293203234672546,
+          0.77714604139328,
+          0.10180610418319702
+        ],
+        [
+          6.794026319312252e-08,
+          0.77714604139328,
+          0.6293203234672546,
+          0.08244095742702484
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "direction_world": [
+        -7.458959316863911e-08,
+        0.77714604139328,
+        0.6293203234672546
+      ],
+      "hit_world_m": [
+        -1.5,
+        0.12345647811889648,
+        0.09997308254241943
+      ],
+      "normal_world": [
+        0.0,
+        -0.7730104923248291,
+        -0.6343932151794434
+      ],
+      "wall_source": {
+        "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+        "object": "CASED_STEEL_NOMINAL_CUTAWAY",
+        "version": "CasedHole_v002",
+        "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+        "face_index": 34
+      },
+      "send_s": 1.8,
+      "contact_s": 2.2,
+      "receive_s": 2.6,
+      "patch_lifetime_s": 0.65,
+      "opacity": 0.72,
+      "visible": true,
+      "standoff_m": 0.027858827263116837,
+      "timing_kind": "illustrative_not_acoustic_velocity",
+      "sample_policy": "native temporary-cap exit; unchanged reference; fixed contact; emitter held through final lagged return",
+      "timing_reference": "send_s/contact_s/receive_s are leading-front times; three fronts lag0/.07/.14s",
+      "arc_phases": [
+        {
+          "arc_index": 1,
+          "lag_s": 0.0,
+          "send_s": 1.8,
+          "contact_s": 2.2,
+          "receive_s": 2.6
+        },
+        {
+          "arc_index": 2,
+          "lag_s": 0.07,
+          "send_s": 1.87,
+          "contact_s": 2.27,
+          "receive_s": 2.67
+        },
+        {
+          "arc_index": 3,
+          "lag_s": 0.14,
+          "send_s": 1.94,
+          "contact_s": 2.3400000000000003,
+          "receive_s": 2.74
+        }
+      ],
+      "packet_intervals": {
+        "send_start_s": 1.8,
+        "last_send_launch_s": 1.94,
+        "send_end_s": 2.3400000000000003,
+        "contact_first_s": 2.2,
+        "contact_last_s": 2.3400000000000003,
+        "return_start_s": 2.2,
+        "return_end_s": 2.74
+      },
+      "packet_end_s": 2.74,
+      "hold_emitter_until_s": 2.74
+    }
+  ],
+  "responses": [
+    {
+      "event_id": "t47-cased-native-01",
+      "support_state": "supported",
+      "decay_kind": "short_qualitative",
+      "response_start_s": 0.65,
+      "provenance": "native_ray_intersection_illustrative_timing",
+      "response_lifetime_s": 0.45,
+      "response_end_s": 1.1,
+      "frame_sampling": "Visible exactly when contact_s <= (frame-1)/fps < response_end_s; one-frame quantization only."
+    },
+    {
+      "event_id": "t47-cased-native-02",
+      "support_state": "weakly_supported",
+      "decay_kind": "long_qualitative",
+      "response_start_s": 2.2,
+      "provenance": "native_ray_intersection_illustrative_timing",
+      "response_lifetime_s": 1.2,
+      "response_end_s": 3.4000000000000004,
+      "frame_sampling": "Visible exactly when contact_s <= (frame-1)/fps < response_end_s; one-frame quantization only."
+    }
+  ],
+  "acoustic_library": "Acoustics_v003.blend",
+  "acoustic_library_sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+  "fixture_replaced": true
+}

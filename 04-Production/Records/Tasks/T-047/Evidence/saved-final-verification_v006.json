@@ -1,0 +1,371 @@
+{
+  "checks": [
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedHardware_v003.blend",
+      "sha256": "f0c03ea831f22d42a4f3d781df4e5e49a7b6139dd23efe42ac31b34dc0d383d9",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "eccos": 1,
+      "camera": {
+        "location": [
+          -1.0499999523162842,
+          -1.0499999523162842,
+          0.6100000143051147
+        ],
+        "rotation": [
+          1.080336093902588,
+          3.5170895529290647e-08,
+          0.40489184856414795
+        ],
+        "lens": 45.0
+      },
+      "timing": [
+        1,
+        72,
+        24
+      ]
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedChannel_v005.blend",
+      "sha256": "bc24b0532957292131e0e4668eb03c7721a737b42779e04eedcea8dcf7d0d6d5",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "eccos": 0,
+      "camera": {
+        "location": [
+          -0.699999988079071,
+          2.700000047683716,
+          1.649999976158142
+        ],
+        "rotation": [
+          1.027852177619934,
+          -9.284998014891244e-08,
+          2.840916395187378
+        ],
+        "lens": 45.0
+      },
+      "timing": [
+        1,
+        96,
+        24
+      ]
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedWearGraze_v005.blend",
+      "sha256": "e2ae99cbc04667b32ff37c0e69e2351431eeb99f3ef051e57a1d0afe3b24058f",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "eccos": 0,
+      "camera": {
+        "location": [
+          -2.130000114440918,
+          -0.09000000357627869,
+          0.04500000178813934
+        ],
+        "rotation": [
+          1.5158309936523438,
+          -7.414302416464125e-08,
+          -1.265285611152649
+        ],
+        "lens": 47.0
+      },
+      "timing": [
+        1,
+        96,
+        24
+      ],
+      "max_outer_radius_m": 0.1698625047984247,
+      "preexisting_max_inner_wear_m": 0.004,
+      "registered_nominal_radius_m": 0.1589405
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v005.blend",
+      "sha256": "c437f4816a57288d5f9208c896fb9442886a15a8b224e6b20454cbec4ce0cff8",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "eccos": 0,
+      "camera": {
+        "location": [
+          -2.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          1.5707963705062866,
+          -0.0,
+          -1.5707963705062866
+        ],
+        "lens": 50.0
+      },
+      "timing": [
+        1,
+        96,
+        24
+      ]
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedRetrieval_v004.blend",
+      "sha256": "6306c3fe851c11ce62df80f88fef612277bf55a15858fc8c49c43c1fa4f7fb56",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "eccos": 1,
+      "camera": {
+        "location": [
+          1.100000023841858,
+          -5.699999809265137,
+          3.0999999046325684
+        ],
+        "rotation": [
+          1.0903534889221191,
+          -1.4526381875157313e-08,
+          0.2898465394973755
+        ],
+        "lens": 47.0
+      },
+      "timing": [
+        1,
+        96,
+        24
+      ],
+      "retrieval_samples": [
+        {
+          "frame": 1,
+          "travel_m": 0.5,
+          "ecco_lead_x": 0.5,
+          "ecco_downhole_x": 2.9,
+          "bit_lead_x": 3.4
+        },
+        {
+          "frame": 12,
+          "travel_m": 0.002105236053466797,
+          "ecco_lead_x": 0.002105236053466797,
+          "ecco_downhole_x": 2.4021052360534667,
+          "bit_lead_x": 2.9021052360534667
+        },
+        {
+          "frame": 13,
+          "travel_m": -0.04315793514251709,
+          "ecco_lead_x": -0.04315793514251709,
+          "ecco_downhole_x": 2.356842064857483,
+          "bit_lead_x": 2.856842064857483
+        },
+        {
+          "frame": 65,
+          "travel_m": -2.3968422412872314,
+          "ecco_lead_x": -2.3968422412872314,
+          "ecco_downhole_x": 0.003157758712768466,
+          "bit_lead_x": 0.5031577587127685
+        },
+        {
+          "frame": 66,
+          "travel_m": -2.442105293273926,
+          "ecco_lead_x": -2.442105293273926,
+          "ecco_downhole_x": -0.04210529327392587,
+          "bit_lead_x": 0.45789470672607413
+        },
+        {
+          "frame": 76,
+          "travel_m": -2.8947367668151855,
+          "ecco_lead_x": -2.8947367668151855,
+          "ecco_downhole_x": -0.49473676681518564,
+          "bit_lead_x": 0.005263233184814364
+        },
+        {
+          "frame": 77,
+          "travel_m": -2.940000295639038,
+          "ecco_lead_x": -2.940000295639038,
+          "ecco_downhole_x": -0.5400002956390382,
+          "bit_lead_x": -0.040000295639038175
+        },
+        {
+          "frame": 96,
+          "travel_m": -3.799999952316284,
+          "ecco_lead_x": -3.799999952316284,
+          "ecco_downhole_x": -1.3999999523162843,
+          "bit_lead_x": -0.8999999523162843
+        }
+      ]
+    },
+    {
+      "scene": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v006.blend",
+      "sha256": "86097eb2020b608ee58b2319973cbf592e97e22467b0c1e288d57c0be13d0fa1",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "eccos": 1,
+      "camera": {
+        "location": [
+          -1.4500000476837158,
+          0.11734902858734131,
+          0.0950273647904396
+        ],
+        "rotation": [
+          1.4948735237121582,
+          -1.1275504618879495e-07,
+          1.6648728847503662
+        ],
+        "lens": 30.0
+      },
+      "timing": [
+        1,
+        96,
+        24
+      ],
+      "events": [
+        {
+          "event_id": "t47-cased-native-01",
+          "repeated_native_ray_error_m": 0.0,
+          "face_plane_error_m": 3.725290298461914e-09,
+          "within_native_face_bounds": true,
+          "bvh_nearest_diagnostic_m": 0.003403526498004794,
+          "diagnostic_note": "Generic BVH nearest on long quad disagrees3.4mm; repeated native ray is exact and independent face-plane/axial/angular bounds pass.",
+          "same_sensor": true,
+          "actual_cased_native": true
+        },
+        {
+          "event_id": "t47-cased-native-02",
+          "repeated_native_ray_error_m": 0.0,
+          "face_plane_error_m": 3.725290298461914e-09,
+          "within_native_face_bounds": true,
+          "bvh_nearest_diagnostic_m": 0.003403526498004794,
+          "diagnostic_note": "Generic BVH nearest on long quad disagrees3.4mm; repeated native ray is exact and independent face-plane/axial/angular bounds pass.",
+          "same_sensor": true,
+          "actual_cased_native": true
+        }
+      ],
+      "response_controls": [
+        "ACOUSTICS_CONTROL_t47-cased-native-01",
+        "ACOUSTICS_CONTROL_t47-cased-native-02"
+      ],
+      "native_camera_rays": [
+        {
+          "event_id": "t47-cased-native-01",
+          "target": "cap_exit",
+          "occluders": []
+        },
+        {
+          "event_id": "t47-cased-native-01",
+          "target": "wall_contact",
+          "occluders": []
+        },
+        {
+          "event_id": "t47-cased-native-02",
+          "target": "cap_exit",
+          "occluders": []
+        },
+        {
+          "event_id": "t47-cased-native-02",
+          "target": "wall_contact",
+          "occluders": []
+        }
+      ]
+    }
+  ],
+  "passed": true,
+  "limits": "Executor checks only; human appearance, comprehension and engineering approval remain pending."
+}
