@@ -1,0 +1,11 @@
+# Local native-render samples and raw execution logs; selected JPEGs/JSON are tracked.
+Previews/*.png
+Evidence/*.log
+Evidence/*-log.txt
+# Superseded initial-attempt snapshots remain local alongside the initial libraries.
+Evidence/build_v002.json
+Evidence/migration_A_v002.json
+Evidence/migration_B_v002.json
+Evidence/Reuse_A_after_v002_fresh-open.json
+# Post-push parity evidence records its containing commit without a self-hash loop.
+Evidence/sync-verification_v004.json
