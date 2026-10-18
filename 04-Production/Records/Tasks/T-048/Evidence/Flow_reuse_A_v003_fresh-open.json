@@ -1,0 +1,396 @@
+{
+  "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v003.blend",
+  "sha256": "10520bf2d67d5b3841a852547ebc7bbca2b85801effd7e86c31e0e8041c913c8",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v001.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true
+    }
+  ],
+  "snapshot": {
+    "camera": {
+      "name": "FLOW_CAMERA_A",
+      "matrix": [
+        [
+          0.9658929705619812,
+          -0.07905197143554688,
+          0.24657964706420898,
+          2.25
+        ],
+        [
+          0.25894156098365784,
+          0.2948763966560364,
+          -0.9197810292243958,
+          -2.3499999046325684
+        ],
+        [
+          -7.069287377703404e-09,
+          0.9522597789764404,
+          0.3052888810634613,
+          0.7799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens": 48.0
+    },
+    "timing": [
+      1,
+      72,
+      24
+    ],
+    "controls": {
+      "FLOW_CONTROL": {
+        "phase": 0.0,
+        "speed": 0.16,
+        "density": 10,
+        "cuttings_visible": 1,
+        "flow_visible": 1,
+        "stage_emphasis": 0,
+        "operating_mode": 0,
+        "interface": "A-FLOWv001; illustrative circulation-only; phase cycles, speed cycles/s, density0..10; emphasis0all/1lower/2middle/3upper; mode0circulation/1off"
+      },
+      "WORLD_CONTROL": {
+        "travel_m": 0.5,
+        "rotation_rad": 0,
+        "variant": 0,
+        "cutaway": 1,
+        "show_hardware": 1,
+        "show_open": 1,
+        "show_casing": 0,
+        "show_cement": 0,
+        "show_formation": 1,
+        "show_shoe": 0,
+        "show_mud": 1,
+        "interface": "v003; environmentv009/BHAv006; source dimensions/controls preserved; static optical mud section, flush shoe-boundary context"
+      }
+    },
+    "animation": {
+      "FLOW_CAMERA_A": [
+        [
+          "location",
+          0,
+          [
+            [
+              1.0,
+              2.25
+            ],
+            [
+              72.0,
+              2.059999942779541
+            ]
+          ]
+        ],
+        [
+          "location",
+          1,
+          [
+            [
+              1.0,
+              -2.3499999046325684
+            ],
+            [
+              72.0,
+              -2.2699999809265137
+            ]
+          ]
+        ],
+        [
+          "location",
+          2,
+          [
+            [
+              1.0,
+              0.7799999713897705
+            ],
+            [
+              72.0,
+              0.699999988079071
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          0,
+          [
+            [
+              1.0,
+              1.260554552078247
+            ],
+            [
+              72.0,
+              1.281354546546936
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          1,
+          [
+            [
+              1.0,
+              7.069287377703404e-09
+            ],
+            [
+              72.0,
+              -7.081599306957287e-09
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          2,
+          [
+            [
+              1.0,
+              0.26192623376846313
+            ],
+            [
+              72.0,
+              0.2625207304954529
+            ]
+          ]
+        ]
+      ]
+    }
+  },
+  "all_relative_links_exist": true,
+  "linked_path_objects": 10,
+  "linked_particle_objects": 30,
+  "hardware_objects_checked": [
+    "DOWNHOLE_ADAPTER",
+    "DOWNHOLE_COLLAR",
+    "ECCO_HOUSING_SOURCE_MESH",
+    "PDC_COMPACT_01_01",
+    "PDC_COMPACT_01_02",
+    "PDC_COMPACT_01_03",
+    "PDC_COMPACT_01_04",
+    "PDC_COMPACT_01_05",
+    "PDC_COMPACT_01_06",
+    "PDC_COMPACT_01_07",
+    "PDC_COMPACT_01_08",
+    "PDC_COMPACT_02_01",
+    "PDC_COMPACT_02_02",
+    "PDC_COMPACT_02_03",
+    "PDC_COMPACT_02_04",
+    "PDC_COMPACT_02_05",
+    "PDC_COMPACT_02_06",
+    "PDC_COMPACT_02_07",
+    "PDC_COMPACT_02_08",
+    "PDC_COMPACT_03_01",
+    "PDC_COMPACT_03_02",
+    "PDC_COMPACT_03_03",
+    "PDC_COMPACT_03_04",
+    "PDC_COMPACT_03_05",
+    "PDC_COMPACT_03_06",
+    "PDC_COMPACT_03_07",
+    "PDC_COMPACT_03_08",
+    "PDC_COMPACT_04_01",
+    "PDC_COMPACT_04_02",
+    "PDC_COMPACT_04_03",
+    "PDC_COMPACT_04_04",
+    "PDC_COMPACT_04_05",
+    "PDC_COMPACT_04_06",
+    "PDC_COMPACT_04_07",
+    "PDC_COMPACT_04_08",
+    "PDC_COMPACT_05_01",
+    "PDC_COMPACT_05_02",
+    "PDC_COMPACT_05_03",
+    "PDC_COMPACT_05_04",
+    "PDC_COMPACT_05_05",
+    "PDC_COMPACT_05_06",
+    "PDC_COMPACT_05_07",
+    "PDC_COMPACT_05_08",
+    "PDC_COMPACT_06_01",
+    "PDC_COMPACT_06_02",
+    "PDC_COMPACT_06_03",
+    "PDC_COMPACT_06_04",
+    "PDC_COMPACT_06_05",
+    "PDC_COMPACT_06_06",
+    "PDC_COMPACT_06_07",
+    "PDC_COMPACT_06_08",
+    "PDC_GAUGE_PAD_01",
+    "PDC_GAUGE_PAD_02",
+    "PDC_GAUGE_PAD_03",
+    "PDC_GAUGE_PAD_04",
+    "PDC_GAUGE_PAD_05",
+    "PDC_GAUGE_PAD_06",
+    "PDC_INTEGRAL_BLADE_01",
+    "PDC_INTEGRAL_BLADE_02",
+    "PDC_INTEGRAL_BLADE_03",
+    "PDC_INTEGRAL_BLADE_04",
+    "PDC_INTEGRAL_BLADE_05",
+    "PDC_INTEGRAL_BLADE_06",
+    "PDC_NOZZLE_01",
+    "PDC_NOZZLE_02",
+    "PDC_NOZZLE_03",
+    "PDC_NOZZLE_04",
+    "PDC_NOZZLE_05",
+    "PDC_NOZZLE_06",
+    "PDC_NOZZLE_BORE_01",
+    "PDC_NOZZLE_BORE_02",
+    "PDC_NOZZLE_BORE_03",
+    "PDC_NOZZLE_BORE_04",
+    "PDC_NOZZLE_BORE_05",
+    "PDC_NOZZLE_BORE_06",
+    "PDC_TABLE_01_01",
+    "PDC_TABLE_01_02",
+    "PDC_TABLE_01_03",
+    "PDC_TABLE_01_04",
+    "PDC_TABLE_01_05",
+    "PDC_TABLE_01_06",
+    "PDC_TABLE_01_07",
+    "PDC_TABLE_01_08",
+    "PDC_TABLE_02_01",
+    "PDC_TABLE_02_02",
+    "PDC_TABLE_02_03",
+    "PDC_TABLE_02_04",
+    "PDC_TABLE_02_05",
+    "PDC_TABLE_02_06",
+    "PDC_TABLE_02_07",
+    "PDC_TABLE_02_08",
+    "PDC_TABLE_03_01",
+    "PDC_TABLE_03_02",
+    "PDC_TABLE_03_03",
+    "PDC_TABLE_03_04",
+    "PDC_TABLE_03_05",
+    "PDC_TABLE_03_06",
+    "PDC_TABLE_03_07",
+    "PDC_TABLE_03_08",
+    "PDC_TABLE_04_01",
+    "PDC_TABLE_04_02",
+    "PDC_TABLE_04_03",
+    "PDC_TABLE_04_04",
+    "PDC_TABLE_04_05",
+    "PDC_TABLE_04_06",
+    "PDC_TABLE_04_07",
+    "PDC_TABLE_04_08",
+    "PDC_TABLE_05_01",
+    "PDC_TABLE_05_02",
+    "PDC_TABLE_05_03",
+    "PDC_TABLE_05_04",
+    "PDC_TABLE_05_05",
+    "PDC_TABLE_05_06",
+    "PDC_TABLE_05_07",
+    "PDC_TABLE_05_08",
+    "PDC_TABLE_06_01",
+    "PDC_TABLE_06_02",
+    "PDC_TABLE_06_03",
+    "PDC_TABLE_06_04",
+    "PDC_TABLE_06_05",
+    "PDC_TABLE_06_06",
+    "PDC_TABLE_06_07",
+    "PDC_TABLE_06_08",
+    "PDC_WEB_AND_SHANK",
+    "TEMP | Imaging port 1 | removable acoustic cap",
+    "TEMP | Imaging port 2 | removable acoustic cap",
+    "TEMP | Imaging port 3 | removable acoustic cap",
+    "TEMP | Service cover 1 | removable fitted plate",
+    "TEMP | Service cover 2 | removable fitted plate",
+    "TEMP | Service cover 3 | removable fitted plate",
+    "TEMP | Service port 1 | removable metal plug",
+    "TEMP | Service port 2 | removable metal plug",
+    "TEMP | Service port 3 | removable metal plug",
+    "UPHOLE_ADAPTER",
+    "UPHOLE_COLLAR"
+  ],
+  "actual_hardware_radial_bound_m": 0.15240007711381226,
+  "strand_evaluated_vertices": 19280,
+  "strand_radial_bounds_m": [
+    0.15354999509757764,
+    0.15445000661287567
+  ],
+  "strand_hardware_clearance_bound_m": 0.001149917983765375,
+  "strand_nominal_wall_clearance_m": 0.001104160103170937,
+  "nearest_hardware_sample_m": 0.001178329810500145,
+  "particles_all_frames": [
+    1,
+    72
+  ],
+  "particle_sampled_radius_bounds_m": [
+    0.15329992859447286,
+    0.15470001101493835
+  ],
+  "continuous_complete_particle_hardware_bound_m": 0.0008992298867074866,
+  "continuous_complete_particle_wall_bound_m": 0.0008541667160466004,
+  "all_phase_clearance_method": "Guide nodes radius0.154m, segment azimuth difference<0.006rad => interpolated centre radius>=0.154*cos(0.003). Whole matte sliver has radial extent<=0.7mm and axial<=3mm; amber tracer radial<=0.45mm/axial<=6mm; strand inside0.45mm tube. This continuous radial envelope fits actual hardware convex radial bound and actual evaluated nominal wall face-plane lower radius (faceting included). Rigid centred T44 pose only.",
+  "control_probes": {
+    "speed_zero_freezes": true,
+    "phase_changes_position": true,
+    "density_zero_hides": true,
+    "cuttings_visibility": true,
+    "mode_off": true,
+    "emphasis_keeps_all_paths_active": true
+  },
+  "invalid": [],
+  "first_particle_motion": [
+    [
+      2.700000047683716,
+      0.15399999916553497,
+      5.0811863707346505e-34
+    ],
+    [
+      2.5397868156433105,
+      0.15399998426437378,
+      5.0811863707346505e-34
+    ],
+    [
+      2.3795735836029053,
+      0.15399999916553497,
+      5.0811863707346505e-34
+    ],
+    [
+      2.2193603515625,
+      0.15399999916553497,
+      5.0811863707346505e-34
+    ],
+    [
+      2.0591471195220947,
+      0.15399999916553497,
+      7.4593191357053e-07
+    ],
+    [
+      1.8991382122039795,
+      0.15383455157279968,
+      0.007133296690881252
+    ]
+  ],
+  "limits": "Nominal centred T44 pose/travel.5m, rotation0; no eccentric/other-pose clearance guarantee. Wet optical cut is not a fluid-domain solver. No physical transport validation.",
+  "particle_x_bounds_m": [
+    0.6992999911308289,
+    2.700700044631958
+  ],
+  "linked_flow_geometry_hash": "458401c84a76c9f9a6cf64fb4f18082ce321297c2fde820f04d80713115f9c75",
+  "linked_cutting_geometry_hash": "48a322ad97264433893468ec158a35273223447a464784f4ccb742adec7f11c3",
+  "cutting_geometry_library": "//..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v001.blend",
+  "shared_amber_emission": 0.20000000298023224,
+  "sliding_amber_tracers": 0,
+  "continuous_guide_radius_lower_m": 0.15399930700051975,
+  "continuous_strand_hardware_clearance_bound_m": 0.0011492298867074868,
+  "actual_wall_face_plane_lower_radius_m": 0.1555541667160466,
+  "nearest_actual_wall_sample_m": 0.0008547258330509067,
+  "actual_wall_meshes_checked": [
+    "NOMINAL_CUTAWAY",
+    "FORMATION_NOMINAL_CUTAWAY"
+  ]
+}

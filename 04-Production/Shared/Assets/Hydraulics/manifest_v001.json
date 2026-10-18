@@ -1,0 +1,117 @@
+{
+  "version": "v001",
+  "task": "T48",
+  "ticket": "adfe3c82-31e2-4c1e-a725-94a29c1ef573",
+  "parent": "T45",
+  "date": "2026-10-18",
+  "status": "waiting_upstream_T44_revised_release_NOT_complete_NOT_review",
+  "baseline_commit": "df1bc5626e820dc3a0b9af286bfcca4ce498d8c0",
+  "local_root": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco",
+  "units": "metres_seconds",
+  "axes": "+X downhole in selected T44 layout; -X uphole; physical source end identity unverified",
+  "top_collection": "HYDRAULICS_GEOMETRY",
+  "controls": [
+    "phase",
+    "speed",
+    "density",
+    "cuttings_visible",
+    "flow_visible",
+    "stage_emphasis",
+    "operating_mode"
+  ],
+  "native": [
+    {
+      "path": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend",
+      "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+      "bytes": 105963,
+      "storage": "local-only Git-ignored; no off-machine backup claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v005.blend",
+      "sha256": "55648b57df9bdb7848a0c96bf8dd8c5a4913d986147b7109d57f325496466ada",
+      "bytes": 134185,
+      "storage": "local-only Git-ignored; no off-machine backup claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v005.blend",
+      "sha256": "1e10e2df59b1e6b2c8334c69f42b0f70a73829985203ac7a63f8df9a8e87fbcc",
+      "bytes": 134135,
+      "storage": "local-only Git-ignored; no off-machine backup claimed"
+    }
+  ],
+  "approval_images": [
+    {
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v003/Flow_A_f0036.png",
+      "sha256": "2ca15c17d2ea133360178a0ca9cc4eea24f34bb00b1b592a9dc22dfcaef5e00f",
+      "bytes": 1197792,
+      "storage": "selected current generated still; integration eligible when master permits"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v003/Flow_B_f0048.png",
+      "sha256": "da0f8d435964d8861da97478b513af1b7c41ebe8a052b001a537eed38a51069f",
+      "bytes": 1000299,
+      "storage": "selected current generated still; integration eligible when master permits"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v003/Flow_B_f0096.png",
+      "sha256": "7de1758c5af440a7a97ca89f31fe8e90e4ebd1e5b93b02263afdb74112d11ea8",
+      "bytes": 987930,
+      "storage": "selected current generated still; integration eligible when master permits"
+    }
+  ],
+  "source_hashes": [
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "inspected_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "current_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+    },
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "inspected_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "current_sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "inspected_sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "current_sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+    }
+  ],
+  "behavior_demo": {
+    "exists": false,
+    "status": "not_started_before_upstream_hold",
+    "planned_path": "04-Production/Records/Tasks/T-048/Previews/Revision_v003/Hydraulics_behavior_B_v003.mp4",
+    "planned_frames": 96,
+    "planned_fps": 24,
+    "planned_duration_s": 4
+  },
+  "consumer_map": {
+    "proof": [
+      "Flow_reuse_A_v005",
+      "Flow_reuse_B_v005"
+    ],
+    "planned_V3": [
+      "S05-A",
+      "S05-B",
+      "S05-C"
+    ],
+    "movie_shots_built": false
+  },
+  "evidence": {
+    "native": "04-Production/Records/Tasks/T-048/Evidence/native-verification-summary_v003.json",
+    "benchmark": "04-Production/Records/Tasks/T-048/Evidence/benchmark_v002.json",
+    "report": "04-Production/Records/Tasks/T-048/report.md",
+    "handoff": "04-Production/Records/Tasks/T-048/handoff_v001.md",
+    "allow_list": "04-Production/Records/Tasks/T-048/allowed-tracked-files_v001.txt"
+  },
+  "limits": [
+    "Frozen pre-revision T44 source only; revised release must be adopted and revalidated before further work",
+    "Illustrative circulation-only; no CFD/calibrated velocity/pressure/wake or performance claim",
+    "Neutral morphological regions; exact physical end and functional stage-face assignment unverified",
+    "Centred nominal pose/travel0.5m/rotation0 only; complete finite envelope checked, actual wall faceting included",
+    "Source geometry/sensor references/order unchanged; all three regions simultaneous",
+    "Playable demo not rendered/encoded/inspected; motion readability and acceptance pending",
+    "Current-cache benchmark0.680-1.636s; T44 empty-cache initialization12.55-25.13s remains unresolved",
+    "Native/media local-only; no off-machine backup claimed",
+    "Master Git integration, remote candidate verification and independent verdict pending; no Review"
+  ]
+}

@@ -1,0 +1,2753 @@
+{
+  "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v006.blend",
+  "sha256": "463c7acc16eed27476eaa8de8d126e288c1fef2adfd494ae83d5e957807531aa",
+  "accepted_base": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "parent": null
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "parent": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend"
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "parent": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend"
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+      "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+      "parent": null
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "parent": null
+    }
+  ],
+  "snapshot": {
+    "camera": {
+      "name": "FLOW_CAMERA_B",
+      "matrix": [
+        [
+          0.9943456053733826,
+          -0.04071349278092384,
+          0.09807757288217545,
+          1.6699999570846558
+        ],
+        [
+          0.10619226843118668,
+          0.3812262713909149,
+          -0.918362557888031,
+          -1.0299999713897705
+        ],
+        [
+          4.447295864906664e-10,
+          0.9235848188400269,
+          0.38339412212371826,
+          0.4300000071525574
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens": 52.0
+    },
+    "timing": [
+      1,
+      96,
+      24
+    ],
+    "controls": {
+      "FLOW_CONTROL": {
+        "phase": 0.21,
+        "speed": 0.12,
+        "density": 7,
+        "cuttings_visible": 1,
+        "flow_visible": 1,
+        "stage_emphasis": 0,
+        "operating_mode": 0,
+        "interface": "A-FLOWv001; illustrative circulation-only; phase cycles, speed cycles/s, density0..10; emphasis0all/1lower/2middle/3upper; mode0circulation/1off"
+      },
+      "UPHOLE_CONTINUATION_CONTROL": {
+        "length_m": 12.0,
+        "show": 1,
+        "interface": "T44 continuationv001; metres, length0.25..40m; static simplified collar continuation, no exact client thread fit"
+      },
+      "WORLD_CONTROL": {
+        "travel_m": 0.5,
+        "rotation_rad": 0,
+        "variant": 0,
+        "cutaway": 1,
+        "show_hardware": 1,
+        "show_open": 1,
+        "show_casing": 0,
+        "show_cement": 0,
+        "show_formation": 1,
+        "show_shoe": 0,
+        "show_mud": 1,
+        "interface": "v003; environmentv009/BHAv006; source dimensions/controls preserved; static optical mud section, flush shoe-boundary context"
+      }
+    },
+    "animation": {
+      "FLOW_CAMERA_B": [
+        [
+          "location",
+          0,
+          [
+            [
+              1.0,
+              1.6699999570846558
+            ],
+            [
+              96.0,
+              1.440000057220459
+            ]
+          ]
+        ],
+        [
+          "location",
+          1,
+          [
+            [
+              1.0,
+              -1.0299999713897705
+            ],
+            [
+              96.0,
+              -1.0
+            ]
+          ]
+        ],
+        [
+          "location",
+          2,
+          [
+            [
+              1.0,
+              0.4300000071525574
+            ],
+            [
+              96.0,
+              0.4099999964237213
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          0,
+          [
+            [
+              1.0,
+              1.1773278713226318
+            ],
+            [
+              96.0,
+              1.1831129789352417
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          1,
+          [
+            [
+              1.0,
+              -4.447295864906664e-10
+            ],
+            [
+              96.0,
+              7.453909489640864e-09
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          2,
+          [
+            [
+              1.0,
+              0.10639287531375885
+            ],
+            [
+              96.0,
+              0.08975820988416672
+            ]
+          ]
+        ]
+      ]
+    }
+  },
+  "one_ecco": true,
+  "one_extension": true,
+  "one_joint": true,
+  "registered_housing_matrix": [
+    1.0,
+    0.0,
+    0.0,
+    0.4999999403953552,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "all_frames_rigid_registration_checks": 96,
+  "full_finite_envelope_x_housing_m": [
+    0.19399906253272295,
+    2.20600104773587
+  ],
+  "centre_nodes_x_m": [
+    0.20000006258487701,
+    2.200000047683716
+  ],
+  "max_shape_axial_extent_m": 0.006000000052154064,
+  "full_shape_radial_extent_m": 0.000699999975040555,
+  "path_angular_step_max_rad": 0.005432953897946816,
+  "guide_radius_lower_m": 0.15399842387273177,
+  "guide_radius_upper_m": 0.15400100776565126,
+  "actual_hardware_clipped_radial_bound_m": 0.15240107711381226,
+  "actual_wall_facet_radius_lower_m": 0.15555316492458918,
+  "continuous_complete_shape_hardware_clearance_m": 0.0008973467838789551,
+  "continuous_complete_shape_wall_clearance_m": 0.0008521571838973618,
+  "finite_mesh_sample_extrema": {
+    "xlo": 0.19400005042552948,
+    "xhi": 2.2039976119995117,
+    "rlo": 0.15329992859447286,
+    "rhi": 0.15470001131201924
+  },
+  "all_frame_finite_vertices": 48080,
+  "nearest_actual_hardware_peak_vertex_m": 0.0009692560997791588,
+  "nearest_actual_wall_peak_vertex_m": 0.0008598524727858603,
+  "covered_hardware_meshes": [
+    {
+      "object": "ECCO_HOUSING_SOURCE_MESH",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 348876,
+      "triangles": 697805,
+      "x_bounds": [
+        0.0,
+        2.4000000953674316
+      ],
+      "selected_faces": 632728,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": 0.15240007711381226,
+      "selection": "all_intersecting_triangles_clipped_to_full_finite_x_slab"
+    },
+    {
+      "object": "ECCO_CUTTER_PREVIEW_ONLY",
+      "roles": [
+        "hardware"
+      ],
+      "selection": "hidden_source_helper_excluded",
+      "reason": "Source object.hide_render is true"
+    },
+    {
+      "object": "TEMP | Service port 3 | removable metal plug",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 512,
+      "triangles": 1020,
+      "x_bounds": [
+        0.8922998905181885,
+        0.9272998571395874
+      ],
+      "selected_faces": 1020,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": 0.13724444082652162,
+      "selection": "all_intersecting_triangles_clipped_to_full_finite_x_slab"
+    },
+    {
+      "object": "TEMP | Service port 2 | removable metal plug",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 512,
+      "triangles": 1020,
+      "x_bounds": [
+        0.892300009727478,
+        0.927299976348877
+      ],
+      "selected_faces": 1020,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": 0.13724437712483234,
+      "selection": "all_intersecting_triangles_clipped_to_full_finite_x_slab"
+    },
+    {
+      "object": "TEMP | Service port 1 | removable metal plug",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 512,
+      "triangles": 1020,
+      "x_bounds": [
+        0.892300009727478,
+        0.927299976348877
+      ],
+      "selected_faces": 1020,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": 0.13724437712483234,
+      "selection": "all_intersecting_triangles_clipped_to_full_finite_x_slab"
+    },
+    {
+      "object": "TEMP | Service cover 3 | removable fitted plate",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 152,
+      "triangles": 300,
+      "x_bounds": [
+        0.5558499693870544,
+        0.7008499503135681
+      ],
+      "selected_faces": 300,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": 0.13745213450442964,
+      "selection": "all_intersecting_triangles_clipped_to_full_finite_x_slab"
+    },
+    {
+      "object": "TEMP | Service cover 2 | removable fitted plate",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 152,
+      "triangles": 300,
+      "x_bounds": [
+        0.5558499693870544,
+        0.7008499503135681
+      ],
+      "selected_faces": 300,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": 0.13745249354002434,
+      "selection": "all_intersecting_triangles_clipped_to_full_finite_x_slab"
+    },
+    {
+      "object": "TEMP | Service cover 1 | removable fitted plate",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 152,
+      "triangles": 300,
+      "x_bounds": [
+        0.5558499693870544,
+        0.7008499503135681
+      ],
+      "selected_faces": 300,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": 0.13745213118203173,
+      "selection": "all_intersecting_triangles_clipped_to_full_finite_x_slab"
+    },
+    {
+      "object": "TEMP | Imaging port 3 | removable acoustic cap",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 512,
+      "triangles": 1020,
+      "x_bounds": [
+        0.7099999785423279,
+        0.7499999403953552
+      ],
+      "selected_faces": 1020,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": 0.13242862942512956,
+      "selection": "all_intersecting_triangles_clipped_to_full_finite_x_slab"
+    },
+    {
+      "object": "TEMP | Imaging port 2 | removable acoustic cap",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 512,
+      "triangles": 1020,
+      "x_bounds": [
+        0.7099999785423279,
+        0.7499999403953552
+      ],
+      "selected_faces": 1020,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": 0.1324285918299835,
+      "selection": "all_intersecting_triangles_clipped_to_full_finite_x_slab"
+    },
+    {
+      "object": "TEMP | Imaging port 1 | removable acoustic cap",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 512,
+      "triangles": 1020,
+      "x_bounds": [
+        0.7099999785423279,
+        0.7499999403953552
+      ],
+      "selected_faces": 1020,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": 0.13242857252481594,
+      "selection": "all_intersecting_triangles_clipped_to_full_finite_x_slab"
+    },
+    {
+      "object": "UPHOLE_COLLAR",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 325,
+      "triangles": 512,
+      "x_bounds": [
+        -1.5,
+        -0.11999999731779099
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "DOWNHOLE_COLLAR",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 325,
+      "triangles": 512,
+      "x_bounds": [
+        2.5199999809265137,
+        2.9000000953674316
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "UPHOLE_ADAPTER",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 455,
+      "triangles": 768,
+      "x_bounds": [
+        -0.11999999731779099,
+        0.0
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "DOWNHOLE_ADAPTER",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 455,
+      "triangles": 768,
+      "x_bounds": [
+        2.4000000953674316,
+        2.5199999809265137
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_WEB_AND_SHANK",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 1164,
+      "triangles": 2112,
+      "x_bounds": [
+        2.9000000953674316,
+        3.191999912261963
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_INTEGRAL_BLADE_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 208,
+      "triangles": 412,
+      "x_bounds": [
+        2.997727632522583,
+        3.2249999046325684
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_01_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1898815631866455,
+        3.20611834526062
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_01_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.19458270072937,
+        3.2063705921173096
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_01_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.198866367340088,
+        3.2151336669921875
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_01_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2035679817199707,
+        3.2153854370117188
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_01_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.207864999771118,
+        3.224135160446167
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_01_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.212566614151001,
+        3.2243869304656982
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_01_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2128725051879883,
+        3.2291274070739746
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_01_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.217573881149292,
+        3.229379415512085
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_01_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2068798542022705,
+        3.2231199741363525
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_01_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.211580991744995,
+        3.223372220993042
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_01_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.189861536026001,
+        3.2061383724212646
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_01_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.194563150405884,
+        3.206390142440796
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_01_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.165886640548706,
+        3.1821134090423584
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_01_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1705875396728516,
+        3.182365894317627
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_01_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.141866683959961,
+        3.1581335067749023
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_01_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1465682983398438,
+        3.1583852767944336
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_GAUGE_PAD_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 18,
+      "triangles": 16,
+      "x_bounds": [
+        3.015000104904175,
+        3.119999885559082
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 165,
+      "triangles": 256,
+      "x_bounds": [
+        3.185999870300293,
+        3.194000005722046
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_BORE_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1865999698638916,
+        3.1874001026153564
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_INTEGRAL_BLADE_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 208,
+      "triangles": 412,
+      "x_bounds": [
+        2.997727394104004,
+        3.2249999046325684
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_02_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.189882755279541,
+        3.2061171531677246
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_02_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1945838928222656,
+        3.206369400024414
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_02_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.198861837387085,
+        3.2151381969451904
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_02_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.203563690185547,
+        3.2153897285461426
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_02_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.207882881164551,
+        3.2241172790527344
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_02_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2125840187072754,
+        3.224369525909424
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_02_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.212869882583618,
+        3.2291300296783447
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_02_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.217571496963501,
+        3.229381799697876
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_02_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2068614959716797,
+        3.2231383323669434
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_02_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2115633487701416,
+        3.2233898639678955
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_02_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.189863920211792,
+        3.2061359882354736
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_02_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.194565534591675,
+        3.206387758255005
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_02_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.16587233543396,
+        3.1821277141571045
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_02_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1705739498138428,
+        3.1823794841766357
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_02_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1418814659118652,
+        3.158118724822998
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_02_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.14658260345459,
+        3.1583709716796875
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_GAUGE_PAD_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 18,
+      "triangles": 16,
+      "x_bounds": [
+        3.015000104904175,
+        3.119999885559082
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 165,
+      "triangles": 256,
+      "x_bounds": [
+        3.185999870300293,
+        3.194000005722046
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_BORE_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1865999698638916,
+        3.1874001026153564
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_INTEGRAL_BLADE_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 208,
+      "triangles": 412,
+      "x_bounds": [
+        2.997727632522583,
+        3.2249999046325684
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_03_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1898751258850098,
+        3.206124782562256
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_03_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1945765018463135,
+        3.206376791000366
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_03_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1988627910614014,
+        3.215137243270874
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_03_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.203564405441284,
+        3.2153890132904053
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_03_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.207883834838867,
+        3.224116325378418
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_03_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.212584972381592,
+        3.2243685722351074
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_03_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2128686904907227,
+        3.2291312217712402
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_03_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2175703048706055,
+        3.2293829917907715
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_03_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2068614959716797,
+        3.2231383323669434
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_03_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2115631103515625,
+        3.2233901023864746
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_03_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1898698806762695,
+        3.206130027770996
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_03_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1945712566375732,
+        3.2063820362091064
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_03_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.165888547897339,
+        3.1821115016937256
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_03_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1705894470214844,
+        3.182363986968994
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_03_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1418731212615967,
+        3.1581270694732666
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_03_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1465744972229004,
+        3.158379077911377
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_GAUGE_PAD_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 18,
+      "triangles": 16,
+      "x_bounds": [
+        3.015000104904175,
+        3.119999885559082
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 165,
+      "triangles": 256,
+      "x_bounds": [
+        3.185999870300293,
+        3.194000005722046
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_BORE_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1865999698638916,
+        3.1874001026153564
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_INTEGRAL_BLADE_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 208,
+      "triangles": 412,
+      "x_bounds": [
+        2.997727632522583,
+        3.2249999046325684
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_04_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1898815631866455,
+        3.20611834526062
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_04_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.19458270072937,
+        3.2063705921173096
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_04_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.198866367340088,
+        3.2151336669921875
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_04_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2035679817199707,
+        3.2153854370117188
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_04_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.207864999771118,
+        3.224135160446167
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_04_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.212566614151001,
+        3.2243869304656982
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_04_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2128725051879883,
+        3.2291274070739746
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_04_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.217573881149292,
+        3.229379415512085
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_04_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2068798542022705,
+        3.2231199741363525
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_04_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.211580991744995,
+        3.223372220993042
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_04_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.189861536026001,
+        3.2061383724212646
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_04_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.194563150405884,
+        3.206390142440796
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_04_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.165886640548706,
+        3.1821134090423584
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_04_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1705875396728516,
+        3.182365894317627
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_04_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.141866683959961,
+        3.1581335067749023
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_04_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1465682983398438,
+        3.1583852767944336
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_GAUGE_PAD_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 18,
+      "triangles": 16,
+      "x_bounds": [
+        3.015000104904175,
+        3.119999885559082
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 165,
+      "triangles": 256,
+      "x_bounds": [
+        3.185999870300293,
+        3.194000005722046
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_BORE_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1865999698638916,
+        3.1874001026153564
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_INTEGRAL_BLADE_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 208,
+      "triangles": 412,
+      "x_bounds": [
+        2.997727394104004,
+        3.2249999046325684
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_05_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.189882755279541,
+        3.2061171531677246
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_05_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1945838928222656,
+        3.206369400024414
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_05_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.198861837387085,
+        3.2151381969451904
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_05_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.203563690185547,
+        3.2153897285461426
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_05_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.207882881164551,
+        3.2241172790527344
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_05_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2125840187072754,
+        3.224369525909424
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_05_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.212869882583618,
+        3.2291300296783447
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_05_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.217571496963501,
+        3.229381799697876
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_05_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2068614959716797,
+        3.2231383323669434
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_05_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2115633487701416,
+        3.2233898639678955
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_05_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.189863920211792,
+        3.2061359882354736
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_05_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.194565534591675,
+        3.206387758255005
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_05_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.16587233543396,
+        3.1821277141571045
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_05_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1705739498138428,
+        3.1823794841766357
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_05_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1418814659118652,
+        3.158118724822998
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_05_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.14658260345459,
+        3.1583709716796875
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_GAUGE_PAD_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 18,
+      "triangles": 16,
+      "x_bounds": [
+        3.015000104904175,
+        3.119999885559082
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 165,
+      "triangles": 256,
+      "x_bounds": [
+        3.185999870300293,
+        3.194000005722046
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_BORE_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1865999698638916,
+        3.1874001026153564
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_INTEGRAL_BLADE_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 208,
+      "triangles": 412,
+      "x_bounds": [
+        2.997727632522583,
+        3.2249999046325684
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_06_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1898751258850098,
+        3.206124782562256
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_06_01",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1945765018463135,
+        3.206376791000366
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_06_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1988627910614014,
+        3.215137243270874
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_06_02",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.203564405441284,
+        3.2153890132904053
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_06_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.207883834838867,
+        3.224116325378418
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_06_03",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.212584972381592,
+        3.2243685722351074
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_06_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2128686904907227,
+        3.2291312217712402
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_06_04",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2175703048706055,
+        3.2293829917907715
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_06_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2068614959716797,
+        3.2231383323669434
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_06_05",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.2115631103515625,
+        3.2233901023864746
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_06_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1898698806762695,
+        3.206130027770996
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_06_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1945712566375732,
+        3.2063820362091064
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_06_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.165888547897339,
+        3.1821115016937256
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_06_07",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1705894470214844,
+        3.182363986968994
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_COMPACT_06_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1418731212615967,
+        3.1581270694732666
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_TABLE_06_08",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1465744972229004,
+        3.158379077911377
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_GAUGE_PAD_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 18,
+      "triangles": 16,
+      "x_bounds": [
+        3.015000104904175,
+        3.119999885559082
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 165,
+      "triangles": 256,
+      "x_bounds": [
+        3.185999870300293,
+        3.194000005722046
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "PDC_NOZZLE_BORE_06",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "roles": [
+        "hardware"
+      ],
+      "vertices": 192,
+      "triangles": 380,
+      "x_bounds": [
+        3.1865999698638916,
+        3.1874001026153564
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "UPHOLE_UNIT_COLLAR_EXTENSION",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "roles": [
+        "extension"
+      ],
+      "vertices": 325,
+      "triangles": 512,
+      "x_bounds": [
+        -13.5,
+        -1.5
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    },
+    {
+      "object": "UPHOLE_SIMPLIFIED_CONNECTION",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "roles": [
+        "joint"
+      ],
+      "vertices": 388,
+      "triangles": 576,
+      "x_bounds": [
+        -1.5800000429153442,
+        -1.440000057220459
+      ],
+      "selected_faces": 0,
+      "crossing_faces_all_vertices_outside": 0,
+      "radial_bound_m": null,
+      "selection": "whole_object_x_aabb_disjoint"
+    }
+  ],
+  "hardware_roles_enumerated": {
+    "hardware": 135,
+    "extension": 1,
+    "joint": 1
+  },
+  "faces_crossing_slab_with_all_vertices_outside": 0,
+  "clip_regression_witness": {
+    "all_vertices_outside": true,
+    "clipped_surface": [
+      [
+        0.19399906253272292,
+        0.12,
+        0.0
+      ],
+      [
+        2.20600104773587,
+        0.12,
+        0.0
+      ],
+      [
+        2.20600104773587,
+        0.12,
+        0.0075074788006383175
+      ],
+      [
+        0.1939990625327228,
+        0.12,
+        0.0024925211993616827
+      ]
+    ],
+    "included": true
+  },
+  "linked_materials_fresh_open": [
+    {
+      "name": "BHA_ConnectionSteel",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "node_count": 2
+    },
+    {
+      "name": "BHA_ContinuationSteel",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "node_count": 2
+    },
+    {
+      "name": "WORLD_AdapterSteel",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "node_count": 2
+    },
+    {
+      "name": "WORLD_PDC_Carbide",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "node_count": 2
+    },
+    {
+      "name": "WORLD_PDC_DiamondTable",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "node_count": 2
+    },
+    {
+      "name": "WORLD_PDC_NozzleThroat",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "node_count": 2
+    },
+    {
+      "name": "WORLD_PDC_Steel",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "node_count": 2
+    },
+    {
+      "name": "WORLD_PDC_Web",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "node_count": 2
+    },
+    {
+      "name": "WORLD_SatinSteel",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "node_count": 2
+    },
+    {
+      "name": "Housing_neutral",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "node_count": 2
+    },
+    {
+      "name": "TEMP_CLOSURES_neutral",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "node_count": 2
+    },
+    {
+      "name": "FLOW_ContinuousAmber",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+      "node_count": 2
+    },
+    {
+      "name": "FLOW_MatteCuttings",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+      "node_count": 2
+    },
+    {
+      "name": "FLOW_SlidingAmber",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+      "node_count": 2
+    },
+    {
+      "name": "FORMATION_WetMineral_v005",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "node_count": 8
+    },
+    {
+      "name": "WORLD_CasingSteel",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "node_count": 2
+    },
+    {
+      "name": "WORLD_Cement",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "node_count": 5
+    },
+    {
+      "name": "WORLD_StaticFluid_v009",
+      "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "node_count": 2
+    }
+  ],
+  "first_particle_housing_frame_motion": [
+    [
+      1.77944016456604,
+      0.15399999916553497,
+      5.0811863707346505e-34
+    ],
+    [
+      1.6592803001403809,
+      0.15399999916553497,
+      5.0811863707346505e-34
+    ],
+    [
+      1.5391209125518799,
+      0.153999924659729,
+      0.00013391584798227996
+    ],
+    [
+      1.4191038608551025,
+      0.15389883518218994,
+      0.005574008449912071
+    ],
+    [
+      1.2994444370269775,
+      0.15311743319034576,
+      0.016462257131934166
+    ],
+    [
+      1.1798040866851807,
+      0.15152844786643982,
+      0.027477771043777466
+    ],
+    [
+      1.059812068939209,
+      0.15034618973731995,
+      0.03334696963429451
+    ],
+    [
+      0.9396944642066956,
+      0.15078803896903992,
+      0.031287889927625656
+    ]
+  ],
+  "control_probes": {
+    "speed_zero": true,
+    "phase": true,
+    "mode_off_hides_all": true
+  },
+  "source_housing_mesh_hash": "8fdbba227e8c46a9520e1cc8fb4cd270d6486ed0a58781efea5f7ee2116ebc9b",
+  "limits": "Illustrative centred nominal pose only, every frame static rigid source registration. All relevant hardware provenance enumerated; triangle/slab intersection includes crossing faces and finite axial support. Floating guard1micrometre applied. No CFD/pressure/wake/transport validation; physical end/functional stage mapping remains unverified."
+}

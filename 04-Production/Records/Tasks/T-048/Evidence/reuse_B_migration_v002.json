@@ -1,0 +1,306 @@
+{
+  "before": {
+    "camera": {
+      "name": "FLOW_CAMERA_B",
+      "matrix": [
+        [
+          0.9943456053733826,
+          -0.04071349278092384,
+          0.09807757288217545,
+          1.6699999570846558
+        ],
+        [
+          0.10619226843118668,
+          0.3812262713909149,
+          -0.918362557888031,
+          -1.0299999713897705
+        ],
+        [
+          4.447295864906664e-10,
+          0.9235848188400269,
+          0.38339412212371826,
+          0.4300000071525574
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens": 52.0
+    },
+    "timing": [
+      1,
+      96,
+      24
+    ],
+    "controls": {
+      "FLOW_CONTROL": {
+        "phase": 0.21,
+        "speed": 0.12,
+        "density": 7,
+        "cuttings_visible": 1,
+        "flow_visible": 1,
+        "stage_emphasis": 0,
+        "operating_mode": 0,
+        "interface": "A-FLOWv001; illustrative circulation-only; phase cycles, speed cycles/s, density0..10; emphasis0all/1lower/2middle/3upper; mode0circulation/1off"
+      },
+      "WORLD_CONTROL": {
+        "travel_m": 0.5,
+        "rotation_rad": 0,
+        "variant": 0,
+        "cutaway": 1,
+        "show_hardware": 1,
+        "show_open": 1,
+        "show_casing": 0,
+        "show_cement": 0,
+        "show_formation": 1,
+        "show_shoe": 0,
+        "show_mud": 1,
+        "interface": "v003; environmentv009/BHAv006; source dimensions/controls preserved; static optical mud section, flush shoe-boundary context"
+      }
+    },
+    "animation": {
+      "FLOW_CAMERA_B": [
+        [
+          "location",
+          0,
+          [
+            [
+              1.0,
+              1.6699999570846558
+            ],
+            [
+              96.0,
+              1.440000057220459
+            ]
+          ]
+        ],
+        [
+          "location",
+          1,
+          [
+            [
+              1.0,
+              -1.0299999713897705
+            ],
+            [
+              96.0,
+              -1.0
+            ]
+          ]
+        ],
+        [
+          "location",
+          2,
+          [
+            [
+              1.0,
+              0.4300000071525574
+            ],
+            [
+              96.0,
+              0.4099999964237213
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          0,
+          [
+            [
+              1.0,
+              1.1773278713226318
+            ],
+            [
+              96.0,
+              1.1831129789352417
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          1,
+          [
+            [
+              1.0,
+              -4.447295864906664e-10
+            ],
+            [
+              96.0,
+              7.453909489640864e-09
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          2,
+          [
+            [
+              1.0,
+              0.10639287531375885
+            ],
+            [
+              96.0,
+              0.08975820988416672
+            ]
+          ]
+        ]
+      ]
+    }
+  },
+  "after": {
+    "camera": {
+      "name": "FLOW_CAMERA_B",
+      "matrix": [
+        [
+          0.9943456053733826,
+          -0.04071349278092384,
+          0.09807757288217545,
+          1.6699999570846558
+        ],
+        [
+          0.10619226843118668,
+          0.3812262713909149,
+          -0.918362557888031,
+          -1.0299999713897705
+        ],
+        [
+          4.447295864906664e-10,
+          0.9235848188400269,
+          0.38339412212371826,
+          0.4300000071525574
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens": 52.0
+    },
+    "timing": [
+      1,
+      96,
+      24
+    ],
+    "controls": {
+      "FLOW_CONTROL": {
+        "phase": 0.21,
+        "speed": 0.12,
+        "density": 7,
+        "cuttings_visible": 1,
+        "flow_visible": 1,
+        "stage_emphasis": 0,
+        "operating_mode": 0,
+        "interface": "A-FLOWv001; illustrative circulation-only; phase cycles, speed cycles/s, density0..10; emphasis0all/1lower/2middle/3upper; mode0circulation/1off"
+      },
+      "WORLD_CONTROL": {
+        "travel_m": 0.5,
+        "rotation_rad": 0,
+        "variant": 0,
+        "cutaway": 1,
+        "show_hardware": 1,
+        "show_open": 1,
+        "show_casing": 0,
+        "show_cement": 0,
+        "show_formation": 1,
+        "show_shoe": 0,
+        "show_mud": 1,
+        "interface": "v003; environmentv009/BHAv006; source dimensions/controls preserved; static optical mud section, flush shoe-boundary context"
+      }
+    },
+    "animation": {
+      "FLOW_CAMERA_B": [
+        [
+          "location",
+          0,
+          [
+            [
+              1.0,
+              1.6699999570846558
+            ],
+            [
+              96.0,
+              1.440000057220459
+            ]
+          ]
+        ],
+        [
+          "location",
+          1,
+          [
+            [
+              1.0,
+              -1.0299999713897705
+            ],
+            [
+              96.0,
+              -1.0
+            ]
+          ]
+        ],
+        [
+          "location",
+          2,
+          [
+            [
+              1.0,
+              0.4300000071525574
+            ],
+            [
+              96.0,
+              0.4099999964237213
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          0,
+          [
+            [
+              1.0,
+              1.1773278713226318
+            ],
+            [
+              96.0,
+              1.1831129789352417
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          1,
+          [
+            [
+              1.0,
+              -4.447295864906664e-10
+            ],
+            [
+              96.0,
+              7.453909489640864e-09
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          2,
+          [
+            [
+              1.0,
+              0.10639287531375885
+            ],
+            [
+              96.0,
+              0.08975820988416672
+            ]
+          ]
+        ]
+      ]
+    }
+  },
+  "preserved_camera_timing_animation_controls": true,
+  "revision": "Shared amber emission .20 ->.32 only; linked data reloaded once per consumer"
+}

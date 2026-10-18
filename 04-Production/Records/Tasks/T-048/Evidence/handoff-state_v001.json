@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-18",
+  "run": "319857f5-b805-4367-8245-3116fa0b5d43",
+  "worker": "codex-t45-flow-builder",
+  "run_status": "waiting",
+  "hold": "T45 master instructed stop after live T44 uphole-continuity reopening",
+  "active_blender_jobs": false,
+  "builds_after_hold": false,
+  "demo_started": false,
+  "native": [
+    {
+      "path": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend",
+      "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+      "bytes": 105963,
+      "storage": "local-only Git-ignored; no off-machine backup claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v005.blend",
+      "sha256": "55648b57df9bdb7848a0c96bf8dd8c5a4913d986147b7109d57f325496466ada",
+      "bytes": 134185,
+      "storage": "local-only Git-ignored; no off-machine backup claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v005.blend",
+      "sha256": "1e10e2df59b1e6b2c8334c69f42b0f70a73829985203ac7a63f8df9a8e87fbcc",
+      "bytes": 134135,
+      "storage": "local-only Git-ignored; no off-machine backup claimed"
+    }
+  ],
+  "pending": [
+    "revised T44 release and restored ownership",
+    "versioned dependency migration and affected rechecks",
+    "granted B96-frame demo render plus encode/decode/motion inspection",
+    "master remote commit and independent verification before Review"
+  ]
+}

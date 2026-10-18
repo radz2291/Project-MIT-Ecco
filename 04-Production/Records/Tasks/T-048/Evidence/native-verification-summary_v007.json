@@ -1,0 +1,15 @@
+{
+  "all_checks_pass": true,
+  "preflight_item5_repaired": true,
+  "method": "Collection provenance -> complete finite X slab from actual linked shapes -> triangle clipping -> conservative radial bound; all frames actual pose/finite meshes checked",
+  "consumers": [
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v006.blend",
+      "sha256": "24813e95903c38ba6d7dd24badc4f1ae0f2f09b19cd76c3de6b699b90218a4ab"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v006.blend",
+      "sha256": "463c7acc16eed27476eaa8de8d126e288c1fef2adfd494ae83d5e957807531aa"
+    }
+  ]
+}

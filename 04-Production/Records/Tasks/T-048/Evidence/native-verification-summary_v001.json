@@ -1,0 +1,22 @@
+{
+  "all_checks_pass": true,
+  "consumers": [
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v001.blend",
+      "sha256": "67c4901144d9de9c96debef969b0543b9c56c15e37f3854b70540849a835d7d1"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v002.blend",
+      "sha256": "5ebffd83bea6566969e0f3d39dca03a91767f326afed6f2a0869d54337f41aa1"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v001.blend",
+      "sha256": "ee830fad5d7ed28b69b2b7f77af89ecedfa701c85f0ba9010abd01e47660e1fc"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v002.blend",
+      "sha256": "545e30acd93d7a1261810fe3a185cfb3d2005622c638a6e43cd78fde5109cf21"
+    }
+  ],
+  "revision_preserves_camera_timing_controls_animation": true
+}

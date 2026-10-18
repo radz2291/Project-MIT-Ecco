@@ -1,0 +1,489 @@
+{
+  "accepted_base_commit": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "source": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v005.blend",
+  "source_sha256": "1e10e2df59b1e6b2c8334c69f42b0f70a73829985203ac7a63f8df9a8e87fbcc",
+  "output": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v006.blend",
+  "output_sha256": "463c7acc16eed27476eaa8de8d126e288c1fef2adfd494ae83d5e957807531aa",
+  "before": {
+    "camera": {
+      "name": "FLOW_CAMERA_B",
+      "matrix": [
+        [
+          0.9943456053733826,
+          -0.04071349278092384,
+          0.09807757288217545,
+          1.6699999570846558
+        ],
+        [
+          0.10619226843118668,
+          0.3812262713909149,
+          -0.918362557888031,
+          -1.0299999713897705
+        ],
+        [
+          4.447295864906664e-10,
+          0.9235848188400269,
+          0.38339412212371826,
+          0.4300000071525574
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens": 52.0
+    },
+    "timing": [
+      1,
+      96,
+      24
+    ],
+    "controls": {
+      "FLOW_CONTROL": {
+        "phase": 0.21,
+        "speed": 0.12,
+        "density": 7,
+        "cuttings_visible": 1,
+        "flow_visible": 1,
+        "stage_emphasis": 0,
+        "operating_mode": 0,
+        "interface": "A-FLOWv001; illustrative circulation-only; phase cycles, speed cycles/s, density0..10; emphasis0all/1lower/2middle/3upper; mode0circulation/1off"
+      },
+      "WORLD_CONTROL": {
+        "travel_m": 0.5,
+        "rotation_rad": 0,
+        "variant": 0,
+        "cutaway": 1,
+        "show_hardware": 1,
+        "show_open": 1,
+        "show_casing": 0,
+        "show_cement": 0,
+        "show_formation": 1,
+        "show_shoe": 0,
+        "show_mud": 1,
+        "interface": "v003; environmentv009/BHAv006; source dimensions/controls preserved; static optical mud section, flush shoe-boundary context"
+      }
+    },
+    "animation": {
+      "FLOW_CAMERA_B": [
+        [
+          "location",
+          0,
+          [
+            [
+              1.0,
+              1.6699999570846558
+            ],
+            [
+              96.0,
+              1.440000057220459
+            ]
+          ]
+        ],
+        [
+          "location",
+          1,
+          [
+            [
+              1.0,
+              -1.0299999713897705
+            ],
+            [
+              96.0,
+              -1.0
+            ]
+          ]
+        ],
+        [
+          "location",
+          2,
+          [
+            [
+              1.0,
+              0.4300000071525574
+            ],
+            [
+              96.0,
+              0.4099999964237213
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          0,
+          [
+            [
+              1.0,
+              1.1773278713226318
+            ],
+            [
+              96.0,
+              1.1831129789352417
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          1,
+          [
+            [
+              1.0,
+              -4.447295864906664e-10
+            ],
+            [
+              96.0,
+              7.453909489640864e-09
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          2,
+          [
+            [
+              1.0,
+              0.10639287531375885
+            ],
+            [
+              96.0,
+              0.08975820988416672
+            ]
+          ]
+        ]
+      ]
+    }
+  },
+  "after": {
+    "camera": {
+      "name": "FLOW_CAMERA_B",
+      "matrix": [
+        [
+          0.9943456053733826,
+          -0.04071349278092384,
+          0.09807757288217545,
+          1.6699999570846558
+        ],
+        [
+          0.10619226843118668,
+          0.3812262713909149,
+          -0.918362557888031,
+          -1.0299999713897705
+        ],
+        [
+          4.447295864906664e-10,
+          0.9235848188400269,
+          0.38339412212371826,
+          0.4300000071525574
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens": 52.0
+    },
+    "timing": [
+      1,
+      96,
+      24
+    ],
+    "controls": {
+      "FLOW_CONTROL": {
+        "phase": 0.21,
+        "speed": 0.12,
+        "density": 7,
+        "cuttings_visible": 1,
+        "flow_visible": 1,
+        "stage_emphasis": 0,
+        "operating_mode": 0,
+        "interface": "A-FLOWv001; illustrative circulation-only; phase cycles, speed cycles/s, density0..10; emphasis0all/1lower/2middle/3upper; mode0circulation/1off"
+      },
+      "UPHOLE_CONTINUATION_CONTROL": {
+        "length_m": 12.0,
+        "show": 1,
+        "interface": "T44 continuationv001; metres, length0.25..40m; static simplified collar continuation, no exact client thread fit"
+      },
+      "WORLD_CONTROL": {
+        "travel_m": 0.5,
+        "rotation_rad": 0,
+        "variant": 0,
+        "cutaway": 1,
+        "show_hardware": 1,
+        "show_open": 1,
+        "show_casing": 0,
+        "show_cement": 0,
+        "show_formation": 1,
+        "show_shoe": 0,
+        "show_mud": 1,
+        "interface": "v003; environmentv009/BHAv006; source dimensions/controls preserved; static optical mud section, flush shoe-boundary context"
+      }
+    },
+    "animation": {
+      "FLOW_CAMERA_B": [
+        [
+          "location",
+          0,
+          [
+            [
+              1.0,
+              1.6699999570846558
+            ],
+            [
+              96.0,
+              1.440000057220459
+            ]
+          ]
+        ],
+        [
+          "location",
+          1,
+          [
+            [
+              1.0,
+              -1.0299999713897705
+            ],
+            [
+              96.0,
+              -1.0
+            ]
+          ]
+        ],
+        [
+          "location",
+          2,
+          [
+            [
+              1.0,
+              0.4300000071525574
+            ],
+            [
+              96.0,
+              0.4099999964237213
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          0,
+          [
+            [
+              1.0,
+              1.1773278713226318
+            ],
+            [
+              96.0,
+              1.1831129789352417
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          1,
+          [
+            [
+              1.0,
+              -4.447295864906664e-10
+            ],
+            [
+              96.0,
+              7.453909489640864e-09
+            ]
+          ]
+        ],
+        [
+          "rotation_euler",
+          2,
+          [
+            [
+              1.0,
+              0.10639287531375885
+            ],
+            [
+              96.0,
+              0.08975820988416672
+            ]
+          ]
+        ]
+      ]
+    }
+  },
+  "preserved_old_controls_camera_timing_animation": true,
+  "old_pose": {
+    "housing": [
+      [
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        0.4999999403953552
+      ],
+      [
+        0.0,
+        0.0010000000474974513,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0010000000474974513,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "flow": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.5
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  },
+  "new_pose": {
+    "housing": [
+      [
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        0.4999999403953552
+      ],
+      [
+        0.0,
+        0.0010000000474974513,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0010000000474974513,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "flow": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.5
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  },
+  "rigid_registration_preserved": true,
+  "libraries_before": [
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "parent": null
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "parent": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend"
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+      "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+      "parent": null
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "parent": null
+    }
+  ],
+  "libraries_after": [
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "parent": null
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "parent": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend"
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "parent": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend"
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+      "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+      "parent": null
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "parent": null
+    }
+  ],
+  "continuation_parent": "WORLD_HARDWARE_INSTANCE",
+  "continuation_parts": [
+    "WORLD_UPHOLE_EXTENSION",
+    "WORLD_UPHOLE_JOINT"
+  ],
+  "default_length_m": 12.0,
+  "notes": "Only direct BHAv006 relinked; new BHAv007 nests original frozen006. Existing hardware instance unchanged; continuation children attach to it."
+}

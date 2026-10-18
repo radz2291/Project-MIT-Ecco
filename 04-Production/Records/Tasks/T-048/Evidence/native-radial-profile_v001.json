@@ -1,0 +1,1451 @@
+{
+  "method": "Outer ray intersections every10mm X /5deg azimuth; no function identification from geometry alone",
+  "rows": [
+    {
+      "x_m": 0.0,
+      "min_radius_m": 0.03949502677592228,
+      "max_radius_m": 0.03950002453824126,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.01,
+      "min_radius_m": 0.0660121887922287,
+      "max_radius_m": 0.06602044403553009,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.02,
+      "min_radius_m": 0.06684407591819763,
+      "max_radius_m": 0.0668531209230423,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.03,
+      "min_radius_m": 0.06767665203527615,
+      "max_radius_m": 0.06768582761287689,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.04,
+      "min_radius_m": 0.06850925483888963,
+      "max_radius_m": 0.06851851940155029,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.05,
+      "min_radius_m": 0.06934182590929912,
+      "max_radius_m": 0.0693512111902237,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.06,
+      "min_radius_m": 0.07017441881164205,
+      "max_radius_m": 0.0701838880777359,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.07,
+      "min_radius_m": 0.07100698988205148,
+      "max_radius_m": 0.0710165947675705,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.08,
+      "min_radius_m": 0.07183957099914551,
+      "max_radius_m": 0.0718492865562439,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.09,
+      "min_radius_m": 0.07267213202287044,
+      "max_radius_m": 0.07268199324607849,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.1,
+      "min_radius_m": 0.07350886613425234,
+      "max_radius_m": 0.0735146701335907,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.11,
+      "min_radius_m": 0.06879500898863145,
+      "max_radius_m": 0.06880002008147024,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.12,
+      "min_radius_m": 0.06879500065545083,
+      "max_radius_m": 0.06880001723766327,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.13,
+      "min_radius_m": 0.10477004945278168,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.14,
+      "min_radius_m": 0.10477009548580309,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.15,
+      "min_radius_m": 0.10477013292162797,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.16,
+      "min_radius_m": 0.10477020020870863,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.17,
+      "min_radius_m": 0.10477021112351345,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.18,
+      "min_radius_m": 0.10477021928439777,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.19,
+      "min_radius_m": 0.10477023464199027,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.2,
+      "min_radius_m": 0.10477024232078654,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.21,
+      "min_radius_m": 0.10477024232078654,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.22,
+      "min_radius_m": 0.1047702653571753,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.23,
+      "min_radius_m": 0.10477025767837905,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.24,
+      "min_radius_m": 0.10477028119685589,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.25,
+      "min_radius_m": 0.10477028887565214,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.26,
+      "min_radius_m": 0.1047703119120409,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.27,
+      "min_radius_m": 0.1047703119120409,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.28,
+      "min_radius_m": 0.10477032726963342,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.29,
+      "min_radius_m": 0.10477033494842967,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.3,
+      "min_radius_m": 0.10477034262722593,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.31,
+      "min_radius_m": 0.10477035798481844,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.32,
+      "min_radius_m": 0.1047703656636147,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.33,
+      "min_radius_m": 0.10477038102120721,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.34,
+      "min_radius_m": 0.10477039637879973,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.35000000000000003,
+      "min_radius_m": 0.104770404057596,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.36,
+      "min_radius_m": 0.10477039637879973,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.37,
+      "min_radius_m": 0.10477038870000348,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.38,
+      "min_radius_m": 0.10477038870000348,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.39,
+      "min_radius_m": 0.10477038102120721,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.4,
+      "min_radius_m": 0.10477038102120721,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.41000000000000003,
+      "min_radius_m": 0.1047703656636147,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.42,
+      "min_radius_m": 0.1047703656636147,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.43,
+      "min_radius_m": 0.1047703656636147,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.44,
+      "min_radius_m": 0.10477035030602219,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.45,
+      "min_radius_m": 0.10477035030602219,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.46,
+      "min_radius_m": 0.10477034262722593,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.47000000000000003,
+      "min_radius_m": 0.1047703337449677,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.48,
+      "min_radius_m": 0.10477028535797385,
+      "max_radius_m": 0.10477499663829803,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.49,
+      "min_radius_m": 0.10477025880291346,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.5,
+      "min_radius_m": 0.10477018700961048,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.51,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.10570736473719902,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.52,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.11036249214789957,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.53,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.11502191690711108,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.54,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.11969085411106677,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.55,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.1243429774481289,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.56,
+      "min_radius_m": 0.1047775074839592,
+      "max_radius_m": 0.12901119772719494,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.5700000000000001,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13366825051700423,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.58,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13574777086907006,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.59,
+      "min_radius_m": 0.08000000566244125,
+      "max_radius_m": 0.13403858212454298,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.6,
+      "min_radius_m": 0.07999999331415766,
+      "max_radius_m": 0.13403861212099097,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.61,
+      "min_radius_m": 0.07999999331415766,
+      "max_radius_m": 0.13403864244088393,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.62,
+      "min_radius_m": 0.07999999331415766,
+      "max_radius_m": 0.13403865743910792,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.63,
+      "min_radius_m": 0.07999999331415766,
+      "max_radius_m": 0.13403867276077688,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.64,
+      "min_radius_m": 0.07999999331415766,
+      "max_radius_m": 0.13403870696116923,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.65,
+      "min_radius_m": 0.07999999331415766,
+      "max_radius_m": 0.13403873275367292,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.66,
+      "min_radius_m": 0.07999999331415766,
+      "max_radius_m": 0.13403874986597109,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.67,
+      "min_radius_m": 0.07999999331415766,
+      "max_radius_m": 0.1340387633970108,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.68,
+      "min_radius_m": 0.08000000162919486,
+      "max_radius_m": 0.1340387933934588,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.6900000000000001,
+      "min_radius_m": 0.08000000994423208,
+      "max_radius_m": 0.13403880871512777,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.7000000000000001,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13574980580652854,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.71,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13574973069752583,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.72,
+      "min_radius_m": 0.0688104852492594,
+      "max_radius_m": 0.13574971366097346,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.73,
+      "min_radius_m": 0.06881047315882124,
+      "max_radius_m": 0.13574971366097346,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.74,
+      "min_radius_m": 0.0688104852492594,
+      "max_radius_m": 0.13574971366097346,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.75,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13575008674995315,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.76,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13575007384516916,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.77,
+      "min_radius_m": 0.1047775074839592,
+      "max_radius_m": 0.13575007011987872,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.78,
+      "min_radius_m": 0.10477749666929656,
+      "max_radius_m": 0.13575005531311035,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.79,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13575005531311035,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.8,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13575005531311035,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.81,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13575004703741228,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.8200000000000001,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13575005531311035,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.8300000000000001,
+      "min_radius_m": 0.1047775074839592,
+      "max_radius_m": 0.13575004041194916,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.84,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13575002551078796,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.85,
+      "min_radius_m": 0.10477749666929656,
+      "max_radius_m": 0.13575002551078796,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.86,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13575002551078796,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.87,
+      "min_radius_m": 0.1047775000333786,
+      "max_radius_m": 0.13575002551078796,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.88,
+      "min_radius_m": 0.10477750498433377,
+      "max_radius_m": 0.13575002551078796,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.89,
+      "min_radius_m": 0.1047775074839592,
+      "max_radius_m": 0.1357499519684805,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.9,
+      "min_radius_m": 0.09345256888536294,
+      "max_radius_m": 0.1357499625051926,
+      "intersections": 67
+    },
+    {
+      "x_m": 0.91,
+      "min_radius_m": 0.1047775000333786,
+      "max_radius_m": 0.13574998357861687,
+      "intersections": 63
+    },
+    {
+      "x_m": 0.92,
+      "min_radius_m": 0.0949255981476797,
+      "max_radius_m": 0.13575000465204112,
+      "intersections": 67
+    },
+    {
+      "x_m": 0.93,
+      "min_radius_m": 0.10589416034079584,
+      "max_radius_m": 0.13575000465204112,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.9400000000000001,
+      "min_radius_m": 0.10794519150371838,
+      "max_radius_m": 0.1357499625051926,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.9500000000000001,
+      "min_radius_m": 0.1079454817281322,
+      "max_radius_m": 0.1357498403042649,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.96,
+      "min_radius_m": 0.10794559354764782,
+      "max_radius_m": 0.13574992357321408,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.97,
+      "min_radius_m": 0.10794513479591618,
+      "max_radius_m": 0.1357499419566576,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.98,
+      "min_radius_m": 0.10794570430646952,
+      "max_radius_m": 0.13511282726040397,
+      "intersections": 72
+    },
+    {
+      "x_m": 0.99,
+      "min_radius_m": 0.10794569364393794,
+      "max_radius_m": 0.1311086249377011,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.0,
+      "min_radius_m": 0.10794654454713669,
+      "max_radius_m": 0.13138209308253965,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.01,
+      "min_radius_m": 0.10794695715449293,
+      "max_radius_m": 0.13502058386802673,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.02,
+      "min_radius_m": 0.10794708132743835,
+      "max_radius_m": 0.13870015348323253,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.03,
+      "min_radius_m": 0.1079473305853814,
+      "max_radius_m": 0.1423271090595178,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.04,
+      "min_radius_m": 0.10794742579527268,
+      "max_radius_m": 0.14597665086915923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.05,
+      "min_radius_m": 0.10794648142709887,
+      "max_radius_m": 0.14961634012577293,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.06,
+      "min_radius_m": 0.10794665343708508,
+      "max_radius_m": 0.15238836843889364,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.07,
+      "min_radius_m": 0.10794678055530009,
+      "max_radius_m": 0.15239736605431664,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.08,
+      "min_radius_m": 0.10794690774094994,
+      "max_radius_m": 0.15239842609673615,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.09,
+      "min_radius_m": 0.10794685781002045,
+      "max_radius_m": 0.15239948920319535,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.1,
+      "min_radius_m": 0.10794660449028015,
+      "max_radius_m": 0.1523939504539748,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.11,
+      "min_radius_m": 0.10794636607170105,
+      "max_radius_m": 0.15239495077433443,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.12,
+      "min_radius_m": 0.10794611933006039,
+      "max_radius_m": 0.1523957285303868,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.1300000000000001,
+      "min_radius_m": 0.10794587433338165,
+      "max_radius_m": 0.1523958216244836,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.1400000000000001,
+      "min_radius_m": 0.10794424301299434,
+      "max_radius_m": 0.15239644786932663,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.1500000000000001,
+      "min_radius_m": 0.107945512985285,
+      "max_radius_m": 0.1523960358727132,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.16,
+      "min_radius_m": 0.10793998810919972,
+      "max_radius_m": 0.15229056260222293,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.17,
+      "min_radius_m": 0.10794189219357549,
+      "max_radius_m": 0.1491718622898794,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.18,
+      "min_radius_m": 0.10793660253256895,
+      "max_radius_m": 0.1433900298189091,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.19,
+      "min_radius_m": 0.1079380741542517,
+      "max_radius_m": 0.14050023231184988,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.2,
+      "min_radius_m": 0.10793954577593445,
+      "max_radius_m": 0.14415193265928997,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.21,
+      "min_radius_m": 0.10794000431027641,
+      "max_radius_m": 0.14779696245170718,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.22,
+      "min_radius_m": 0.10794021777414227,
+      "max_radius_m": 0.15143793534472072,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.23,
+      "min_radius_m": 0.10794041647057892,
+      "max_radius_m": 0.15239662842765964,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.24,
+      "min_radius_m": 0.1079406234820528,
+      "max_radius_m": 0.15239646182997088,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.25,
+      "min_radius_m": 0.10794083694591869,
+      "max_radius_m": 0.15239629550486142,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.26,
+      "min_radius_m": 0.10794103564235534,
+      "max_radius_m": 0.15239727917330084,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.27,
+      "min_radius_m": 0.10794125096886642,
+      "max_radius_m": 0.15239578918705685,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.28,
+      "min_radius_m": 0.1079414496653031,
+      "max_radius_m": 0.15239683832422837,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.29,
+      "min_radius_m": 0.10794164649909453,
+      "max_radius_m": 0.1523979028189924,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.3,
+      "min_radius_m": 0.10794186182560561,
+      "max_radius_m": 0.15239615256637634,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.31,
+      "min_radius_m": 0.10794206883707949,
+      "max_radius_m": 0.1523964325320523,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.32,
+      "min_radius_m": 0.10793906078663681,
+      "max_radius_m": 0.15239671573225025,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.33,
+      "min_radius_m": 0.10794061041503072,
+      "max_radius_m": 0.1513106865595852,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.34,
+      "min_radius_m": 0.10793638790460401,
+      "max_radius_m": 0.14628934767165688,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.35,
+      "min_radius_m": 0.10793820324700706,
+      "max_radius_m": 0.14045839959560147,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.36,
+      "min_radius_m": 0.10794002716024916,
+      "max_radius_m": 0.1347200874981607,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.37,
+      "min_radius_m": 0.10794137702729559,
+      "max_radius_m": 0.1333489716053009,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.3800000000000001,
+      "min_radius_m": 0.107941988156599,
+      "max_radius_m": 0.13334830681258908,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.3900000000000001,
+      "min_radius_m": 0.10794259928590241,
+      "max_radius_m": 0.13334882151235153,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.4000000000000001,
+      "min_radius_m": 0.1079431992225587,
+      "max_radius_m": 0.13334957885526527,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.41,
+      "min_radius_m": 0.10794380825790328,
+      "max_radius_m": 0.1333491813875238,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.42,
+      "min_radius_m": 0.1079440631182945,
+      "max_radius_m": 0.13280962285675577,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.43,
+      "min_radius_m": 0.10794406498093971,
+      "max_radius_m": 0.13104603085136246,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.44,
+      "min_radius_m": 0.10794408161101413,
+      "max_radius_m": 0.12928343623666055,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.45,
+      "min_radius_m": 0.10794406498093971,
+      "max_radius_m": 0.12750659409737697,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.46,
+      "min_radius_m": 0.10794411673380819,
+      "max_radius_m": 0.12574352521430535,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.47,
+      "min_radius_m": 0.10794424518465674,
+      "max_radius_m": 0.12398842574675943,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.48,
+      "min_radius_m": 0.10794435700543088,
+      "max_radius_m": 0.12222525118205066,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.49,
+      "min_radius_m": 0.10794446882620504,
+      "max_radius_m": 0.12046340825618668,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.5,
+      "min_radius_m": 0.1079446055920908,
+      "max_radius_m": 0.11870564976530064,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.51,
+      "min_radius_m": 0.10794470078279053,
+      "max_radius_m": 0.1169369873334662,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.52,
+      "min_radius_m": 0.10794482091860189,
+      "max_radius_m": 0.1151737794611778,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.53,
+      "min_radius_m": 0.10794494936945047,
+      "max_radius_m": 0.11341310367303938,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.54,
+      "min_radius_m": 0.1079450528751874,
+      "max_radius_m": 0.11164739184603698,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.55,
+      "min_radius_m": 0.10794517301099875,
+      "max_radius_m": 0.10988416889433436,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.56,
+      "min_radius_m": 0.10794507076278773,
+      "max_radius_m": 0.10812457919891656,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.57,
+      "min_radius_m": 0.10632108929005138,
+      "max_radius_m": 0.10636196285486221,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.58,
+      "min_radius_m": 0.10476996924543099,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.59,
+      "min_radius_m": 0.10476901594775012,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.6,
+      "min_radius_m": 0.1047680249927868,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.61,
+      "min_radius_m": 0.10476704137521296,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.62,
+      "min_radius_m": 0.10476607307930812,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.6300000000000001,
+      "min_radius_m": 0.10476508946173428,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.6400000000000001,
+      "min_radius_m": 0.10476412116582944,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.6500000000000001,
+      "min_radius_m": 0.1047631452090901,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.6600000000000001,
+      "min_radius_m": 0.10476217658974026,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.67,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501899003983,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.68,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.69,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.7,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.71,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.72,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.73,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.74,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.75,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.76,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.77,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.78,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.79,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.8,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.81,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.82,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.83,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.84,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.85,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477366849397213,
+      "intersections": 60
+    },
+    {
+      "x_m": 1.86,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477366849397213,
+      "intersections": 60
+    },
+    {
+      "x_m": 1.87,
+      "min_radius_m": 0.08300000429153442,
+      "max_radius_m": 0.10477468763748815,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.8800000000000001,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.8900000000000001,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.9000000000000001,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.9100000000000001,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.92,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.93,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.94,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.95,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.96,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.97,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.98,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 1.99,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.0,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.0100000000000002,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.02,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.0300000000000002,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.04,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.05,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.06,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.07,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.08,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.09,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.1,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.11,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.12,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.13,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.14,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.15,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.16,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.17,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.18,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.19,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.2,
+      "min_radius_m": 0.10476157914649545,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.21,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.22,
+      "min_radius_m": 0.10476157148566097,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.23,
+      "min_radius_m": 0.10476166212189487,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.24,
+      "min_radius_m": 0.10476214659329228,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.25,
+      "min_radius_m": 0.1047626457394687,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.2600000000000002,
+      "min_radius_m": 0.1047631525464796,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.27,
+      "min_radius_m": 0.104763652016101,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.2800000000000002,
+      "min_radius_m": 0.10476415116227743,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.29,
+      "min_radius_m": 0.10476465063189881,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.3000000000000003,
+      "min_radius_m": 0.10476514244068572,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.31,
+      "min_radius_m": 0.10476564924769663,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.32,
+      "min_radius_m": 0.10476614871731803,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.33,
+      "min_radius_m": 0.10476664786349445,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.34,
+      "min_radius_m": 0.10476714733311585,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.35,
+      "min_radius_m": 0.10476762382023379,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.36,
+      "min_radius_m": 0.10476812328985519,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.37,
+      "min_radius_m": 0.10476863775770057,
+      "max_radius_m": 0.10477500408887863,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.38,
+      "min_radius_m": 0.10476913690387699,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.39,
+      "min_radius_m": 0.1047696287126639,
+      "max_radius_m": 0.10477501153945923,
+      "intersections": 72
+    },
+    {
+      "x_m": 2.4,
+      "min_radius_m": null,
+      "max_radius_m": null,
+      "intersections": 0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# T48 current source-map amendment v002
+
+18 October 2026. The [original source map](source-map_v001.md) remains the inspected brochure/chat/CAD/B204 and T43 reference record. This amendment adopts the now accepted T44 continuity release `a08d0ecfbd6f3241298f506b3ea42613388b3baf` after the upstream hold.
+
+- Direct hardware: `BHA_film_v007.blend`, SHA256 `b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1`. Its nested frozen `BHA_film_v006.blend`, source `ECCO_film_v002.blend` and `World_environment_v009.blend` remain unchanged. The simplified extension/joint provide uphole visual continuity, not exact client BHA/thread qualification.
+- Both final Flow v006 consumers attach one extension/joint to the existing hardware instance. Original camera/timing/keys/old control snapshots and actual housing/flow registration survive migration. The imported housing's existing 0.001 object unit conversion is retained; the common assembly frame is rigid and unscaled. Source geometry was not resized.
+- Neutral source-X windows remain lower/high-X `[1.35,1.56]`, middle `[0.88,1.35]`, upper/low-X `[0.50,0.88]` metres. These are morphological regions of the selected T44 layout. Exact physical end identity and accelerator/twisted-pad/diffuser face assignments remain unresolved; no close-up functional labels are released by this asset.
+- The unchanged ten amber guide curves operate continuously across all three windows. Return follows selected T44 −X uphole. Cuttings, sliding dashes and timing are authored illustration. No pressure/wake field, physical transport solution or performance scale is supplied.
+
+Current source/dependency hashes resolve exact loaded paths in `Flow_reuse_{A,B}_v006_fresh-open_v002.json` and `Shared/Assets/Hydraulics/manifest_v002.json`. Blender exposes loaded nested library paths relative to the consumer; `bpy.path.abspath` is used once, without reapplying the parent path or searching by basename. The direct v007/nested v006 distinction remains explicit.
+
+The preflight face-coverage repair now derives a full finite X slab near `[0.193999,2.206001]` m from actual curve/shape support. It considers every relevant revised hardware triangle intersecting that slab, including crossing faces whose endpoints lie outside. Peak-density finite vertices and actual registration are checked every frame. These are geometric bounds for the declared centred nominal pose, not engineering validation of flow or arbitrary new poses.

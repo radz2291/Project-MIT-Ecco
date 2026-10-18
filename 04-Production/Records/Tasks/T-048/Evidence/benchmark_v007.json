@@ -1,0 +1,79 @@
+{
+  "scenes": [
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\Flow_reuse_A_v006.blend",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\Flow_reuse_B_v006.blend"
+  ],
+  "machine": "DESKTOP-46SO266",
+  "gpu": {
+    "vendor": "NVIDIA Corporation",
+    "renderer": "NVIDIA GeForce GTX 1060 3GB",
+    "backend": "VULKAN",
+    "version": "NVIDIA 560.94"
+  },
+  "engine": "BLENDER_EEVEE",
+  "samples": 16,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "color_management": [
+    "AgX",
+    "AgX - Medium High Contrast"
+  ],
+  "compositing": false,
+  "measurement": "Wall clock around complete bpy.ops.render.render(write_still=True), includes initialization/render/PNG write; process and source loading excluded; first view of each saved scene is not warmed in-process",
+  "cache": "Normal existing driver disk caches, not erased",
+  "known_limit": "Prior T44 empty-cache initialization12.55-25.13s unresolved; no universal cold-machine pass",
+  "renders": [
+    {
+      "consumer": "A",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_A_f0001.png",
+      "seconds": 1.913743600001908,
+      "under_5": true,
+      "sha256": "41b9bc311d5d584864af8f2816922330dbe8e9a926f9d15acc4adfc52323e8c2"
+    },
+    {
+      "consumer": "A",
+      "frame": 36,
+      "output": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_A_f0036.png",
+      "seconds": 0.7765251999953762,
+      "under_5": true,
+      "sha256": "331f984a674fc4c983615edfc26f8d0d427fac7e0594bccb4ac83b126945c506"
+    },
+    {
+      "consumer": "A",
+      "frame": 72,
+      "output": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_A_f0072.png",
+      "seconds": 0.8225251000039862,
+      "under_5": true,
+      "sha256": "8811d6a36b5003cd913a2b0c6b22bed54c85d3107248692293a0845a2c8ab9bb"
+    },
+    {
+      "consumer": "B",
+      "frame": 1,
+      "output": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_B_f0001.png",
+      "seconds": 0.8038237999935518,
+      "under_5": true,
+      "sha256": "4909e1d977878a59c021b256953b9e8d4b96016c1536e993cda5e2ef4a76c177"
+    },
+    {
+      "consumer": "B",
+      "frame": 48,
+      "output": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_B_f0048.png",
+      "seconds": 0.7532964999991236,
+      "under_5": true,
+      "sha256": "3ca95707e2b0d0059eb61e3498d20d0310aa18b59d00e86591e6a9a86d56bcd4"
+    },
+    {
+      "consumer": "B",
+      "frame": 96,
+      "output": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_B_f0096.png",
+      "seconds": 0.72212770000624,
+      "under_5": true,
+      "sha256": "1c8fc9212485a52660a2d41c879dd602b139b9f6e8af3f636a838462379d30cf"
+    }
+  ],
+  "all_under_5": true
+}

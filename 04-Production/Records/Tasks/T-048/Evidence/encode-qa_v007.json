@@ -1,0 +1,16 @@
+{
+  "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Hydraulics_behavior_B_v007.mp4",
+  "sha256": "1083449ff1ea54fb94b79ade3e1db149b6c7dd36082aaf5f1b69915ba6d565b8",
+  "bytes": 878311,
+  "decoded_frames": 96,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "duration_s": 4,
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "audio": false,
+  "complete_decode": true,
+  "source": "Exact96 rendered B_v006 frames, no temporal synthesis",
+  "contact_sheet": "Evidence/motion-contact_v007.jpg"
+}

@@ -1,0 +1,178 @@
+{
+  "version": "v002",
+  "task": "T48",
+  "ticket": "adfe3c82-31e2-4c1e-a725-94a29c1ef573",
+  "parent": "T45",
+  "date": "2026-10-18",
+  "status": "frozen_candidate_waiting_master_integration_and_fresh_context_verification_NOT_Review",
+  "accepted_T44_commit": "a08d0ecfbd6f3241298f506b3ea42613388b3baf",
+  "run": {
+    "id": "6866654a-0703-4f3f-9a63-2ee249cdca58",
+    "attempt": 2,
+    "worker": "codex-t45-flow-builder"
+  },
+  "local_root": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco",
+  "units": "metres_seconds",
+  "axes": "+X selected downhole / -X uphole; exact physical source end identity unverified",
+  "top_collection": "HYDRAULICS_GEOMETRY",
+  "native": [
+    {
+      "path": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend",
+      "bytes": 105963,
+      "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+      "storage": "local-only Git-ignored; no off-machine backup claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_A_v006.blend",
+      "bytes": 135440,
+      "sha256": "24813e95903c38ba6d7dd24badc4f1ae0f2f09b19cd76c3de6b699b90218a4ab",
+      "storage": "local-only Git-ignored; no off-machine backup claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v006.blend",
+      "bytes": 135452,
+      "sha256": "463c7acc16eed27476eaa8de8d126e288c1fef2adfd494ae83d5e957807531aa",
+      "storage": "local-only Git-ignored; no off-machine backup claimed"
+    }
+  ],
+  "dependencies": [
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "bytes": 194252,
+      "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d",
+      "storage": "linked immutable native source",
+      "lineage_parent": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend"
+    },
+    {
+      "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+      "bytes": 103695,
+      "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+      "storage": "linked immutable native source",
+      "lineage_parent": null
+    },
+    {
+      "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "bytes": 18275711,
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "storage": "linked immutable native source",
+      "lineage_parent": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend",
+      "bytes": 105963,
+      "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+      "storage": "linked immutable native source",
+      "lineage_parent": null
+    },
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "bytes": 9608678,
+      "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "storage": "linked immutable native source",
+      "lineage_parent": null
+    }
+  ],
+  "approval_images": [
+    {
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_A_f0036.png",
+      "bytes": 1197792,
+      "sha256": "331f984a674fc4c983615edfc26f8d0d427fac7e0594bccb4ac83b126945c506",
+      "storage": "selected current generated still, integration eligible",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_B_f0048.png",
+      "bytes": 1000299,
+      "sha256": "3ca95707e2b0d0059eb61e3498d20d0310aa18b59d00e86591e6a9a86d56bcd4",
+      "storage": "selected current generated still, integration eligible",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Flow_B_f0096.png",
+      "bytes": 987930,
+      "sha256": "1c8fc9212485a52660a2d41c879dd602b139b9f6e8af3f636a838462379d30cf",
+      "storage": "selected current generated still, integration eligible",
+      "dimensions": [
+        1280,
+        720
+      ]
+    }
+  ],
+  "behavior_demo": {
+    "path": "04-Production/Records/Tasks/T-048/Previews/Revision_v007/Hydraulics_behavior_B_v007.mp4",
+    "bytes": 878311,
+    "sha256": "1083449ff1ea54fb94b79ade3e1db149b6c7dd36082aaf5f1b69915ba6d565b8",
+    "storage": "local-only Git-ignored; no off-machine backup claimed",
+    "decoded_frames": 96,
+    "fps": 24,
+    "duration_s": 4,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "codec": "H264",
+    "pixel_format": "yuv420p",
+    "audio": false
+  },
+  "controls": [
+    "phase",
+    "speed",
+    "density",
+    "cuttings_visible",
+    "flow_visible",
+    "stage_emphasis",
+    "operating_mode"
+  ],
+  "consumer_map": {
+    "proof": [
+      "Flow_reuse_A_v006",
+      "Flow_reuse_B_v006"
+    ],
+    "planned_V3": [
+      "S05-A",
+      "S05-B",
+      "S05-C"
+    ],
+    "movie_shots_built": false
+  },
+  "verification": {
+    "preflight_item5_repaired": true,
+    "native": "04-Production/Records/Tasks/T-048/Evidence/native-verification-summary_v007.json",
+    "benchmark": "04-Production/Records/Tasks/T-048/Evidence/benchmark_v007.json",
+    "batch": "04-Production/Records/Tasks/T-048/Evidence/batch_B_v007.json",
+    "decode": "04-Production/Records/Tasks/T-048/Evidence/encode-qa_v007.json",
+    "full_shape_hardware_clearance_m": 0.0008973467838789551,
+    "full_shape_wall_clearance_m": 0.0008521571838973618,
+    "benchmark_seconds": [
+      0.72212770000624,
+      1.913743600001908
+    ],
+    "batch_seconds": [
+      0.611797800003842,
+      1.6444607000012184
+    ]
+  },
+  "usage": "04-Production/Shared/Assets/Hydraulics/README_v002.md",
+  "report": "04-Production/Records/Tasks/T-048/report.md",
+  "limits": [
+    "Illustrative circulation-only; no CFD/calibrated velocity/pressure/wake/efficiency or physical transport validation",
+    "Neutral morphological regions; exact physical end and functional stage-face map unverified",
+    "All regions simultaneous; original dimensions/sensor references and immutable source CAD unit conversion preserved",
+    "Centred nominal pose/travel0.5m/spin0 only; every intersecting hardware triangle clipped to whole finite support slab, every frame actual pose/finite meshes checked",
+    "Matte cuttings and sliding dashes remain subtle in decoded video; readability/comprehension awaits Radzi review",
+    "T44 empty-cache startup12.55-25.13s unresolved; measured normal existing caches only",
+    "Master remote SHA, combined integration and fresh-context verdict pending; no premature Review or self-acceptance",
+    "Heavy natives/video/raw frames remain local, no off-machine backup claimed"
+  ],
+  "preserved_predecessors": {
+    "manifest": "manifest_v001.json",
+    "hold_report": "04-Production/Records/Tasks/T-048/report_hold_v001.md",
+    "notes": "All prior native variants/failed registration/readability evidence retained unchanged."
+  }
+}
