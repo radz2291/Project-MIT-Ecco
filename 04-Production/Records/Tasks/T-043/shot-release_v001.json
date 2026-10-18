@@ -1,0 +1,392 @@
+{
+  "version": "v001",
+  "contract_schema": "rolladice-scene-directive/v0.2",
+  "status": "direction_complete_pending_owner_review",
+  "shared_concept": "approved",
+  "detail_release": "D1_implementation_test",
+  "production_started": false,
+  "voice_synchronization": "outside_T43",
+  "duration_s": 90,
+  "board_revision": 14,
+  "source_base_commit": "1d75540321f56b7fe471b82f789b57b70787702e",
+  "shots": [
+    {
+      "id": "S01-A",
+      "start_s": 0,
+      "end_s": 3,
+      "components": [
+        "SURFACE",
+        "BHA",
+        "WELL"
+      ],
+      "contract": "04-Production/Shots/S01/S01-A/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S01-B",
+      "start_s": 3,
+      "end_s": 7,
+      "components": [
+        "BHA",
+        "WELL",
+        "MUD"
+      ],
+      "contract": "04-Production/Shots/S01/S01-B/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S01-C",
+      "start_s": 7,
+      "end_s": 10,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD"
+      ],
+      "contract": "04-Production/Shots/S01/S01-C/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S02-A",
+      "start_s": 10,
+      "end_s": 13,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "ACOUSTICS"
+      ],
+      "contract": "04-Production/Shots/S02/S02-A/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S02-B",
+      "start_s": 13,
+      "end_s": 17,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "ACOUSTICS",
+        "DATA",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S02/S02-B/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S02-C",
+      "start_s": 17,
+      "end_s": 22,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "ACOUSTICS",
+        "DATA"
+      ],
+      "contract": "04-Production/Shots/S02/S02-C/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S03-A",
+      "start_s": 22,
+      "end_s": 28,
+      "components": [
+        "ECCO",
+        "WELL",
+        "DATA",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S03/S03-A/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S03-B",
+      "start_s": 28,
+      "end_s": 34,
+      "components": [
+        "ECCO",
+        "WELL",
+        "DATA"
+      ],
+      "contract": "04-Production/Shots/S03/S03-B/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S03-C",
+      "start_s": 34,
+      "end_s": 40,
+      "components": [
+        "ECCO",
+        "WELL",
+        "DATA",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S03/S03-C/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S04-A",
+      "start_s": 40,
+      "end_s": 44,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "CASING"
+      ],
+      "contract": "04-Production/Shots/S04/S04-A/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S04-B",
+      "start_s": 44,
+      "end_s": 49,
+      "components": [
+        "ECCO",
+        "WELL",
+        "MUD",
+        "ACOUSTICS",
+        "CASING",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S04/S04-B/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S04-C",
+      "start_s": 49,
+      "end_s": 54,
+      "components": [
+        "ECCO",
+        "WELL",
+        "MUD",
+        "CASING",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S04/S04-C/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S04-D",
+      "start_s": 54,
+      "end_s": 58,
+      "components": [
+        "ECCO",
+        "WELL",
+        "MUD",
+        "ACOUSTICS",
+        "CASING",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S04/S04-D/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S05-A",
+      "start_s": 58,
+      "end_s": 62,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "FLOW"
+      ],
+      "contract": "04-Production/Shots/S05/S05-A/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S05-B",
+      "start_s": 62,
+      "end_s": 66,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "FLOW"
+      ],
+      "contract": "04-Production/Shots/S05/S05-B/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S05-C",
+      "start_s": 66,
+      "end_s": 70,
+      "components": [
+        "ECCO",
+        "BHA",
+        "WELL",
+        "MUD",
+        "FLOW"
+      ],
+      "contract": "04-Production/Shots/S05/S05-C/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S06-A",
+      "start_s": 70,
+      "end_s": 74,
+      "components": [
+        "ECCO",
+        "WELL",
+        "DATA",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S06/S06-A/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S06-B",
+      "start_s": 74,
+      "end_s": 79,
+      "components": [
+        "DATA",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S06/S06-B/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S06-C",
+      "start_s": 79,
+      "end_s": 82,
+      "components": [
+        "OUTPUT",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S06/S06-C/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S07-A",
+      "start_s": 82,
+      "end_s": 84,
+      "components": [
+        "ECCO",
+        "OUTPUT",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S07/S07-A/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S07-B",
+      "start_s": 84,
+      "end_s": 88,
+      "components": [
+        "ECCO",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S07/S07-B/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    },
+    {
+      "id": "S07-C",
+      "start_s": 88,
+      "end_s": 90,
+      "components": [
+        "ECCO",
+        "BRAND",
+        "GRAPHICS"
+      ],
+      "contract": "04-Production/Shots/S07/S07-C/direction.md",
+      "version": "v001",
+      "gate": "D1_test",
+      "D2": false,
+      "D3": false,
+      "D4": false
+    }
+  ]
+}

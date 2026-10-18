@@ -53,7 +53,7 @@ These are proposed film-specific choices, not new universal taste rules. FutureD
 **Controls:** rig visibility, water/terrain plate, near-rock layers, cutaway, atmosphere intensity; camera axis matched across cuts.
 **Consumers:** SURFACE/BHA/WELL/MUD; S01-A/B/C, adjoining S02-A.
 **Cost:** simple water shader or static plate, low-detail rig, layered rock; no ocean simulation or world-scale volumes.
-**Radzi decision:** pending v001.
+**Release state:** See the controlling completion amendment below; earlier proposal wording is retained as decision history.
 
 ## VD02 — Hardware, rock and fluid
 **Recommendation:** satin steel appearance, broad controlled reflections with narrow edge highlights, restrained machining detail. A wet mineral wall gives tactile contrast. Keep the annulus visibly confined; use selective cutaway/visibility to read the actual clearance.
@@ -64,7 +64,7 @@ The tool feels physically present before it becomes a product hero. S07 uses the
 **Controls:** approved roughness/lighting overrides, environment layer masks, mud visibility, shot-specific cutaway; geometry and sensor positions remain master-owned.
 **Consumers:** ECCO/BHA/WELL/MUD/CASING; all physical shots, S06-A and S07-A/B/C.
 **Cost:** surface shading, reflection cards, bounded transparency; parallax before fog. No compulsory volumetric scattering.
-**Radzi decision:** pending v001.
+**Release state:** See the controlling completion amendment below; earlier proposal wording is retained as decision history.
 
 ## VD03 — Sound, contact and measurement
 **Recommendation:** retain cyan outgoing arcs and emerald returning arcs, with three restrained arcs in each direction. At contact, a small curved membrane and fine local patch mark the wall interaction; the patch briefly dims while the acquired point persists. These are illustrative graphics, not emitted visible light.
@@ -75,7 +75,7 @@ S02-A offers one clearly readable event plus two abbreviated glimpses. S02-B int
 **Controls:** event timing, opacity, arc width, local patch density/lifetime and signal visibility; hit positions and event identity remain data-owned.
 **Consumers:** ACOUSTICS/DATA/GRAPHICS with ECCO/WELL/MUD; S02-A/B/C and adapted S04-B/D.
 **Cost:** instanced curves/mesh arcs and a small surface patch; avoid volumetric light and dense persistent grids.
-**Radzi decision:** historical colors/contact preferences retained as a candidate; exact v001 film treatment pending.
+**Release state:** See the controlling completion amendment below; earlier proposal wording is retained as decision history.
 
 ## VD04 — Geometry, amplitude and continuity
 **Recommendation:** white nominal reference and blue measured enlargement remain registered at identical scale. Present the existing tight-hole case as a brief, clearly separated comparison in S03-A, rather than paint red into an unrelated enlargement dataset. Proposed small cue: **Tight-hole example**. Return to the retained main case before S03-B. If the director/executor cannot make that transition readable within six seconds, bring that specific timing conflict back; do not invent a combined dataset.
@@ -88,7 +88,7 @@ S03-C changes the displayed quantity with a distinct graphic cue: **Echo strengt
 **Controls:** case/channel, sample cutoff, approved mapping, surface/contour visibility and camera; no arbitrary value edits.
 **Consumers:** DATA/GRAPHICS/OUTPUT; S02-B/C, S03-A/B/C, S06-A/B/C, S07-A.
 **Cost:** mesh attributes/textures and sparse contours; avoid layered translucent cylinders.
-**Radzi decision:** pending v001, especially separate-case comparison.
+**Release state:** See the controlling completion amendment below; earlier proposal wording is retained as decision history.
 
 ## VD05 — Steel, support, channel and wear
 **Recommendation:** establish S04 as a later upward pass with a purposeful cut to a wider view of the existing casing shoe. ECCO crosses into steel before the lower bit. Keep that geography clear before moving close.
@@ -101,7 +101,7 @@ For wear, cut back inside and graze along a shallow pre-existing groove. Keep th
 **Controls:** layer reveal, qualitative response, channel bounds, wear/reference visibility; retain physical ordering and source geometry.
 **Consumers:** CASING/ACOUSTICS/GRAPHICS/WELL/MUD/ECCO/BHA; S04-A/B/C/D.
 **Cost:** bounded section masks and localized graphic response; no simulated vibrating steel or stacked full-volume transparency.
-**Radzi decision:** pending v001.
+**Release state:** See the controlling completion amendment below; earlier proposal wording is retained as decision history.
 
 ## VD06 — Flow as a distinct visual language
 **Recommendation:** illustrative circulation-only mode for the first implementation. The body can remain stationary while continuous slender amber streamlines and sparse matte cuttings travel uphole. Sound uses discrete outward-and-return arcs; flow uses continuous axial travel. The approved amber visual treatment supersedes the earlier blue flow palette; it is an illustrative graphic choice.
@@ -112,7 +112,7 @@ Use a deliberate cut from casing to open-hole/body detail at 58 seconds. Move al
 **Controls:** illustrative path/speed, density, cuttings visibility and stage emphasis; circulation-only is a proposed mode, not a restriction on real operating capability.
 **Consumers:** FLOW/ECCO/BHA/WELL/MUD; S05-A/B/C.
 **Cost:** deterministic instanced paths and bounded particle count; no fluid simulation.
-**Radzi decision:** pending v001.
+**Release state:** See the controlling completion amendment below; earlier proposal wording is retained as decision history.
 
 ## VD07 — Graphics, evidence and closing
 **Recommendation:** calm sans-serif type, composed with the imagery; spatial anchoring where it clarifies distance or location, stable screen-space waveform/text where reading matters. Keep final font choice editable until availability/licensing and moving legibility are checked.
@@ -126,7 +126,7 @@ For S07-C, retain the supplied mark, with the icon-only treatment as the review 
 **Controls:** editable copy, visibility, anchor, type scale, output crop, logo choice and fade; source content/aspect fixed.
 **Consumers:** GRAPHICS/OUTPUT/BRAND; S02-B, S03-A/C, S04-B/C/D, S06-A/B/C, S07-A/B/C.
 **Cost:** native text, thin graphic curves and flat output plates; shallow focus can be composited if appropriate.
-**Radzi decision:** pending v001; real-output permission remains unresolved.
+**Release state:** See the controlling completion amendment below; earlier proposal wording is retained as decision history.
 
 ## VD08 — Working profile and handoff
 **Recommendation:** start benchmark testing at T42's proposed 1280×720, 24 fps, EEVEE, 16 samples. This is a working proposal, not a delivery-resolution commitment. Supply 0.5-second handles where the action permits; handles are outside the 90-second content duration. Keep seconds authoritative until Radzi accepts the profile.
@@ -136,13 +136,26 @@ Each executor must derive camera transforms/lens from actual geometry, save the 
 If cost fails: remove invisible detail, simplify transparency and particles, then adjust samples while checking readability. Do not silently alter resolution, source scale or engineering meaning. Report color management and compositing with every shot; maintain one consistent approved profile.
 
 **Consumers:** all 22 shots.
-**Radzi decision:** pending v001.
+**Release state:** See the controlling completion amendment below; earlier proposal wording is retained as decision history.
 
-## Release index and next action
-Shared look and narration-led emphasis: APPROVED as scoped in the amendment above. Detailed VD01–VD08 recommendations below retain pending choices except where explicitly superseded by that amendment. RELEASED FOR BLENDER EXECUTION: NO.
-All 22 shot contracts: NOT RELEASED. The approved storyboard remains intact; detailed executor contracts follow shared-treatment review progressively.
 
-First proposed release group: VD02/03/08 → S02-A/B/C plus S01-C boundary and S03-A entry. Then VD04 → S03; VD01 → S01-A/B; VD05 → S04; VD06 → S05; VD07 → S06/S07. Source/asset inspection holds apply only to dependent claims.
+## Completion amendment — 18 October 2026 (controlling release state)
 
-No downstream tickets, Blender scenes, final timeline or client publication are created by T43.
-Next: progressively prepare narrated shot contracts under the existing Scene Direction Contract. Resolve only consequential remaining choices; do not request approval again for the shared look or narration-led responsibility split. Output permission and hydraulic mapping do not block unrelated direction.
+Radzi instructs: “don't worry about the voice recording timing. That will be a different concern. Please continue and finish T43.” This authorizes completion of direction documentation; it is not technical, motion or final-delivery approval. The approved shared five-panel look and narration-led approach remain approved. The 22 detailed contracts are complete and explicitly released at D1 as implementation tests for subsequent authorized work. T43 itself starts no Blender execution or downstream tickets. D2 remains scene-derived; D3/D4 require inspected evidence.
+
+| Decision | State and baseline | Remaining bounded review |
+|---|---|---|
+| VD01 surface/hardware | Director-selected offshore illustrative context; actual ECCO and registered well/BHA sources | Executor inspects visible bit/adapters, sensor datum and asset coordinates; no invented deployment |
+| VD02 look | Radzi-approved tactile dark formation/fluid and satin metal treatment | Actual material fidelity and moving visibility |
+| VD03 acoustics | Radzi-approved cyan send, emerald return, three restrained arcs each, local cup membrane/fine patch; detailed timing is a test | Sensor/contact registration and event readability |
+| VD04 data | Approved reconstruction stays registered to borehole; separated tight-case comparison and channel transition are director-selected tests | Source-case identity, one-plane sampling and S06 mapping |
+| VD05 casing | Director-selected later retrieval, bounded support reveal, channel and inner groove tests | Qualitative mechanism review; no quantitative support/thickness claims |
+| VD06 flow | Approved continuous amber language; circulation-only baseline selected by director for simplest test | Actual three-region CAD mapping before feature-specific emphasis/labels |
+| VD07 graphics/output/brand | Approved minimal graphics and calm hero; labeled demonstrator and original full logo are safe director-selected baselines | Real-data rights if substituted; ENP1 identity retained; valid separate supplied icon before icon-only variant |
+| VD08 profile | Proposed 720p/24 fps/EEVEE/16-sample test profile | Executor derives scene facts and benchmarks strict <5 s/frame; delivery profile remains unapproved |
+
+Specific refinements to earlier proposal wording: spiral omission has not been individually approved. Keep a source-supported spiral alternate available in S03-B; any alternate case must carry its own amplitude and provenance into S03-C and reconnect explicitly before S06. Baseline uses the retained main enlargement case. Do not describe this as deletion of a client requirement. S07-C starts with the unaltered supplied full logo; icon-only remains conditional. S06-C defaults to clearly labeled illustrative data, so unresolved real-output permission is not a blocker. Circulation-only is a test construction choice, not a claim about ENP3 operating limitations.
+
+Working narration remains unchanged in the supplied Script-2.txt. Each contract gives a thematic phrase cue. Voice recording, phrase synchronization, final narration edit and soundtrack belong to Radzi and are explicitly deferred outside T43. Existing V3 section/shot durations remain the working 90-second allocation, not a promise that an unrecorded read fits.
+
+[Release index](release-index_v001.md) lists all 22 canonical contracts and their scoped checks. T42's accepted placeholders/register remain historical planning evidence; these letter-ID contracts now supply the missing direction. Old numeric shots and archived B2 work remain untouched. Exact contract review is pending Radzi; no unseen deliverable is declared accepted.
