@@ -1,0 +1,711 @@
+{
+  "checks": [
+    {
+      "name": "62 native/source/control checks",
+      "passed": true
+    },
+    {
+      "name": "all five final approval views below5s",
+      "passed": true
+    },
+    {
+      "name": "all retained revision benchmark samples below5s",
+      "passed": true
+    },
+    {
+      "name": "both nearby downhole images have complete alpha coverage",
+      "passed": true
+    },
+    {
+      "name": "five separate full-size native images",
+      "passed": true
+    },
+    {
+      "name": "all current review/usage links resolve",
+      "passed": true
+    }
+  ],
+  "all_pass": true,
+  "native_check_count": 62,
+  "approval_images": [
+    {
+      "name": "wide_context",
+      "label": "01  Rig and surrounding earth / intentional section",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/wide_context_working_v007.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/wide_context_v007.blend",
+      "sha256": "d00b151714f7584c0c3668f92024619e6de103bab00ed86f825489ea62f21019",
+      "bytes": 995175,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/wide_context_working_benchmark_v007.json",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0
+    },
+    {
+      "name": "downhole_A",
+      "label": "02  Downhole A / source scale, surrounding rock and fluid",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/downhole_A_working_v006.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_A_v006.blend",
+      "sha256": "320e437e7a2955fae5cd8e1485ebec212aa4430ae7991eecd52d3cf3e5652180",
+      "bytes": 1352357,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/downhole_A_working_benchmark_v006.json",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0
+    },
+    {
+      "name": "downhole_B",
+      "label": "03  Nearby downhole B / same shared environment",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/downhole_B_working_v006.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_B_v006.blend",
+      "sha256": "7c735daf2afe1f68251b7d97e0bfe6b93e18bb0a6f0ba7ed7dca07e78119e089",
+      "bytes": 1331142,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/downhole_B_working_benchmark_v006.json",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0
+    },
+    {
+      "name": "layers",
+      "label": "04  Steel, cement, formation / hardware hidden for inspection",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/layers_working_v010.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v010.blend",
+      "sha256": "1fb3b8901ff5d8e1ab163f180176a8a5adbe892a61748b33028031213fef12ee",
+      "bytes": 1198673,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/layers_working_benchmark_v010.json",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bright_pixels_percent": 0.0
+    },
+    {
+      "name": "BHA_detail",
+      "label": "05  BHA, bit and adapters / simplified geometry",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/BHA_detail_working_v006.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/BHA_detail_v006.blend",
+      "sha256": "ee740ca74c4c472fd846dea5d3ec042dadbb1ecb304cb508adfcfaa9da8da4aa",
+      "bytes": 922308,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/BHA_detail_working_benchmark_v006.json",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0
+    }
+  ],
+  "final_timings_s": [
+    2.3170649000021513,
+    1.4088427999995474,
+    1.380539800000406,
+    1.3001769000002241,
+    1.2274619000017992
+  ],
+  "all_benchmarks": [
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/BHA_detail_initial_benchmark_v005.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/BHA_detail_v005.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/BHA_detail_initial_v005.png",
+      "seconds": 0.9945524000031583,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/BHA_detail_working_benchmark_v006.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/BHA_detail_v006.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/BHA_detail_working_v006.png",
+      "seconds": 1.2274619000017992,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/downhole_A_initial_benchmark_v005.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_A_v005.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/downhole_A_initial_v005.png",
+      "seconds": 4.035417699997197,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/downhole_A_working_benchmark_v006.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_A_v006.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/downhole_A_working_v006.png",
+      "seconds": 1.4088427999995474,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/downhole_B_initial_benchmark_v005.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_B_v005.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/downhole_B_initial_v005.png",
+      "seconds": 1.3993162000006123,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/downhole_B_working_benchmark_v006.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_B_v006.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/downhole_B_working_v006.png",
+      "seconds": 1.380539800000406,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/layers_initial_benchmark_v005.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v005.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/layers_initial_v005.png",
+      "seconds": 1.3646602000007988,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/layers_working_benchmark_v006.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v006.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/layers_working_v006.png",
+      "seconds": 2.2713608000012755,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/layers_working_benchmark_v007.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v007.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/layers_working_v007.png",
+      "seconds": 2.077206900001329,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/layers_working_benchmark_v008.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v008.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/layers_working_v008.png",
+      "seconds": 1.281716299999971,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/layers_working_benchmark_v009.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v009.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/layers_working_v009.png",
+      "seconds": 1.2601959999992687,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/layers_working_benchmark_v010.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v010.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/layers_working_v010.png",
+      "seconds": 1.3001769000002241,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/Reuse_A_formation_working_benchmark_v005.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_A_formation_v005.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/Reuse_A_formation_working_v005.png",
+      "seconds": 1.8208932999987155,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/Reuse_B_formation_working_benchmark_v005.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_B_formation_v005.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/Reuse_B_formation_working_v005.png",
+      "seconds": 1.5780718000023626,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/wide_context_initial_benchmark_v005.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/wide_context_v005.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/wide_context_initial_v005.png",
+      "seconds": 1.3415860000022803,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/wide_context_working_benchmark_v006.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/wide_context_v006.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/wide_context_working_v006.png",
+      "seconds": 1.4468372000010277,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/wide_context_working_benchmark_v007.json",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/wide_context_v007.blend",
+      "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/wide_context_working_v007.png",
+      "seconds": 2.3170649000021513,
+      "under_5": true,
+      "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+      "engine": "BLENDER_EEVEE",
+      "backend": "VULKAN (explicit launch flag)",
+      "resolution": [
+        1280,
+        720
+      ],
+      "samples": 16,
+      "compositor": false,
+      "color_management": [
+        "AgX",
+        "AgX - Medium High Contrast"
+      ],
+      "gpu": "GTX1060 3GB / driver560.94",
+      "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+      "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+    }
+  ],
+  "links": [
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "report_v004.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v005/wide_context_working_v007.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v005/downhole_A_working_v006.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v005/downhole_B_working_v006.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v005/layers_working_v010.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v005/BHA_detail_working_v006.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v005/approval-overview_v005.jpg",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Revision_v005/review-guide.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "../../../Shared/Assets/World/README_v002.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "../../../Shared/Assets/World/manifest_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Previews/Revision_v005/propagation_v005.jpg",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Revision_v005/Evidence/migration_A_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Revision_v005/Evidence/migration_B_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Revision_v005/Evidence/native-verification_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Revision_v005/Evidence/package-verification_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/report.md",
+      "target": "Revision_v005/component-consumers_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "target": "../Previews/Revision_v005/approval-overview_v005.jpg",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "target": "../Previews/Revision_v005/wide_context_working_v007.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "target": "../Previews/Revision_v005/downhole_A_working_v006.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "target": "../Previews/Revision_v005/downhole_B_working_v006.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "target": "../Previews/Revision_v005/layers_working_v010.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "target": "../Previews/Revision_v005/BHA_detail_working_v006.png",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "target": "../Previews/Revision_v005/propagation_v005.jpg",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "target": "../../../../Shared/Assets/World/README_v002.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "target": "../../../../Shared/Assets/World/manifest_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v002.md",
+      "target": "README_v001.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v002.md",
+      "target": "manifest_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v002.md",
+      "target": "../../../Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v002.md",
+      "target": "../../../Records/Tasks/T-044/report.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v002.md",
+      "target": "Scripts/formation_controls_v002.py",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v002.md",
+      "target": "../../../Records/Tasks/T-044/Previews/Revision_v005/propagation_v005.jpg",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README_v002.md",
+      "target": "../../../Records/Tasks/T-044/Revision_v005/component-consumers_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "README_v002.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "manifest_v005.json",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "../../../Records/Tasks/T-044/Revision_v005/review-guide.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "README_v001.md",
+      "exists": true
+    },
+    {
+      "source": "04-Production/Shared/Assets/World/README.md",
+      "target": "manifest_v004.json",
+      "exists": true
+    }
+  ],
+  "visual_review": "Executor inspected individual renders; Radzi image approval pending. Alpha/checklists do not establish visual or engineering acceptance.",
+  "normal_cache_limit": "Fresh process, normal existing GPU caches, no excluded warmup. Original empty-cache initialization12.55\u201325.13s remains a known limit; retest on cache/backend/driver/machine/material/heavy-state changes."
+}

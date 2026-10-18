@@ -1,0 +1,34 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/BHA_detail_v006.blend",
+  "sha256": "7124d77815ce26a3763c49e950df33aeb64b18c88a5ab8f9a0d6d82a8677833f",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+      "exists": true
+    }
+  ],
+  "units": 1.0,
+  "mesh_instances": 1,
+  "camera": {
+    "location": [
+      4.099999904632568,
+      -1.7000000476837158,
+      0.800000011920929
+    ],
+    "rotation": [
+      1.1784738302230835,
+      0.11096051335334778,
+      0.4638059735298157
+    ],
+    "lens": 58.0
+  },
+  "cutaway": "Hardware-only inspection; bit/adapters illustrative"
+}

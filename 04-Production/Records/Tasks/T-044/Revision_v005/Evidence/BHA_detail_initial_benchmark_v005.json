@@ -1,0 +1,22 @@
+{
+  "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/BHA_detail_v005.blend",
+  "output": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/BHA_detail_initial_v005.png",
+  "seconds": 0.9945524000031583,
+  "under_5": true,
+  "cold": "first full render in fresh process, normal existing driver caches; no warmup excluded",
+  "engine": "BLENDER_EEVEE",
+  "backend": "VULKAN (explicit launch flag)",
+  "resolution": [
+    1280,
+    720
+  ],
+  "samples": 16,
+  "compositor": false,
+  "color_management": [
+    "AgX",
+    "AgX - Medium High Contrast"
+  ],
+  "gpu": "GTX1060 3GB / driver560.94",
+  "measurement": "perf_counter around complete render(write_still=True); process/file loading excluded",
+  "known_limit": "Previous uncached initialization12.55\u201325.13s retained; cache/driver/backend changes invalidate release"
+}

@@ -1,0 +1,580 @@
+{
+  "checks": [
+    {
+      "name": "preserved 04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/BHA/BHA_film_v002.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/WellAssembly/World_environment_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/WellAssembly/World_environment_v004.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/Surface/Surface_context_v002.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Shared/Assets/Surface/Originals/IntoTheInvisible_Shot01.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Reuse_A_before_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Reuse_A_after_v004.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Reuse_B_before_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Reuse_B_after_v004.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Reuse_surface_before_v003.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Controls_stress_v001.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved 04-Production/Records/Tasks/T-044/ReuseTests/Hardware_overview_v001.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged registered wall/layer mesh NOMINAL_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged registered wall/layer mesh NOMINAL_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged registered wall/layer mesh IRREGULAR_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged registered wall/layer mesh IRREGULAR_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged registered wall/layer mesh SPIRAL_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged registered wall/layer mesh SPIRAL_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged registered wall/layer mesh CASING_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged registered wall/layer mesh CASING_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged registered wall/layer mesh CEMENT_FULL",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged registered wall/layer mesh CEMENT_CUTAWAY",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "surrounding mass stays outside source bore FORMATION_IRREGULAR_CUTAWAY",
+      "passed": true,
+      "detail": {
+        "minimum_margin_m": 0.0006999903595181489
+      }
+    },
+    {
+      "name": "surrounding mass stays outside source bore FORMATION_IRREGULAR_FULL",
+      "passed": true,
+      "detail": {
+        "minimum_margin_m": 0.0006999910446784663
+      }
+    },
+    {
+      "name": "surrounding mass stays outside source bore FORMATION_NOMINAL_CUTAWAY",
+      "passed": true,
+      "detail": {
+        "minimum_margin_m": 0.0006999926506014997
+      }
+    },
+    {
+      "name": "surrounding mass stays outside source bore FORMATION_NOMINAL_FULL",
+      "passed": true,
+      "detail": {
+        "minimum_margin_m": 0.0006999947458735667
+      }
+    },
+    {
+      "name": "surrounding mass stays outside source bore FORMATION_SPIRAL_CUTAWAY",
+      "passed": true,
+      "detail": {
+        "minimum_margin_m": 0.0006999759862262034
+      }
+    },
+    {
+      "name": "surrounding mass stays outside source bore FORMATION_SPIRAL_FULL",
+      "passed": true,
+      "detail": {
+        "minimum_margin_m": 0.0006999759862262034
+      }
+    },
+    {
+      "name": "formation has no product copy",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fresh-open relative links downhole_A_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "metric source units downhole_A_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one product downhole_A_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fresh-open relative links downhole_B_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "metric source units downhole_B_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one product downhole_B_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fresh-open relative links layers_v010.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "metric source units layers_v010.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fresh-open relative links BHA_detail_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "metric source units BHA_detail_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one product BHA_detail_v006.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fresh-open relative links wide_context_v007.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "metric source units wide_context_v007.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fresh-open relative links Reuse_A_formation_v005.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "metric source units Reuse_A_formation_v005.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one product Reuse_A_formation_v005.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "fresh-open relative links Reuse_B_formation_v005.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "metric source units Reuse_B_formation_v005.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one product Reuse_B_formation_v005.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls preserved A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "camera/timing/local controls preserved B",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "one matching formation variant (0, 0)",
+      "passed": true,
+      "detail": [
+        "WORLD_FORMATION_NOMINAL_FULL"
+      ]
+    },
+    {
+      "name": "one matching formation variant (0, 1)",
+      "passed": true,
+      "detail": [
+        "WORLD_FORMATION_IRREGULAR_FULL"
+      ]
+    },
+    {
+      "name": "one matching formation variant (0, 2)",
+      "passed": true,
+      "detail": [
+        "WORLD_FORMATION_SPIRAL_FULL"
+      ]
+    },
+    {
+      "name": "one matching formation variant (1, 0)",
+      "passed": true,
+      "detail": [
+        "WORLD_FORMATION_NOMINAL_CUTAWAY"
+      ]
+    },
+    {
+      "name": "one matching formation variant (1, 1)",
+      "passed": true,
+      "detail": [
+        "WORLD_FORMATION_IRREGULAR_CUTAWAY"
+      ]
+    },
+    {
+      "name": "one matching formation variant (1, 2)",
+      "passed": true,
+      "detail": [
+        "WORLD_FORMATION_SPIRAL_CUTAWAY"
+      ]
+    },
+    {
+      "name": "formation visibility control",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "upper-host section stays above boundary",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "upper-host section inner radius preserved",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "all_pass": true,
+  "native": [
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_A_v006.blend",
+      "sha256": "8763e59920c329ef523d817e9567a04be19c5da6d07d6334ff2b32c4405afb6d",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "mesh_instances": 1,
+      "camera": {
+        "location": [
+          0.7200000286102295,
+          -0.7799999713897705,
+          0.3199999928474426
+        ],
+        "rotation": [
+          1.317097783088684,
+          0.11619391292333603,
+          -0.842307984828949
+        ],
+        "lens": 42.0
+      },
+      "cutaway": "Rear-half ground/well and fluid section; source bore dimensions unchanged"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_B_v006.blend",
+      "sha256": "a5db5af94d5038583dda5c2a0d85eb098f620242dac8beb9be3f315c8267160b",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "mesh_instances": 1,
+      "camera": {
+        "location": [
+          0.949999988079071,
+          -0.7200000286102295,
+          0.3799999952316284
+        ],
+        "rotation": [
+          1.256788969039917,
+          0.11418458819389343,
+          -0.838667631149292
+        ],
+        "lens": 42.0
+      },
+      "cutaway": "Rear-half ground/well and fluid section; source bore dimensions unchanged"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v010.blend",
+      "sha256": "70d60d240c5c9eb95528e1b21077feaca45cb4c688381746210ea2b970270802",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "mesh_instances": 0,
+      "camera": {
+        "location": [
+          0.8500000238418579,
+          -0.4000000059604645,
+          0.30000001192092896
+        ],
+        "rotation": [
+          1.2742010354995728,
+          -3.000740989023143e-08,
+          1.1117045879364014
+        ],
+        "lens": 38.0
+      },
+      "cutaway": "Cased-host end section; lower formation, tool and optical mud intentionally hidden. Steel/cement/upper host/shoe at registered scale."
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/BHA_detail_v006.blend",
+      "sha256": "7124d77815ce26a3763c49e950df33aeb64b18c88a5ab8f9a0d6d82a8677833f",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "mesh_instances": 1,
+      "camera": {
+        "location": [
+          4.099999904632568,
+          -1.7000000476837158,
+          0.800000011920929
+        ],
+        "rotation": [
+          1.1784738302230835,
+          0.11096051335334778,
+          0.4638059735298157
+        ],
+        "lens": 58.0
+      },
+      "cutaway": "Hardware-only inspection; bit/adapters illustrative"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/wide_context_v007.blend",
+      "sha256": "5c63bf1756a94bea78aae68fd88ace85e41157ce3ef8468f7c2ea6a539f69265",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_context_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_context_v003.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "mesh_instances": 0,
+      "camera": {
+        "location": [
+          130.0,
+          -230.0,
+          80.0
+        ],
+        "rotation": [
+          1.2492694854736328,
+          -3.254720581935544e-08,
+          0.5144514441490173
+        ],
+        "lens": 35.0
+      },
+      "cutaway": "Intentional water/earth section"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_A_formation_v005.blend",
+      "sha256": "5d3ea686bf79a232e4652098e61c7af9732e4a0da5a283e23dc0a9684fd92faa",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "mesh_instances": 1,
+      "camera": {
+        "location": [
+          1.899999976158142,
+          -2.0,
+          1.149999976158142
+        ],
+        "rotation": [
+          1.0523052215576172,
+          -1.1699889057581458e-08,
+          0.12435498833656311
+        ],
+        "lens": 48.0
+      },
+      "cutaway": "Preserved reuse-test view"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_B_formation_v005.blend",
+      "sha256": "963c8c9c2bbc1fa0bfec30df0c1d20b2adf2bbc4401d126c0185a964b91c468b",
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+          "exists": true
+        }
+      ],
+      "units": 1.0,
+      "mesh_instances": 1,
+      "camera": {
+        "location": [
+          1.5,
+          -4.5,
+          2.200000047683716
+        ],
+        "rotation": [
+          1.1284369230270386,
+          -4.435515954526181e-09,
+          0.2502005398273468
+        ],
+        "lens": 49.0
+      },
+      "cutaway": "Preserved reuse-test view"
+    }
+  ],
+  "verification": "Executor self-checks. Rendered appearance acceptance belongs to Radzi; geometric/source checks do not certify engineering."
+}

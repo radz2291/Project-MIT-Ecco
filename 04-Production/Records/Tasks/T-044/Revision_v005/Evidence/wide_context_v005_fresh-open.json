@@ -1,0 +1,30 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/wide_context_v005.blend",
+  "sha256": "055040a59aa19043f537e0bd6600a908f9b913becf3917619565d0e74f35c928",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_context_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_context_v003.blend",
+      "exists": true
+    }
+  ],
+  "units": 1.0,
+  "mesh_instances": 0,
+  "camera": {
+    "location": [
+      120.0,
+      -190.0,
+      80.0
+    ],
+    "rotation": [
+      1.189863681793213,
+      4.3714244668535684e-08,
+      0.5633164048194885
+    ],
+    "lens": 42.0
+  },
+  "cutaway": "Intentional water/earth section"
+}

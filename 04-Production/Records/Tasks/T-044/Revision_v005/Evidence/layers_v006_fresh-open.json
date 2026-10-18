@@ -1,0 +1,34 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v006.blend",
+  "sha256": "7c10516af551ac0ad709974ef472313d4c88ffc8e513b50907c3ff781409e0dd",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+      "exists": true
+    }
+  ],
+  "units": 1.0,
+  "mesh_instances": 1,
+  "camera": {
+    "location": [
+      0.75,
+      -1.1200000047683716,
+      0.7200000286102295
+    ],
+    "rotation": [
+      1.106000542640686,
+      0.10737285763025284,
+      0.5777251124382019
+    ],
+    "lens": 55.0
+  },
+  "cutaway": "Rear-half ground/well and fluid section; source bore dimensions unchanged"
+}

@@ -9,3 +9,14 @@ Evidence/migration_B_v002.json
 Evidence/Reuse_A_after_v002_fresh-open.json
 # Post-push parity evidence records its containing commit without a self-hash loop.
 Evidence/sync-verification_v004.json
+
+# Formation revision: retain iterations/logs locally; publish only five selected approvals.
+Revision_v005/Evidence/*.log
+Revision_v005/Evidence/sync-verification_v005.json
+Revision_v005/Attempts/
+Previews/Revision_v005/*.png
+!Previews/Revision_v005/wide_context_working_v007.png
+!Previews/Revision_v005/downhole_A_working_v006.png
+!Previews/Revision_v005/downhole_B_working_v006.png
+!Previews/Revision_v005/layers_working_v010.png
+!Previews/Revision_v005/BHA_detail_working_v006.png

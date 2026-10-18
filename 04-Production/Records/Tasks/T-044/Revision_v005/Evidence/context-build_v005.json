@@ -1,0 +1,20 @@
+{
+  "path": "04-Production/Shared/Assets/Formation/Formation_context_v001.blend",
+  "sha256": "1dc5f08a8b6bd338e59c018a9c694b6ecb748867aa67cf1805ccfce347b1dc93",
+  "surface_source_unchanged": true,
+  "macro_extent": [
+    [
+      -20,
+      25
+    ],
+    [
+      -45,
+      45
+    ],
+    [
+      -45,
+      45
+    ]
+  ],
+  "illustrative_placement_z": -60
+}

@@ -1,0 +1,34 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v008.blend",
+  "sha256": "818134ea0f4b844c7595f4ea7c9a0abe1ef08989456128ecf4e09132c8175c10",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+      "exists": true
+    }
+  ],
+  "units": 1.0,
+  "mesh_instances": 0,
+  "camera": {
+    "location": [
+      0.8999999761581421,
+      -0.36000001430511475,
+      0.2199999988079071
+    ],
+    "rotation": [
+      1.3497251272201538,
+      -4.383832408194621e-09,
+      1.1665750741958618
+    ],
+    "lens": 32.0
+  },
+  "cutaway": "Axial casing-shoe section; hardware and optical mud hidden to inspect steel/cement/formation at actual scale"
+}

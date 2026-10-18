@@ -1,0 +1,34 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_A_formation_v005.blend",
+  "sha256": "5d3ea686bf79a232e4652098e61c7af9732e4a0da5a283e23dc0a9684fd92faa",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+      "exists": true
+    }
+  ],
+  "units": 1.0,
+  "mesh_instances": 1,
+  "camera": {
+    "location": [
+      1.899999976158142,
+      -2.0,
+      1.149999976158142
+    ],
+    "rotation": [
+      1.0523052215576172,
+      -1.1699889057581458e-08,
+      0.12435498833656311
+    ],
+    "lens": 48.0
+  },
+  "cutaway": "Preserved reuse-test view"
+}

@@ -1,5 +1,9 @@
 # ECCO production asset manifest
 
+## A-WORLD / T44 — surrounding formation revision v005
+
+18 October 2026: owner-requested visual revision after the prior T44 result. [Current native manifest](../Shared/Assets/World/manifest_v005.json), [shared coverage/controls guide](../Shared/Assets/World/README_v002.md), [five individual approval images](Tasks/T-044/Revision_v005/review-guide.md), [revised report](Tasks/T-044/report.md). Environment v005 adds full-frame surrounding formation with six full/cut variant groups; shared macro context v002 and upper-cased-section v002 support wide/layer views; surface v003 sections water while preserving rig geometry. BHA/ECCO film v002, T5/T6 sources and old consumers remain unchanged. A/B library migrations retain cameras/timing; 62 native checks and five final render-to-file timings1.23–2.32s pass on the normal-cache Vulkan setup. Known empty-cache limit remains explicit. New image approval is pending Radzi; no movie-shot production or film assembly is implied. Native files remain local/ignored, with no off-machine backup claimed.
+
 ## A-WORLD / T44 — shared film candidate, 18 October 2026
 
 [Versioned manifest](../Shared/Assets/World/manifest_v004.json) · [usage/controls and migration guide](../Shared/Assets/World/README_v001.md) · [T44 report](Tasks/T-044/report.md) · [review sheet](Tasks/T-044/Previews/review-sheet_v004.jpg) · [component/shot consumers](Tasks/T-044/component-consumers_v004.json).

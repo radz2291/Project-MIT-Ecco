@@ -1,0 +1,183 @@
+{
+  "version": "v005",
+  "task": "T44",
+  "status": "revised_candidate_for_Radzi_image_review",
+  "local_root": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco",
+  "native_backup": "Local Git-ignored files; no remote native media/off-machine backup claimed",
+  "baseline_manifest": "manifest_v004.json",
+  "artifacts": [
+    {
+      "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v005.blend",
+      "sha256": "e3c255ca84f8c92c17332ee2fda9a873f2fd4eca7d65c308ea2898ed2bc5fdde",
+      "bytes": 8486111,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+      "sha256": "731d7dfed6e7d91ae74c05503005f43b996e98caa0120b24ad0def97ea612ac4",
+      "bytes": 1255854,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+      "sha256": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556",
+      "bytes": 1214774,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Surface/Surface_context_v003.blend",
+      "sha256": "a68823658495ba09ca626167a3c12042ffc825cfdcde3fffd616df23a4b64aa5",
+      "bytes": 354156,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/wide_context_v007.blend",
+      "sha256": "5c63bf1756a94bea78aae68fd88ace85e41157ce3ef8468f7c2ea6a539f69265",
+      "bytes": 88680,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_A_v006.blend",
+      "sha256": "8763e59920c329ef523d817e9567a04be19c5da6d07d6334ff2b32c4405afb6d",
+      "bytes": 94941,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_B_v006.blend",
+      "sha256": "a5db5af94d5038583dda5c2a0d85eb098f620242dac8beb9be3f315c8267160b",
+      "bytes": 94940,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v010.blend",
+      "sha256": "70d60d240c5c9eb95528e1b21077feaca45cb4c688381746210ea2b970270802",
+      "bytes": 95156,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/BHA_detail_v006.blend",
+      "sha256": "7124d77815ce26a3763c49e950df33aeb64b18c88a5ab8f9a0d6d82a8677833f",
+      "bytes": 94865,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_A_formation_v005.blend",
+      "sha256": "5d3ea686bf79a232e4652098e61c7af9732e4a0da5a283e23dc0a9684fd92faa",
+      "bytes": 90623,
+      "storage": "local-native"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_B_formation_v005.blend",
+      "sha256": "963c8c9c2bbc1fa0bfec30df0c1d20b2adf2bbc4401d126c0185a964b91c468b",
+      "bytes": 90645,
+      "storage": "local-native"
+    }
+  ],
+  "reused_unchanged": [
+    "BHA/BHA_film_v002.blend",
+    "ECCO/ECCO_film_v002.blend"
+  ],
+  "approval_images": [
+    {
+      "name": "wide_context",
+      "label": "01  Rig and surrounding earth / intentional section",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/wide_context_working_v007.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/wide_context_v007.blend",
+      "sha256": "d00b151714f7584c0c3668f92024619e6de103bab00ed86f825489ea62f21019",
+      "bytes": 995175,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/wide_context_working_benchmark_v007.json",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0
+    },
+    {
+      "name": "downhole_A",
+      "label": "02  Downhole A / source scale, surrounding rock and fluid",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/downhole_A_working_v006.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_A_v006.blend",
+      "sha256": "320e437e7a2955fae5cd8e1485ebec212aa4430ae7991eecd52d3cf3e5652180",
+      "bytes": 1352357,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/downhole_A_working_benchmark_v006.json",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0
+    },
+    {
+      "name": "downhole_B",
+      "label": "03  Nearby downhole B / same shared environment",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/downhole_B_working_v006.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_B_v006.blend",
+      "sha256": "7c735daf2afe1f68251b7d97e0bfe6b93e18bb0a6f0ba7ed7dca07e78119e089",
+      "bytes": 1331142,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/downhole_B_working_benchmark_v006.json",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0
+    },
+    {
+      "name": "layers",
+      "label": "04  Steel, cement, formation / hardware hidden for inspection",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/layers_working_v010.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/layers_v010.blend",
+      "sha256": "1fb3b8901ff5d8e1ab163f180176a8a5adbe892a61748b33028031213fef12ee",
+      "bytes": 1198673,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/layers_working_benchmark_v010.json",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bright_pixels_percent": 0.0
+    },
+    {
+      "name": "BHA_detail",
+      "label": "05  BHA, bit and adapters / simplified geometry",
+      "path": "04-Production/Records/Tasks/T-044/Previews/Revision_v005/BHA_detail_working_v006.png",
+      "scene": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/BHA_detail_v006.blend",
+      "sha256": "ee740ca74c4c472fd846dea5d3ec042dadbb1ecb304cb508adfcfaa9da8da4aa",
+      "bytes": 922308,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "benchmark": "04-Production/Records/Tasks/T-044/Revision_v005/Evidence/BHA_detail_working_benchmark_v006.json",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "bright_pixels_percent": 0.0
+    }
+  ],
+  "downhole_extent": {
+    "axial_m": [
+      -8,
+      10
+    ],
+    "transverse_half_width_m": 2.4,
+    "construction": "surrounding boundary mass; cut-face relief outside unchanged registered bore"
+  },
+  "controls": "formation_controls_v002.py",
+  "source_truth": "Illustrative geology/rig context and simplified hardware, not engineering certification or actual deployment",
+  "performance": "720p EEVEE16 Vulkan; first render in fresh process with normal driver caches; known empty-cache initialization limitation retained"
+}

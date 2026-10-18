@@ -1,0 +1,460 @@
+{
+  "source": "04-Production/Records/Tasks/T-044/ReuseTests/Reuse_B_after_v004.blend",
+  "output": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/Reuse_B_formation_v005.blend",
+  "before": {
+    "camera": {
+      "name": "REUSE_CAMERA_B",
+      "location": [
+        1.5,
+        -4.5,
+        2.200000047683716
+      ],
+      "rotation": [
+        1.1284369230270386,
+        -4.435515954526181e-09,
+        0.2502005398273468
+      ],
+      "lens": 49.0,
+      "keys": [
+        [
+          "location",
+          0,
+          [
+            [
+              1.0,
+              1.5,
+              "BEZIER"
+            ],
+            [
+              96.0,
+              1.58,
+              "BEZIER"
+            ]
+          ]
+        ],
+        [
+          "location",
+          1,
+          [
+            [
+              1.0,
+              -4.5,
+              "BEZIER"
+            ],
+            [
+              96.0,
+              -4.5,
+              "BEZIER"
+            ]
+          ]
+        ],
+        [
+          "location",
+          2,
+          [
+            [
+              1.0,
+              2.2,
+              "BEZIER"
+            ],
+            [
+              96.0,
+              2.2,
+              "BEZIER"
+            ]
+          ]
+        ]
+      ]
+    },
+    "timing": [
+      1,
+      96,
+      24
+    ],
+    "local_controls": {
+      "CONSUMER_CONTROL": {
+        "properties": {
+          "travel_m": 0.5,
+          "rotation_rad": 0.4,
+          "show_mud": 1
+        },
+        "keys": [
+          [
+            "[\"travel_m\"]",
+            0,
+            [
+              [
+                1.0,
+                0.5,
+                "BEZIER"
+              ],
+              [
+                96.0,
+                -1.25,
+                "BEZIER"
+              ]
+            ]
+          ]
+        ],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "HARDWARE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.4999999403953552,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CASING_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CEMENT_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_IRREGULAR_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_MUD_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SHOE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_UPPER_FORMATION_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v004.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v004.blend",
+        "exists": true
+      }
+    ],
+    "mineral": {
+      "roughness": 0.3400000035762787,
+      "grain": 62.0
+    }
+  },
+  "after": {
+    "camera": {
+      "name": "REUSE_CAMERA_B",
+      "location": [
+        1.5,
+        -4.5,
+        2.200000047683716
+      ],
+      "rotation": [
+        1.1284369230270386,
+        -4.435515954526181e-09,
+        0.2502005398273468
+      ],
+      "lens": 49.0,
+      "keys": [
+        [
+          "location",
+          0,
+          [
+            [
+              1.0,
+              1.5,
+              "BEZIER"
+            ],
+            [
+              96.0,
+              1.58,
+              "BEZIER"
+            ]
+          ]
+        ],
+        [
+          "location",
+          1,
+          [
+            [
+              1.0,
+              -4.5,
+              "BEZIER"
+            ],
+            [
+              96.0,
+              -4.5,
+              "BEZIER"
+            ]
+          ]
+        ],
+        [
+          "location",
+          2,
+          [
+            [
+              1.0,
+              2.2,
+              "BEZIER"
+            ],
+            [
+              96.0,
+              2.2,
+              "BEZIER"
+            ]
+          ]
+        ]
+      ]
+    },
+    "timing": [
+      1,
+      96,
+      24
+    ],
+    "local_controls": {
+      "CONSUMER_CONTROL": {
+        "properties": {
+          "travel_m": 0.5,
+          "rotation_rad": 0.4,
+          "show_mud": 1
+        },
+        "keys": [
+          [
+            "[\"travel_m\"]",
+            0,
+            [
+              [
+                1.0,
+                0.5,
+                "BEZIER"
+              ],
+              [
+                96.0,
+                -1.25,
+                "BEZIER"
+              ]
+            ]
+          ]
+        ],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "HARDWARE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.4999999403953552,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CASING_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_CEMENT_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_IRREGULAR_CUTAWAY_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_MUD_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_SHOE_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "WORLD_UPPER_FORMATION_INSTANCE": {
+        "properties": {},
+        "keys": [],
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "libraries": [
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\ReuseTests\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+        "exists": true
+      }
+    ],
+    "mineral": {
+      "roughness": 0.3400000035762787,
+      "grain": 62.0
+    }
+  },
+  "preserved_camera_timing_controls": true,
+  "procedure": "One environment library path/reload, then Save As with relative paths; no duplicated formation or product edits"
+}

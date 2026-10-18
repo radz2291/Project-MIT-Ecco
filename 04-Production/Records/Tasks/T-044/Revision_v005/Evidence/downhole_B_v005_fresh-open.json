@@ -1,0 +1,34 @@
+{
+  "path": "04-Production/Records/Tasks/T-044/Revision_v005/Scenes/downhole_B_v005.blend",
+  "sha256": "a7f0c45c594b4be9281526979d74a01f56fa4e066416bdc1f067f5aeb96a1a5e",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v005.blend",
+      "exists": true
+    }
+  ],
+  "units": 1.0,
+  "mesh_instances": 1,
+  "camera": {
+    "location": [
+      0.949999988079071,
+      -0.7200000286102295,
+      0.3799999952316284
+    ],
+    "rotation": [
+      1.256788969039917,
+      0.11418458819389343,
+      -0.838667631149292
+    ],
+    "lens": 42.0
+  },
+  "cutaway": "Rear-half ground/well and fluid section; source bore dimensions unchanged"
+}

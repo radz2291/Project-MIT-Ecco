@@ -1,0 +1,25 @@
+{
+  "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v005.blend",
+  "sha256": "e3c255ca84f8c92c17332ee2fda9a873f2fd4eca7d65c308ea2898ed2bc5fdde",
+  "source_v004_sha256": "3d6ccd17831e889315832c04ca654ba0e4f383ab77fb7b1ce5ff90417d22afc6",
+  "source_unchanged": true,
+  "registered_hole_radius_m": 0.155575,
+  "upper_host_radius_m": 0.22225,
+  "source_wall_geometry_changed": false,
+  "formation_extent": {
+    "x": [
+      -8,
+      10
+    ],
+    "transverse_half_width": 2.4
+  },
+  "geology": "authored illustrative",
+  "groups": [
+    "WORLD_FORMATION_NOMINAL_CUTAWAY",
+    "WORLD_FORMATION_NOMINAL_FULL",
+    "WORLD_FORMATION_IRREGULAR_CUTAWAY",
+    "WORLD_FORMATION_IRREGULAR_FULL",
+    "WORLD_FORMATION_SPIRAL_CUTAWAY",
+    "WORLD_FORMATION_SPIRAL_FULL"
+  ]
+}
