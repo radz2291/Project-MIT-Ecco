@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 18,
+  "frames": 432,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "antialiasing": "FXAA",
+  "renderer": "Workbench / Section2 studio settings",
+  "mean_seconds_per_frame": 0.6282034509258665,
+  "maximum_seconds_per_frame": 3.5083623999962583,
+  "total_render_seconds": 271.3838907999743,
+  "encoding_seconds": 8.42570330001763,
+  "all_frames_decoded": true,
+  "canonical_sources_unchanged": true,
+  "video_sha256": "44162ec6115e09572d086d2a0f0d9b26e3c136044b87e0126a0d1377f41765ae",
+  "native_sha256": "ed755652ab45ed7ae702f2ae5c011e3f4dc134458601a9701a6169821e5f6dbf",
+  "status": "Owner-authorized complete cinematic previs, not final finishing or engineering acceptance",
+  "limits": [
+    "No narration sync or S03/S05 film assembly",
+    "Illustrative response/channel geometry, no direct photographed-fluid claim",
+    "Simple matched Workbench shading; preview-only face-material cutaway and transparency limitations",
+    "Machine/file startup excluded; empty-driver-cache timing unproven",
+    "Media local, no off-machine backup verified"
+  ]
+}

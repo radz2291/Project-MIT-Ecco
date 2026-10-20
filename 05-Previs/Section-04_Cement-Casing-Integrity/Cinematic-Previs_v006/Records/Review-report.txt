@@ -1,0 +1,54 @@
+SECTION4 v006 — MATCH SECTION2 PREVIS CONTINUITY
+
+Reused the actual geological wall mesh and earth material from approved
+Section2 v011. Inspected its rendered MP4 sensor view and frame495 reveal.
+Matched its simple Workbench studio shading, material colors, cavity display,
+Standard view transform, zero exposure and soft grey product appearance.
+Keep1280x720 for inspection; FXAA is the cheap sampling choice.
+
+Section4 camera, timing, tool travel, physical steel/cement/channel coordinates
+and acoustic event timing remain unchanged from v005. Steel/cement/channel
+vertex/topology hashes, camera keys and hardware travel keys match v005 in
+verification.json. Preview-only local mesh copies assign face-material alpha
+to preserve audience cutaways in Workbench; shared source meshes stay untouched.
+
+The imported Section2 geological wall is moved from Z-depth to S04X. Its inner
+contact is fitted outside unchanged cement. Only the outer soil envelope is
+extended for framing; this environment fitting is illustrative, not measured
+formation data. Original Earth stratum20 visible color is0.42/0.28/0.15.
+The redundant opposite copy is hidden to avoid overlapping draw overhead.
+SourceSection2 and oldSection4 scenes are preserved. No new native dependency
+on the S02 previs is required after import; source identity is recorded.
+
+Scenes/S04_cinematic-previs_v006.blend
+Previews/S04_cinematic-previs_v006.mp4
+Previews/S04_Organic-channel_v006.png
+Previews/S02_reference.png is an extracted reference from the actual S02 video.
+Records/delivery.json contains final batch/encoding timings and exact hashes.
+
+Rebuild: Scripts/revise.py -- build, then Scripts/match_preview.py, then render
+with Scripts/revise.py -- render and encode with Scripts/package.py.
+Scripts/verify.py checks the saved successor. Scripts/fast_settings.py records
+the final cheap settings and representative-frame checks.
+
+Known preview limits: Workbench transparency can show overlap patterns;
+angular face-material masks approximate the former shader window. All physical
+geometry remains fixed during reveal. No fluid flow, cement dissolution, direct
+fluid photograph or final-material acceptance is claimed.
+
+An earlier8-AA attempt exceeded the strict5s cap at frame23 and stopped;
+timings-failed-aa8.json preserves that evidence. A subsequent run was interrupted
+while changing settings. Final batch timing excludes these partial attempts,
+setup, file loading and review stills. No global iteration-time total is claimed.
+
+Scene and media remain local. Final finishing and owner comprehension approval
+remain pending. Current unsaved Blender scene has not been replaced.
+
+FINAL DELIVERY COST
+Complete432-frame matched-style batch rendered in271.384s (4m31s), averaging
+0.6282s/frame; maximum3.5084s. Every delivered frame remained below5s.
+Encoding8.426s; all432 MP4 frames decoded. These are final-batch costs, excluding
+stopped/interrupted attempts, setup and review benchmarks. No claim is made
+that Workbench is faster than v005 on this adapted transparent cutaway.
+Final scene and video hashes are in delivery.json. SourceS02 and shared masters
+remain unchanged. Owner review of continuity remains pending.

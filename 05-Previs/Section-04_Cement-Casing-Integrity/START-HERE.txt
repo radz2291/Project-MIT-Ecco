@@ -1,3 +1,6 @@
+CURRENT: Cinematic-Previs_v006 — Section2 environment and simple Workbench preview match.
+See Cinematic-Previs_v006/Records/Review-report.txt. v005 is preserved as the earlier EEVEE candidate.
+
 CURRENT: Cinematic-Previs_v005 — owner-authorized full18-second previs.
 See Cinematic-Previs_v005/Records/Review-report.txt and Previews/S04_cinematic-previs_v005.mp4.
 Conceptual reveal v004 approved; final materials/geometry treatment/finishing not approved.

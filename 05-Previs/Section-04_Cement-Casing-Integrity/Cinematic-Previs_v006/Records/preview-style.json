@@ -1,0 +1,35 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend",
+  "source_settings": {
+    "light": "STUDIO",
+    "studio_light": "Default",
+    "color_type": "MATERIAL",
+    "show_shadows": false,
+    "show_cavity": true,
+    "cavity_type": "BOTH",
+    "curvature_ridge_factor": 0.0,
+    "curvature_valley_factor": 0.0,
+    "cavity_ridge_factor": 1.0,
+    "cavity_valley_factor": 1.0,
+    "background_type": "WORLD",
+    "background_color": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "show_specular_highlight": true,
+    "studiolight_rotate_z": 0.4000000059604645
+  },
+  "view_settings": {
+    "view_transform": "Standard",
+    "look": "None",
+    "exposure": 0.0,
+    "gamma": 1.0
+  },
+  "engine": "BLENDER_WORKBENCH",
+  "output_resolution": [
+    1280,
+    720
+  ],
+  "adaptation": "Same studio preview look; shader cutaways baked to preview-only face materials with animated alpha. Geometry coordinates unchanged; material colors preserve cyan fluid/effects."
+}

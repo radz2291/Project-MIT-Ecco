@@ -1,0 +1,20 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend",
+  "source_sha256": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+  "source_object": {
+    "name": "S02 geological wall retained section",
+    "vertices": 97362,
+    "materials": [
+      "Earth stratum 20"
+    ],
+    "modifiers": []
+  },
+  "original_radius_range": [
+    0.15557499394573449,
+    0.3200000135523865
+  ],
+  "new_min_formation_radius": 0.22225,
+  "adaptation": "Original Z depth mapped to S04 X. Radial contact fits outside unchanged cement; only outer soil thickness expanded for frame coverage. No open-hole wall inside steel.",
+  "preserved": "S04 casing/cement/channel meshes, camera and acoustic timing unchanged",
+  "geometry_check": true
+}

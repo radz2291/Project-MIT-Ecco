@@ -1,0 +1,56 @@
+{
+  "fresh_open": true,
+  "steel_cement_channel_vertex_topology_hashes_match_v005": true,
+  "geometry_hashes": {
+    "Steel - unchanged source with viewing window": "d8c4ebfcdd67b94014a776d131089b7544ca9838682836f4265e209d83b69b08",
+    "Cement either side of organic gap A": "4006a944f9f6c36c36a92e7fd600eca29480f21b9228620a6589c7d9c3b39117",
+    "Cement either side of organic gap B": "47b499cadb7f19d772145f3e0d12ba10a5eb1d37d6b3cb2c4930e0d91c372f87",
+    "Cement uphole continuation": "a15bf435ddc33b03f68aff683d10ebb0c3a08e38388567300e7c89377c510c9c",
+    "Cement downhole supported interval": "bb1d2a115c8e050ef2c049c724dca4b6b6f649bef4a68e7d0588c740e3e5de8f",
+    "Stationary organic fluid-filled channel volume": "7897b9bd5ae1542baae6a670f7a2595d782532e60437ba707b9204bbfcd17b0e"
+  },
+  "camera_keys_unchanged": true,
+  "hardware_motion_keys_unchanged": true,
+  "source_section2_unchanged": true,
+  "one_ecco": true,
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true,
+      "relative": true
+    }
+  ],
+  "engine": "BLENDER_WORKBENCH",
+  "frames": 432,
+  "fps": 24
+}
