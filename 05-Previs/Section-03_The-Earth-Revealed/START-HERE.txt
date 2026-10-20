@@ -1,0 +1,19 @@
+SECTION 3 — APPROVED FINAL v036
+Approved by Radzi on 20 October 2026 in this conversation.
+
+OPEN THE SCENE
+v036/Scenes/S03_second-last-nominal-label_v036.blend
+
+WATCH THE FINAL VIDEO
+v036/Previews/S03_v036_final_24fps.mp4
+18 seconds / 24 fps / 960 x 540
+
+READ THE CLOSURE
+Closure/Completion-report.txt
+
+CLEANUP RECOMMENDATION
+Closure/KEEP-REMOVE.txt
+Keep six milestones: v009, v014, v023, v028, v033, v036.
+Keep Closure for provenance and verification. No versions have been deleted.
+All retained scenes use packed textures plus relative paths to their own Data folder.
+Heavy scenes/videos remain local; no off-machine media backup is verified.

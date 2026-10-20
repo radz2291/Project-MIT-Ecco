@@ -1,0 +1,53 @@
+{
+  "approved_date": "2026-10-20",
+  "authority": "Radzi: Good, this project is approved. Current request authorizes closure and cleanup recommendations. No deletion performed.",
+  "scope": "Section 3 only; Sections 1 and 2, canonical shared assets and project-level source image excluded",
+  "keep_versions": [
+    "v009",
+    "v014",
+    "v023",
+    "v028",
+    "v033",
+    "v036"
+  ],
+  "remove_versions": [
+    "v001",
+    "v002",
+    "v003",
+    "v004",
+    "v005",
+    "v006",
+    "v007",
+    "v008",
+    "v010",
+    "v011",
+    "v012",
+    "v013",
+    "v015",
+    "v016",
+    "v017",
+    "v018",
+    "v019",
+    "v020",
+    "v021",
+    "v022",
+    "v024",
+    "v025",
+    "v026",
+    "v027",
+    "v029",
+    "v030",
+    "v031",
+    "v032",
+    "v034",
+    "v035"
+  ],
+  "remove_logical_bytes": 6341187031,
+  "optional_cache_bytes": 662323066,
+  "archive_files": 488,
+  "retained_files": 206,
+  "visual_check": {
+    "frame": 60,
+    "pixel_identical_after_dependency_localization": true
+  }
+}

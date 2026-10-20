@@ -1,0 +1,10 @@
+{
+  "label": "NOMINAL REFERENCE",
+  "station": "NOMINAL 01, second-last in drawing sequence",
+  "world_z_m": -1,
+  "visible_frames": [
+    49,
+    80
+  ],
+  "render_seconds": 0.8789052999927662
+}

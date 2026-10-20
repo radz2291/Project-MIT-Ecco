@@ -1,0 +1,192 @@
+[
+  {
+    "version": "v009",
+    "scene": "v009\\Geometry-Readability-Review\\Scenes\\S03_v009_geometry-review.blend",
+    "original_scene_sha256": "d3acda064eae021830d9a06cf642d2989c17da01e4a0a69def804e9ec243fee9",
+    "localized_scene_sha256": "13fdde9255f68ed1e9ab18523f242f54d76c8bb11a4500d6fa28421e9e870ba4",
+    "geometry_unchanged": true,
+    "reopened": true,
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\..\\Data\\packed-source_58acba42cacee5a6.png",
+        "sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "packed": true
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\..\\Data\\packed-source_58377e10ca460583.png",
+        "sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "packed": true
+      }
+    ]
+  },
+  {
+    "version": "v014",
+    "scene": "v014\\Scenes\\S03_seam-verification_v014.blend",
+    "original_scene_sha256": "e2c682457fcaf60211af49cfe41bce9c9a11b8589dfb84689b3e4f3ef2b93616",
+    "localized_scene_sha256": "5cbae949051a2d244a3ab280c1ff644d8093dff65d72c5ba82a26f317748848b",
+    "geometry_unchanged": true,
+    "reopened": true,
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\Data\\packed-source_58acba42cacee5a6.png",
+        "sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "packed": true
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\Data\\packed-source_58377e10ca460583.png",
+        "sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "packed": true
+      },
+      {
+        "name": "S03 v014 narrow-band seamless amplitude",
+        "path": "//..\\Data\\packed-source_8f392a7407ba14f7.png",
+        "sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "packed": true
+      }
+    ]
+  },
+  {
+    "version": "v014",
+    "scene": "v014\\Scenes\\S03_v014.blend",
+    "original_scene_sha256": "fbfcd443fa1c86a474f0f1ee9a188c62761aa9f26a7b2f89673c405df3fa2024",
+    "localized_scene_sha256": "b4b2964b5b7f0dff498d281a754533b433494221e4fab4f419e5da4a95d1795d",
+    "geometry_unchanged": true,
+    "reopened": true,
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\Data\\packed-source_58acba42cacee5a6.png",
+        "sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "packed": true
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\Data\\packed-source_58377e10ca460583.png",
+        "sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "packed": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\Data\\packed-source_8f392a7407ba14f7.png",
+        "sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "packed": true
+      }
+    ]
+  },
+  {
+    "version": "v023",
+    "scene": "v023\\Scenes\\S03_computed-organic_v023.blend",
+    "original_scene_sha256": "083e857257f3a255b6991c0a4ee71b14a4bd3fb012728cef1970f0c3ccd07f16",
+    "localized_scene_sha256": "2985114d597bcd4d401f71c8554deebdfe8b85f5ff92a4acadf94f7632638dfc",
+    "geometry_unchanged": true,
+    "reopened": true,
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\Data\\packed-source_58acba42cacee5a6.png",
+        "sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "packed": true
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\Data\\packed-source_58377e10ca460583.png",
+        "sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "packed": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\Data\\packed-source_8f392a7407ba14f7.png",
+        "sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "packed": true
+      }
+    ]
+  },
+  {
+    "version": "v028",
+    "scene": "v028\\Scenes\\S03_full-irregular-ground_v028.blend",
+    "original_scene_sha256": "999a5c5bf2ccc3721933451d9e4d857529d778a254a8bdd65f7f547788217333",
+    "localized_scene_sha256": "96e400daf19a4eabbe7ed0867e58d0515583bae3ca60c55ce6d4ccad4df44589",
+    "geometry_unchanged": true,
+    "reopened": true,
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\Data\\packed-source_58acba42cacee5a6.png",
+        "sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "packed": true
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\Data\\packed-source_58377e10ca460583.png",
+        "sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "packed": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\Data\\packed-source_8f392a7407ba14f7.png",
+        "sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "packed": true
+      }
+    ]
+  },
+  {
+    "version": "v033",
+    "scene": "v033\\Scenes\\S03_smooth-drone-ending_v033.blend",
+    "original_scene_sha256": "667868a215193815cecd46f5a6c5958dc488771c6c6cc98a11c9377ec5906d07",
+    "localized_scene_sha256": "9b6786922c9cd1e08bf04bbae13e2d4719d1ed1be71bd2b2e3b3bcd376fe4269",
+    "geometry_unchanged": true,
+    "reopened": true,
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\Data\\packed-source_58acba42cacee5a6.png",
+        "sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "packed": true
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\Data\\packed-source_58377e10ca460583.png",
+        "sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "packed": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\Data\\packed-source_8f392a7407ba14f7.png",
+        "sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "packed": true
+      }
+    ]
+  },
+  {
+    "version": "v036",
+    "scene": "v036\\Scenes\\S03_second-last-nominal-label_v036.blend",
+    "original_scene_sha256": "71e32e26a27dd015606ab43020300dd611e616596fbe271dd0b566389bd1b528",
+    "localized_scene_sha256": "371093affa9b9d05416b3d39c6bfe53716ce5c2f3dbaf2130dcbe226152b4757",
+    "geometry_unchanged": true,
+    "reopened": true,
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\Data\\packed-source_58acba42cacee5a6.png",
+        "sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "packed": true
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\Data\\packed-source_58377e10ca460583.png",
+        "sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "packed": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\Data\\packed-source_8f392a7407ba14f7.png",
+        "sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "packed": true
+      }
+    ]
+  }
+]

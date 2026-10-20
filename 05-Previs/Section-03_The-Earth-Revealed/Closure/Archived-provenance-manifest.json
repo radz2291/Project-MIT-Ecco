@@ -1,0 +1,2442 @@
+[
+  {
+    "source": "v001\\README.md",
+    "archive": "Closure\\Iteration-History\\v001\\README.md",
+    "sha256": "e00685c2a9ebf8e5bb25d68ed1717abd2cfe06cdae422822e5c712698e9234ba"
+  },
+  {
+    "source": "v001\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v001\\Records\\benchmark.json",
+    "sha256": "3d32f0763b0817a2bc234bba3b2e4c2a6148c949cee7059c859c85bd548b8181"
+  },
+  {
+    "source": "v001\\Records\\build-check.json",
+    "archive": "Closure\\Iteration-History\\v001\\Records\\build-check.json",
+    "sha256": "f588ce20f795ab74d2d7f77390c4bc0dd379c270e46508f64f65a0af19183e55"
+  },
+  {
+    "source": "v001\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v001\\Records\\delivery-check.json",
+    "sha256": "f883dac841e79d59b037b456e90065ba4fa28572017e6ef557193af944dade7b"
+  },
+  {
+    "source": "v001\\Records\\earlier-frame-comparison.json",
+    "archive": "Closure\\Iteration-History\\v001\\Records\\earlier-frame-comparison.json",
+    "sha256": "f50f341ca6baef6feb46da3fae0fc01b38ee6272aeedce8acf472b7db686e3c5"
+  },
+  {
+    "source": "v001\\Records\\Owner-brief.txt",
+    "archive": "Closure\\Iteration-History\\v001\\Records\\Owner-brief.txt",
+    "sha256": "02d5da4715b252de70bee578500b079a861ba92f2bdfe571b99147185ef7f557"
+  },
+  {
+    "source": "v001\\Records\\preserved-animation.json",
+    "archive": "Closure\\Iteration-History\\v001\\Records\\preserved-animation.json",
+    "sha256": "5121ea0e9a8d068976d97f74601e16eafaad117ea1fc08d427e0bbc14f89ddfd"
+  },
+  {
+    "source": "v001\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v001\\Records\\render-timing.json",
+    "sha256": "e1b4d191bcf76e5f5369870b92f4ad2e77747b28471ae402547919e4d32ca5c3"
+  },
+  {
+    "source": "v001\\Records\\reopen-check.json",
+    "archive": "Closure\\Iteration-History\\v001\\Records\\reopen-check.json",
+    "sha256": "f49aee1d0166b49b7af18218fdbecc7f43c0332377ab2cc0332b87e7a5452cde"
+  },
+  {
+    "source": "v001\\Records\\tool-carrier.json",
+    "archive": "Closure\\Iteration-History\\v001\\Records\\tool-carrier.json",
+    "sha256": "6becba3b2f3d55eaf290cf8c9c81615961124dfb55859103627d6a9b8f6ed981"
+  },
+  {
+    "source": "v001\\Scripts\\build.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\build.py",
+    "sha256": "5f50ebaa16246a39d657673cb2c25e4cddb039c9b5146a5e63a4475b8b55739c"
+  },
+  {
+    "source": "v001\\Scripts\\compare.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\compare.py",
+    "sha256": "b60df01832acefec7117929f67f62fc4cdb8695e8c11405018df2c03f605bfcb"
+  },
+  {
+    "source": "v001\\Scripts\\fade_string.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\fade_string.py",
+    "sha256": "b5e32c4d4d771a2fb05a213f29385dacb7296058312456353e4cc13364ca031b"
+  },
+  {
+    "source": "v001\\Scripts\\finalize.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\finalize.py",
+    "sha256": "94315e08df142916cd5cec2e9e3da5c08476c92f9f2eed7570d0e3ce7f18ebdd"
+  },
+  {
+    "source": "v001\\Scripts\\finish.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\finish.py",
+    "sha256": "5080a1e33b6bea7794170ecac424480ce55b1dedd74c8950fe5397fe334c7164"
+  },
+  {
+    "source": "v001\\Scripts\\fix_carrier.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\fix_carrier.py",
+    "sha256": "c5e504f85b1f862528f22622691cd42400c61118fb9bcfc5db8693a08b880048"
+  },
+  {
+    "source": "v001\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\package.py",
+    "sha256": "af518f2c94e424e1adda6e27028288d38b926d0fd62b0b00362226ab2bea07c6"
+  },
+  {
+    "source": "v001\\Scripts\\preserve.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\preserve.py",
+    "sha256": "79300d1a9f0277489dfdf170084f3a5d28afabaf3d185726aac03ffed74cf5f9"
+  },
+  {
+    "source": "v001\\Scripts\\refine.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\refine.py",
+    "sha256": "a73c1834624c79dafe31bc3978d0e2cabe738c3eec84ed1a5c169ecf12ef095f"
+  },
+  {
+    "source": "v001\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\render.py",
+    "sha256": "9671d40db61f4f412d100fdcee8846b1bd97b3776bb9646d01a43f60713058db"
+  },
+  {
+    "source": "v001\\Scripts\\tool_fade.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\tool_fade.py",
+    "sha256": "3c55049ca94b44c93f1985eb1e224bdd6a7caa80cc101927b8eb93f261c527f2"
+  },
+  {
+    "source": "v001\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v001\\Scripts\\verify.py",
+    "sha256": "cb6310e36c7e95ddb2f0faf270eec4f5278442559299e976e0712ea3da96832e"
+  },
+  {
+    "source": "v002\\README.md",
+    "archive": "Closure\\Iteration-History\\v002\\README.md",
+    "sha256": "7f48c80d8261beb7988ded4ce63932857d7ebd7e52792dc7013b7790b5788f3e"
+  },
+  {
+    "source": "v002\\Records\\A-proof-timing.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\A-proof-timing.json",
+    "sha256": "ab060478f6f42b74d03ea98ccafa1f55c065bb5992c4f530fb795bf1a8d2b77b"
+  },
+  {
+    "source": "v002\\Records\\amplitude-field.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\amplitude-field.json",
+    "sha256": "c5478fbd6afab598833901c3ab778746104f30fc482225518c34df34442b0aeb"
+  },
+  {
+    "source": "v002\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\benchmark.json",
+    "sha256": "6d25e8cf94ab77b4bcde00b88a79784d9086a34d87047c298963b8995760c89d"
+  },
+  {
+    "source": "v002\\Records\\camera-continuity.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\camera-continuity.json",
+    "sha256": "b7a159329ef8a885dee5488784be6318d1149a61a5af034b42d456a326691f64"
+  },
+  {
+    "source": "v002\\Records\\candidate-file-hashes.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\candidate-file-hashes.json",
+    "sha256": "d96918fd0f5521db780124319199aedf45e4a6b78fa9710b6aad1b64ef7a7875"
+  },
+  {
+    "source": "v002\\Records\\composition-review.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\composition-review.json",
+    "sha256": "cf5873f6900a1434e52f9b096694989815be4086cd3d6bd4e427876261fdbb78"
+  },
+  {
+    "source": "v002\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\delivery-check.json",
+    "sha256": "dd32dc4fd012833a9830a6ecd58902ce46b0689a7c123a93c9b5e7441dde7802"
+  },
+  {
+    "source": "v002\\Records\\earlier-frame-comparison.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\earlier-frame-comparison.json",
+    "sha256": "232b96fda57d5765a8ba8da753316dde7d404b09ad891518f0e3cd64b9d89025"
+  },
+  {
+    "source": "v002\\Records\\feature-source.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\feature-source.json",
+    "sha256": "cd76b9d751a4dfe1e8c92c5c50bf0153cc25136a65f4251a1248da5ba66943da"
+  },
+  {
+    "source": "v002\\Records\\final-composition.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\final-composition.json",
+    "sha256": "1dddd58e0d43b05a2b10a6e81776386477ec4bec7194dafa3aa16e36d6bdc8be"
+  },
+  {
+    "source": "v002\\Records\\inspection-rerender-timing.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\inspection-rerender-timing.json",
+    "sha256": "4df98fa9cc770a39438cbd1dd4a1582fa301fada7cffa50d7a8c1aa93bbb3425"
+  },
+  {
+    "source": "v002\\Records\\Owner-revision-brief.txt",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\Owner-revision-brief.txt",
+    "sha256": "b189370e9a64d786e249b03fcf1df504e4e1aabed35eb50aa5ca65b030655075"
+  },
+  {
+    "source": "v002\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\render-timing.json",
+    "sha256": "22bf75bea12cedc1c611ccdc95a56aa33d005c8869374a73fd31c26438d6b41f"
+  },
+  {
+    "source": "v002\\Records\\reopen-check.json",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\reopen-check.json",
+    "sha256": "2d655216b78d5adc8dcdac6dbe43fac9fcb64fdcafa1b4f86e66545290792d2e"
+  },
+  {
+    "source": "v002\\Records\\revision-report.md",
+    "archive": "Closure\\Iteration-History\\v002\\Records\\revision-report.md",
+    "sha256": "7bae6df69a9a492275657ce8ed1edbccd75257774fec9886b8a8feb386c7cebd"
+  },
+  {
+    "source": "v002\\Scripts\\camera_and_layers.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\camera_and_layers.py",
+    "sha256": "9bae281315d211a0131822e372c83a427ee77e7070b52068f5e6e32a0a6053ed"
+  },
+  {
+    "source": "v002\\Scripts\\camera_check.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\camera_check.py",
+    "sha256": "291a9d57d76c6714c76879d0edb46d94efa8228dc7b96501f448709687ae945b"
+  },
+  {
+    "source": "v002\\Scripts\\ending.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\ending.py",
+    "sha256": "c31d13702560c3a2c5f752a603224a5fd59d63bcfda3735a89344e953f79935b"
+  },
+  {
+    "source": "v002\\Scripts\\inspection_travel.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\inspection_travel.py",
+    "sha256": "ca8a748d423398106d552b491f43bd5c5863b37204a8e454cde44f136d9ecad2"
+  },
+  {
+    "source": "v002\\Scripts\\lock.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\lock.py",
+    "sha256": "28862e6e9669d33a38bd52e4bf82994ed76b1077ee0f70abf2ba5bb0660ea536"
+  },
+  {
+    "source": "v002\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\package.py",
+    "sha256": "2817924b4a4df6a91d82c823b8dab5574b09767cd6ce0d44741228a9948501b5"
+  },
+  {
+    "source": "v002\\Scripts\\proof.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\proof.py",
+    "sha256": "fd462ac11628e9bde23febddc4b29a18fb35c9955b9dbf57f18262d119384959"
+  },
+  {
+    "source": "v002\\Scripts\\proof_A.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\proof_A.py",
+    "sha256": "0a0069d433a5827e16178fccf512298c948e2a624be2c8e4a944831f94c6ba9c"
+  },
+  {
+    "source": "v002\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\render.py",
+    "sha256": "33c45cc3f04b9e4a1871de56e8c39c6f8b0df7a85da2c6f5736b288fba3fe21b"
+  },
+  {
+    "source": "v002\\Scripts\\revision.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\revision.py",
+    "sha256": "0f3bce6c7c1427ceca27525c1a170264b061d65a2b9b42d2dd3fc5963636b231"
+  },
+  {
+    "source": "v002\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v002\\Scripts\\verify.py",
+    "sha256": "f0f7be7c9ea0f79ddde967ff0a6eeb62c3b5dd926df86164b68d1d429b3f4b24"
+  },
+  {
+    "source": "v003\\README.md",
+    "archive": "Closure\\Iteration-History\\v003\\README.md",
+    "sha256": "925aa2ab6c42acc9614b46fe5566e6076724486a7fb45472ae1a7490bec90a30"
+  },
+  {
+    "source": "v003\\Records\\A-proof-benchmark.json",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\A-proof-benchmark.json",
+    "sha256": "a15a4931d3e0280f377b6958e7b0bc124b7b6981d13d9b9369664cc893dfdd16"
+  },
+  {
+    "source": "v003\\Records\\BC-proof-benchmark.json",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\BC-proof-benchmark.json",
+    "sha256": "812a22a6df2ad45694797bb2a3471712ab691e42d71de84fc9b86588ab357b4a"
+  },
+  {
+    "source": "v003\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\benchmark.json",
+    "sha256": "f68a6e34bc42ac4cfb33f6ed4f5cfe7f5137d38f730ec994c5f2562598b07d56"
+  },
+  {
+    "source": "v003\\Records\\candidate-file-hashes.json",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\candidate-file-hashes.json",
+    "sha256": "cc4b1d917fa5f6e1cdb380aa6d7c74805cd18865db5406796d6ba5625e46a0cd"
+  },
+  {
+    "source": "v003\\Records\\composition-anchors.json",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\composition-anchors.json",
+    "sha256": "f14ef2e96442bf28323b1eea075962792309830dc6663fa8e479f40ccbe10c1e"
+  },
+  {
+    "source": "v003\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\delivery-check.json",
+    "sha256": "f0e5789db639a8964c957ed56bd7288e8ed88b89c12d870e577ed7af99facfe6"
+  },
+  {
+    "source": "v003\\Records\\implementation-report.md",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\implementation-report.md",
+    "sha256": "749b5c8e1511a80a35da3f8090caf799cca735ec3e4d8ad85667277eb6acedd7"
+  },
+  {
+    "source": "v003\\Records\\Owner-brief.txt",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\Owner-brief.txt",
+    "sha256": "ed43b5fa215945c37caec5bdd5667602f26a65f3687de3ab78041ed2f7f74253"
+  },
+  {
+    "source": "v003\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\render-timing.json",
+    "sha256": "4281dac3c69a626eb5634738ef592d3dba4ce48e6c5ab9073cc61ed9e1de50de"
+  },
+  {
+    "source": "v003\\Records\\reopen-and-preservation-check.json",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\reopen-and-preservation-check.json",
+    "sha256": "1f0670fc6421753391e8228dabb753e8aad6a0f8e7aa47b437c874969375fd79"
+  },
+  {
+    "source": "v003\\Records\\scene-check.json",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\scene-check.json",
+    "sha256": "c07da14e7838c6e0ec1b76f20cef6a48c83502b0c15b92c32a2c7534e11895ce"
+  },
+  {
+    "source": "v003\\Records\\source-and-stage.json",
+    "archive": "Closure\\Iteration-History\\v003\\Records\\source-and-stage.json",
+    "sha256": "8cf4fb20155727e4f6e8b42800635ae6856dca8b6ded3ec6581b1295be0ae2e5"
+  },
+  {
+    "source": "v003\\Scripts\\compose_BC.py",
+    "archive": "Closure\\Iteration-History\\v003\\Scripts\\compose_BC.py",
+    "sha256": "40b847a8d2f34cd35b76da9783f8f286179cc032c9fb6c70f187316b446345d1"
+  },
+  {
+    "source": "v003\\Scripts\\lock_and_render.py",
+    "archive": "Closure\\Iteration-History\\v003\\Scripts\\lock_and_render.py",
+    "sha256": "7e3d84d3876d092f2e39749f4344685a8dfbfe39ec0967d1d22509d78950147a"
+  },
+  {
+    "source": "v003\\Scripts\\media_check.py",
+    "archive": "Closure\\Iteration-History\\v003\\Scripts\\media_check.py",
+    "sha256": "5f774f6337ebd663beac586e5558061f1e9dc8a9974274af6a00d5c87c4e8eb3"
+  },
+  {
+    "source": "v003\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v003\\Scripts\\package.py",
+    "sha256": "3d2a9b1e5276a2ff3dd07dbb7fb66281d0011420f69be06416fd7074c221fbb2"
+  },
+  {
+    "source": "v003\\Scripts\\readability.py",
+    "archive": "Closure\\Iteration-History\\v003\\Scripts\\readability.py",
+    "sha256": "fd681d219d53a31e51b3688f1bc2ef4fe8f75f64099b358fad6a014303c16dc6"
+  },
+  {
+    "source": "v003\\Scripts\\refine_A.py",
+    "archive": "Closure\\Iteration-History\\v003\\Scripts\\refine_A.py",
+    "sha256": "5839b6e8eb893e1456047149e26d613d673747aa3a0d36e4845520608741c208"
+  },
+  {
+    "source": "v003\\Scripts\\stages_BC.py",
+    "archive": "Closure\\Iteration-History\\v003\\Scripts\\stages_BC.py",
+    "sha256": "94f47377eeb1aa8dcc228b19d569477ee61545ee74ba47e2dca5a3a9d452bd8b"
+  },
+  {
+    "source": "v003\\Scripts\\stage_A.py",
+    "archive": "Closure\\Iteration-History\\v003\\Scripts\\stage_A.py",
+    "sha256": "eaf1466764634bae45dd234b3590ecd56b9a618967db75cba1bf7062dbe8ac0b"
+  },
+  {
+    "source": "v003\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v003\\Scripts\\verify.py",
+    "sha256": "3d5e98fb0eeb6f6a1c22fd46f356b66605585a9902fa9b2f32d24b2651559a4a"
+  },
+  {
+    "source": "v004\\README.md",
+    "archive": "Closure\\Iteration-History\\v004\\README.md",
+    "sha256": "5fe62e4834716d1be176218aabcf82eeea5588af2ce0d73617369324d219440f"
+  },
+  {
+    "source": "v004\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v004\\Records\\benchmark.json",
+    "sha256": "28f6d8f89da5f6b2df8ed2c9a482ecd4c6f60d756a41886e54da4d13711bdc84"
+  },
+  {
+    "source": "v004\\Records\\build-check.json",
+    "archive": "Closure\\Iteration-History\\v004\\Records\\build-check.json",
+    "sha256": "97349fad420a25409199a72d8e095fe7fa0a1577e6a1f67bae8a74ccf3bc231c"
+  },
+  {
+    "source": "v004\\Records\\candidate-file-hashes.json",
+    "archive": "Closure\\Iteration-History\\v004\\Records\\candidate-file-hashes.json",
+    "sha256": "b44474ad192b097485d7207fa638a9bebe453d6575ca43122bb9ecba1589e64e"
+  },
+  {
+    "source": "v004\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v004\\Records\\delivery-check.json",
+    "sha256": "2c3b0f7401f03a222f2df1613c90558a0dbd3b878f07c4c9a167da6071ed4987"
+  },
+  {
+    "source": "v004\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v004\\Records\\render-timing.json",
+    "sha256": "5d93be4991b5e42508451352e6fb4018527c4486e619504fa6c4b658f823e25e"
+  },
+  {
+    "source": "v004\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v004\\Records\\verification.json",
+    "sha256": "76f8392e0cee30f421704e0749304318e9bf34baa1f22543dc3db015934ef78f"
+  },
+  {
+    "source": "v004\\Scripts\\build.py",
+    "archive": "Closure\\Iteration-History\\v004\\Scripts\\build.py",
+    "sha256": "93e74649b6400e419ae6208d625ef40bac04dc58d9f12c0d25f67ef60c25a2b0"
+  },
+  {
+    "source": "v004\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v004\\Scripts\\package.py",
+    "sha256": "8c840217a5a643d03ec9ab268282634cd45eb889da31a7e85e72ba1bdc2f5580"
+  },
+  {
+    "source": "v004\\Scripts\\proof.py",
+    "archive": "Closure\\Iteration-History\\v004\\Scripts\\proof.py",
+    "sha256": "2cf3b77b3bbc117fab8ef7e19017c9adfbf1e9f218eaf855b00b262fd7781cf7"
+  },
+  {
+    "source": "v004\\Scripts\\refine.py",
+    "archive": "Closure\\Iteration-History\\v004\\Scripts\\refine.py",
+    "sha256": "63e5450ccbe9538f34eab6341d64dfb8af86fe33f0543186dd1b1ffb98f2b9f0"
+  },
+  {
+    "source": "v004\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v004\\Scripts\\render.py",
+    "sha256": "c59363325c1b2365fa5d3f4c64e760035a5dc2d944ee8cf9b3450dd3df96a879"
+  },
+  {
+    "source": "v004\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v004\\Scripts\\verify.py",
+    "sha256": "e4652ab9b0cadb482935bc2a5c4354fb8398565b5c7c2d3156671073a3445f01"
+  },
+  {
+    "source": "v005\\README.md",
+    "archive": "Closure\\Iteration-History\\v005\\README.md",
+    "sha256": "1b69d97a482fa093b7cfacfa4c3f2f0b8f11721e3e65daf9b2b9d4fd4eac054f"
+  },
+  {
+    "source": "v005\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v005\\Records\\benchmark.json",
+    "sha256": "78c14702ececdbbc6d0d8bf9975d99f427aacec647a74da92cacb1c778c3f9c6"
+  },
+  {
+    "source": "v005\\Records\\build-check.json",
+    "archive": "Closure\\Iteration-History\\v005\\Records\\build-check.json",
+    "sha256": "01a14a70f09855f35b5e348440c173b9eef2fa30c3fef4b083e7e451eb36ab49"
+  },
+  {
+    "source": "v005\\Records\\candidate-file-hashes.json",
+    "archive": "Closure\\Iteration-History\\v005\\Records\\candidate-file-hashes.json",
+    "sha256": "74e41ddfaecbfaecf1436c5edce9e226168cbbef52a16c4b150808c232947069"
+  },
+  {
+    "source": "v005\\Records\\comparison-timing.json",
+    "archive": "Closure\\Iteration-History\\v005\\Records\\comparison-timing.json",
+    "sha256": "6add379c3c8a77c14603d55fa6cd6c047ed78ef8e52789343f7ffa7f44a92d49"
+  },
+  {
+    "source": "v005\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v005\\Records\\delivery-check.json",
+    "sha256": "de6e4d2c22f7c959f3fff1ba303a82a7a220a7abb90a275fd2c5483f89b8c983"
+  },
+  {
+    "source": "v005\\Records\\effect-timing.json",
+    "archive": "Closure\\Iteration-History\\v005\\Records\\effect-timing.json",
+    "sha256": "c9c8e0e8bcd2cc038b4c230c8f607334c1130e9c8238668cb7ca30d1390abc9e"
+  },
+  {
+    "source": "v005\\Records\\geometry-inspection.json",
+    "archive": "Closure\\Iteration-History\\v005\\Records\\geometry-inspection.json",
+    "sha256": "3f5fb9f0d289f1cd0fe7cafbd012c7b6886a9c9bd995a01d61e13f3dd4bb7b4e"
+  },
+  {
+    "source": "v005\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v005\\Records\\render-timing.json",
+    "sha256": "848b6f14824e7b4f08c2e5bee88a10c01c96de41f5e5542cd077d3207d379c97"
+  },
+  {
+    "source": "v005\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v005\\Records\\verification.json",
+    "sha256": "87fe376edbcbbab176e4b53ba2e0437ff2e27b84833d643bf461eec4e49ddae2"
+  },
+  {
+    "source": "v005\\Scripts\\build.py",
+    "archive": "Closure\\Iteration-History\\v005\\Scripts\\build.py",
+    "sha256": "e370dbc80b9126eec3cdcca1d634bff9559a051adf95257d85a58ebd9f344011"
+  },
+  {
+    "source": "v005\\Scripts\\comparison.py",
+    "archive": "Closure\\Iteration-History\\v005\\Scripts\\comparison.py",
+    "sha256": "50389523af347b8a94236ef174702dc4bf57eddac2b14cff77f2bf620f2e8ce5"
+  },
+  {
+    "source": "v005\\Scripts\\effect-test.py",
+    "archive": "Closure\\Iteration-History\\v005\\Scripts\\effect-test.py",
+    "sha256": "7cfb99a6ece933c01b123a534324561b7c7bc7b161e19d1f8a8818e07edc1f0f"
+  },
+  {
+    "source": "v005\\Scripts\\inspect.py",
+    "archive": "Closure\\Iteration-History\\v005\\Scripts\\inspect.py",
+    "sha256": "8a08c2aeb50d580c52cdc48d86193403382e88859a2a1506b1681c6c5950fae2"
+  },
+  {
+    "source": "v005\\Scripts\\package-comparison.py",
+    "archive": "Closure\\Iteration-History\\v005\\Scripts\\package-comparison.py",
+    "sha256": "4af568e8f11bbcfc1cf9da3c1872cec7ed0a763dd4c8448c0bebabfcbd6c5419"
+  },
+  {
+    "source": "v005\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v005\\Scripts\\package.py",
+    "sha256": "f5e5e4b5b3d0f259be6f1e52d5813be85ef1e0300555c26e0ad7b4827d99bede"
+  },
+  {
+    "source": "v005\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v005\\Scripts\\render.py",
+    "sha256": "1b50b4fad72b5f3c97695ab81c6c8615e2d2ed400710585935d438b804670450"
+  },
+  {
+    "source": "v005\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v005\\Scripts\\verify.py",
+    "sha256": "196f904425496798616909fad95e0574681ae2cfa04a2520048e1068410f4067"
+  },
+  {
+    "source": "v006\\README.md",
+    "archive": "Closure\\Iteration-History\\v006\\README.md",
+    "sha256": "4922c7ea86fbf11d262ea9d334944a463796a7bea5a98d3fdf97ad111061ae77"
+  },
+  {
+    "source": "v006\\Records\\amplitude-build.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\amplitude-build.json",
+    "sha256": "084e775471c599c2eaf4724ae6c492ff64707aa6268b3d86ef5aaa19856715ec"
+  },
+  {
+    "source": "v006\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\benchmark.json",
+    "sha256": "64a5533c65d3a6b94da399a15a9ff05ab043e462e89e05c1aecbf4c80639916f"
+  },
+  {
+    "source": "v006\\Records\\candidate-file-hashes.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\candidate-file-hashes.json",
+    "sha256": "582001339eeb7c9ef374d1b97df064ad55bbd18219e5c62476a0e86bb9623692"
+  },
+  {
+    "source": "v006\\Records\\clearance-inspection.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\clearance-inspection.json",
+    "sha256": "395d7bf5c636d8485b000b16871a6f5b7bdcd4d92bf0918eaefe49edc4754d5a"
+  },
+  {
+    "source": "v006\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\delivery-check.json",
+    "sha256": "8fd4632bb7d15f93910041bbaeb70fd72fea8bbef6f0111c6e4869311d9b9e6d"
+  },
+  {
+    "source": "v006\\Records\\frame-inspection.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\frame-inspection.json",
+    "sha256": "85a603996c92985e61839493d2bc0df193417cb584adcd3fe84b49059c158683"
+  },
+  {
+    "source": "v006\\Records\\full-benchmark.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\full-benchmark.json",
+    "sha256": "b7f5075738034dd42f28fdb20a36aea1079c7292254122ae8a0cd2fa52b0712f"
+  },
+  {
+    "source": "v006\\Records\\full-build.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\full-build.json",
+    "sha256": "0de69cf68fff812283957142086a952039335bb2deff9034aca7994832e40f19"
+  },
+  {
+    "source": "v006\\Records\\full-candidate-file-hashes.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\full-candidate-file-hashes.json",
+    "sha256": "2c29349fe17e80696fd2ae6aa2c08ec1e8dffe645d0de884b6da7d6c88f33c24"
+  },
+  {
+    "source": "v006\\Records\\full-delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\full-delivery-check.json",
+    "sha256": "cc5fd958facd51baace68914a99f8697d7ee57ef520b25eeaa5830f9757c50a8"
+  },
+  {
+    "source": "v006\\Records\\full-frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\full-frame-timings.json",
+    "sha256": "1bd33f53f55db4dd3e9f0d538cb4ee75f6634ae4bce15e928efdee9ba8a1b7f1"
+  },
+  {
+    "source": "v006\\Records\\full-render-timing.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\full-render-timing.json",
+    "sha256": "fcab1532e600e9b56edc0fb370524062ecc27cb140d3717c1682b4f876b6fa54"
+  },
+  {
+    "source": "v006\\Records\\full-verification.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\full-verification.json",
+    "sha256": "61895a549e7dcc4d92d447092ca967a94386a84028307b55451cc0497d40173d"
+  },
+  {
+    "source": "v006\\Records\\geometry-proposal.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\geometry-proposal.json",
+    "sha256": "ee5a46191accb6ea602e09e93ac43830e269e107a203876b6c598d88a7bb0a33"
+  },
+  {
+    "source": "v006\\Records\\motion-check.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\motion-check.json",
+    "sha256": "ab2fa1cb049129a8212ce7c702d072d37aea3b08d65aa4079a4619a3adf77924"
+  },
+  {
+    "source": "v006\\Records\\pre-integration-review.md",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\pre-integration-review.md",
+    "sha256": "a7878d380c0df2a3b34afb5418ff72b7fd144a0ca8fd060520a48a632e6cf984"
+  },
+  {
+    "source": "v006\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\render-timing.json",
+    "sha256": "fcb7ab203aa60dc35c004e7ad44f356d3d25ec572655b51a6b60df0578a30e4d"
+  },
+  {
+    "source": "v006\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v006\\Records\\verification.json",
+    "sha256": "b61a27226d7c2714984fa94734c1543ba64ee8056804b133988e1fe934518372"
+  },
+  {
+    "source": "v006\\Scripts\\amplitude-test.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\amplitude-test.py",
+    "sha256": "4dd9da4164f4892990ec9c32f6ba84be34996171a9a250de60326316ccee9f54"
+  },
+  {
+    "source": "v006\\Scripts\\full-proof.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\full-proof.py",
+    "sha256": "f3ffced7f3671b8296f23f3b224a964ea6b0f920e7da2bd127c594623269a440"
+  },
+  {
+    "source": "v006\\Scripts\\geometry-proposal.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\geometry-proposal.py",
+    "sha256": "9ad2b92d045b17bdb7546c81ed538c876906c3f2f95328b5197bb98982dd0af2"
+  },
+  {
+    "source": "v006\\Scripts\\inspect-clearance.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\inspect-clearance.py",
+    "sha256": "5fe718ac6b6d336dc64df273fb49ab625e73be3c0adf0da16f6dd33b8e766346"
+  },
+  {
+    "source": "v006\\Scripts\\inspect-full-frame.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\inspect-full-frame.py",
+    "sha256": "cb08584dd7a3b133bd3fd16308899a993bbc9a1e88927d051529a3139fca0242"
+  },
+  {
+    "source": "v006\\Scripts\\integrate-full.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\integrate-full.py",
+    "sha256": "a780ded083c3e3f5f5cf11d50b9f11697c45a1b94d9e6906c60081bd6865b933"
+  },
+  {
+    "source": "v006\\Scripts\\motion-check.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\motion-check.py",
+    "sha256": "21b30915a70f33be05d4bff405d63e8230dbb5a7931e530d49e54a4d9204c1d7"
+  },
+  {
+    "source": "v006\\Scripts\\package-full.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\package-full.py",
+    "sha256": "cb19126ef05edf6b0b54d9524a976216d674d9ac4c5983227908bd94c5b20ab7"
+  },
+  {
+    "source": "v006\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\package.py",
+    "sha256": "e7bc28292c26a03089ed67b4065b60d43c8d5c149ab9d1477d96c7cac1cf1d85"
+  },
+  {
+    "source": "v006\\Scripts\\plot-proposal.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\plot-proposal.py",
+    "sha256": "d9fa4524e33a4d4baef9dfadb94d3cf76ff6b2e2ec12aaee3756eb82b7a1c83a"
+  },
+  {
+    "source": "v006\\Scripts\\render-full.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\render-full.py",
+    "sha256": "69ad36c9483ba5a5ca70a672ee890de5dd4eed3e93f0b4c72fbfd8ff88fa2485"
+  },
+  {
+    "source": "v006\\Scripts\\render-test.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\render-test.py",
+    "sha256": "7f329a0d22e503a405753a7e1ba1bc027765dcf276bc653e01cbdb24d443429a"
+  },
+  {
+    "source": "v006\\Scripts\\verify-full.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\verify-full.py",
+    "sha256": "ebc593aa6de652b117c04847c8804516e7f0fc0aa9bfed3a4adf461e88cbd514"
+  },
+  {
+    "source": "v006\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v006\\Scripts\\verify.py",
+    "sha256": "a0bac57eaf01cdc1a633971e067f4ce6d8fd22118972dc2b23f27243de1df04a"
+  },
+  {
+    "source": "v007\\README.md",
+    "archive": "Closure\\Iteration-History\\v007\\README.md",
+    "sha256": "376fee70bd1286faa85c470ea738098dc06880037ae60c76c3896c0b79698b3c"
+  },
+  {
+    "source": "v007\\Data\\S03_v007_map-metadata.json",
+    "archive": "Closure\\Iteration-History\\v007\\Data\\S03_v007_map-metadata.json",
+    "sha256": "e1eafe8bab70798583f0cbcab65cd41c5597492bdc37e53f85f4091d69a3399b"
+  },
+  {
+    "source": "v007\\Data-Layer-Approval\\README.md",
+    "archive": "Closure\\Iteration-History\\v007\\Data-Layer-Approval\\README.md",
+    "sha256": "76b445cf8361c755e76e7748df09478d3a95ee42891e1711433cd7fe1da1cdec"
+  },
+  {
+    "source": "v007\\Look-Approval\\README.md",
+    "archive": "Closure\\Iteration-History\\v007\\Look-Approval\\README.md",
+    "sha256": "e14a368b45a720c214cbc39a197bd257c168bfb40fb089c709c6ae832f319460"
+  },
+  {
+    "source": "v007\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v007\\Records\\benchmark.json",
+    "sha256": "e6c699c3c1cc85023442baf6203525f0bc31935033c8f56094632ebca6283126"
+  },
+  {
+    "source": "v007\\Records\\cache-check.json",
+    "archive": "Closure\\Iteration-History\\v007\\Records\\cache-check.json",
+    "sha256": "2eab337e6e63f75f7d293fc897c690580d53e08d554b7dfe19f2195aa3a6fef1"
+  },
+  {
+    "source": "v007\\Records\\candidate-file-hashes.json",
+    "archive": "Closure\\Iteration-History\\v007\\Records\\candidate-file-hashes.json",
+    "sha256": "9d09a79412b8d90536787877524c2bd22e60a729c0365f137feee2cd2d5218cc"
+  },
+  {
+    "source": "v007\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v007\\Records\\delivery-check.json",
+    "sha256": "2cf7b5044ba87962a2c145920a73142d35d98be072d36d912bbe04d47ea29807"
+  },
+  {
+    "source": "v007\\Records\\frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v007\\Records\\frame-timings.json",
+    "sha256": "05d1c2c4b51703f3874637752e5b99a38dbee8a2a6eaa48e1c2a739603e559d5"
+  },
+  {
+    "source": "v007\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v007\\Records\\render-timing.json",
+    "sha256": "5335af4f728be0979ba688d083d51034682a9951139c0af8d83dccda1da21bff"
+  },
+  {
+    "source": "v007\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v007\\Records\\verification.json",
+    "sha256": "97709396bd956fb9032b6e4c55978b31e244e66e3e2fc84f0a7c742f9c8169a2"
+  },
+  {
+    "source": "v007\\Scripts\\check-cache.py",
+    "archive": "Closure\\Iteration-History\\v007\\Scripts\\check-cache.py",
+    "sha256": "97050b39d71a4b5fd6fb1ace23d8b78265b236bc704f91b40f63145829ad99ee"
+  },
+  {
+    "source": "v007\\Scripts\\integrate.py",
+    "archive": "Closure\\Iteration-History\\v007\\Scripts\\integrate.py",
+    "sha256": "fc011f04395c46834f4b55d64d22a83a5b14c939ea9797d7ead547d20ec344d9"
+  },
+  {
+    "source": "v007\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v007\\Scripts\\package.py",
+    "sha256": "567b2473cb441458b364a111f17a252ac6d14261b2e54db323c2859a677f2314"
+  },
+  {
+    "source": "v007\\Scripts\\prepare-data.py",
+    "archive": "Closure\\Iteration-History\\v007\\Scripts\\prepare-data.py",
+    "sha256": "c6879c4f5cf0d9c201fbb7c6ea267fddbceef57bdb0887985b70af7674d57f32"
+  },
+  {
+    "source": "v007\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v007\\Scripts\\render.py",
+    "sha256": "3622c15ce81828df17458c21aff53b29ab5c86f42b9dde76b41df1b607d227c6"
+  },
+  {
+    "source": "v007\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v007\\Scripts\\verify.py",
+    "sha256": "e43cacc42e24008b12873e5bdca4274c9dd100752b6f1f77945e372147e31f48"
+  },
+  {
+    "source": "v007\\Data-Layer-Approval\\Data\\map-metadata.json",
+    "archive": "Closure\\Iteration-History\\v007\\Data-Layer-Approval\\Data\\map-metadata.json",
+    "sha256": "b3861f0d27d15eb7da60eee7a9ff9d48d9c7ff5763fef078b970b4e2fcfc019d"
+  },
+  {
+    "source": "v007\\Data-Layer-Approval\\Records\\data-layer-check.json",
+    "archive": "Closure\\Iteration-History\\v007\\Data-Layer-Approval\\Records\\data-layer-check.json",
+    "sha256": "c9d067e3183a310b91f874f28f836108882916e5c6d9c0fcc7e7666a8833e6c1"
+  },
+  {
+    "source": "v007\\Data-Layer-Approval\\Records\\file-hashes.json",
+    "archive": "Closure\\Iteration-History\\v007\\Data-Layer-Approval\\Records\\file-hashes.json",
+    "sha256": "55b1c362736209ab5d47a3886f9eb4890f674a222b5444325f99c2952708ab60"
+  },
+  {
+    "source": "v007\\Data-Layer-Approval\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v007\\Data-Layer-Approval\\Records\\verification.json",
+    "sha256": "865884f2104bac295ce7230d304f5635a4bce669c32cb192398f1745379981d5"
+  },
+  {
+    "source": "v007\\Data-Layer-Approval\\Scripts\\create-amplitude-map.py",
+    "archive": "Closure\\Iteration-History\\v007\\Data-Layer-Approval\\Scripts\\create-amplitude-map.py",
+    "sha256": "133bb60e40a34002d777f98071735c5eaf64bd4d4dd57c108c8e982c0bf6fa42"
+  },
+  {
+    "source": "v007\\Data-Layer-Approval\\Scripts\\map-data-layer.py",
+    "archive": "Closure\\Iteration-History\\v007\\Data-Layer-Approval\\Scripts\\map-data-layer.py",
+    "sha256": "f6d1626b022776009f9ffcb7ecfbe7b01067de560bf4643c72701242dc525f61"
+  },
+  {
+    "source": "v007\\Data-Layer-Approval\\Scripts\\verify-data-layer.py",
+    "archive": "Closure\\Iteration-History\\v007\\Data-Layer-Approval\\Scripts\\verify-data-layer.py",
+    "sha256": "29af085b06cbedba92e186d1379f9a82a0c2eec3409ddbdf1cc0eec5aec3f5b2"
+  },
+  {
+    "source": "v007\\Look-Approval\\Records\\file-hashes.json",
+    "archive": "Closure\\Iteration-History\\v007\\Look-Approval\\Records\\file-hashes.json",
+    "sha256": "2519e516fa3df6b9ba4692ce1c57946b3e06943a8bb7eeae60a3b7191985ce82"
+  },
+  {
+    "source": "v007\\Look-Approval\\Records\\look-review.json",
+    "archive": "Closure\\Iteration-History\\v007\\Look-Approval\\Records\\look-review.json",
+    "sha256": "b1c65fb9214ab7d738558a3686089dde7e6b813899ccb8d2a2f21112fc99c9b2"
+  },
+  {
+    "source": "v007\\Look-Approval\\Scripts\\completed-amplitude-look.py",
+    "archive": "Closure\\Iteration-History\\v007\\Look-Approval\\Scripts\\completed-amplitude-look.py",
+    "sha256": "ee903a7844743396be05a9726871cfc9fd2d47ddae7686f815d7bd0cc872444b"
+  },
+  {
+    "source": "v008\\Geometry-Review\\README.md",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\README.md",
+    "sha256": "2d3fdb425838c8688d835934277855070c5f9e5466fa4a8021427cd2c1b4b8d7"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Records\\benchmark.json",
+    "sha256": "fe175b99a13f43c4f39a1d4fee3b88beb3b8d371039c3bace7d31dc460044594"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Records\\candidate-file-hashes.json",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Records\\candidate-file-hashes.json",
+    "sha256": "6dbc79b2bc58d8a0a78da3e2025323dea79f4aefeb89984f124233b965aea34d"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Records\\delivery-check.json",
+    "sha256": "2c881df0a6ab621a958b4f321c4fecad4a4fa915376f912513c8b8fcad893658"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Records\\frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Records\\frame-timings.json",
+    "sha256": "28b09a4add6d6a3af83084dde1ec89144b003edc23894163056e01e68ebd54f7"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Records\\geometry-build.json",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Records\\geometry-build.json",
+    "sha256": "1e45f2983803dd9c979ecf0a10d152ca5bff81fe8a8885d1738ef5c1c516ce34"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Records\\render-timing.json",
+    "sha256": "0e052ed0ca6d5587f3d5fa82371d699884cd3b9f07c57340b0af37eb50aa82cb"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Records\\verification.json",
+    "sha256": "579420951c77d123f8bc104108bd14cc67ff2d1b16c3c9b325a85871f10e8bba"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Scripts\\build-geometry-review.py",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Scripts\\build-geometry-review.py",
+    "sha256": "498180274e4df74c23cdb9f35fcbe776cf606aca8091e27087319d929f21ae51"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Scripts\\package.py",
+    "sha256": "bcb8b3efca9d212de126b447cc8ea815488a75b51bbdcc8ecb4a24cc4c447ad9"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Scripts\\plot-sections.py",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Scripts\\plot-sections.py",
+    "sha256": "174e8a2de4b72b1e6202c79ec1df7085873e16d6fe68cbda4c06987e862ad8ae"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Scripts\\probe-enlargement.py",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Scripts\\probe-enlargement.py",
+    "sha256": "43ace8b01ca49a1d5cbcdea892002344dabf9bdf6857cfd5c78b32e4951680cf"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Scripts\\proof.py",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Scripts\\proof.py",
+    "sha256": "cc97a5dfc9f1101b0cbbe945b375d05a507e281067e6cea582df9fc1c8597361"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Scripts\\render.py",
+    "sha256": "76d726d08314e4d371979a57db307fc2ff22be29a56a9debbc36a1a282794b6d"
+  },
+  {
+    "source": "v008\\Geometry-Review\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v008\\Geometry-Review\\Scripts\\verify.py",
+    "sha256": "0f33bd69c11408f24299eb746aaec5241a9cc9a1dbd29c30cbb12b4e41714858"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Revision-report.txt",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Revision-report.txt",
+    "sha256": "7bd932cc757595ad9e2035f7545ed9c416e0e03cb788264b8ac09d5914c25e03"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Records\\benchmark.json",
+    "sha256": "74073c42930a8d39b43c8095108d8e4af3cee633bb3953429b20da8cd6de284e"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Records\\delivery-check.json",
+    "sha256": "0a10bf2a99f48e6618de9041fa5f2a8510e2a7a17702c1beae0991769399029c"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Records\\frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Records\\frame-timings.json",
+    "sha256": "08d5ba138ace3a3c59ace2a38f39252981d8cdb820003eb19679a05676848a53"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Records\\geometry-build.json",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Records\\geometry-build.json",
+    "sha256": "db17f19c6b995a4befc66b08787183931fb063c6ccfcccca232beb088723e6f0"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Records\\mesh-check.json",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Records\\mesh-check.json",
+    "sha256": "5f3b71a1d72c0e2270291e3d089aa7961a77e874fe3e94f7c12fef1ed19d56a6"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Records\\render-timing.json",
+    "sha256": "63744b956d89bc186b0dc409581847c5bee1a5c14618f2f83c1a7071bb6cd7f7"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Records\\section2-inspection.json",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Records\\section2-inspection.json",
+    "sha256": "7bc456c465e3f22ce8b961a38c6dc3247ddd0a252b3da7a3d7a1ad23caed5c49"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Records\\verification.json",
+    "sha256": "2c9409b30417f0811d74af65d7edd13dc06c4323f9af7ceed332665e8f26d730"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Scripts\\build.py",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Scripts\\build.py",
+    "sha256": "e124cd6afe1bf462f8807ffd4f06f3c93fc885f8c62d0f7c48b321bf6b94a106"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Scripts\\complete-stills.py",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Scripts\\complete-stills.py",
+    "sha256": "900264044f953111f5470e7dbe71dba1747d0892e1cf571f8e7b3ac2528c91c4"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Scripts\\inspect-section2.py",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Scripts\\inspect-section2.py",
+    "sha256": "84834c5316b8d059a1191801095730c03bf11512978c880ff1c1956113e4e05b"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Scripts\\package.py",
+    "sha256": "f7a98c4e0cab2338a6ff9ce303ff09f5b1df70e2f003ee6dbbb9daece8632892"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Scripts\\plot-sections.py",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Scripts\\plot-sections.py",
+    "sha256": "20819fa27df7339e61820897845c07dd3a36eab28036050889b1050467e53a5a"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Scripts\\proof.py",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Scripts\\proof.py",
+    "sha256": "59216624f1df2380441acfc9cf7de6229acdefbf82891469d8c900e054622fa4"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Scripts\\render.py",
+    "sha256": "2a84763c9ae5f506d88fe0553b0d33a6204975b30564a8f7b0e07756cb29f9df"
+  },
+  {
+    "source": "v009\\Geometry-Readability-Review\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v009\\Geometry-Readability-Review\\Scripts\\verify.py",
+    "sha256": "4aeae3231409efe0955f348ab59b5a6ac20cc0716e6d8ed504032b98a976989d"
+  },
+  {
+    "source": "v010\\Revision-report.txt",
+    "archive": "Closure\\Iteration-History\\v010\\Revision-report.txt",
+    "sha256": "4128b6e8c4ec82f9e25873fd022be352e54eade20efc5273aa3d50de45220bde"
+  },
+  {
+    "source": "v010\\Data\\S03_v007_map-metadata.json",
+    "archive": "Closure\\Iteration-History\\v010\\Data\\S03_v007_map-metadata.json",
+    "sha256": "e1eafe8bab70798583f0cbcab65cd41c5597492bdc37e53f85f4091d69a3399b"
+  },
+  {
+    "source": "v010\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v010\\Records\\benchmark.json",
+    "sha256": "11bad70ffa78155e2cbab0cd86b6bd4aa1d243418999ace36a976ba30fb34f5e"
+  },
+  {
+    "source": "v010\\Records\\completed-frame-review.json",
+    "archive": "Closure\\Iteration-History\\v010\\Records\\completed-frame-review.json",
+    "sha256": "42fdf334cffb1e5dc9a3031dea793244e55eeee731fd7f1c7e618ad5cb03979b"
+  },
+  {
+    "source": "v010\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v010\\Records\\delivery-check.json",
+    "sha256": "4955de5894604a18475fcffb3dabe1933f727fae02f0f7251555f6af9840b811"
+  },
+  {
+    "source": "v010\\Records\\dependencies.json",
+    "archive": "Closure\\Iteration-History\\v010\\Records\\dependencies.json",
+    "sha256": "255d20f74e44ae8885f571eb3939c1d6b8689f5901c6351e643fb8faddbeb749"
+  },
+  {
+    "source": "v010\\Records\\frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v010\\Records\\frame-timings.json",
+    "sha256": "e19c1533dd4428a640b38c459c67f9a42a8608304f14bb2b3affae402d0c2caa"
+  },
+  {
+    "source": "v010\\Records\\integration.json",
+    "archive": "Closure\\Iteration-History\\v010\\Records\\integration.json",
+    "sha256": "49cea63baf43c04c1c1551c9fff7debcbf905884f0faf873547bbd32146574e8"
+  },
+  {
+    "source": "v010\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v010\\Records\\render-timing.json",
+    "sha256": "3ceeb246f82f39b02e3e3b27f8f309794d7d521d2e413b4325fc6eeb8c8defb7"
+  },
+  {
+    "source": "v010\\Records\\section2-continuity-inspection.json",
+    "archive": "Closure\\Iteration-History\\v010\\Records\\section2-continuity-inspection.json",
+    "sha256": "7bc456c465e3f22ce8b961a38c6dc3247ddd0a252b3da7a3d7a1ad23caed5c49"
+  },
+  {
+    "source": "v010\\Records\\source-inspection.json",
+    "archive": "Closure\\Iteration-History\\v010\\Records\\source-inspection.json",
+    "sha256": "1f9cd8037ee6e09c4febc4d748aa670b3bd032a6b545059ab7445d8ce5e2c07d"
+  },
+  {
+    "source": "v010\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v010\\Records\\verification.json",
+    "sha256": "2030122014861d0f6ed98c572d8f9516b20b639f610d9021f10765ef7379b6cc"
+  },
+  {
+    "source": "v010\\Scripts\\check-dependencies.py",
+    "archive": "Closure\\Iteration-History\\v010\\Scripts\\check-dependencies.py",
+    "sha256": "a6cf560522f97dd54f710f1cf1891edc0f322160289a76be4e83de0ac6dc4f51"
+  },
+  {
+    "source": "v010\\Scripts\\inspect.py",
+    "archive": "Closure\\Iteration-History\\v010\\Scripts\\inspect.py",
+    "sha256": "c67cff4dcbdb14e215becfeeb3bf6a1f9dd12577bd3ae55ea62df8f48250b035"
+  },
+  {
+    "source": "v010\\Scripts\\integrate.py",
+    "archive": "Closure\\Iteration-History\\v010\\Scripts\\integrate.py",
+    "sha256": "29e1207a96f18d405e14c99ed0dace3e8986c48c376e4d7f1268c968aa4ff4e5"
+  },
+  {
+    "source": "v010\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v010\\Scripts\\package.py",
+    "sha256": "0d91e676c0cd77550bde7f9d513f5a57ae1e94371676bc73109b2305d910aca2"
+  },
+  {
+    "source": "v010\\Scripts\\proof.py",
+    "archive": "Closure\\Iteration-History\\v010\\Scripts\\proof.py",
+    "sha256": "cc0d4fdec747d4968a6f2358d56d13a97a304136cddfb62735c9b6cecbf075bc"
+  },
+  {
+    "source": "v010\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v010\\Scripts\\render.py",
+    "sha256": "748f461d0f6ebb59634d9827c160e6ee3c25f6b9410c98bd5209efe91ce98249"
+  },
+  {
+    "source": "v010\\Scripts\\repair-relative-path.py",
+    "archive": "Closure\\Iteration-History\\v010\\Scripts\\repair-relative-path.py",
+    "sha256": "5c75f70601c4952f99d65a7779fb3d6f131a2ab3e42771163f62526615d16f99"
+  },
+  {
+    "source": "v010\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v010\\Scripts\\verify.py",
+    "sha256": "dcae02fb7f6755026c6d3dfc9ccb74fec3a1ed7c043b351fdb5b90c4c18961dc"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Diagnosis-and-shader-UV-report.txt",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Diagnosis-and-shader-UV-report.txt",
+    "sha256": "b84ca09a825f7424902cf50afb7fa5634dc26b874d041f3a0810636f347c4ffc"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\compositor-inspection.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\compositor-inspection.json",
+    "sha256": "d152daf45e02df31df555f0925ad6153e19ffc203c52da588dfae30dc0e1da6b"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\control-label-render-timings.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\control-label-render-timings.json",
+    "sha256": "065d8232a95ae5804222e54e1559ba2ec7b93abcd8dccf6587052f8ce906c762"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\delivery-check.json",
+    "sha256": "1bbaac45d45dbd3dc35b8b3dea914a689aa0f4971ae29a0af0123460e6bbdba2"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\delivery-timing.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\delivery-timing.json",
+    "sha256": "c29cab07cfea00b4f35cb26e1d4c32e3c59bd6fe05776788022fd433b5aea0de"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\depth-edge-guard.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\depth-edge-guard.json",
+    "sha256": "9456c66ac9ad6d681318bae2f15bb29399af89d318a5abcc6efaf8ce4d5f9101"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\diagnostic-audit.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\diagnostic-audit.json",
+    "sha256": "91b77839df6ce082455049d747f52da3285a281dca6e8c9946ad24277bf7b32b"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\final-control-timing.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\final-control-timing.json",
+    "sha256": "a4fac0c2f94aaf5aecb139228204f51a8b4b37c328217244b66eb6fa4967e9e2"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\final-render-timings.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\final-render-timings.json",
+    "sha256": "d49549d6562ee041299cb8bc2682feed9229576c774ed6ed61e6446f77f30755"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\finishing-render-timings.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\finishing-render-timings.json",
+    "sha256": "4f4ed8defbf78a911fc06ff706903692be4b6ccceb16f948be687d95139d6a68"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\landmarks-and-seam.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\landmarks-and-seam.json",
+    "sha256": "5f14d990beb26981be16d91c8397804b0e974c7a01d9a0f21e39d5078b5ae3c2"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\render-timings.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\render-timings.json",
+    "sha256": "e40cd9681213a0a8ce3e49421c74d38907e18292ce1ae05cbfc11c37bb954ddd"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\shader-layout.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\shader-layout.json",
+    "sha256": "b28763e9aebb898dfa5fa526fe1305cfa2086cbde1e8dffa9917e7b86ac77af8"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Records\\verification.json",
+    "sha256": "7b3333c1dac97c70996aff74af9412da87c1986661a720531e955223bbbb46a6"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Scripts\\build-diagnostics.py",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Scripts\\build-diagnostics.py",
+    "sha256": "de42e0f87a417fe0084bef52b25e0f87facfc831c4973c52ff1426eb121ca1c1"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Scripts\\finish-diagnostics.py",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Scripts\\finish-diagnostics.py",
+    "sha256": "21236ac35bd400c88d33889a734100765c4f5f1c0797d3cddfabad20d48e0193"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Scripts\\inspect-api.py",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Scripts\\inspect-api.py",
+    "sha256": "267e343007fad63a2c5f8ac67b4ca122e0b2ad168f1ecf91a5681e3906d3a4b7"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Scripts\\label-controls.py",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Scripts\\label-controls.py",
+    "sha256": "e5b25872e4c4b3bdd398ec49a3eb62c97450b23823f154ca59d5c26feb054852"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Scripts\\protect-depth-edges.py",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Scripts\\protect-depth-edges.py",
+    "sha256": "78bcb614c6ba3e31200225295a2b23e3e4fc1e08e1ce06f98c4fdeeccffab9b3"
+  },
+  {
+    "source": "v011\\Amplitude-Diagnostics\\Scripts\\verify-diagnostics.py",
+    "archive": "Closure\\Iteration-History\\v011\\Amplitude-Diagnostics\\Scripts\\verify-diagnostics.py",
+    "sha256": "6bbe6619bca38560f19dd021f501b81b232859c0fdaa3c8a104a31ab1e219197"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Review-report.txt",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Review-report.txt",
+    "sha256": "ca3aaf476657fd80825f41026e989fa535f86e44133443685ad7551b600018e6"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Records\\benchmark.json",
+    "sha256": "39673c56bc2f4f30572465f3c9a17532b8351dc1534e0c33a7d22175b85e0dc5"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Records\\build.json",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Records\\build.json",
+    "sha256": "77f8e86f2b4f264c3d1389e37023bcc13011aa696553b7d37c7fccb7987e13dd"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Records\\completed-frame-review.json",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Records\\completed-frame-review.json",
+    "sha256": "70bce658c15c033cb2bb7be335d36cdd4b40af425f63cd0b56d7f7d184230d72"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Records\\delivery-check.json",
+    "sha256": "61eb289431b1a2384a7277fb85bc1dc4e515ce280b4bf869b62e7576b5814692"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Records\\frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Records\\frame-timings.json",
+    "sha256": "5db53029d7b59ba6392e309961eb5dff39e4b0ffff40064c2b1c03a8aac30dda"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Records\\render-timing.json",
+    "sha256": "778e2d3dc6186aaa34baebb3c1816be603734d81f7b47405004f85ddc6816891"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Records\\still-refresh-timings.json",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Records\\still-refresh-timings.json",
+    "sha256": "3e3ec57e69ea631eb72bb86e431c1733133c4268f3f999fa242f27797aeea4ac"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Records\\verification.json",
+    "sha256": "daa315a358c7f8b907703be46f52c806a58195021c25402e36338e66ce7e91e1"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Scripts\\build.py",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Scripts\\build.py",
+    "sha256": "54f861f139986af4c332b89db26b399c22800c6deb586b6d5be740aa9a6f4162"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Scripts\\package.py",
+    "sha256": "145f1fa31eb4da699d7af28fa983fd2ca7b0506108c29532f3ad77f355c81167"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Scripts\\render.py",
+    "sha256": "99a90a90f2da2486b32b7992af5c3061b7b1537bb2747654c5bf81691c8438e4"
+  },
+  {
+    "source": "v012\\Focused-Presentation-Test\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v012\\Focused-Presentation-Test\\Scripts\\verify.py",
+    "sha256": "6ee5c22dbb2ed7b2d7a5325815d081490e992e12c78835ea00df846ea9f2ba09"
+  },
+  {
+    "source": "v013\\Review-note.txt",
+    "archive": "Closure\\Iteration-History\\v013\\Review-note.txt",
+    "sha256": "34d2ccd7244f194d2b4900fee23d467d1b312089c4b0d0ea05b8f2e60c217362"
+  },
+  {
+    "source": "v013\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v013\\Records\\benchmark.json",
+    "sha256": "df4071589abefd9c4e9397bb24205c7d7866a0fad41d62f6ea706fc21b2beaea"
+  },
+  {
+    "source": "v013\\Records\\completed-frame-review.json",
+    "archive": "Closure\\Iteration-History\\v013\\Records\\completed-frame-review.json",
+    "sha256": "5bf7754018bd30fd34b2dbf9ba27d1e161b7d772acc3a732bb26c8ba99b322ed"
+  },
+  {
+    "source": "v013\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v013\\Records\\delivery-check.json",
+    "sha256": "1377fb42f18f06cf2f6d1e009aa87877a56dbd8d61b066dce946d5d431d4e007"
+  },
+  {
+    "source": "v013\\Records\\frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v013\\Records\\frame-timings.json",
+    "sha256": "ae02e0e7912d28465422a5dfb2d87f8e3ed3c564f37f8d43939b57f6238ab53a"
+  },
+  {
+    "source": "v013\\Records\\input-texture.json",
+    "archive": "Closure\\Iteration-History\\v013\\Records\\input-texture.json",
+    "sha256": "a7b763ef20d421fb964749be271fb5d2fc7111f688d1d864e5219024e5060b85"
+  },
+  {
+    "source": "v013\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v013\\Records\\render-timing.json",
+    "sha256": "c11ed9dc2c98b7646009d23daf34ecafb3cf8441fdd5e4e0c51cb2a343b3944b"
+  },
+  {
+    "source": "v013\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v013\\Records\\verification.json",
+    "sha256": "f7676e7556de17440a0acb0d9a4c931d89169d264730dd6d93e0b9cd378483db"
+  },
+  {
+    "source": "v013\\Scripts\\build.py",
+    "archive": "Closure\\Iteration-History\\v013\\Scripts\\build.py",
+    "sha256": "526adcd85c0fe278d491360ab4fbe8a74711f5b52e30b5753ad11ebb8b980b0e"
+  },
+  {
+    "source": "v013\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v013\\Scripts\\package.py",
+    "sha256": "712322a74ffcc6413fd99113bb6bfadc86460ffa4e621048ab15688b45388d1b"
+  },
+  {
+    "source": "v013\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v013\\Scripts\\render.py",
+    "sha256": "1d7c5eaa32c27769b4d150ba957e62f53802915f02f5fc5bef48244a4a387116"
+  },
+  {
+    "source": "v014\\Completion-report.txt",
+    "archive": "Closure\\Iteration-History\\v014\\Completion-report.txt",
+    "sha256": "b8afdd09f394d6de2ce97826a4e48192d9547897849ca7b0d569c53e55982bb3"
+  },
+  {
+    "source": "v014\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\benchmark.json",
+    "sha256": "0cbb0d7542e80fd2b68b4e5023225737cf8944f84471dcd9954cc528f4cc8692"
+  },
+  {
+    "source": "v014\\Records\\completed-frame-review.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\completed-frame-review.json",
+    "sha256": "12d4a8987c3193e689576e9ee4c1dbe129dff1bf4f2641f4befb5095083038a7"
+  },
+  {
+    "source": "v014\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\delivery-check.json",
+    "sha256": "ac8e53e4b5ba0d4f00ab88f31f098eac08f010eb92906fc1b6a388d9988b9283"
+  },
+  {
+    "source": "v014\\Records\\frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\frame-timings.json",
+    "sha256": "2680523480f38e3df47b29b25a564d95270a8b9d9868181755529ae9b66698c9"
+  },
+  {
+    "source": "v014\\Records\\geometry-prefix-pixel-check.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\geometry-prefix-pixel-check.json",
+    "sha256": "46d2703e968697f793dfdf3f6edcc06fdeba5bc0d294f1db91b765247adc82e2"
+  },
+  {
+    "source": "v014\\Records\\integration.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\integration.json",
+    "sha256": "ecc42446d4fd9135b480c6ca9d5f0da44b565d5bee398b02e77082234d49b2ea"
+  },
+  {
+    "source": "v014\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\render-timing.json",
+    "sha256": "2dcb5be4c02213782b703266c062c7fe3aa027014df3e7169bbfcc2ec10d0dc2"
+  },
+  {
+    "source": "v014\\Records\\reused-geometry-frames.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\reused-geometry-frames.json",
+    "sha256": "6af7d0c027b0a9a079fd102bfccf320bdbd36bb8ffef28b34963f501fd332f67"
+  },
+  {
+    "source": "v014\\Records\\seam-derivative.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\seam-derivative.json",
+    "sha256": "9dd4728efeb38f748dd9cd758bd02c1c66a1efd41c9e6698cd54f51fefea6763"
+  },
+  {
+    "source": "v014\\Records\\seam-render-benchmark.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\seam-render-benchmark.json",
+    "sha256": "54b6d11550599ea1f74f7905711b6820426ad04b9395499f0e353ca12625d20e"
+  },
+  {
+    "source": "v014\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v014\\Records\\verification.json",
+    "sha256": "4c1abd5a46f2850e948c807cffae3664c2a1b5020c9953c558eea9751437fda8"
+  },
+  {
+    "source": "v014\\Scripts\\integrate.py",
+    "archive": "Closure\\Iteration-History\\v014\\Scripts\\integrate.py",
+    "sha256": "1328d5db69c2437ab02672b0c4286e9c53cd26f88a0bde08bac83c0a60f0bb7d"
+  },
+  {
+    "source": "v014\\Scripts\\make-seamless.py",
+    "archive": "Closure\\Iteration-History\\v014\\Scripts\\make-seamless.py",
+    "sha256": "a07dc32b41e0b983832283b3e01f857e41f76cea3c9239a062c9ee19276751c2"
+  },
+  {
+    "source": "v014\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v014\\Scripts\\package.py",
+    "sha256": "1824599688709ded076b2f98d4214d3c08d40bd1491c88e14cee84a8a8103857"
+  },
+  {
+    "source": "v014\\Scripts\\prepare-cache.py",
+    "archive": "Closure\\Iteration-History\\v014\\Scripts\\prepare-cache.py",
+    "sha256": "8d8b41b12054fffcb4b21d1bf3d7d35ffe12276898479a79348ad0e91106d0b2"
+  },
+  {
+    "source": "v014\\Scripts\\render.py",
+    "archive": "Closure\\Iteration-History\\v014\\Scripts\\render.py",
+    "sha256": "6fc7dbc339f9991aa5708143d67423bd727ee36ea9b23c514798c3ecd4904744"
+  },
+  {
+    "source": "v014\\Scripts\\seam-proof.py",
+    "archive": "Closure\\Iteration-History\\v014\\Scripts\\seam-proof.py",
+    "sha256": "7aa8f81b67c6d7df917097393541e3a186d2aab24642f2d0c10cb7b2fbd888b8"
+  },
+  {
+    "source": "v014\\Scripts\\verify.py",
+    "archive": "Closure\\Iteration-History\\v014\\Scripts\\verify.py",
+    "sha256": "f9b68238f715a5cae276a3490985285f4a37e288466bf9879ec86bc06a250e95"
+  },
+  {
+    "source": "v015\\Completion-report.txt",
+    "archive": "Closure\\Iteration-History\\v015\\Completion-report.txt",
+    "sha256": "675f0ecab1652ed3e9e35461fb60308a2cf6bda0afbd2851a332072e6afeb384"
+  },
+  {
+    "source": "v015\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v015\\Records\\benchmark.json",
+    "sha256": "39aa7e7e289282d87c6a0fe59e9c6e52e4a354e5c7213dc98205f2da57565146"
+  },
+  {
+    "source": "v015\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v015\\Records\\delivery-check.json",
+    "sha256": "c45bbeead118f19fac25c6377b3fcbe13c8e01cdb0d51b968b94009db779459f"
+  },
+  {
+    "source": "v015\\Records\\frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v015\\Records\\frame-timings.json",
+    "sha256": "6cbab0131f0111c8c922a4f0931660e3ddf50ddf65091874865e44a96034f55c"
+  },
+  {
+    "source": "v015\\Records\\progress.json",
+    "archive": "Closure\\Iteration-History\\v015\\Records\\progress.json",
+    "sha256": "7f4f5dc0cbe1c9db8c350a57fc887a2c9d706a5fb5b1bdea53508b8a519797c6"
+  },
+  {
+    "source": "v015\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v015\\Records\\render-timing.json",
+    "sha256": "54db480ef941cb99d955098bd7a5deaa2e1e5897940eb843c38af4e187d57b94"
+  },
+  {
+    "source": "v015\\Records\\revision.json",
+    "archive": "Closure\\Iteration-History\\v015\\Records\\revision.json",
+    "sha256": "e19dec982257ec1a949a5cd54b681ba7b72841073e1b6f463bc10434ef814430"
+  },
+  {
+    "source": "v015\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v015\\Records\\verification.json",
+    "sha256": "117cd28c6683ff3caa5c44455c137116ce6fb3d6a866a6968837fe376cd1bc13"
+  },
+  {
+    "source": "v015\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v015\\Scripts\\package.py",
+    "sha256": "b474b565291071de293e6c519d6901cb58af29052d2ce8d59ef2ca085c4fecd5"
+  },
+  {
+    "source": "v015\\Scripts\\revise.py",
+    "archive": "Closure\\Iteration-History\\v015\\Scripts\\revise.py",
+    "sha256": "d281d1f99d10565f525042a2a9e58db50f7ef9a2dd6dc9f34b06b2fedb386d57"
+  },
+  {
+    "source": "v015\\Scripts\\verify-render.py",
+    "archive": "Closure\\Iteration-History\\v015\\Scripts\\verify-render.py",
+    "sha256": "cf8bf2101222b3f61c38da591a9dca5392d6ae4124b4db9cf27c56e95ffed8b2"
+  },
+  {
+    "source": "v016\\Completion-report.txt",
+    "archive": "Closure\\Iteration-History\\v016\\Completion-report.txt",
+    "sha256": "ca145e8721e7071ade2a6c45364e7ab89773670704d88efb28e1f85aa08fbe15"
+  },
+  {
+    "source": "v016\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v016\\Records\\benchmark.json",
+    "sha256": "fc9549334e87d7de4d4a302b6a5fcb50fef667f31b054c01866ef0dc3111807e"
+  },
+  {
+    "source": "v016\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v016\\Records\\delivery-check.json",
+    "sha256": "085459d1b25a8ee273e5d4f3e8b24ae3cfeaaa3efd3ac111818c80717b2291ef"
+  },
+  {
+    "source": "v016\\Records\\frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v016\\Records\\frame-timings.json",
+    "sha256": "53d9518d12e0203b5f3b0ecad60029e3be9628c4998777fa70d55b486aba6dd6"
+  },
+  {
+    "source": "v016\\Records\\progress.json",
+    "archive": "Closure\\Iteration-History\\v016\\Records\\progress.json",
+    "sha256": "858594cd9bd86a3fe756a516d3f95af320ffe5382985f612f0810ce719dd168f"
+  },
+  {
+    "source": "v016\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v016\\Records\\render-timing.json",
+    "sha256": "728c8f20a023626def579c6509ea3823110aae2f96b7997241240a8fae34a7a1"
+  },
+  {
+    "source": "v016\\Records\\shading.json",
+    "archive": "Closure\\Iteration-History\\v016\\Records\\shading.json",
+    "sha256": "f9a2c2990e353302ff3c8c7e9efdf070b76fc56362803bd52d9b2386bc221d0c"
+  },
+  {
+    "source": "v016\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v016\\Records\\verification.json",
+    "sha256": "117cd28c6683ff3caa5c44455c137116ce6fb3d6a866a6968837fe376cd1bc13"
+  },
+  {
+    "source": "v016\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v016\\Scripts\\package.py",
+    "sha256": "36757fcdf02dc922f92294d36f44047d6a1ac173d04da7aa9d94fbcaf8599eb5"
+  },
+  {
+    "source": "v016\\Scripts\\shading.py",
+    "archive": "Closure\\Iteration-History\\v016\\Scripts\\shading.py",
+    "sha256": "c1071ef88eb7c85740bb761523780d63cfe73218fb421cddac92cd00d7d7da3f"
+  },
+  {
+    "source": "v016\\Scripts\\verify-render.py",
+    "archive": "Closure\\Iteration-History\\v016\\Scripts\\verify-render.py",
+    "sha256": "6164905b4cfc2e94b12853fbd0af137a549d981bf6f66c683e7da6d73edcb5da"
+  },
+  {
+    "source": "v017\\Completion-report.txt",
+    "archive": "Closure\\Iteration-History\\v017\\Completion-report.txt",
+    "sha256": "dc52d58b8b41d5a20f09f5741570135659f89c085d152648ff148d09fa2be513"
+  },
+  {
+    "source": "v017\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v017\\Records\\benchmark.json",
+    "sha256": "5ba0dc29fb68f10445ee799433edbce553b55c74eaa533e2f1f37728d2e569ab"
+  },
+  {
+    "source": "v017\\Records\\completion-envelope.json",
+    "archive": "Closure\\Iteration-History\\v017\\Records\\completion-envelope.json",
+    "sha256": "9d2ff66c35810905c45c0460ecabe9d1946431dd45a79509b2913ad4d56205e7"
+  },
+  {
+    "source": "v017\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v017\\Records\\delivery-check.json",
+    "sha256": "e1d4932205df267a0155203c4a71848a1fe4953ae11d53870311563381785b2b"
+  },
+  {
+    "source": "v017\\Records\\frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v017\\Records\\frame-timings.json",
+    "sha256": "3e34ce0f1af547c28ae4772f26e9366f03aa13b953cbcbd519106de1e0c68d5c"
+  },
+  {
+    "source": "v017\\Records\\inspection.json",
+    "archive": "Closure\\Iteration-History\\v017\\Records\\inspection.json",
+    "sha256": "1152258dcfc25b8ad0c94a7176e77b5587f9a56dba51ee1421fd12ebcade5dc1"
+  },
+  {
+    "source": "v017\\Records\\progress.json",
+    "archive": "Closure\\Iteration-History\\v017\\Records\\progress.json",
+    "sha256": "c1e26ca6c809a31098d30f2752f627527c4b64ad74e297348139adaf1a46d292"
+  },
+  {
+    "source": "v017\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v017\\Records\\render-timing.json",
+    "sha256": "3a715fd9c6739d3dfe7ff67dc73e8dc1653e852a2366cdd918fdf7a8c798fa90"
+  },
+  {
+    "source": "v017\\Records\\revision.json",
+    "archive": "Closure\\Iteration-History\\v017\\Records\\revision.json",
+    "sha256": "f9f9330174086d231755d93543406612a29cc6b49ca699043a99e3ef2b9cd626"
+  },
+  {
+    "source": "v017\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v017\\Records\\verification.json",
+    "sha256": "56eee81469f6c78eff3b4c6bee16c49d5cd534813dfbb7e2980f58e14d2a2b13"
+  },
+  {
+    "source": "v017\\Scripts\\inspect.py",
+    "archive": "Closure\\Iteration-History\\v017\\Scripts\\inspect.py",
+    "sha256": "01d320de468e63a9b53c81eeefda2ecefce38e6a06485eba11743641307d1174"
+  },
+  {
+    "source": "v017\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v017\\Scripts\\package.py",
+    "sha256": "7608be1702378e0e3beeda24b159a57eab5ed31b6df852b8588909b4a42a8a28"
+  },
+  {
+    "source": "v017\\Scripts\\revise.py",
+    "archive": "Closure\\Iteration-History\\v017\\Scripts\\revise.py",
+    "sha256": "78db1e52b3d44aaae8fc6a357351f1ec0cc5d85e27baa08390f43d17f95a54bb"
+  },
+  {
+    "source": "v017\\Scripts\\verify-render.py",
+    "archive": "Closure\\Iteration-History\\v017\\Scripts\\verify-render.py",
+    "sha256": "7f3a0c8322d2fa9a4752091e99fc24fade2b81801aef9bf7f89673cef36ad89f"
+  },
+  {
+    "source": "v018\\Review-note.txt",
+    "archive": "Closure\\Iteration-History\\v018\\Review-note.txt",
+    "sha256": "105177a0dc9f7808350de7979a528b956494693cc6a0381c6ca999e00130f6f3"
+  },
+  {
+    "source": "v018\\Scene-Direction-Contract.txt",
+    "archive": "Closure\\Iteration-History\\v018\\Scene-Direction-Contract.txt",
+    "sha256": "8268bce89671e3b708b8831694451e8dbbc630abb8e4c2df422ab35f85b82d3b"
+  },
+  {
+    "source": "v018\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\benchmark.json",
+    "sha256": "e3878af6984a1bb88655acd3e6d4e69c0d4397d786a3bd5d18c46e684611246d"
+  },
+  {
+    "source": "v018\\Records\\build.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\build.json",
+    "sha256": "16ce0acaf50f40857ceb1227dde6094c6f5e5bb41ccf68c9a9722106b5e5b856"
+  },
+  {
+    "source": "v018\\Records\\camera-score.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\camera-score.json",
+    "sha256": "71b51f7e5f8d01f6b06d9bc7091fe05374d29522231b425dd704cbf88b432107"
+  },
+  {
+    "source": "v018\\Records\\completed-proof-check.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\completed-proof-check.json",
+    "sha256": "9cdc51e1d248fa22a9b37410c9248ff18abdb83031868d0f6475524ee153ac31"
+  },
+  {
+    "source": "v018\\Records\\delivery-check.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\delivery-check.json",
+    "sha256": "5de967a58f02b1ecf792c92439a5898887ef5757d49525f9f68694fe5d637c33"
+  },
+  {
+    "source": "v018\\Records\\invalid-frame-check.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\invalid-frame-check.json",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "source": "v018\\Records\\prefix-timing-recovery.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\prefix-timing-recovery.json",
+    "sha256": "f37a972ac1b6f4c6c42bb9a6d91be2210634ee40cdea20f05c97909ca578d8d3"
+  },
+  {
+    "source": "v018\\Records\\progress.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\progress.json",
+    "sha256": "0e53f844b7ae86b73815d12403a8de6127d7ab23b8f59da8e789d251787e7bbd"
+  },
+  {
+    "source": "v018\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\render-timing.json",
+    "sha256": "4ca637d182ee362d07c189604930a191a84607ee4ede82d2b64e013e6bc6d985"
+  },
+  {
+    "source": "v018\\Records\\repaired-frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\repaired-frame-timings.json",
+    "sha256": "4ab3221bf83ab5e6ffd9de58b026745f6b1f313521f40cae315c35c5e056dff4"
+  },
+  {
+    "source": "v018\\Records\\resumed-frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\resumed-frame-timings.json",
+    "sha256": "34e723af16a7a4ef414d55e2176a124633cac21f955d5401ac66ae31437a1e0d"
+  },
+  {
+    "source": "v018\\Records\\Source-brief.txt",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\Source-brief.txt",
+    "sha256": "dd2745f4ece5f990e73077b15fc4523363077b995e738406d3537d39c50ec505"
+  },
+  {
+    "source": "v018\\Records\\Storage-recovery.txt",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\Storage-recovery.txt",
+    "sha256": "e0902fabc38d6655a05d55df0f5056249a4bf75a67949d2f748e46aa2003f5e6"
+  },
+  {
+    "source": "v018\\Records\\verification.json",
+    "archive": "Closure\\Iteration-History\\v018\\Records\\verification.json",
+    "sha256": "bd1273e829d39184099303a9bd2d3c8fbb6334ee465e3a8e5ffbf95efc7418fb"
+  },
+  {
+    "source": "v018\\Scripts\\build.py",
+    "archive": "Closure\\Iteration-History\\v018\\Scripts\\build.py",
+    "sha256": "c836eb9e94f00403dc26b1fef866238df2c95b8d9f39a690b0c555f6d3b8d230"
+  },
+  {
+    "source": "v018\\Scripts\\check-frames.py",
+    "archive": "Closure\\Iteration-History\\v018\\Scripts\\check-frames.py",
+    "sha256": "79785376df044c006eeaac747990af48c90b47f80ca06635654421db59d45de9"
+  },
+  {
+    "source": "v018\\Scripts\\package.py",
+    "archive": "Closure\\Iteration-History\\v018\\Scripts\\package.py",
+    "sha256": "e3553c63caf891baa6d36fdff97a886ef60ae141d75b7e01b19b37b5ba75d613"
+  },
+  {
+    "source": "v018\\Scripts\\repair-frames.py",
+    "archive": "Closure\\Iteration-History\\v018\\Scripts\\repair-frames.py",
+    "sha256": "ce4c9c67a4b7075a81254a987eebc38ecc3c3c1fba7925e261f557021641de4e"
+  },
+  {
+    "source": "v018\\Scripts\\resume-render.py",
+    "archive": "Closure\\Iteration-History\\v018\\Scripts\\resume-render.py",
+    "sha256": "b184caff99c91628816152ac5d92b52f2f9ebbaf9fdbfb7cd6d2248a20a6e62b"
+  },
+  {
+    "source": "v018\\Scripts\\verify-render.py",
+    "archive": "Closure\\Iteration-History\\v018\\Scripts\\verify-render.py",
+    "sha256": "a2673f45cf06a4905c565a6619dc97cefa929dc9badf4765b7a6407d299e1fa5"
+  },
+  {
+    "source": "v019\\Review-note.txt",
+    "archive": "Closure\\Iteration-History\\v019\\Review-note.txt",
+    "sha256": "01cc08a99064f8acf565a6bda3c5f843ca516a4731a6c5b4e99728f7a5ac95a4"
+  },
+  {
+    "source": "v019\\Records\\still-verification.json",
+    "archive": "Closure\\Iteration-History\\v019\\Records\\still-verification.json",
+    "sha256": "c171387598ea8251b66ff7a0181b4ee89f3a2cc81c24da88d8c7f8a89b4cafa9"
+  },
+  {
+    "source": "v019\\Scripts\\tight-still.py",
+    "archive": "Closure\\Iteration-History\\v019\\Scripts\\tight-still.py",
+    "sha256": "34c5cc172a955a241a4070595599a745263c86aca737a1dd34f266de75743c22"
+  },
+  {
+    "source": "v020\\Records\\still-check.json",
+    "archive": "Closure\\Iteration-History\\v020\\Records\\still-check.json",
+    "sha256": "5f848ad545a4754dbed72e31022f701b26c58f1305d7dffe9a98db1287b027f8"
+  },
+  {
+    "source": "v020\\Scripts\\inward-still.py",
+    "archive": "Closure\\Iteration-History\\v020\\Scripts\\inward-still.py",
+    "sha256": "8362abfff9c81aece359b24d3fad1addc12133013831f05b5c3ef98cae203bd5"
+  },
+  {
+    "source": "v021\\Records\\still-check.json",
+    "archive": "Closure\\Iteration-History\\v021\\Records\\still-check.json",
+    "sha256": "944c938099b4b110e14f88f10deb3b97f11013027b3374d111bca77f4acc2512"
+  },
+  {
+    "source": "v021\\Scripts\\composition-still.py",
+    "archive": "Closure\\Iteration-History\\v021\\Scripts\\composition-still.py",
+    "sha256": "027b8bedae93f14fc2ae1571812bbfd60d0411ee0b429165677ba71dc346ae26"
+  },
+  {
+    "source": "v022\\Review-note.txt",
+    "archive": "Closure\\Iteration-History\\v022\\Review-note.txt",
+    "sha256": "a223d4ea263ecb9d3deb7156151302fa64a5fa26e514f12cbcdaf82212e61b39"
+  },
+  {
+    "source": "v022\\Records\\still-check.json",
+    "archive": "Closure\\Iteration-History\\v022\\Records\\still-check.json",
+    "sha256": "9ef7672a0b7e117a85fdafa9ae4d3f951151d74dcc21a2a92564188617e3576d"
+  },
+  {
+    "source": "v022\\Scripts\\digital-still.py",
+    "archive": "Closure\\Iteration-History\\v022\\Scripts\\digital-still.py",
+    "sha256": "12934b8a411cdd08a7154d0b0d08a7c0e13852a69159d3ab17563c7271c7f9d6"
+  },
+  {
+    "source": "v023\\Review-note.txt",
+    "archive": "Closure\\Iteration-History\\v023\\Review-note.txt",
+    "sha256": "6a2862744e03da98a930ed00f6f4c85e5d71170a1663deee0ef3dd80a58eee34"
+  },
+  {
+    "source": "v023\\Records\\computation-check.json",
+    "archive": "Closure\\Iteration-History\\v023\\Records\\computation-check.json",
+    "sha256": "c5493ff96d8e07642109fc08af98980510d5d16c9b6bb779c6a4df0204ecf75d"
+  },
+  {
+    "source": "v023\\Scripts\\computed-organic-still.py",
+    "archive": "Closure\\Iteration-History\\v023\\Scripts\\computed-organic-still.py",
+    "sha256": "cb96bc6aec2559451d9dc80f0a7d93844f3b28355e9ecb05a98482f41b746da1"
+  },
+  {
+    "source": "v024\\Completion-report.txt",
+    "archive": "Closure\\Iteration-History\\v024\\Completion-report.txt",
+    "sha256": "f1a0f595896a0f6a9d080f9c15cc5388ad4ea0bff251c3b96ab27229e33ec1d9"
+  },
+  {
+    "source": "v024\\Records\\benchmark-reopened.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\benchmark-reopened.json",
+    "sha256": "0aedd70391487e7d99de666a7d0549182dce022d95e804a61d6860268d1e2914"
+  },
+  {
+    "source": "v024\\Records\\benchmark.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\benchmark.json",
+    "sha256": "7e32905a291e1e1c525a48a0f053af4a8894ab16453a648a6c5616ae24085b81"
+  },
+  {
+    "source": "v024\\Records\\camera-debug.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\camera-debug.json",
+    "sha256": "0f8471050dcd00fc445d96c9ea49337b433cf19542e62fc24729487b1e030e0a"
+  },
+  {
+    "source": "v024\\Records\\integration.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\integration.json",
+    "sha256": "08fe69c9967eeec01f605e7b3a0991cf627e493e6ec55a562d38f51267f41879"
+  },
+  {
+    "source": "v024\\Records\\progress.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\progress.json",
+    "sha256": "94ec4c3c28da7b8e8ea49b5e81c5f71e76c56868c62f7ee48eebd44fd5316269"
+  },
+  {
+    "source": "v024\\Records\\recovery.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\recovery.json",
+    "sha256": "80a46e331b332a88946ac5588393f1bbdd9a7f09309cf13a64090d0d718ad6ef"
+  },
+  {
+    "source": "v024\\Records\\render-timing.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\render-timing.json",
+    "sha256": "1fa139627d9ab3e2747129f214a7a3c6e32759c5e5ace3f0f7f37e4c85a7cf77"
+  },
+  {
+    "source": "v024\\Records\\static-preview.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\static-preview.json",
+    "sha256": "3f8f19165f319980ffb0c0ae322ee316396a995566a9b5360f9a90572d94873d"
+  },
+  {
+    "source": "v024\\Records\\timings_0001.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0001.json",
+    "sha256": "29c0c6217dfc8bb019c81c57045d44995e020810a45211d78a923a15e5cd4468"
+  },
+  {
+    "source": "v024\\Records\\timings_0025.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0025.json",
+    "sha256": "5366b5628a5f5c8220cf7fc5022972e39be9d5dcdf0535ad86919330636c3b83"
+  },
+  {
+    "source": "v024\\Records\\timings_0049.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0049.json",
+    "sha256": "b21b8d4d7853651e79d4dbbd7f440468920c496557ae268c194f61b3be39ac37"
+  },
+  {
+    "source": "v024\\Records\\timings_0073.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0073.json",
+    "sha256": "d61ab6c1a5e12c2a88edbb025aa7dba1451bdb010b7e903adc7ac762210d14d6"
+  },
+  {
+    "source": "v024\\Records\\timings_0097.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0097.json",
+    "sha256": "ddcb0e869804c9bf4842eb50c3ec44c6c8607341272f15e980e8fbd32b778966"
+  },
+  {
+    "source": "v024\\Records\\timings_0121.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0121.json",
+    "sha256": "8289848a88710a61f4dc5acbb40e09dcc59d81b667880e87b8cd638af0e6dd44"
+  },
+  {
+    "source": "v024\\Records\\timings_0145.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0145.json",
+    "sha256": "97f8193e6f47e985a5d881aa0388a71f4e19840785cc37a81d063907693ac529"
+  },
+  {
+    "source": "v024\\Records\\timings_0169.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0169.json",
+    "sha256": "b995454b9062f1e6ece6c624e04db13f27849b2de8ba0637cf4ff6b5d5e48959"
+  },
+  {
+    "source": "v024\\Records\\timings_0193.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0193.json",
+    "sha256": "f9c1e3fdfaab737958eb49130d3f4691a27898ea8b06631709602c1e3e7ca821"
+  },
+  {
+    "source": "v024\\Records\\timings_0217.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0217.json",
+    "sha256": "165e3e9be5bfd80ce3e4061d69679a28386f7c46e4be0b93f4908152bca49d1d"
+  },
+  {
+    "source": "v024\\Records\\timings_0241.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0241.json",
+    "sha256": "3488619491ae4d7970143169eab0e69c39ab92020a96366d673ec76061fbe4a7"
+  },
+  {
+    "source": "v024\\Records\\timings_0265.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0265.json",
+    "sha256": "1fb889b75c74cdca8ecd71cf20d4a31ce2d5d11682883d688366da417de7cead"
+  },
+  {
+    "source": "v024\\Records\\timings_0289.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0289.json",
+    "sha256": "513108949b0d994773965d8a1f0893c5e0e2c410826a4e99ac9a76a2b96b4c06"
+  },
+  {
+    "source": "v024\\Records\\timings_0313.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0313.json",
+    "sha256": "ed1fd17d72b5718faf742725f0238d73b8738a6b5f89ad13e0825c8c2f0e0bb7"
+  },
+  {
+    "source": "v024\\Records\\timings_0337.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0337.json",
+    "sha256": "a23f8eaece18ea1bfe53aea9924b4cf9597ce23df2b74014d95a962188c9be50"
+  },
+  {
+    "source": "v024\\Records\\timings_0361.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0361.json",
+    "sha256": "681bb0415c8cce4c46ceede5a522aa76d3f3bd8cb58074ad3025191385d41bfa"
+  },
+  {
+    "source": "v024\\Records\\timings_0385.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0385.json",
+    "sha256": "db3873f2ec5a7406ff37c44005796004f249ded37c2b9efc131e7680255dabbf"
+  },
+  {
+    "source": "v024\\Records\\timings_0409.json",
+    "archive": "Closure\\Iteration-History\\v024\\Records\\timings_0409.json",
+    "sha256": "3fa0b5d68fcdee59c882e3115893dc84db4add9acf931227e1ea8a4911427ede"
+  },
+  {
+    "source": "v024\\Scripts\\inspect-camera.py",
+    "archive": "Closure\\Iteration-History\\v024\\Scripts\\inspect-camera.py",
+    "sha256": "e925c367d3f9eebb6810fe4e126d22801803cb9ef709fe4abf91645e6a13ea78"
+  },
+  {
+    "source": "v024\\Scripts\\integrate.py",
+    "archive": "Closure\\Iteration-History\\v024\\Scripts\\integrate.py",
+    "sha256": "6ebbadeb6b62af6b28e8eaedc0b9d56d73b717da34c19e8339de81c340bf9d20"
+  },
+  {
+    "source": "v024\\Scripts\\prepare-static-preview.py",
+    "archive": "Closure\\Iteration-History\\v024\\Scripts\\prepare-static-preview.py",
+    "sha256": "b5312092e49d4b401b7fd538befd988114df665362f2be8eb225e4bc206ea829"
+  },
+  {
+    "source": "v024\\Scripts\\recheck-proofs.py",
+    "archive": "Closure\\Iteration-History\\v024\\Scripts\\recheck-proofs.py",
+    "sha256": "1cc04b698b76b0fcf5670740997cdf2bf9ba598c4d360f3f30c0067e219e42e3"
+  },
+  {
+    "source": "v024\\Scripts\\recover-preview.py",
+    "archive": "Closure\\Iteration-History\\v024\\Scripts\\recover-preview.py",
+    "sha256": "b9e91e9d0599af9f2c01fc915976792c107df56623afc83b9fdb553c41041c90"
+  },
+  {
+    "source": "v024\\Scripts\\render-all.py",
+    "archive": "Closure\\Iteration-History\\v024\\Scripts\\render-all.py",
+    "sha256": "7f26b43a674994fc72799b7dd7259d8e66397628458804d478fc48e7c384d083"
+  },
+  {
+    "source": "v024\\Scripts\\render-chunk.py",
+    "archive": "Closure\\Iteration-History\\v024\\Scripts\\render-chunk.py",
+    "sha256": "9d80f4821dd6ff7f0bd0c46e2e1edfc9b0aa7c80858a8e155f2fba06f3a608ba"
+  },
+  {
+    "source": "v024\\Scripts\\restore-environment-v025.py",
+    "archive": "Closure\\Iteration-History\\v024\\Scripts\\restore-environment-v025.py",
+    "sha256": "abae4f9123a9de51e8954161f208cf7f34a492a21275bcd38e8ebf72dee43555"
+  },
+  {
+    "source": "v025\\Records\\build-immersive-v026.py",
+    "archive": "Closure\\Iteration-History\\v025\\Records\\build-immersive-v026.py",
+    "sha256": "610074a07fab7431f2f0da593cd6096c01e05c187434dbb3b0f71cb5cad4840b"
+  },
+  {
+    "source": "v025\\Records\\Environment-build-source.py",
+    "archive": "Closure\\Iteration-History\\v025\\Records\\Environment-build-source.py",
+    "sha256": "abae4f9123a9de51e8954161f208cf7f34a492a21275bcd38e8ebf72dee43555"
+  },
+  {
+    "source": "v025\\Records\\Revision.txt",
+    "archive": "Closure\\Iteration-History\\v025\\Records\\Revision.txt",
+    "sha256": "0f653c646c13491fa9758bd5c2349288627c8b8a5bf25bda6e3bba028c14191c"
+  },
+  {
+    "source": "v026\\Records\\connect-irregular-soil-v027.py",
+    "archive": "Closure\\Iteration-History\\v026\\Records\\connect-irregular-soil-v027.py",
+    "sha256": "07b4a475bdc6821ec6859616f1814d181ae0c8050d09291e49c2a02a9b6a8316"
+  },
+  {
+    "source": "v026\\Records\\Verification.json",
+    "archive": "Closure\\Iteration-History\\v026\\Records\\Verification.json",
+    "sha256": "6e4b1ba8137356706c385d453077cc4fca2a634119b53d05cb7d2bbd01d04ac9"
+  },
+  {
+    "source": "v027\\Records\\connect-irregular-soil-v027.py",
+    "archive": "Closure\\Iteration-History\\v027\\Records\\connect-irregular-soil-v027.py",
+    "sha256": "07b4a475bdc6821ec6859616f1814d181ae0c8050d09291e49c2a02a9b6a8316"
+  },
+  {
+    "source": "v027\\Records\\full-ground-v028.py",
+    "archive": "Closure\\Iteration-History\\v027\\Records\\full-ground-v028.py",
+    "sha256": "71b0bc20175b30be8e66c8921aa19a682d6021cb5fbeab6dc2e01fdded1d37c2"
+  },
+  {
+    "source": "v027\\Records\\Revision.json",
+    "archive": "Closure\\Iteration-History\\v027\\Records\\Revision.json",
+    "sha256": "9c6c29346f92ab755e5b73951ebafbd02187ad0113a8e9eae51ce42f566fa368"
+  },
+  {
+    "source": "v028\\Records\\fast-full-frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\fast-full-frame-timings.json",
+    "sha256": "bc6f90e97860fcd5b83c81a95d1f1c41f36917ac774fd647013137e508eae259"
+  },
+  {
+    "source": "v028\\Records\\fast-full-progress.json",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\fast-full-progress.json",
+    "sha256": "d45c0d1b64be13677da23378045bd18554cddfca39c376d81d229a6c3d2fa29d"
+  },
+  {
+    "source": "v028\\Records\\fast-full-report.json",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\fast-full-report.json",
+    "sha256": "caef89e1dc99c26f8126a48b883b5cbed1d3f6ae0e561b465095fbff812001f1"
+  },
+  {
+    "source": "v028\\Records\\full-ground-v028.py",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\full-ground-v028.py",
+    "sha256": "71b0bc20175b30be8e66c8921aa19a682d6021cb5fbeab6dc2e01fdded1d37c2"
+  },
+  {
+    "source": "v028\\Records\\make-one-fps-sheet.py",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\make-one-fps-sheet.py",
+    "sha256": "c4016809c2235103c63d30159eb25ecc69a8499d84792ff56cf8ae75499e2e1f"
+  },
+  {
+    "source": "v028\\Records\\one-fps-progress.json",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\one-fps-progress.json",
+    "sha256": "a21c82bdf873c360c7786d9306050c1f5d04af9f60dcec4fe8cbbb665d6ddcbc"
+  },
+  {
+    "source": "v028\\Records\\one-fps-report.json",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\one-fps-report.json",
+    "sha256": "99db07f8bf8eb9c54aaef293469ebe2498b2511109cf3704af2d56a08ada28f1"
+  },
+  {
+    "source": "v028\\Records\\Presentation-note.txt",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\Presentation-note.txt",
+    "sha256": "7d529ae0ce0a3494320457ff73adfcae39bd43ba0d84a6f5e3c9c3ba3109539b"
+  },
+  {
+    "source": "v028\\Records\\render-fast-full.py",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\render-fast-full.py",
+    "sha256": "27f4c13a96cde3b1060f83c04ba38e839540c0d2e7b52962c9162e841cf0e3f3"
+  },
+  {
+    "source": "v028\\Records\\render-one-fps.py",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\render-one-fps.py",
+    "sha256": "e22f99517408685b1656d1f58d7b586af69a89c33763238ec258c15b76f80f00"
+  },
+  {
+    "source": "v028\\Records\\Revision.json",
+    "archive": "Closure\\Iteration-History\\v028\\Records\\Revision.json",
+    "sha256": "d502e73f121f0ac145523dfffc47a857f4c6b700689eacff9f607c632fa020cc"
+  },
+  {
+    "source": "v029\\Completion-report.txt",
+    "archive": "Closure\\Iteration-History\\v029\\Completion-report.txt",
+    "sha256": "a2e5e2fd0aa318f9e8a377d1be692ef216ba1e44c52394084895266a1e4fca2d"
+  },
+  {
+    "source": "v029\\Scene-Direction-Contract.txt",
+    "archive": "Closure\\Iteration-History\\v029\\Scene-Direction-Contract.txt",
+    "sha256": "bf33398eb41336afd7a1fac5d99a8c4ac20b41f639b151fcffb6d83d8808808d"
+  },
+  {
+    "source": "v029\\Records\\Camera-score.json",
+    "archive": "Closure\\Iteration-History\\v029\\Records\\Camera-score.json",
+    "sha256": "8139b7b43aeb298f0d3d83cb84ce0f5c4cb6f6b41f03b6ccbbfad5acff13fc87"
+  },
+  {
+    "source": "v029\\Records\\Camera-verification.json",
+    "archive": "Closure\\Iteration-History\\v029\\Records\\Camera-verification.json",
+    "sha256": "7dc011e387f23f278638c9506f103842f87118740746fff66e98487a8382ac9f"
+  },
+  {
+    "source": "v029\\Records\\fast-full-frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v029\\Records\\fast-full-frame-timings.json",
+    "sha256": "5115ea98bc29fa2ff747afb4dc444f90c6fbc2bc311e2277c92f9eaaebb32411"
+  },
+  {
+    "source": "v029\\Records\\fast-full-progress.json",
+    "archive": "Closure\\Iteration-History\\v029\\Records\\fast-full-progress.json",
+    "sha256": "d9f5e94734d13cc968526bf505483c092271ea3446327b5ad67429fe604180a2"
+  },
+  {
+    "source": "v029\\Records\\fast-full-report.json",
+    "archive": "Closure\\Iteration-History\\v029\\Records\\fast-full-report.json",
+    "sha256": "d04faccf159e3d3716150de292241a12099bedd75ad1d5e6258b5a1c2c26dbd8"
+  },
+  {
+    "source": "v029\\Records\\Proof-timings.json",
+    "archive": "Closure\\Iteration-History\\v029\\Records\\Proof-timings.json",
+    "sha256": "317bc88eb86fb8db1e2feacdf60065890b861602c5fcb020ac03ad8e31ff0bcc"
+  },
+  {
+    "source": "v029\\Records\\Refined-proof-timings.json",
+    "archive": "Closure\\Iteration-History\\v029\\Records\\Refined-proof-timings.json",
+    "sha256": "339552849ff7b1911094df98ee8cdebbea6828dbdca64dad448c23a1dabb85a1"
+  },
+  {
+    "source": "v029\\Records\\render-full.py",
+    "archive": "Closure\\Iteration-History\\v029\\Records\\render-full.py",
+    "sha256": "c6706981e47c0655876944e2eba567d6e273dfb75edc1239d6c71b24bf83e11e"
+  },
+  {
+    "source": "v029\\Records\\Video-check.json",
+    "archive": "Closure\\Iteration-History\\v029\\Records\\Video-check.json",
+    "sha256": "215cc8369206c36e3eb7e814ae997f90963bbb55fce74cf038c2ab74112b8f24"
+  },
+  {
+    "source": "v029\\Scripts\\build-continuous.py",
+    "archive": "Closure\\Iteration-History\\v029\\Scripts\\build-continuous.py",
+    "sha256": "5086043a500c17df0c40d072e44dd89f884198c53636fd929e1517bd5cd8c00d"
+  },
+  {
+    "source": "v029\\Scripts\\check-continuous.py",
+    "archive": "Closure\\Iteration-History\\v029\\Scripts\\check-continuous.py",
+    "sha256": "4dde2cb219f95985abee6442154672b89f72683864a708c2e55ffa653f28cba1"
+  },
+  {
+    "source": "v029\\Scripts\\clean-soil-join.py",
+    "archive": "Closure\\Iteration-History\\v029\\Scripts\\clean-soil-join.py",
+    "sha256": "e1d503b12eb29695c4cc878551cc65f4cb8af2bec29e73df37bf7f6b5b0f4179"
+  },
+  {
+    "source": "v029\\Scripts\\refine-continuous.py",
+    "archive": "Closure\\Iteration-History\\v029\\Scripts\\refine-continuous.py",
+    "sha256": "20869ecb76880af859fd2c0eca6463444912b3537f5e426eb6d4daa9f1ef3c2b"
+  },
+  {
+    "source": "v029\\Scripts\\render-full.py",
+    "archive": "Closure\\Iteration-History\\v029\\Scripts\\render-full.py",
+    "sha256": "c6706981e47c0655876944e2eba567d6e273dfb75edc1239d6c71b24bf83e11e"
+  },
+  {
+    "source": "v029\\Scripts\\transparent-guide-fades.py",
+    "archive": "Closure\\Iteration-History\\v029\\Scripts\\transparent-guide-fades.py",
+    "sha256": "29370e6471af09da9a0253328960c5ae762209b9ac5f8ff45a0e407a7f4e7360"
+  },
+  {
+    "source": "v029\\Scripts\\verify-video.py",
+    "archive": "Closure\\Iteration-History\\v029\\Scripts\\verify-video.py",
+    "sha256": "c43f9b574fd82abcf04488f15c9990eb9e8a2ef8400ae062968c637dc816e7e5"
+  },
+  {
+    "source": "v030\\Scene-Direction-Contract.txt",
+    "archive": "Closure\\Iteration-History\\v030\\Scene-Direction-Contract.txt",
+    "sha256": "3e87bcb74dab46e656229744c0235aea21bcbf10cd5e4265baf70964a12dc3b7"
+  },
+  {
+    "source": "v030\\Records\\Camera-score.json",
+    "archive": "Closure\\Iteration-History\\v030\\Records\\Camera-score.json",
+    "sha256": "87db3d2b826242a8fb6ea4da33442ab8b58967e75aee49e65d6f98b6a1484fe6"
+  },
+  {
+    "source": "v030\\Records\\Completion-report.json",
+    "archive": "Closure\\Iteration-History\\v030\\Records\\Completion-report.json",
+    "sha256": "a8fac3494fc56fef5a06e6d3f1566d4840072a0eb543b7935bad63c1883464ec"
+  },
+  {
+    "source": "v030\\Records\\Composition-check.json",
+    "archive": "Closure\\Iteration-History\\v030\\Records\\Composition-check.json",
+    "sha256": "f038c315a130d1f918258f0171bffd453e921fbda30d679263773e69cf64cf54"
+  },
+  {
+    "source": "v030\\Records\\fast-full-progress.json",
+    "archive": "Closure\\Iteration-History\\v030\\Records\\fast-full-progress.json",
+    "sha256": "471b0b01b795cb6195fe17a9498128df4e83d8e82d94008a83772f2fb10e6bfd"
+  },
+  {
+    "source": "v030\\Records\\original-config-full-frame-timings.json",
+    "archive": "Closure\\Iteration-History\\v030\\Records\\original-config-full-frame-timings.json",
+    "sha256": "507d8f5b7867b98781ce058d3b8581b1dab7d780c8ea5afdada0d784bcddad4a"
+  },
+  {
+    "source": "v030\\Records\\original-config-full-progress.json",
+    "archive": "Closure\\Iteration-History\\v030\\Records\\original-config-full-progress.json",
+    "sha256": "a6b2f5c7eb3cbff0c671899aec250d977ba5e72a072348cd2768a0c5c2539570"
+  },
+  {
+    "source": "v030\\Records\\original-config-full-report.json",
+    "archive": "Closure\\Iteration-History\\v030\\Records\\original-config-full-report.json",
+    "sha256": "8236ab04fcbded4c51cf6b818b9593a7e996585740a3f8b1e6551d2050eda36d"
+  },
+  {
+    "source": "v030\\Scripts\\lower-entry-thirds.py",
+    "archive": "Closure\\Iteration-History\\v030\\Scripts\\lower-entry-thirds.py",
+    "sha256": "f5910655d7b1a744fc6960dc16fb601dca7e47483c3f8aa78f5a898fac9a5faa"
+  },
+  {
+    "source": "v030\\Scripts\\render-full.py",
+    "archive": "Closure\\Iteration-History\\v030\\Scripts\\render-full.py",
+    "sha256": "33c4908ad74c657e6dcb73371cf1fc9530d6fa9543e033dc09623ef4190ada15"
+  },
+  {
+    "source": "v030\\Scripts\\render-original-settings.py",
+    "archive": "Closure\\Iteration-History\\v030\\Scripts\\render-original-settings.py",
+    "sha256": "7aba064b09ca11149d97bf86b45ce857275ea9a0510514aae6b1722ba7d6aafd"
+  },
+  {
+    "source": "v030\\Scripts\\verify-final-video.py",
+    "archive": "Closure\\Iteration-History\\v030\\Scripts\\verify-final-video.py",
+    "sha256": "45f9a8aca7172efb928529d0254c3e1b4e8cbab5b2bbf2780f7c0214453f4a8c"
+  },
+  {
+    "source": "v030\\Scripts\\wide-composition.py",
+    "archive": "Closure\\Iteration-History\\v030\\Scripts\\wide-composition.py",
+    "sha256": "e9dea1672c6ede6d1cb4ce16a21cce5b297cbb2afaf3d74e97ed8493af62370f"
+  },
+  {
+    "source": "v031\\Scene-Direction-Contract.txt",
+    "archive": "Closure\\Iteration-History\\v031\\Scene-Direction-Contract.txt",
+    "sha256": "04e1e725ec588624ec5825e7704e569a52c6f65ebc53774566ccfbef204c36ea"
+  },
+  {
+    "source": "v031\\Records\\Camera-score.json",
+    "archive": "Closure\\Iteration-History\\v031\\Records\\Camera-score.json",
+    "sha256": "a2ff8f7eb873236fe3bb617440346e9ce5cf181ae23b7656c29ae34a0bdf9b0d"
+  },
+  {
+    "source": "v031\\Records\\original-config-full-progress.json",
+    "archive": "Closure\\Iteration-History\\v031\\Records\\original-config-full-progress.json",
+    "sha256": "1b038a647b8f574dade09a34981ded267592516657403d7c7d0630bbbce081da"
+  },
+  {
+    "source": "v031\\Records\\Proof-timings.json",
+    "archive": "Closure\\Iteration-History\\v031\\Records\\Proof-timings.json",
+    "sha256": "60bfd3f7688786f7698f1d6a85ab9824a52a89007c6258f747bb22a2642cfdbd"
+  },
+  {
+    "source": "v031\\Records\\Reference-drawing-score.json",
+    "archive": "Closure\\Iteration-History\\v031\\Records\\Reference-drawing-score.json",
+    "sha256": "caa2b2ef9c6c12bcfe3c98c9bff4ecfec243829710bb0b29db984f1de12150ff"
+  },
+  {
+    "source": "v031\\Scripts\\finalize-and-render.py",
+    "archive": "Closure\\Iteration-History\\v031\\Scripts\\finalize-and-render.py",
+    "sha256": "d6facf35b69c09a5de61ce9d02eaee76c89f3e4af1c945d6cd39a1e5d22f847a"
+  },
+  {
+    "source": "v031\\Scripts\\medium-tracking.py",
+    "archive": "Closure\\Iteration-History\\v031\\Scripts\\medium-tracking.py",
+    "sha256": "d9c856fb826bc8d865aaf58f8af29cdeaa3b17cbad50fc5834fc33b401f53c94"
+  },
+  {
+    "source": "v031\\Scripts\\render-full.py",
+    "archive": "Closure\\Iteration-History\\v031\\Scripts\\render-full.py",
+    "sha256": "c6ceb927df03f1c31fd9d8a97e89c13ee7773a1c9a9b48776ccebd2058da6157"
+  },
+  {
+    "source": "v032\\Scene-Direction-Contract.txt",
+    "archive": "Closure\\Iteration-History\\v032\\Scene-Direction-Contract.txt",
+    "sha256": "3432e08a24be7ada7ec9089ef05c786d82cea44da4713f56c6ecbd1789f6721c"
+  },
+  {
+    "source": "v032\\Records\\Camera-score.json",
+    "archive": "Closure\\Iteration-History\\v032\\Records\\Camera-score.json",
+    "sha256": "c8d329dbb60a7f0adcb4882fec723070c3481f64c5bc14119579ac78d5caf6bf"
+  },
+  {
+    "source": "v032\\Records\\Completion-report.json",
+    "archive": "Closure\\Iteration-History\\v032\\Records\\Completion-report.json",
+    "sha256": "cf2a5cb823447cf651e4089d1142738fde829d87043e5184b138872f97585a50"
+  },
+  {
+    "source": "v032\\Records\\Proof-timings.json",
+    "archive": "Closure\\Iteration-History\\v032\\Records\\Proof-timings.json",
+    "sha256": "31904f5f207c02828cbd0b466ccfdf81b23ef11600a5a19fe59d1d230e6f62bb"
+  },
+  {
+    "source": "v032\\Records\\Reference-drawing-score.json",
+    "archive": "Closure\\Iteration-History\\v032\\Records\\Reference-drawing-score.json",
+    "sha256": "48075c6f4ae77bec64e4811b27bc80c8fd46213eabfbdd678cd5c488bc9b2765"
+  },
+  {
+    "source": "v032\\Records\\Render-progress.json",
+    "archive": "Closure\\Iteration-History\\v032\\Records\\Render-progress.json",
+    "sha256": "c19eb6106b7aa666d90f183496669021b64c897fd7a937ea3bf869f935d60f51"
+  },
+  {
+    "source": "v032\\Records\\Render-report.json",
+    "archive": "Closure\\Iteration-History\\v032\\Records\\Render-report.json",
+    "sha256": "2189a820db21b1d13a8e337d3e1648000b88739ee0e2e93898b066c86712c51d"
+  },
+  {
+    "source": "v032\\Records\\timings_0001.json",
+    "archive": "Closure\\Iteration-History\\v032\\Records\\timings_0001.json",
+    "sha256": "f6929e38e15fcc56d0557c9bfeae99fc8f86d7d653f44ea227c4cbe13c1dbc6b"
+  },
+  {
+    "source": "v032\\Records\\timings_0121.json",
+    "archive": "Closure\\Iteration-History\\v032\\Records\\timings_0121.json",
+    "sha256": "7e409d4c95b3eb1a64dec98f6d7c15261279498a32fa19574480327cb2792a54"
+  },
+  {
+    "source": "v032\\Records\\timings_0241.json",
+    "archive": "Closure\\Iteration-History\\v032\\Records\\timings_0241.json",
+    "sha256": "9cc6d4f95de2fb2aba086fa3712b4cb66222b72f673233df22ac8c74b1799c45"
+  },
+  {
+    "source": "v032\\Records\\timings_0337.json",
+    "archive": "Closure\\Iteration-History\\v032\\Records\\timings_0337.json",
+    "sha256": "d7bd4f89991b7823523d19dec811e64a2895ca4aee45bdcef0826ce588f3cc6e"
+  },
+  {
+    "source": "v032\\Scripts\\face-on-tracking.py",
+    "archive": "Closure\\Iteration-History\\v032\\Scripts\\face-on-tracking.py",
+    "sha256": "055b629ed23f57f860d3d89cb3edca62d4cf16af5dd85847719e461238ac580a"
+  },
+  {
+    "source": "v032\\Scripts\\render-chunk.py",
+    "archive": "Closure\\Iteration-History\\v032\\Scripts\\render-chunk.py",
+    "sha256": "d1e0633f29e51ae6c9511e84fc61d81309a92dc84489747978e7543765ba6a72"
+  },
+  {
+    "source": "v032\\Scripts\\render-review.py",
+    "archive": "Closure\\Iteration-History\\v032\\Scripts\\render-review.py",
+    "sha256": "71b36ceec1bbfb6e91672cc76f05ec9f9158b2f2c25252d8a0022c36917fd24a"
+  },
+  {
+    "source": "v032\\Scripts\\verify-delivery.py",
+    "archive": "Closure\\Iteration-History\\v032\\Scripts\\verify-delivery.py",
+    "sha256": "6d0548ff8b8fd0eb5df7a666211c3bf64cd8a4977ccb0d62886c212d21ddc468"
+  },
+  {
+    "source": "v033\\Scene-Direction-Contract.txt",
+    "archive": "Closure\\Iteration-History\\v033\\Scene-Direction-Contract.txt",
+    "sha256": "4c71909081e275eb9e3be7a5b76c69d6b2d844b6d6d04753634de9995041ab1d"
+  },
+  {
+    "source": "v033\\Records\\Camera-score.json",
+    "archive": "Closure\\Iteration-History\\v033\\Records\\Camera-score.json",
+    "sha256": "260814c8ce21719f676e11fcd717867245593e8b0dbae3008ed849e815959179"
+  },
+  {
+    "source": "v033\\Records\\Completion-report.json",
+    "archive": "Closure\\Iteration-History\\v033\\Records\\Completion-report.json",
+    "sha256": "e31c3c54cc25d0ef61124f687b22676cc307471d936baeee449d7b52bc5ec170"
+  },
+  {
+    "source": "v033\\Records\\Exit-verification.json",
+    "archive": "Closure\\Iteration-History\\v033\\Records\\Exit-verification.json",
+    "sha256": "4d8ef85e697a18befc17ff9789392da347b75d9abc8a199be738b6c3a64264fa"
+  },
+  {
+    "source": "v033\\Records\\Proof-timings.json",
+    "archive": "Closure\\Iteration-History\\v033\\Records\\Proof-timings.json",
+    "sha256": "53be04918f488a1dd0038f23b093400b23a0b9f6e9df33d358783c4ac5f2b201"
+  },
+  {
+    "source": "v033\\Records\\Render-report.json",
+    "archive": "Closure\\Iteration-History\\v033\\Records\\Render-report.json",
+    "sha256": "cc7f24117147a9ba5071bfa74c702d459d1708ac9e8f7c455e55b1fa02c66652"
+  },
+  {
+    "source": "v033\\Records\\timings_0241.json",
+    "archive": "Closure\\Iteration-History\\v033\\Records\\timings_0241.json",
+    "sha256": "9e7d09ce8e7aa7b9473f0e7d4f84e39148c7e08a94c8a4ee3a2dd73a1baa1a61"
+  },
+  {
+    "source": "v033\\Scripts\\render-chunk.py",
+    "archive": "Closure\\Iteration-History\\v033\\Scripts\\render-chunk.py",
+    "sha256": "3031d597e6677f53380d8f82b24093fb465d5b2c7b270161c72de76b463880a1"
+  },
+  {
+    "source": "v033\\Scripts\\render-revised-ending.py",
+    "archive": "Closure\\Iteration-History\\v033\\Scripts\\render-revised-ending.py",
+    "sha256": "7e855ca322bca20e85e6208528d8d26152001be91616d023dec4599538c27e20"
+  },
+  {
+    "source": "v033\\Scripts\\smooth-drone-exit.py",
+    "archive": "Closure\\Iteration-History\\v033\\Scripts\\smooth-drone-exit.py",
+    "sha256": "f181213f4d9de92417cd86cb2fda627a2cdd849fc3f96cc1db8d15fb3a9d4fee"
+  },
+  {
+    "source": "v033\\Scripts\\verify-delivery.py",
+    "archive": "Closure\\Iteration-History\\v033\\Scripts\\verify-delivery.py",
+    "sha256": "285e8b336c3599801a61baba94093a1eadc1446ca0c58eef23a2cf0c7d12308c"
+  },
+  {
+    "source": "v034\\Records\\Spatial-labels.json",
+    "archive": "Closure\\Iteration-History\\v034\\Records\\Spatial-labels.json",
+    "sha256": "9851164a2a516b4f6d164e309ba1feddaabc8eced9633527ce483b96d4ec0eb6"
+  },
+  {
+    "source": "v034\\Records\\Still-timings.json",
+    "archive": "Closure\\Iteration-History\\v034\\Records\\Still-timings.json",
+    "sha256": "a3daa69790109171b0ab481f84c86795207c286dca31d4855d149ce6e6c5cd4d"
+  },
+  {
+    "source": "v034\\Scripts\\spatial-labels.py",
+    "archive": "Closure\\Iteration-History\\v034\\Scripts\\spatial-labels.py",
+    "sha256": "32724e3eb9855e412b6367b22b1f95bad9715914375148d814fee0a431139f3e"
+  },
+  {
+    "source": "v035\\Records\\Render-progress.json",
+    "archive": "Closure\\Iteration-History\\v035\\Records\\Render-progress.json",
+    "sha256": "ba34cf7974b486cbe8c7e70ad5eed8482495822ba6a862f24a0b138c60117f89"
+  },
+  {
+    "source": "v035\\Records\\Render-report.json",
+    "archive": "Closure\\Iteration-History\\v035\\Records\\Render-report.json",
+    "sha256": "a701b5bb4b264dfb10ca956a990acbe0ccd8e1d677ab59d69db94240cfe0dbee"
+  },
+  {
+    "source": "v035\\Records\\Revision.json",
+    "archive": "Closure\\Iteration-History\\v035\\Records\\Revision.json",
+    "sha256": "8f44e54fbcc63575e1d365453023ffc7f8b24b26ec563868f91fb4c2497b7179"
+  },
+  {
+    "source": "v035\\Records\\timings_0001.json",
+    "archive": "Closure\\Iteration-History\\v035\\Records\\timings_0001.json",
+    "sha256": "cb0d8a62f7f9b6243dc0b16931ae605340b052f48bacdbb1b133cb73125618a1"
+  },
+  {
+    "source": "v035\\Records\\timings_0121.json",
+    "archive": "Closure\\Iteration-History\\v035\\Records\\timings_0121.json",
+    "sha256": "50a0255ee3fa59d8c0b1ecee5204e8e65b82659164113bd243b778be0590aa42"
+  },
+  {
+    "source": "v035\\Records\\timings_0241.json",
+    "archive": "Closure\\Iteration-History\\v035\\Records\\timings_0241.json",
+    "sha256": "73765413fb0ba1bf0a47a77f4fcef7e605c86758e89dc8f9fe79851802e4a44d"
+  },
+  {
+    "source": "v035\\Records\\timings_0337.json",
+    "archive": "Closure\\Iteration-History\\v035\\Records\\timings_0337.json",
+    "sha256": "56bcefa7d2667e836f7ce97a30855d80b61a1be9fcfa6dcc81a3260d73abf80e"
+  },
+  {
+    "source": "v035\\Scripts\\render-chunk.py",
+    "archive": "Closure\\Iteration-History\\v035\\Scripts\\render-chunk.py",
+    "sha256": "1bd9daa0425b9d66af3fb7fb5185c0e72b5d096047aeacd18505ece8e362d9a3"
+  },
+  {
+    "source": "v035\\Scripts\\render-review.py",
+    "archive": "Closure\\Iteration-History\\v035\\Scripts\\render-review.py",
+    "sha256": "57d25195ffd4eee1fc5a23946c9d28db8635d7ab487c4d3b4d51d577200af442"
+  },
+  {
+    "source": "v036\\Records\\Render-progress.json",
+    "archive": "Closure\\Iteration-History\\v036\\Records\\Render-progress.json",
+    "sha256": "fa1e4b9e41b8d060fc51aa37850573e6d217ae3c65ea75926c3c4276d90b4d43"
+  },
+  {
+    "source": "v036\\Records\\Render-report.json",
+    "archive": "Closure\\Iteration-History\\v036\\Records\\Render-report.json",
+    "sha256": "d956c81380fdb8298572f7d7db24f5875a7d62dded103dc499e55c89100486b3"
+  },
+  {
+    "source": "v036\\Records\\Revision.json",
+    "archive": "Closure\\Iteration-History\\v036\\Records\\Revision.json",
+    "sha256": "0712bc4e60279bdc86ad66e2327af2f6985f6dc02d891172f6d72e033af6e86d"
+  },
+  {
+    "source": "v036\\Records\\timings_0001.json",
+    "archive": "Closure\\Iteration-History\\v036\\Records\\timings_0001.json",
+    "sha256": "d4e4089d0e0101a689ca3f12991b4ca3ce2fd3cdcd12233c00fd8669eb0ea0a4"
+  },
+  {
+    "source": "v036\\Records\\timings_0121.json",
+    "archive": "Closure\\Iteration-History\\v036\\Records\\timings_0121.json",
+    "sha256": "50a0255ee3fa59d8c0b1ecee5204e8e65b82659164113bd243b778be0590aa42"
+  },
+  {
+    "source": "v036\\Records\\timings_0241.json",
+    "archive": "Closure\\Iteration-History\\v036\\Records\\timings_0241.json",
+    "sha256": "73765413fb0ba1bf0a47a77f4fcef7e605c86758e89dc8f9fe79851802e4a44d"
+  },
+  {
+    "source": "v036\\Records\\timings_0337.json",
+    "archive": "Closure\\Iteration-History\\v036\\Records\\timings_0337.json",
+    "sha256": "56bcefa7d2667e836f7ce97a30855d80b61a1be9fcfa6dcc81a3260d73abf80e"
+  },
+  {
+    "source": "v036\\Scripts\\render-chunk.py",
+    "archive": "Closure\\Iteration-History\\v036\\Scripts\\render-chunk.py",
+    "sha256": "cbe37f968be500f9138d2a245bd22d4668fa0d139edbb94a8849d6a17b9b004c"
+  },
+  {
+    "source": "v036\\Scripts\\render-review.py",
+    "archive": "Closure\\Iteration-History\\v036\\Scripts\\render-review.py",
+    "sha256": "183d6b77d3c3f03f6bd729b222d98cb3dd6f4e32ca1bdc33a7aea468af2416fa"
+  }
+]

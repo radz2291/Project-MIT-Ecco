@@ -1,0 +1,128 @@
+SECTION 3 — THE EARTH REVEALED
+CLOSURE / APPROVED v036
+20 October 2026
+Repository base before closure-record commit: 0c77260c834df90676fda9e248764ca5fd555bfc.
+Destination: existing origin/main in radz2291/Project-MIT-Ecco.
+
+DECISION AND SCOPE
+Radzi approved the final v036 video in this conversation: "Good, this project is approved."
+This closes the Section 3 previs assignment. It does not assert client acceptance,
+engineering certification or acceptance of the complete assembled film.
+Current instruction: prepare closure and recommend which iterations to retain/remove.
+No deletion has been performed. Sections 1 and 2 and canonical shared assets are outside
+this cleanup recommendation. This was a direct owner-authorized legacy previs task;
+no active production ticket ID has been invented or updated.
+
+APPROVED DELIVERABLES — RELATIVE TO THE SECTION 3 FOLDER
+Scene: v036/Scenes/S03_second-last-nominal-label_v036.blend
+Video: v036/Previews/S03_v036_final_24fps.mp4
+Render record: v036/Records/Render-report.json
+Final label still: v036/Previews/S03_v036_nominal-label_frame0060.png
+The approved native scene is open in Blender at frame 60.
+Hashes of retained deliverables are in Closure/Retained-file-manifest.json.
+
+FINAL PRESENTATION
+18 seconds, 432 frames, 24 fps, EEVEE, 960 x 540 at 100%, 4 samples.
+One continuous camera: medium tracking circle establishment; lower-opening entry;
+axial geometry inspection and side-composed tight feature; smooth wide drone exit;
+recorded acoustic-amplitude reveal. The opening begins with some circles established.
+Only one spatial NOMINAL REFERENCE label is used, without a numeric measurement.
+It is beside nominal station 01 at world Z=-1 m, second-last in drawing order,
+visible on frames 49-80. Feature labels occupy scene space and face the moving view.
+The illustrative-data disclaimer remains a quiet screen footer.
+
+NARRATIVE SELF-REVIEW
+1. Expected size: reference circles draw progressively during the opening tracking move.
+2. Unexpected geometry: measured irregular profiles contrast with the nominal guides.
+3. Geometry through depth: actual radius drives nominal/enlarged/tight interpretation;
+   the restrained tight feature is made visible through composition rather than exaggeration.
+4. Separate acoustic information: fixed yellow/brown image data is revealed organically
+   across the reconstructed wall, distinct from the geometry classification.
+The final direction includes subtle geometry shading requested after the earlier unlit
+amplitude test; amplitude does not add geometric displacement or animated folds.
+
+RECOMMENDED RETENTION — SIX MILESTONES OUT OF 36
+v009 — Approved restrained geometry, cross-section comparisons and engineering record.
+v014 — Approved generated amplitude treatment, unchanged supplied image copy,
+       seamless derivative, mapping/reveal records and editable seam verification.
+v023 — Computed organic radius surface and continuous geometry-derived colour;
+       retain its NPZ computation data and exact assumptions.
+v028 — Full irregular surrounding ground and stylized scientific HUD environment.
+v033 — Smooth continuous camera/drone ending before the spatial-label revisions.
+v036 — Final approved full sequence; default scene and video for future use.
+Keep Closure and START-HERE.txt as well.
+Keep each retained version's Scenes, Data, previews, scripts and records, including
+the nested Geometry-Readability-Review package inside v009.
+
+RECOMMENDED REMOVAL — AFTER OWNER REVIEW
+v001-v008; v010-v013; v015-v022; v024-v027; v029-v032; v034-v035.
+These are superseded tests and intermediate adjustments, not dependencies of the
+retained native scenes after the dependency localization completed during closure.
+The explicit version-by-version list is Closure/KEEP-REMOVE.csv.
+Lightweight reports/scripts from all iterations were copied to
+Closure/Iteration-History before recommending removal: 488 files, about 2.75 MB.
+Historical scripts describe how earlier versions were constructed; some deliberately
+refer to superseded inputs. They are provenance, not a standalone rebuild pipeline.
+The final saved native scene and final renderer do not require those old version folders.
+
+OPTIONAL CACHE CLEANUP
+Work directories in the retained milestones are regenerable render caches, not
+required by their saved scenes or delivered MP4s. Exact paths and sizes are listed
+in Closure/Optional-cache-removal.json. Removing them also removes incremental
+render-resume data; a later rerender can generate it again from the native scene.
+Delete only the explicitly listed Section 3 paths, not every project folder named Work.
+
+STORAGE ESTIMATE
+30 superseded version folders: 6,341,187,031 logical bytes, about 6.34 GB.
+Optional retained-version Work caches: 662,323,066 logical bytes, about 0.66 GB.
+Combined recommendation: about 7.00 GB logical file size before filesystem effects.
+Actual recovered space may be lower: earlier caches include hard links and NTFS
+compression. These estimates are inventory sizes, not a promise of free disk space.
+
+DEPENDENCY REPAIR / VERIFICATION
+The saved scenes had packed image bytes but some fallback image paths still pointed
+at v018, including one invalid legacy path. Those references have been localized.
+For each of the six retained milestones, the packed image bytes were extracted into
+that version's Data folder without pixel conversion; relative paths now stay within
+the same version. Images remain packed as well. All seven retained native scenes
+(including the v014 seam proof) were saved and reopened successfully.
+No external linked Blender libraries or non-builtin font dependencies were found.
+Mesh vertex-coordinate hashes match before/after localization in every retained scene.
+The final frame 60 rerender is pixel-identical to its pre-localization rendered PNG.
+Final video bytes were not altered by this packaging-only repair.
+Detailed evidence: Localized-dependency-verification.json and
+Final-visual-verification.json. Retained-scene-dependencies.json is the PRE-repair audit,
+so its old missing fallback paths are historical findings, not current unresolved assets.
+Localization.log also contains warnings emitted while opening the old packed-image
+paths; the post-save reopen checks above passed.
+
+FINAL RENDER TIMING AND MEDIA CHECK
+The last revision rendered opening frames 1-120 and reused unchanged frames 121-432.
+New frames averaged 0.9394 seconds each. Final revision wall time: 125.204 seconds
+(2 minutes 5 seconds), including video assembly/verification.
+Across all delivered frames, recorded render mean is 1.1003 seconds/frame and maximum
+2.8116 seconds/frame; the latter statistics include the earlier renders of reused footage.
+All 432 MP4 frames decoded successfully. All recorded frames are below the 5-second cap.
+This is the approved fast-render configuration, not a newly commissioned higher-resolution
+or more expensive final-quality render.
+
+ENGINEERING / CONTINUITY LIMITS RETAINED
+Geometry, classification and the tight region are illustrative, not field data.
+v023 introduced disclosed local radius relief below 1.50 mm with evaluated minimum
+about R154.035 mm; v009 remains the earlier restrained baseline, not identical vertices.
+No unobstructed BHA passage through the tight region is depicted or certified.
+Yellow/brown amplitude is an illustrative recorded-data visual, not an ultrasonic
+forward simulation, calibrated field log or geometry-derived acoustic measurement.
+Section 2 and Section 3 reconstruction surfaces differ; the earlier continuity record
+is preserved in v009. Section 2 was not modified during this task.
+
+BACKUP / HANDOFF
+Native .blend, video, textures and caches remain on this computer. No off-machine
+backup of those heavy assets is verified. Preserve the retained folders together.
+Closure reports/manifests and the final render scripts are eligible for the project's
+existing text-only Git synchronization; a sync receipt records the actual outcome.
+Radzi retains ownership of film assembly, sound, final timeline and client communication.
+
+NEXT ACTION
+Review the six-version retention recommendation, then remove the listed superseded
+folders if desired. Nothing else is needed to complete the approved Section 3 shot.

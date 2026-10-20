@@ -1,0 +1,194 @@
+[
+  {
+    "version": "v014",
+    "scene": "v014\\Scenes\\S03_seam-verification_v014.blend",
+    "libraries": [],
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "",
+        "packed": true,
+        "packed_sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "resolved": "",
+        "exists": false
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "packed": true,
+        "packed_sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v014\\Scenes\\..\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "exists": true
+      },
+      {
+        "name": "S03 v014 narrow-band seamless amplitude",
+        "path": "//..\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "packed": true,
+        "packed_sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v014\\Scenes\\..\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "exists": true
+      }
+    ],
+    "fonts": []
+  },
+  {
+    "version": "v014",
+    "scene": "v014\\Scenes\\S03_v014.blend",
+    "libraries": [],
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "",
+        "packed": true,
+        "packed_sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "resolved": "",
+        "exists": false
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "packed": true,
+        "packed_sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v014\\Scenes\\..\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "exists": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "packed": true,
+        "packed_sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v014\\Scenes\\..\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "exists": true
+      }
+    ],
+    "fonts": []
+  },
+  {
+    "version": "v023",
+    "scene": "v023\\Scenes\\S03_computed-organic_v023.blend",
+    "libraries": [],
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\..\\v018\\Data\\Data",
+        "packed": true,
+        "packed_sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v023\\Scenes\\..\\..\\v018\\Data\\Data",
+        "exists": false
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\..\\v018\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "packed": true,
+        "packed_sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v023\\Scenes\\..\\..\\v018\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "exists": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\..\\v018\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "packed": true,
+        "packed_sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v023\\Scenes\\..\\..\\v018\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "exists": true
+      }
+    ],
+    "fonts": []
+  },
+  {
+    "version": "v028",
+    "scene": "v028\\Scenes\\S03_full-irregular-ground_v028.blend",
+    "libraries": [],
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\..\\v018\\Data\\Data",
+        "packed": true,
+        "packed_sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v028\\Scenes\\..\\..\\v018\\Data\\Data",
+        "exists": false
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\..\\v018\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "packed": true,
+        "packed_sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v028\\Scenes\\..\\..\\v018\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "exists": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\..\\v018\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "packed": true,
+        "packed_sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v028\\Scenes\\..\\..\\v018\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "exists": true
+      }
+    ],
+    "fonts": []
+  },
+  {
+    "version": "v033",
+    "scene": "v033\\Scenes\\S03_smooth-drone-ending_v033.blend",
+    "libraries": [],
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\..\\v018\\Data\\Data",
+        "packed": true,
+        "packed_sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v033\\Scenes\\..\\..\\v018\\Data\\Data",
+        "exists": false
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\..\\v018\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "packed": true,
+        "packed_sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v033\\Scenes\\..\\..\\v018\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "exists": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\..\\v018\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "packed": true,
+        "packed_sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v033\\Scenes\\..\\..\\v018\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "exists": true
+      }
+    ],
+    "fonts": []
+  },
+  {
+    "version": "v036",
+    "scene": "v036\\Scenes\\S03_second-last-nominal-label_v036.blend",
+    "libraries": [],
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\..\\v018\\Data\\Data",
+        "packed": true,
+        "packed_sha256": "58acba42cacee5a60590bd469d228e71568df947aff3bb16296c7d9d54a99693",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v036\\Scenes\\..\\..\\v018\\Data\\Data",
+        "exists": false
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\..\\v018\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "packed": true,
+        "packed_sha256": "58377e10ca4605833760abab5ced810d08b5c40c791058300944ba21b80b1c6e",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v036\\Scenes\\..\\..\\v018\\Data\\S03_acoustic-amplitude_previous_v007.png",
+        "exists": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\..\\v018\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "packed": true,
+        "packed_sha256": "8f392a7407ba14f77ad46b393309d1e1cc2d404bacc92707f580fa6d8f99fbc7",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v036\\Scenes\\..\\..\\v018\\Data\\S03_acoustic-amplitude_generated-seamless_v014.png",
+        "exists": true
+      }
+    ],
+    "fonts": []
+  }
+]
