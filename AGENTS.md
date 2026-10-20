@@ -12,6 +12,14 @@ Read [Production workspace](04-Production/README.md) for the current cycle, life
 - Shots reference canonical shared masters with stable controls and documented versions. Record consumers; shared revisions require affected-shot checks/rerenders. Preserve supplied originals and useful completed work.
 - Read live Work for current tickets and releases. Planning proposes downstream work; only owner-authorized tickets are created or executed. A directing ticket may release approved components/shot briefs progressively without finishing every brief first.
 
+## Scene establishment and clear communication — 20 October 2026
+
+For new scene direction, major scene revisions or scattered creative feedback, start with [Rolladice Scene Establishment](03-Context/00_Skill/rolladice-scene-establishment/SKILL.md). It coordinates AI Director and the existing specialist skills through meaning, truth, representation, look, camera/motion and focused proof before a full build. Recover accepted decisions rather than restarting them.
+
+Explain human-facing choices in language an interested 12-year-old can follow. Keep precise technical values and constraints available after the simple explanation. Do not talk down to the user.
+
+This is a decision-order and communication layer, not a replacement for the owner-authorized production cycle, live tickets or the single Scene Direction Contract. It does not require a separate editable 3D storyboard or extra agents. Authorized cheap Blender proofs remain allowed; full builds, integration and finishing still require their actual scoped release. Read-only reviews remain read-only.
+
 ## Execution and source authority
 
 Read the live ticket and fresh handoff before execution; verify dependencies and current pinned standards. Radzi's instruction to execute a specific ticket authorizes that bounded work. Follow the production run lifecycle; only Radzi accepts reviewed results.

@@ -4,9 +4,22 @@ This folder contains reusable workflow instructions and related assets, not the 
 
 | Skill | Use it for | Does not own |
 |---|---|---|
+| [rolladice-scene-establishment](rolladice-scene-establishment/SKILL.md) | Core entry point for establishing, continuing, reviewing or revising scenes: meaning, truth, representation, look, motion and targeted proof; clarity-first communication | New technical authority, automatic production release, a fixed style or a competing scene contract |
 | [rolladice-scene-director](rolladice-scene-director/SKILL.md) | Making creative scene, camera, lighting and previs decisions **before** production; uses Rolladice taste docs | MIT approval, verified CAD, finished Blender animation |
 | [blender-animation-reference](blender-animation-reference/SKILL.md) | Inspecting and exporting **existing** Blender animation to motion-reference assets and AI-model handoff | Deciding cinematic taste from scratch |
 | [mechanism-visual-direction-loop](mechanism-visual-direction-loop/SKILL.md) | Reviewing real visual mechanisms; diagnosing cause-and-response failures; directing bounded iterations with an execution agent | Engineering certification, universal style presets, full motion construction, human approvals |
+
+## Scene establishment — core workflow
+
+Start with [Rolladice Scene Establishment](rolladice-scene-establishment/SKILL.md) for a new scene or a scattered scene-development discussion. It coordinates the existing AI Director, Scene Director and specialist methods rather than replacing them.
+
+**Six stages:** Narrative Intent → Truth & Mechanism → Visual Representation → Art Direction → Camera & Motion Architecture → Targeted Proof & Scene Lock.
+
+**Three decisions:** Meaning & Truth → Creative Direction → Production Release. These map into existing project gates; they are not additional approval paperwork. Use one existing Scene Direction Contract, recover valid prior decisions, and test only the uncertain part before full production. Authorized small Blender tests remain allowed; no separate editable 3D storyboard is imposed.
+
+Human-facing explanations must be understandable to an interested 12-year-old, with exact technical details preserved afterward when needed. See [communication standard](rolladice-scene-establishment/references/clarity-first-communication.md) and [project/skill routing](rolladice-scene-establishment/references/skill-routing.md).
+
+The v1.0.0 package is authored for use and includes calibration scenarios; it is not automatically installed or claimed to be production-validated across projects.
 
 ## Reusable creative intelligence toolkit
 
