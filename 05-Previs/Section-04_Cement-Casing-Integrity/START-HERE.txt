@@ -1,0 +1,36 @@
+CURRENT: Cinematic-Previs_v005 — owner-authorized full18-second previs.
+See Cinematic-Previs_v005/Records/Review-report.txt and Previews/S04_cinematic-previs_v005.mp4.
+Conceptual reveal v004 approved; final materials/geometry treatment/finishing not approved.
+Prior proofs retained below as history.
+
+SECTION 4 — CEMENT & CASING INTEGRITY
+Stage 6 focused transition test / current candidate v002
+
+Owner-approved scope: a six-second camera test from the channel OUTSIDE steel
+to the shallow wear INSIDE steel. This is the Section 4 local11–17s excerpt,
+not the complete18-second sequence. Playback remains24fps.
+
+The owner requests approximately ONE SECOND OF RENDER TIME PER FRAME.
+Use playblast settings; preserve the approved plan and actual source geometry.
+
+Deliverables under v002 (v001 preserved):
+  Scenes/S04_transition-test_v002.blend
+  Previews/S04_transition-test_v002.mp4
+  Previews/S04_outside-channel_v002.png
+  Previews/S04_inner-wear_v002.png
+  Records/Review-report.txt and delivery-verification.json
+
+Scripts/ contains the editable build, rendering and verification scripts.
+Work/ contains generated frames; Records/ retains costs and failed checks.
+
+The single scene-establishment contract remains:
+  ../../04-Production/Shots/S04/S04-A/direction.md
+S04-B/C/D link to that shared stage record; no competing contract is created.
+
+Scene links point relatively to existing canonical Shared/Assets masters.
+Section1/2/3 previs files are not dependencies and have not been modified.
+The source cases and display graphics are illustrative, not field measurements.
+
+Review this test before releasing full Section4 production.
+
+Gap appearance is unresolved and deferred by owner. v002 removes the solid blue placeholder; this is not an approved final gap look.

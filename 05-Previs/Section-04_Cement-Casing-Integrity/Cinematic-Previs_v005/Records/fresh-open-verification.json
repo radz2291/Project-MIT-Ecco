@@ -1,0 +1,920 @@
+{
+  "fresh_open": true,
+  "frames": 432,
+  "fps": 24,
+  "relative_libraries": [
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true,
+      "relative": true
+    }
+  ],
+  "one_ecco": true,
+  "canonical_steel_mesh_unchanged": true,
+  "fluid_is_closed_3d_volume": true,
+  "fluid_outside_steel_inside_cement": true,
+  "fluid_radius_bounds": [
+    0.16988249181811163,
+    0.22223000941489343
+  ],
+  "sources_unchanged": true,
+  "native_packet_checks": [
+    {
+      "event_id": "s04-v005-1",
+      "checks": [
+        {
+          "name": "complete strict event/source metadata",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "actual native cap/wall/hash/offset re-sampling",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "exactly three SEND objects",
+          "passed": true,
+          "detail": [
+            "s04-v005-1_ACOUSTICS_SEND_03",
+            "s04-v005-1_ACOUSTICS_SEND_02",
+            "s04-v005-1_ACOUSTICS_SEND_01"
+          ]
+        },
+        {
+          "name": "SEND unique front 1",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "SEND unique front 2",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "SEND unique front 3",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "exactly three RETURN objects",
+          "passed": true,
+          "detail": [
+            "s04-v005-1_ACOUSTICS_RETURN_03",
+            "s04-v005-1_ACOUSTICS_RETURN_02",
+            "s04-v005-1_ACOUSTICS_RETURN_01"
+          ]
+        },
+        {
+          "name": "RETURN unique front 1",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "RETURN unique front 2",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "RETURN unique front 3",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "SEND front 1 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              105,
+              106,
+              107,
+              108,
+              109,
+              110,
+              111,
+              112,
+              113
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "SEND front 1 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "SEND front 1 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "SEND front 1 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "SEND front 2 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              106,
+              107,
+              108,
+              109,
+              110,
+              111,
+              112,
+              113,
+              114,
+              115
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "SEND front 2 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "SEND front 2 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "SEND front 2 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "SEND front 3 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              108,
+              109,
+              110,
+              111,
+              112,
+              113,
+              114,
+              115,
+              116,
+              117
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "SEND front 3 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "SEND front 3 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "SEND front 3 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 1 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              114,
+              115,
+              116,
+              117,
+              118,
+              119,
+              120,
+              121,
+              122,
+              123
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "RETURN front 1 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "RETURN front 1 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 1 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 2 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              116,
+              117,
+              118,
+              119,
+              120,
+              121,
+              122,
+              123,
+              124,
+              125
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "RETURN front 2 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "RETURN front 2 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 2 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 3 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              118,
+              119,
+              120,
+              121,
+              122,
+              123,
+              124,
+              125,
+              126
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "RETURN front 3 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "RETURN front 3 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 3 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "reference held through final return packet",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "actual native cap held through final return packet",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "sampled wall fixed through packet",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "all finite arc envelopes within first native wall",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "all finite arc envelopes outside native cap exit plane",
+          "passed": true,
+          "detail": 0.000110774883069098
+        }
+      ],
+      "all_pass": true,
+      "per_arc": [
+        {
+          "role": "SEND",
+          "arc_index": 1,
+          "visible_frames": [
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        },
+        {
+          "role": "SEND",
+          "arc_index": 2,
+          "visible_frames": [
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        },
+        {
+          "role": "SEND",
+          "arc_index": 3,
+          "visible_frames": [
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        },
+        {
+          "role": "RETURN",
+          "arc_index": 1,
+          "visible_frames": [
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        },
+        {
+          "role": "RETURN",
+          "arc_index": 2,
+          "visible_frames": [
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        },
+        {
+          "role": "RETURN",
+          "arc_index": 3,
+          "visible_frames": [
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        }
+      ],
+      "max_envelope_penetration_m": 0,
+      "min_cap_margin_m": 0.000110774883069098,
+      "scope": "saved-frame native geometric/phase checks; not calibrated acoustics or human acceptance"
+    },
+    {
+      "event_id": "s04-v005-2",
+      "checks": [
+        {
+          "name": "complete strict event/source metadata",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "actual native cap/wall/hash/offset re-sampling",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "exactly three SEND objects",
+          "passed": true,
+          "detail": [
+            "s04-v005-2_ACOUSTICS_SEND_03",
+            "s04-v005-2_ACOUSTICS_SEND_02",
+            "s04-v005-2_ACOUSTICS_SEND_01"
+          ]
+        },
+        {
+          "name": "SEND unique front 1",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "SEND unique front 2",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "SEND unique front 3",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "exactly three RETURN objects",
+          "passed": true,
+          "detail": [
+            "s04-v005-2_ACOUSTICS_RETURN_03",
+            "s04-v005-2_ACOUSTICS_RETURN_02",
+            "s04-v005-2_ACOUSTICS_RETURN_01"
+          ]
+        },
+        {
+          "name": "RETURN unique front 1",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "RETURN unique front 2",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "RETURN unique front 3",
+          "passed": true,
+          "detail": null
+        },
+        {
+          "name": "SEND front 1 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              165,
+              166,
+              167,
+              168,
+              169,
+              170,
+              171,
+              172,
+              173
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "SEND front 1 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "SEND front 1 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "SEND front 1 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "SEND front 2 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              166,
+              167,
+              168,
+              169,
+              170,
+              171,
+              172,
+              173,
+              174,
+              175
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "SEND front 2 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "SEND front 2 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "SEND front 2 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "SEND front 3 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              168,
+              169,
+              170,
+              171,
+              172,
+              173,
+              174,
+              175,
+              176,
+              177
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "SEND front 3 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "SEND front 3 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "SEND front 3 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 1 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              174,
+              175,
+              176,
+              177,
+              178,
+              179,
+              180,
+              181,
+              182,
+              183
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "RETURN front 1 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "RETURN front 1 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 1 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 2 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              176,
+              177,
+              178,
+              179,
+              180,
+              181,
+              182,
+              183,
+              184,
+              185
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "RETURN front 2 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "RETURN front 2 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 2 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 3 has actual nondegenerate visible progression",
+          "passed": true,
+          "detail": {
+            "visible_frames": [
+              178,
+              179,
+              180,
+              181,
+              182,
+              183,
+              184,
+              185,
+              186
+            ],
+            "max_position_error_m": 0,
+            "max_visible_world_error_m": 0,
+            "wrong_visibility_frames": [],
+            "active_scale_max": 1.0
+          }
+        },
+        {
+          "name": "RETURN front 3 phase visibility matches declared per-front interval",
+          "passed": true,
+          "detail": []
+        },
+        {
+          "name": "RETURN front 3 sampled source/contact/return positions match phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "RETURN front 3 visible evaluated world position matches phase",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "reference held through final return packet",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "actual native cap held through final return packet",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "sampled wall fixed through packet",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "all finite arc envelopes within first native wall",
+          "passed": true,
+          "detail": 0
+        },
+        {
+          "name": "all finite arc envelopes outside native cap exit plane",
+          "passed": true,
+          "detail": 0.0001108200813177973
+        }
+      ],
+      "all_pass": true,
+      "per_arc": [
+        {
+          "role": "SEND",
+          "arc_index": 1,
+          "visible_frames": [
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        },
+        {
+          "role": "SEND",
+          "arc_index": 2,
+          "visible_frames": [
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        },
+        {
+          "role": "SEND",
+          "arc_index": 3,
+          "visible_frames": [
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        },
+        {
+          "role": "RETURN",
+          "arc_index": 1,
+          "visible_frames": [
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        },
+        {
+          "role": "RETURN",
+          "arc_index": 2,
+          "visible_frames": [
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        },
+        {
+          "role": "RETURN",
+          "arc_index": 3,
+          "visible_frames": [
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186
+          ],
+          "max_position_error_m": 0,
+          "max_visible_world_error_m": 0,
+          "wrong_visibility_frames": [],
+          "active_scale_max": 1.0
+        }
+      ],
+      "max_envelope_penetration_m": 0,
+      "min_cap_margin_m": 0.0001108200813177973,
+      "scope": "saved-frame native geometric/phase checks; not calibrated acoustics or human acceptance"
+    }
+  ],
+  "one_camera": true,
+  "maximum_camera_angle_change_degrees_per_frame": 4.8932929647918835,
+  "scope": "Automated geometry/dependency/packet checks, not engineering or audience approval"
+}

@@ -1,5 +1,7 @@
 # S04-B — What Lies Behind Steel
 
+> Scene-establishment continuation, 20 October 2026: Stages 1–5 are owner-agreed. The shared stage record and Stage 6 integration record are in [the existing S04-A contract](../S04-A/direction.md#scene-establishment-continuation--20-october-2026). The v004 conceptual reveal is owner-approved and complete cinematic previs v005 is owner-released for review. Final finishing remains unreleased. The T43 brief below remains the earlier input.
+
 Scene Direction Contract v0.2 · shot version v001 · T43 · 18 October 2026
 
 ## State and authority

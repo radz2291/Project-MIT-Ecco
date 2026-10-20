@@ -1,0 +1,29 @@
+{
+  "duration_seconds": 18,
+  "frames": 432,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "samples": 4,
+  "renderer": "EEVEE/Vulkan",
+  "mean_seconds_per_frame": 0.4904267458331796,
+  "maximum_seconds_per_frame": 1.3296518000133801,
+  "total_render_seconds": 211.8643541999336,
+  "encoding_seconds": 8.541693200008012,
+  "all_frames_decoded": true,
+  "canonical_sources_unchanged": true,
+  "video_sha256": "79a253d471716a032b14ecda41df4ecde27f7ff2acc32a7e6a4a8f146a58faea",
+  "native_sha256": "b12553762cb3cc3fb50b93cd3efd6377f6e070ea548c7e33e610ff4eadebb69e",
+  "status": "Owner-authorized complete cinematic previs, not final finishing or engineering acceptance",
+  "limits": [
+    "No narration sync or S03/S05 film assembly",
+    "Illustrative response/channel geometry, no direct photographed-fluid claim",
+    "Simple preview shading and visibility-mask grain",
+    "Machine/file startup excluded; empty-driver-cache timing unproven",
+    "Media local, no off-machine backup verified"
+  ],
+  "superseded_full_batch_render_seconds": 208.97541369966348,
+  "both_full_batches_render_seconds": 420.83976789959706
+}

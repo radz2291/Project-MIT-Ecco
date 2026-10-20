@@ -1,0 +1,15 @@
+{
+  "channel_outside_steel": true,
+  "channel_inside_cement": true,
+  "radius_bounds": [
+    0.16988249181811163,
+    0.22223000941489343
+  ],
+  "angular_bounds": [
+    0.30499998272914774,
+    0.7876661177238331
+  ],
+  "fixed_fluid_geometry": true,
+  "canonical_steel_unchanged": true,
+  "illustrative_derivative": true
+}

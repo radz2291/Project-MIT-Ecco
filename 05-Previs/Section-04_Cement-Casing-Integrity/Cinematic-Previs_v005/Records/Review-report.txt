@@ -1,0 +1,99 @@
+SECTION 4 — COMPLETE CINEMATIC PREVIS v005
+Stage 6 integration / owner review candidate / 20 October 2026
+
+The complete scene tests the journey from ECCO entering existing steel casing,
+through the ultrasonic response comparison, to the outside fluid channel and
+then the separate inside wear. This is an 18-second inexpensive previs, not
+final cinematic finishing. The owner accepted v004's reveal concept and
+explicitly released this integration. Materials and the organic channel
+derivative remain candidates for review.
+
+WHAT TO WATCH
+0–4 s: Later upward pass. The linked ECCO enters casing before the lower bit.
+4–5.6 s: First side-facing sensor event at a supported interval, with a short
+qualitative decay cue. Whole hardware is held during the complete packet.
+5.65–6.5 s: The hardware moves farther uphole to the other backing location.
+6.8–8.8 s: Second native side-sensor packet and longer qualitative response.
+8.8–14 s: The same camera opens outward through the audience's viewing window
+and follows the existing channel. Cement is absent from the cyan-filled sector;
+the steel and its outside radius remain intact. No cement physically dissolves
+and no fluid flows. This is an illustrative interpretation of backing support.
+14–18 s: The camera returns through the viewing access to existing inner wear
+and the registered original-surface comparison, settling gently for reading.
+
+PRESERVED AND CHANGED
+Preserved: actual ECCO 2.400 m master, connected BHA and continuation, canonical
+steel mesh and authored shallow wear, fixed outside steel, formation context,
+layered cutaway concept, one camera and18-second target.
+Changed: source-bound local illustrative cement/channel presentation derivative.
+The channel center and angular width vary smoothly with axial distance, wholly
+within the original0.30–0.80 rad envelope and cement annulus. The fluid is a
+closed3D volume, not a decal or thin planar strip. All canonical masters remain
+unchanged. Previous versions and the current unsaved Blender UI are preserved.
+
+VERIFICATION
+geometry-verification.json: radial and angular bounds of the new channel.
+fresh-open-verification.json: saved native scene reopens; all linked libraries
+resolve relatively; exactly one ECCO; unchanged linked steel; closed channel;
+source hashes unchanged; native pulse/contact/return checks pass for both
+events, including actual cap/receiver hold through trailing returns.
+timings-benchmark.json: nine representative/heavy frames checked before batch.
+timings-render.json and delivery.json: complete actual frame/render/encode costs.
+All432 encoded video frames are decoded during packaging.
+
+VISUAL SELF-REVIEW AND REMAINING LIMITS
+Sampled entry, both sensor arrivals, channel views and final wear view were
+inspected. Initial blocked macro compositions were corrected before the batch.
+The high-angle sensor view keeps real hardware and side sensor identifiable;
+the small acoustic fronts and response cues still need normal-playback human
+readability review. Four-sample visibility masks show grain and some surfaces
+are bright in macro views. These are preview limitations, not final material
+approval. Channel layering and the full outside-to-inside transition must be
+judged in the moving sequence by the owner. No independent non-specialist or
+engineering acceptance has been obtained. No narration sync, S03/S05 edit,
+calibrated acoustic velocity, measured fluid identity, bond strength, wall
+thickness or safe-operation claim is made.
+
+DELIVERABLES
+../Scenes/S04_cinematic-previs_v005.blend
+../Previews/S04_cinematic-previs_v005.mp4
+../Previews/S04_Entry_v005.png
+../Previews/S04_Supported-response_v005.png
+../Previews/S04_Channel-response_v005.png
+../Previews/S04_Organic-channel_v005.png
+../Previews/S04_Inner-wear_v005.png
+
+EDITABLE SOURCES
+../Scripts/integrate.py builds the full candidate.
+../Scripts/base_scene.py preserves the earlier transition setup as a local
+helper; it is not the new scene's timing or camera contract.
+../Scripts/verify.py reopens and checks the saved candidate.
+../Scripts/package.py encodes and decodes the full playblast.
+No auto-run handler is required for playback; keys and drivers are native.
+
+STORAGE AND STOP POINT
+Native scenes, videos, frames and media remain local. No off-machine media
+backup is verified. Full previs release does not authorize final finishing or
+assembly of the film. Return this candidate for owner review at Stage6.
+The one Scene Direction Contract remains04-Production/Shots/S04/S04-A/direction.md.
+
+ENTRY SELF-REVIEW CORRECTION
+Chronological samples from the first full batch exposed a blocked approach
+around3s, before the held sensor shot. The audience window was extended through
+the casing entrance in rock/cement/steel and opens earlier during approach.
+Frames48/72/96 were rechecked before rerendering the whole sequence. Geometry,
+response packets, camera track and timing were preserved. The initial full
+batch remains marked superseded in Work/ and its208.975s render cost is retained
+in Records/timings-superseded-entry-occlusion.json. Delivery records separate
+final-batch cost from the cost of both full batches. Partial still/benchmark,
+process startup and setup time are not included in those full-batch totals.
+
+FINAL MEASURED COST AND REVIEW STATE
+Final delivered batch:211.864s rendering, mean0.4904s/frame, max1.3297s/frame;
+encoding8.542s. All432 frames decode. Both complete batch render calls together
+cost420.840s; benchmark/still renders, setup and process loading are additional.
+Final video SHA25679a253d471716a032b14ecda41df4ecde27f7ff2acc32a7e6a4a8f146a58faea.
+Final native SHA256b12553762cb3cc3fb50b93cd3efd6377f6e070ea548c7e33e610ff4eadebb69e.
+Stage6 status: complete cinematic previs submitted for owner review. This is not
+an automatic scene lock or release of final finishing. Review the response-to-
+channel transition, outside annular layering and final inner-wear transition.
