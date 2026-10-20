@@ -1,0 +1,193 @@
+{
+  "B": {
+    "core_geometry_hashes_unchanged": {
+      "STEEL - capped true source section": "15cce268b3820930b49e464632c8d67dcd57be60a049f9448763c143de8d98e3",
+      "Internal fluid visibility volume": "a9d4cea10c89f0e26bea1c3a6fef563d7ca84f79267eb92455a0ffd4752ab6a2",
+      "Cement either side of organic gap A": "a11a00568ec4e1eac508e870fd5c4fc0387df5e81aca2e13c22e38037aad337d",
+      "Cement either side of organic gap B": "86f26ab91d634fd7fbc1a7b1f99adafc1f6fc4cc0917d4347e604d74c38dcf2d",
+      "Cement uphole continuation": "5f6cc6b9cea42ad4c4a514558d0fd8210f693075efdc5611fac67be76188195c",
+      "Cement downhole supported interval": "75fb6311bfe9deed52b60865e0ef12feb7d147df578108257a185ef8a82341dc",
+      "Stationary organic fluid-filled channel volume": "96d7a1121a166f36ece5288331e740af57338058a136845ca47a2adb93eee1cc"
+    },
+    "send_return_tail_camera_tool_120_frame_hash_unchanged": "8dd110ed3b15fd92b2510bb1ef341ff75810ef87b6873a27c53f255cbe80d705",
+    "source_envelope_max_error": 0.0,
+    "actual_carrier_max_error": 1.4901161193847656e-08,
+    "mask_within_original_envelope": true,
+    "rock_closed_manifold": true,
+    "rock_min_radius_m": 0.22225037881095117,
+    "left_margin_formation_coverage": [
+      {
+        "uv": [
+          0.005,
+          0.03
+        ],
+        "hit": [
+          -0.3987477123737335,
+          0.23709636926651,
+          0.19199687242507935
+        ]
+      },
+      {
+        "uv": [
+          0.005,
+          0.5
+        ],
+        "hit": [
+          -0.3200002908706665,
+          0.23739750683307648,
+          0.19224074482917786
+        ]
+      },
+      {
+        "uv": [
+          0.005,
+          0.97
+        ],
+        "hit": [
+          -0.22826844453811646,
+          0.23774828016757965,
+          0.19252482056617737
+        ]
+      },
+      {
+        "uv": [
+          0.1,
+          0.5
+        ],
+        "hit": [
+          -0.3200002908706665,
+          0.21636055409908295,
+          0.17520534992218018
+        ]
+      }
+    ],
+    "fixed_information_fragments": 96,
+    "relative_libraries": [
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "native_sha256": "9920278ffa885b578493a92e423f8512989ccaf8a1297306965111b6deff328a"
+  },
+  "C": {
+    "core_geometry_hashes_unchanged": {
+      "STEEL - capped true source section": "15cce268b3820930b49e464632c8d67dcd57be60a049f9448763c143de8d98e3",
+      "Internal fluid visibility volume": "52be50f6d2c77be4429b242c1eb49cd13f8a73aae46f3b07aacb5a010e80ebcf",
+      "Cement either side of organic gap A": "a11a00568ec4e1eac508e870fd5c4fc0387df5e81aca2e13c22e38037aad337d",
+      "Cement either side of organic gap B": "86f26ab91d634fd7fbc1a7b1f99adafc1f6fc4cc0917d4347e604d74c38dcf2d",
+      "Cement uphole continuation": "5f6cc6b9cea42ad4c4a514558d0fd8210f693075efdc5611fac67be76188195c",
+      "Cement downhole supported interval": "75fb6311bfe9deed52b60865e0ef12feb7d147df578108257a185ef8a82341dc",
+      "Stationary organic fluid-filled channel volume": "96d7a1121a166f36ece5288331e740af57338058a136845ca47a2adb93eee1cc"
+    },
+    "send_return_tail_camera_tool_120_frame_hash_unchanged": "ab9d6e1c6d39ac650344db62feb8f4805fc9fdf2da3043837a888d65b95ead21",
+    "source_envelope_max_error": 0.0,
+    "actual_carrier_max_error": 2.9802322387695312e-08,
+    "mask_within_original_envelope": true,
+    "rock_closed_manifold": true,
+    "rock_min_radius_m": 0.22225000355652694,
+    "left_margin_formation_coverage": [
+      {
+        "uv": [
+          0.005,
+          0.03
+        ],
+        "hit": [
+          -1.5787456035614014,
+          0.2370963841676712,
+          0.19199684262275696
+        ]
+      },
+      {
+        "uv": [
+          0.005,
+          0.5
+        ],
+        "hit": [
+          -1.4999980926513672,
+          0.23739752173423767,
+          0.19224068522453308
+        ]
+      },
+      {
+        "uv": [
+          0.005,
+          0.97
+        ],
+        "hit": [
+          -1.4082659482955933,
+          0.23774833977222443,
+          0.1925247311592102
+        ]
+      },
+      {
+        "uv": [
+          0.1,
+          0.5
+        ],
+        "hit": [
+          -1.5000003576278687,
+          0.21636050939559937,
+          0.17520534992218018
+        ]
+      }
+    ],
+    "fixed_information_fragments": 96,
+    "relative_libraries": [
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "native_sha256": "0ca0b7acd2da571dbe943258bf7ad3290a36e0eb1757698199ee5a1f73c7bfd2"
+  },
+  "status": "Both amendments verified separately from human comprehension/creative approval. D remains paused. No full integration."
+}
