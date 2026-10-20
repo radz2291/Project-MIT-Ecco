@@ -1,0 +1,38 @@
+{
+  "videos": {
+    "B": {
+      "encode_seconds": 5.317901000002166,
+      "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Communication-Test_v007\\Test-1_Matched-Response\\Previews\\S04_B_test_v007.mp4"
+    },
+    "C": {
+      "encode_seconds": 2.0408272999920882,
+      "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Communication-Test_v007\\Test-1_Matched-Response\\Previews\\S04_C_test_v007.mp4"
+    },
+    "D": {
+      "encode_seconds": 3.332458699995186,
+      "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Communication-Test_v007\\Test-2_Inner-Wear\\Previews\\S04_D_test_v007.mp4"
+    }
+  },
+  "pair": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Communication-Test_v007\\Test-1_Matched-Response\\Previews\\S04_BC_matched-response_v007.mp4",
+  "decode": "Each of four MP4 files decoded completely without error; each source has 120 frames / 24fps / 5 seconds",
+  "render": {
+    "B": {
+      "frames": 120,
+      "render_total_seconds": 57.37448010020307,
+      "mean_seconds": 0.4781206675016923,
+      "max_seconds": 1.589536900020903
+    },
+    "C": {
+      "frames": 120,
+      "render_total_seconds": 74.33878420005203,
+      "mean_seconds": 0.619489868333767,
+      "max_seconds": 2.0897770000156015
+    },
+    "D": {
+      "frames": 120,
+      "render_total_seconds": 75.49593340000138,
+      "mean_seconds": 0.6291327783333448,
+      "max_seconds": 2.114671699993778
+    }
+  }
+}

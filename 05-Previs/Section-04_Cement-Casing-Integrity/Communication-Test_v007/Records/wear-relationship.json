@@ -1,0 +1,23 @@
+{
+  "source_variant": "CASED_STEEL_WEAR_CUTAWAY",
+  "source_authored_maximum_depth_m": 0.004,
+  "nominal": [
+    -1.5,
+    0.15894049406051636,
+    7.450580596923828e-09
+  ],
+  "current": [
+    -1.5,
+    0.16291683912277222,
+    7.450580596923828e-09
+  ],
+  "illustrative_profile_change_m": 0.003976345033665072,
+  "emitter": [
+    -1.5,
+    0.13099998235702515,
+    7.450580596923828e-09
+  ],
+  "outer_radius_fixed": 0.1698625,
+  "geometry_not_deepened": true,
+  "interpretation": "Travel-time distance principle; mud velocity and tool position required; not direct thickness or calibrated field wear"
+}

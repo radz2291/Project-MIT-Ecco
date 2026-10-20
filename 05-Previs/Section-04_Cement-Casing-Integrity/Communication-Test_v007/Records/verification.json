@@ -1,0 +1,136 @@
+{
+  "original_channel": {
+    "closed_manifold": true,
+    "radial_bounds_m": [
+      0.16988249181811163,
+      0.22223000941489343
+    ],
+    "relationship": "Outside fixed steel exterior, within cement annulus; fixed display section is a subset of this source volume"
+  },
+  "B": {
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "static_camera_and_control": true,
+    "retained_steel_vertices_exact_source_subset": true,
+    "no_display_modifiers": true,
+    "outer_radius_m": 0.1698625047984247,
+    "native_sha256": "92a63f8afe0fca99a333e02f4db68db77a4d4a0e4762f20d10720d1ae81cf25c"
+  },
+  "C": {
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "static_camera_and_control": true,
+    "retained_steel_vertices_exact_source_subset": true,
+    "no_display_modifiers": true,
+    "outer_radius_m": 0.1698625047984247,
+    "native_sha256": "d3b67adafc54a18515d71919126832f3b3769ab978628266d959148a44ac7d66"
+  },
+  "D": {
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "static_camera_and_control": true,
+    "retained_steel_vertices_exact_source_subset": true,
+    "no_display_modifiers": true,
+    "outer_radius_m": 0.1698625047984247,
+    "native_sha256": "dea73d537d6e1e412740e1c23b03e7f1e3d0762f3fb0ecffa3b348c0d39ddf57"
+  },
+  "matched_composition": {
+    "max_sensor_relative_camera_difference_m": 2.9802322387695312e-08,
+    "same_lens": 45.0,
+    "actual_contact_visible_both": true,
+    "same_send_contact_receive_seconds": [
+      0.6,
+      1.2,
+      1.8
+    ]
+  },
+  "source_hashes": {
+    "05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v006\\Scenes\\S04_cinematic-previs_v006.blend": "ed755652ab45ed7ae702f2ae5c011e3f4dc134458601a9701a6169821e5f6dbf",
+    "05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba"
+  }
+}

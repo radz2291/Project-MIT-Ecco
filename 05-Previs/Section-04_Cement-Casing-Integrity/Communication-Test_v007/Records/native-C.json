@@ -1,0 +1,175 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Communication-Test_v007\\Test-1_Matched-Response\\Scenes\\S04_C_communication_v007.blend",
+  "event": {
+    "event_id": "s04-v007-C",
+    "provenance": "native_ray_intersection_illustrative_timing",
+    "emitter_ref": "ECCO_SENSOR_REF_01",
+    "receiver_ref": "ECCO_SENSOR_REF_01",
+    "emitter_local_m": [
+      0.7300000190734863,
+      0.10025183111429214,
+      0.0811823308467865
+    ],
+    "reference_world_m": [
+      -1.5,
+      0.10025183111429214,
+      0.0811823308467865
+    ],
+    "reference_pose_world": [
+      [
+        -1.0,
+        1.4782422397274786e-07,
+        -7.458959316863911e-08,
+        -1.5
+      ],
+      [
+        -1.5099580252808664e-07,
+        -0.6293203234672546,
+        0.77714604139328,
+        0.10025183111429214
+      ],
+      [
+        6.794026319312252e-08,
+        0.77714604139328,
+        0.6293203234672546,
+        0.0811823308467865
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "emitter_surface": {
+      "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "object": "TEMP | Imaging port 1 | removable acoustic cap",
+      "version": "ECCO_film_v002",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "face_index": 62,
+      "library_parent": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+      "library_filepath_exposed": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "resolution_policy": "Blender exposed paths normalized to current consumer; strict actual path exists/hash, no basename fallback",
+      "offset_from_reference_m": 0.0019999765208922327,
+      "status": "retained temporary cap face; provisional graphical emission exit, not certified transducer datum"
+    },
+    "emitter_world_m": [
+      -1.5,
+      0.10180610418319702,
+      0.08244095742702484
+    ],
+    "emitter_pose_world": [
+      [
+        -1.0,
+        1.4782422397274786e-07,
+        -7.458959316863911e-08,
+        -1.5
+      ],
+      [
+        -1.5099580252808664e-07,
+        -0.6293203234672546,
+        0.77714604139328,
+        0.10180610418319702
+      ],
+      [
+        6.794026319312252e-08,
+        0.77714604139328,
+        0.6293203234672546,
+        0.08244095742702484
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "direction_world": [
+      -7.458959316863911e-08,
+      0.77714604139328,
+      0.6293203234672546
+    ],
+    "hit_world_m": [
+      -1.5,
+      0.12346602231264114,
+      0.09998080879449844
+    ],
+    "normal_world": [
+      -4.761754553328501e-06,
+      -0.7723250389099121,
+      -0.6352275013923645
+    ],
+    "wall_source": {
+      "library": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+      "object": "CASED_STEEL_WEAR_CUTAWAY",
+      "version": "CasedHole_v002",
+      "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "face_index": 1426,
+      "library_parent": null,
+      "library_filepath_exposed": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "resolution_policy": "Blender exposed paths normalized to current consumer; strict actual path exists/hash, no basename fallback"
+    },
+    "send_s": 0.6,
+    "contact_s": 1.2,
+    "receive_s": 1.8,
+    "patch_lifetime_s": 0.65,
+    "opacity": 0.72,
+    "visible": true,
+    "standoff_m": 0.027871103957295418,
+    "timing_kind": "illustrative_not_acoustic_velocity",
+    "sample_policy": "native temporary-cap exit; unchanged reference; fixed contact; emitter held through final lagged return",
+    "timing_reference": "send_s/contact_s/receive_s are leading-front times; three fronts lag0/.07/.14s",
+    "arc_phases": [
+      {
+        "arc_index": 1,
+        "lag_s": 0.0,
+        "send_s": 0.6,
+        "contact_s": 1.2,
+        "receive_s": 1.8
+      },
+      {
+        "arc_index": 2,
+        "lag_s": 0.07,
+        "send_s": 0.6699999999999999,
+        "contact_s": 1.27,
+        "receive_s": 1.87
+      },
+      {
+        "arc_index": 3,
+        "lag_s": 0.14,
+        "send_s": 0.74,
+        "contact_s": 1.3399999999999999,
+        "receive_s": 1.94
+      }
+    ],
+    "packet_intervals": {
+      "send_start_s": 0.6,
+      "last_send_launch_s": 0.74,
+      "send_end_s": 1.3399999999999999,
+      "contact_first_s": 1.2,
+      "contact_last_s": 1.3399999999999999,
+      "return_start_s": 1.2,
+      "return_end_s": 1.94
+    },
+    "packet_end_s": 1.94,
+    "hold_emitter_until_s": 1.94
+  },
+  "source_steel": "CASED_STEEL_WEAR_CUTAWAY",
+  "retained_vertex_count": 936,
+  "radial_bounds": [
+    0.15894049279064215,
+    0.1698625047984247
+  ],
+  "geometry_action": false,
+  "frames": 120,
+  "fps": 24,
+  "library_paths": [
+    "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+    "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+    "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+    "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+    "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+    "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend"
+  ]
+}
