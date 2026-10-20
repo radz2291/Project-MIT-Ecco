@@ -1,0 +1,158 @@
+{
+  "B": {
+    "sections": [
+      {
+        "object": "STEEL - capped true source section",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      },
+      {
+        "object": "Cement either side of organic gap A",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      },
+      {
+        "object": "Cement either side of organic gap B",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      },
+      {
+        "object": "Cement uphole continuation",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      },
+      {
+        "object": "Cement downhole supported interval",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      },
+      {
+        "object": "Stationary organic fluid-filled channel volume",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      }
+    ],
+    "relative_libraries": [
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "stationary_camera_tool_and_solids": true,
+    "wavefront_samples": 2500,
+    "minimum_wavefront_to_native_wall_margin_m": 0.00027652367986433224,
+    "minimum_wavefront_cap_plane_margin_m": 0.0003127620917093305,
+    "native_sha256": "19085bae7b22734f6c37a2241cfca0a132ea1bc5357ef6cf76e5abb3cc07b3d4"
+  },
+  "C": {
+    "sections": [
+      {
+        "object": "STEEL - capped true source section",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      },
+      {
+        "object": "Cement either side of organic gap A",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      },
+      {
+        "object": "Cement either side of organic gap B",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      },
+      {
+        "object": "Cement uphole continuation",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      },
+      {
+        "object": "Cement downhole supported interval",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      },
+      {
+        "object": "Stationary organic fluid-filled channel volume",
+        "closed_manifold": true,
+        "retained_original_max_error_m": 0.0,
+        "static": true
+      }
+    ],
+    "relative_libraries": [
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "exists": true
+      }
+    ],
+    "stationary_camera_tool_and_solids": true,
+    "wavefront_samples": 3600,
+    "minimum_wavefront_to_native_wall_margin_m": -1.0584583653994173e-08,
+    "minimum_wavefront_cap_plane_margin_m": 0.00031290050951364445,
+    "native_sha256": "c5470f0617fd5ca1a9ec3e16f9dc300aec9bb4e4f5ff6ff6fb9b7e49f9a62831"
+  },
+  "matched_camera_max_difference_m": 2.9802322387695312e-08,
+  "source_hashes": {
+    "05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v006\\Scenes\\S04_cinematic-previs_v006.blend": "ed755652ab45ed7ae702f2ae5c011e3f4dc134458601a9701a6169821e5f6dbf",
+    "04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+    "05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed"
+  }
+}

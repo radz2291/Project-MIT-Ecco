@@ -1,0 +1,16 @@
+{
+  "function_source": "05-Previs\\Section-04_Cement-Casing-Integrity\\Communication-Test_v007\\Scripts\\build_tests.py",
+  "source_sha256": "609b5691be4d737b79f6cc193287e99ec50cb470645b76775734c90821e72bea",
+  "function_names": [
+    "addmesh",
+    "camera",
+    "cube",
+    "curve",
+    "fronts",
+    "mat",
+    "visibility"
+  ],
+  "shape_source": "05-Previs\\Section-04_Cement-Casing-Integrity\\Communication-Test_v007\\Records\\Section2-front-shapes.json",
+  "shape_sha256": "1deb1e771a50fe65cea4e95e41973aec5e19fbeba45807fff07b3a407208f3a8",
+  "policy": "Copied exact used rendering helpers and fan data locally; no dependency on v007 at build time. v006 remains preserved source scene."
+}

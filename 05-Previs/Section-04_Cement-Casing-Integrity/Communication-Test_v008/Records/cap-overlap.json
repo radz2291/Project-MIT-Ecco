@@ -1,0 +1,40 @@
+[
+  {
+    "object": "Cement either side of organic gap A",
+    "hit": [
+      -1.4740943908691406,
+      0.17871464788913727,
+      0.060348689556121826
+    ],
+    "distance": 0.49460744857788086,
+    "error_to_channel_point": 0.07284090741452315
+  },
+  {
+    "object": "Cement either side of organic gap B",
+    "hit": null,
+    "distance": null,
+    "error_to_channel_point": null
+  },
+  {
+    "object": "Cement uphole continuation",
+    "hit": null,
+    "distance": null,
+    "error_to_channel_point": null
+  },
+  {
+    "object": "Cement downhole supported interval",
+    "hit": null,
+    "distance": null,
+    "error_to_channel_point": null
+  },
+  {
+    "object": "Stationary organic fluid-filled channel volume",
+    "hit": [
+      -1.5,
+      0.15151198208332062,
+      0.12275636196136475
+    ],
+    "distance": 0.4217664897441864,
+    "error_to_channel_point": 4.012260442327338e-08
+  }
+]

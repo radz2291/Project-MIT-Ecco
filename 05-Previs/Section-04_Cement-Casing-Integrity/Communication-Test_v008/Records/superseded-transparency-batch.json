@@ -1,0 +1,31 @@
+{
+  "B": {
+    "frames": 120,
+    "fps": 24,
+    "duration_seconds": 5,
+    "resolution_with_caption_bars": [
+      1280,
+      820
+    ],
+    "render_seconds": 46.431743799941614,
+    "mean_seconds_per_frame": 0.3869311983328468,
+    "max_seconds_per_frame": 1.0849100000050385,
+    "encode_decode_seconds": 2.8048218000039924,
+    "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Communication-Test_v008\\Previews\\S04_B_capped-resonance_v008.mp4"
+  },
+  "C": {
+    "frames": 120,
+    "fps": 24,
+    "duration_seconds": 5,
+    "resolution_with_caption_bars": [
+      1280,
+      820
+    ],
+    "render_seconds": 46.1239295998821,
+    "mean_seconds_per_frame": 0.3843660799990175,
+    "max_seconds_per_frame": 0.9786151000007521,
+    "encode_decode_seconds": 1.9066688000166323,
+    "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Communication-Test_v008\\Previews\\S04_C_capped-resonance_v008.mp4"
+  },
+  "verification": "Three MP4 files completely decoded without errors. Both inputs 120 frames; same synchronized timing. No full18s integration."
+}
