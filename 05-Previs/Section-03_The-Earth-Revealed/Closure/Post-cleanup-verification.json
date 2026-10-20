@@ -1,0 +1,64 @@
+{
+  "checked_at": "2026-10-20T16:31:22",
+  "expected_versions": [
+    "v009",
+    "v014",
+    "v023",
+    "v028",
+    "v033",
+    "v036"
+  ],
+  "remaining_versions": [
+    "v009",
+    "v014",
+    "v023",
+    "v028",
+    "v033",
+    "v036"
+  ],
+  "version_folders_correct": true,
+  "retained_files_checked": 206,
+  "missing_retained_files": [],
+  "changed_retained_files": [],
+  "archived_history_files_checked": 488,
+  "archive_errors": [],
+  "scenes": [
+    {
+      "scene": "v009\\Geometry-Readability-Review\\Scenes\\S03_v009_geometry-review.blend",
+      "reopened": true,
+      "issues": []
+    },
+    {
+      "scene": "v014\\Scenes\\S03_seam-verification_v014.blend",
+      "reopened": true,
+      "issues": []
+    },
+    {
+      "scene": "v014\\Scenes\\S03_v014.blend",
+      "reopened": true,
+      "issues": []
+    },
+    {
+      "scene": "v023\\Scenes\\S03_computed-organic_v023.blend",
+      "reopened": true,
+      "issues": []
+    },
+    {
+      "scene": "v028\\Scenes\\S03_full-irregular-ground_v028.blend",
+      "reopened": true,
+      "issues": []
+    },
+    {
+      "scene": "v033\\Scenes\\S03_smooth-drone-ending_v033.blend",
+      "reopened": true,
+      "issues": []
+    },
+    {
+      "scene": "v036\\Scenes\\S03_second-last-nominal-label_v036.blend",
+      "reopened": true,
+      "issues": []
+    }
+  ],
+  "video_decodes_432_frames": true,
+  "ready_to_wrap": true
+}
