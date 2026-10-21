@@ -1,0 +1,46 @@
+{
+  "C_disk_full": true,
+  "earlier_versions_untouched": true,
+  "no_files_deleted": true,
+  "approval_review": "Clearing PNG caches was blocked; switched to independent D drive storage without deleting files.",
+  "completed_timings_recovered_from_render_log": 380,
+  "recovery_task": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033",
+  "libraries_copied": [
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+      "copy": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+      "bytes": 97869
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "copy": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "bytes": 103695
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "copy": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "bytes": 194252
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "copy": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "bytes": 358482
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "copy": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "bytes": 18275711
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+      "copy": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+      "bytes": 1214774
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "copy": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "bytes": 9608678
+    }
+  ],
+  "free_bytes_D": 75319607296
+}

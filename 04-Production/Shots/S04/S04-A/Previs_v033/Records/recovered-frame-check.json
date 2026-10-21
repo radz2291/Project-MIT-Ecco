@@ -1,0 +1,104 @@
+{
+  "frames_checked": 380,
+  "bad": [
+    {
+      "frame": 362,
+      "error": "broken PNG file (bad header checksum in b'IDAT')"
+    },
+    {
+      "frame": 363,
+      "error": "Truncated File Read"
+    },
+    {
+      "frame": 364,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0364.png'"
+    },
+    {
+      "frame": 365,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0365.png'"
+    },
+    {
+      "frame": 366,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0366.png'"
+    },
+    {
+      "frame": 367,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0367.png'"
+    },
+    {
+      "frame": 368,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0368.png'"
+    },
+    {
+      "frame": 369,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0369.png'"
+    },
+    {
+      "frame": 370,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0370.png'"
+    },
+    {
+      "frame": 371,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0371.png'"
+    },
+    {
+      "frame": 372,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0372.png'"
+    },
+    {
+      "frame": 373,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0373.png'"
+    },
+    {
+      "frame": 374,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0374.png'"
+    },
+    {
+      "frame": 375,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0375.png'"
+    },
+    {
+      "frame": 376,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0376.png'"
+    },
+    {
+      "frame": 377,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0377.png'"
+    },
+    {
+      "frame": 378,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0378.png'"
+    },
+    {
+      "frame": 379,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0379.png'"
+    },
+    {
+      "frame": 380,
+      "error": "cannot identify image file 'D:\\\\MIT-ECCO-Render-Recovery\\\\261013-MIT-Ecco\\\\04-Production\\\\Shots\\\\S04\\\\S04-A\\\\Previs_v033\\\\Work\\\\Frames\\\\S04_0380.png'"
+    }
+  ],
+  "resolution": "All listed damaged frames re-rendered on D; final assembly completed and full432-frame video decode passed.",
+  "repaired_frames": [
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380
+  ],
+  "unresolved_bad_frames": []
+}

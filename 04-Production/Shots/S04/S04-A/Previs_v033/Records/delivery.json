@@ -1,0 +1,25 @@
+{
+  "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Previews\\S04_continuous_ABCD_v033.mp4",
+  "sha256": "2587e99921f59dec9b6e4fb637a7f1021665623e9614ecc98a11ba62a152dfa2",
+  "frames": 432,
+  "fps": 24,
+  "duration_seconds": 18,
+  "resolution": [
+    1280,
+    720
+  ],
+  "full_decode": true,
+  "render_seconds_mean": 1.0556744909725373,
+  "render_seconds_max": 2.123153300024569,
+  "render_seconds_sum": 456.05138010013616,
+  "all_frames_under5seconds": true,
+  "single_camera": true,
+  "D_detection_tied_to_sensor": true,
+  "integration_scope": "A B C D full continuous18second previs",
+  "human_approval": "pending",
+  "recovery_video": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Previews\\S04_continuous_ABCD_v033.mp4",
+  "C_delivery_copy_hash_verified": true,
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\S04_continuous_ABCD_v033.blend",
+  "native_sha256": "018f65027ab9f190709085bcaf103edf10dc565bc49ab2c76d0dad79675ec77f",
+  "cache_root": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Work"
+}

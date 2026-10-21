@@ -1,0 +1,42 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\S04_continuous_ABCD_v033.blend",
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v022\\Scenes\\S04_complete_v022.blend",
+  "source_sha256": "d980d670dc47e0a6bc96f2b1fa22fdaa23a8eec8aafc26e3228a4944bedc9029",
+  "D_reference": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\CD-Arc-Test_v032\\Scenes\\S04_CD_arc-test_v032.blend",
+  "D_reference_sha256": "096766698362bc8f043f104150ecbe013b03c8d26689ea383aed0b07210a97e6",
+  "ABC_camera_tool_samples_preserved_frames": [
+    1,
+    261
+  ],
+  "wear_offset_from_original_m": 1.55,
+  "additional_offset_from_v032_m": 0.9,
+  "steel_fixed_endpoints_m": [
+    -5.5,
+    0
+  ],
+  "wear_region_translation_support_m": [
+    -2.3375,
+    -0.6875
+  ],
+  "steel_radial_error_m": 0,
+  "computed_depth_values_unchanged": true,
+  "max_authored_depth_mm": 3.99760901927948,
+  "all_other_meshes_unchanged": true,
+  "arc_frames": [
+    262,
+    336
+  ],
+  "D_acquisition_frames": [
+    337,
+    419
+  ],
+  "camera_peak_z_m": 2.3528692722320557,
+  "context_materials": "Simple diffuse source colors for inexpensive previs; source ABC signal actions retained.",
+  "one_camera": true,
+  "duration_seconds": 18,
+  "frames": 432,
+  "human_approval": "pending",
+  "C_drive_original_native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\S04_continuous_ABCD_v033.blend",
+  "recovery_root": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco",
+  "recovery_native": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\S04_continuous_ABCD_v033.blend"
+}

@@ -1,0 +1,207 @@
+{
+  "native_reopened": true,
+  "ABC_camera_tool_and_effect_samples_preserved": [
+    1,
+    40,
+    85,
+    94,
+    104,
+    190,
+    206,
+    216,
+    250,
+    261
+  ],
+  "one_camera_all432frames": true,
+  "fixed_steel_transform": true,
+  "steel_endpoints_preserved": true,
+  "radial_coordinates_unchanged_error_m": 0.0,
+  "wear_and_scalar_shift_only": true,
+  "max_authored_depth_mm": 3.99760901927948,
+  "profile_visible_objects_at_end": 9,
+  "sensor_reveal_alignment": [
+    {
+      "frame": 1,
+      "sensor_world_m": [
+        0.9800000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reveal_front_m": 0.9800000190734863
+    },
+    {
+      "frame": 85,
+      "sensor_world_m": [
+        -0.31999993324279785,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reveal_front_m": -0.31999993324279785
+    },
+    {
+      "frame": 206,
+      "sensor_world_m": [
+        -1.5,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reveal_front_m": -1.5
+    },
+    {
+      "frame": 261,
+      "sensor_world_m": [
+        -1.5,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reveal_front_m": -1.5
+    },
+    {
+      "frame": 280,
+      "sensor_world_m": [
+        -1.6659467220306396,
+        0.10589667409658432,
+        0.07366746664047241
+      ],
+      "reveal_front_m": -1.6659468412399292
+    },
+    {
+      "frame": 300,
+      "sensor_world_m": [
+        -2.3330631256103516,
+        0.12265908718109131,
+        0.039946820586919785
+      ],
+      "reveal_front_m": -2.3330631256103516
+    },
+    {
+      "frame": 318,
+      "sensor_world_m": [
+        -2.9054605960845947,
+        0.12874022126197815,
+        0.008182652294635773
+      ],
+      "reveal_front_m": -2.9054605960845947
+    },
+    {
+      "frame": 336,
+      "sensor_world_m": [
+        -3.049999952316284,
+        0.1290000081062317,
+        0.0
+      ],
+      "reveal_front_m": -3.049999952316284
+    },
+    {
+      "frame": 365,
+      "sensor_world_m": [
+        -3.1499297618865967,
+        0.1290000081062317,
+        0.0
+      ],
+      "reveal_front_m": -3.1499297618865967
+    },
+    {
+      "frame": 400,
+      "sensor_world_m": [
+        -3.4616732597351074,
+        0.1290000081062317,
+        0.0
+      ],
+      "reveal_front_m": -3.4616732597351074
+    },
+    {
+      "frame": 432,
+      "sensor_world_m": [
+        -3.5,
+        0.1290000081062317,
+        0.0
+      ],
+      "reveal_front_m": -3.5
+    }
+  ],
+  "camera_peak_height_m": 2.3528692722320557,
+  "max_perframe_camera_step_m": 0.10983181972128168,
+  "max_perframe_rotation_deg": 3.204110895318328,
+  "wear_center_screen_fraction": [
+    0.40395286679267883,
+    0.7195816040039062
+  ],
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true,
+      "relative": true
+    }
+  ],
+  "sources_unchanged": true,
+  "render_budget_and_full_decode": "See delivery.json after assembly",
+  "human_acceptance": "pending",
+  "recovery_library_checks": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true,
+      "relative": true
+    }
+  ]
+}
