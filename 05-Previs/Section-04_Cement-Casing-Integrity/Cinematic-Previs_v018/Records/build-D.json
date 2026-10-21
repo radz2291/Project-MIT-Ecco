@@ -1,0 +1,80 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v017\\Scenes\\S04_D_cool-wear-depth_v017.blend",
+  "source_sha256": "b1000bd527c14103c5f8d99516be32d2f345e9edfafb012d7067c6c5f9a0681e",
+  "case": "D",
+  "frame_range": [
+    1,
+    168
+  ],
+  "camera_start_factor": 1.07,
+  "camera_settled_frame": 53,
+  "approved_final_camera": [
+    -1.100000023841858,
+    -0.019999999552965164,
+    0.05999999865889549
+  ],
+  "line_schedule": [
+    {
+      "object": "Station 1 grey nominal normal-sector solid",
+      "fade_start": 18,
+      "fade_end": 33
+    },
+    {
+      "object": "Station 2 grey nominal normal-sector solid",
+      "fade_start": 18,
+      "fade_end": 33
+    },
+    {
+      "object": "Station 3 grey nominal normal-sector solid",
+      "fade_start": 28,
+      "fade_end": 43
+    },
+    {
+      "object": "Station 3 fine dashed nominal worn-sector",
+      "fade_start": 28,
+      "fade_end": 43
+    },
+    {
+      "object": "Station 3 blue actual worn-sector only",
+      "fade_start": 38,
+      "fade_end": 53
+    },
+    {
+      "object": "Station 4 grey nominal normal-sector solid",
+      "fade_start": 38,
+      "fade_end": 53
+    },
+    {
+      "object": "Station 4 fine dashed nominal worn-sector",
+      "fade_start": 38,
+      "fade_end": 53
+    },
+    {
+      "object": "Station 4 blue actual worn-sector only",
+      "fade_start": 48,
+      "fade_end": 63
+    },
+    {
+      "object": "Station 5 grey nominal normal-sector solid",
+      "fade_start": 48,
+      "fade_end": 63
+    },
+    {
+      "object": "Station 5 fine dashed nominal worn-sector",
+      "fade_start": 48,
+      "fade_end": 63
+    },
+    {
+      "object": "Station 5 blue actual worn-sector only",
+      "fade_start": 58,
+      "fade_end": 73
+    }
+  ],
+  "depth_map_reveal": [
+    78,
+    132
+  ],
+  "depth_attribute_unchanged": true,
+  "geometry_static": true,
+  "geometry_unchanged": true
+}

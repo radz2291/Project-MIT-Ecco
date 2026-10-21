@@ -1,0 +1,27 @@
+{
+  "reopened": true,
+  "strips": [
+    {
+      "name": "A - upward casing entry",
+      "start": 1,
+      "end_exclusive": 97,
+      "elements": 96,
+      "all_files_exist": true
+    },
+    {
+      "name": "B+C - matched 50-50 response",
+      "start": 97,
+      "end_exclusive": 265,
+      "elements": 168,
+      "all_files_exist": true
+    },
+    {
+      "name": "D - physical wear and computed loss",
+      "start": 265,
+      "end_exclusive": 433,
+      "elements": 168,
+      "all_files_exist": true
+    }
+  ],
+  "duration_frames": 432
+}

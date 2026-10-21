@@ -1,0 +1,64 @@
+{
+  "duration_seconds": 18,
+  "fps": 24,
+  "frames": 432,
+  "resolution": [
+    1280,
+    720
+  ],
+  "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v018\\Previews\\S04_complete-previs_v018.mp4",
+  "video_sha256": "30177e0df49630d20971eadb359e7159cab99d80f1ed9a0ef62955d5f6560998",
+  "full_video_decode": true,
+  "render_timings": {
+    "B": {
+      "frames": 120,
+      "mean_seconds": 0.36963674333383095,
+      "max_seconds": 1.2706472999998368,
+      "min_seconds": 0.2354907999979332,
+      "total_seconds": 44.356409200059716
+    },
+    "C": {
+      "frames": 120,
+      "mean_seconds": 0.4287208108357542,
+      "max_seconds": 1.373557000013534,
+      "min_seconds": 0.23108500003581867,
+      "total_seconds": 51.4464973002905
+    },
+    "D": {
+      "frames": 168,
+      "mean_seconds": 0.5030264440463812,
+      "max_seconds": 1.6473872000351548,
+      "min_seconds": 0.27149170002667233,
+      "total_seconds": 84.50844259979203
+    }
+  },
+  "reused_A_frames": 96,
+  "new_native_frames": 408,
+  "timeline": [
+    {
+      "part": "A",
+      "frames": [
+        1,
+        96
+      ]
+    },
+    {
+      "part": "B+C synchronized 50/50",
+      "frames": [
+        97,
+        264
+      ],
+      "source_timing": "1s establish, original5s mechanism,1s response hold"
+    },
+    {
+      "part": "D",
+      "frames": [
+        265,
+        432
+      ]
+    }
+  ],
+  "no_frame_squashing": true,
+  "encode_and_decode_seconds": 10.671377999999095,
+  "prior_versions_preserved": true
+}

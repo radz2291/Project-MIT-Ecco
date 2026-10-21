@@ -1,0 +1,37 @@
+{
+  "opened": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v018\\Scenes\\S04_cinematic-previs_v018.blend",
+  "scene": "S04 complete cinematic previs v018",
+  "frame": 182,
+  "range": [
+    1,
+    432
+  ],
+  "fps": 24,
+  "previous": {
+    "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v017\\Scenes\\S04_D_cool-wear-depth_v017.blend",
+    "dirty": false
+  },
+  "editable_3d_parts": [
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v018\\Scenes\\S04_A_v018.blend",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v018\\Scenes\\S04_B_v018.blend",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v018\\Scenes\\S04_C_v018.blend",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v018\\Scenes\\S04_D_v018.blend"
+  ],
+  "strips": [
+    [
+      "A - upward casing entry",
+      1,
+      97
+    ],
+    [
+      "B+C - matched 50-50 response",
+      97,
+      265
+    ],
+    [
+      "D - physical wear and computed loss",
+      265,
+      433
+    ]
+  ]
+}
