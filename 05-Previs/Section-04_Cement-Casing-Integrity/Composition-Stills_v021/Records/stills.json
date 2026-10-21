@@ -1,0 +1,170 @@
+[
+  {
+    "id": "A1",
+    "title": "Casing mouth and approach",
+    "source_frame": 1,
+    "seconds": 1.3046449999674223,
+    "camera_position_m": [
+      0.8500000238418579,
+      -0.11678421497344971,
+      1.2565275430679321
+    ],
+    "camera_quaternion": [
+      0.9352657198905945,
+      0.11419736593961716,
+      0.24932290613651276,
+      0.2237747311592102
+    ],
+    "lens_mm": 32.0,
+    "geometry_unchanged": true,
+    "data_display": true,
+    "station_graphics": true
+  },
+  {
+    "id": "A2",
+    "title": "Tool entering the existing casing",
+    "source_frame": 40,
+    "seconds": 0.5750333000323735,
+    "camera_position_m": [
+      -0.11545933783054352,
+      -0.039553940296173096,
+      0.754379153251648
+    ],
+    "camera_quaternion": [
+      0.9684892296791077,
+      0.10614413022994995,
+      0.043496422469615936,
+      0.2210659682750702
+    ],
+    "lens_mm": 39.3140869140625,
+    "geometry_unchanged": true,
+    "data_display": true,
+    "station_graphics": true
+  },
+  {
+    "id": "B1",
+    "title": "Supported backing - contact",
+    "source_frame": 85,
+    "seconds": 0.5275132000097074,
+    "camera_position_m": [
+      -0.4699999988079071,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "camera_quaternion": [
+      0.9662804007530212,
+      0.14613419771194458,
+      -0.12422200292348862,
+      -0.17180180549621582
+    ],
+    "lens_mm": 65.0,
+    "geometry_unchanged": true,
+    "data_display": true,
+    "station_graphics": true
+  },
+  {
+    "id": "B2",
+    "title": "Supported backing - settled",
+    "source_frame": 104,
+    "seconds": 0.505653300031554,
+    "camera_position_m": [
+      -0.4699999690055847,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "camera_quaternion": [
+      0.9662804007530212,
+      0.1461341679096222,
+      -0.12422197312116623,
+      -0.17180182039737701
+    ],
+    "lens_mm": 65.0,
+    "geometry_unchanged": true,
+    "data_display": true,
+    "station_graphics": true
+  },
+  {
+    "id": "C1",
+    "title": "Reduced backing - contact",
+    "source_frame": 197,
+    "seconds": 0.5752914000186138,
+    "camera_position_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "camera_quaternion": [
+      0.9662804007530212,
+      0.1461341679096222,
+      -0.12422197312116623,
+      -0.17180182039737701
+    ],
+    "lens_mm": 65.0,
+    "geometry_unchanged": true,
+    "data_display": true,
+    "station_graphics": true
+  },
+  {
+    "id": "C2",
+    "title": "Reduced backing - persistent response",
+    "source_frame": 216,
+    "seconds": 0.5598286000313237,
+    "camera_position_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "camera_quaternion": [
+      0.9662804007530212,
+      0.1461341679096222,
+      -0.12422197312116623,
+      -0.17180182039737701
+    ],
+    "lens_mm": 65.0,
+    "geometry_unchanged": true,
+    "data_display": true,
+    "station_graphics": true
+  },
+  {
+    "id": "D1",
+    "title": "Physical wear only",
+    "source_frame": 400,
+    "seconds": 0.4692277999711223,
+    "camera_position_m": [
+      -1.0499999523162842,
+      0.054999999701976776,
+      0.06499999761581421
+    ],
+    "camera_quaternion": [
+      0.721179187297821,
+      0.27723655104637146,
+      0.6023558378219604,
+      0.20051907002925873
+    ],
+    "lens_mm": 42.0,
+    "geometry_unchanged": true,
+    "data_display": false,
+    "station_graphics": false
+  },
+  {
+    "id": "D2",
+    "title": "Same wear with reference and computed data",
+    "source_frame": 400,
+    "seconds": 0.4578265000018291,
+    "camera_position_m": [
+      -1.0499999523162842,
+      0.054999999701976776,
+      0.06499999761581421
+    ],
+    "camera_quaternion": [
+      0.721179187297821,
+      0.27723655104637146,
+      0.6023558378219604,
+      0.20051907002925873
+    ],
+    "lens_mm": 42.0,
+    "geometry_unchanged": true,
+    "data_display": true,
+    "station_graphics": true
+  }
+]

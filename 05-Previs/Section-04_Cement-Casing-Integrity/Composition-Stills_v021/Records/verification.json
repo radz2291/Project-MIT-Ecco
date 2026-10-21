@@ -1,0 +1,22 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Scenes\\S04_sequential-camera_v020.blend",
+  "source_sha256": "4df7d35dcfa6eac227535552708959a188c53939db11dccded51e6f43706fed0",
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Composition-Stills_v021\\Scenes\\S04_approval-stills_v021.blend",
+  "physical_meshes_unchanged": true,
+  "computed_depth_values_unchanged": true,
+  "maximum_authored_loss_mm": 3.99760901927948,
+  "source_camera_action_preserved": true,
+  "source_timing_unchanged": true,
+  "B_C_magnification_vs_v020": 1.5476190476190477,
+  "A_proposed_roll_degrees": 25,
+  "C_fluid_color_linear_RGBA": [
+    0.054999999701976776,
+    0.1550000011920929,
+    0.1850000023841858,
+    1.0
+  ],
+  "full_animation_rendered": false,
+  "camera_path_integrated": false,
+  "all_still_frames_under5s": true,
+  "human_approval": "pending"
+}
