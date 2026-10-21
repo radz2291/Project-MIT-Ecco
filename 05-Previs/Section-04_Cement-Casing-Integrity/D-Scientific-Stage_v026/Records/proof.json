@@ -1,0 +1,92 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v022\\Scenes\\S04_complete_v022.blend",
+  "source_sha256": "d980d670dc47e0a6bc96f2b1fa22fdaa23a8eec8aafc26e3228a4944bedc9029",
+  "angle_source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v017\\Scenes\\S04_D_cool-wear-depth_v017.blend",
+  "angle_source_sha256": "b1000bd527c14103c5f8d99516be32d2f345e9edfafb012d7067c6c5f9a0681e",
+  "camera_matrix": [
+    [
+      0.282630056142807,
+      -0.09806782752275467,
+      0.9542027711868286,
+      -1.100000023841858
+    ],
+    [
+      0.9592289924621582,
+      0.028895005583763123,
+      -0.28114911913871765,
+      -0.019999999552965164
+    ],
+    [
+      -1.1307998093457172e-08,
+      0.9947601556777954,
+      0.10223609954118729,
+      0.05999999865889549
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "lens_mm": 55.0,
+  "camera_shift": [
+    0.0,
+    0.0
+  ],
+  "section3_inspection": {
+    "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v036\\Scenes\\S03_second-last-nominal-label_v036.blend",
+    "sha256": "371093affa9b9d05416b3d39c6bfe53716ce5c2f3dbaf2130dcbe226152b4757",
+    "view_transform": "Standard",
+    "look": "None",
+    "world_color": [
+      0.014999999664723873,
+      0.02500000037252903,
+      0.03500000014901161
+    ],
+    "world_backgrounds": [
+      {
+        "color": [
+          0.012000000104308128,
+          0.023000000044703484,
+          0.03400000184774399,
+          1.0
+        ],
+        "strength": 0.550000011920929
+      }
+    ]
+  },
+  "physical_meshes_unchanged": true,
+  "computed_values_unchanged": true,
+  "max_authored_wear_mm": 3.99760901927948,
+  "hidden_surroundings": "Soil, cement, channel and fluid context presentation only; fixed steel geometry retained.",
+  "wireframe_method": "Polyline curves follow sharp/boundary edges of copied actual tool meshes, with40degree feature threshold. No triangulation grid and no new measurement geometry.",
+  "movie_integration": false,
+  "options": [
+    {
+      "id": "A",
+      "title": "Soft transparent tool",
+      "body_opacity": 0.055,
+      "seconds": 2.015406400023494,
+      "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Scientific-Stage_v026\\Scenes\\S04_D_A_v026.blend",
+      "feature_edge_opacity": 0
+    },
+    {
+      "id": "B",
+      "title": "Contour wireframe look",
+      "body_opacity": 0,
+      "seconds": 1.0054617000278085,
+      "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Scientific-Stage_v026\\Scenes\\S04_D_B_v026.blend",
+      "feature_edge_opacity": 1
+    },
+    {
+      "id": "C",
+      "title": "Ghost plus contour edges",
+      "body_opacity": 0.025,
+      "seconds": 0.9941209999960847,
+      "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Scientific-Stage_v026\\Scenes\\S04_D_C_v026.blend",
+      "feature_edge_opacity": 0.5
+    }
+  ],
+  "recommendation": "C balances contextual tool recognition and wear visibility. B is busier; A is quietest but weakens tool identity."
+}
