@@ -1,0 +1,171 @@
+{
+  "saved_reopened": true,
+  "physical_meshes_identical_to_v021": true,
+  "well_layer_transforms_and_visibility_fixed_all432frames": true,
+  "one_camera_all432frames": true,
+  "duration_seconds": 18,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "max_authored_wear_mm": 3.99760901927948,
+  "source_bytes_unchanged": true,
+  "housing_local_copy_coordinates_unchanged": true,
+  "housing_transparency_is_explanatory": true,
+  "sensor_positions_verified": [
+    {
+      "frame": 85,
+      "actual_sensor_world_m": [
+        -0.31999993324279785,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "projected_sensor": [
+        0.5092100501060486,
+        0.4113747179508209,
+        0.5230919718742371
+      ],
+      "front_x_error_m": 0.0
+    },
+    {
+      "frame": 197,
+      "actual_sensor_world_m": [
+        -1.5,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "projected_sensor": [
+        0.5092095136642456,
+        0.4113742411136627,
+        0.5230919718742371
+      ],
+      "front_x_error_m": 0.0
+    },
+    {
+      "frame": 318,
+      "actual_sensor_world_m": [
+        -1.5,
+        0.1290000081062317,
+        0.0
+      ],
+      "projected_sensor": [
+        0.36643800139427185,
+        0.47725164890289307,
+        0.46055254340171814
+      ],
+      "front_x_error_m": 0.0
+    },
+    {
+      "frame": 330,
+      "actual_sensor_world_m": [
+        -1.5070171356201172,
+        0.1290000081062317,
+        0.0
+      ],
+      "projected_sensor": [
+        0.363068550825119,
+        0.47661274671554565,
+        0.4674292504787445
+      ],
+      "front_x_error_m": 0.0
+    },
+    {
+      "frame": 350,
+      "actual_sensor_world_m": [
+        -1.592165231704712,
+        0.1290000081062317,
+        0.0
+      ],
+      "projected_sensor": [
+        0.32888656854629517,
+        0.47013118863105774,
+        0.5508739352226257
+      ],
+      "front_x_error_m": 0.0
+    },
+    {
+      "frame": 380,
+      "actual_sensor_world_m": [
+        -1.8365044593811035,
+        0.1290000081062317,
+        0.0
+      ],
+      "projected_sensor": [
+        0.27087345719337463,
+        0.45913082361221313,
+        0.7903252243995667
+      ],
+      "front_x_error_m": 0.0
+    },
+    {
+      "frame": 400,
+      "actual_sensor_world_m": [
+        -1.9369804859161377,
+        0.1290000081062317,
+        0.0
+      ],
+      "projected_sensor": [
+        0.2560875415802002,
+        0.4563271701335907,
+        0.8887912631034851
+      ],
+      "front_x_error_m": 0.0
+    },
+    {
+      "frame": 415,
+      "actual_sensor_world_m": [
+        -1.9500000476837158,
+        0.1290000081062317,
+        0.0
+      ],
+      "projected_sensor": [
+        0.25440797209739685,
+        0.4560087025165558,
+        0.9015504717826843
+      ],
+      "front_x_error_m": 0.0
+    }
+  ],
+  "relative_libraries": [
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true,
+      "relative": true
+    }
+  ],
+  "camera_inside_removed_or_bore_side_for_review": [],
+  "human_approval": "pending",
+  "engineering_certification": false,
+  "complete_native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v022\\Scenes\\S04_complete_v022.blend"
+}

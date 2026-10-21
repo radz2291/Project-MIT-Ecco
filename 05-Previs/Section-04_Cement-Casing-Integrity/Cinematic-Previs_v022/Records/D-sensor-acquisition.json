@@ -1,0 +1,80 @@
+{
+  "sensor": "ECCO_SENSOR_REF_01",
+  "scan_starts_at_frame": 318,
+  "rotation_degrees": -39,
+  "axial_scan_m": [
+    -1.5,
+    -1.95
+  ],
+  "samples": [
+    {
+      "frame": 302,
+      "sensor_x_m": -1.4999999809265137,
+      "tool_rotation_rad": -0.6806784082777885,
+      "ray_hit_m": [
+        -1.5,
+        0.16291683912277222,
+        0.0
+      ],
+      "wall_radial_range_m": 0.16291683912277222
+    },
+    {
+      "frame": 330,
+      "sensor_x_m": -1.507017210079729,
+      "tool_rotation_rad": -0.6806784082777885,
+      "ray_hit_m": [
+        -1.5070172548294067,
+        0.1629287600517273,
+        0.0
+      ],
+      "wall_radial_range_m": 0.1629287600517273
+    },
+    {
+      "frame": 350,
+      "sensor_x_m": -1.5921653442070522,
+      "tool_rotation_rad": -0.6806784082777885,
+      "ray_hit_m": [
+        -1.5921653509140015,
+        0.1627441942691803,
+        0.0
+      ],
+      "wall_radial_range_m": 0.1627441942691803
+    },
+    {
+      "frame": 380,
+      "sensor_x_m": -1.8365045618466036,
+      "tool_rotation_rad": -0.6806784082777885,
+      "ray_hit_m": [
+        -1.836504578590393,
+        0.16142098605632782,
+        0.0
+      ],
+      "wall_radial_range_m": 0.16142098605632782
+    },
+    {
+      "frame": 400,
+      "sensor_x_m": -1.9369804920156293,
+      "tool_rotation_rad": -0.6806784082777885,
+      "ray_hit_m": [
+        -1.9369804859161377,
+        0.16065773367881775,
+        0.0
+      ],
+      "wall_radial_range_m": 0.16065773367881775
+    },
+    {
+      "frame": 415,
+      "sensor_x_m": -1.9499999809265138,
+      "tool_rotation_rad": -0.6806784082777885,
+      "ray_hit_m": [
+        -1.9499999284744263,
+        0.16056348383426666,
+        0.0
+      ],
+      "wall_radial_range_m": 0.16056348383426666
+    }
+  ],
+  "housing_display": "Local non-destructive material override transitions to12percent opacity during D; solid source material retained within38mm of sensor reference. No well cutaway animation.",
+  "solid_sensor_region_faces": 3143,
+  "method": "Display follows actual tool axial position; illustrative pulses intersect unchanged inner steel. Fixed computed geometry field exposed behind sensor only in selected deeper scan region. No calibrated wear measurement or wall-thickness claim."
+}
