@@ -1,0 +1,47 @@
+[
+  {
+    "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v008\\Scenes\\S04_D_A_surface-grazing_v008.blend",
+    "scene": "D A_surface-grazing - physical only",
+    "retained_vertices_exact": true,
+    "outer_vertices_fixed": true,
+    "wear_at_registered_x_minus_1_5_m": 0.003976324221611011,
+    "graphics": [],
+    "modifiers": [],
+    "missing_libraries": [],
+    "render_resolution": [
+      1280,
+      720
+    ],
+    "engine": "BLENDER_EEVEE"
+  },
+  {
+    "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v008\\Scenes\\S04_D_B_sectional-context_v008.blend",
+    "scene": "D B_sectional-context - physical only",
+    "retained_vertices_exact": true,
+    "outer_vertices_fixed": true,
+    "wear_at_registered_x_minus_1_5_m": 0.003976324221611011,
+    "graphics": [],
+    "modifiers": [],
+    "missing_libraries": [],
+    "render_resolution": [
+      1280,
+      720
+    ],
+    "engine": "BLENDER_EEVEE"
+  },
+  {
+    "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v008\\Scenes\\S04_D_C_preferred-closeup_v008.blend",
+    "scene": "D C_preferred-closeup - physical only",
+    "retained_vertices_exact": true,
+    "outer_vertices_fixed": true,
+    "wear_at_registered_x_minus_1_5_m": 0.003976324221611011,
+    "graphics": [],
+    "modifiers": [],
+    "missing_libraries": [],
+    "render_resolution": [
+      1280,
+      720
+    ],
+    "engine": "BLENDER_EEVEE"
+  }
+]

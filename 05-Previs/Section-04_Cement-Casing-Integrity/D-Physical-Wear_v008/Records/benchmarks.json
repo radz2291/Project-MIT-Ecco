@@ -1,0 +1,83 @@
+[
+  {
+    "option": "A_surface-grazing",
+    "source_coordinate_hash": "040f25b898ca14b12599d44c3c080bf88623221607e4a056ab7df0b907b1ecb0",
+    "retained_coordinates_identical": true,
+    "static_section_axial_planes_m": [
+      -2.475,
+      -0.55
+    ],
+    "whole_wear_interval_retained": true,
+    "inspection_section_through_deepest_sample": false,
+    "authored_maximum_wear_m": 0.004,
+    "sampled_maximum_wear_m": 0.003997588178634631,
+    "outer_radius_m": 0.1698625,
+    "eye": [
+      -2.35,
+      0.035,
+      0.095
+    ],
+    "target": [
+      -2.05,
+      0.16,
+      0
+    ],
+    "lens_mm": 36,
+    "render_seconds": 0.940249000035692,
+    "under_5_seconds": true
+  },
+  {
+    "option": "B_sectional-context",
+    "source_coordinate_hash": "040f25b898ca14b12599d44c3c080bf88623221607e4a056ab7df0b907b1ecb0",
+    "retained_coordinates_identical": true,
+    "static_section_axial_planes_m": [
+      -2.475,
+      -1.5125
+    ],
+    "whole_wear_interval_retained": false,
+    "inspection_section_through_deepest_sample": true,
+    "authored_maximum_wear_m": 0.004,
+    "sampled_maximum_wear_m": 0.003997588178634631,
+    "outer_radius_m": 0.1698625,
+    "eye": [
+      -0.85,
+      -0.025,
+      0.06
+    ],
+    "target": [
+      -1.7,
+      0.04,
+      0
+    ],
+    "lens_mm": 48,
+    "render_seconds": 0.2987098000012338,
+    "under_5_seconds": true
+  },
+  {
+    "option": "C_preferred-closeup",
+    "source_coordinate_hash": "040f25b898ca14b12599d44c3c080bf88623221607e4a056ab7df0b907b1ecb0",
+    "retained_coordinates_identical": true,
+    "static_section_axial_planes_m": [
+      -2.475,
+      -1.5125
+    ],
+    "whole_wear_interval_retained": false,
+    "inspection_section_through_deepest_sample": true,
+    "authored_maximum_wear_m": 0.004,
+    "sampled_maximum_wear_m": 0.003997588178634631,
+    "outer_radius_m": 0.1698625,
+    "eye": [
+      -1.1,
+      -0.02,
+      0.06
+    ],
+    "target": [
+      -1.66,
+      0.145,
+      0
+    ],
+    "lens_mm": 55,
+    "render_seconds": 0.30508179997559637,
+    "under_5_seconds": true
+  }
+]
