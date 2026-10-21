@@ -1,0 +1,50 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v009\\Scenes\\S04_D_physical-comparison_v009.blend",
+  "render_seconds": 1.3732810999499634,
+  "under_5_seconds": true,
+  "physical_mesh_camera_lights_unchanged": true,
+  "nominal_source": "CASED_STEEL_NOMINAL_CUTAWAY",
+  "worn_source": "CASED_STEEL_WEAR_CUTAWAY",
+  "sampled_actual_difference_m": [
+    0,
+    0.00399760901927948
+  ],
+  "outer_angle_edge_opacity_max": 0,
+  "uphole_edge_opacity_max": 0,
+  "connections": [
+    {
+      "x_m": -1.6,
+      "azimuth_rad": 0,
+      "actual_gap_m": 0.0037846415953061148
+    },
+    {
+      "x_m": -1.79,
+      "azimuth_rad": -0.22,
+      "actual_gap_m": 0.001536323946665865
+    },
+    {
+      "x_m": -1.88,
+      "azimuth_rad": 0.22,
+      "actual_gap_m": 0.0011194906870901303
+    },
+    {
+      "x_m": -2.05,
+      "azimuth_rad": -0.12,
+      "actual_gap_m": 0.0007545222756784196
+    },
+    {
+      "x_m": -2.17,
+      "azimuth_rad": 0.1,
+      "actual_gap_m": 0.0002475979213983387
+    }
+  ],
+  "front_comparison_preserved": true,
+  "no_grid_or_hard_footprint_outline": true,
+  "complete_visible_wear_taper_sampled": true,
+  "visible_interval_m": [
+    -2.36,
+    -1.5125
+  ],
+  "distal_wear_beyond_inspection_section_not_displayed": true,
+  "no_quantified_volume_claim": true
+}
