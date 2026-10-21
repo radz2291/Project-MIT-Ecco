@@ -1,0 +1,70 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v009\\Scenes\\S04_D_physical-comparison_v009.blend",
+  "render_seconds": 1.318665399972815,
+  "under_5_seconds": true,
+  "physical_camera_lights_unchanged": true,
+  "stations": [
+    {
+      "x_m": -2.44,
+      "max_source_deviation_m": 5.3726900748371916e-08,
+      "blue_angular_range_rad": null,
+      "normal_sector_nominal_continuous": true,
+      "worn_sector_nominal_dashed": true,
+      "blue_runs": 0,
+      "nominal_runs": 1
+    },
+    {
+      "x_m": -2.32,
+      "max_source_deviation_m": 1.9387148644347305e-05,
+      "blue_angular_range_rad": null,
+      "normal_sector_nominal_continuous": true,
+      "worn_sector_nominal_dashed": true,
+      "blue_runs": 0,
+      "nominal_runs": 1
+    },
+    {
+      "x_m": -1.88,
+      "max_source_deviation_m": 0.0021479725630959437,
+      "blue_angular_range_rad": [
+        -0.5017821599483698,
+        0.48869219055841207
+      ],
+      "normal_sector_nominal_continuous": true,
+      "worn_sector_nominal_dashed": true,
+      "blue_runs": 1,
+      "nominal_runs": 8
+    },
+    {
+      "x_m": -1.68,
+      "max_source_deviation_m": 0.003486692904916558,
+      "blue_angular_range_rad": [
+        -0.5279620987282847,
+        0.5279620987282847
+      ],
+      "normal_sector_nominal_continuous": true,
+      "worn_sector_nominal_dashed": true,
+      "blue_runs": 1,
+      "nominal_runs": 9
+    },
+    {
+      "x_m": -1.5125,
+      "max_source_deviation_m": 0.003997609128340815,
+      "blue_angular_range_rad": [
+        -0.5410520681182422,
+        0.5410520681182422
+      ],
+      "normal_sector_nominal_continuous": true,
+      "worn_sector_nominal_dashed": true,
+      "blue_runs": 1,
+      "nominal_runs": 9
+    }
+  ],
+  "source_deviation_graphic_cutoff_m": 0.0001,
+  "cutoff_not_instrument_threshold": true,
+  "pins_and_bracket_hidden": true,
+  "blue_only_over_source_deviation": true,
+  "no_radial_exaggeration": true,
+  "visibility_offset_m": 4e-05,
+  "front_axial_visibility_offset_m": 0.00035,
+  "visible_half_circumferences_match_static_section": true
+}

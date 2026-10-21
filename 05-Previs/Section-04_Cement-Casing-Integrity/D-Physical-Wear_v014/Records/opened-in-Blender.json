@@ -1,0 +1,19 @@
+{
+  "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v014\\Scenes\\S04_D_selective-wear-rings_v014.blend",
+  "window_scenes": [
+    "D normal rings with local worn arcs v014"
+  ],
+  "missing_libraries": [],
+  "prior_unsaved_backup": null,
+  "visible_curve_names": [
+    "Station 1 grey nominal solid-normal dashed-wear",
+    "Station 2 grey nominal solid-normal dashed-wear",
+    "Station 3 grey nominal solid-normal dashed-wear",
+    "Station 3 blue actual worn-sector only",
+    "Station 4 grey nominal solid-normal dashed-wear",
+    "Station 4 blue actual worn-sector only",
+    "Station 5 grey nominal solid-normal dashed-wear",
+    "Station 5 blue actual worn-sector only"
+  ],
+  "no_visible_bracket_ticks_pins_or_previous_full_blue_rings": true
+}
