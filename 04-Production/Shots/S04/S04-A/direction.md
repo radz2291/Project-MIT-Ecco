@@ -436,3 +436,9 @@ Output:05-Previs/Section-04_Cement-Casing-Integrity/CD-Arc-Test_v030/README.md. 
 Owner approves v030 crossing/opposite-thirds direction and requests less of a view inside the tool, slightly to its side, with restrained camera movement and improved composition. Bounded5second test only. D arrival offset to(-3.15,-.12,.16)m; look past the transparent/wireframe context toward fixed wear. Retain wear-left/ECCO-right lens shift0.30. Add smooth drift48–120 of(-.07,-.018,+.012)m, aim moving-.025m axially; no frozenD composition. Preserve overhead crossing and environment/style change17–48, separate wear station and sensor acquisition49–108. Steel geometry, scalar data and profile definitions unchanged.
 
 Output:05-Previs/Section-04_Cement-Casing-Integrity/CD-Arc-Test_v031/README.md. Render/decode and native verification in Records; projected physical wear, camera drift and radial offset checked. Radial offset alone is not a complete tool collision audit; judge visible clearance in the proof. Original full section and prior proofs preserved. No full integration/finishing release; human review pending.
+
+## v032 — slightly tighter D framing
+
+Owner approves v031 and asks to be a bit closer for wear visibility. Increase final lens55to64mm (approximately16% image enlargement) and horizontal lens shift0.30to0.34; preserve exact camera side-offset path and gentle drift so the camera does not move back inside tool context. Retain approved opposite-side crossing, wear-left/ECCO-right arrangement, separate wear station and acquisition timing. Geometry, authored depth/scalars and calculated profiles remain unchanged. Bounded5second proof only; no full integration/finishing release.
+
+Output:05-Previs/Section-04_Cement-Casing-Integrity/CD-Arc-Test_v032/README.md. Benchmarks, native checks, actual render/decode evidence in Records. Original full scene and previous proofs preserved; human acceptance pending.
