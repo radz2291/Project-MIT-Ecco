@@ -1,0 +1,22 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v022\\Scenes\\S04_complete_v022.blend",
+  "source_sha256": "d980d670dc47e0a6bc96f2b1fa22fdaa23a8eec8aafc26e3228a4944bedc9029",
+  "cameras": [
+    {
+      "eye": [
+        -1.3286540508270264,
+        0.11999999731779099,
+        0.10499999672174454
+      ],
+      "target": [
+        -1.658653974533081,
+        0.09000000357627869,
+        0.0
+      ],
+      "lens": 20,
+      "seconds": 1.784158699971158
+    }
+  ],
+  "physical_geometry_edited": false,
+  "integration": false
+}
