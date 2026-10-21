@@ -1,0 +1,76 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v019\\Scenes\\S04_continuous-camera_v019.blend",
+  "source_sha256": "5a978f9de35a998b45a4f5dc7a0d963407aa71f8ad2b99dee2fd83f73178d359",
+  "source_C": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v019\\Scenes\\S04_C_comparison-window_v019.blend",
+  "source_C_sha256": "9562ac44d46ed80f84a10f4d5e9d5d011b9a184d3c68424decd3dc6dac861e5f",
+  "physical_meshes_unchanged": true,
+  "fixed_section_unchanged": true,
+  "B_effect_objects": 151,
+  "C_effect_objects": 154,
+  "B_retimed_actions": 278,
+  "C_retimed_actions": 284,
+  "B_source_time_scale": 0.64,
+  "C_source_time_scale": 0.64,
+  "B_source_start_frame": 63,
+  "C_source_start_frame": 175,
+  "hardware_motion": [
+    [
+      1,
+      0.25
+    ],
+    [
+      63,
+      -1.05
+    ],
+    [
+      141,
+      -1.05
+    ],
+    [
+      175,
+      -2.23
+    ],
+    [
+      261,
+      -2.23
+    ],
+    [
+      316,
+      -5.8
+    ],
+    [
+      432,
+      -5.8
+    ]
+  ],
+  "camera": "S04 proof camera",
+  "split_screen": false,
+  "C_overlay": false,
+  "channel_proxy_alpha": 1,
+  "cut_faces_plain_steel": true,
+  "geometry_fingerprints": {
+    "Section 2 geological surroundings - outside cement": "c1e7292dbbeff475980491f7fb901c4322c2dfb10c9abdacdae67f47f3e94fbf",
+    "Section 2 retained opposite ground": "69c4e6eee8a84b873fa6d84dc3dcc7834b9c9936c0579684bf617d7018405152",
+    "STEEL - capped true source section": "a8b29503004ae95272cace9b7d3e3d3eb3cc19956418d28030da2d401ad0adfc",
+    "Internal fluid visibility volume": "7d4a3c106bac0a84936458f0cc8aacf51c42beeec44e670cefc26bd6b4b8e5ed",
+    "FORMATION - closed source-guided continuation to frame edge": "6d4fcdf053a7c7e45c7dfc0af45beca15abdb5999fe3df8a60df23f265eb74ee",
+    "Steel - unchanged source with viewing window": "f5e9f36f7c82b13cb3076c310da783998c9a0213244c04f324b6f0f1369b5f48",
+    "CASED_CEMENT_UPHOLE_FULL local window": "c1d682a52ecbb4797cc2fb9fcf11838927b02b54567173e6021831dc1e4df71f",
+    "CASED_CEMENT_DOWNHOLE_FULL local window": "b8d3af4d79d295a3c1f168c1e2e4a91c06cabc6814f232ff887525236f204029",
+    "CASED_CEMENT_LEFT_FULL local window": "9ffdf447996104bb83c04b70cc9e961e3d41598e71eaeb0af2f652f8ab45b0cf",
+    "CASED_CEMENT_RIGHT_FULL local window": "14bcfe6945d77382d8908362e24f1c7ed49e1903ecf20164f3159103010c57c1",
+    "Formation facing inspection window": "59233670c4623cd7f530b69ceb5de8b97996e540b205f7537ad701b9322b009f",
+    "Formation retained rear ground": "59233670c4623cd7f530b69ceb5de8b97996e540b205f7537ad701b9322b009f",
+    "MUD_CURVED_REAR_OPTICAL_SKIN S04 clear cue": "c380006ca378c8f7d2b79153a9550e0cee6806a667d6eb181ef67706ec9abdb3",
+    "MUD_CURVED_OPTICAL_CUT S04 clear cue": "edf9714e955e90e0b63355f8c3315165a3aff113d26166c2bdc21a9d865ef773",
+    "Cement either side of organic gap A": "52233cc663c69f08cdbbb75c6d7ed92fce43a3e4f8413b7676c17db43e7e77bf",
+    "Cement either side of organic gap B": "107829c308bb0f7b1150cc48115bb663668a14e0a2cb5416dd28d4fb432e6f9d",
+    "Cement uphole continuation": "0d6ecd79850756200013ae932206ef87b9c245717c5d2110c8949d1edc7bcb1d",
+    "Cement downhole supported interval": "7c7b1434e493bd61404c1edf66807ecb5363001c1ec9743a21d3c6c50b8bf78e",
+    "Stationary organic fluid-filled channel volume": "1e1e5d15cbd97251cd8c4e81876596c2c67d9895959d7d043a20aa22fffe487f",
+    "s04-v005-1_ACOUSTICS_FIXED_SAMPLE": "5a335768a7d40e7b1682e9fe87b4f6ac16a0949e6bd3c9f5800d94e56c10386c",
+    "s04-v005-1_ACOUSTICS_CONTACT_CUP": "350995951f3c046b002d4fa4cf16833a8bec5fc77978c3571400597873c807e9",
+    "s04-v005-2_ACOUSTICS_FIXED_SAMPLE": "5a335768a7d40e7b1682e9fe87b4f6ac16a0949e6bd3c9f5800d94e56c10386c",
+    "s04-v005-2_ACOUSTICS_CONTACT_CUP": "350995951f3c046b002d4fa4cf16833a8bec5fc77978c3571400597873c807e9"
+  }
+}

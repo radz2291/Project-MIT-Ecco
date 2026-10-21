@@ -1,0 +1,23 @@
+{
+  "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Previews\\S04_sequential-camera_v020.mp4",
+  "sha256": "0791a4dcb757aa757c887fe927d156c2eeab0fa42f9bd555c011e9f8e351c5c3",
+  "frames": 432,
+  "fps": 24,
+  "duration_seconds": 18,
+  "resolution": [
+    1280,
+    720
+  ],
+  "single_camera": true,
+  "sequential_B_then_C": true,
+  "split_screen": false,
+  "comparison_window": false,
+  "full_decode": true,
+  "render_seconds_final_frame_mean": 0.5599372833332583,
+  "render_seconds_final_frame_max": 1.3638157999957912,
+  "render_seconds_final_frame_sum": 241.89290639996761,
+  "total_batch_render_seconds_including_C_timing_correction": 297.06816060002893,
+  "C_timing_correction_frames": 87,
+  "source_time_scale_B_and_C": 0.64,
+  "render_budget_under5_all_attempts": true
+}

@@ -1,0 +1,90 @@
+{
+  "saved_reopened": true,
+  "complete_native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Scenes\\S04_complete-sequential_v020.blend",
+  "physical_scene": "S04 sequential A B C D - one camera v020",
+  "one_camera_across432_frames": true,
+  "physical_mesh_coordinates_topology_identical_to_v019": true,
+  "physical_layer_transforms_and_visibility_static": true,
+  "section_fixed50percent": true,
+  "maximum_authored_loss_mm": 3.99760901927948,
+  "source_bytes_unchanged": true,
+  "canonical_master_unchanged_sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+  "B_C_matched_projection": {
+    "B": {
+      "sensor": [
+        0.5052151679992676,
+        0.44981643557548523,
+        0.5222985744476318
+      ],
+      "contact": [
+        0.49472618103027344,
+        0.5507513284683228,
+        0.5112465620040894
+      ]
+    },
+    "C": {
+      "sensor": [
+        0.5052148103713989,
+        0.44981610774993896,
+        0.5222985148429871
+      ],
+      "contact": [
+        0.49472108483314514,
+        0.5507964491844177,
+        0.5112416744232178
+      ]
+    }
+  },
+  "hardware_travel_B_C": [
+    [
+      "B",
+      -1.0499999523162842
+    ],
+    [
+      "C",
+      -2.2300000190734863
+    ]
+  ],
+  "minimum_conservative_casing_clearance_m": 0.05916516194939613,
+  "all_review_image_dependencies_exist": true,
+  "libraries": [
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+      "relative": true,
+      "exists": true
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "relative": true,
+      "exists": true
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "relative": true,
+      "exists": true
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "relative": true,
+      "exists": true
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "relative": true,
+      "exists": true
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+      "relative": true,
+      "exists": true
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "relative": true,
+      "exists": true
+    }
+  ],
+  "no_split_screen_or_insert": true,
+  "engineering_acceptance": false,
+  "cold_viewer_test": "Not performed; owner normal-speed review pending"
+}

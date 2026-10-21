@@ -1,0 +1,18 @@
+{
+  "opened": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v020\\Scenes\\S04_complete-sequential_v020.blend",
+  "physical_scene": "S04 sequential A B C D - one camera v020",
+  "frame": 85,
+  "fps": 24,
+  "range": [
+    1,
+    432
+  ],
+  "previous": {
+    "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v019\\Scenes\\S04_complete-continuous_v019.blend",
+    "dirty": false
+  },
+  "maximum_adjacent_frame_camera_rotation_degrees": 4.475118172964375,
+  "maximum_adjacent_frame_camera_translation_m": 0.06492364253267231,
+  "single_camera": "S04 proof camera",
+  "no_split_screen": true
+}
