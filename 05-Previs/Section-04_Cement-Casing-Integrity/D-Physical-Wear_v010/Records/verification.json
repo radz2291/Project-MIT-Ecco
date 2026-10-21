@@ -1,0 +1,23 @@
+{
+  "render_seconds": 2.244306200009305,
+  "under_5_seconds": true,
+  "physical_meshes_unchanged": true,
+  "camera_unchanged": true,
+  "inspection_volume_x_m": [
+    -2.1,
+    -1.5125
+  ],
+  "inspection_volume_azimuth_rad": [
+    -0.35,
+    0.35
+  ],
+  "sampled_gap_m": [
+    5.0972971541662915e-05,
+    0.003997588178634631
+  ],
+  "volume_source": "Nominal RI to radial ray hits on actual registered source mesh",
+  "radial_scale": 1,
+  "no_numeric_volume_claim": true,
+  "previous_comparison_bracket_hidden": true,
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v009\\Scenes\\S04_D_physical-comparison_v009.blend"
+}
