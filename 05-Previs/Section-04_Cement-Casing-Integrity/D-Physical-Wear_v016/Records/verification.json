@@ -1,0 +1,31 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v015\\Scenes\\S04_D_selective-wear-rings_v015.blend",
+  "render_seconds": 2.9739310999866575,
+  "under_5_seconds": true,
+  "physical_geometry_camera_lights_visible_curves_unchanged": true,
+  "calculation": "d=max(0,r_actual_inner_mesh-r_nominal_source_intersection), registered axial/azimuth coordinates; values below 0.1 micrometre removed as roundoff",
+  "max_computed_loss_m": 0.00399760901927948,
+  "unchanged_area_samples": 98,
+  "unchanged_area_depth_exactly_zero": true,
+  "outer_surface_depth_exactly_zero": true,
+  "section_edge_reference_vertex_fallbacks": 0,
+  "scalar_attribute": "ComputedWearDepth_m",
+  "heat_material_slots": [
+    0
+  ],
+  "static_inspection_section_material_unchanged": true,
+  "field_calibration_claim": false,
+  "new_image_textures": false,
+  "new_noise_driven_mask": false,
+  "displacement_or_bump_added": false,
+  "shader_color_scale_m": [
+    0,
+    0.004
+  ],
+  "shader_fade_range_m": [
+    2.5e-05,
+    0.004
+  ],
+  "heat_max_mix": 0.68,
+  "sample_csv": "Records/computed-wear-samples.csv"
+}
