@@ -1,0 +1,34 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Physical-Wear_v009\\Scenes\\S04_D_physical-comparison_v009.blend",
+  "render_seconds": 1.2773722999845631,
+  "under_5_seconds": true,
+  "physical_meshes_camera_lights_unchanged": true,
+  "stations": [
+    {
+      "x_m": -1.88,
+      "sampled_actual_radial_change_range_m": [
+        0.0,
+        0.0021479725630959437
+      ]
+    },
+    {
+      "x_m": -1.68,
+      "sampled_actual_radial_change_range_m": [
+        0.0,
+        0.003486692904916558
+      ]
+    }
+  ],
+  "removed_near_normal_station_m": -2.16,
+  "nominal_style": "white dashed",
+  "worn_style": "cyan solid",
+  "profile_radial_visibility_offset_m": 4e-05,
+  "radial_exaggeration": false,
+  "ghost_fill_present": false,
+  "depth_pins_present": false,
+  "fixed_front_comparison_preserved": true,
+  "all_new_graphics_are_registered_cross_sections": true,
+  "source_nominal": "CASED_STEEL_NOMINAL_CUTAWAY",
+  "source_worn": "CASED_STEEL_WEAR_CUTAWAY",
+  "numeric_measurements_added": false
+}

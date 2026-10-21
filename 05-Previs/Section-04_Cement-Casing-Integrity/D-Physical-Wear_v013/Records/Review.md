@@ -1,0 +1,6 @@
+
+### D worn stations and line hierarchy v013 — 21 October 2026
+
+Owner accepts v012 direction, removes the furthest near-normal station, requests another middle station, and specifies dashed normal reference versus solid blue worn profile. D-Physical-Wear_v013 keeps the previously worn station X=-1.88m and adds X=-1.68m between it and the preserved front section at X=-1.5125m. Removed X=-2.16m entirely. Both new stations use dashed white source-nominal profiles and continuous cyan-blue actual source-worn profiles. Maximum sampled source differences2.148mm and3.487mm respectively; no enlargement. Original front dashed/solid pair and small bracket remain. Camera/lens/lights/physical mesh coordinates/topology unchanged against v009 baseline; no ghost, pins, new dimensions or animation.
+
+One1280x720 EEVEE8 still rendered in1.277s. Self-review: no near-normal far ring remains; stronger wear stations now form a consistent dashed-original/solid-current sequence along depth. Same illustrative interpretation limits remain, no calibrated wear/volume/thickness claim. Native reopened in Blender rendered camera view, relative dependencies accessible, curve styles/counts checked. Previous versions and B/C/masters preserved. Owner review pending, no full D integration release. Exact paths/settings/changes in version Records/verification.json and opened-in-Blender.json.
