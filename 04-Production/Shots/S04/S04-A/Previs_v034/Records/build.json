@@ -1,0 +1,80 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\S04_continuous_ABCD_v033.blend",
+  "source_sha256": "018f65027ab9f190709085bcaf103edf10dc565bc49ab2c76d0dad79675ec77f",
+  "native": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v034\\Scenes\\S04_continuous_ABCD_v034.blend",
+  "all_physical_meshes_unchanged": true,
+  "computed_depth_values_unchanged": true,
+  "max_authored_depth_mm": 3.99760901927948,
+  "hidden_helper_curves": [
+    "ECCO_CUTTER_PREVIEW_ONLY design edges v033"
+  ],
+  "opening_projected_sensor": [
+    {
+      "frame": 1,
+      "sensor_screen": [
+        0.6398698091506958,
+        0.5474833846092224
+      ],
+      "camera": [
+        1.7999999523162842,
+        1.899999976158142,
+        2.4000000953674316
+      ]
+    },
+    {
+      "frame": 12,
+      "sensor_screen": [
+        0.6398698687553406,
+        0.5474833846092224
+      ],
+      "camera": [
+        1.745348572731018,
+        1.899999976158142,
+        2.4000000953674316
+      ]
+    },
+    {
+      "frame": 24,
+      "sensor_screen": [
+        0.5597145557403564,
+        0.48257070779800415
+      ],
+      "camera": [
+        1.3661686182022095,
+        1.7237911224365234,
+        2.28232741355896
+      ]
+    },
+    {
+      "frame": 40,
+      "sensor_screen": [
+        0.29636797308921814,
+        -0.5519660115242004
+      ],
+      "camera": [
+        0.27876052260398865,
+        0.7530941963195801,
+        1.4269040822982788
+      ]
+    },
+    {
+      "frame": 63,
+      "sensor_screen": [
+        0.5092100501060486,
+        0.4113748073577881
+      ],
+      "camera": [
+        -0.4699999988079071,
+        -0.011193066835403442,
+        0.5699778199195862
+      ]
+    }
+  ],
+  "B_C_and_crossing_camera_preserved_from_frame": 63,
+  "D_changes": "Satin metallic/roughness and broad fill; zero geometry edits",
+  "marked_region_inspection": "v033 frame432 samples x=.60-.75,y=.18-.35 hit the inner steel at authored depth0mm. Shading/reflection is the likely false-pit cause, not a cement void.",
+  "duration_seconds": 18,
+  "frames": 432,
+  "human_approval": "pending",
+  "C_candidate": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v034\\Scenes\\S04_continuous_ABCD_v034.blend"
+}

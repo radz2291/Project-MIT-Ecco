@@ -1,0 +1,32 @@
+[
+  {
+    "frame": 1,
+    "seconds": 1.5736851000110619,
+    "execution": "running Blender"
+  },
+  {
+    "frame": 280,
+    "seconds": 1.1530465999967419,
+    "execution": "running Blender"
+  },
+  {
+    "frame": 432,
+    "seconds": 0.8413813000079244,
+    "execution": "running Blender"
+  },
+  {
+    "frame": 12,
+    "seconds": 1.0735302999964915,
+    "execution": "running Blender"
+  },
+  {
+    "frame": 40,
+    "seconds": 1.177598999987822,
+    "execution": "running Blender"
+  },
+  {
+    "frame": 336,
+    "seconds": 1.043729999975767,
+    "execution": "running Blender"
+  }
+]

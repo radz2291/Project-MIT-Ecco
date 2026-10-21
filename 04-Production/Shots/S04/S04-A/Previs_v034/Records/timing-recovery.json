@@ -1,0 +1,23 @@
+{
+  "reason": "C manifest truncated when drive filled; completed batch receipts retained their maximum timings",
+  "reconstructed_new_frames": 120,
+  "each_reconstructed_seconds_value_is_an_upper_bound": true,
+  "original_batch_maxima_seconds": [
+    3.138027900015004,
+    3.1590690999873914,
+    2.949082399951294,
+    3.5310792000382207,
+    2.579799999948591,
+    2.6741540000075474,
+    2.5973656999995,
+    3.977097099996172,
+    3.062242799962405,
+    3.241385300003458
+  ],
+  "resume_frames": [
+    319,
+    431
+  ],
+  "already_rendered_319_to321_will_be_repeated_for_timing_integrity": true,
+  "mean_must_be_reported_as_upper_bound_until_measured_individually": true
+}

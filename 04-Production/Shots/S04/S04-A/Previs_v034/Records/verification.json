@@ -1,0 +1,87 @@
+{
+  "physical_mesh_hashes_identical": true,
+  "computed_wear_values_identical": true,
+  "max_authored_wear_mm": 3.99760901927948,
+  "opening_housing_bbox_screen": [
+    0.1329823136329651,
+    0.8504382371902466,
+    0.23515458405017853,
+    0.7475067973136902
+  ],
+  "camera_from_frame63_unchanged_samples": [
+    63,
+    85,
+    104,
+    206,
+    261,
+    280,
+    300,
+    336,
+    400,
+    432
+  ],
+  "one_camera_all432frames": true,
+  "helper_cutting_wire_hidden": [
+    "ECCO_CUTTER_PREVIEW_ONLY design edges v033"
+  ],
+  "sensor_data_alignment": [
+    {
+      "frame": 85,
+      "sensor_x_m": -0.31999993324279785,
+      "data_front_x_m": -0.31999993324279785
+    },
+    {
+      "frame": 206,
+      "sensor_x_m": -1.5,
+      "data_front_x_m": -1.5
+    },
+    {
+      "frame": 337,
+      "sensor_x_m": -3.049999952316284,
+      "data_front_x_m": -3.049999952316284
+    },
+    {
+      "frame": 400,
+      "sensor_x_m": -3.4616732597351074,
+      "data_front_x_m": -3.4616732597351074
+    },
+    {
+      "frame": 432,
+      "sensor_x_m": -3.5,
+      "data_front_x_m": -3.5
+    }
+  ],
+  "max_rotation_step_degrees": 52.66941235047672,
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true
+    }
+  ],
+  "previous_version_unchanged": true,
+  "human_visual_review": "pending"
+}

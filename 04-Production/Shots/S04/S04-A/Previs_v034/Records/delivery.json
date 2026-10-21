@@ -1,0 +1,21 @@
+{
+  "video": "D:\\MIT-ECCO-Render-Recovery\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v034\\Previews\\S04_continuous_ABCD_v034.mp4",
+  "sha256": "49464af44a6cf12d81bfebe337a8e0caabe6cc15b6b21bf14d1e69b244cc6a22",
+  "frames": 432,
+  "fps": 24,
+  "duration_seconds": 18,
+  "resolution": [
+    1280,
+    720
+  ],
+  "full_decode": true,
+  "mean_perframe_seconds_upper_bound": 1.546681142822005,
+  "maximum_seconds_upper_bound": 3.977097099996172,
+  "render_seconds_sum_upper_bound": 668.1662536991062,
+  "timing_note": "Some completed frames use conservative batch-max bounds after C-drive manifest loss; these are not individual exact timings.",
+  "all_frames_under5seconds": true,
+  "single_camera": true,
+  "D_detection_tied_to_sensor": true,
+  "integration_scope": "A B C D full continuous18second previs",
+  "human_approval": "pending"
+}

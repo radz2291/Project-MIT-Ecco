@@ -1,0 +1,18 @@
+[
+  {
+    "file": "Scenes/S04_continuous_ABCD_v033.blend",
+    "primary": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shots/S04/S04-A/Previs_v033/Scenes/S04_continuous_ABCD_v033.blend",
+    "recovery": "D:/MIT-ECCO-Render-Recovery/261013-MIT-Ecco/04-Production/Shots/S04/S04-A/Previs_v033/Scenes/S04_continuous_ABCD_v033.blend",
+    "primary_sha256": "018F65027AB9F190709085BCAF103EDF10DC565BC49AB2C76D0DAD79675EC77F",
+    "recovery_sha256": "B68431C589295A949EA01AE52AAC9274E5DF6678E92D94D7070B42C44D8C4CF2",
+    "identical": false
+  },
+  {
+    "file": "Previews/S04_continuous_ABCD_v033.mp4",
+    "primary": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/04-Production/Shots/S04/S04-A/Previs_v033/Previews/S04_continuous_ABCD_v033.mp4",
+    "recovery": "D:/MIT-ECCO-Render-Recovery/261013-MIT-Ecco/04-Production/Shots/S04/S04-A/Previs_v033/Previews/S04_continuous_ABCD_v033.mp4",
+    "primary_sha256": "2587E99921F59DEC9B6E4FB637A7F1021665623E9614ECC98A11BA62A152DFA2",
+    "recovery_sha256": "2587E99921F59DEC9B6E4FB637A7F1021665623E9614ECC98A11BA62A152DFA2",
+    "identical": true
+  }
+]
