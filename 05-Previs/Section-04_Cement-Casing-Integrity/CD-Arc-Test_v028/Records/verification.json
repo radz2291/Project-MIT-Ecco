@@ -1,0 +1,116 @@
+{
+  "native_reopened": true,
+  "one_camera_all120frames": true,
+  "steel_transform_visibility_fixed": true,
+  "computed_depth_fixed": true,
+  "max_authored_wear_mm": 3.99760901927948,
+  "wear_station_translation_m": -0.65,
+  "wear_mesh_local_shape_matches_source": true,
+  "source_files_unchanged": true,
+  "sensor_reveal_alignment": [
+    {
+      "frame": 1,
+      "sensor_world_m": [
+        -1.5,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reveal_front_m": -1.5
+    },
+    {
+      "frame": 17,
+      "sensor_world_m": [
+        -1.5,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "reveal_front_m": -1.5
+    },
+    {
+      "frame": 33,
+      "sensor_world_m": [
+        -1.8446435928344727,
+        0.12246076762676239,
+        0.040550731122493744
+      ],
+      "reveal_front_m": -1.8446435928344727
+    },
+    {
+      "frame": 48,
+      "sensor_world_m": [
+        -2.1500000953674316,
+        0.1290000081062317,
+        0.0
+      ],
+      "reveal_front_m": -2.1500000953674316
+    },
+    {
+      "frame": 65,
+      "sensor_world_m": [
+        -2.2071993350982666,
+        0.1290000081062317,
+        0.0
+      ],
+      "reveal_front_m": -2.2071993350982666
+    },
+    {
+      "frame": 90,
+      "sensor_world_m": [
+        -2.523557662963867,
+        0.1290000081062317,
+        0.0
+      ],
+      "reveal_front_m": -2.523557662963867
+    },
+    {
+      "frame": 120,
+      "sensor_world_m": [
+        -2.5999999046325684,
+        0.1290000081062317,
+        0.0
+      ],
+      "reveal_front_m": -2.5999999046325684
+    }
+  ],
+  "maximum_frame_camera_step_m": 0.05869784930225092,
+  "maximum_frame_rotation_degrees": 13.95279666764032,
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+      "exists": true,
+      "relative": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+      "exists": true,
+      "relative": true
+    }
+  ],
+  "full_sequence_integration": false,
+  "human_review": "pending"
+}
