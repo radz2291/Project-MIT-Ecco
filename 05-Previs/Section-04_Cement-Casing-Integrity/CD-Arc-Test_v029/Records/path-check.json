@@ -1,0 +1,14 @@
+{
+  "interpretation": "User drawing No1: overhead rise-forward-descend, not sideways orbit",
+  "camera_peak_z_m": 1.1270339488983154,
+  "camera_start_z_m": 0.5699778199195862,
+  "camera_end_z_m": 0.05999999865889549,
+  "lateral_y_range_m": 0.008905477821826935,
+  "fixed_wear_translation_from_original_m": -0.65,
+  "arc_and_style_frames": [
+    17,
+    48
+  ],
+  "one_camera": true,
+  "review": "Human playback acceptance pending"
+}

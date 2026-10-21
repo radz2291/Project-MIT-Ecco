@@ -1,0 +1,32 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\Cinematic-Previs_v022\\Scenes\\S04_complete_v022.blend",
+  "source_sha256": "d980d670dc47e0a6bc96f2b1fa22fdaa23a8eec8aafc26e3228a4944bedc9029",
+  "stage": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\D-Scientific-Stage_v026\\Scenes\\S04_D_B_v026.blend",
+  "stage_sha256": "bbe4591b83a1e204be70e3b8d43750e5bb86e33eaa574176d024c48b5da3cee2",
+  "physical_meshes_unchanged": true,
+  "wear_specimen_axial_translation_m": -0.65,
+  "wear_shape_depth_unchanged": true,
+  "arc_side": "No1 overhead XZ rise-forward-descend; negligible lateral travel",
+  "computed_depth_unchanged": true,
+  "max_authored_wear_mm": 3.99760901927948,
+  "context_objects": [
+    "Internal fluid visibility volume",
+    "FORMATION - closed source-guided continuation to frame edge",
+    "Cement either side of organic gap A",
+    "Cement either side of organic gap B",
+    "Cement uphole continuation",
+    "Cement downhole supported interval",
+    "Stationary organic fluid-filled channel volume"
+  ],
+  "arc_and_style_frames": [
+    17,
+    48
+  ],
+  "D_scan_frames": [
+    49,
+    108
+  ],
+  "duration_seconds": 5,
+  "single_camera": true,
+  "full_section_integration": false
+}

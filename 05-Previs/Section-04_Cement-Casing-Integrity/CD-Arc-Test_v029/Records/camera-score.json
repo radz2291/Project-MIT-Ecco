@@ -1,0 +1,1802 @@
+[
+  {
+    "frame": 1,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 2,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 3,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 4,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 5,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 6,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 7,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 8,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 9,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 10,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 11,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 12,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 13,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 14,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 15,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 16,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 17,
+    "arc_and_style_progress": 0,
+    "camera_m": [
+      -1.649999976158142,
+      -0.011193066835403442,
+      0.5699778199195862
+    ],
+    "lens_mm": 65.0,
+    "sensor_x_m": -1.4999999809265137,
+    "opening_plane_clearance_m": 0.44999999599531293,
+    "tool_body_opacity": 1,
+    "wire_opacity": 0,
+    "context_opacity": 1
+  },
+  {
+    "frame": 18,
+    "arc_and_style_progress": 0.00031963923764277875,
+    "camera_m": [
+      -1.6498371362686157,
+      -0.011191926896572113,
+      0.5709171295166016
+    ],
+    "lens_mm": 64.9968032836914,
+    "sensor_x_m": -1.5002077464309815,
+    "opening_plane_clearance_m": 0.4507292564958334,
+    "tool_body_opacity": 0.9996803607623572,
+    "wire_opacity": 0.00031963923764277875,
+    "context_opacity": 0.9996803607623572
+  },
+  {
+    "frame": 19,
+    "arc_and_style_progress": 0.0024322062501958225,
+    "camera_m": [
+      -1.6487722396850586,
+      -0.01118455920368433,
+      0.5771042108535767
+    ],
+    "lens_mm": 64.97567749023438,
+    "sensor_x_m": -1.501580914989141,
+    "opening_plane_clearance_m": 0.45553289679810405,
+    "tool_body_opacity": 0.9975677937498042,
+    "wire_opacity": 0.0024322062501958225,
+    "context_opacity": 0.9975677937498042
+  },
+  {
+    "frame": 20,
+    "arc_and_style_progress": 0.007798449908626349,
+    "camera_m": [
+      -1.646153450012207,
+      -0.011167186312377453,
+      0.5926543474197388
+    ],
+    "lens_mm": 64.92201232910156,
+    "sensor_x_m": -1.5050689733671208,
+    "opening_plane_clearance_m": 0.46760668605566025,
+    "tool_body_opacity": 0.9922015500913737,
+    "wire_opacity": 0.007798449908626349,
+    "context_opacity": 0.9922015500913737
+  },
+  {
+    "frame": 21,
+    "arc_and_style_progress": 0.017539604999114358,
+    "camera_m": [
+      -1.6417109966278076,
+      -0.011140505783259869,
+      0.6202754378318787
+    ],
+    "lens_mm": 64.82460021972656,
+    "sensor_x_m": -1.511400724175938,
+    "opening_plane_clearance_m": 0.48905552504584193,
+    "tool_body_opacity": 0.9824603950008857,
+    "wire_opacity": 0.017539604999114358,
+    "context_opacity": 0.9824603950008857
+  },
+  {
+    "frame": 22,
+    "arc_and_style_progress": 0.03246254141451837,
+    "camera_m": [
+      -1.635667324066162,
+      -0.011111538857221603,
+      0.661080539226532
+    ],
+    "lens_mm": 64.67537689208984,
+    "sensor_x_m": -1.5211006328459504,
+    "opening_plane_clearance_m": 0.5207488141022623,
+    "tool_body_opacity": 0.9675374585854817,
+    "wire_opacity": 0.03246254141451837,
+    "context_opacity": 0.9675374585854817
+  },
+  {
+    "frame": 23,
+    "arc_and_style_progress": 0.053084913345841096,
+    "camera_m": [
+      -1.6287816762924194,
+      -0.01109452173113823,
+      0.7144875526428223
+    ],
+    "lens_mm": 64.46915435791016,
+    "sensor_x_m": -1.5345051746013105,
+    "opening_plane_clearance_m": 0.5622431435622275,
+    "tool_body_opacity": 0.9469150866541589,
+    "wire_opacity": 0.053084913345841096,
+    "context_opacity": 0.9469150866541589
+  },
+  {
+    "frame": 24,
+    "arc_and_style_progress": 0.07966030847369521,
+    "camera_m": [
+      -1.6222965717315674,
+      -0.011110319755971432,
+      0.7782613635063171
+    ],
+    "lens_mm": 64.20339965820312,
+    "sensor_x_m": -1.5517791814344157,
+    "opening_plane_clearance_m": 0.611814646050334,
+    "tool_body_opacity": 0.9203396915263048,
+    "wire_opacity": 0.07966030847369521,
+    "context_opacity": 0.9203396915263048
+  },
+  {
+    "frame": 25,
+    "arc_and_style_progress": 0.11220339715976904,
+    "camera_m": [
+      -1.617780327796936,
+      -0.01118427887558937,
+      0.8487161993980408
+    ],
+    "lens_mm": 63.877967834472656,
+    "sensor_x_m": -1.5729321890803636,
+    "opening_plane_clearance_m": 0.6666148509830236,
+    "tool_body_opacity": 0.887796602840231,
+    "wire_opacity": 0.11220339715976904,
+    "context_opacity": 0.887796602840231
+  },
+  {
+    "frame": 26,
+    "arc_and_style_progress": 0.15051508163829241,
+    "camera_m": [
+      -1.6168862581253052,
+      -0.011342806741595268,
+      0.9210627675056458
+    ],
+    "lens_mm": 63.494850158691406,
+    "sensor_x_m": -1.5978347839914036,
+    "opening_plane_clearance_m": 0.7229384854435921,
+    "tool_body_opacity": 0.8494849183617076,
+    "wire_opacity": 0.15051508163829241,
+    "context_opacity": 0.8494849183617076
+  },
+  {
+    "frame": 27,
+    "arc_and_style_progress": 0.19420764520750192,
+    "camera_m": [
+      -1.6210683584213257,
+      -0.011609216220676899,
+      0.9898662567138672
+    ],
+    "lens_mm": 63.05792236328125,
+    "sensor_x_m": -1.6262349503113898,
+    "opening_plane_clearance_m": 0.7765765152871609,
+    "tool_body_opacity": 0.8057923547924981,
+    "wire_opacity": 0.19420764520750192,
+    "context_opacity": 0.8057923547924981
+  },
+  {
+    "frame": 28,
+    "arc_and_style_progress": 0.2427299014211075,
+    "camera_m": [
+      -1.6313034296035767,
+      -0.011999616399407387,
+      1.049564242362976
+    ],
+    "lens_mm": 62.57270050048828,
+    "sensor_x_m": -1.6577744168502337,
+    "opening_plane_clearance_m": 0.8232162520289421,
+    "tool_body_opacity": 0.7572700985788925,
+    "wire_opacity": 0.2427299014211075,
+    "context_opacity": 0.7572700985788925
+  },
+  {
+    "frame": 29,
+    "arc_and_style_progress": 0.29539234327975705,
+    "camera_m": [
+      -1.647873044013977,
+      -0.01251955609768629,
+      1.0949879884719849
+    ],
+    "lens_mm": 62.046077728271484,
+    "sensor_x_m": -1.6920050040583559,
+    "opening_plane_clearance_m": 0.8588443119078875,
+    "tool_body_opacity": 0.704607656720243,
+    "wire_opacity": 0.29539234327975705,
+    "context_opacity": 0.704607656720243
+  },
+  {
+    "frame": 30,
+    "arc_and_style_progress": 0.3513922924225032,
+    "camera_m": [
+      -1.6702467203140259,
+      -0.013162066228687763,
+      1.1218326091766357
+    ],
+    "lens_mm": 61.48607635498047,
+    "sensor_x_m": -1.7284049710011407,
+    "opening_plane_clearance_m": 0.8801108784973621,
+    "tool_body_opacity": 0.6486077075774968,
+    "wire_opacity": 0.3513922924225032,
+    "context_opacity": 0.6486077075774968
+  },
+  {
+    "frame": 31,
+    "arc_and_style_progress": 0.4098390483182683,
+    "camera_m": [
+      -1.6970913410186768,
+      -0.013907475396990776,
+      1.1270339488983154
+    ],
+    "lens_mm": 60.901611328125,
+    "sensor_x_m": -1.766395362333388,
+    "opening_plane_clearance_m": 0.8846221873536706,
+    "tool_body_opacity": 0.5901609516817317,
+    "wire_opacity": 0.4098390483182683,
+    "context_opacity": 0.5901609516817317
+  },
+  {
+    "frame": 32,
+    "arc_and_style_progress": 0.46977903745731053,
+    "camera_m": [
+      -1.7264094352722168,
+      -0.01472508069127798,
+      1.1090176105499268
+    ],
+    "lens_mm": 60.302207946777344,
+    "sensor_x_m": -1.8053563552737657,
+    "opening_plane_clearance_m": 0.8711353540420532,
+    "tool_body_opacity": 0.5302209625426895,
+    "wire_opacity": 0.46977903745731053,
+    "context_opacity": 0.5302209625426895
+  },
+  {
+    "frame": 33,
+    "arc_and_style_progress": 0.5302209625426894,
+    "camera_m": [
+      -1.7557892799377441,
+      -0.015576455742120743,
+      1.0678050518035889
+    ],
+    "lens_mm": 59.697792053222656,
+    "sensor_x_m": -1.844643606579262,
+    "opening_plane_clearance_m": 0.8396430024877191,
+    "tool_body_opacity": 0.46977903745731064,
+    "wire_opacity": 0.5302209625426894,
+    "context_opacity": 0.46977903745731064
+  },
+  {
+    "frame": 34,
+    "arc_and_style_progress": 0.5901609516817315,
+    "camera_m": [
+      -1.7827261686325073,
+      -0.01641988754272461,
+      1.0049786567687988
+    ],
+    "lens_mm": 59.098388671875,
+    "sensor_x_m": -1.8836045995196393,
+    "opening_plane_clearance_m": 0.7913484675809741,
+    "tool_body_opacity": 0.40983904831826845,
+    "wire_opacity": 0.5901609516817315,
+    "context_opacity": 0.40983904831826845
+  },
+  {
+    "frame": 35,
+    "arc_and_style_progress": 0.6486077075774969,
+    "camera_m": [
+      -1.8049654960632324,
+      -0.017215242609381676,
+      0.9235171675682068
+    ],
+    "lens_mm": 58.51392364501953,
+    "sensor_x_m": -1.9215949908518866,
+    "opening_plane_clearance_m": 0.7285415371879935,
+    "tool_body_opacity": 0.35139229242250314,
+    "wire_opacity": 0.6486077075774969,
+    "context_opacity": 0.35139229242250314
+  },
+  {
+    "frame": 36,
+    "arc_and_style_progress": 0.704607656720243,
+    "camera_m": [
+      -1.8208117485046387,
+      -0.017928550019860268,
+      0.8275264501571655
+    ],
+    "lens_mm": 57.953922271728516,
+    "sensor_x_m": -1.9579949577946714,
+    "opening_plane_clearance_m": 0.6543916463851929,
+    "tool_body_opacity": 0.29539234327975705,
+    "wire_opacity": 0.704607656720243,
+    "context_opacity": 0.29539234327975705
+  },
+  {
+    "frame": 37,
+    "arc_and_style_progress": 0.7572700985788924,
+    "camera_m": [
+      -1.8293545246124268,
+      -0.0185355506837368,
+      0.7218988537788391
+    ],
+    "lens_mm": 57.42729949951172,
+    "sensor_x_m": -1.9922255450027935,
+    "opening_plane_clearance_m": 0.5726855909451842,
+    "tool_body_opacity": 0.24272990142110762,
+    "wire_opacity": 0.7572700985788924,
+    "context_opacity": 0.24272990142110762
+  },
+  {
+    "frame": 38,
+    "arc_and_style_progress": 0.8057923547924981,
+    "camera_m": [
+      -1.830573558807373,
+      -0.01902373693883419,
+      0.6119312644004822
+    ],
+    "lens_mm": 56.94207763671875,
+    "sensor_x_m": -2.0237650115416375,
+    "opening_plane_clearance_m": 0.48753194510936737,
+    "tool_body_opacity": 0.1942076452075019,
+    "wire_opacity": 0.8057923547924981,
+    "context_opacity": 0.1942076452075019
+  },
+  {
+    "frame": 39,
+    "arc_and_style_progress": 0.8494849183617078,
+    "camera_m": [
+      -1.8253074884414673,
+      -0.019392620772123337,
+      0.5029359459877014
+    ],
+    "lens_mm": 56.505149841308594,
+    "sensor_x_m": -2.0521651778616237,
+    "opening_plane_clearance_m": 0.40305882785469294,
+    "tool_body_opacity": 0.1505150816382922,
+    "wire_opacity": 0.8494849183617078,
+    "context_opacity": 0.1505150816382922
+  },
+  {
+    "frame": 40,
+    "arc_and_style_progress": 0.887796602840231,
+    "camera_m": [
+      -1.8150923252105713,
+      -0.019652249291539192,
+      0.3998699188232422
+    ],
+    "lens_mm": 56.122032165527344,
+    "sensor_x_m": -2.077067772772664,
+    "opening_plane_clearance_m": 0.32312487065792084,
+    "tool_body_opacity": 0.11220339715976901,
+    "wire_opacity": 0.887796602840231,
+    "context_opacity": 0.11220339715976901
+  },
+  {
+    "frame": 41,
+    "arc_and_style_progress": 0.9203396915263043,
+    "camera_m": [
+      -1.8018971681594849,
+      -0.01982033997774124,
+      0.3070046603679657
+    ],
+    "lens_mm": 55.79660415649414,
+    "sensor_x_m": -2.0982207804186115,
+    "opening_plane_clearance_m": 0.25106078293174505,
+    "tool_body_opacity": 0.07966030847369565,
+    "wire_opacity": 0.9203396915263043,
+    "context_opacity": 0.07966030847369565
+  },
+  {
+    "frame": 42,
+    "arc_and_style_progress": 0.9469150866541584,
+    "camera_m": [
+      -1.7878063917160034,
+      -0.01991862803697586,
+      0.22765114903450012
+    ],
+    "lens_mm": 55.53084945678711,
+    "sensor_x_m": -2.1154947872517167,
+    "opening_plane_clearance_m": 0.18945337738841772,
+    "tool_body_opacity": 0.053084913345841644,
+    "wire_opacity": 0.9469150866541584,
+    "context_opacity": 0.053084913345841644
+  },
+  {
+    "frame": 43,
+    "arc_and_style_progress": 0.9675374585854807,
+    "camera_m": [
+      -1.7746975421905518,
+      -0.019969109445810318,
+      0.16394749283790588
+    ],
+    "lens_mm": 55.32462692260742,
+    "sensor_x_m": -2.1288993290070763,
+    "opening_plane_clearance_m": 0.1399781098589301,
+    "tool_body_opacity": 0.03246254141451932,
+    "wire_opacity": 0.9675374585854807,
+    "context_opacity": 0.03246254141451932
+  },
+  {
+    "frame": 44,
+    "arc_and_style_progress": 0.9824603950008859,
+    "camera_m": [
+      -1.7639756202697754,
+      -0.019990883767604828,
+      0.11671397089958191
+    ],
+    "lens_mm": 55.17539596557617,
+    "sensor_x_m": -2.1385992376770897,
+    "opening_plane_clearance_m": 0.10328446328639984,
+    "tool_body_opacity": 0.01753960499911411,
+    "wire_opacity": 0.9824603950008859,
+    "context_opacity": 0.01753960499911411
+  },
+  {
+    "frame": 45,
+    "arc_and_style_progress": 0.992201550091373,
+    "camera_m": [
+      -1.7563999891281128,
+      -0.019998185336589813,
+      0.08537471294403076
+    ],
+    "lens_mm": 55.07798385620117,
+    "sensor_x_m": -2.144930988485906,
+    "opening_plane_clearance_m": 0.07893387787044048,
+    "tool_body_opacity": 0.007798449908626992,
+    "wire_opacity": 0.992201550091373,
+    "context_opacity": 0.007798449908626992
+  },
+  {
+    "frame": 46,
+    "arc_and_style_progress": 0.997567793749804,
+    "camera_m": [
+      -1.752028465270996,
+      -0.019999822601675987,
+      0.06794106215238571
+    ],
+    "lens_mm": 55.024322509765625,
+    "sensor_x_m": -2.148419046863886,
+    "opening_plane_clearance_m": 0.06538641825318336,
+    "tool_body_opacity": 0.002432206250196023,
+    "wire_opacity": 0.997567793749804,
+    "context_opacity": 0.002432206250196023
+  },
+  {
+    "frame": 47,
+    "arc_and_style_progress": 0.9996803607623564,
+    "camera_m": [
+      -1.7502682209014893,
+      -0.019999995827674866,
+      0.06104500591754913
+    ],
+    "lens_mm": 55.003196716308594,
+    "sensor_x_m": -2.1497922154220452,
+    "opening_plane_clearance_m": 0.060027288272976875,
+    "tool_body_opacity": 0.0003196392376435542,
+    "wire_opacity": 0.9996803607623564,
+    "context_opacity": 0.0003196392376435542
+  },
+  {
+    "frame": 48,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.1499999809265136,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 49,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.1499999809265136,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 50,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.1500213383625684,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 51,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.1501664746380387,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 52,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.1505473666435013,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 53,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.15126352841156,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 54,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.152402464311681,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 55,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.154040122245028,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 56,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.1562413468392982,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 57,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.159060332643556,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 58,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.1625410773230707,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 59,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.16671783485415,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 60,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.1716155687189773,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 61,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.177250405100444,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 62,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.183630086076989,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 63,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.1907544228174305,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 64,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.198615748775803,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 65,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.2071993728861927,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 66,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.2164840327575734,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 67,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.2264423478686393,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 68,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.237041272762644,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 69,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.2482425502422334,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 70,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.260003164564282,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 71,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.2722757946347283,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 72,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.2850092672034092,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 73,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.2981490100588973,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 74,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.3116375052233344,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 75,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.3254147421472675,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 76,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.3394186709044855,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 77,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.3535856553868526,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 78,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.3678509264991443,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 79,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.382149035353883,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 80,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.3964143064661747,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 81,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.4105812909485413,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 82,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.4245852197057594,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 83,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.438362456629693,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 84,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.45185095179413,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 85,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.464990694649618,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 86,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.477724167218299,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 87,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.489996797288745,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 88,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5017574116107935,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 89,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5129586890903832,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 90,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.523557613984388,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 91,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.533515929095454,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 92,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.542800588966834,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 93,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5513842130772244,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 94,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.559245539035597,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 95,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5663698757760383,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 96,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5727495567525827,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 97,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5783843931340504,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 98,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5832821269988764,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 99,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5874588845299566,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 100,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5909396292094713,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 101,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.593758615013729,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 102,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.595959839607999,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 103,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5975974975413463,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 104,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.598736433441467,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 105,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5994525952095255,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 106,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.599833487214989,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 107,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.599978623490459,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 108,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 109,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 110,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 111,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 112,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 113,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 114,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 115,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 116,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 117,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 118,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 119,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  },
+  {
+    "frame": 120,
+    "arc_and_style_progress": 1,
+    "camera_m": [
+      -1.75,
+      -0.019999999552965164,
+      0.05999999865889549
+    ],
+    "lens_mm": 55.0,
+    "sensor_x_m": -2.5999999809265137,
+    "opening_plane_clearance_m": 0.05921516567468643,
+    "tool_body_opacity": 0,
+    "wire_opacity": 1,
+    "context_opacity": 0
+  }
+]

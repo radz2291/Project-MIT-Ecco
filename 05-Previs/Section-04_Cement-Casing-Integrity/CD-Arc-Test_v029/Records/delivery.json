@@ -1,0 +1,17 @@
+{
+  "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-04_Cement-Casing-Integrity\\CD-Arc-Test_v029\\Previews\\S04_CD_arc-and-style_v029.mp4",
+  "sha256": "ba8f630a564706a6be617900dc04ea0ea1168c180cc146ec7f583858c7a781bd",
+  "duration_seconds": 5,
+  "frames": 120,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "full_decode": true,
+  "render_seconds_mean": 0.9017949316694285,
+  "render_seconds_max": 1.3807560999994166,
+  "all_final_frames_under5seconds": true,
+  "full_section_integration": false,
+  "human_approval": "pending"
+}
