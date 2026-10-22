@@ -1,5 +1,27 @@
 # S05-B — Engineered Turbulence
 
+## Controlling Stage 6 proof amendment — 23 October 2026
+
+Owner-supplied Section 5 production handoff approves creative Stages 1–5 and authorizes only a 5–6-second interaction proof. The subsequent owner instruction places it in a **new previs folder**. This amendment supersedes older timing/output/release assumptions below only for this scoped proof. Earlier direction remains preserved as history.
+
+Section planning is now 18 seconds, working 0:58–1:16: A 0–5 s, B 5–12 s, C 12–18 s. This does not retime S06/S07 or release the complete section. The bounded proof is 6 seconds, local frames 1–144 at 24 fps. Source text: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v001/Records/Owner-handoff.txt`.
+
+Approved meaning: ENP3's physical body influences returning drilling fluid and helps explain cuttings transport. Approved operating mode: stationary circulation-only. Approved representation: authentic product geometry, fixed sectioned borehole, sparse cuttings and fine directional tracers. Approved look: restrained scientific visualization, satin steel and dark-neutral context. Three connected compositions govern the future full section; only the middle interaction is executed here.
+
+**Current proof:** `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v001/`. Exact source, evidence, files and limits are in its README and Records. Editable native: `Scenes/S05_twisted-pad_interaction_v001.blend`; video: `Previews/S05_twisted-pad_interaction_v001.mp4`. Product linked from `ECCO_film_v002.blend`, actual 2.400 m length, original millimetre-to-metre conversion retained. Rigid native-to-scene transform: +90° about Y and +1.5 m Z. Inherited native -X return becomes world +Z. The simplified static half-borehole uses the inherited 0.31115 m nominal ID.
+
+**Implementation camera score:** 48 mm perspective; 1280×720; native camera poses derived after geometry inspection. Frame 1: location (1.45,0.54,0.64), target (0.01,0,0.20), entry sees upward approach to raised pads. Frame 72: (1.39,0.59,0.72), target (0.01,0,0.28), foreground paths bend through the channel between pads. Frame 144: (1.34,0.65,0.80), target (0.01,0,0.36), continued upward exit. Fixed -18° local camera roll gives a diagonal screen composition; no hardware motion. Gentle lateral/axial travel reveals pad depth while retaining the foreground channel. All paths operate throughout; no sequential region activation.
+
+**Effects and provenance:** nine authored slender channel-following guides, 36 moving dashes, 18 matte faceted cuttings. Radial mesh sampling and nearest-surface clearance checks constrain position; trajectories and timing are illustrative, not validated CFD or measured velocities. Exact functional CAD stage boundaries and end identity remain unresolved; no product-specific hydraulic calibration claimed. Local linked-mesh wrappers override materials without changing source mesh data. Captions: `ENP3 / HYDRAULIC INTERACTION`, `Circulation only / Tool stationary`, `ILLUSTRATIVE FLOW / NOT CFD`; packed Segoe UI, camera-space editable text.
+
+**Palette:** historical T43 amber and newer cyan directions both retained. Amber is the trial MP4; identical-frame cyan comparison accompanies it. Final palette remains owner choice.
+
+**Evidence/release:** source hash unchanged; source library resolves after reopen; 144-frame hardware-stationary test; positive finite-effect clearance bounds; all representative and batch complete render-to-file samples below 5 seconds. First proof render 1.213 s on existing caches; batch average 0.516 s, maximum 0.722 s. Full decoded video verified. Agent inspected full-resolution beat frames, palette comparison and decoded chronology. Owner normal-speed comprehension and technical interpretation reviews remain pending. Stage 6 proof delivered for review; D3 owner approval and full S05 integration/finishing are not claimed.
+
+**Next decision:** does the audience see the pad shape redirect fluid carrying rock fragments? Review this bounded proof before releasing the full section.
+
+---
+
 Scene Direction Contract v0.2 · shot version v001 · T43 · 18 October 2026
 
 ## State and authority

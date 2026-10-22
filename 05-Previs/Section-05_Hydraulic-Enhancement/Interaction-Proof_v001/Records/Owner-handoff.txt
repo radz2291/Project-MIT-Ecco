@@ -1,0 +1,253 @@
+# ECCO ENP3 — Section 5: Hydraulic Enhancement
+## Codex Production Handoff · Stage 6 Limited Proof
+
+**Repository:** https://github.com/radz2291/Project-MIT-Ecco
+
+**Approved section duration:** 18 seconds  
+**Working timeline:** 0:58–1:16  
+**Current authorization:** Bounded 5–6-second hydraulic interaction proof only  
+**Status:** Creative Stages 1–5 approved; Stage 6 proof authorized; full production not yet released.
+
+### 1. Mission
+
+Execute a focused visual proof for Section 5 of our ECCO ENP3 cinematic film.
+
+Our creative direction has already been developed and approved. Your responsibility is to implement and test it, not restart creative discovery.
+
+The objective is to demonstrate that **ENP3's engineered hydraulic geometry visibly influences the surrounding drilling-fluid flow and helps explain rock-cuttings transport**.
+
+The result should feel premium, visually compelling, mechanically credible and understandable to engineers and non-engineers.
+
+### 2. Required skills
+
+Read the repository's `AGENTS.md` and production workflow first.
+
+Explicitly read and apply these repository skills:
+
+**Primary workflow**
+`03-Context/00_Skill/rolladice-scene-establishment/SKILL.md`
+
+**Creative and visual communication**
+`03-Context/00_Skill/rolladice-scene-director/SKILL.md`
+
+`03-Context/00_Skill/creative-intelligence-toolkit/information-to-visual-storytelling/SKILL.md`
+
+**Camera and movement**
+`03-Context/00_Skill/creative-intelligence-toolkit/spatial-storytelling-camera-choreography/SKILL.md`
+
+**Execution**
+`03-Context/00_Skill/creative-intelligence-toolkit/creative-knowledge-to-execution-engineering/SKILL.md`
+
+Use `blender-animation-reference/SKILL.md` for native animation and rendering work.
+
+Read relevant Directorial Identity modules, particularly the camera, lighting/material, information-direction and Scene Direction Contract documents.
+
+Use the skills to interpret the approved decisions, not to initiate a new six-stage approval process.
+
+### 3. Approved creative decisions
+
+#### Stage 1 — Narrative Intent: APPROVED
+
+Section 5 reveals that ENP3 is more than an ultrasonic measurement instrument.
+
+Its engineered physical body also influences drilling-fluid movement to support the transport of rock cuttings.
+
+The story progresses through three discoveries:
+
+- **A — Acceleration:** Body geometry influences local annular-flow velocity.
+- **B — Engineered agitation:** Twisted pads redirect fluid and affect cuttings movement.
+- **C — Integrated system:** The diffuser's intended downstream role completes the three-region hydraulic explanation.
+
+The audience discovers the regions sequentially, but the regions are operating simultaneously.
+
+Narration communicates significance. Visuals reveal the physical relationships.
+
+#### Stage 2 — Truth & Mechanism: APPROVED
+
+**Selected operating scenario: circulation-only.**
+
+- ENP3 remains stationary relative to the surrounding well during the demonstration.
+- Mud circulates down the drill string and returns upward through the annulus.
+- Rock cuttings are transported with the return flow.
+- Three accelerator pads influence local fluid velocity.
+- Two twisted-pad sets redirect and agitate the flow.
+- The diffuser is designed for pressure recovery and downstream wake management.
+
+These are source-described functions, not permission to invent quantitative results.
+
+Do not imply that the three regions activate sequentially.
+
+Do not imply that rotation or tripping is required for circulation-only operation.
+
+The exact hydraulic regions and native-axis direction must be checked against the actual product assets. If the precise mapping remains unresolved, label the proof illustrative and do not claim verified product-specific flow geometry.
+
+No unsupported CFD/FEA performance, pressure, velocity, efficiency or pack-off-prevention claims.
+
+#### Stage 3 — Visual Representation: APPROVED
+
+**Stylized scientific visualization with authentic physical geometry.**
+
+Use the real ENP3 body as the principal object.
+
+Surround it with a simplified, recognizable, already-sectioned borehole.
+
+Represent the fluid with a deliberately controlled combination of sparse particles, subtle fluid presence and directional tracers.
+
+Cuttings must feel like small pieces of rock being transported through the fluid, not sparks or arbitrary glowing particles.
+
+The physical environment and the invisible-flow visualization should remain visibly distinct.
+
+#### Stage 4 — Art Direction: APPROVED
+
+Visual identity: **Premium Scientific Hydraulic Visualization**.
+
+- Physically believable satin-steel ENP3 body.
+- Simplified dark-neutral borehole context.
+- Clean, restrained materials and lighting.
+- Subtle fluid presence, no opaque mud blocking the mechanism.
+- Sparse suspended cuttings.
+- Elegant, fine flow trajectories.
+- Clear interaction with actual pad surfaces.
+- Controlled visual hierarchy and reduced environmental clutter.
+
+Avoid thick glowing ribbons, excessive particles, fantasy lighting, neon tunnels, empty black-space product shots or arbitrary swirling motion.
+
+**Color reconciliation:** The previously approved T43 shared direction specifies amber hydraulic paths, while the recent Section 5 proposal used cyan. Preserve both as documented directions. Prefer a small controlled visual comparison before final palette lock; do not silently overwrite either approval.
+
+#### Stage 5 — Camera & Motion Architecture: APPROVED
+
+Use **three connected compositions**, with motivated editorial transitions where they improve clarity.
+
+The visual journey follows fluid moving upward through the hydraulic regions.
+
+Revised 18-second editorial allocation:
+
+**Shot A — 0–5 seconds: Acceleration**
+
+Medium three-quarter view establishes ENP3, the annular space and the returning fluid.
+
+Camera follows the flow toward the accelerator geometry.
+
+The local movement change must be recognizable.
+
+**Shot B — 5–12 seconds: Twisted-pad interaction**
+
+Closer oblique camera composition.
+
+A small controlled lateral arc may reveal the twisted geometry, provided it does not imply the hardware is rotating.
+
+The flow visibly redirects around the pads, with suspended cuttings remaining in motion.
+
+This is the main hydraulic showcase.
+
+**Shot C — 12–18 seconds: Diffuser and integration**
+
+Observe the downstream region, then pull back to establish all three functional regions as one connected body.
+
+The camera must clearly communicate that the whole hydraulic design contributes to the continuous flow path.
+
+These allocations are editorial planning targets. Exact poses, focal lengths and event timing come from inspected geometry and the actual preview.
+
+The new 18-second section duration supersedes the older 12-second allocation for S05 only. Do not automatically retime S06, S07 or the total film.
+
+### 4. Existing sources and assets
+
+Inspect before construction:
+
+- `03-Context/01_Foundation/02-ENGINEERING_BASELINE.md`
+- `03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md`
+- The existing S05 V2 hydraulic storyboard and V3 cinematic package.
+- `04-Production/Records/Tasks/T-010/hydraulic-register_v001.md`
+- `04-Production/Records/Tasks/T-010/review-questions_v001.md`
+- `04-Production/Mechanisms/B204/Scenes/B204_hydraulic-proof_v001.blend`
+- Existing B204 hydraulic preview and inspection evidence.
+- Registered ECCO master and well-assembly assets.
+- The approved shared direction under T43.
+
+The B204 proof is a reuse candidate, not necessarily approved production output.
+
+Verify actual local availability, Blender collections, dimensions, axes, stage geometry and source versions. Do not assume GitHub contains the heavy Blender files.
+
+Do not silently remap product stages or rescale geometry.
+
+### 5. Stage 6 — Authorized work
+
+Produce **one bounded 5–6-second moving proof** focused on the twisted-pad interaction.
+
+The central question is:
+
+**Can the viewer recognize that the pad geometry redirects fluid and influences the movement of suspended cuttings?**
+
+The proof should demonstrate:
+
+1. Recognizable ENP3 geometry and twisted-pad surfaces.
+2. A stationary tool in a simplified sectioned borehole.
+3. Upward annular flow before entering the pad region.
+4. Visible redirection of flow around the physical geometry.
+5. Small rock cuttings moving with the fluid.
+6. Continued outgoing flow after the interaction.
+
+Use an illustrative flow treatment that is spatially coherent with the geometry. Do not claim that particle trajectories are validated CFD.
+
+If the existing B204 work provides a useful foundation, reuse it. Preserve the original scene and create a versioned derivative.
+
+### 6. Required proof outputs
+
+Deliver:
+
+- One 5–6-second normal-speed MP4.
+- Editable Blender source scene.
+- Representative entry, interaction and exit stills from the same proof.
+- Actual render benchmark evidence.
+- Short explanation of the chosen flow-visualization method.
+- Verification of source asset versions and relevant geometry.
+- Brief self-review of visual communication and technical limitations.
+
+Use the existing repository's production directory and Scene Direction Contract conventions.
+
+Do not create competing specifications or overwrite canonical shared assets.
+
+Every sampled complete render-to-file frame must remain strictly below five seconds on the executing machine. Aim for lightweight iteration, simplifying expensive effects before changing the accepted visual direction.
+
+### 7. Acceptance criteria
+
+The proof is successful only if:
+
+- The body and twisted pads are recognizable.
+- Upward flow direction is immediately understandable.
+- Flow movement visibly responds to the actual pad geometry.
+- Cuttings appear transported by fluid, not independently animated for decoration.
+- Flow tracers are readable without overwhelming the steel body.
+- No false hardware rotation or axial motion is introduced.
+- Geometry and explanatory effects remain distinguishable.
+- Preview rendering stays within the performance budget.
+- The result is understandable at normal playback size and speed.
+
+Check the physical meaning and visual communication separately.
+
+Do not treat an internally successful technical test as owner approval.
+
+### 8. Stop condition
+
+**Stop after delivering the focused proof for my review.**
+
+Do not automatically construct the complete 18-second Section 5.
+
+Do not begin final rendering, finishing, film assembly or client submission.
+
+Preserve previous versions, native links, unsaved working state and reusable components.
+
+Provide a concise report containing:
+
+- What was reused.
+- What was newly implemented.
+- What was actually verified.
+- What remains uncertain.
+- Exact files and preview paths.
+- Your recommendation for the next step.
+
+Once I review and approve the hydraulic interaction, we can authorize the complete Section 5 production using the approved 18-second three-composition architecture.
+
+**Primary creative principle:**
+
+The audience must see fluid behaving differently because of the engineered body geometry—not simply beautiful particles moving around a metal object.

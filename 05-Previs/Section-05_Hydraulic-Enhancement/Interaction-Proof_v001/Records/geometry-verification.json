@@ -1,0 +1,16 @@
+{
+  "finite_effect_support_m": 0.006067124522553669,
+  "min_conservative_hardware_clearance_m": 0.002147893094195141,
+  "min_conservative_wall_clearance_m": 0.021507852863644657,
+  "centre_samples": 21600,
+  "method": "All visible hardware triangles; dense polyline quarter-segment samples; nearest distance minus full tracer/rock bounding sphere. Centre raycast confirms exterior. No fluid solver or collision-response physics claimed.",
+  "all_144_frames_stationary_hardware": true,
+  "libraries": [
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v001\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    }
+  ],
+  "source_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+  "source_hash_unchanged": true
+}

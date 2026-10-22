@@ -1,0 +1,25 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+  "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+  "source_dimensions_m": [
+    2.4000000953674316,
+    0.30260878801345825,
+    0.30373769998550415
+  ],
+  "source_unit_conversion": 0.001,
+  "placement": "Rigid +90deg Y and +1.5m Z; native -X is world +Z; no geometry scaling",
+  "hole_ID_m": 0.31115,
+  "path_points": 5409,
+  "min_center_to_hardware_m": 0.008223515935242176,
+  "min_center_to_wall_m": 0.02757499999999999,
+  "path_method": "Authored channel-following angular guide, radial raycast and nearest-surface clearance constraint; NOT CFD",
+  "native_range_m": [
+    0.7,
+    1.72
+  ],
+  "stage_map": "Raised/twisted morphological region inspected; certified functional mapping and physical pin/box identity unresolved",
+  "duration": 6,
+  "fps": 24,
+  "frames": 144,
+  "live_source_was_blank": true
+}

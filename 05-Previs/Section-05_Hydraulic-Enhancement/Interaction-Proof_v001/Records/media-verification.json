@@ -1,0 +1,15 @@
+{
+  "decoded_frames": 144,
+  "seconds": 6,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "codec": "H.264",
+  "batch_max_seconds": 0.7223769999982323,
+  "batch_mean_seconds": 0.5164332090272283,
+  "all_batch_frames_below_5s": true,
+  "video_sha256": "887fe4338bbf900f7c986f04e3c675f855a8f0bacde0c206ce702c1bf25a3a2e",
+  "inspection": "12 chronological frames decoded from actual MP4; owner normal-speed comprehension review pending"
+}
