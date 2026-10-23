@@ -1,0 +1,20 @@
+{
+  "persistent_objects": [
+    "S05_v009_TrackedFragment_00",
+    "S05_v009_TrackedFragment_01",
+    "S05_v009_TrackedFragment_02"
+  ],
+  "time_samples": 143,
+  "steel_occluded_centers": [],
+  "fragment_pair_intersections": [],
+  "screen_bounds_all_vertices": [
+    0.1792096644639969,
+    0.17158706486225128,
+    0.8207904100418091,
+    0.8284130692481995
+  ],
+  "minimum_upward_half_frame_step_m": 0.0035416483879089355,
+  "maximum_half_frame_displacement_m": 0.005907047570311385,
+  "no_hide_scale_parenting_or_respawn": true,
+  "limit": "Center-ray visibility against steel and frame coverage, not a perceptual comprehension test."
+}

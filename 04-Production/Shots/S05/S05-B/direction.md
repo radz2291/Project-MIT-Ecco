@@ -1,5 +1,17 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v009 tracked-group proof — 23 October 2026
+
+Owner releases one 2–3-second controlled movement test. Preserve the accepted v007 annular fluid concept and actual rotating ENP3 geometry. Focus exclusively on following the same small group from entry, around one pad, through upward exit. Stationary camera, no fragment respawns or disappearing loops. Full Section 5 remains unreleased.
+
+v009 uses three persistent matte fragments on the existing geometry-derived passage, with independent upward progression and partial angular influence from hardware rotation. The path samples clearance against the changing pad orientation. Accepted fluid mesh and source dimensions are unchanged; a copied low-density material quiets competing fluid texture motion. Other tracer groups are disabled in this successor. Camera direction is retained, translated and tightened to 58 mm, then held completely still.
+
+Candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v009/`. `Previews/S05_tracked-cuttings_v009.mp4`, `Previews/interaction_still.png`, `Scenes/S05_tracked-cuttings_v009.blend`. Three seconds / 72 frames / 24 fps. Geometry checks at 143 sampled times find no steel, fluid-boundary or fragment-pair intersections. All three centers remain unobstructed by steel and all vertices remain in frame. Native reopened with valid relative source link and pixel-identical frame 36. Final render mean 1.031 s/frame, maximum 1.190 s/frame.
+
+**Stage 6 owner review pending:** can the same three fragments be followed through entry, redirection and continued upward travel at normal playback speed? This is authored geometry-aware illustration, not CFD or measured hydraulic behavior. Preserve all prior proofs. Do not begin full integration.
+
+---
+
 ## Controlling v008 internal-flow proof — 23 October 2026
 
 **Owner approves v007's fluid-volume concept as the new foundation.** This approval covers the representation of fluid occupying the annulus, not hydraulic-motion clarity or full integration. Preserve its translucent amber treatment, source geometry, stable camera and connected clockwise rotation. Remaining task: show incoming flow, pad-guided redirection, upward continuation and carried cuttings with a few visible internal motion cues.

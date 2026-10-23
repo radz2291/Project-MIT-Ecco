@@ -1,0 +1,15 @@
+{
+  "native_sha256": "5be13c8476c297362cb03ca0fe619313a4c6165b6619868a15991f913bef1b84",
+  "fluid_geometry_and_linked_hardware_match_v008": true,
+  "volume_vertex_sha256": "d0d8b660df73271c7182ac1dbe2364fe7c4cc4a17f36441ffac1ca7b539a2357",
+  "reopened_render_seconds": 1.4937284000043292,
+  "libraries": [
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v009\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "relative": true,
+      "exists": true
+    }
+  ],
+  "authorized_differences": "Stationary camera shifted and lens 58mm; fluid material copied and density quieted; three tracked fragments replace staggered flow groups; 8 render samples.",
+  "reopened_frame36_pixel_identical": true
+}

@@ -1,0 +1,20 @@
+{
+  "location": "Local D drive; not offsite or remote media publication",
+  "files": [
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v009\\Scenes\\S05_tracked-cuttings_v009.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v009-Review\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v009\\Scenes\\S05_tracked-cuttings_v009.blend",
+      "sha256": "5be13c8476c297362cb03ca0fe619313a4c6165b6619868a15991f913bef1b84"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v009\\Previews\\S05_tracked-cuttings_v009.mp4",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v009-Review\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v009\\Previews\\S05_tracked-cuttings_v009.mp4",
+      "sha256": "4ccb0f8cc810b5b8a2af44378219921c62428876a1a7b29d0dd077636a6a9c15"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v009-Review\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+    }
+  ]
+}

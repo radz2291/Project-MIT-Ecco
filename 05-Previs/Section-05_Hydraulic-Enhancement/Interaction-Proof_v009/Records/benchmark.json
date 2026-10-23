@@ -1,0 +1,23 @@
+{
+  "samples": 8,
+  "resolution": [
+    1280,
+    720
+  ],
+  "rows": [
+    {
+      "frame": 1,
+      "seconds": 1.1508003000053577
+    },
+    {
+      "frame": 36,
+      "seconds": 1.0025479999894742
+    },
+    {
+      "frame": 72,
+      "seconds": 1.0719851999892853
+    }
+  ],
+  "initial_16_sample_cold_render_seconds": 5.4632106,
+  "adjustment": "Reduced to 8 samples; all three working-setting benchmarks passed."
+}
