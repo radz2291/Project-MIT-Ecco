@@ -1,0 +1,11 @@
+{
+  "native_sha256": "21f108b3f31b3fd3634bb02589e0f91ca94027bf98e63b2d252833fa8af6a362",
+  "reopened": true,
+  "fog_multiplier": 0.800000011920929,
+  "libraries": [
+    {
+      "relative": true,
+      "exists": true
+    }
+  ]
+}

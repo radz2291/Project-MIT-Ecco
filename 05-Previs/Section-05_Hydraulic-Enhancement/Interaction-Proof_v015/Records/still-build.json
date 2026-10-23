@@ -1,0 +1,12 @@
+{
+  "fog_density_multiplier": 0.8,
+  "old_surface_alpha": 0.025,
+  "new_surface_alpha": 0.02,
+  "still_frame": 48,
+  "render_seconds": 1.1104921999794897,
+  "samples": 6,
+  "initial_attempt": "Exceeded 5 seconds; lowered preview samples from 8 to 6 before final still.",
+  "animation_rendered": false,
+  "geometry_and_rock_trail_materials_unchanged": true,
+  "prior_v014_sha256": "3f02df83d8c78b1083ab90f3d6bc8aea41fec9e2e6f2ceec714e84606e3e7465"
+}
