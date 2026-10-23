@@ -1,0 +1,80 @@
+{
+  "render_seconds": 4.06246379998629,
+  "prior_v007_sha256": "b1cf584c5e8a1d611717bb5d32739f445c103d63277f4046694772a04114202c",
+  "preserved": [
+    "fluid domain geometry and shading",
+    "camera",
+    "hardware",
+    "borehole",
+    "rotation",
+    "cutting sizes and trajectories"
+  ],
+  "groups": 3,
+  "wisps": [
+    {
+      "name": "S05_v008_Wisp_0_0",
+      "group": 0,
+      "length_m": 0.052,
+      "tangent_offset_m": -0.005,
+      "radial_offset_m": -0.003
+    },
+    {
+      "name": "S05_v008_Wisp_0_1",
+      "group": 0,
+      "length_m": 0.065,
+      "tangent_offset_m": 0,
+      "radial_offset_m": 0.004
+    },
+    {
+      "name": "S05_v008_Wisp_0_2",
+      "group": 0,
+      "length_m": 0.046,
+      "tangent_offset_m": 0.005,
+      "radial_offset_m": 0
+    },
+    {
+      "name": "S05_v008_Wisp_1_0",
+      "group": 1,
+      "length_m": 0.052,
+      "tangent_offset_m": -0.005,
+      "radial_offset_m": -0.003
+    },
+    {
+      "name": "S05_v008_Wisp_1_1",
+      "group": 1,
+      "length_m": 0.065,
+      "tangent_offset_m": 0,
+      "radial_offset_m": 0.004
+    },
+    {
+      "name": "S05_v008_Wisp_1_2",
+      "group": 1,
+      "length_m": 0.046,
+      "tangent_offset_m": 0.005,
+      "radial_offset_m": 0
+    },
+    {
+      "name": "S05_v008_Wisp_2_0",
+      "group": 2,
+      "length_m": 0.052,
+      "tangent_offset_m": -0.005,
+      "radial_offset_m": -0.003
+    },
+    {
+      "name": "S05_v008_Wisp_2_1",
+      "group": 2,
+      "length_m": 0.065,
+      "tangent_offset_m": 0,
+      "radial_offset_m": 0.004
+    },
+    {
+      "name": "S05_v008_Wisp_2_2",
+      "group": 2,
+      "length_m": 0.046,
+      "tangent_offset_m": 0.005,
+      "radial_offset_m": 0
+    }
+  ],
+  "paired_transport": "Each group trails one cutting by 24 mm plus its lane offset. Positions follow the same geometry-aware field, not hardware parenting.",
+  "limits": "Illustrative motion cues within the accepted volume; not resolved fluid dynamics or measured transport."
+}

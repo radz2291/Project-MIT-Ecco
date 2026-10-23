@@ -1,5 +1,17 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v008 internal-flow proof — 23 October 2026
+
+**Owner approves v007's fluid-volume concept as the new foundation.** This approval covers the representation of fluid occupying the annulus, not hydraulic-motion clarity or full integration. Preserve its translucent amber treatment, source geometry, stable camera and connected clockwise rotation. Remaining task: show incoming flow, pad-guided redirection, upward continuation and carried cuttings with a few visible internal motion cues.
+
+v008 adds three groups of three soft, non-emissive wisps at different depths within the accepted fluid. Each group follows the same geometry-aware field as one existing cutting. Partial angular influence and independent upward transport avoid rigid attachment to steel. Cutting sizes and trajectories remain unchanged; matte facet contrast and roughness improve recognition. Direct reopening comparison verifies the v007 fluid mesh, topology, material nodes and camera remain unchanged.
+
+Candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v008/`. Deliverables: `Previews/interaction_still.png`, `Previews/S05_internal-flow_v008.mp4`, `Scenes/S05_internal-flow_v008.blend`. Three seconds / 72 frames / 24 fps. Nine wisps plus three cuttings pass full steel/fluid-boundary checks at 143 sampled times. Final batch mean 1.904 s/frame; maximum 2.122 s/frame. Native reopened with relative source link and frame 36 matches pixel-for-pixel. Sources and previous proofs preserved.
+
+**Stage 6 review pending:** do the groups make upward movement, the bend around the turning pad, and transport of cuttings clear at normal speed? The accepted volume is preserved; this is a motion-cue refinement, not CFD or validated hydraulic performance. Stop after the focused proof; full Section 5 remains unreleased.
+
+---
+
 ## Controlling v007 fluid-representation proof — 23 October 2026
 
 Owner identifies representation, not camera or tracer count, as the remaining problem. Preserve v006 composition, ENP3 geometry, connected clockwise rotation, upward flow, amber and source safeguards. First inspect one still showing steel, fluid, borehole and suspended cuttings; proceed only to a 2–3-second focused proof if that relationship reads. Full Section 5 remains unreleased.
