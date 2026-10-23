@@ -1,0 +1,361 @@
+{
+  "resets": [
+    {
+      "index": 0,
+      "hidden_endpoint_wrap_after_frames": []
+    },
+    {
+      "index": 1,
+      "hidden_endpoint_wrap_after_frames": [
+        88
+      ]
+    },
+    {
+      "index": 2,
+      "hidden_endpoint_wrap_after_frames": [
+        36
+      ]
+    },
+    {
+      "index": 3,
+      "hidden_endpoint_wrap_after_frames": [
+        132
+      ]
+    },
+    {
+      "index": 4,
+      "hidden_endpoint_wrap_after_frames": [
+        95
+      ]
+    },
+    {
+      "index": 5,
+      "hidden_endpoint_wrap_after_frames": [
+        50
+      ]
+    },
+    {
+      "index": 6,
+      "hidden_endpoint_wrap_after_frames": []
+    },
+    {
+      "index": 7,
+      "hidden_endpoint_wrap_after_frames": [
+        86
+      ]
+    },
+    {
+      "index": 8,
+      "hidden_endpoint_wrap_after_frames": [
+        19
+      ]
+    },
+    {
+      "index": 9,
+      "hidden_endpoint_wrap_after_frames": [
+        108
+      ]
+    },
+    {
+      "index": 10,
+      "hidden_endpoint_wrap_after_frames": [
+        54
+      ]
+    },
+    {
+      "index": 11,
+      "hidden_endpoint_wrap_after_frames": [
+        11
+      ]
+    },
+    {
+      "index": 12,
+      "hidden_endpoint_wrap_after_frames": [
+        113
+      ]
+    },
+    {
+      "index": 13,
+      "hidden_endpoint_wrap_after_frames": [
+        70
+      ]
+    },
+    {
+      "index": 14,
+      "hidden_endpoint_wrap_after_frames": [
+        11
+      ]
+    },
+    {
+      "index": 15,
+      "hidden_endpoint_wrap_after_frames": [
+        108
+      ]
+    },
+    {
+      "index": 16,
+      "hidden_endpoint_wrap_after_frames": [
+        39
+      ]
+    },
+    {
+      "index": 17,
+      "hidden_endpoint_wrap_after_frames": [
+        134
+      ]
+    },
+    {
+      "index": 18,
+      "hidden_endpoint_wrap_after_frames": [
+        72
+      ]
+    },
+    {
+      "index": 19,
+      "hidden_endpoint_wrap_after_frames": [
+        29
+      ]
+    },
+    {
+      "index": 20,
+      "hidden_endpoint_wrap_after_frames": []
+    },
+    {
+      "index": 21,
+      "hidden_endpoint_wrap_after_frames": [
+        90
+      ]
+    },
+    {
+      "index": 22,
+      "hidden_endpoint_wrap_after_frames": [
+        33
+      ]
+    },
+    {
+      "index": 23,
+      "hidden_endpoint_wrap_after_frames": [
+        130
+      ]
+    },
+    {
+      "index": 24,
+      "hidden_endpoint_wrap_after_frames": [
+        59
+      ]
+    },
+    {
+      "index": 25,
+      "hidden_endpoint_wrap_after_frames": []
+    },
+    {
+      "index": 26,
+      "hidden_endpoint_wrap_after_frames": [
+        106
+      ]
+    },
+    {
+      "index": 27,
+      "hidden_endpoint_wrap_after_frames": [
+        47
+      ]
+    },
+    {
+      "index": 28,
+      "hidden_endpoint_wrap_after_frames": [
+        5
+      ]
+    },
+    {
+      "index": 29,
+      "hidden_endpoint_wrap_after_frames": [
+        125
+      ]
+    },
+    {
+      "index": 30,
+      "hidden_endpoint_wrap_after_frames": [
+        54
+      ]
+    },
+    {
+      "index": 31,
+      "hidden_endpoint_wrap_after_frames": []
+    },
+    {
+      "index": 32,
+      "hidden_endpoint_wrap_after_frames": [
+        83
+      ]
+    },
+    {
+      "index": 33,
+      "hidden_endpoint_wrap_after_frames": [
+        18
+      ]
+    },
+    {
+      "index": 34,
+      "hidden_endpoint_wrap_after_frames": [
+        123
+      ]
+    },
+    {
+      "index": 35,
+      "hidden_endpoint_wrap_after_frames": [
+        85
+      ]
+    },
+    {
+      "index": 36,
+      "hidden_endpoint_wrap_after_frames": [
+        24
+      ]
+    },
+    {
+      "index": 37,
+      "hidden_endpoint_wrap_after_frames": []
+    },
+    {
+      "index": 38,
+      "hidden_endpoint_wrap_after_frames": [
+        81
+      ]
+    },
+    {
+      "index": 39,
+      "hidden_endpoint_wrap_after_frames": [
+        9
+      ]
+    },
+    {
+      "index": 40,
+      "hidden_endpoint_wrap_after_frames": [
+        102
+      ]
+    },
+    {
+      "index": 41,
+      "hidden_endpoint_wrap_after_frames": [
+        47
+      ]
+    },
+    {
+      "index": 42,
+      "hidden_endpoint_wrap_after_frames": [
+        141
+      ]
+    },
+    {
+      "index": 43,
+      "hidden_endpoint_wrap_after_frames": [
+        104
+      ]
+    },
+    {
+      "index": 44,
+      "hidden_endpoint_wrap_after_frames": [
+        62
+      ]
+    },
+    {
+      "index": 45,
+      "hidden_endpoint_wrap_after_frames": []
+    },
+    {
+      "index": 46,
+      "hidden_endpoint_wrap_after_frames": [
+        102
+      ]
+    },
+    {
+      "index": 47,
+      "hidden_endpoint_wrap_after_frames": [
+        34
+      ]
+    },
+    {
+      "index": 48,
+      "hidden_endpoint_wrap_after_frames": [
+        122
+      ]
+    },
+    {
+      "index": 49,
+      "hidden_endpoint_wrap_after_frames": [
+        65
+      ]
+    },
+    {
+      "index": 50,
+      "hidden_endpoint_wrap_after_frames": [
+        21
+      ]
+    },
+    {
+      "index": 51,
+      "hidden_endpoint_wrap_after_frames": [
+        122
+      ]
+    },
+    {
+      "index": 52,
+      "hidden_endpoint_wrap_after_frames": [
+        81
+      ]
+    },
+    {
+      "index": 53,
+      "hidden_endpoint_wrap_after_frames": [
+        26
+      ]
+    },
+    {
+      "index": 54,
+      "hidden_endpoint_wrap_after_frames": [
+        128
+      ]
+    },
+    {
+      "index": 55,
+      "hidden_endpoint_wrap_after_frames": [
+        106
+      ]
+    },
+    {
+      "index": 56,
+      "hidden_endpoint_wrap_after_frames": [
+        84
+      ]
+    },
+    {
+      "index": 57,
+      "hidden_endpoint_wrap_after_frames": [
+        62
+      ]
+    },
+    {
+      "index": 58,
+      "hidden_endpoint_wrap_after_frames": [
+        40
+      ]
+    },
+    {
+      "index": 59,
+      "hidden_endpoint_wrap_after_frames": [
+        18
+      ]
+    },
+    {
+      "index": 60,
+      "hidden_endpoint_wrap_after_frames": []
+    },
+    {
+      "index": 61,
+      "hidden_endpoint_wrap_after_frames": [
+        135
+      ]
+    }
+  ],
+  "meaning": "Fade at display endpoints; stepped hidden recycling rather than interpolated travel through the hardware. Not a physical recirculation loop."
+}

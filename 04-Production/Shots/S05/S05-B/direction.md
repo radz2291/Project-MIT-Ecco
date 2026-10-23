@@ -1,5 +1,17 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v004 annular-coverage proof — 23 October 2026
+
+Owner requests broader coverage through actual open annular spaces, including the central winding passage marked in the supplied image, more depth variation and a clearer relationship to rotation. Preserve amber, cuttings, upward transport and existing engineering limits. Release remains a six-second proof only.
+
+v004 replaces the three narrow groups with eighteen geometry-derived representative routes around the circumference. Fifty-four fluid markers sample three depths of the current local gap, with staggered timing; eight matte cuttings use the same route family with finite-size clearance. Source geometry, camera, whole-tool rotation and borehole remain unchanged. Partial spatially varying spin influence (32–75%) and independent upward progress avoid rigidly attached flow. Movement-history tails preserve the motion pattern; this is authored kinematic visualization, not CFD or measured transport.
+
+Candidate root: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v004/`. Native: `Scenes/S05_twisted-pad_interaction_v004.blend`; video: `Previews/S05_twisted-pad_interaction_v004.mp4`. The README documents map provenance, coverage comparison and limitations. No intersections found at 144 output frames plus 143 midpoint checks; sampled exterior checks pass. Mean render 0.573 s, maximum 0.871 s, unchanged 1280×720 / 24 fps. Saved native reopened with relative source link. Prior proofs retained.
+
+**Stage 6 review pending:** does the rotating tool now read as interacting with surrounding moving fluid, including the newly populated central passage? Full 18-second integration and finishing remain unreleased.
+
+---
+
 ## Controlling v003 tail-motion test — 23 October 2026
 
 Owner feedback: v002 tails feel odd; test a closer visual relationship to the tool's spin while allowing independent upward flow. The owner approved the proposed middle ground. Scope remains the same six-second proof, preserving v002, camera, geometry, amber palette and clockwise whole-tool rotation.

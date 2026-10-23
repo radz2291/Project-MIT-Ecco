@@ -1,0 +1,512 @@
+{
+  "elements": [
+    {
+      "index": 0,
+      "kind": "fluid",
+      "route": 0,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6777777777777777
+    },
+    {
+      "index": 1,
+      "kind": "fluid",
+      "route": 0,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7111805555555555
+    },
+    {
+      "index": 2,
+      "kind": "fluid",
+      "route": 0,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8039930555555556
+    },
+    {
+      "index": 3,
+      "kind": "fluid",
+      "route": 1,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7299305555555554
+    },
+    {
+      "index": 4,
+      "kind": "fluid",
+      "route": 1,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8087847222222222
+    },
+    {
+      "index": 5,
+      "kind": "fluid",
+      "route": 1,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6213541666666667
+    },
+    {
+      "index": 6,
+      "kind": "fluid",
+      "route": 2,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.937962962962963
+    },
+    {
+      "index": 7,
+      "kind": "fluid",
+      "route": 2,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6159722222222223
+    },
+    {
+      "index": 8,
+      "kind": "fluid",
+      "route": 2,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7118749999999999
+    },
+    {
+      "index": 9,
+      "kind": "fluid",
+      "route": 3,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6213541666666667
+    },
+    {
+      "index": 10,
+      "kind": "fluid",
+      "route": 3,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7111805555555555
+    },
+    {
+      "index": 11,
+      "kind": "fluid",
+      "route": 3,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.804861111111111
+    },
+    {
+      "index": 12,
+      "kind": "fluid",
+      "route": 4,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7136689814814814
+    },
+    {
+      "index": 13,
+      "kind": "fluid",
+      "route": 4,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8087847222222222
+    },
+    {
+      "index": 14,
+      "kind": "fluid",
+      "route": 4,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6159722222222223
+    },
+    {
+      "index": 15,
+      "kind": "fluid",
+      "route": 5,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8087847222222222
+    },
+    {
+      "index": 16,
+      "kind": "fluid",
+      "route": 5,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.618113425925926
+    },
+    {
+      "index": 17,
+      "kind": "fluid",
+      "route": 5,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7356597222222221
+    },
+    {
+      "index": 18,
+      "kind": "fluid",
+      "route": 6,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6159722222222223
+    },
+    {
+      "index": 19,
+      "kind": "fluid",
+      "route": 6,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7111805555555555
+    },
+    {
+      "index": 20,
+      "kind": "fluid",
+      "route": 6,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.927962962962963
+    },
+    {
+      "index": 21,
+      "kind": "fluid",
+      "route": 7,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7136689814814814
+    },
+    {
+      "index": 22,
+      "kind": "fluid",
+      "route": 7,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8106944444444444
+    },
+    {
+      "index": 23,
+      "kind": "fluid",
+      "route": 7,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6200231481481481
+    },
+    {
+      "index": 24,
+      "kind": "fluid",
+      "route": 8,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.804861111111111
+    },
+    {
+      "index": 25,
+      "kind": "fluid",
+      "route": 8,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6512731481481481
+    },
+    {
+      "index": 26,
+      "kind": "fluid",
+      "route": 8,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7172222222222222
+    },
+    {
+      "index": 27,
+      "kind": "fluid",
+      "route": 9,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6159722222222223
+    },
+    {
+      "index": 28,
+      "kind": "fluid",
+      "route": 9,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7308333333333332
+    },
+    {
+      "index": 29,
+      "kind": "fluid",
+      "route": 9,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8114467592592591
+    },
+    {
+      "index": 30,
+      "kind": "fluid",
+      "route": 10,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.715462962962963
+    },
+    {
+      "index": 31,
+      "kind": "fluid",
+      "route": 10,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.9179282407407408
+    },
+    {
+      "index": 32,
+      "kind": "fluid",
+      "route": 10,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.618113425925926
+    },
+    {
+      "index": 33,
+      "kind": "fluid",
+      "route": 11,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8039930555555556
+    },
+    {
+      "index": 34,
+      "kind": "fluid",
+      "route": 11,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6164930555555556
+    },
+    {
+      "index": 35,
+      "kind": "fluid",
+      "route": 11,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7111805555555556
+    },
+    {
+      "index": 36,
+      "kind": "fluid",
+      "route": 12,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6164930555555556
+    },
+    {
+      "index": 37,
+      "kind": "fluid",
+      "route": 12,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.82
+    },
+    {
+      "index": 38,
+      "kind": "fluid",
+      "route": 12,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8068287037037036
+    },
+    {
+      "index": 39,
+      "kind": "fluid",
+      "route": 13,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7136689814814814
+    },
+    {
+      "index": 40,
+      "kind": "fluid",
+      "route": 13,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8039930555555556
+    },
+    {
+      "index": 41,
+      "kind": "fluid",
+      "route": 13,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6164930555555556
+    },
+    {
+      "index": 42,
+      "kind": "fluid",
+      "route": 14,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8557291666666667
+    },
+    {
+      "index": 43,
+      "kind": "fluid",
+      "route": 14,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6213541666666667
+    },
+    {
+      "index": 44,
+      "kind": "fluid",
+      "route": 14,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7172222222222222
+    },
+    {
+      "index": 45,
+      "kind": "fluid",
+      "route": 15,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6792824074074074
+    },
+    {
+      "index": 46,
+      "kind": "fluid",
+      "route": 15,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7111805555555555
+    },
+    {
+      "index": 47,
+      "kind": "fluid",
+      "route": 15,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8087847222222222
+    },
+    {
+      "index": 48,
+      "kind": "fluid",
+      "route": 16,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7136689814814814
+    },
+    {
+      "index": 49,
+      "kind": "fluid",
+      "route": 16,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8039930555555556
+    },
+    {
+      "index": 50,
+      "kind": "fluid",
+      "route": 16,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.618113425925926
+    },
+    {
+      "index": 51,
+      "kind": "fluid",
+      "route": 17,
+      "depth_fraction": 0.8,
+      "max_history_seconds": 0.94,
+      "mean_visible_history_seconds": 0.8114236111111112
+    },
+    {
+      "index": 52,
+      "kind": "fluid",
+      "route": 17,
+      "depth_fraction": 0.32,
+      "max_history_seconds": 0.7,
+      "mean_visible_history_seconds": 0.6159722222222223
+    },
+    {
+      "index": 53,
+      "kind": "fluid",
+      "route": 17,
+      "depth_fraction": 0.58,
+      "max_history_seconds": 0.82,
+      "mean_visible_history_seconds": 0.7136689814814814
+    },
+    {
+      "index": 54,
+      "kind": "rock",
+      "route": 0,
+      "depth_fraction": 0.55,
+      "max_history_seconds": 0.48,
+      "mean_visible_history_seconds": 0.43516203703703704
+    },
+    {
+      "index": 55,
+      "kind": "rock",
+      "route": 2,
+      "depth_fraction": 0.55,
+      "max_history_seconds": 0.48,
+      "mean_visible_history_seconds": 0.43539351851851854
+    },
+    {
+      "index": 56,
+      "kind": "rock",
+      "route": 3,
+      "depth_fraction": 0.55,
+      "max_history_seconds": 0.48,
+      "mean_visible_history_seconds": 0.43672453703703706
+    },
+    {
+      "index": 57,
+      "kind": "rock",
+      "route": 4,
+      "depth_fraction": 0.55,
+      "max_history_seconds": 0.48,
+      "mean_visible_history_seconds": 0.43672453703703706
+    },
+    {
+      "index": 58,
+      "kind": "rock",
+      "route": 6,
+      "depth_fraction": 0.55,
+      "max_history_seconds": 0.48,
+      "mean_visible_history_seconds": 0.4380324074074074
+    },
+    {
+      "index": 59,
+      "kind": "rock",
+      "route": 9,
+      "depth_fraction": 0.55,
+      "max_history_seconds": 0.48,
+      "mean_visible_history_seconds": 0.43930555555555556
+    },
+    {
+      "index": 60,
+      "kind": "rock",
+      "route": 12,
+      "depth_fraction": 0.55,
+      "max_history_seconds": 0.48,
+      "mean_visible_history_seconds": 0.4708333333333333
+    },
+    {
+      "index": 61,
+      "kind": "rock",
+      "route": 15,
+      "depth_fraction": 0.55,
+      "max_history_seconds": 0.48,
+      "mean_visible_history_seconds": 0.4397916666666667
+    }
+  ],
+  "route_count": 18,
+  "fluid_markers": 54,
+  "cuttings": 8,
+  "map_samples": 23580,
+  "head_support_min_clearance_m": 0.002067170524597168,
+  "constriction_side_corrections": 0,
+  "partial_rotation_fraction_range": [
+    0.32,
+    0.75
+  ],
+  "prior_v003_sha256": "da02e9e97b55f137b153947011a497a4e3b63c952dc379e69877b0bd7aff1496",
+  "method": "Minimum-cost paths across actual circumferential clearance map; depth fractions inside current actual annulus; independent upward progression with partial spatially varying spin; timestamped history tails. Kinematic illustration, not CFD."
+}

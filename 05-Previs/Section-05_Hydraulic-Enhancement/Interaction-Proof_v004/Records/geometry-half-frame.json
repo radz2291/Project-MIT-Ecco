@@ -1,0 +1,26 @@
+{
+  "frames_checked": 143,
+  "effect_objects": 70,
+  "triangle_intersections": [],
+  "sampled_vertices": 731588,
+  "minimum_sampled_hardware_distance_m": 0.0005010298336856067,
+  "minimum_radial_exterior_gap_m": 0.0005233900219841492,
+  "raw_nearest_normal_signed_min_m": -1.7881393432617188e-06,
+  "normal_caveat": "Nearest face normals give ambiguous sign on the supplied CAD. Exterior tested separately by radial first-hit checks, and triangle intersections tested across complete effect meshes.",
+  "minimum_sampled_wall_clearance_m": 0.003979062942218253,
+  "all_hardware_rigid_rotation_verified": true,
+  "no_axial_translation": true,
+  "clockwise_surface_view": "negative world Z, inherited +Z surface / -Z downhole mapping",
+  "hardware_wall_gap_m": 0.0031748337963160844,
+  "libraries": [
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v004\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "relative": true,
+      "exists": true
+    }
+  ],
+  "source_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+  "v001_sha256": "ce359c8ae096e022f53414482f49665cf7dc6a27f37c7010646a0df55860ddb6",
+  "limits": "Complete effect/hardware triangle checks and sampled radial exterior checks at listed times; discrete geometric evidence, not CFD or a proof at every continuous instant.",
+  "time_sampling": "half-frame midpoints"
+}
