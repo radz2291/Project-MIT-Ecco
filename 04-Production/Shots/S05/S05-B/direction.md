@@ -1,5 +1,17 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v006 focused composition study — 23 October 2026
+
+Owner releases a 2–3-second proof concentrating on one twisted pad and its surrounding fluid passage. The remaining problem is composition and the visible cause-and-effect relationship, not particle count or brightness. Preserve ENP3 source geometry, connected clockwise rotation, upward transport, amber, prior proofs and engineering limits. Full 18-second integration remains unreleased.
+
+v006 holds a new, wider oblique camera completely still. One v004 geometry-derived route becomes a finite shaded amber volume spanning the approach, bend around the pad and upward exit. Animated density supplies connected movement; five staggered matte rock fragments follow the same route. Geometry is checked against the turning hardware at each output frame. The volume receives partial rotation influence, with independent upward transport, and is not parented to steel. Density shading is an illustrative visibility treatment, not a solved physical density field. The static half-section azimuth changes by 25 degrees for the camera; all borehole radii and source mesh dimensions remain unchanged.
+
+Candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v006/`. Deliverables: `Previews/composition.png`, `Previews/S05_focused-interaction_v006.mp4`, and `Scenes/S05_focused-interaction_v006.blend`. Three seconds, 72 frames, 24 fps. All 72 output frames plus 71 halfway checks have no effect/steel intersections and positive wall/exterior clearance. Render/write mean 0.647 s, maximum 1.080 s. Native reopened, linked source preserved, v004/v005 baseline hashes unchanged. README and Records provide details.
+
+**Stage 6 review pending:** can the viewer follow the approach, pad redirection, upward exit and carried cuttings without annotations? Soft amber volume treatment remains a visual experiment. Discrete geometry checks do not prove CFD, engineering validity or audience comprehension. Stop at this limited proof.
+
+---
+
 ## Controlling v005 observation/readability proof — 23 October 2026
 
 Owner releases one bounded refinement of v004: make fluid less like engraved light, cuttings recognizable, and the interaction easier to watch. Preserve the existing geometry-aware annular coverage, clockwise rotation, upward transport, amber palette and scientific limits. Full 18-second production remains unreleased.

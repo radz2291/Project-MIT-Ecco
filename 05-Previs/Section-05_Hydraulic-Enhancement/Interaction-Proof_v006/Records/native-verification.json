@@ -1,0 +1,27 @@
+{
+  "reopened_file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v006\\Scenes\\S05_focused-interaction_v006.blend",
+  "frame_range": [
+    1,
+    72
+  ],
+  "fps": 24,
+  "camera": [
+    {
+      "frame": 1,
+      "camera_matrix_max_change": 0.0,
+      "rotation_degrees": -0.0
+    },
+    {
+      "frame": 36,
+      "camera_matrix_max_change": 0.0,
+      "rotation_degrees": -7.291667486190078
+    },
+    {
+      "frame": 72,
+      "camera_matrix_max_change": 0.0,
+      "rotation_degrees": -14.791667694896592
+    }
+  ],
+  "reopened_render_seconds": 0.7815040000132285,
+  "library_exists": true
+}
