@@ -1,0 +1,20 @@
+{
+  "samples": 16,
+  "surface_method": "BLENDED",
+  "frames": [
+    {
+      "frame": 1,
+      "seconds": 2.149024299986195
+    },
+    {
+      "frame": 36,
+      "seconds": 1.989287800010061
+    },
+    {
+      "frame": 72,
+      "seconds": 1.9567326999967918
+    }
+  ],
+  "discarded_transparency_test_seconds": 7.3085603,
+  "action": "Reduced samples from 32 to 16 and rebenchmarked all representative frames before batch"
+}

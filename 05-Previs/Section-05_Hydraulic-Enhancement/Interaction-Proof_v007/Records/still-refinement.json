@@ -1,0 +1,19 @@
+{
+  "seconds": 2.358982499979902,
+  "grid": [
+    301,
+    240
+  ],
+  "z_range": [
+    -0.45,
+    1.05
+  ],
+  "surface_mix": 0.025,
+  "density": 6,
+  "render_samples": 48,
+  "cutting_support_diameters_mm": [
+    15,
+    16,
+    14
+  ]
+}

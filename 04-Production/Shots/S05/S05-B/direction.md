@@ -1,5 +1,17 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v007 fluid-representation proof — 23 October 2026
+
+Owner identifies representation, not camera or tracer count, as the remaining problem. Preserve v006 composition, ENP3 geometry, connected clockwise rotation, upward flow, amber and source safeguards. First inspect one still showing steel, fluid, borehole and suspended cuttings; proceed only to a 2–3-second focused proof if that relationship reads. Full Section 5 remains unreleased.
+
+v007 replaces the narrow tube/trail presentation with a finite full annular fluid domain. Transparent surface and amber volume shading reveal the occupied space. A world-space density pattern bends along the geometry-derived route and moves upward, independently of the steel; three irregular matte fragments follow the corresponding path. The rotating inner exclusion boundary preserves clearance but does not define bulk fluid rotation. No independent tracer objects remain. The camera position, orientation and lens exactly match v006. Initial static opacity was reduced before the motion test. Agent static review permitted the bounded test; owner comprehension approval remains pending.
+
+Candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v007/`. Deliverables: `Previews/fluid-treatment_still.png`, `Previews/S05_fluid-volume_v007.mp4`, `Scenes/S05_fluid-volume_v007.blend`. Three seconds, 72 frames, 24 fps. Fluid boundary checked completely against steel; common rigid transform preserves separation. Three cuttings pass full steel/fluid-boundary tests at 143 sampled times. Mean final render/write 1.961 s; maximum 2.219 s. Native reopened and matched frame 36 pixel-for-pixel. Prior proofs and shared source preserved.
+
+**Stage 6 review pending:** does the filled amber space read as fluid, with pad-guided redirection and transported fragments? This is authored scientific visualization, not CFD, measured fluid properties, validated performance or an extra physical sleeve. Stop at the focused proof. README contains implementation, limits and verification evidence.
+
+---
+
 ## Controlling v006 focused composition study — 23 October 2026
 
 Owner releases a 2–3-second proof concentrating on one twisted pad and its surrounding fluid passage. The remaining problem is composition and the visible cause-and-effect relationship, not particle count or brightness. Preserve ENP3 source geometry, connected clockwise rotation, upward transport, amber, prior proofs and engineering limits. Full 18-second integration remains unreleased.

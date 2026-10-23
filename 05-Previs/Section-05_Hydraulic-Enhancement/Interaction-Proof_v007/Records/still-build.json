@@ -1,0 +1,44 @@
+{
+  "stage": "Static representation test; no motion built yet",
+  "seconds": 2.0684595000057016,
+  "grid": [
+    151,
+    240
+  ],
+  "inner_margin_m": 0.001,
+  "outer_margin_m": 0.001,
+  "z_range": [
+    -0.09,
+    0.66
+  ],
+  "camera_preserved": true,
+  "rocks": [
+    {
+      "name": "S05_v007_SuspendedCutting_00",
+      "location": [
+        0.10861687362194061,
+        0.07645329087972641,
+        0.014999999664723873
+      ],
+      "support_radius_m": 0.0065
+    },
+    {
+      "name": "S05_v007_SuspendedCutting_01",
+      "location": [
+        0.06337373703718185,
+        0.11556118726730347,
+        0.20499999821186066
+      ],
+      "support_radius_m": 0.0075
+    },
+    {
+      "name": "S05_v007_SuspendedCutting_02",
+      "location": [
+        0.10970992594957352,
+        0.07297397404909134,
+        0.4449999928474426
+      ],
+      "support_radius_m": 0.006
+    }
+  ]
+}

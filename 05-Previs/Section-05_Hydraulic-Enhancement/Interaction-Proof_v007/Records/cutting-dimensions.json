@@ -1,0 +1,26 @@
+{
+  "S05_v007_SuspendedCutting_00": {
+    "local_axis_extents_mm": [
+      10.370972100645304,
+      6.085606291890144,
+      12.426712084561586
+    ],
+    "max_support_diameter_mm": 15.000000356230881
+  },
+  "S05_v007_SuspendedCutting_01": {
+    "local_axis_extents_mm": [
+      11.062370613217354,
+      6.4913134556263685,
+      13.255159370601177
+    ],
+    "max_support_diameter_mm": 16.00000088929662
+  },
+  "S05_v007_SuspendedCutting_02": {
+    "local_axis_extents_mm": [
+      9.679574053734541,
+      5.67989912815392,
+      11.598263867199421
+    ],
+    "max_support_diameter_mm": 13.999999251482723
+  }
+}

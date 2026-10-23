@@ -1,0 +1,20 @@
+{
+  "reopened_file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v007\\Scenes\\S05_fluid-volume_v007.blend",
+  "frame": 36,
+  "frame_range": [
+    1,
+    72
+  ],
+  "fps": 24,
+  "source_libraries": [
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v007\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "relative": true,
+      "exists": true
+    }
+  ],
+  "camera_location_max_difference_v006": 0.0,
+  "camera_quaternion_max_difference_v006": 0.0,
+  "lens_difference_v006": 0.0,
+  "reopened_render_seconds": 2.391991699987557
+}

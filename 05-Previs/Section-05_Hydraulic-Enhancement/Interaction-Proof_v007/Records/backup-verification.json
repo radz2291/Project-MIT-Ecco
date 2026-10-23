@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "matches": true,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v007-Review\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v007\\Scenes\\S05_fluid-volume_v007.blend",
+      "relative": "05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v007/Scenes/S05_fluid-volume_v007.blend",
+      "sha256": "b1cf584c5e8a1d611717bb5d32739f445c103d63277f4046694772a04114202c"
+    },
+    {
+      "matches": true,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v007-Review\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v007\\Previews\\S05_fluid-volume_v007.mp4",
+      "relative": "05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v007/Previews/S05_fluid-volume_v007.mp4",
+      "sha256": "a5b5ed96d4e1c69cdaf7bdf93270b14df9c2d0e3cd9c14541be367b3b372b6ff"
+    },
+    {
+      "matches": true,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v007-Review\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "relative": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+    }
+  ],
+  "scope": "Local D drive recovery copy; not remote media",
+  "root": "D:/MIT-ECCO-Render-Recovery/S05-v007-Review"
+}
