@@ -1,5 +1,19 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v010 combined-interaction proof — 23 October 2026
+
+Owner releases a 3–4-second combined proof: retain v008 moving fluid, v009 trackable rocks, v006 fixed focused composition and v004 available-passage routing. The unresolved issue is recognizable fluid/pad redirection and spatial separation, not a new fluid representation. Full Section 5 remains unreleased.
+
+v009's constant density and disabled wisps caused the motion regression. v010 restores the actual animated v008 fluid material, extends it to 96 frames and retains its annular mesh. Three persistent v009 rock meshes move through the same geometry-aware path at a slower viewing pace with slightly greater outward placement. Eighteen v008-style non-emissive wisps use four v004 routes; the focal wisps share the rocks' transport field. Hardware rotation remains continuous and connected. Paths sample the changing steel orientation and receive partial angular influence without hardware parenting.
+
+The fixed camera now views from azimuth 0 degrees; a fixed 49 mm lens and lens shift contain the entire trip. The static half-section azimuth changes to expose the borehole behind the chosen fluid passage. All source dimensions and hardware, fluid-domain and borehole meshes remain unchanged. No animated cutaway.
+
+Candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v010/`. Deliverables: `Previews/S05_combined-interaction_v010.mp4`, `Previews/interaction_still.png`, `Scenes/S05_combined-interaction_v010.blend`. Four seconds / 96 frames / 24 fps. Geometry checks pass at 191 sampled times. The middle rock bends about 102 screen pixels from its endpoint chord; all three stay in frame. Native reopened and frame 48 matches exactly. Render mean 1.061 s/frame, maximum 1.362 s/frame. Source hashes preserved.
+
+**Stage 6 owner review pending:** does normal-speed playback show continuous upward circulation, recognizable lateral redirection around the rotating pad, and transported cuttings occupying the real annular space? This remains authored geometric illustration, not CFD or validated hydraulic performance. Technical checks are not comprehension approval. Stop at this proof; do not begin the complete section.
+
+---
+
 ## Controlling v009 tracked-group proof — 23 October 2026
 
 Owner releases one 2–3-second controlled movement test. Preserve the accepted v007 annular fluid concept and actual rotating ENP3 geometry. Focus exclusively on following the same small group from entry, around one pad, through upward exit. Stationary camera, no fragment respawns or disappearing loops. Full Section 5 remains unreleased.

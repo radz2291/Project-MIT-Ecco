@@ -1,0 +1,37 @@
+{
+  "native_sha256": "4176e88f522c06b5e7cce6ff517d20cdbbe2d04a12577a0541e9b230db1dcc99",
+  "fluid_material_nodes_links_and_mesh_match_v008_at_frame1": true,
+  "linked_hardware_and_borehole_meshes_match_v008": true,
+  "fluid_animation_samples": [
+    {
+      "frame": 1,
+      "density_z_offset_m": 0.0,
+      "density_angular_offset_rad": 0.0
+    },
+    {
+      "frame": 48,
+      "density_z_offset_m": 0.3916666507720947,
+      "density_angular_offset_rad": -0.1025380939245224
+    },
+    {
+      "frame": 72,
+      "density_z_offset_m": 0.5916666388511658,
+      "density_angular_offset_rad": -0.15489797294139862
+    },
+    {
+      "frame": 96,
+      "density_z_offset_m": 0.7916666269302368,
+      "density_angular_offset_rad": -0.20725785195827484
+    }
+  ],
+  "reopened_render_seconds": 1.4335342999838758,
+  "libraries": [
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v010\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "relative": true,
+      "exists": true
+    }
+  ],
+  "authorized_differences": "Extended fluid animation to 96 frames with linear extrapolation; new independent tracked cohort and wisps; camera viewing angle and lens shift; fixed section azimuth adjusted only.",
+  "reopened_frame48_pixel_identical": true
+}

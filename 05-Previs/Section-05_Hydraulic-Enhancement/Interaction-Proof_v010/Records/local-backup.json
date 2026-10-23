@@ -1,0 +1,21 @@
+{
+  "location": "Same-machine D drive, not remote or offsite media",
+  "files": [
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v010\\Scenes\\S05_combined-interaction_v010.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v010-Review\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v010\\Scenes\\S05_combined-interaction_v010.blend",
+      "sha256": "4176e88f522c06b5e7cce6ff517d20cdbbe2d04a12577a0541e9b230db1dcc99"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v010\\Previews\\S05_combined-interaction_v010.mp4",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v010-Review\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v010\\Previews\\S05_combined-interaction_v010.mp4",
+      "sha256": "001e2058de7836178f3fbef3005a2bd604e74fc18d0e9b63f06ab0f0a07a4123"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v010-Review\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+    }
+  ],
+  "previous_v008_v009_and_shared_master_hashes_unchanged": true
+}

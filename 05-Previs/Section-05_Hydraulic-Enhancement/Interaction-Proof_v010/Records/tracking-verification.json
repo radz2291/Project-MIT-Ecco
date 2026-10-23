@@ -1,0 +1,27 @@
+{
+  "persistent_objects": [
+    "S05_v010_TrackedFragment_00",
+    "S05_v010_TrackedFragment_01",
+    "S05_v010_TrackedFragment_02"
+  ],
+  "time_samples": 191,
+  "steel_occluded_centers": [],
+  "fragment_pair_intersections": [],
+  "screen_bounds_all_vertices": [
+    0.17459692060947418,
+    0.07639589160680771,
+    0.825403094291687,
+    0.9236041307449341
+  ],
+  "minimum_upward_half_frame_step_m": 0.0028124451637268066,
+  "maximum_half_frame_displacement_m": 0.004794609730409795,
+  "no_hide_scale_parenting_or_respawn": true,
+  "limit": "Center-ray visibility against steel and frame coverage, not a perceptual comprehension test.",
+  "screen_lateral_span_pixels": 136.46975708007812,
+  "screen_bend_from_endpoint_chord_pixels": 101.55729675292969,
+  "angular_range_degrees": [
+    15.811808896954599,
+    68.05501251379498
+  ],
+  "frames": 96
+}
