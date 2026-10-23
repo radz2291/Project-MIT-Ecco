@@ -1,0 +1,21 @@
+{
+  "frames": 432,
+  "fps": 24,
+  "seconds": 18,
+  "resolution": [
+    960,
+    540
+  ],
+  "new_render_frames": 164,
+  "reused_v019_frames": 268,
+  "reuse_range": [
+    165,
+    432
+  ],
+  "mean_new_frame_seconds": 0.7619994134145645,
+  "max_new_frame_seconds": 1.2858475999964867,
+  "total_new_render_seconds": 124.96790379998856,
+  "all_new_frames_under_5_seconds": true,
+  "all_encoded_frames_decoded": true,
+  "video_sha256": "f07f59b90dcbdd6b79930db20d6e5d3558db9f0dd0536fe10e62e148dfd016dd"
+}

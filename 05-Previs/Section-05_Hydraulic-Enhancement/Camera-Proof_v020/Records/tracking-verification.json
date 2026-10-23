@@ -1,0 +1,12 @@
+{
+  "A_tracking_x_range": [
+    0.45499974489212036,
+    0.45500028133392334
+  ],
+  "A_tracking_y_range": [
+    0.49999943375587463,
+    0.5000002980232239
+  ],
+  "frames_165_to_432_camera_exact_match": true,
+  "frame120_to121_position_delta_m": 0.013352732881080836
+}

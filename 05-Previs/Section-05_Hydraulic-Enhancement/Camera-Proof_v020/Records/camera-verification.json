@@ -1,0 +1,346 @@
+{
+  "source_unchanged": true,
+  "noncamera_content_matches": true,
+  "items_compared": 3412,
+  "camera_samples": 432,
+  "failures": [],
+  "min_camera_solid_distance_m": 0.9082207083702087,
+  "upward_flow_screen_direction_all_frames": true,
+  "largest_noncut_position_step_m": 0.022130193228745078,
+  "largest_noncut_orientation_step_deg": 0.8784806282744985,
+  "intentional_cut": null,
+  "core_observation_frames_with_at_least_one_visible_rock": 82,
+  "core_observation_frame_count": 82,
+  "rock_visibility": [
+    {
+      "frame": 165,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 166,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 167,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 168,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 169,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 170,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 171,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 172,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 173,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 174,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 175,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 176,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 177,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 178,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 179,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 180,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 181,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 182,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 183,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 184,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 185,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 186,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 187,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 188,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 189,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 190,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 191,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 192,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 193,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 194,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 195,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 196,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 197,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 198,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 199,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 200,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 201,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 202,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 203,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 204,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 205,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 206,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 207,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 208,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 209,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 210,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 211,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 212,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 213,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 214,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 215,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 216,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 217,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 218,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 219,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 220,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 221,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 222,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 223,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 224,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 225,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 226,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 227,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 228,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 229,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 230,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 231,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 232,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 233,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 234,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 235,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 236,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 237,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 238,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 239,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 240,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 241,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 242,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 243,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 244,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 245,
+      "visible_core_fragments": 3
+    },
+    {
+      "frame": 246,
+      "visible_core_fragments": 3
+    }
+  ],
+  "inherited_geometry_clearance_record": "../Full-Previs_v018/Records/geometry-verification.json and supply-geometry-verification.json; unchanged mesh and animation content preserves existing sampled evidence",
+  "limits": "Camera target ray is not a guarantee that every edge of every object is visible. Physical stage mapping remains illustrative, not certified."
+}

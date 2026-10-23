@@ -1,0 +1,10 @@
+{
+  "zero_rotation_surface_point": [
+    0.10888580977916718,
+    -0.062865249812603,
+    0.03999999910593033
+  ],
+  "actual_source_surface": true,
+  "source_face_index": 250401,
+  "description": "Ray-selected source steel point at world Z0.04m in the lower morphological working region; tracked with connected hardware rotation through frame72, then gaze blends toward B. Functional face identity remains illustrative."
+}

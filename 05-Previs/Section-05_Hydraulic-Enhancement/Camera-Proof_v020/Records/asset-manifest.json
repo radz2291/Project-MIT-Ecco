@@ -1,0 +1,22 @@
+{
+  "files": [
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v020\\Scenes\\S05_continuous-camera_v020.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v020-Previs\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v020\\Scenes\\S05_continuous-camera_v020.blend",
+      "sha256": "3583b6bbbf1d33df3f191024658e407953610a6b137dd5e242a28e1b100db7a0"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v020\\Previews\\S05_continuous-camera_v020.mp4",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v020-Previs\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v020\\Previews\\S05_continuous-camera_v020.mp4",
+      "sha256": "f07f59b90dcbdd6b79930db20d6e5d3558db9f0dd0536fe10e62e148dfd016dd"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v020-Previs\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+    }
+  ],
+  "same_machine_backup_only": true,
+  "source_v019_preserved": true,
+  "status": "Owner review pending"
+}
