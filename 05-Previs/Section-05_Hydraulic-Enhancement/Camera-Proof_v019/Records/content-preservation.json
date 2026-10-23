@@ -1,0 +1,8 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Scenes\\S05_full-cinematic_v018.blend",
+  "candidate": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v019\\Scenes\\S05_camera-direction_v019.blend",
+  "equal": true,
+  "items_compared": 3412,
+  "differences": [],
+  "scope": "All scene object mesh/topology/shape-key geometry, bound noncamera animation slots, materials and nodes, object transforms across five frames. Camera-parented legacy labels compared in local coordinates. Unused orphan datablocks excluded."
+}

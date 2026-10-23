@@ -1,0 +1,17 @@
+{
+  "decoded_frames": 432,
+  "fps": 24,
+  "seconds": 18,
+  "resolution": [
+    960,
+    540
+  ],
+  "samples": 4,
+  "engine": "EEVEE",
+  "mean_seconds": 0.8216390398146932,
+  "max_seconds": 1.0830735000199638,
+  "total_render_seconds": 354.94806519994745,
+  "elapsed_batch_seconds": 358.80005330001586,
+  "sha256": "1197df38187a161f71bc63c960aadcd6047c0f65b07e05ea883b20936f0cc8b6",
+  "all_under_5_seconds": true
+}

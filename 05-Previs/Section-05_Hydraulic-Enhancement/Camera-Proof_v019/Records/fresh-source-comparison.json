@@ -1,0 +1,7 @@
+{
+  "fresh_source": "a9f2328464378ddce6d9ee22d0a30b49ae5fb74d9ffb126b2304c7abe0b75d47",
+  "fresh_candidate": "6091912f92a6fb7955156ed85ce0fa76cd62ef43da52a06ca3f46a24c4763107",
+  "equal": false,
+  "original_baseline": "a9f2328464378ddce6d9ee22d0a30b49ae5fb74d9ffb126b2304c7abe0b75d47",
+  "diagnostic_status": "Historical overbroad hash comparison: included camera-parented label world transforms and orphan data. Superseded by content-preservation.json comparing bound content and camera-child local transforms."
+}

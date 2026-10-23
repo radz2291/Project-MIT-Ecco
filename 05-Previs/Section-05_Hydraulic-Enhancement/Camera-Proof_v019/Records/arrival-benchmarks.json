@@ -1,0 +1,47 @@
+[
+  {
+    "label": "entry",
+    "frame": 1,
+    "seconds": 1.3873172999883536
+  },
+  {
+    "label": "A_arrival",
+    "frame": 96,
+    "seconds": 0.8799723999982234
+  },
+  {
+    "label": "A_exit",
+    "frame": 120,
+    "seconds": 0.9325249999819789
+  },
+  {
+    "label": "B_entry",
+    "frame": 121,
+    "seconds": 0.9974389999988489
+  },
+  {
+    "label": "B_arrival",
+    "frame": 205,
+    "seconds": 1.0526878000237048
+  },
+  {
+    "label": "B_departure",
+    "frame": 246,
+    "seconds": 1.0224127999972552
+  },
+  {
+    "label": "C_entry",
+    "frame": 289,
+    "seconds": 0.9732421999797225
+  },
+  {
+    "label": "C_detail",
+    "frame": 330,
+    "seconds": 0.9895550000073854
+  },
+  {
+    "label": "C_arrival",
+    "frame": 420,
+    "seconds": 1.095662399980938
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "version": "v019 camera direction proof",
+  "source_v018": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Scenes\\S05_full-cinematic_v018.blend",
+  "source_v018_sha256": "fea4e32fdcfdd4ca1ea6cecab03543e67a551fa0cf221e0c11039e3917744d4a",
+  "files": [
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v019\\Scenes\\S05_camera-direction_v019.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v019-Previs\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v019\\Scenes\\S05_camera-direction_v019.blend",
+      "sha256": "9d880fe0193bc7aabd7cbbeb47a6fcd339a44c2ed01c5e29fa995ec6928c696b",
+      "bytes": 98268023
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v019\\Previews\\S05_camera-motion_v019.mp4",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v019-Previs\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v019\\Previews\\S05_camera-motion_v019.mp4",
+      "sha256": "1197df38187a161f71bc63c960aadcd6047c0f65b07e05ea883b20936f0cc8b6",
+      "bytes": 4502883
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v019-Previs\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "bytes": 18275711
+    }
+  ],
+  "frame_cache": "D:/MIT-ECCO-Render-Recovery/S05-v019-RenderCache/Frames",
+  "same_machine_backup_only": true,
+  "source_geometry_length_m": 2.4000000953674316,
+  "borehole_radius_m": 0.155575,
+  "source_mapping_limit": "O07 functional stage-face and pin/box mapping remains illustrative",
+  "live_work_revision": 701,
+  "task_authority": "Direct owner v019 camera proof handoff; no new ticket or lifecycle change",
+  "review_status": "Owner review pending"
+}

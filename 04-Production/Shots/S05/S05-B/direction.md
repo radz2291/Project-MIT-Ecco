@@ -1,5 +1,15 @@
 # S05-B — Engineered Turbulence
 
+## v019 camera-direction proof — owner review pending
+
+Owner's 23 October camera revision preserves v018 geometry, shaders and hydraulic timing. Candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v019/Scenes/S05_camera-direction_v019.blend`; proof MP4 is 18 seconds at 960 x 540/24fps, with 720p arrival stills. This records a tested proposal, not production-camera approval.
+
+A deliberate cut at frame121 enters closer; a partial arc opens the pad flank by frame165. Slow drift through frame246 leaves the original mechanism readable. The camera then follows outgoing fluid continuously into C.
+
+Camera score, actual transforms, bound-content preservation and clipping/screen-direction checks are in `Camera-Proof_v019/Records/`. E002–E004 guide distinct arrivals and purposeful travel; no studio preset copied. Exact hydraulic stage mapping remains illustrative. Normal-speed visual acceptance awaits owner review; no final finishing or film assembly released.
+
+---
+
 ## Controlling v018 full cinematic previs — 23 October 2026
 
 Owner's v018 production handoff releases the full 18-second low-cost S05 previs using approved v017. This controls older 12-second allocations, circulation-only choices and pending implementation gates below. Prior records remain historical; no final engineering or finished-film approval is claimed.
