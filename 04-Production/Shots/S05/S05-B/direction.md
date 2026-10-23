@@ -1,5 +1,17 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v005 observation/readability proof — 23 October 2026
+
+Owner releases one bounded refinement of v004: make fluid less like engraved light, cuttings recognizable, and the interaction easier to watch. Preserve the existing geometry-aware annular coverage, clockwise rotation, upward transport, amber palette and scientific limits. Full 18-second production remains unreleased.
+
+v005 retains v004's leading-centre trajectories and all eighteen routes. Long tails become compact rounded shaded segments using 28% of prior history, with reduced emission. Fifty fluid segments and twelve irregular matte chips are visible. Added chips use existing fluid trajectories; their coincident tracer segments are hidden and rock trails removed. Maximum chip support diameter 11.2 mm is illustrative and clearance-checked. Existing three-depth placement remains. Camera holds v004's middle composition exactly at frames 25–120, with small eased entry/exit moves; the tool and flow continue throughout.
+
+Candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v005/`, containing `Scenes/S05_twisted-pad_interaction_v005.blend` and `Previews/S05_twisted-pad_interaction_v005.mp4`. README records exact treatment, provenance and limits. All 144 output frames and 143 midpoint checks pass steel-intersection/exterior tests. Camera hold and source-to-successor route continuity verified. Mean render 0.537 s, maximum 0.694 s at 1280×720 / 24 fps. Native reopened with relative link; v004 and shared source preserved.
+
+**Stage 6 review pending:** can normal-speed viewers follow incoming fluid, pad interaction, redirected upward transport and recognizable cuttings? Shorter segments trade persistent path context for clearer movement. No CFD, calibrated transport or hydraulic-performance claim is added. Integration and finishing require the actual scoped release.
+
+---
+
 ## Controlling v004 annular-coverage proof — 23 October 2026
 
 Owner requests broader coverage through actual open annular spaces, including the central winding passage marked in the supplied image, more depth variation and a clearer relationship to rotation. Preserve amber, cuttings, upward transport and existing engineering limits. Release remains a six-second proof only.

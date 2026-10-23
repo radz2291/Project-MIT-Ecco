@@ -1,0 +1,13 @@
+{
+  "camera_hold_frames": [
+    25,
+    120
+  ],
+  "maximum_camera_matrix_change_during_hold": 0,
+  "maximum_evaluated_tracer_leading_centre_deviation_from_v004_m": 2.38999946897409e-07,
+  "maximum_deviation_from_authored_track_records_m": 0.0002183457426018417,
+  "record_note": "Comparison uses evaluated v004 geometry because its absolute shape-key evaluation differs slightly from the authored sample records; the source-to-successor difference remains below one micrometre.",
+  "all_18_routes_still_represented": true,
+  "prior_v004_sha256": "a2c19e453bdb164a337ac961b7fcf47950041a69610284919b0bae84afbf361c",
+  "limits": "Output-frame comparisons; no audience comprehension claim."
+}

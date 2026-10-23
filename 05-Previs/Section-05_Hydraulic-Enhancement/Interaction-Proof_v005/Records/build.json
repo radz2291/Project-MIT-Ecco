@@ -1,0 +1,87 @@
+{
+  "fluid_segments": 50,
+  "cuttings": [
+    {
+      "object": "S05_v005_Rock_54",
+      "source_track": 54,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_55",
+      "source_track": 55,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_56",
+      "source_track": 56,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_57",
+      "source_track": 57,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_58",
+      "source_track": 58,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_59",
+      "source_track": 59,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_60",
+      "source_track": 60,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_61",
+      "source_track": 61,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_Added_00",
+      "source_fluid_track": 14,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_Added_01",
+      "source_fluid_track": 0,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_Added_02",
+      "source_fluid_track": 8,
+      "support_radius_m": 0.0056
+    },
+    {
+      "object": "S05_v005_Rock_Added_03",
+      "source_fluid_track": 3,
+      "support_radius_m": 0.0056
+    }
+  ],
+  "camera_hold_frames": [
+    25,
+    120
+  ],
+  "camera_hold_seconds": 4,
+  "tool_rotation_unchanged": true,
+  "source_v004_sha256": "a2c19e453bdb164a337ac961b7fcf47950041a69610284919b0bae84afbf361c",
+  "changes": [
+    {
+      "fluid_segments": 54,
+      "leading_centres": "Exact v004 tracks preserved",
+      "history_fraction": 0.28,
+      "maximum_radius_m": 0.0013
+    }
+  ],
+  "limits": "Illustrative visible tracers and authored chip sizes, not calibrated particles, CFD or hydraulic performance.",
+  "four_markers_represented_as_cuttings": [
+    14,
+    0,
+    8,
+    3
+  ]
+}
