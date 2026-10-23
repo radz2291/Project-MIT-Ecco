@@ -1,0 +1,144 @@
+{
+  "prior_v010_sha256": "4176e88f522c06b5e7cce6ff517d20cdbbe2d04a12577a0541e9b230db1dcc99",
+  "width_multiplier": 1.35,
+  "length_multiplier": 1.5,
+  "still_frame": 48,
+  "render_seconds": 1.240353100001812,
+  "wisps": [
+    {
+      "name": "S05_v011_Wisp_2_0_0",
+      "v004_route": 2,
+      "start_z": -0.19,
+      "speed_m_s": 0.135,
+      "length_m": 0.078
+    },
+    {
+      "name": "S05_v011_Wisp_2_0_1",
+      "v004_route": 2,
+      "start_z": -0.194,
+      "speed_m_s": 0.135,
+      "length_m": 0.0975
+    },
+    {
+      "name": "S05_v011_Wisp_2_0_2",
+      "v004_route": 2,
+      "start_z": -0.198,
+      "speed_m_s": 0.135,
+      "length_m": 0.069
+    },
+    {
+      "name": "S05_v011_Wisp_2_1_0",
+      "v004_route": 2,
+      "start_z": -0.025,
+      "speed_m_s": 0.135,
+      "length_m": 0.078
+    },
+    {
+      "name": "S05_v011_Wisp_2_1_1",
+      "v004_route": 2,
+      "start_z": -0.029,
+      "speed_m_s": 0.135,
+      "length_m": 0.0975
+    },
+    {
+      "name": "S05_v011_Wisp_2_1_2",
+      "v004_route": 2,
+      "start_z": -0.033,
+      "speed_m_s": 0.135,
+      "length_m": 0.069
+    },
+    {
+      "name": "S05_v011_Wisp_2_2_0",
+      "v004_route": 2,
+      "start_z": 0.16,
+      "speed_m_s": 0.135,
+      "length_m": 0.078
+    },
+    {
+      "name": "S05_v011_Wisp_2_2_1",
+      "v004_route": 2,
+      "start_z": 0.156,
+      "speed_m_s": 0.135,
+      "length_m": 0.0975
+    },
+    {
+      "name": "S05_v011_Wisp_2_2_2",
+      "v004_route": 2,
+      "start_z": 0.152,
+      "speed_m_s": 0.135,
+      "length_m": 0.069
+    },
+    {
+      "name": "S05_v011_Wisp_0_0_0",
+      "v004_route": 0,
+      "start_z": -0.15,
+      "speed_m_s": 0.135,
+      "length_m": 0.0825
+    },
+    {
+      "name": "S05_v011_Wisp_0_1_0",
+      "v004_route": 0,
+      "start_z": 0.12,
+      "speed_m_s": 0.135,
+      "length_m": 0.0825
+    },
+    {
+      "name": "S05_v011_Wisp_0_2_0",
+      "v004_route": 0,
+      "start_z": 0.39,
+      "speed_m_s": 0.135,
+      "length_m": 0.0825
+    },
+    {
+      "name": "S05_v011_Wisp_4_0_0",
+      "v004_route": 4,
+      "start_z": -0.15,
+      "speed_m_s": 0.135,
+      "length_m": 0.0825
+    },
+    {
+      "name": "S05_v011_Wisp_4_1_0",
+      "v004_route": 4,
+      "start_z": 0.12,
+      "speed_m_s": 0.135,
+      "length_m": 0.0825
+    },
+    {
+      "name": "S05_v011_Wisp_4_2_0",
+      "v004_route": 4,
+      "start_z": 0.39,
+      "speed_m_s": 0.135,
+      "length_m": 0.0825
+    },
+    {
+      "name": "S05_v011_Wisp_16_0_0",
+      "v004_route": 16,
+      "start_z": -0.15,
+      "speed_m_s": 0.135,
+      "length_m": 0.0825
+    },
+    {
+      "name": "S05_v011_Wisp_16_1_0",
+      "v004_route": 16,
+      "start_z": 0.12,
+      "speed_m_s": 0.135,
+      "length_m": 0.0825
+    },
+    {
+      "name": "S05_v011_Wisp_16_2_0",
+      "v004_route": 16,
+      "start_z": 0.39,
+      "speed_m_s": 0.135,
+      "length_m": 0.0825
+    }
+  ],
+  "preserved": [
+    "camera and lens shift",
+    "fluid volume and material animation",
+    "hardware and rotation",
+    "rock geometry and trajectories",
+    "path centerlines and leading ends",
+    "borehole geometry and static cut"
+  ],
+  "animation_rendered": false
+}

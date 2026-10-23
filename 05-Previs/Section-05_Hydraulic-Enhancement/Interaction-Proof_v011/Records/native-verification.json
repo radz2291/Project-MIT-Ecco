@@ -1,0 +1,11 @@
+{
+  "native_sha256": "c30b62328b0bc47345d8675e62e1f8e80aead64e9de93239dd72ffb6c70047bd",
+  "frame": 48,
+  "reopened": true,
+  "libraries": [
+    {
+      "relative": true,
+      "exists": true
+    }
+  ]
+}

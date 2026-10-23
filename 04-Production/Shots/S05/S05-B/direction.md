@@ -1,5 +1,15 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v011 trail-size still review — 23 October 2026
+
+Owner positively reviews v010 and requests slightly larger/longer trails, with a still before any animation render. Preserve the combined interaction, camera, source geometry, fluid and fragment behavior. v011 increases trail cross-section by 35% and length by 50%, extending backward along the same routes without moving leading positions or changing opacity/color.
+
+Candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v011/Previews/trail-scale_still.png`, matched frame 48. Editable source: `Scenes/S05_trail-scale_v011.blend`. Still render 1.24 seconds. Enlarged geometry clears steel and fluid boundaries at 191 sampled times. v010 preserved; native reopened with relative source link.
+
+**Hold for owner still approval. No v011 animation rendered.** Full Section 5 remains unreleased.
+
+---
+
 ## Controlling v010 combined-interaction proof — 23 October 2026
 
 Owner releases a 3–4-second combined proof: retain v008 moving fluid, v009 trackable rocks, v006 fixed focused composition and v004 available-passage routing. The unresolved issue is recognizable fluid/pad redirection and spatial separation, not a new fluid representation. Full Section 5 remains unreleased.

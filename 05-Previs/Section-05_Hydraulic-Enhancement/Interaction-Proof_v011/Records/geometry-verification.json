@@ -1,0 +1,18 @@
+{
+  "time_samples": 191,
+  "domain_triangle_intersections": 0,
+  "domain_vertices_checked": 144480,
+  "minimum_domain_steel_distance_m": 0.0007684368174523115,
+  "minimum_domain_radial_exterior_m": 0.000999979682488189,
+  "minimum_domain_wall_gap_m": 0.0009999927154344113,
+  "moving_element_intersections": [],
+  "minimum_moving_element_steel_distance_m": 0.010924994014203548,
+  "minimum_moving_element_wall_gap_m": 0.001680307327603242,
+  "minimum_moving_element_fluid_boundary_gap_m": 0.0006803073276032412,
+  "camera_matrix_max_change": 0,
+  "hardware_and_domain_common_rigid_rotation_verified": true,
+  "source_and_v008_hash_unchanged": true,
+  "domain_method": "Complete static triangle and all-vertex exterior checks; common rigid rotation preserves steel/domain separation. Cylinder radius and axial limits are invariant. Fluid field and rocks move independently of this boundary.",
+  "moving_elements_method": "Full triangle and all-vertex steel/fluid containment checks at 96 output frames and 95 halfway samples; not a guarantee at every unsampled instant.",
+  "limits": "Geometric verification only; no CFD or measured performance claim."
+}
