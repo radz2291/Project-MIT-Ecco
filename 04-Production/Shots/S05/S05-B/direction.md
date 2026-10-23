@@ -1,5 +1,13 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v016 further fog reduction — 23 October 2026
+
+Owner requests a stronger fog reduction. v016 uses 40% of v015 fluid density/interface tint (32% of v014; surface alpha 0.008), preserving amber hue and motion. Rocks, trails, their matching colors and sizes, geometry, camera and lighting remain unchanged. Still: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v016/Previews/softer-fog_still.png`; native `Scenes/S05_softer-fog_v016.blend`. Frame 48 rendered in 1.514 seconds; native reopened with valid relative source link and checked multiplier.
+
+**Still approval pending; no animation rendered.** Prior versions preserved; full integration remains unreleased.
+
+---
+
 ## Controlling v015 fog-strength still — 23 October 2026
 
 Owner requests slightly dimmer fog. v015 reduces animated fluid density and interface tint strength by 20%, preserving amber hue and fluid motion. Enlarged matching-amber rocks and longer trails remain unchanged, as do all geometry, paths, camera and lights. Current still: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v015/Previews/restrained-fog_still.png`; native `Scenes/S05_restrained-fog_v015.blend`. Final frame 48 render took 1.110 seconds at 6 preview samples after an initial attempt exceeded the cap. Saved native reopened and relative source link verified. Prior versions preserved.

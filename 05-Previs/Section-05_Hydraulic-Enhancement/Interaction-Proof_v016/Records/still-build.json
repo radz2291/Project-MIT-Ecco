@@ -1,0 +1,17 @@
+{
+  "prior_v015_sha256": "21f108b3f31b3fd3634bb02589e0f91ca94027bf98e63b2d252833fa8af6a362",
+  "fog_density_relative_v014": 0.32,
+  "fog_density_relative_v015": 0.4,
+  "surface_alpha": 0.008,
+  "still_frame": 48,
+  "render_seconds": 1.514177099976223,
+  "samples": 6,
+  "animation_rendered": false,
+  "preserved": [
+    "rock and trail materials and geometry",
+    "amber hue",
+    "fluid movement pattern",
+    "all geometry",
+    "camera and lighting"
+  ]
+}
