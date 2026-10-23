@@ -1,0 +1,21 @@
+{
+  "min_particle_hardware": 0.003749784480035305,
+  "min_particle_wall": 0.0047520758310059625,
+  "min_axial_step": -0.0028358101844787598,
+  "reset_count": 56,
+  "max_projection_correction_m": 0.024729799108929827,
+  "stroke_center_minus_radius_min_m": 0.0013429594710288946,
+  "hardware_max_radius_m": 0.1524001662036839,
+  "hardware_radial_wall_gap_m": 0.0031748337963160844,
+  "root_angular_rate_degrees_per_second": -5,
+  "duration_seconds": 6,
+  "frames": 144,
+  "source_v001_sha256": "ce359c8ae096e022f53414482f49665cf7dc6a27f37c7010646a0df55860ddb6",
+  "camera_preserved": true,
+  "hardware_count": 10,
+  "fluid_packets": 27,
+  "rock_fragments": 8,
+  "method": "Authored axial/channel steering + partial tangential entrainment; moving-wall relative-normal avoidance; geometric position constraints at120Hz; NOT CFD or predictive cuttings transport",
+  "warmup_seconds": 6,
+  "palette": "Owner-approved amber"
+}

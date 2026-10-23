@@ -1,5 +1,21 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v002 revision — 23 October 2026
+
+Owner review releases a revision of the existing six-second interaction proof only. **Combined circulation and rotation** supersedes the stationary circulation-only assumption below for this revision and proposed Section 5 scenario. **Amber is approved.** Full 18-second integration remains unreleased. Preserve v001 and all shared assets.
+
+The instrument turns slowly as a single connected assembly, while fluid markers and recognizable matte fragments travel upward around the real pads. The owner's subsequent amendment restores the readable v001 path pattern through **long tapered tails behind moving elements**, rather than full stationary guides. Keep a stable camera, source dimensions and fixed sectioned borehole. Rotation must help explain interaction, not become the subject.
+
+Implementation: existing ten linked hardware wrappers share one axial root; negative world-Z rotation at 5 degrees per second, approximately 30 degrees across the six-second proof. Inherited +Z surface / -Z downhole mapping makes this clockwise from the surface. No translation or independent pad motion. Authored slowed timing is not measured RPM. The v001 camera, lens, framing and source mesh data are preserved.
+
+27 fluid markers and eight matte fragments follow a world-space illustrative field with channel steering, partial tangential entrainment and actual moving-mesh avoidance. Tapered current-time direction traces trail their advected centres; maximum lengths 190 mm for fluid and 115 mm for rocks. They are explanatory traces, not literal historical streaklines, CFD, measured transport, pressure or turbulence data. Hardware and effects remain geometrically separate at all checked output frames.
+
+Current candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v002/`. Native: `Scenes/S05_twisted-pad_interaction_v002.blend`; six-second video: `Previews/S05_twisted-pad_interaction_v002.mp4`. Its README carries the engineering assessment, research source, reproducible scripts, provenance and limits. All 144 rendered frames passed complete effect/hardware triangle-overlap checks and sampled radial exterior checks. Source/v001 hashes unchanged, relative link resolves after reopen. Mean render 0.527 s, maximum 0.702 s, 1280×720 / 24 fps / EEVEE. Representative renders also below five seconds; empty-cache performance not tested.
+
+Status: **Stage 6 proof ready for owner review**, with actual source geometry preserved and no full-section release assumed. Review rotating tool, upward transport and pad-influenced flow at normal playback. The preceding v001 implementation and older T43 contract below remain historical records where superseded.
+
+---
+
 ## Controlling Stage 6 proof amendment — 23 October 2026
 
 Owner-supplied Section 5 production handoff approves creative Stages 1–5 and authorizes only a 5–6-second interaction proof. The subsequent owner instruction places it in a **new previs folder**. This amendment supersedes older timing/output/release assumptions below only for this scoped proof. Earlier direction remains preserved as history.

@@ -1,0 +1,216 @@
+{
+  "tails": [
+    {
+      "object": "S05_v002_fluid_Tail_00",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_01",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_02",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_rock_Tail_03",
+      "kind": "rock",
+      "length_m": 0.115,
+      "head_radius_m": 0.00062
+    },
+    {
+      "object": "S05_v002_rock_Tail_04",
+      "kind": "rock",
+      "length_m": 0.115,
+      "head_radius_m": 0.00062
+    },
+    {
+      "object": "S05_v002_fluid_Tail_05",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_06",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_07",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_rock_Tail_08",
+      "kind": "rock",
+      "length_m": 0.115,
+      "head_radius_m": 0.00062
+    },
+    {
+      "object": "S05_v002_rock_Tail_09",
+      "kind": "rock",
+      "length_m": 0.115,
+      "head_radius_m": 0.00062
+    },
+    {
+      "object": "S05_v002_fluid_Tail_10",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_11",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_12",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_rock_Tail_13",
+      "kind": "rock",
+      "length_m": 0.115,
+      "head_radius_m": 0.00062
+    },
+    {
+      "object": "S05_v002_rock_Tail_14",
+      "kind": "rock",
+      "length_m": 0.115,
+      "head_radius_m": 0.00062
+    },
+    {
+      "object": "S05_v002_fluid_Tail_15",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_16",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_17",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_18",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_19",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_20",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_rock_Tail_21",
+      "kind": "rock",
+      "length_m": 0.115,
+      "head_radius_m": 0.00062
+    },
+    {
+      "object": "S05_v002_fluid_Tail_22",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_23",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_24",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_25",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_26",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_27",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_28",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_29",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_30",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_rock_Tail_31",
+      "kind": "rock",
+      "length_m": 0.115,
+      "head_radius_m": 0.00062
+    },
+    {
+      "object": "S05_v002_fluid_Tail_32",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_33",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    },
+    {
+      "object": "S05_v002_fluid_Tail_34",
+      "kind": "fluid",
+      "length_m": 0.19,
+      "head_radius_m": 0.00115
+    }
+  ],
+  "sampled_center_clearance_minus_radius_m": 0.001060931910945908,
+  "owner_amendment": "Retain v001 pattern through long tapered tails attached to moving elements; world-space geometry recomputed around rotating pads"
+}
