@@ -1,0 +1,145 @@
+{
+  "prior_v011_sha256": "c30b62328b0bc47345d8675e62e1f8e80aead64e9de93239dd72ffb6c70047bd",
+  "width_multiplier": 1.35,
+  "length_multiplier": 1.875,
+  "length_relative_to_v011": 1.25,
+  "still_frame": 48,
+  "render_seconds": 1.661906799999997,
+  "wisps": [
+    {
+      "name": "S05_v012_Wisp_2_0_0",
+      "v004_route": 2,
+      "start_z": -0.19,
+      "speed_m_s": 0.135,
+      "length_m": 0.09749999999999999
+    },
+    {
+      "name": "S05_v012_Wisp_2_0_1",
+      "v004_route": 2,
+      "start_z": -0.194,
+      "speed_m_s": 0.135,
+      "length_m": 0.12187500000000001
+    },
+    {
+      "name": "S05_v012_Wisp_2_0_2",
+      "v004_route": 2,
+      "start_z": -0.198,
+      "speed_m_s": 0.135,
+      "length_m": 0.08625
+    },
+    {
+      "name": "S05_v012_Wisp_2_1_0",
+      "v004_route": 2,
+      "start_z": -0.025,
+      "speed_m_s": 0.135,
+      "length_m": 0.09749999999999999
+    },
+    {
+      "name": "S05_v012_Wisp_2_1_1",
+      "v004_route": 2,
+      "start_z": -0.029,
+      "speed_m_s": 0.135,
+      "length_m": 0.12187500000000001
+    },
+    {
+      "name": "S05_v012_Wisp_2_1_2",
+      "v004_route": 2,
+      "start_z": -0.033,
+      "speed_m_s": 0.135,
+      "length_m": 0.08625
+    },
+    {
+      "name": "S05_v012_Wisp_2_2_0",
+      "v004_route": 2,
+      "start_z": 0.16,
+      "speed_m_s": 0.135,
+      "length_m": 0.09749999999999999
+    },
+    {
+      "name": "S05_v012_Wisp_2_2_1",
+      "v004_route": 2,
+      "start_z": 0.156,
+      "speed_m_s": 0.135,
+      "length_m": 0.12187500000000001
+    },
+    {
+      "name": "S05_v012_Wisp_2_2_2",
+      "v004_route": 2,
+      "start_z": 0.152,
+      "speed_m_s": 0.135,
+      "length_m": 0.08625
+    },
+    {
+      "name": "S05_v012_Wisp_0_0_0",
+      "v004_route": 0,
+      "start_z": -0.15,
+      "speed_m_s": 0.135,
+      "length_m": 0.103125
+    },
+    {
+      "name": "S05_v012_Wisp_0_1_0",
+      "v004_route": 0,
+      "start_z": 0.12,
+      "speed_m_s": 0.135,
+      "length_m": 0.103125
+    },
+    {
+      "name": "S05_v012_Wisp_0_2_0",
+      "v004_route": 0,
+      "start_z": 0.39,
+      "speed_m_s": 0.135,
+      "length_m": 0.103125
+    },
+    {
+      "name": "S05_v012_Wisp_4_0_0",
+      "v004_route": 4,
+      "start_z": -0.15,
+      "speed_m_s": 0.135,
+      "length_m": 0.103125
+    },
+    {
+      "name": "S05_v012_Wisp_4_1_0",
+      "v004_route": 4,
+      "start_z": 0.12,
+      "speed_m_s": 0.135,
+      "length_m": 0.103125
+    },
+    {
+      "name": "S05_v012_Wisp_4_2_0",
+      "v004_route": 4,
+      "start_z": 0.39,
+      "speed_m_s": 0.135,
+      "length_m": 0.103125
+    },
+    {
+      "name": "S05_v012_Wisp_16_0_0",
+      "v004_route": 16,
+      "start_z": -0.15,
+      "speed_m_s": 0.135,
+      "length_m": 0.103125
+    },
+    {
+      "name": "S05_v012_Wisp_16_1_0",
+      "v004_route": 16,
+      "start_z": 0.12,
+      "speed_m_s": 0.135,
+      "length_m": 0.103125
+    },
+    {
+      "name": "S05_v012_Wisp_16_2_0",
+      "v004_route": 16,
+      "start_z": 0.39,
+      "speed_m_s": 0.135,
+      "length_m": 0.103125
+    }
+  ],
+  "preserved": [
+    "camera and lens shift",
+    "fluid volume and material animation",
+    "hardware and rotation",
+    "rock geometry and trajectories",
+    "path centerlines and leading ends",
+    "borehole geometry and static cut"
+  ],
+  "animation_rendered": false
+}

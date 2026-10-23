@@ -1,5 +1,13 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v012 longer-trail still — 23 October 2026
+
+Owner asks for a little more length. v012 extends all trails another 25% beyond v011, retaining its width, leading positions, paths, camera, fluid, fragment tracking and source geometry. Matching frame 48: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v012/Previews/trail-scale_still.png`. Native: `Scenes/S05_trail-scale_v012.blend`. Still render 1.662 seconds; no intersections in 191 sampled geometry checks. Prior versions preserved.
+
+**Still approval pending; no v012 animation rendered.** Full integration remains unreleased.
+
+---
+
 ## Controlling v011 trail-size still review — 23 October 2026
 
 Owner positively reviews v010 and requests slightly larger/longer trails, with a still before any animation render. Preserve the combined interaction, camera, source geometry, fluid and fragment behavior. v011 increases trail cross-section by 35% and length by 50%, extending backward along the same routes without moving leading positions or changing opacity/color.
