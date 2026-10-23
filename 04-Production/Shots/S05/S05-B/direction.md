@@ -1,12 +1,12 @@
 # S05-B — Engineered Turbulence
 
-## Controlling v017 color balance still — 23 October 2026
+## Controlling v017 approved treatment and focused render — 23 October 2026
 
 Owner requests a slight fog increase from v016 and more saturated rocks/trails. v017 fluid strength is 0.44 of v014, up from 0.32; surface alpha 0.011. Both rock/trail colors use richer amber linear RGBA (1.0, 0.48, 0.035, 1). Their sizes, opacity/roughness and motion are unchanged, as are all geometry, camera and lighting. No emission added.
 
 Still: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v017/Previews/rich-amber_still.png`; native `Scenes/S05_rich-amber_v017.blend`. Matching frame 48 rendered in 1.244 seconds. Native reopened; colors, fog factor and relative dependency checked. Prior versions preserved.
 
-**Still approval pending; no animation rendered.** Full integration remains unreleased.
+**Owner approved v017 still and authorized its four-second render on 23 October 2026.** Delivered `Interaction-Proof_v017/Previews/S05_rich-amber_v017.mp4` (96 frames, 24 fps, 1280 x 720). EEVEE 6 samples; batch mean 1.079 s and maximum 1.662 s per frame. All frames decoded; frame 48 is pixel-identical to the approved still. Native remains byte-identical and was reopened at frame 48 with valid relative source dependency. Twelve chronological decoded frames inspected. Motion review remains with owner; full 18-second integration remains unreleased. Records: `Interaction-Proof_v017/Records/animation-verification.json` and `media-verification.json`.
 
 ---
 

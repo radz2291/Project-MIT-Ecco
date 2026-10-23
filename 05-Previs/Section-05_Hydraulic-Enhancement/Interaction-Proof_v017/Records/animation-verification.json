@@ -1,0 +1,28 @@
+{
+  "owner_release": "Good approve.. pls render",
+  "scope": "Approved v017 four-second focused proof only",
+  "frame48_pixel_identical_to_approved_still": true,
+  "native_sha256": "900fa8fc795a864eb2b6a4727b96817154f65d5678998b886d92fc7992c52abe",
+  "native_reopened_in_live_blender_at_frame": 48,
+  "relative_shared_library_exists": true,
+  "visual_inspection": "12 chronological decoded frames inspected: three fragments remain identifiable from entry through pad passage to exit; no obvious missing frames or image discontinuities. Normal-speed viewer acceptance remains with owner.",
+  "geometry": "Unchanged from approved native; inherits v012 longer-wisp and v013 enlarged-rock 191-time-sample clearance checks. Material-only v017; illustrative motion, not CFD.",
+  "same_machine_backup": [
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v017\\Scenes\\S05_rich-amber_v017.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v017-Still-Review\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v017\\Scenes\\S05_rich-amber_v017.blend",
+      "sha256": "900fa8fc795a864eb2b6a4727b96817154f65d5678998b886d92fc7992c52abe"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v017\\Previews\\S05_rich-amber_v017.mp4",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v017-Still-Review\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v017\\Previews\\S05_rich-amber_v017.mp4",
+      "sha256": "37fad0ad74b59aab74a4a1910df463a2dcced81b3236f0809c3fe9f98d369ac7"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v017-Still-Review\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+    }
+  ],
+  "full_18_second_integration": "Not released or rendered"
+}

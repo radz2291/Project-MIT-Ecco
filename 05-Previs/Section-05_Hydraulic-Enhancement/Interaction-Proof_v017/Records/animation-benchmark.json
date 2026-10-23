@@ -1,0 +1,24 @@
+{
+  "benchmarks": [
+    {
+      "frame": 1,
+      "seconds": 1.8706534999946598
+    },
+    {
+      "frame": 48,
+      "seconds": 1.1407405999780167
+    },
+    {
+      "frame": 96,
+      "seconds": 1.1168122000235599
+    }
+  ],
+  "samples": 6,
+  "resolution": [
+    1280,
+    720
+  ],
+  "approved_native_sha256": "900fa8fc795a864eb2b6a4727b96817154f65d5678998b886d92fc7992c52abe",
+  "frame_cache": "D:/MIT-ECCO-Render-Recovery/S05-v017-RenderCache/Frames",
+  "geometry_and_shading_unchanged": true
+}
