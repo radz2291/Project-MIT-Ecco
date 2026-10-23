@@ -1,0 +1,29 @@
+{
+  "samples": 863,
+  "range": [
+    1.0,
+    432.0
+  ],
+  "min_clearance_m": {
+    "rock_steel": 0.007078466936945915,
+    "rock_wall": 0.0020741681494114705,
+    "wisp_steel_conservative": 0.003423098076912998,
+    "wisp_wall_conservative": 0.0025213716944356935
+  },
+  "failures": [],
+  "failure_count": 0,
+  "max_sample_displacement_m": {
+    "S05_v018_Cutting_0_0": 0.009816612979314262,
+    "S05_v018_Cutting_0_1": 0.009810305016148465,
+    "S05_v018_Cutting_0_2": 0.009849947881388404,
+    "S05_v018_Cutting_1_0": 0.004744694481677501,
+    "S05_v018_Cutting_1_1": 0.004751653833873556,
+    "S05_v018_Cutting_1_2": 0.004724815663976901,
+    "S05_v018_Cutting_2_0": 0.009866305567145425,
+    "S05_v018_Cutting_2_1": 0.00974950232506898,
+    "S05_v018_Cutting_2_2": 0.009900267211526212
+  },
+  "connected_rotation_preserved": true,
+  "seconds": 37.766147100017406,
+  "method": "Every integer and half-frame; actual rock vertices and conservative wisp ring spheres against full fixed-source BVH transformed by rigid rotation. Not CFD or continuous-time proof."
+}

@@ -1,0 +1,64 @@
+{
+  "samples": [
+    {
+      "frame": 1,
+      "name": "entry",
+      "complete_render_to_file_seconds": 1.2985618000093382
+    },
+    {
+      "frame": 96,
+      "name": "accelerator",
+      "complete_render_to_file_seconds": 0.9461470000096597
+    },
+    {
+      "frame": 120,
+      "name": "A_exit",
+      "complete_render_to_file_seconds": 0.994053200003691
+    },
+    {
+      "frame": 121,
+      "name": "B_entry",
+      "complete_render_to_file_seconds": 0.8794794999994338
+    },
+    {
+      "frame": 198,
+      "name": "interaction",
+      "complete_render_to_file_seconds": 0.9418155000021216
+    },
+    {
+      "frame": 288,
+      "name": "B_exit",
+      "complete_render_to_file_seconds": 0.9459870999853592
+    },
+    {
+      "frame": 289,
+      "name": "C_entry",
+      "complete_render_to_file_seconds": 0.9808078999922145
+    },
+    {
+      "frame": 312,
+      "name": "diffuser",
+      "complete_render_to_file_seconds": 0.9496062000107486
+    },
+    {
+      "frame": 400,
+      "name": "pullback",
+      "complete_render_to_file_seconds": 0.9299595000047702
+    },
+    {
+      "frame": 432,
+      "name": "integrated",
+      "complete_render_to_file_seconds": 0.9309111000038683
+    }
+  ],
+  "settings": {
+    "resolution": [
+      1280,
+      720
+    ],
+    "fps": 24,
+    "engine": "BLENDER_EEVEE",
+    "samples": 6
+  },
+  "all_strictly_under_5s": true
+}

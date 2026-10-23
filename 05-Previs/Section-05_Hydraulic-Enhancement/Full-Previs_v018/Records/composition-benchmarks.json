@@ -1,0 +1,27 @@
+[
+  {
+    "frame": 1,
+    "name": "entry",
+    "seconds": 1.450152400007937
+  },
+  {
+    "frame": 96,
+    "name": "accelerator",
+    "seconds": 1.274351600004593
+  },
+  {
+    "frame": 198,
+    "name": "interaction",
+    "seconds": 1.2644752000051085
+  },
+  {
+    "frame": 312,
+    "name": "diffuser",
+    "seconds": 1.2212266999995336
+  },
+  {
+    "frame": 432,
+    "name": "integrated",
+    "seconds": 1.1981890999886673
+  }
+]

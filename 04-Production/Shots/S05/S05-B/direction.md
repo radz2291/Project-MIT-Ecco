@@ -1,5 +1,25 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v018 full cinematic previs — 23 October 2026
+
+Owner's v018 production handoff releases the full 18-second low-cost S05 previs using approved v017. This controls older 12-second allocations, circulation-only choices and pending implementation gates below. Prior records remain historical; no final engineering or finished-film approval is claimed.
+
+Current implementation: `05-Previs/Section-05_Hydraulic-Enhancement/Full-Previs_v018/Scenes/S05_full-cinematic_v018.blend`, one shared 432-frame timeline at 24 fps / 1280 x 720. Two motivated camera cuts at frames 121 and 289; all hydraulic regions operate continuously. Source hardware, 2.400 m length and 0.155575 m borehole radius remain unchanged. One connected hardware rotation is clockwise viewed from the surface, illustrated at 5 degrees/s, with no axial tool translation. Flow remains independently advected.
+
+Reuse: v017 translucent amber fluid and long tapered trails; original central tracked-fragment positions and speed appear at frames 151–246. Extended paths use v004 geometry-aware routes and globally connected clearance candidates. Three persistent cohorts of three source-shaped fragments serve the broader framing, with matte warm mineral materials. Formation remains fixed and already sectioned; its outer presentation extent increases to 0.42 m while the hole radius stays fixed. Camera and materials are editable.
+
+Truth limits: T48's source-X windows [1.35,1.56], [0.88,1.35], [0.50,0.88] m map to world-Z [-0.06,0.15], [0.15,0.62], [0.62,1.0] m. They are morphological working regions. O07 exact functional stage-face and pin/box identity remain unresolved. Flow is illustrative, with no CFD, pressure map, measured RPM, calibrated speed or performance claims. The visible temporary source caps/plates retain their existing provisional provenance.
+
+Verification: 863 integer/half-frame samples clear steel and wall; rock-to-rock overlap checks pass. Full fluid-boundary overlap check passes. Prior v017 and shared source hashes are unchanged; relative library resolves. Source and frame-by-frame camera evidence live in `Full-Previs_v018/Records/`. Agent checks do not substitute for owner viewing or engineering approval.
+
+Editorial conflict: new provisional film window 0:58–1:16 replaces the former 0:58–1:10, adding six seconds. S06, S07, narration and full-film assembly are untouched; Radzi decides downstream timing.
+
+**This composition: 5–12 seconds / frames 121–288.** Motivated scale cut into the approved v017-style three-quarter pad view. A very small upward drift preserves observation time. The original four-second fragment interaction is reused at its original rate, preceded by entry context and followed by continued transport; it is not stretched to seven seconds.
+
+Status: owner-authorized previs implementation; return complete animation for owner review. Final finishing, client publication and film assembly remain outside scope.
+
+---
+
 ## Controlling v017 approved treatment and focused render — 23 October 2026
 
 Owner requests a slight fog increase from v016 and more saturated rocks/trails. v017 fluid strength is 0.44 of v014, up from 0.32; surface alpha 0.011. Both rock/trail colors use richer amber linear RGBA (1.0, 0.48, 0.035, 1). Their sizes, opacity/roughness and motion are unchanged, as are all geometry, camera and lighting. No emission added.

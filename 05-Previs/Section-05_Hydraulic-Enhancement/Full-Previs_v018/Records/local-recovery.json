@@ -1,0 +1,23 @@
+{
+  "same_machine_backup_only": true,
+  "files": [
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Scenes\\S05_full-cinematic_v018.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v018-Previs\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Scenes\\S05_full-cinematic_v018.blend",
+      "sha256": "fea4e32fdcfdd4ca1ea6cecab03543e67a551fa0cf221e0c11039e3917744d4a",
+      "bytes": 98255671
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Previews\\S05_full-cinematic_v018.mp4",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v018-Previs\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Previews\\S05_full-cinematic_v018.mp4",
+      "sha256": "6bc329d744e4cd5fbcd24fb0307a0655af72b10318bd1da2f35e0a73efb510fd",
+      "bytes": 4618478
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v018-Previs\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+      "bytes": 18275711
+    }
+  ]
+}

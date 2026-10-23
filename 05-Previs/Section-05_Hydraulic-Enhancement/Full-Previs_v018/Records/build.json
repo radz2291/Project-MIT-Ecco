@@ -1,0 +1,35 @@
+{
+  "frames": 432,
+  "seconds": 18,
+  "fps": 24,
+  "rotation_deg_per_s": -5,
+  "source_time_offset_frames": 150,
+  "core_v017_frames": "151-246 unchanged tracked positions, sizes and speed",
+  "wisps": 46,
+  "cuttings": 9,
+  "fluid_grid": [
+    301,
+    240
+  ],
+  "stage_mapping_world_z": {
+    "lower": [
+      -0.06,
+      0.15
+    ],
+    "middle": [
+      0.15,
+      0.62
+    ],
+    "upper": [
+      0.62,
+      1
+    ]
+  },
+  "mapping_status": "Morphological interpretation inherited T48; functional face/end identity unverified",
+  "source_length_m": 2.4,
+  "borehole_radius_m": 0.155575,
+  "source": "Interaction-Proof_v017",
+  "no_hardware_translation": true,
+  "all_regions_simultaneous": true,
+  "work_revision": 701
+}

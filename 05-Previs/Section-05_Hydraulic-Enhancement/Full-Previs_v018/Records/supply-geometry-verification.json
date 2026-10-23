@@ -1,0 +1,20 @@
+{
+  "samples": 863,
+  "range": [
+    1.0,
+    432.0
+  ],
+  "min_clearance_m": {
+    "rock_steel": null,
+    "rock_wall": null,
+    "wisp_steel_conservative": 0.009313559213979528,
+    "wisp_wall_conservative": 0.006587372651704327
+  },
+  "failures": [],
+  "failure_count": 0,
+  "max_sample_displacement_m": {},
+  "connected_rotation_preserved": true,
+  "seconds": 19.091325000015786,
+  "method": "Every integer and half-frame; actual rock vertices and conservative wisp ring spheres against full fixed-source BVH transformed by rigid rotation. Not CFD or continuous-time proof.",
+  "scope": "24 added wisp meshes only; other objects retain prior 863-sample check"
+}

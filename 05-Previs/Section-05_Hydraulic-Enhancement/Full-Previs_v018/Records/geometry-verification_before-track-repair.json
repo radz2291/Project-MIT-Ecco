@@ -1,0 +1,385 @@
+{
+  "samples": 863,
+  "range": [
+    1.0,
+    432.0
+  ],
+  "min_clearance_m": {
+    "rock_steel": 7.460394408553839e-05,
+    "rock_wall": 0.005002609354995191,
+    "wisp_steel_conservative": 0.003423098076912998,
+    "wisp_wall_conservative": 0.0025213716944356935
+  },
+  "failures": [
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 246.5,
+      "object": "S05_v018_Cutting_0_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 421.5,
+      "object": "S05_v018_Cutting_1_0",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 424.5,
+      "object": "S05_v018_Cutting_1_1",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    },
+    {
+      "frame": 427.5,
+      "object": "S05_v018_Cutting_1_2",
+      "type": "rock_inside_solid_or_wall"
+    }
+  ],
+  "failure_count": 71,
+  "max_sample_displacement_m": {
+    "S05_v018_Cutting_0_0": 0.2720613957108269,
+    "S05_v018_Cutting_0_1": 0.2718472648652417,
+    "S05_v018_Cutting_0_2": 0.2715378779485392,
+    "S05_v018_Cutting_1_0": 0.06495015245359302,
+    "S05_v018_Cutting_1_1": 0.0666598530776329,
+    "S05_v018_Cutting_1_2": 0.06330457547145134,
+    "S05_v018_Cutting_2_0": 0.01864469927844849,
+    "S05_v018_Cutting_2_1": 0.021011769507723346,
+    "S05_v018_Cutting_2_2": 0.016603265363386067
+  },
+  "connected_rotation_preserved": true,
+  "seconds": 37.944696899998235,
+  "method": "Every integer and half-frame; actual rock vertices and conservative wisp ring spheres against full fixed-source BVH transformed by rigid rotation. Not CFD or continuous-time proof."
+}

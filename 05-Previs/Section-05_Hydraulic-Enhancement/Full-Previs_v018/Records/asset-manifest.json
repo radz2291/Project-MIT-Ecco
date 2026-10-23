@@ -1,0 +1,50 @@
+{
+  "candidate": {
+    "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Scenes\\S05_full-cinematic_v018.blend",
+    "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v018-Previs\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Scenes\\S05_full-cinematic_v018.blend",
+    "sha256": "fea4e32fdcfdd4ca1ea6cecab03543e67a551fa0cf221e0c11039e3917744d4a",
+    "bytes": 98255671
+  },
+  "video": {
+    "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Previews\\S05_full-cinematic_v018.mp4",
+    "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v018-Previs\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Previews\\S05_full-cinematic_v018.mp4",
+    "sha256": "6bc329d744e4cd5fbcd24fb0307a0655af72b10318bd1da2f35e0a73efb510fd",
+    "bytes": 4618478
+  },
+  "shared_dependency": {
+    "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "backup": "D:\\MIT-ECCO-Render-Recovery\\S05-v018-Previs\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+    "bytes": 18275711
+  },
+  "approved_and_comparison_sources": [
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v017\\Scenes\\S05_rich-amber_v017.blend",
+      "sha256": "900fa8fc795a864eb2b6a4727b96817154f65d5678998b886d92fc7992c52abe"
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v010\\Scenes\\S05_combined-interaction_v010.blend",
+      "sha256": "4176e88f522c06b5e7cce6ff517d20cdbbe2d04a12577a0541e9b230db1dcc99"
+    }
+  ],
+  "authorizing_handoff": "Records/owner-production-handoff.txt",
+  "live_work_read_revision": 701,
+  "live_work_context": "T43 done, T48 review. This directly owner-authorized previs has no separate live ticket; no archived ticket resumed or ticket lifecycle status changed.",
+  "frame_cache": "D:/MIT-ECCO-Render-Recovery/S05-v018-RenderCache/Frames",
+  "source_limits": [
+    "O07 certified stage-face and pin/box mapping unresolved",
+    "2.400m CAD retained; not rescaled to brochure nominal2.25m",
+    "Existing provisional presentation caps/plates preserved",
+    "Illustrative trajectories and advection, not CFD or measured performance"
+  ],
+  "reference_records": [
+    "04-Production/Records/Tasks/T-048/source-map_v002.md",
+    "04-Production/Shared/Assets/Hydraulics/README_v002.md",
+    "04-Production/Records/Tasks/T-010/hydraulic-register_v001.md",
+    "04-Production/Records/Tasks/T-043/shared-direction_v001.md",
+    "03-Context/01_Foundation/02-ENGINEERING_BASELINE.md",
+    "03-Context/01_Foundation/06-DECISIONS_AND_READINESS.md",
+    "03-Context/02_Storyboard/V2/ECCO_Section_05_Hydraulic_Padlet/PADLET_CAPTIONS.txt",
+    "03-Context/02_Storyboard/V3/ECCO_Section_05_Cinematic_Rich_Direction_Package/DIRECTOR_SHOT_ARCHITECTURE_DETAILED.md"
+  ]
+}

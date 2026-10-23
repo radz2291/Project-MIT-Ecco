@@ -1,0 +1,6 @@
+{
+  "added_wisps": 24,
+  "existing_paths_and_materials_unchanged": true,
+  "possibly_visible_previously_rendered_frames": [],
+  "reason": "Continuous inflow still visible at final wide composition; same finite tapered wisps, no looping or sudden respawn."
+}

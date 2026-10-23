@@ -1,0 +1,453 @@
+# S05 — Hydraulic Enhancement · Full Cinematic Previs Production
+
+**Production direction:** v018 — Full Section Integration  
+**Approved visual foundation:** S05 Rich Amber v017  
+**Comparison reference:** S05 Combined Interaction v010  
+**Section duration:** 18 seconds  
+**Working film position:** 0:58–1:16  
+**Production scope:** Complete low-cost cinematic previs, not final finishing.
+
+## 1. Owner review and decision
+
+I've reviewed v017 against v010.
+
+**v017 is approved as our working hydraulic-interaction visual foundation.**
+
+The latest version is significantly stronger in fluid movement, directional clarity, rock-cuttings visibility, and cinematic energy.
+
+We have iterated extensively on the hydraulic interaction, and I don't want us to continue rebuilding the same mechanism.
+
+Instead, we should now progress to the full 18-second Section 5 sequence.
+
+This approval applies to the visual treatment and progression into full previs. It does not constitute final engineering validation or finished-film approval.
+
+## 2. What we've achieved and should preserve
+
+v017 establishes several successful elements:
+
+- Recognizable physical ENP3 pad geometry.
+- Continuous tool rotation.
+- Amber hydraulic-flow visualization.
+- More energetic and readable fluid trajectories.
+- Visible cuttings moving through the flow.
+- A premium stylized scientific appearance.
+- An effective close-up of fluid interacting with engineered surfaces.
+
+These should become reusable components of Section 5.
+
+**Do not reinvent the hydraulic visual system.**
+
+Inspect the actual v017 native implementation, identify its successful controls and dependencies, and reuse them in the integrated scene.
+
+If a component requires adaptation for another hydraulic region, extend the existing implementation rather than independently rebuilding a different-looking effect.
+
+Preserve v017 and all earlier accepted sources.
+
+## 3. Remaining refinements
+
+There are only two non-blocking visual concerns from my review.
+
+### A. Cuttings material
+
+Some fragments in v017 appear slightly too luminous or golden.
+
+Keep their improved visibility, scale and motion, but make the cuttings look more like natural rock.
+
+Preferred appearance:
+
+- Irregular solid shapes.
+- Matte mineral materials.
+- Subtle warm-grey or earth tones.
+- Reflections appropriate to the environment.
+- No self-illumination or spark-like glow.
+
+Do not reduce visibility so much that cuttings become difficult to recognize again.
+
+### B. Environmental context
+
+The close-up in v017 does not fully establish the annular space or surrounding borehole wall.
+
+**Do not solve this by overloading the existing close-up.**
+
+The complete Section 5 sequence now gives us the opportunity to establish that context in Part A, before entering the detailed interaction in Part B.
+
+The v017 close-up should remain primarily about the interaction between flow and engineered pad geometry.
+
+## 4. Approved 18-second story architecture
+
+Our established narrative is:
+
+**Flow accelerates → twisted geometry redirects and agitates it → the integrated hydraulic system manages downstream flow.**
+
+The three functional regions operate simultaneously. We introduce them sequentially only because the camera follows the upward flow.
+
+### S05-A — The Flow Accelerates
+
+**Local time: 0:00–0:05 (5 seconds)**
+
+Purpose: Establish the hydraulic environment and introduce the first functional region.
+
+**Composition**
+
+Begin with a medium three-quarter view showing:
+
+- ENP3 within a recognizable open borehole.
+- The annular space between the tool and formation.
+- Upward-moving drilling fluid.
+- Suspended rock cuttings.
+- The accelerator region.
+
+Use our approved stylized scientific environment.
+
+The surroundings should be simplified, clean and readable, not an empty black space or an overly realistic muddy environment.
+
+**Motion**
+
+Start by making the overall upward circulation recognizable.
+
+As attention moves toward the accelerator geometry, show a local change in the flow paths and their motion.
+
+The audience should recognize that the body's geometry influences the moving fluid.
+
+The camera may gently track with the flow, settling into a meaningful view of the accelerator.
+
+**Important:** Don't exaggerate velocity changes into a quantitative claim. Flow trajectories and apparent acceleration remain illustrative.
+
+**Audience takeaway:**
+
+"The shape of the tool influences the movement of the returning drilling fluid."
+
+### S05-B — Engineered Agitation
+
+**Local time: 0:05–0:12 (7 seconds)**
+
+Purpose: Showcase the interaction between the twisted-pad geometry and flowing mud.
+
+This is our main hydraulic discovery.
+
+**Use v017 as the primary visual foundation.**
+
+**Composition**
+
+Move to the intimate three-quarter close-up of the actual raised/twisted pad region.
+
+Preserve the successful appearance, fluid behaviour and amber trajectories.
+
+Make sure the incoming and outgoing fluid regions remain readable.
+
+**Motion**
+
+The tool continues rotating subtly while the annular fluid moves upward.
+
+The motion should demonstrate:
+
+1. Fluid approaching the pad region.
+2. Fluid following and being redirected around the changing pad geometry.
+3. Local agitation and curved trajectories.
+4. Suspended cuttings travelling through the fluid.
+5. Flow continuing toward the next hydraulic region.
+
+The flow must remain independent of the steel's rigid rotation while responding plausibly to the changing geometry.
+
+A small, motivated camera arc is permitted, but the camera should not compete with the interaction.
+
+**Timing**
+
+The seven seconds provide more room than the original short proof.
+
+Use the additional time for context, an observable interaction and a meaningful exit—not by arbitrarily slowing the v017 animation.
+
+**Audience takeaway:**
+
+"The sculpted pads have a functional purpose: they redirect the flow and help keep rock cuttings moving."
+
+### S05-C — Diffuser & Integrated Hydraulic System
+
+**Local time: 0:12–0:18 (6 seconds)**
+
+Purpose: Complete the hydraulic explanation and reveal the three regions as one connected system.
+
+**Composition**
+
+Follow the upward-moving fluid toward the diffuser region.
+
+Show the downstream geometry and how the illustrative flow continues beyond it.
+
+Then gradually widen the composition to reveal more of the entire ENP3 hydraulic body.
+
+**Motion**
+
+Begin with a readable view of the downstream fluid interaction.
+
+The diffuser is designed to contribute to pressure recovery and management of the low-pressure wake.
+
+Represent that intention through a controlled transition in the illustrative flow pattern. Do not invent a validated pressure distribution or claim the wake has been scientifically eliminated.
+
+As the camera pulls back, keep fluid moving through all three hydraulic regions simultaneously.
+
+The final composition should communicate that the accelerator, twisted pads and diffuser form one integrated physical design.
+
+**Audience takeaway:**
+
+"ENP3 combines three engineered hydraulic regions to influence fluid flow and support cuttings transport."
+
+The final wider product composition should provide a clean editorial handoff toward Section 6.
+
+## 5. Camera direction
+
+Use our approved **three-composition architecture**.
+
+A single uninterrupted camera is not required.
+
+Motivated cuts or continuous-looking transitions are acceptable when they improve the viewer's understanding.
+
+Follow these principles:
+
+- Maintain consistent perceived upward fluid direction.
+- Keep ENP3 recognizable through important transitions.
+- Use camera movement to reveal physical relationships.
+- Avoid large decorative orbits.
+- Give the primary hydraulic interaction enough recognition time.
+- Reserve the strongest integrated product composition for the ending.
+
+The camera should complement the flow rather than compete with it.
+
+Use the project's Camera & Motion Language and Spatial Storytelling skill when establishing exact views and paths.
+
+## 6. Engineering and operating-mode requirements
+
+Our selected visualization now uses **combined circulation and rotation**, superseding the earlier circulation-only visual setup.
+
+Preserve:
+
+- Upward annular mud return.
+- One connected, rotating ENP3 hardware assembly.
+- Correct sourced rotation direction.
+- No arbitrary axial tool translation.
+- Actual source product dimensions.
+- Physically open fluid passages.
+- Rock cuttings transported with the moving fluid.
+- Consistent fluid behaviour across the three regions.
+
+Do not rigidly attach the entire fluid field to the tool rotation.
+
+Ensure moving tracers, volume elements and cuttings do not visibly pass through solid hardware.
+
+The exact geometry-based trajectories remain illustrative.
+
+**Technical verification still required:**
+
+Confirm the actual accelerator pads, twisted-pad sets and diffuser positions using the available CAD, client records and production geometry.
+
+The source register identifies some stage boundaries and pin/box mapping as unresolved. Do not silently invent certified locations.
+
+If the mapping is not independently established, retain the explicitly illustrative interpretation and identify the limitation for the owner.
+
+Do not rescale the 2.400 m source hardware to match the 2.25 m nominal brochure length.
+
+Do not fabricate CFD, FEA, pressure, velocity, turbulence, transport-efficiency or pack-off performance results.
+
+## 7. Art direction
+
+Use our approved **Premium Scientific Hydraulic Visualization**.
+
+**Product**
+
+- Recognizable, dimensionally preserved ENP3.
+- Satin steel / titanium-like appearance.
+- Clean reflection hierarchy.
+- Physically grounded forms and materials.
+
+**Environment**
+
+- Simplified, already-sectioned open borehole.
+- Recognizable annular space.
+- Restrained environmental detail.
+- Sufficient contrast to distinguish steel, rock and fluid.
+
+**Fluid**
+
+- Amber as the primary hydraulic visualization color.
+- Fluid volume and moving trajectories should feel spatially connected.
+- Preserve the successful energetic treatment from v017.
+- Avoid static painted-on trails and excessively thick glowing ribbons.
+
+**Cuttings**
+
+- Recognizable, non-emissive mineral fragments.
+- Transported by the fluid.
+- Visible but not excessively large or numerous.
+
+**Overall**
+
+Clean, sophisticated, visually energetic and technically credible.
+
+Do not overcomplicate the scene to make it feel more cinematic.
+
+## 8. Required skills and references
+
+Please read the current repository instructions, then use the established project skills.
+
+**Primary direction workflow**
+
+`03-Context/00_Skill/rolladice-scene-establishment/SKILL.md`
+
+**Scene direction**
+
+`03-Context/00_Skill/rolladice-scene-director/SKILL.md`
+
+**Visual communication**
+
+`03-Context/00_Skill/creative-intelligence-toolkit/information-to-visual-storytelling/SKILL.md`
+
+**Camera planning**
+
+`03-Context/00_Skill/creative-intelligence-toolkit/spatial-storytelling-camera-choreography/SKILL.md`
+
+**Execution handoff**
+
+`03-Context/00_Skill/creative-intelligence-toolkit/creative-knowledge-to-execution-engineering/SKILL.md`
+
+**Blender production**
+
+`03-Context/00_Skill/blender-animation-reference/SKILL.md`
+
+Also inspect:
+
+- Engineering Baseline and Decision Register.
+- S05 V2 hydraulic storyboard.
+- S05 V3 cinematic storyboard and S05-A/B/C direction records.
+- T43 approved shared direction.
+- Existing B204 and T48 hydraulic work.
+- v017 approved working proof and implementation.
+- Scene Direction Contract and current production workflow.
+
+Use our six approved stages as the controlling creative decisions.
+
+Do not initiate another creative discovery cycle or produce competing scene direction documents.
+
+Update the existing Scene Direction Contract with implementation details, accepted visual choices and remaining technical limitations.
+
+## 9. Implementation approach
+
+I want an efficient integration cycle.
+
+### Step 1 — Inspect and recover
+
+Inspect the actual v017 Blender scene and its implementation.
+
+Identify reusable geometry links, flow components, particle systems, rotation controls, shaders, camera controls and render settings.
+
+Verify asset paths and version identities.
+
+### Step 2 — Establish the complete compositions
+
+Create the three main compositions for A, B and C.
+
+Prioritize:
+
+- Entry and borehole context.
+- Twisted-pad interaction.
+- Diffuser and integrated-body reveal.
+
+Check whether the complete sequence has a coherent visual progression before committing to a full render.
+
+### Step 3 — Integrate hydraulic behaviour
+
+Reuse the approved v017 mechanism where applicable.
+
+Extend the visual system to the accelerator and diffuser regions without inventing incompatible new effects.
+
+Maintain continuous physical operation across all three shots.
+
+### Step 4 — Produce low-cost full previs
+
+Create an 18-second animation at:
+
+- 1280 × 720
+- 24 fps
+- 432 frames
+
+Preserve the project requirement of **strictly under five seconds per sampled complete render-to-file frame**.
+
+Benchmark entry, heavy interaction, transitions and final reveal before batch rendering.
+
+Keep the output economical and suitable for rapid directorial review.
+
+## 10. Deliverables
+
+Please provide:
+
+1. **Complete 18-second Section 5 MP4 previs.**
+2. Editable Blender source scene or clearly linked shot scenes.
+3. Chronological contact sheet covering all three sections.
+4. Representative entry, interaction, diffuser and final integration stills.
+5. Source-asset and geometry verification.
+6. Render-performance evidence.
+7. Short self-review identifying communication strengths, unresolved issues and technical limitations.
+8. Updated existing Scene Direction Contract with actual implementation facts.
+
+Preserve all previous proofs, shared masters and unrelated scenes.
+
+Use the project's existing `05-Previs/Section-05_Hydraulic-Enhancement/` organization and version the new work clearly.
+
+Do not replace unsaved Blender work or modify unrelated production assets.
+
+## 11. Acceptance criteria
+
+The complete previs should make the following understandable:
+
+**A — Acceleration**
+
+The viewer recognizes the borehole, ENP3, annular mud return and the body's influence on local flow.
+
+**B — Twisted pads**
+
+The viewer recognizes the rotating pads influencing fluid direction while cuttings remain transported.
+
+**C — Diffuser**
+
+The viewer understands the intended downstream flow-management role and recognizes the three regions as one integrated hydraulic design.
+
+**Overall**
+
+- Visual continuity across A, B and C.
+- Consistent amber hydraulic treatment.
+- Correct operating-mode representation.
+- Realistic product geometry and credible movement.
+- Flow that feels continuous across the sequence.
+- Clear distinction between physical geometry and illustrative flow.
+- No unsupported scientific or operational performance claims.
+- No distracting visual complexity.
+- Recognizable physical surroundings.
+- Effective 18-second narrative progression.
+
+Evaluate the moving sequence at normal playback speed and normal presentation size.
+
+Test the physical meaning separately from cinematic appearance.
+
+## 12. Stop condition
+
+**You are authorized to complete the full 18-second low-cost Section 5 previs.**
+
+You are not authorized to begin final finishing, full-film assembly, client publication or unrelated section changes.
+
+Section 5's duration is now 18 seconds, with a provisional position of 0:58–1:16. This changes the original 90-second schedule.
+
+Do not automatically retime Sections 6 and 7 or alter the final narration. Record the editorial conflict for later assembly decisions.
+
+Once the previs is complete, return it for my review.
+
+Do not self-approve final visual acceptance.
+
+### Final directorial priority
+
+We've already spent considerable effort discovering the hydraulic visual language.
+
+**Now I want us to turn that discovery into a complete cinematic sequence.**
+
+Preserve what works in v017. Improve only what the complete composition requires.
+
+The goal is not more effects.
+
+The goal is an elegant, coherent 18-second explanation of how ENP3's hydraulic geometry interacts with moving drilling fluid and transported cuttings.

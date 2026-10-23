@@ -1,0 +1,42 @@
+{
+  "frames": 432,
+  "duration_seconds": 18,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "codec": "H.264",
+  "all_frames_decoded": true,
+  "render_max_seconds": 1.8143625000084285,
+  "render_mean_seconds": 1.2101502886577051,
+  "all_frames_strictly_below_5s": true,
+  "mp4_sha256": "6bc329d744e4cd5fbcd24fb0307a0655af72b10318bd1da2f35e0a73efb510fd",
+  "contact_sheet_frames": [
+    1,
+    25,
+    49,
+    73,
+    96,
+    120,
+    121,
+    145,
+    169,
+    193,
+    217,
+    241,
+    265,
+    288,
+    289,
+    312,
+    336,
+    360,
+    384,
+    408,
+    420,
+    432
+  ],
+  "total_frame_render_seconds": 522.7849247001286,
+  "elapsed_first_to_last_frame_seconds": 1433.306506599998,
+  "elapsed_span_note": "Filesystem completion timestamps plus first-frame duration; includes pauses for verification and supply extension during the batch. Aggregate frame-render time excludes those pauses and encoding."
+}

@@ -1,0 +1,38 @@
+{
+  "prior_v017_unchanged_sha256": "900fa8fc795a864eb2b6a4727b96817154f65d5678998b886d92fc7992c52abe",
+  "shared_source_unchanged_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+  "source_length_m": 2.4000000953674316,
+  "borehole_inner_radius_m": 0.155575,
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Full-Previs_v018\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true,
+      "relative": true
+    }
+  ],
+  "fluid_steel_surface_intersections": 0,
+  "fluid_min_steel_distance_m": 0.000768434489145875,
+  "fluid_min_wall_margin_m": 0.0009999927154344113,
+  "fluid_boundary_rotates_with_solid_exclusion_only": true,
+  "density_field": "World position based upward advection and partial angular entrainment, source v008 restored in v010 and amber treatment v017",
+  "rock_pair_overlap_count": 0,
+  "rock_pair_sample_count": 863,
+  "upward_screen_direction_all_432_frames": true,
+  "physical_stage_face_mapping": "Unresolved O07; T48 source-X windows reused as morphological interpretation, not certified faces",
+  "world_stage_windows_m": {
+    "lower": [
+      -0.06,
+      0.15
+    ],
+    "middle": [
+      0.15,
+      0.62
+    ],
+    "upper": [
+      0.62,
+      1.0
+    ]
+  },
+  "source_mode": "Owner selected combined circulation and rotation; -5deg/s illustrated, no axial translation; no measured RPM/CFD claims"
+}

@@ -1,0 +1,42 @@
+{
+  "tracks": [
+    {
+      "name": "S05_v018_Cutting_0_0",
+      "max_frame_step_m": 0.019633225996634553
+    },
+    {
+      "name": "S05_v018_Cutting_0_1",
+      "max_frame_step_m": 0.01962060316560016
+    },
+    {
+      "name": "S05_v018_Cutting_0_2",
+      "max_frame_step_m": 0.0196998891418059
+    },
+    {
+      "name": "S05_v018_Cutting_1_0",
+      "max_frame_step_m": 0.009489388451572807
+    },
+    {
+      "name": "S05_v018_Cutting_1_1",
+      "max_frame_step_m": 0.00950329290114054
+    },
+    {
+      "name": "S05_v018_Cutting_1_2",
+      "max_frame_step_m": 0.009449624068219014
+    },
+    {
+      "name": "S05_v018_Cutting_2_0",
+      "max_frame_step_m": 0.019732605914312314
+    },
+    {
+      "name": "S05_v018_Cutting_2_1",
+      "max_frame_step_m": 0.019499004705693226
+    },
+    {
+      "name": "S05_v018_Cutting_2_2",
+      "max_frame_step_m": 0.019800529285736057
+    }
+  ],
+  "approved_core_restored": true,
+  "extension_method": "Globally connected angle candidates checked against actual turning solid; maximum5deg per frame for added motion; original core preserved; no rigid parenting."
+}
