@@ -1,0 +1,3 @@
+# S05 v013 — Larger rocks, still test
+
+Owner requested 50% larger rocks. Each fragment mesh is scaled 1.5 in each dimension, retaining v012 trails. Two paths move radially inward by 1.232 mm and 2.660 mm to fit the enlarged fragments within the existing annulus; their angular/axial paths and timing remain the same. Source steel and borehole dimensions are unchanged. All 191 time samples pass steel/fluid and fragment-pair checks; all three remain in frame. Still: `Previews/rock-scale_still.png`, frame 48, 1.674 seconds render time. Native: `Scenes/S05_rock-scale_v013.blend`. No animation rendered. The owner subsequently requested matching amber rock/trail colors; v014 is the current combined candidate.

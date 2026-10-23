@@ -1,0 +1,13 @@
+{
+  "native_sha256": "3f02df83d8c78b1083ab90f3d6bc8aea41fec9e2e6f2ceec714e84606e3e7465",
+  "reopened": true,
+  "frame": 48,
+  "rock_base_color_equals_trail_color": true,
+  "geometry_check_inherited_from": "../Interaction-Proof_v013/Records/geometry-verification.json",
+  "libraries": [
+    {
+      "relative": true,
+      "exists": true
+    }
+  ]
+}

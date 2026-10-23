@@ -1,0 +1,17 @@
+{
+  "prior_v013_sha256": "52afc3f4acaffc3c5ecc9f08c51c9db3e32b6f3760ad5b74a512ae9ee8a03d17",
+  "matched_linear_RGBA": [
+    0.7799999713897705,
+    0.550000011920929,
+    0.27000001072883606,
+    1.0
+  ],
+  "rocks_linear_size_multiplier": 1.5,
+  "trail_width_relative_v010": 1.35,
+  "trail_length_relative_v010": 1.875,
+  "still_frame": 48,
+  "render_seconds": 1.5395423999871127,
+  "geometry_camera_and_motion_unchanged_from_v013": true,
+  "animation_rendered": false,
+  "treatment": "Same base amber for all rock material slots and trail diffuse shader; rocks retain matte roughness and geometry shading, no emission added."
+}

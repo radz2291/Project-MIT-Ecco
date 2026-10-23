@@ -1,5 +1,15 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v014 combined still — 23 October 2026
+
+Owner requests 50% larger rocks, then matching colors for rocks and trails. v013 enlarges the three fragment meshes 1.5 times and shifts two paths inward by 1.232/2.660 mm for clearance; axial/angular transport remains. v014 changes only their material base colors to the trail amber (linear RGBA 0.78, 0.55, 0.27, 1), retaining matte surfaces. v012 trail length and width are preserved. Camera, steel/borehole geometry and fluid are unchanged.
+
+Current candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v014/Previews/amber-cuttings_still.png`; native `Scenes/S05_amber-cuttings_v014.blend`. Frame 48, render 1.540 seconds. v013 enlarged geometry passes 191 sampled checks, including pair collisions and visibility; v014 inherits this unchanged geometry. Native reopened and matching color inputs confirmed. Prior versions preserved.
+
+**Still approval pending; no v013/v014 animation rendered.** Full integration remains unreleased.
+
+---
+
 ## Controlling v012 longer-trail still — 23 October 2026
 
 Owner asks for a little more length. v012 extends all trails another 25% beyond v011, retaining its width, leading positions, paths, camera, fluid, fragment tracking and source geometry. Matching frame 48: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v012/Previews/trail-scale_still.png`. Native: `Scenes/S05_trail-scale_v012.blend`. Still render 1.662 seconds; no intersections in 191 sampled geometry checks. Prior versions preserved.

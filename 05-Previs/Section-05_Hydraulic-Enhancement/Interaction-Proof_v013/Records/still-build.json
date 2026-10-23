@@ -1,0 +1,28 @@
+{
+  "prior_v012_sha256": "4c293a2189bc5f0d3c862c38aefaf46044bde821316c5bd8bcffc9fb7b36d8c4",
+  "rocks": [
+    {
+      "name": "S05_v013_TrackedFragment_00",
+      "linear_size_multiplier": 1.5,
+      "support_diameter_mm": 22.500000291814406,
+      "inward_adjustment_m": 0
+    },
+    {
+      "name": "S05_v013_TrackedFragment_01",
+      "linear_size_multiplier": 1.5,
+      "support_diameter_mm": 24.00000042445026,
+      "inward_adjustment_m": 0.00123186134316991
+    },
+    {
+      "name": "S05_v013_TrackedFragment_02",
+      "linear_size_multiplier": 1.5,
+      "support_diameter_mm": 20.999999570172452,
+      "inward_adjustment_m": 0.0026597505071902228
+    }
+  ],
+  "trail_version": "v012 unchanged",
+  "camera_fluid_hardware_borehole_unchanged": true,
+  "still_frame": 48,
+  "render_seconds": 1.6738428999960888,
+  "animation_rendered": false
+}
