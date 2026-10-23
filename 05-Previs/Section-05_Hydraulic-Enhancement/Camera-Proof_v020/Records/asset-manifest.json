@@ -18,5 +18,8 @@
   ],
   "same_machine_backup_only": true,
   "source_v019_preserved": true,
-  "status": "Owner review pending"
+  "status": "Owner-approved Section 5 previs baseline",
+  "approval_date": "2026-10-23",
+  "approval_record": "owner-approval_2026-10-23.md",
+  "approval_scope": "Complete 18-second v020 previs; final finishing, assembly, client acceptance and engineering certification excluded"
 }

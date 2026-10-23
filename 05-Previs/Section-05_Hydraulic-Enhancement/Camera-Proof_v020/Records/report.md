@@ -23,9 +23,9 @@ Scene-content comparison against v019 passes 3412 entries. Actual geometry, mate
 
 New rendering: **0.76s/frame average**, **1.29s maximum**, **125.0s total for 164 changed frames**. All 432 encoded frames decode. Inherited v019 frame costs and clearance checks remain documented in the prior package.
 
-## Review
+## Review — owner approved, 23 October 2026
 
-The transition stills show the lower shape staying under attention while B's raised geometry becomes larger and the camera moves to its flank. This directly addresses the earlier cut and wandering focus. The final normal-speed feel remains for owner review; browser/desktop playback tooling was unavailable in this session's preceding checks, so no independent audience acceptance is claimed. No material or particle polishing was performed.
+The transition stills show the lower shape staying under attention while B's raised geometry becomes larger and the camera moves to its flank. This directly addresses the earlier cut and wandering focus. Radzi approved the complete v020 previs on 23 October 2026. See `Records/owner-approval_2026-10-23.md` (relative to the package root). Earlier browser/desktop playback tooling was unavailable to the agent; this historical verification limit does not replace the owner's subsequent review and approval. No material or particle polishing was performed.
 
 The selected lower feature is a camera landmark on actual CAD, not a newly certified accelerator face. Hydraulic trajectories and functional stage mapping retain their existing illustrative limits. Source dimensions and engineering clearances were not changed.
 

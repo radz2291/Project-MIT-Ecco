@@ -1,10 +1,10 @@
 # S05-A — The Flow Accelerates
 
-## v020 continuous camera correction — review pending
+## v020 continuous camera correction — owner approved, 23 October 2026
 
-Owner positively reviewed v019 and requested stronger A tracking plus a continuous A-to-B connection. Candidate: `05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Scenes/S05_continuous-camera_v020.blend`.
+Owner positively reviewed v019 and requested stronger A tracking plus a continuous A-to-B connection. Approved previs: `05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Scenes/S05_continuous-camera_v020.blend`.
 
-A now follows an actual lower steel surface landmark through frame72, then transfers gaze continuously toward B through frame165. The cut at frame121 is removed. Camera and optics from frame165 onward exactly match v019; B's settled interaction and C are retained. Full sequence remains18 seconds, with unchanged geometry, hydraulic animation and materials. Camera/target checks pass; source geometry and functional stage mapping retain their prior limits. Proof and evidence are in `Camera-Proof_v020/Records/`. Owner motion review remains pending.
+A now follows an actual lower steel surface landmark through frame72, then transfers gaze continuously toward B through frame165. The cut at frame121 is removed. Camera and optics from frame165 onward exactly match v019; B's settled interaction and C are retained. Full sequence remains18 seconds, with unchanged geometry, hydraulic animation and materials. Camera/target checks pass; source geometry and functional stage mapping retain their prior limits. Proof and evidence are in `Camera-Proof_v020/Records/`. Radzi approved the complete v020 previs. Approval record: `05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Records/owner-approval_2026-10-23.md`. Final finishing, assembly, client acceptance and engineering certification remain separate.
 
 ---
 
