@@ -1,0 +1,29 @@
+{
+  "prior_v016_sha256": "850cd6602d117944c195191c956ce7d071682cc30728455f71da7e4a9b0e21ab",
+  "fog_strength_relative_v014": 0.44,
+  "previous_fog_strength": 0.32,
+  "surface_alpha": 0.011,
+  "old_rock_trail_linear_RGBA": [
+    0.78,
+    0.55,
+    0.27,
+    1
+  ],
+  "new_rock_trail_linear_RGBA": [
+    1.0,
+    0.48,
+    0.035,
+    1.0
+  ],
+  "still_frame": 48,
+  "render_seconds": 1.2435701999929734,
+  "samples": 6,
+  "animation_rendered": false,
+  "preserved": [
+    "all geometry and sizes",
+    "camera and lighting",
+    "rock and trail opacity/roughness",
+    "all motion",
+    "no added emission"
+  ]
+}

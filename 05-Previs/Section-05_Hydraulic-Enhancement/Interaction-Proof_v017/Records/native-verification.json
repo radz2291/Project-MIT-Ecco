@@ -1,0 +1,12 @@
+{
+  "native_sha256": "900fa8fc795a864eb2b6a4727b96817154f65d5678998b886d92fc7992c52abe",
+  "reopened": true,
+  "fog_multiplier": 0.44,
+  "rock_trail_color_match": true,
+  "libraries": [
+    {
+      "relative": true,
+      "exists": true
+    }
+  ]
+}

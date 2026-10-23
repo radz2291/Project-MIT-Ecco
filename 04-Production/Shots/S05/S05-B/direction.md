@@ -1,5 +1,15 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v017 color balance still — 23 October 2026
+
+Owner requests a slight fog increase from v016 and more saturated rocks/trails. v017 fluid strength is 0.44 of v014, up from 0.32; surface alpha 0.011. Both rock/trail colors use richer amber linear RGBA (1.0, 0.48, 0.035, 1). Their sizes, opacity/roughness and motion are unchanged, as are all geometry, camera and lighting. No emission added.
+
+Still: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v017/Previews/rich-amber_still.png`; native `Scenes/S05_rich-amber_v017.blend`. Matching frame 48 rendered in 1.244 seconds. Native reopened; colors, fog factor and relative dependency checked. Prior versions preserved.
+
+**Still approval pending; no animation rendered.** Full integration remains unreleased.
+
+---
+
 ## Controlling v016 further fog reduction — 23 October 2026
 
 Owner requests a stronger fog reduction. v016 uses 40% of v015 fluid density/interface tint (32% of v014; surface alpha 0.008), preserving amber hue and motion. Rocks, trails, their matching colors and sizes, geometry, camera and lighting remain unchanged. Still: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v016/Previews/softer-fog_still.png`; native `Scenes/S05_softer-fog_v016.blend`. Frame 48 rendered in 1.514 seconds; native reopened with valid relative source link and checked multiplier.
