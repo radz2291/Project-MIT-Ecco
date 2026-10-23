@@ -1,0 +1,256 @@
+{
+  "tails": [
+    {
+      "index": 0,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.35833333333333334,
+      "mean_visible_history_seconds": 0.8238425925925926
+    },
+    {
+      "index": 1,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.008333333333333333,
+      "mean_visible_history_seconds": 0.7372106481481481
+    },
+    {
+      "index": 2,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.7346064814814814
+    },
+    {
+      "index": 3,
+      "kind": "rock",
+      "max_history_seconds": 0.55,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.5
+    },
+    {
+      "index": 4,
+      "kind": "rock",
+      "max_history_seconds": 0.55,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.4935763888888889
+    },
+    {
+      "index": 5,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.35833333333333334,
+      "mean_visible_history_seconds": 0.8238425925925926
+    },
+    {
+      "index": 6,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.008333333333333333,
+      "mean_visible_history_seconds": 0.7372106481481481
+    },
+    {
+      "index": 7,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.7346064814814814
+    },
+    {
+      "index": 8,
+      "kind": "rock",
+      "max_history_seconds": 0.55,
+      "min_visible_history_seconds": 0.025,
+      "mean_visible_history_seconds": 0.503125
+    },
+    {
+      "index": 9,
+      "kind": "rock",
+      "max_history_seconds": 0.55,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.4935763888888889
+    },
+    {
+      "index": 10,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.35833333333333334,
+      "mean_visible_history_seconds": 0.8208912037037037
+    },
+    {
+      "index": 11,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.008333333333333333,
+      "mean_visible_history_seconds": 0.735300925925926
+    },
+    {
+      "index": 12,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.7353587962962963
+    },
+    {
+      "index": 13,
+      "kind": "rock",
+      "max_history_seconds": 0.55,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.5
+    },
+    {
+      "index": 14,
+      "kind": "rock",
+      "max_history_seconds": 0.55,
+      "min_visible_history_seconds": 0.008333333333333333,
+      "mean_visible_history_seconds": 0.4953125
+    },
+    {
+      "index": 15,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.35833333333333334,
+      "mean_visible_history_seconds": 0.8238425925925926
+    },
+    {
+      "index": 16,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.008333333333333333,
+      "mean_visible_history_seconds": 0.7372106481481481
+    },
+    {
+      "index": 17,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.7346064814814814
+    },
+    {
+      "index": 18,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.35833333333333334,
+      "mean_visible_history_seconds": 0.8238425925925926
+    },
+    {
+      "index": 19,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.008333333333333333,
+      "mean_visible_history_seconds": 0.7372106481481481
+    },
+    {
+      "index": 20,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.7346064814814814
+    },
+    {
+      "index": 21,
+      "kind": "rock",
+      "max_history_seconds": 0.55,
+      "min_visible_history_seconds": 0.025,
+      "mean_visible_history_seconds": 0.503125
+    },
+    {
+      "index": 22,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.35833333333333334,
+      "mean_visible_history_seconds": 0.8208912037037037
+    },
+    {
+      "index": 23,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.016666666666666666,
+      "mean_visible_history_seconds": 0.7370949074074074
+    },
+    {
+      "index": 24,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.7346064814814814
+    },
+    {
+      "index": 25,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.35833333333333334,
+      "mean_visible_history_seconds": 0.8238425925925926
+    },
+    {
+      "index": 26,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.008333333333333333,
+      "mean_visible_history_seconds": 0.7372106481481481
+    },
+    {
+      "index": 27,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.7346064814814814
+    },
+    {
+      "index": 28,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.35833333333333334,
+      "mean_visible_history_seconds": 0.8238425925925926
+    },
+    {
+      "index": 29,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.008333333333333333,
+      "mean_visible_history_seconds": 0.7372106481481481
+    },
+    {
+      "index": 30,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.025,
+      "mean_visible_history_seconds": 0.7407986111111111
+    },
+    {
+      "index": 31,
+      "kind": "rock",
+      "max_history_seconds": 0.55,
+      "min_visible_history_seconds": 0.016666666666666666,
+      "mean_visible_history_seconds": 0.5020833333333333
+    },
+    {
+      "index": 32,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.35833333333333334,
+      "mean_visible_history_seconds": 0.8208912037037037
+    },
+    {
+      "index": 33,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.016666666666666666,
+      "mean_visible_history_seconds": 0.7370949074074074
+    },
+    {
+      "index": 34,
+      "kind": "fluid",
+      "max_history_seconds": 0.85,
+      "min_visible_history_seconds": 0.0,
+      "mean_visible_history_seconds": 0.7353587962962963
+    }
+  ],
+  "history_sample_rate_hz": 120,
+  "velocity_smoothing_seconds": 0.12,
+  "near_pad_tangential_term": 0.65,
+  "previous_term": 0.3,
+  "source_v002_sha256": "919d002c38c2c4864158b382bbf6a29349c67eb44de69309c5a6a8f4018672f4",
+  "frames": 144,
+  "method": "World-space particle advection with smoothed velocity and actual movement-history trails; safe history-length envelope around current moving steel. No rigid attachment to tool; no physical solver."
+}

@@ -1,5 +1,15 @@
 # S05-B — Engineered Turbulence
 
+## Controlling v003 tail-motion test — 23 October 2026
+
+Owner feedback: v002 tails feel odd; test a closer visual relationship to the tool's spin while allowing independent upward flow. The owner approved the proposed middle ground. Scope remains the same six-second proof, preserving v002, camera, geometry, amber palette and clockwise whole-tool rotation.
+
+v003 uses each marker's recent world-space movement as its tail, up to 0.85 seconds for fluid and 0.55 seconds for rocks. Velocity smoothing and a stronger partial tangential term make the flow follow the turning pads more gently. Effects are not parented to the tool. History is shortened smoothly before current steel overtakes it; this is an illustrative motion record, not a simulated wake. Full details and limits: `05-Previs/Section-05_Hydraulic-Enhancement/Interaction-Proof_v003/README.md`.
+
+Candidate: `Scenes/S05_twisted-pad_interaction_v003.blend` and `Previews/S05_twisted-pad_interaction_v003.mp4` in that folder. All 144 rendered frames passed effect/hardware intersection and sampled exterior checks. Source and prior versions preserved. Render mean 0.520 s, maximum 0.685 s at unchanged 1280×720 / 24 fps. Saved native reopened with relative source link. Stage 6 motion/readability review remains pending; this is not full 18-second integration or finishing approval.
+
+---
+
 ## Controlling v002 revision — 23 October 2026
 
 Owner review releases a revision of the existing six-second interaction proof only. **Combined circulation and rotation** supersedes the stationary circulation-only assumption below for this revision and proposed Section 5 scenario. **Amber is approved.** Full 18-second integration remains unreleased. Preserve v001 and all shared assets.

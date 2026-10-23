@@ -1,0 +1,19 @@
+{
+  "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Interaction-Proof_v003\\Scenes\\S05_twisted-pad_interaction_v003.blend",
+  "opened": true,
+  "frame": 72,
+  "linked_libraries": [
+    {
+      "path": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    }
+  ],
+  "native_sha256": "da02e9e97b55f137b153947011a497a4e3b63c952dc379e69877b0bd7aff1496",
+  "render_engine": "BLENDER_EEVEE",
+  "resolution": [
+    1280,
+    720
+  ],
+  "motion_blur": false,
+  "fps": 24
+}
