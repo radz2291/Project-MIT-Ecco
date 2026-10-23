@@ -13,7 +13,7 @@ Owner approved the v017 still and requested rendering on 23 October 2026. The ap
 
 EEVEE, 6 samples. Representative preflight frames 1/48/96 rendered in 1.87/1.14/1.12 seconds. All 96 batch frames stayed below five seconds; maximum 1.662 seconds, mean 1.079 seconds. The MP4 decoded completely to 96 frames. Batch frame 48 is pixel-identical to the approved still. Native hash is unchanged; reopened in live Blender at frame 48 with a valid relative ECCO source link.
 
-Twelve chronological decoded frames were inspected. The same three fragments travel through the passage. This is illustrative motion; existing v012/v013 geometry checks are inherited, not CFD validation. Owner normal-speed review of this rendered proof remains pending. Full 18-second integration is not released.
+Twelve chronological decoded frames were inspected. The same three fragments travel through the passage. This is illustrative motion; existing v012/v013 geometry checks are inherited, not CFD validation. Owner approved the rendered four-second proof on 23 October 2026: "ok this is approve". v017 is the accepted hydraulic-interaction foundation for subsequent Section 5 work. Full 18-second integration is not released.
 
 ## Storage and recovery
 
