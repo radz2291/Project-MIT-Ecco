@@ -1,6 +1,6 @@
 # Scene Casebook — Lessons from the ECCO Collaboration
 
-These are process lessons drawn from the owner's supplied development conversation through Sections 1–3, not an engineering audit or a new approval of any scene version. The companion skill and project documents explain the applicable methods. No confidential field images, source measurements or product assets are included here.
+These are process lessons drawn from the owner's supplied development conversation through Sections 1–5, not an engineering audit or a new approval of any scene version. Section 5 is a retrospective of owner-reviewed candidate previews, not a controlled study showing measured productivity gains. The companion skill and project documents explain the applicable methods. No confidential field images, source measurements or product assets are included here.
 
 ## 1. Beautiful mechanics are not yet a film
 
@@ -50,6 +50,32 @@ Direct work with Codex changed the Section 2 ending while the earlier discussion
 
 **Rule:** resume from the latest accepted decisions and exact working artifacts, not a version number alone. Record changes at their real scope. Keep reviews short, plain and specific so the human can decide quickly.
 
+## 9. Section 5: a representation was chosen before it proved its message
+
+**Observed sequence, by owner-reviewed previews:** S05 v001–v006 repeatedly adjusted fine amber guides, tails, their coverage and camera position. The effect often looked engraved on the steel; the audience could not readily perceive an annular fluid volume or the flow being redirected by pad geometry. v007 introduced a translucent spatial fluid foundation. v008–v010 then explored internally moving tracers and identifiable cuttings, with temporary camera simplification and attention to continuous transport. Subsequent refinements culminated in **v017**, accepted as a working hydraulic visual foundation. **v018** integrated the full scene; **v020** was accepted for cinematic previs after revisiting the camera direction. Neither acceptance is CFD validation, final engineering signoff or evidence that every frame is perceptually perfect.
+
+**Missed early question:** “What would make the audience see fluid *moving in the gap*, rather than light painted on metal?” A simple side-by-side proof of surface guides versus a depth-bearing volume, at playback size, might have exposed the problem before several cosmetic passes. That is a **counterfactual hypothesis**, not proven time saved.
+
+**Rule:** when the invisible phenomenon is the subject, define one visible causal event and the space it occupies before approving the visual language. Test alternative representation families cheaply if the form is uncertain. Do not make path-count, brightness or particle-density iterations substitutes for proving the idea.
+
+## 10. Section 5: changing the operating mode changes the interaction
+
+The owner added subtle tool rotation after the initial circulation-only direction. This legitimate new creative/operating choice required revisiting fluid paths, collision clearance, cuttings motion and their relationship to the rotating body. A rigidly co-rotating decorative trail would not explain the same physical behaviour as circulating fluid interacting with rotating pads.
+
+**Rule:** identify motion owners and coordinate frames together (tool, fluid, cuttings, wall, camera, information). When a new operating mode is approved, reopen the affected mechanism and representation checks, not all six stages. Preserve valid prior components.
+
+## 11. Section 5: camera authorship returned late
+
+v018 contained the complete hydraulic story but relied on similar views along the tool; the camera travelled without enough distinct showcase arrivals. The owner directed a re-review of **AI Director creative taste**, particularly purposeful camera arrivals and transition rhythm. After a camera-focused pass, v020 was accepted as the working cinematic previs.
+
+**Rule:** route documented taste into Stage 4 and design inspectable, meaningful camera-arrival frames during Stage 5. Only then spend time on path interpolation and an inexpensive motion test. Do not mistake a smooth tracking camera or a wider final shot for a strong composition.
+
+## 12. Carry successful components forward; stop iterating after a useful pass
+
+The eventual hydraulic foundation combined lessons from earlier versions rather than restarting at every revision. The owner chose to advance from v017's localized work to the full scene and accepted v020 at previs scope while leaving some explanatory and engineering issues for later context/review.
+
+**Rule:** preserve geometry, proven movement and art direction separately. After two non-improving changes to one symptom, diagnose the hypothesis instead of requesting a third similar tweak. Once the agreed bounded proof succeeds, move to integration; document only consequential nonblocking findings.
+
 ## What not to transfer
 
-No particular borehole shape, radius, palette, sensor count, shader graph, pixel style, camera orbit, fixed duration or reference studio is a universal outcome of these lessons. Future projects inherit the decision method, not ECCO's appearance or technical claims.
+No particular borehole shape, radius, fluid color, trace/volume recipe, rotation speed, camera orbit, fixed duration or reference studio is a universal outcome of these lessons. Future projects inherit the decision method, not ECCO's appearance or technical claims.

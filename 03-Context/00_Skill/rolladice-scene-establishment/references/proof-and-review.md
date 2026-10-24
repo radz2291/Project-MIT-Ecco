@@ -9,12 +9,18 @@ Before testing, state: **question, suspected cause, variable to change, things t
 | Question | Useful proof | What it does not prove |
 |---|---|---|
 | Does a required geometric condition exist? | Values, matched-axis cross-sections, neutral silhouette | Actual field occurrence or operational safety |
-| Is the event sequence understandable? | One short cause/response loop | Full-scene rhythm |
+| Is the event sequence understandable? | One short visible before/contact/after loop at playback size | Full-scene rhythm or actual physical simulation |
 | Is the image design suitable? | Source reference next to candidate at comparable scale | Correct 3D mapping |
 | Is the texture placed correctly? | Flat image, ideal surface, actual surface with shared landmarks | Scientific validity of the source image |
-| Does the camera reveal the feature? | Simple proxy path with real relevant bounds | Final materials or audio |
+| Does the camera reveal the feature? | Meaningful arrival frames, then simple proxy path with relevant bounds | Final materials or audio |
 | Is the edit continuous? | Outgoing/incoming clips joined at the planned cut | Shared scene/data identity |
 | Does the final reveal work? | Critical few seconds plus settled result | Whole-film acceptance |
+
+## Perceptual proof before polished effects (when needed)
+
+For a consequential visual-communication risk, write the viewer's **observable test sentence** before rendering: “I can see [source] approach [feature], change [direction/state] because of [interaction], then continue or resolve.” Make the subject, space and reference frame identifiable. Use the smallest real moving test when the event depends on time; a hero still cannot prove flow, rotation coupling, or a 3D-to-2D transformation.
+
+Evaluate at actual screen scale and playback speed; compare against the approved narration-led experience where appropriate. Record separately: what was visible without coaching, what the words supplied, what is only illustrative, and what needs domain verification. An author saying the mechanism is clear is **self-review**, not evidence of independent audience understanding. For simple or previously proven visuals, skip extra standalone tests and reuse the working evidence.
 
 ## A disciplined diagnosis
 
@@ -71,13 +77,15 @@ Review **technical meaning**, **implementation**, **human comprehension**, **app
 
 Owner taste is legitimate but must be named as taste. A new preference should reopen the relevant direction, not retroactively label a faithful implementation a bug. A changed acceptance criterion needs an explicit reason and affected scope.
 
-After an actual non-specialist watches the intended preview, record what they understood without coaching. Agent self-critique is useful but is not an independent comprehension test. Domain approval must come from the designated authority, not a scene script or a reviewer role label.
+After an actual non-specialist watches the intended preview at normal scale/speed, record what they understood without coaching and whether narration was present. Agent self-critique is useful but is not an independent comprehension test. Domain approval must come from the designated authority, not a scene script or a reviewer role label.
 
 ## Stop rules
 
-After two attempts aimed at the same symptom with no useful improvement, pause that approach and reconsider the hypothesis, source reference or representation. This is a trigger for diagnosis, not an automatic requirement to rebuild.
+After **two attempts aimed at the same symptom with no useful improvement**, pause that adjustment family **before commissioning a third similar revision**. State the exact repeated symptom; list competing causes (source truth, representation, motion frame, camera visibility, styling, implementation), then run the cheapest controlled comparison that distinguishes them. Preserve successful elements and change the failing decision, not an unrelated subsystem. This is a diagnostic reset, **not** an automatic requirement to rebuild, seek permission again for an already authorized bounded test, or make a new document/gate.
 
-When a focused test passes the agreed requirement, stop polishing that component and advance within permission. Nonblocking grain, placeholder text or mild preview shading should not restart scene design. Name limitations rather than silently declaring final quality.
+If an owner intentionally changes direction (for example from a stationary operating mode to rotating hardware), classify that as a new decision and recheck affected dependencies. Do not count the resulting legitimate exploration as two failed attempts under the old hypothesis.
+
+When a focused test passes its agreed **perceptual and technical scope**, stop polishing that component and advance within permission. Nonblocking grain, placeholder text or mild preview shading should not restart scene design. Name limitations rather than silently declaring final quality.
 
 Do not promise a fixed number of iterations. Aim to reduce avoidable rework by testing uncertainty early. If the user changes the intent, treat the resulting iteration as a new decision, not process failure.
 

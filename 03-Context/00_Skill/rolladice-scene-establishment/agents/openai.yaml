@@ -1,6 +1,6 @@
 interface:
   display_name: "Rolladice Scene Establishment"
   short_description: "Establish clear scene direction before production"
-  default_prompt: "Use $rolladice-scene-establishment to establish or continue this scene. Read the current project and approvals, explain choices simply, and resolve meaning, truth, representation, look, motion and the smallest useful proof before full production. Reuse the existing scene contract."
+  default_prompt: "Use $rolladice-scene-establishment to establish or continue this scene. Read the current project and approvals, explain choices simply, and resolve meaning, truth, representation, look, motion and the smallest useful proof before full production. For risky visual mechanisms, define the viewer-visible cause-and-effect test; diagnose repeated failures instead of endlessly polishing. Reuse the existing scene contract."
 policy:
   allow_implicit_invocation: true

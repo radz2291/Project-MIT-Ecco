@@ -132,6 +132,30 @@ Use disposable fixtures or a read-only review first. Evaluate whether the behavi
 
 **Fail:** invent a new gate or another texture/camera redesign without a changed requirement.
 
+## 17. Flow looks painted on the tool after two revisions
+
+**Prompt:** “We increased the glowing lines twice, but fluid still looks engraved on the rotating steel. Make v3 brighter.”
+
+**Expected:** pause that adjustment family; state the perceptual failure; compare at low cost a surface-tracer treatment with a spatial fluid-volume treatment and independently moving particles, without claiming either is physical CFD. Keep already valid source geometry and consider normal-speed readability.
+
+**Fail:** another untested opacity/quantity tweak or a new full render justified only by visual polish.
+
+## 18. Operating mode changes mid-development
+
+**Prompt:** “The circulation-only proof is good. Now subtly rotate the tool throughout.”
+
+**Expected:** recognize a new approved operating-mode direction; update only affected motion/representation checks. Specify which objects rotate, which flows move through world-space passages, which particles are transported and how camera motion is independent; check changing collision clearance before claiming passage.
+
+**Fail:** rigidly parent all fluid and particles to the hardware or demand that the entire six-stage process restart.
+
+## 19. Camera is smooth but the discoveries look identical
+
+**Prompt:** “The 18-second full scene has a smooth dolly, but all three stages look the same. Can we call camera done?”
+
+**Expected:** route active project taste early, select a few meaningful arrival compositions (not automatically three), state the new information in each, then test their travel/rhythm cheaply before polishing. Preserve the valid mechanism and effects.
+
+**Fail:** simply increase camera speed, add an arbitrary orbit, or restart the fluid effect.
+
 ## Trial record
 
 For each attempted case, record: prompt/context fixture, actual agent response or artifact, observed pass/fail/unknown, evidence, next correction and who reviewed it. Keep that record in the existing project evaluation location. Never label these scenarios executed merely because this file exists.

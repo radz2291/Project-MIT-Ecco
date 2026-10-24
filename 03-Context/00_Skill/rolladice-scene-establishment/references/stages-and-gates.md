@@ -26,9 +26,11 @@ Consult authoritative sources and original client comments. Keep a client's stat
 
 For a physical mechanism ask: what acts, on what, in what order, and what remains afterward? For data ask: what was measured, what was derived, what was simulated, and what is merely illustrative? An animated reveal of recorded information need not reproduce every acquisition event, but must not invent a new measuring capability.
 
+For interacting motion, identify **what moves, what stays fixed, in whose coordinate frame, and how the parts influence one another**. Include fluid/particles, tool, environment, camera and information layers only where relevant. A new operating mode (e.g. add rotation to previously stationary hardware) is a real scope change: revisit affected paths, collisions, observations and truthful claims before reusing a prior proof.
+
 Inspect actual assets when bounds, shape, interfaces or clearance determine feasibility. Do not infer dimensions from generated art. When a desired example is absent from source geometry, report it and propose a separate illustrative variant rather than repainting a false classification. Keep original evidence intact.
 
-**Minimum record:** source links/versions, physical and informational chains, invariants, verification level, permitted simplifications, unresolved facts and what each uncertainty blocks.
+**Minimum record:** source links/versions, physical and informational chains, motion ownership/reference frames if relevant, invariants, verification level, permitted simplifications, unresolved facts and what each uncertainty blocks.
 
 **Pass question:** Can a reviewer distinguish fact, inference, demonstration and unknown?
 
@@ -40,9 +42,11 @@ Choose whether to show a real environment, a simplified specimen, an isolated st
 
 Define what remains physical, what is selectively hidden, what is displayed information, and what is an explanatory metaphor. Decide whether camera access is physically possible, an explicitly virtual view, or an editorial transition. Name the reference that makes the scene understandable: nominal boundary, baseline value, previous state or comparison specimen.
 
+For an uncertain visual mechanism, complete the [five-question Visual Communication Check](../SKILL.md#visual-communication-check--only-when-meaning-could-fail-on-screen): recognition, spatial anchors, observable before → interaction → after, likely misreading, and cheapest proof. Test whether the chosen form communicates, not whether the effect looks attractive. If two plausible representations have different failure risks, compare them cheaply before tuning either (e.g. moving lines on a surface versus particles moving through a visible volume). Skip this extra test for a straightforward, already proven shot.
+
 Decide scene continuity now. A continuous-looking edit does not require a shared Blender scene. An independent scene may change the look and camera but must not silently substitute different evidence while claiming the same record.
 
-**Minimum record:** chosen mode and reason, visible/hidden elements, anchors, reference relationship, display lifecycle, continuity contract and rejected alternative if meaningful.
+**Minimum record:** chosen mode and reason, visible/hidden elements, anchors, visible causal change, likely misreading and smallest risk-based test if needed, reference relationship, display lifecycle and continuity contract.
 
 **Pass question:** Does the chosen form make the intended relationship easier to perceive without adding a false one?
 
@@ -50,15 +54,19 @@ Decide scene continuity now. A continuous-looking edit does not require a shared
 
 Use project taste, brand and technical display rules. Review concrete references rather than a studio name or adjectives alone. For each reference specify the borrowed quality and the excluded qualities. A camera clip can guide motion without licensing its fictional product geometry.
 
+Route existing project creative taste through the AI Director/Scene Director before defaulting to a generic technical shot. Judge at least the principal visual state at its **intended presentation size**, not only a magnified editor preview. For time-dependent effects, a static image proves appearance but not the motion: test the actual readable movement before accepting the treatment.
+
 Set the environment, subject prominence, palette, material/data treatment, light, depth, typography and effect family. Choose only enough to form a coherent frame. Do not turn minimalism into an empty background with an unreadable subject. Do not turn "digital" into random pixels or "cinematic" into mandatory darkness, orbiting and glow.
 
 Where a mapped image drives the scene, inspect the source image early. A screenshot crop may establish a visual style, not its units, sampling rate, calibration or full coverage. Generated alternatives are illustrative. Do not claim that more detail makes them more authentic.
 
-**Minimum record:** recommended look, a small annotated reference set, key visual state, explicit exclusions, data-versus-material distinction and any exact-copy requirement.
+**Minimum record:** recommended look grounded in active taste, a small annotated reference set, key visual state at intended viewing scale, explicit exclusions, data-versus-material distinction and any exact-copy requirement.
 
 **Pass question:** Is there an inspectable target rather than an adjective-only instruction?
 
 ## Stage 05 — Camera & Motion Architecture: How does the viewer discover it?
+
+For a composition-led cinematic scene, **make the meaningful arrival images inspectable** (existing frames, sketches or quick scene stills) before approving the path. Not every scene needs three new renders: inspect only the arrivals that carry distinct discoveries. If a static arrival is weak, fix its framing before drawing motion between weak frames. A generic dolly or smooth orbit is not evidence of the project's directing taste.
 
 Compose the entry, main arrivals and exit before drawing a camera spline. At each arrival specify the subject's position/scale, viewpoint, relevant boundaries, newly visible relationship, negative space and recognition time. Then explain what the travel contributes.
 
@@ -66,7 +74,7 @@ Design camera motion, subject operation, information animation and editorial cut
 
 Use precise axial alignment when it serves the scene. It is not a compulsory centered view. Plan acceleration, deceleration, gaze and meaningful stillness. A motivated cut is valid when continuous travel weakens the composition. Screen-space motion controls a motion-matched edit; identical world-axis speed does not guarantee it.
 
-**Minimum record:** camera score, key frames, major effect states, movement responsibility, rough timing, entry/exit match and proof needs. Record exact transforms only after scene inspection.
+**Minimum record:** camera score, inspectable meaningful arrivals when the scene warrants them, active travel and gaze rationale, major effect states, movement responsibility, rough timing, entry/exit match and proof needs. Record exact transforms only after scene inspection.
 
 **Pass question:** Does every main view earn its place, and can the sequence fit its time and narration?
 
@@ -78,9 +86,9 @@ List only uncertainties that can change the decision. Select the highest-risk us
 
 Read-only scene inspection may precede creative work. An authorized proxy or short Blender proof can precede production release. Keep it separate from approved assets and the live unsaved scene. Do not confuse a five-minute effort target with a promise of complete results in five minutes; report actual cost.
 
-Review the correct evidence: source values for geometry, moving playback for timing, reference-matched images for appearance, joined clips for edit continuity. Validate both technical meaning and the intended viewer experience. If a proof fails, reopen only its responsible decision and affected downstream work.
+Review the correct evidence: source values for geometry, moving playback for timing, reference-matched images for appearance, joined clips for edit continuity. If **perceptual clarity** is at risk, inspect at real playback size/speed: can the viewer locate the cause, observe the change and understand the result? Note whether the review was silent, narrated, self-reviewed or independently observed; do not equate one with another. When a visual technique fails twice without improvement, diagnose a different hypothesis before asking for another cosmetic adjustment. Validate both technical meaning and the intended viewer experience. If a proof fails, reopen only its responsible decision and affected downstream work.
 
-**Minimum record:** exact artifacts, observed result, unresolved limits, accepted decisions, source versions, next build scope, budget and acceptance tests in the existing scene contract.
+**Minimum record:** exact artifacts, what the viewer actually perceived versus intended, applicable perceptual test conditions, unresolved limits, accepted decisions, source versions, next build scope, budget and acceptance tests in the existing scene contract.
 
 **Pass question:** Can the executor build the released slice without inventing a consequential creative or factual decision?
 

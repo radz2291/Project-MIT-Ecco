@@ -5,7 +5,7 @@ description: Establish or revise a film, 3D, VFX, motion-graphics, product, or e
 
 # Rolladice Scene Establishment
 
-**Version 1.0.0 — 20 October 2026.** Authored from the owner's approved workflow and ECCO scene-development lessons. A reusable method for trial, not a claim of cross-project performance validation.
+**Version 1.1.0 — 25 October 2026.** A risk-triggered visual-communication refinement informed by the ECCO Section 5 retrospective. It retains six stages, three existing approval gates and one scene contract. Reduced iteration is a goal to test, not a proven performance claim.
 
 **Understand the story. Check what is true. Choose what to show. Design the look and movement. Test the uncertain part. Then build.**
 
@@ -43,15 +43,31 @@ Record results inside **one existing scene contract**. A sequence may have one s
 | Stage | Plain question | Minimum result | Main owner |
 |---|---|---|---|
 | 01 — Narrative Intent | What should the viewer understand or feel? | Audience, before/after understanding, ordered discoveries, meaning carried by voice/image/sound | AI Director + information storytelling |
-| 02 — Truth & Mechanism | What actually happens, and what can we honestly show? | Sources, cause/result chain, limits, evidence type and unresolved risks | Domain sources + technical investigator |
-| 03 — Visual Representation | What form will make this idea visible? | Physical scene, specimen, stage, cutaway, phenomenon, data view or justified combination | Information direction + representation framework |
-| 04 — Art Direction | What should the image look and feel like? | Focused references, visual rules, a representative target frame and clear exclusions | AI Director + contextual aesthetic judgment |
-| 05 — Camera & Motion Architecture | How do the discoveries unfold in time? | Entry, meaningful arrivals, travel, effect states, voice/sound timing and exit | Scene Director + spatial choreography |
-| 06 — Targeted Proof & Scene Lock | What is still risky, and has the smallest useful test answered it? | Reviewed evidence, remaining limits, exact released scope and execution contract | Mechanism review + execution handoff |
+| 02 — Truth & Mechanism | What actually happens, and what can we honestly show? | Sources, cause/result chain, movement owners and reference frames where relevant, limits, evidence type and unresolved risks | Domain sources + technical investigator |
+| 03 — Visual Representation | What form will make this idea visible? | Chosen visual form, an observable cause/response/change, and a risk-based visual mechanism test when needed | Information direction + representation framework |
+| 04 — Art Direction | What should the image look and feel like? | Active project taste, focused references, an inspectable target at intended viewing size and clear exclusions | AI Director + contextual aesthetic judgment |
+| 05 — Camera & Motion Architecture | How do the discoveries unfold in time? | Meaningful arrival compositions before paths, active travel, effect states, voice/sound timing and exit | Scene Director + spatial choreography |
+| 06 — Targeted Proof & Scene Lock | What is still risky, and has the smallest useful test answered it? | Playback-scale perceptual proof when relevant, reviewed evidence, remaining limits, exact released scope and execution contract | Mechanism review + execution handoff |
 
 Read [Stages and Gates](references/stages-and-gates.md) for stage questions, outputs and pass conditions. Read [Representation and Direction](references/representation-and-direction.md) for translating technical meaning into visible events.
 
 Order the thinking sensibly, not mechanically. A camera-feasibility test can happen early for an impossible-camera idea. Inspect existing CAD before committing to an impossible close-up. But do not start a full build while its meaning, truth, look or main motion remains undecided.
+
+### Visual Communication Check — only when meaning could fail on screen
+
+For an invisible phenomenon, causal interaction, difficult comparison, data transformation or other **material representation risk**, answer these five questions briefly **inside the existing scene contract**. This is not a seventh stage, another approval gate or a mandatory deliverable for ordinary scenes.
+
+1. **Recognize:** What should the viewer recognize without having to guess the physical objects or information?
+2. **Locate:** Which subject, surrounding space, reference and relevant boundary must be visible?
+3. **See change:** What observable before → interaction → after event proves the intended relationship?
+4. **Avoid misreading:** What tempting but wrong interpretation could the image create?
+5. **Test cheaply:** Which minimum still, matched comparison or short motion test exposes that risk at actual viewing size and speed?
+
+Keep the narration/image responsibility split: test physical relationships silently where useful, then test the intended full meaning with narration when this is a narration-led film. **Do not require a silent image to explain every technical term.** Check source/engineering truth separately. See [Stages and Gates](references/stages-and-gates.md) and [Proof and Review](references/proof-and-review.md).
+
+When moving subjects interact, identify their independent motion and reference frames **before choosing effects**: e.g. rotating hardware, world-space fluid, carried particles, and independently moving camera. A newly approved operating-mode change reopens only affected mechanism, representation and motion decisions, not every stage.
+
+A risky visual representation may justify an early two-treatment proof (for example surface tracers versus tracers within a volume) before an elaborate animation. For distinctive camera work, inspect a few meaningful **arrival frames before interpolating paths**, then check travel and timing in a cheap preview. Do not add these proofs when the answer is already evident from accepted, inspectable work.
 
 ## 4. Three human decisions
 
@@ -73,7 +89,7 @@ Distinguish three activities:
 
 **Production:** assemble the released scene, integrate accepted effects, render and prepare delivery under project rules.
 
-Select the cheapest test that can answer the question. A drawing can explain a mechanism but cannot prove timing. A still can approve a look but cannot approve camera motion. A pretty render cannot prove correct data. Use the reference image, mechanism sketch, cross-section, proxy playblast, matched shader test or short edit that actually tests the risk. Read [Proof and Review](references/proof-and-review.md).
+Select the cheapest test that can answer the question. A drawing can explain a mechanism but cannot prove timing. A still can approve a look but cannot approve camera motion. A pretty render cannot prove correct data. **For a risky visual mechanism, test whether the intended viewer can perceive cause and effect before paying to polish its appearance.** Use the reference image, mechanism sketch, cross-section, proxy playblast, matched shader test or short edit that actually tests the risk. Read [Proof and Review](references/proof-and-review.md).
 
 Before release, the scene contract must contain enough truth, intent, assets, target images, motion and acceptance criteria for production to proceed without inventing major creative decisions. Exact transforms and implementation values must come from inspected scene geometry, not invented precision in a concept document.
 
@@ -87,7 +103,7 @@ Issue one bounded next step:
 
 **PRESERVE → CHANGE → FREE TO CHOOSE → DO NOT IMPLY → NEXT PROOF.**
 
-Do not keep saying "more cinematic" or "more scientific" without showing what that means. If repeated local tweaks fail, revisit the hypothesis or reference instead of adding more glow, noise, geometry or full renders. Distinguish a newly requested aesthetic preference from an implementation defect. If the current result meets the agreed test, accept that scope and move forward.
+Do not keep saying "more cinematic" or "more scientific" without showing what that means. **After two non-improving attempts at the same symptom, stop that adjustment family and diagnose the failed assumption** (mechanism, representation, camera, styling or implementation) with a controlled comparison. This is a reset trigger, not an automatic remake or compulsory new gate. Distinguish a newly requested aesthetic preference from an implementation defect. If the current result meets the agreed test, accept that scope and move forward.
 
 Read [Authority and Decisions](references/authority-and-decisions.md) for conflicts, scoped approvals and change impact. The [Casebook](references/scene-casebook.md) explains the failure patterns this skill is designed to prevent.
 

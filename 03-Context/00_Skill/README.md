@@ -19,7 +19,7 @@ Start with [Rolladice Scene Establishment](rolladice-scene-establishment/SKILL.m
 
 Human-facing explanations must be understandable to an interested 12-year-old, with exact technical details preserved afterward when needed. See [communication standard](rolladice-scene-establishment/references/clarity-first-communication.md) and [project/skill routing](rolladice-scene-establishment/references/skill-routing.md).
 
-The v1.0.0 package is authored for use and includes calibration scenarios; it is not automatically installed or claimed to be production-validated across projects.
+The v1.1.0 package adds a **risk-triggered Visual Communication Check**, interacting-motion ownership, arrival-first camera review and a two-failed-attempt diagnostic reset, using Section 5 as a retrospective case. These refine the same six stages and existing gates; they are not new paperwork or proof of reduced iteration. The repository skill is not automatically installed or independently production-validated across projects.
 
 ## Reusable creative intelligence toolkit
 

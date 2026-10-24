@@ -37,6 +37,8 @@ Timing and neighboring-scene knowledge: UNKNOWN
 Physical chain: UNKNOWN  
 Information/display chain: UNKNOWN  
 Fixed units, axes, dimensions and motion: UNKNOWN_OR_NOT_APPLICABLE  
+**If interacting movement matters:** what moves / stays fixed / coordinate frame / dependencies: UNKNOWN_OR_NOT_APPLICABLE  
+Operating-mode change affecting prior proofs: NONE_OR_UNKNOWN  
 Permitted illustrative simplifications: UNKNOWN  
 Blocking questions and decision owners: UNKNOWN
 
@@ -48,12 +50,20 @@ Reference/baseline and visible anchors: UNKNOWN
 Hidden/cutaway elements and caveats: UNKNOWN  
 Same event/data or a separate example: UNKNOWN
 
+**Visual Communication Check — fill only if a consequential perception risk exists:**
+
+- Viewer must recognize: UNKNOWN_OR_NOT_NEEDED
+- Visible source, space, boundary and reference: UNKNOWN_OR_NOT_NEEDED
+- Observable before → interaction → after: UNKNOWN_OR_NOT_NEEDED
+- Likely wrong reading to prevent: UNKNOWN_OR_NOT_NEEDED
+- Cheapest appropriate still/motion/comparison proof: UNKNOWN_OR_NOT_NEEDED
+
 ### 04 — Art Direction
 
 Reference path/version: UNKNOWN  
 Use from reference / do not copy: UNKNOWN  
 Environment, hierarchy, material/data look, light and typography: UNKNOWN  
-Representative target image: UNKNOWN  
+Representative target image / intended viewing size / project taste used: UNKNOWN  
 Rejected direction and reason, if relevant: UNKNOWN
 
 ### 05 — Camera & Motion Architecture
@@ -64,6 +74,8 @@ Rejected direction and reason, if relevant: UNKNOWN
 | Main arrival | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN |
 | Exit | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN |
 
+Key arrival stills or sourced frames (when needed) and their meaning: UNKNOWN_OR_NOT_NEEDED  
+What changes perceptually during travel: UNKNOWN  
 Actual transforms, units, FPS, lens and rig: TBD_AFTER_SCENE_INSPECTION  
 Transition: shared camera / editorial motion match / explicit cut  
 Screen direction, speed, focal anchor and allowed changes: UNKNOWN
@@ -75,7 +87,9 @@ Preserve / change / executor freedom: UNKNOWN
 Smallest proof and budget: UNKNOWN  
 Artifact inspected and method: NOT_RUN  
 Result / remaining limits: UNKNOWN  
-Audience test conditions and actual reviewer: NOT_TESTED  
+Audience test conditions (scale, speed, audio) and actual reviewer: NOT_TESTED  
+Viewer-observed result versus intended / known possible misreading: UNKNOWN  
+Repeated symptom? two non-improving attempts require diagnosis before another same-type tweak: NONE_OR_UNKNOWN  
 Expert/source verification and actual authority: UNKNOWN
 
 ## Decisions and release
