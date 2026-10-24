@@ -1,0 +1,29 @@
+[
+  {
+    "frame": 49,
+    "name": "01_Sculptural",
+    "seconds": 1.5912972000078298,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  {
+    "frame": 132,
+    "name": "02_Transformation",
+    "seconds": 0.34485660000063945,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  {
+    "frame": 276,
+    "name": "03_Information",
+    "seconds": 0.32630539999809116,
+    "resolution": [
+      1280,
+      720
+    ]
+  }
+]

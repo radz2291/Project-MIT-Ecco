@@ -1,0 +1,32 @@
+[
+  {
+    "arrival": 1,
+    "seconds": 1.8234885999991093,
+    "engine": "BLENDER_EEVEE",
+    "samples": 8,
+    "resolution": [
+      960,
+      540
+    ]
+  },
+  {
+    "arrival": 2,
+    "seconds": 0.5112661000021035,
+    "engine": "BLENDER_EEVEE",
+    "samples": 8,
+    "resolution": [
+      960,
+      540
+    ]
+  },
+  {
+    "arrival": 3,
+    "seconds": 0.39393330000166316,
+    "engine": "BLENDER_EEVEE",
+    "samples": 8,
+    "resolution": [
+      960,
+      540
+    ]
+  }
+]

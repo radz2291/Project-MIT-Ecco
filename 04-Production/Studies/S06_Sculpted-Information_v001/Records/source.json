@@ -1,0 +1,26 @@
+{
+  "kind": "Reused synthetic illustrative geometry; not ENP3 field measurements",
+  "source": "05-Previs/Section-03_The-Earth-Revealed/v023/Data/S03_computed-radius_v023.npz",
+  "source_sha256": "24a8e03735ae577765d6189f8f805ca4d2bf34cab2120e63be82a4fb463cc665",
+  "source_shape": [
+    1027,
+    384
+  ],
+  "subset_shape": [
+    125,
+    192
+  ],
+  "subsampling": "Exact source rows and every second azimuth sample; source values unchanged. Render interpolation is display interpolation, not new measured samples.",
+  "source_z_range_m": [
+    -0.8476837277412415,
+    0.8958302736282349
+  ],
+  "depth_orientation": "Increasing down; relative depth = selected top source Z minus source Z; no field depth labels",
+  "source_seam_degrees": 240,
+  "map_azimuth": "0-360 relative to selected source seam; not geographic north",
+  "nominal_radius_m": 0.156,
+  "illustrative_nominal_band_m": 0.001,
+  "missing": "Selected continuous S03 authored surface has no missing-data mask; all samples illustrative, not measured",
+  "amplitude": "Inspected B202 v009 independent amplitude records. Not shown in this geometry-only proof, to avoid asserting shared-interval identity with S03 geometry.",
+  "source_preserved": true
+}

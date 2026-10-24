@@ -1,0 +1,11 @@
+{
+  "source_samples": 24000,
+  "mesh_vertices": 24125,
+  "nominal_radius_m": 0.156,
+  "height_m": 1.743514060974121,
+  "shape_keys": 33,
+  "display_coordinate_rule": "constant reference arc length; radial deviation retained as source data and color, relief eases to zero",
+  "source_values_changed": false,
+  "historical_S06_contracts_used": false,
+  "amplitude_shown": false
+}

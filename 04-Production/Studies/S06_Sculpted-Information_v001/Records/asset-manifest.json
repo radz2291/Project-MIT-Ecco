@@ -1,0 +1,37 @@
+{
+  "status": "Targeted proof awaiting owner review",
+  "date": "2026-10-25",
+  "same_machine_backup_only": true,
+  "artifacts": [
+    {
+      "path": "Scenes/S06_proof_v001.blend",
+      "sha256": "6ae2f96188492e65e036f206a8f61562c8fac6291e5386557fc570de014cf5da",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Sculpted-Information_v001\\Scenes\\S06_proof_v001.blend",
+      "bytes": 7944595
+    },
+    {
+      "path": "Scenes/S06_journey_v001.blend",
+      "sha256": "4975f7bef9608cfdf14ed1c8ea3946c71ab15297fbda9773e7ecd1bdc2eae688",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Sculpted-Information_v001\\Scenes\\S06_journey_v001.blend",
+      "bytes": 8044687
+    },
+    {
+      "path": "Data/surface_samples.npz",
+      "sha256": "f86eaa39778b3c73f646e793c03159536c68126e30289a73bf124558faff0017",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Sculpted-Information_v001\\Data\\surface_samples.npz",
+      "bytes": 78092
+    },
+    {
+      "path": "Previews/S06_unfolding-proof_v001.mp4",
+      "sha256": "88f3ac7952b6e46ee0719df0c270dee8beae81bb339f00e6443000a5a2f5728d",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Sculpted-Information_v001\\Previews\\S06_unfolding-proof_v001.mp4",
+      "bytes": 233287
+    },
+    {
+      "path": "Previews/S06_camera-report-study_v001.mp4",
+      "sha256": "5621719ff0c85b818eacfbab1e6448ebc2bee9feafa69b8c8b82bcfae8a987ce",
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Sculpted-Information_v001\\Previews\\S06_camera-report-study_v001.mp4",
+      "bytes": 574537
+    }
+  ]
+}

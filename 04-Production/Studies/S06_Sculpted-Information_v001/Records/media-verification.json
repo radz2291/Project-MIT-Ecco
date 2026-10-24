@@ -1,0 +1,34 @@
+{
+  "proof": {
+    "frames": 120,
+    "fps": 24,
+    "duration_seconds": 5.0,
+    "resolution": [
+      960,
+      540
+    ],
+    "average_frame_seconds": 0.2949594958327604,
+    "maximum_frame_seconds": 0.6991968999936944,
+    "render_total_seconds": 35.39513949993125,
+    "all_frames_under_5_seconds": true,
+    "all_encoded_frames_decoded": true,
+    "video": "Previews/S06_unfolding-proof_v001.mp4",
+    "sha256": "88f3ac7952b6e46ee0719df0c270dee8beae81bb339f00e6443000a5a2f5728d"
+  },
+  "journey": {
+    "frames": 288,
+    "fps": 24,
+    "duration_seconds": 12.0,
+    "resolution": [
+      960,
+      540
+    ],
+    "average_frame_seconds": 0.30721182187532275,
+    "maximum_frame_seconds": 0.532359600008931,
+    "render_total_seconds": 88.47700470009295,
+    "all_frames_under_5_seconds": true,
+    "all_encoded_frames_decoded": true,
+    "video": "Previews/S06_camera-report-study_v001.mp4",
+    "sha256": "5621719ff0c85b818eacfbab1e6448ebc2bee9feafa69b8c8b82bcfae8a987ce"
+  }
+}

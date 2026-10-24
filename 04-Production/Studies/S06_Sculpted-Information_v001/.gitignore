@@ -1,0 +1,7 @@
+/Cache/
+/Scenes/*.blend*
+/Records/*.log
+/Previews/*benchmark*.png
+/Previews/Arrival_*.png
+/Previews/*.mp4
+/Records/sync-verification.json
