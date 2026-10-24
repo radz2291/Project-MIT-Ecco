@@ -1,18 +1,18 @@
-# S06 â€” Sculpted Information Â· Focused proof v001
+# S06 — Sculpted Information · Focused proof v001
 
-**Authority:** Radzi's fresh Section 6 production handoff, 25 October 2026. Stages 1â€“6 creative direction approved; targeted proof authorized. Full cinematic production is not released. This is the single working scene record for the proof.
+**Authority:** Radzi's fresh Section 6 production handoff, 25 October 2026. Stages 1–6 creative direction approved; targeted proof authorized. Full cinematic production is not released. This is the single working scene record for the proof.
 
 **Question:** Can the viewer follow the same blue enlargement from a reconstructed borehole into its flat angle/depth map?
 
 ## Meaning, truth and representation
 
-The audience has already seen recording and reconstruction. This section presents the recorded information after the run: sculptural reconstruction â†’ coordinate unfolding â†’ a calm engineering report. The working narration explains that the measurements were stored and later processed. This silent proof tests the relationship between the two views, not all narration terminology.
+The audience has already seen recording and reconstruction. This section presents the recorded information after the run: sculptural reconstruction → coordinate unfolding → a calm engineering report. The working narration explains that the measurements were stored and later processed. This silent proof tests the relationship between the two views, not all narration terminology.
 
 The geometry comes from the existing Section 3 v023 computed radius array, itself an authored illustrative surface derived from the Section 3 v009 wall. It is not field data or independently calibrated measurement. The selected interval retains exact source values, including an enlarged blue region and a smaller red tight region. Exact source rows/columns, values and provenance are in `Data/surface_samples.npz` and `Records/source.json`.
 
-The only moving subject is the data representation. Its source values remain fixed. The animation opens a graphical seam and straightens reference azimuth coordinates; radial relief becomes a flat color display. No physical rock is removed or stretched. Depth increases downward throughout. The map spans 0â€“360Â° relative to the chosen seam, which is the source's 240Â° meridian; no geographic heading or absolute field-depth claim is made. Both seam endpoints duplicate the same source samples. Between samples, mesh faces interpolate for display; this does not create new measured samples. The selected continuous illustrative source has no missing-data mask.
+The only moving subject is the data representation. Its source values remain fixed. The animation opens a graphical seam and straightens reference azimuth coordinates; radial relief becomes a flat color display. No physical rock is removed or stretched. Depth increases downward throughout. The map spans 0–360° relative to the chosen seam, which is the source's 240° meridian; no geographic heading or absolute field-depth claim is made. Both seam endpoints duplicate the same source samples. Between samples, mesh faces interpolate for display; this does not create new measured samples. The selected continuous illustrative source has no missing-data mask.
 
-Colors follow the existing geometry meaning: white near nominal, blue enlarged, red tight. The source's 0.156 m nominal radius and Â±0.001 m illustrative band remain internal display references, not on-screen calibrated readings. Colors stay attached to sample IDs. Surface lighting gently resolves to an unlit map for legibility.
+Colors follow the existing geometry meaning: white near nominal, blue enlarged, red tight. The source's 0.156 m nominal radius and ±0.001 m illustrative band remain internal display references, not on-screen calibrated readings. Colors stay attached to sample IDs. Surface lighting gently resolves to an unlit map for legibility.
 
 Section 3/B202 v009 independent geometry/amplitude records were inspected. B202's amplitude data belongs to a different synthetic example, so it is **not** presented as amplitude from this Section 3 interval. This first report is geometry-only, with a cross-section taken from the same source row as the blue enlargement. Amplitude remains a separate property for any later authorized integration. No LipanBara report imagery or confidential field evidence is used.
 
@@ -30,23 +30,23 @@ The approved concept is Sculpted Information. The opening uses a three-quarter v
 
 | Study | Timing | Intended screen event |
 |---|---|---|
-| Unfolding proof | 0â€“0.5 s | Hold the recognizable reconstructed cylinder |
-| Unfolding proof | 0.5â€“4 s | Open the seam and flatten the same samples |
-| Unfolding proof | 4â€“5 s | Hold the completed map |
-| Camera study | 0â€“3 s | Sculptural arrival; slight approach, no reconstruction replay |
-| Camera study | 3â€“8 s | Open the surface; lower and straighten the camera as the map appears |
-| Camera study | 8â€“9 s | Read the flat representation |
-| Camera study | 9â€“12 s | Pull back gently; reveal the illustrative report and same-source cross-section; settle |
+| Unfolding proof | 0–0.5 s | Hold the recognizable reconstructed cylinder |
+| Unfolding proof | 0.5–4 s | Open the seam and flatten the same samples |
+| Unfolding proof | 4–5 s | Hold the completed map |
+| Camera study | 0–3 s | Sculptural arrival; slight approach, no reconstruction replay |
+| Camera study | 3–8 s | Open the surface; lower and straighten the camera as the map appears |
+| Camera study | 8–9 s | Read the flat representation |
+| Camera study | 9–12 s | Pull back gently; reveal the illustrative report and same-source cross-section; settle |
 
 The three composed arrivals were rendered and inspected before the camera path was baked. Initial inspection found excessive vertical crop and small report labels; framing was loosened, the opening tilted and key report labels enlarged. No source geometry values were changed. The camera's reduced motion follows increasing information clarity.
 
 ## Sources and workflow
 
-- Active creative authority: `Records/owner-handoff.txt`. Historical S06-A/B/C contracts and prior S06 implementations were not consulted or inherited.
+- Active creative authority: local-only `Records/owner-handoff.txt`. Historical S06-A/B/C contracts and prior S06 implementations were not consulted or inherited.
 - Engineering baseline: `03-Context/01_Foundation/02-ENGINEERING_BASELINE.md` and original `01-Brief/ECCO_ENP3_Datasheet-1.pdf` (Memory While Drilling; azimuthal sampling). The client chat also distinguishes stored heavy data from low-rate telemetry.
-- Skill: current remote Scene Establishment **v1.1.0**, fetched 25 October. The C checkout held v1.0.0; the updated skill and changed references were read from Git's fetched main without overwriting unrelated local work.
+- Skill: current remote Scene Establishment **v1.1.0**, fetched 25 October. Read at remote commit `c943b05fd1e6e06291ab750da263101f05a35d44`. The C checkout held v1.0.0; the updated skill and changed references were read from Git's fetched main without overwriting unrelated local work.
 - AI Director, Scene Director, Camera Choreography and relevant directorial identity modules informed the proof. This handoff already approves the creative direction, so no new creative-approval cycle was inserted.
-- Live Work revision 747 inspected: the active MIT ECCO project has T42â€“T48, with no new Section 6 proof ticket. This direct owner-authorized handoff is recorded here; no historical ticket was resumed and no duplicate system/ticket was created.
+- Live Work revision 747 inspected: the active MIT ECCO project has T42–T48, with no new Section 6 proof ticket. This direct owner-authorized handoff is recorded here; no historical ticket was resumed and no duplicate system/ticket was created.
 - Blender Lab MCP read-only query verified a clean startup scene before work. Initial construction used the official bridge. Isolated Blender 5.2 background processes produce clean saved candidates and inexpensive renders.
 
 ## Review and limits
