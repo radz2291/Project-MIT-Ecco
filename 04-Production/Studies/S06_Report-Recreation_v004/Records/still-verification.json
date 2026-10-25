@@ -1,0 +1,29 @@
+{
+  "render_seconds": 2.9789539000048535,
+  "under_five_seconds": true,
+  "resolution": [
+    1600,
+    900
+  ],
+  "samples": 24,
+  "source_image_nodes": 0,
+  "images": [
+    "Render Result"
+  ],
+  "text": [
+    "Borehole interpretation",
+    "From reconstructed form to engineering insight",
+    "REPORT-INSPIRED RECONSTRUCTION",
+    "Illustrative visual study",
+    "Reconstructed form",
+    "REPORT SHAPE  /  RECREATED IN 3D",
+    "Profile",
+    "Sections",
+    "360\u00b0 geometry",
+    "Amplitude",
+    "Recreated from report graphics. Visual structure only; no measurement values.",
+    "ILLUSTRATIVE"
+  ],
+  "objects": 104,
+  "animation_created": false
+}

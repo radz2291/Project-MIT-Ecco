@@ -1,0 +1,16 @@
+{
+  "kind": "Report-inspired graphic reconstruction; illustrative, uncalibrated",
+  "method": "Silhouette and line tracing; separate color-trend sampling; new mesh colors and editable curves. No source textures displayed.",
+  "geometry": "Axisymmetric display reconstruction from visible silhouette only; unseen azimuthal shape is not recovered.",
+  "contrast": "Geometry and amplitude independently normalized for legibility; no measurement units or calibration recovered.",
+  "profile": "Source graphic shape traced; no physical values assigned.",
+  "sections": "Two near-circular source outlines traced in image space.",
+  "source_hashes": {
+    "amplitude.png": "7b201d2bccf9ab11d43f2f35d5854843d161ac71a679a8f60193adff620531bf",
+    "geometry.png": "484f77d696312a78fdcd337f7130b70fb1610b1467f877125b04b4b7a20bcc61",
+    "profile.png": "9a52f3341372fd8cc4bdc97aca9864451f2a3a237939b4143a655930c18e1829",
+    "sections.png": "8f43bf03f2aa346c9db826baf30ea54910db90c8124c0632239378040040a5fa",
+    "shape.png": "4f5196aeafad248b66efc893af16f25606ad73b2b064aac4cf7b4cded0be79e1"
+  },
+  "same_dataset_as_unfolding": false
+}

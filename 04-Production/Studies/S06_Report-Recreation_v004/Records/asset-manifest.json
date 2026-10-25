@@ -1,0 +1,57 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 74,
+    "sha256": "7c7a66400029c1cb79dfa12e21fdf640b80162084e2c7c0b95ef150ca2abac5e"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3704,
+    "sha256": "4cae6456643634d3e426f8147f89533cc8c3ce2f564c7130efea70543d57dd9d"
+  },
+  {
+    "path": "Data\\visual_structure.npz",
+    "bytes": 10060,
+    "sha256": "658078f4bfe1bcc212382e93f0ce60426ef2edc8144667b2e9549a87f61536ff"
+  },
+  {
+    "path": "Previews\\S06_report-recreation_v004.png",
+    "bytes": 1562432,
+    "sha256": "8cfc502e3045073684dc268c2ae6f18fde4fd9de070018c4647f0b95cc0b91ca"
+  },
+  {
+    "path": "Records\\saved-verification.json",
+    "bytes": 702,
+    "sha256": "635e4312b905386f8f4b4b9b274be40fc9f04fd2aad1cf97dfaa08da8ef408d3"
+  },
+  {
+    "path": "Records\\still-verification.json",
+    "bytes": 689,
+    "sha256": "d4d2f883fd584eb758d1219f622ca79c3b0a27428b527dd906ec662cd670a75a"
+  },
+  {
+    "path": "Records\\visual-provenance.json",
+    "bytes": 1139,
+    "sha256": "06ca8e0c16d19ff358fe314bbfd8a9ba5bade06ef1a13a58eeaaa9518b402d8f"
+  },
+  {
+    "path": "Scenes\\S06_report-recreation_v004.blend",
+    "bytes": 3572920,
+    "sha256": "fd568117e489c31540ad84b5853600899ad77188d844553ce3b31f2d8d5d46df"
+  },
+  {
+    "path": "Scripts\\build_still.py",
+    "bytes": 9864,
+    "sha256": "b9a12508976109f2c9d517d5d8a61e41b928b016106a8ce0bf51ede202448b0c"
+  },
+  {
+    "path": "Scripts\\derive_visuals.py",
+    "bytes": 3323,
+    "sha256": "3ca79b238c954119d85c22f9047c494bcb60f7fa7c84aa08cdfab6283b158651"
+  },
+  {
+    "path": "Scripts\\verify_saved.py",
+    "bytes": 1396,
+    "sha256": "166f7cb98414905e452616a24234ed0b3b233f948348602a3b500ccb386372c8"
+  }
+]
