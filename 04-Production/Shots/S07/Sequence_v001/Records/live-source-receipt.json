@@ -1,0 +1,26 @@
+{
+  "board_id": "8466dd02-7299-4e68-85fc-f95d0d61931e",
+  "board_revision": 14,
+  "board_title": "ECCO - Cinematic Film Storyboard",
+  "read_cards": [
+    {
+      "id": "5928c98d-6be9-4562-90d0-fc40e158d95d",
+      "title": "S07 — Sequence guide & continuity"
+    },
+    {
+      "id": "ee153ebf-d6e7-47a9-b2e0-a6f330e9403d",
+      "title": "S07-A — From Insight to Product | 1:22–1:24"
+    },
+    {
+      "id": "fc94ea11-b1cb-435e-8f27-70b7041ce2ec",
+      "title": "S07-B — Product Hero and Capability Recall | 1:24–1:28"
+    },
+    {
+      "id": "ed796d38-d632-4330-97d4-4308c5d84e2a",
+      "title": "S07-C — MIT Technologies Brand Closing | 1:28–1:30"
+    }
+  ],
+  "work_revision": 747,
+  "matching_s07_tasks": [],
+  "authority": "Direct owner full cinematic production handoff; historical storyboard execution gates superseded"
+}

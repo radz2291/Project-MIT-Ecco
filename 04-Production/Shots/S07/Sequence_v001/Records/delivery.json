@@ -1,0 +1,30 @@
+{
+  "duration_seconds": 8,
+  "frames": 192,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "render_total_seconds": 238.0606473000953,
+  "render_average_seconds": 1.2398992046879964,
+  "render_max_seconds": 2.9377337000041734,
+  "samples": 32,
+  "all_complete_frames_under_five_seconds": true,
+  "encode_seconds": 3.2160885999910533,
+  "transition_preview_seconds": 10,
+  "transition_source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Studies\\S06_Report-Recreation_v004\\Previews\\S06_cinematic-study_v004_polished.mp4",
+  "media": {
+    "S07_Monumental-Precision_v001.mp4": {
+      "decoded_frames": 192,
+      "errors": 0,
+      "sha256": "5a72c79973791227ef46fc26ef8433d28737d890bae67b3a12118d77ff7610f7"
+    },
+    "S06-to-S07_transition_v001.mp4": {
+      "decoded_frames": 240,
+      "errors": 0,
+      "sha256": "b9567e6c9fa2f2357bc4debe27851138966b35f4ef61622bd24627f3ae162f9b"
+    }
+  },
+  "review_status": "Full S07 candidate awaiting owner review; no full-film assembly or final finishing"
+}

@@ -1,0 +1,182 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 91,
+      "sha256": "11372996ff54c6c449585d91b2c36144013ada3ad868536006c40436b00168bc"
+    },
+    {
+      "path": "Graphics/S06_approved-ending.png",
+      "bytes": 1040261,
+      "sha256": "1f69158362c02d2bf7e44b8148731c2b042d0d23683d07a6b662f9e71fce13ed"
+    },
+    {
+      "path": "Previews/Checks/0001.png",
+      "bytes": 1185075,
+      "sha256": "390cbdb3db983da42a4c821717ea168bcee0b4e71ee9d203a75d37148c4a9494"
+    },
+    {
+      "path": "Previews/Checks/0020.png",
+      "bytes": 1069533,
+      "sha256": "a132b1496be852409627c5e414fd1957d1304431f5e96ccbccd1aca2cde13674"
+    },
+    {
+      "path": "Previews/Checks/0048.png",
+      "bytes": 1203510,
+      "sha256": "35863ee88b69f60a76203b4de3ec7d94f116fbeb871b7932a92332db4d05e935"
+    },
+    {
+      "path": "Previews/Checks/0080.png",
+      "bytes": 1123454,
+      "sha256": "b9a08b869171edc0c7b855897fbe2f3964f0d48f06c2afd54278bb4d079ddf05"
+    },
+    {
+      "path": "Previews/Checks/0112.png",
+      "bytes": 986019,
+      "sha256": "c0238ad8d8d83f754065e303695be67c056a4fa1f956e61bb534ae76f2a5bae8"
+    },
+    {
+      "path": "Previews/Checks/0144.png",
+      "bytes": 907278,
+      "sha256": "373dbb7a8baeb7974acc5bf980ff3473597f7e8f6420a33e531b73a6224111d3"
+    },
+    {
+      "path": "Previews/Checks/0192.png",
+      "bytes": 911232,
+      "sha256": "c4aae787678490282cb3e6a00d6dfaf8461ae4882f56ec98e4a57c1b4dd4a88a"
+    },
+    {
+      "path": "Previews/S06-to-S07_transition_v001.mp4",
+      "bytes": 1868272,
+      "sha256": "b9567e6c9fa2f2357bc4debe27851138966b35f4ef61622bd24627f3ae162f9b"
+    },
+    {
+      "path": "Previews/S07_final-product-hero_v001.png",
+      "bytes": 911232,
+      "sha256": "a5c5f9a97c80747de8f0ee4bd9f462f5843d886f1f1213ee0b241b3c04bf9287"
+    },
+    {
+      "path": "Previews/S07_Monumental-Precision_v001.mp4",
+      "bytes": 1350141,
+      "sha256": "5a72c79973791227ef46fc26ef8433d28737d890bae67b3a12118d77ff7610f7"
+    },
+    {
+      "path": "Previews/S07_motion-review.jpg",
+      "bytes": 222516,
+      "sha256": "4dae422cbaffe279fbccb6db131ff03983e8be568aafd0f6e3c6f0f73e6ec762"
+    },
+    {
+      "path": "Previews/S07_sequence-review.jpg",
+      "bytes": 187464,
+      "sha256": "8198afed83befabafdf3cb526fe4a2a52b9014f3341afe8509a26f20afd76996"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2194,
+      "sha256": "1ab377dded88d61ce8c3764fc515f6893835cb898c1a432e7816ea6da8d283b2"
+    },
+    {
+      "path": "Records/benchmark.json",
+      "bytes": 451,
+      "sha256": "fd1505a13f8f2b349da1cb8e47989653f9c3a70002bc012912d5cde56da6aac2"
+    },
+    {
+      "path": "Records/build.json",
+      "bytes": 624,
+      "sha256": "df8a3f35db6e854052f59816f51ceed9810ecaef44137d9cd4d91b6955c7c429"
+    },
+    {
+      "path": "Records/camera-score.json",
+      "bytes": 54620,
+      "sha256": "e23162bef48aaf4f02237aa475f3f63c0859fb47d215a342ba3e8f6f339846ee"
+    },
+    {
+      "path": "Records/delivery.json",
+      "bytes": 1060,
+      "sha256": "f60c283036cd1102fcd52fc3e9917df59fb680f7a440005dbcabbad1626dbbf5"
+    },
+    {
+      "path": "Records/live-source-receipt.json",
+      "bytes": 849,
+      "sha256": "71447d7ad8152c81a69fa5ba7f174a237e8f6ee34492ea9c8cdcb4510aaea39f"
+    },
+    {
+      "path": "Records/owner-handoff.md",
+      "bytes": 10596,
+      "sha256": "168e39603730f87dca8df4cb4dd1186a22c6dc64dd9d20af42a28cc48c12dacb"
+    },
+    {
+      "path": "Records/production-report.md",
+      "bytes": 4761,
+      "sha256": "9f3d305f94e924c49f1c6f168d71bd8fccea4c4ff3e9dea09013c257994cdb19"
+    },
+    {
+      "path": "Records/render-timings.json",
+      "bytes": 12329,
+      "sha256": "b3f74c77abd34e126240538b23c6952f914d25cc41ec640c7ebc59ad4062efa1"
+    },
+    {
+      "path": "Records/S06-to-S07_transition_v001-frames.md5",
+      "bytes": 19665,
+      "sha256": "9cf293e2482b8d0e61b5fe954affbb6236f5b29c74f3dbb2e4e0f7bf8cee3c99"
+    },
+    {
+      "path": "Records/S07_Monumental-Precision_v001-frames.md5",
+      "bytes": 15777,
+      "sha256": "ef8784b77e7c47b00a628d836644c552d0d8ef7d6b61f92c2beffea1fff129c0"
+    },
+    {
+      "path": "Records/source-inspection.json",
+      "bytes": 12105,
+      "sha256": "3a79b34c4efb940cc0033d40aac39e60762384dec81e41d294df1ec07732a217"
+    },
+    {
+      "path": "Records/verification.json",
+      "bytes": 3783,
+      "sha256": "97e947325f74c0a84665d338a8d475ec33162bb4a7ce7963cd99a93e2adf23f8"
+    },
+    {
+      "path": "scene-direction-contract.md",
+      "bytes": 4921,
+      "sha256": "203de61083520bc3564ad0c662b38ba53bbb83d4cfbd2b04106ade227af31162"
+    },
+    {
+      "path": "Scenes/S07_Monumental-Precision_v001.blend",
+      "bytes": 19878362,
+      "sha256": "918fe67eada90627d076b6886a81a290c947f278bff13197f6e55a6a5184112b"
+    },
+    {
+      "path": "Scripts/build.py",
+      "bytes": 9818,
+      "sha256": "28b685656f36cfbe804edde73d254850f865502fceb741c5d48aba7f27f006cb"
+    },
+    {
+      "path": "Scripts/finalize.py",
+      "bytes": 7218,
+      "sha256": "662c812051c711296ff4d088674a50f677d0d0a678caee7c0295769816d777f6"
+    },
+    {
+      "path": "Scripts/inspect_source.py",
+      "bytes": 1056,
+      "sha256": "5b0ec69d1985f12340ff62ce88673b06c2e5cd3dcb445fd76d39349c1e0a77de"
+    },
+    {
+      "path": "Scripts/package.py",
+      "bytes": 3236,
+      "sha256": "7f0591bd3aa3f6ecd403e3f6a360478af5ed68b0efb378274098fe136b080185"
+    },
+    {
+      "path": "Scripts/render.py",
+      "bytes": 885,
+      "sha256": "62d6615166a7089a7de14549e6d004268fa04415cb903c82c8a38d683176d056"
+    },
+    {
+      "path": "Scripts/verify.py",
+      "bytes": 3868,
+      "sha256": "03d68998b09f4d7e6376dca991e9a64c46d3089834df0bea1d80804c0be0dab4"
+    }
+  ],
+  "input_source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+  "input_recovery": "D:\\MIT-ECCO-Render-Recovery\\S07-Monumental-Precision_v001\\Inputs\\ECCO_film_v002.blend",
+  "input_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+}
