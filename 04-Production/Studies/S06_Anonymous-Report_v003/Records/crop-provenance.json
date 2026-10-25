@@ -1,0 +1,81 @@
+{
+  "source_sha256": "757d16ad87a403820859b17573e965fa12ca0accad49d8ff02925bd41465e7c9",
+  "source_page_index": 2,
+  "text_show_operations_removed": 456,
+  "stripped_pdf_text_empty": true,
+  "panels": [
+    {
+      "panel": "shape",
+      "crop_page_coordinates": [
+        318,
+        272,
+        415,
+        500
+      ],
+      "size": [
+        388,
+        912
+      ],
+      "sha256": "4f5196aeafad248b66efc893af16f25606ad73b2b064aac4cf7b4cded0be79e1"
+    },
+    {
+      "panel": "geometry",
+      "crop_page_coordinates": [
+        426,
+        272,
+        515,
+        500
+      ],
+      "size": [
+        356,
+        912
+      ],
+      "sha256": "484f77d696312a78fdcd337f7130b70fb1610b1467f877125b04b4b7a20bcc61"
+    },
+    {
+      "panel": "amplitude",
+      "crop_page_coordinates": [
+        722,
+        272,
+        811,
+        500
+      ],
+      "size": [
+        356,
+        912
+      ],
+      "sha256": "7b201d2bccf9ab11d43f2f35d5854843d161ac71a679a8f60193adff620531bf"
+    },
+    {
+      "panel": "sections",
+      "crop_page_coordinates": [
+        195,
+        205,
+        309,
+        450
+      ],
+      "size": [
+        456,
+        980
+      ],
+      "sha256": "8f43bf03f2aa346c9db826baf30ea54910db90c8124c0632239378040040a5fa"
+    },
+    {
+      "panel": "profile",
+      "crop_page_coordinates": [
+        83,
+        272,
+        150,
+        500
+      ],
+      "size": [
+        268,
+        912
+      ],
+      "sha256": "9a52f3341372fd8cc4bdc97aca9864451f2a3a237939b4143a655930c18e1829"
+    }
+  ],
+  "authorization": "Direct owner Option C ending revision; anonymous graphic excerpts only; local review",
+  "same_dataset_as_illustrative_unfolding": false,
+  "source_text_and_source_metadata_in_delivered_images": false
+}

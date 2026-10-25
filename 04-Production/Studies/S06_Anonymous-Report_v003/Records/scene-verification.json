@@ -1,0 +1,16 @@
+{
+  "base_shape_keys_exact": true,
+  "camera_frames_1_to_216_exact": true,
+  "source_images_packed": 5,
+  "full_source_page_present": false,
+  "final_visible_text": [
+    "Engineering output",
+    "Separate report example",
+    "ANONYMOUS GRAPHIC EXCERPTS",
+    "Graphic excerpts from an existing report; not the preceding illustrative dataset."
+  ],
+  "all_source_images_generic_names": true,
+  "early_cache_reused_frames": 216,
+  "ending_rerendered_frames": 72,
+  "missing_libraries": []
+}

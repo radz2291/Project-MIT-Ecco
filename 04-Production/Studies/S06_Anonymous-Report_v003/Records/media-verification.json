@@ -1,0 +1,31 @@
+{
+  "decoded_frames": 288,
+  "duration_seconds": 12,
+  "first_216_source_frames_identical": true,
+  "native_early_frame_comparisons": [
+    {
+      "frame": 1,
+      "pixel_equal": true,
+      "max_channel_difference": 0,
+      "mean_channel_difference": 0.0
+    },
+    {
+      "frame": 142,
+      "pixel_equal": true,
+      "max_channel_difference": 0,
+      "mean_channel_difference": 0.0
+    },
+    {
+      "frame": 216,
+      "pixel_equal": true,
+      "max_channel_difference": 0,
+      "mean_channel_difference": 0.0
+    }
+  ],
+  "revised_frame_count": 72,
+  "render_seconds_total": 24.552729200033355,
+  "mean_seconds_per_frame": 0.341010127778241,
+  "max_seconds_per_frame": 0.5158560999989277,
+  "video_sha256": "127ff07281d3892149f6c270ee6e7c36c7f22a58e5d3bdf0f54dd22ac518b02e",
+  "decode_errors": ""
+}

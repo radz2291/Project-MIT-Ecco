@@ -1,0 +1,7 @@
+/Media/
+/Cache/
+/Scenes/
+/Previews/
+/Records/*.log
+/Records/sync-verification.json
+/Records/source-private.json

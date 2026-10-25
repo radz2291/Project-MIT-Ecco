@@ -1,0 +1,69 @@
+{
+  "status": "owner review candidate",
+  "scope": "Option C final three seconds only",
+  "previous_v002_hashes_unchanged": true,
+  "same_machine_backup_only": true,
+  "source_and_derived_media_remote": false,
+  "assets": [
+    {
+      "path": "Media/amplitude.png",
+      "sha256": "7b201d2bccf9ab11d43f2f35d5854843d161ac71a679a8f60193adff620531bf",
+      "bytes": 3413,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Anonymous-Report_v003\\Media\\amplitude.png"
+    },
+    {
+      "path": "Media/geometry.png",
+      "sha256": "484f77d696312a78fdcd337f7130b70fb1610b1467f877125b04b4b7a20bcc61",
+      "bytes": 3782,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Anonymous-Report_v003\\Media\\geometry.png"
+    },
+    {
+      "path": "Media/profile.png",
+      "sha256": "9a52f3341372fd8cc4bdc97aca9864451f2a3a237939b4143a655930c18e1829",
+      "bytes": 20645,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Anonymous-Report_v003\\Media\\profile.png"
+    },
+    {
+      "path": "Media/sections.png",
+      "sha256": "8f43bf03f2aa346c9db826baf30ea54910db90c8124c0632239378040040a5fa",
+      "bytes": 113678,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Anonymous-Report_v003\\Media\\sections.png"
+    },
+    {
+      "path": "Media/shape.png",
+      "sha256": "4f5196aeafad248b66efc893af16f25606ad73b2b064aac4cf7b4cded0be79e1",
+      "bytes": 158365,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Anonymous-Report_v003\\Media\\shape.png"
+    },
+    {
+      "path": "Previews/S06_cinematic-study_v003.mp4",
+      "sha256": "127ff07281d3892149f6c270ee6e7c36c7f22a58e5d3bdf0f54dd22ac518b02e",
+      "bytes": 831384,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Anonymous-Report_v003\\Previews\\S06_cinematic-study_v003.mp4"
+    },
+    {
+      "path": "Previews/S06_ending-contact_v003.jpg",
+      "sha256": "9fadc8991090ec4eadde89d1d9b67f3e784c3678d629c82a634bd99c597179e3",
+      "bytes": 131513,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Anonymous-Report_v003\\Previews\\S06_ending-contact_v003.jpg"
+    },
+    {
+      "path": "Previews/S06_ending-only_v003.mp4",
+      "sha256": "f6bf0f614de5e0095e36bbd9b2f14660713b9eab75f7a281a339d4bdd06a3073",
+      "bytes": 221694,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Anonymous-Report_v003\\Previews\\S06_ending-only_v003.mp4"
+    },
+    {
+      "path": "Previews/S06_report-ending_v003.png",
+      "sha256": "1f2cadfc92a361d3d0ba7cc362082b02080cecc3bad1466a45139eea9291075e",
+      "bytes": 938160,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Anonymous-Report_v003\\Previews\\S06_report-ending_v003.png"
+    },
+    {
+      "path": "Scenes/S06_cinematic-study_v003.blend",
+      "sha256": "4037f648bc78781d2649c622c8cb54958a85c8b7654f29afa1b9fd133e7bda91",
+      "bytes": 9001598,
+      "backup": "D:\\MIT-ECCO-Render-Recovery\\S06-Anonymous-Report_v003\\Scenes\\S06_cinematic-study_v003.blend"
+    }
+  ]
+}
