@@ -1,13 +1,13 @@
 [
   {
     "path": ".gitignore",
-    "bytes": 74,
-    "sha256": "7c7a66400029c1cb79dfa12e21fdf640b80162084e2c7c0b95ef150ca2abac5e"
+    "bytes": 82,
+    "sha256": "9e4f7a63dcbf8ea22e14de2ff043d1de11b22c403fd506e508f0179d91e47928"
   },
   {
     "path": "README.md",
-    "bytes": 9413,
-    "sha256": "ccd55ce3f3c322920d7aee790d5127f357d719fc0ee418ba1074b90602e61de9"
+    "bytes": 12336,
+    "sha256": "6d33897508f5d53acb130d79f58ec80d465bae897209dd9896c3d4b2968fca3f"
   },
   {
     "path": "Data/story_field.npz",
@@ -25,6 +25,16 @@
     "sha256": "b47c2a5af289eb90296be9eda9ec2475b0532e187f80c5d7baa000d323ee1c76"
   },
   {
+    "path": "Previews/S06_animation-contact_v004.jpg",
+    "bytes": 218499,
+    "sha256": "f6749917fb716b2b82de4edae37b9a7ad82c93d8c13ac64906f6e2a321956d15"
+  },
+  {
+    "path": "Previews/S06_animation-poster_v004.png",
+    "bytes": 1040330,
+    "sha256": "faacf2582dd05d2fd6439ff9ce9f1e058b84adfcde7aaa8dca4d844c9dfc4c79"
+  },
+  {
     "path": "Previews/S06_A_v004.png",
     "bytes": 1663977,
     "sha256": "51cff9c5319e32edae2ab643c8aea098ecc09f02f20c9c5f5fbed26edef6adcc"
@@ -33,6 +43,11 @@
     "path": "Previews/S06_B_v004.png",
     "bytes": 992789,
     "sha256": "eb71278c11f8bdeaa6fa68c3db588cd5d0a7bfd9097c94f043656582cc0edba4"
+  },
+  {
+    "path": "Previews/S06_cinematic-study_v004.mp4",
+    "bytes": 7663060,
+    "sha256": "531217c5b54fc781b76a34d99925c3ea4b118d12c6c800e7b93ad19354c87a21"
   },
   {
     "path": "Previews/S06_C_v004.png",
@@ -53,6 +68,41 @@
     "path": "Records/ABC-verification.json",
     "bytes": 951,
     "sha256": "f91bc06e095fb8a2aa00df0db28d98834d76f196ed4b6ac538c05946908f8d16"
+  },
+  {
+    "path": "Records/animation-benchmark.json",
+    "bytes": 651,
+    "sha256": "0db417b84bc691fec879d9adbd7f87eb4280b15ed0a071359c749f805a19939d"
+  },
+  {
+    "path": "Records/animation-decoded-frames.md5",
+    "bytes": 23553,
+    "sha256": "5072247977e356ec8a78a02a7f3b9625dc9f69860f899f2525d0872792dd4f45"
+  },
+  {
+    "path": "Records/animation-delivery.json",
+    "bytes": 1024,
+    "sha256": "f4aa3603b603ef295fa408c47a24378823b824c82a1c826f48d731c55ecf0ba9"
+  },
+  {
+    "path": "Records/animation-initial-run-timings.json",
+    "bytes": 18593,
+    "sha256": "685f08930887565bcf854a5ea601f256014826394664f9a424b3d6334024028d"
+  },
+  {
+    "path": "Records/animation-render-timings.json",
+    "bytes": 18590,
+    "sha256": "03cf58515186bd0035e5c1902bdd24e05a644e8339e21acf09fa460655d360d4"
+  },
+  {
+    "path": "Records/animation-score.json",
+    "bytes": 66425,
+    "sha256": "932bd58a3df2f2fe07aa18fc7998deb552ddb276ebe8f6a143535dd35e453657"
+  },
+  {
+    "path": "Records/animation-verification.json",
+    "bytes": 18561,
+    "sha256": "a581b0342e07bb23c4287e84bca86d1e03032f504b3a83a287412b8c9910d16f"
   },
   {
     "path": "Records/saved-verification.json",
@@ -80,9 +130,24 @@
     "sha256": "89a2e0f055f6a512612f7238fa25f258d89f2c30e43e518be480473d66db91bc"
   },
   {
+    "path": "Scenes/S06_cinematic-study_v004.blend",
+    "bytes": 27282054,
+    "sha256": "29d1d97daa2dda4a4be360707b9ede319d268b8beb941d0b6d2c4dcb78c6c9dd"
+  },
+  {
     "path": "Scenes/S06_report-recreation_v004.blend",
     "bytes": 3572920,
     "sha256": "fd568117e489c31540ad84b5853600899ad77188d844553ce3b31f2d8d5d46df"
+  },
+  {
+    "path": "Scripts/animate_story.py",
+    "bytes": 12680,
+    "sha256": "b65064f71f8fb3ed049f8fcbdbde6c4086184c4d168684410621eb61e466b35a"
+  },
+  {
+    "path": "Scripts/backup_animation.py",
+    "bytes": 1223,
+    "sha256": "e58ca16a2fe2053cc26d2c21c242da971f5185554dd2b02c5263d73a9abb7507"
   },
   {
     "path": "Scripts/build_still.py",
@@ -115,9 +180,24 @@
     "sha256": "b6712ae9b60bfe54f667b6b7ad20d1a4d9f5508423b4bed05cff2b990cd4ec9e"
   },
   {
+    "path": "Scripts/package_animation.py",
+    "bytes": 3119,
+    "sha256": "216896358930957138b16dcced92a6f295e8fc8ea2e92477a6a76ffd032a8af8"
+  },
+  {
     "path": "Scripts/package_story.py",
     "bytes": 1589,
     "sha256": "b705e742c7fc9fad90f5d48949a0c50d7a097792b27d60c8b3796d89a804a739"
+  },
+  {
+    "path": "Scripts/render_animation.py",
+    "bytes": 1177,
+    "sha256": "8652827964761cf6be093cdc70dc0220c80b244511acd22a28d4ec727be22f77"
+  },
+  {
+    "path": "Scripts/verify_animation.py",
+    "bytes": 4268,
+    "sha256": "fa8c11a323e270c65e2fca7dbb5560a6bf267b84ecebd56aae8261a24151baea"
   },
   {
     "path": "Scripts/verify_saved.py",
@@ -128,5 +208,70 @@
     "path": "Scripts/verify_story.py",
     "bytes": 3856,
     "sha256": "2ffff384def958a8b97d5d264ba0d2fae5c7ee15e23b1d3ab4b8a452fb4a99cf"
+  },
+  {
+    "path": "Previews/Animation-checks/0001.png",
+    "bytes": 1554259,
+    "sha256": "daff982d4125d4a88c1a88775940dc6a8a786c5492255f4414c0a738942690b5"
+  },
+  {
+    "path": "Previews/Animation-checks/0060.png",
+    "bytes": 1676965,
+    "sha256": "ab07207dab6f59a1942891440ad509c34c480dcbc3e802850f853e1f1e4b3559"
+  },
+  {
+    "path": "Previews/Animation-checks/0096.png",
+    "bytes": 1617818,
+    "sha256": "7455d7367a01fd99e5dcf1cacd6ff2af70754c779ee4322a043116258f6743ca"
+  },
+  {
+    "path": "Previews/Animation-checks/0120.png",
+    "bytes": 1112408,
+    "sha256": "6dd520df414cb2eafe803a17c1af800c554964987cc6c75e098fb8da47a35011"
+  },
+  {
+    "path": "Previews/Animation-checks/0132.png",
+    "bytes": 1024307,
+    "sha256": "aace4b7cb0d36805676f3fd864894adf1385ae5d3ed7bb154aa185fe02b2d6f7"
+  },
+  {
+    "path": "Previews/Animation-checks/0160.png",
+    "bytes": 1034726,
+    "sha256": "0cc3afdb40c9172a89b699747fc8e99af0f924d48e8aa22dcde281d3194b8a55"
+  },
+  {
+    "path": "Previews/Animation-checks/0172.png",
+    "bytes": 1053032,
+    "sha256": "5d67632311b0068e1dd7ac3d3cc776a99f818717c9c64fc1b149cac399732e30"
+  },
+  {
+    "path": "Previews/Animation-checks/0192.png",
+    "bytes": 1084887,
+    "sha256": "6fe9730231dbe8976f306f614840a6fa177e7efec25d6d3e01600105583793d8"
+  },
+  {
+    "path": "Previews/Animation-checks/0204.png",
+    "bytes": 1006496,
+    "sha256": "488849c4d805a24750a320c6ddeb8cb7c895a7a8682e93fa3eb30711594ff611"
+  },
+  {
+    "path": "Previews/Animation-checks/0230.png",
+    "bytes": 1522145,
+    "sha256": "ca768508998c0ede312b10ca314b716fdcf4e2e9d9c3ba88613a61c8d875d374"
+  },
+  {
+    "path": "Previews/Animation-checks/0244.png",
+    "bytes": 1189663,
+    "sha256": "26a2562da299f80bacc3c9021c7d727e355379de3470e69903b2c304375a65c0"
+  },
+  {
+    "path": "Previews/Animation-checks/0250.png",
+    "bytes": 1003037,
+    "sha256": "ab9c28b7b3e2b70bff3d6002ea20c080fe6f425da910a29ba4609fa490a859bc"
+  },
+  {
+    "path": "Previews/Animation-checks/0276.png",
+    "bytes": 1040330,
+    "sha256": "9135ce3d9dfd1a913cb9ad28e5fe4a096415b653acd3e8abb05ae8bf97ab2f68"
   }
 ]

@@ -1,6 +1,22 @@
-# S06 — v004 working A–B–C still study
+# S06 — v004 working A–B–C cinematic study
 
-**Current review candidate:** `Previews/S06_ABC_review-strip_v004.jpg`. Owner authorized one A–B–C still strip after the AI Director review. This updates the same v004 working study. No animation, full integration or final finishing was undertaken. Prior versions and the initial standalone report still are retained.
+**Current review candidate:** `Previews/S06_cinematic-study_v004.mp4`, with editable `Scenes/S06_cinematic-study_v004.blend`. The owner accepted the Part A environment for now and requested the animation render. This advances the same v004 working study to 12 seconds at 24 fps, without replacing its approved still native or earlier versions. Animation approval and final-film assembly remain with the owner.
+
+## Animation execution — 25 October 2026
+
+One continuous camera carries A through B into C. Reconstruction samples emerge around the source-sized ECCO; physical hardware and fixed rock recede through a visibility transition. Only the separate data surface unfolds. The camera retreats to retain the complete surface, straightens as it reaches the flat map, then follows the same sample vertices into the report's geometry track. Independent amplitude follows into its own track. The camera pulls back to reveal the laptop and settles with a subtle final movement.
+
+The animated native contains packed fonts and directly appended source hardware, without original report images or external Blender libraries. Reports remain illustrative and anonymous. `Scripts/animate_story.py` preserves originally hidden construction helpers; laptop target coordinates include their full parent transform. The existing still native remains unchanged. The dirty running Blender scene was left untouched.
+
+Full-sequence QA prompted a bounded correction within v004: the unfolding camera now continuously aims at the displayed surface and checks both boundary columns and both end contours, while the laptop fade uses depth-correct dithered transparency. Frames 96–288 were rerendered; frames 1–95 are retained from the initial run. Both initial and retained-frame timing records remain available, and the delivery record separates retained-frame cost from total batch rendering including repairs. The preview still has modest low-sample grain during transparency; this is deliberately inexpensive previs.
+
+`Records/animation-verification.json` records saved-native, sample correspondence, source mesh, text inventory, coordinate and conservative radial-clearance checks. `Records/animation-render-timings.json` records every final render call. `Records/animation-delivery.json` records actual video length, full decode and render/encoding timings. Rendering uses 1280 × 720 EEVEE with 16 samples; the batch stops if any frame reaches five seconds. Initial cold shader compilation checks exceeded the cap and are disclosed separately; the batch was released only after a passing representative benchmark.
+
+Review media: `Previews/S06_animation-contact_v004.jpg` and `Previews/S06_animation-poster_v004.png`. These are a previs review, not final cinematic finishing or a claim of measured engineering data. Media/native/data are local; the D-drive copy is same-machine recovery. Only generic implementation and records are published. Exact synchronization is recorded locally in `Records/sync-verification.json`.
+
+## Retained still-review record
+
+The following preserves the composition decisions and checks preceding animation. Statements about animation pending describe that earlier review stage, superseded by the execution record above.
 
 ## Current scene direction contract
 

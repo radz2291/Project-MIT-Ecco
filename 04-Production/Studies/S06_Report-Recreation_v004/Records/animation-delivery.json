@@ -1,0 +1,24 @@
+{
+  "frames": 288,
+  "fps": 24,
+  "duration_seconds": 12,
+  "resolution": [
+    1280,
+    720
+  ],
+  "engine": "EEVEE",
+  "samples": 16,
+  "render_sum_seconds": 290.8833342002472,
+  "render_mean_seconds": 1.0100115770841915,
+  "render_min_seconds": 0.3613647000165656,
+  "render_max_seconds": 2.9301452999934554,
+  "encoding_seconds": 5.561258900008397,
+  "all_frames_under_five_seconds": true,
+  "full_video_decode_frames": 288,
+  "decode_errors": 0,
+  "movie_sha256": "531217c5b54fc781b76a34d99925c3ea4b118d12c6c800e7b93ad19354c87a21",
+  "review_status": "Owner animation review pending",
+  "cold_shader_note": "Initial check shader compilation spikes are recorded separately; these statistics describe the final 288-frame production run.",
+  "total_batch_render_seconds_including_transition_repairs": 446.75193850012147,
+  "transition_repairs": "Frames 96-288 rerendered after full-sequence QA: continuous target framing, complete-boundary framing checks, and depth-correct dithered laptop fade."
+}
