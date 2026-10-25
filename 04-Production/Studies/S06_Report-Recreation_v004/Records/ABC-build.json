@@ -1,0 +1,76 @@
+{
+  "scenes": {
+    "A": {
+      "render_seconds": 2.8220657000201754,
+      "under_five_seconds": true,
+      "camera_location": [
+        0.44999998807907104,
+        -2.25,
+        1.100000023841858
+      ],
+      "camera_quaternion": [
+        0.7033790349960327,
+        0.48548758029937744,
+        -0.2045293003320694,
+        0.47720807790756226
+      ],
+      "lens": 48.0,
+      "resolution": [
+        1280,
+        720
+      ]
+    },
+    "B": {
+      "render_seconds": 0.6109914999979082,
+      "under_five_seconds": true,
+      "camera_location": [
+        -1.3200000524520874,
+        -5.400000095367432,
+        -2.759999990463257
+      ],
+      "camera_quaternion": [
+        0.5031797289848328,
+        0.6958187222480774,
+        -0.4853785037994385,
+        0.1644812822341919
+      ],
+      "lens": 48.380088806152344,
+      "resolution": [
+        1280,
+        720
+      ]
+    },
+    "C": {
+      "render_seconds": 0.6137714999786112,
+      "under_five_seconds": true,
+      "camera_location": [
+        0.800000011920929,
+        -4.050000190734863,
+        2.4200000762939453
+      ],
+      "camera_quaternion": [
+        0.8034806847572327,
+        0.5883431434631348,
+        0.06630545854568481,
+        0.06224796175956726
+      ],
+      "lens": 46.0,
+      "resolution": [
+        1280,
+        720
+      ]
+    }
+  },
+  "source_native": "Shared\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+  "source_mesh_local_coordinates_sha256": "8fdbba227e8c46a9520e1cc8fb4cd270d6486ed0a58781efea5f7ee2116ebc9b",
+  "housing_vertices": 348876,
+  "hardware_root_scale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "shared_data_sha256": "c82739990750e1750fbe0d3f5e58f48f6bbbc756b860d6b31eadabc86e2073a7",
+  "radius_min": 0.1875,
+  "source_tool_max_radius": 0.152400137,
+  "animation_built": false
+}

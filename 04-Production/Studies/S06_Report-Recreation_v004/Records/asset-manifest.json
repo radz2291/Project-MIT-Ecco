@@ -6,52 +6,127 @@
   },
   {
     "path": "README.md",
-    "bytes": 3704,
-    "sha256": "4cae6456643634d3e426f8147f89533cc8c3ce2f564c7130efea70543d57dd9d"
+    "bytes": 9413,
+    "sha256": "ccd55ce3f3c322920d7aee790d5127f357d719fc0ee418ba1074b90602e61de9"
   },
   {
-    "path": "Data\\visual_structure.npz",
+    "path": "Data/story_field.npz",
+    "bytes": 6612,
+    "sha256": "c82739990750e1750fbe0d3f5e58f48f6bbbc756b860d6b31eadabc86e2073a7"
+  },
+  {
+    "path": "Data/visual_structure.npz",
     "bytes": 10060,
     "sha256": "658078f4bfe1bcc212382e93f0ce60426ef2edc8144667b2e9549a87f61536ff"
   },
   {
-    "path": "Previews\\S06_report-recreation_v004.png",
+    "path": "Previews/S06_ABC_review-strip_v004.jpg",
+    "bytes": 652880,
+    "sha256": "b47c2a5af289eb90296be9eda9ec2475b0532e187f80c5d7baa000d323ee1c76"
+  },
+  {
+    "path": "Previews/S06_A_v004.png",
+    "bytes": 1663977,
+    "sha256": "51cff9c5319e32edae2ab643c8aea098ecc09f02f20c9c5f5fbed26edef6adcc"
+  },
+  {
+    "path": "Previews/S06_B_v004.png",
+    "bytes": 992789,
+    "sha256": "eb71278c11f8bdeaa6fa68c3db588cd5d0a7bfd9097c94f043656582cc0edba4"
+  },
+  {
+    "path": "Previews/S06_C_v004.png",
+    "bytes": 1057145,
+    "sha256": "8a2f630bf44589f3f843b2edbcffac4d4bbb8d0e87e4af7ef99a5c167dc353b6"
+  },
+  {
+    "path": "Previews/S06_report-recreation_v004.png",
     "bytes": 1562432,
     "sha256": "8cfc502e3045073684dc268c2ae6f18fde4fd9de070018c4647f0b95cc0b91ca"
   },
   {
-    "path": "Records\\saved-verification.json",
+    "path": "Records/ABC-build.json",
+    "bytes": 1888,
+    "sha256": "cc5392c0b5cbd5faa4f55597f276e93a61098e1fb019ce49ebca6fb5bbf27f32"
+  },
+  {
+    "path": "Records/ABC-verification.json",
+    "bytes": 951,
+    "sha256": "f91bc06e095fb8a2aa00df0db28d98834d76f196ed4b6ac538c05946908f8d16"
+  },
+  {
+    "path": "Records/saved-verification.json",
     "bytes": 702,
     "sha256": "635e4312b905386f8f4b4b9b274be40fc9f04fd2aad1cf97dfaa08da8ef408d3"
   },
   {
-    "path": "Records\\still-verification.json",
+    "path": "Records/still-verification.json",
     "bytes": 689,
     "sha256": "d4d2f883fd584eb758d1219f622ca79c3b0a27428b527dd906ec662cd670a75a"
   },
   {
-    "path": "Records\\visual-provenance.json",
+    "path": "Records/story-data.json",
+    "bytes": 726,
+    "sha256": "2d6eae46d8e3952c8e916e46424f89ab090fee38af8ee3dc126f6e737a03729f"
+  },
+  {
+    "path": "Records/visual-provenance.json",
     "bytes": 1139,
     "sha256": "06ca8e0c16d19ff358fe314bbfd8a9ba5bade06ef1a13a58eeaaa9518b402d8f"
   },
   {
-    "path": "Scenes\\S06_report-recreation_v004.blend",
+    "path": "Scenes/S06_ABC_study_v004.blend",
+    "bytes": 23440091,
+    "sha256": "89a2e0f055f6a512612f7238fa25f258d89f2c30e43e518be480473d66db91bc"
+  },
+  {
+    "path": "Scenes/S06_report-recreation_v004.blend",
     "bytes": 3572920,
     "sha256": "fd568117e489c31540ad84b5853600899ad77188d844553ce3b31f2d8d5d46df"
   },
   {
-    "path": "Scripts\\build_still.py",
+    "path": "Scripts/build_still.py",
     "bytes": 9864,
     "sha256": "b9a12508976109f2c9d517d5d8a61e41b928b016106a8ce0bf51ede202448b0c"
   },
   {
-    "path": "Scripts\\derive_visuals.py",
+    "path": "Scripts/build_story.py",
+    "bytes": 17539,
+    "sha256": "3bea2c3cbf0b1addde8005f93a35dc171c54973f13ffcf671d2669a8799b68ca"
+  },
+  {
+    "path": "Scripts/derive_story.py",
+    "bytes": 1655,
+    "sha256": "d3224a053ee91eb12f85f3359acf2548b6c650ae62cebbeada3679f139111dd2"
+  },
+  {
+    "path": "Scripts/derive_visuals.py",
     "bytes": 3323,
     "sha256": "3ca79b238c954119d85c22f9047c494bcb60f7fa7c84aa08cdfab6283b158651"
   },
   {
-    "path": "Scripts\\verify_saved.py",
+    "path": "Scripts/inspect_asset.py",
+    "bytes": 620,
+    "sha256": "dc10dc9d5df3d8ceb77b76e43e2cf75628783862f5fe944eb966078352fbc560"
+  },
+  {
+    "path": "Scripts/inspect_story.py",
+    "bytes": 591,
+    "sha256": "b6712ae9b60bfe54f667b6b7ad20d1a4d9f5508423b4bed05cff2b990cd4ec9e"
+  },
+  {
+    "path": "Scripts/package_story.py",
+    "bytes": 1589,
+    "sha256": "b705e742c7fc9fad90f5d48949a0c50d7a097792b27d60c8b3796d89a804a739"
+  },
+  {
+    "path": "Scripts/verify_saved.py",
     "bytes": 1396,
     "sha256": "166f7cb98414905e452616a24234ed0b3b233f948348602a3b500ccb386372c8"
+  },
+  {
+    "path": "Scripts/verify_story.py",
+    "bytes": 3856,
+    "sha256": "2ffff384def958a8b97d5d264ba0d2fae5c7ee15e23b1d3ab4b8a452fb4a99cf"
   }
 ]

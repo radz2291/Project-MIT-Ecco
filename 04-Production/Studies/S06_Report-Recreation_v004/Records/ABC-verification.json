@@ -1,0 +1,30 @@
+{
+  "saved_native_reopened": true,
+  "shared_geometry_colors_A_B_C_exact": true,
+  "C_miniature_same_radius_grid": true,
+  "amplitude_independent_and_identical_B_C": true,
+  "review_pose_max_error_m": {
+    "A | reconstructed wall beginning to open": 5.81691401713158e-08,
+    "B | same reconstructed samples": 5.81691401713158e-08
+  },
+  "source_mesh_unchanged": true,
+  "hardware_axial_extent_m": 2.4000000953674316,
+  "hardware_max_radius_m": 0.15240012109279633,
+  "minimum_conservative_graphic_to_tool_radial_clearance_m": 0.03526237511338007,
+  "B_complete_pair_in_frame": [
+    [
+      0.24061335623264313,
+      0.05469835177063942
+    ],
+    [
+      0.7593681812286377,
+      0.9401707649230957
+    ]
+  ],
+  "source_images_packed": 0,
+  "external_libraries": 0,
+  "fonts_packed": true,
+  "all_stills_under_five_seconds": true,
+  "animation_verified": false,
+  "audience_acceptance": "Pending owner still review"
+}
