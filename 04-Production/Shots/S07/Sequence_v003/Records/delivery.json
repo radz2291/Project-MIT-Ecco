@@ -1,0 +1,33 @@
+{
+  "duration_seconds": 8,
+  "frames": 192,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "render_total_seconds": 188.95477460013353,
+  "render_average_seconds": 0.9841394510423621,
+  "render_max_seconds": 2.774050800013356,
+  "samples": 32,
+  "all_complete_frames_under_five_seconds": true,
+  "encode_seconds": 3.2442248000006657,
+  "transition_preview_seconds": 10,
+  "transition_source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Studies\\S06_Report-Recreation_v004\\Previews\\S06_cinematic-study_v004_polished.mp4",
+  "media": {
+    "S07_Monumental-Precision_v003.mp4": {
+      "decoded_frames": 192,
+      "errors": 0,
+      "sha256": "1e1b7d16fa04ddf1c43821bdf68de29e9b52d9ea90c5e34af2c920504f1ce99e"
+    },
+    "S06-to-S07_transition_v003.mp4": {
+      "decoded_frames": 240,
+      "errors": 0,
+      "sha256": "a47ded5c3dbc28b4b74d9a2fc10c1101b073bc84628b01325ea8898c9ab13a3a"
+    }
+  },
+  "new_render_seconds": 188.95477460013353,
+  "newly_rendered_frames": 192,
+  "reused_unchanged_frames": 0,
+  "review_status": "S07 v003 continuous camera and centered fade to black; owner review pending"
+}

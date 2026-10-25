@@ -1,0 +1,86 @@
+{
+  "saved_native_reopened": true,
+  "native_sha256": "e2346a046887a16ea69854d03f601a9992f6f0f76d48fbdcd35a887d2879431a",
+  "source_unchanged": true,
+  "S06_approved_artifacts_unchanged": true,
+  "geometry": {
+    "ECCO_HOUSING_SOURCE_MESH": {
+      "vertices": 348876,
+      "faces": 697805,
+      "vertex_sha256": "8fdbba227e8c46a9520e1cc8fb4cd270d6486ed0a58781efea5f7ee2116ebc9b",
+      "topology_sha256": "f3ed8be73f27408de133beaaebd844b798818ee2431d39f73c1673850287f78e"
+    },
+    "TEMP | Imaging port 1 | removable acoustic cap": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "b041725680e39143cdc690293cad3f5bbf8518752c2762e8409b964305a6c744",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    },
+    "TEMP | Imaging port 2 | removable acoustic cap": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "b041725680e39143cdc690293cad3f5bbf8518752c2762e8409b964305a6c744",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    },
+    "TEMP | Imaging port 3 | removable acoustic cap": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "b041725680e39143cdc690293cad3f5bbf8518752c2762e8409b964305a6c744",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    },
+    "TEMP | Service cover 1 | removable fitted plate": {
+      "vertices": 8,
+      "faces": 6,
+      "vertex_sha256": "16313193adff7a64997ebf493a029cd702aec55cc1ea39a7c08fe46cdc371d55",
+      "topology_sha256": "df26ac34d5f990c88d39e7c442da3b2d5438b2bc40ba49c322789e2310c6ac48"
+    },
+    "TEMP | Service cover 2 | removable fitted plate": {
+      "vertices": 8,
+      "faces": 6,
+      "vertex_sha256": "16313193adff7a64997ebf493a029cd702aec55cc1ea39a7c08fe46cdc371d55",
+      "topology_sha256": "df26ac34d5f990c88d39e7c442da3b2d5438b2bc40ba49c322789e2310c6ac48"
+    },
+    "TEMP | Service cover 3 | removable fitted plate": {
+      "vertices": 8,
+      "faces": 6,
+      "vertex_sha256": "16313193adff7a64997ebf493a029cd702aec55cc1ea39a7c08fe46cdc371d55",
+      "topology_sha256": "df26ac34d5f990c88d39e7c442da3b2d5438b2bc40ba49c322789e2310c6ac48"
+    },
+    "TEMP | Service port 1 | removable metal plug": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "d8445bfdde5a41d7a811422eb435c6daf76331af692ec22b466bc4ee0087943c",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    },
+    "TEMP | Service port 2 | removable metal plug": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "d8445bfdde5a41d7a811422eb435c6daf76331af692ec22b466bc4ee0087943c",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    },
+    "TEMP | Service port 3 | removable metal plug": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "d8445bfdde5a41d7a811422eb435c6daf76331af692ec22b466bc4ee0087943c",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    }
+  },
+  "all_192_frames_hardware_stationary": true,
+  "unchanged_source_matrices": true,
+  "final_camera_stationary_from_frame": 148,
+  "maximum_camera_step_m": 0.2249821229627224,
+  "previous_native_unchanged": true,
+  "black_end_verified": true,
+  "final_product_bounds_normalized": {
+    "xmin": 0.30886971950531006,
+    "xmax": 0.6767939925193787,
+    "ymin": 0.04842137545347214,
+    "ymax": 0.9100393056869507
+  },
+  "minimum_camera_to_source_radius_clearance_m": 0.5761776437169296,
+  "external_libraries": 0,
+  "all_file_images_and_fonts_packed": true,
+  "editable_branding": [],
+  "benchmark_max_seconds": 3.103715300007025,
+  "scope": "Technical and executor visual checks; owner playback review pending"
+}

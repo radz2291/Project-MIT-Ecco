@@ -1,0 +1,177 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "f1869378abebf996f7379d015b9acc0863c304a27515280c128800269d23cca8",
+    "bytes": 75
+  },
+  {
+    "path": "README.md",
+    "sha256": "de619c074e129de38600007ae2b7c0959e35c6844c62d24a112966153d262323",
+    "bytes": 1052
+  },
+  {
+    "path": "scene-direction-contract.md",
+    "sha256": "948bdb654eb92324cbf30535abc7c773df4aa0318b8b8ec0d2f64d862a60c78b",
+    "bytes": 1930
+  },
+  {
+    "path": "Previews/arc-check.jpg",
+    "sha256": "9d61c65507b7260f32e01a28ea166213ada4c59ff174aa547a1af985733f38b0",
+    "bytes": 65112
+  },
+  {
+    "path": "Previews/S06-to-S07_transition_v003.mp4",
+    "sha256": "a47ded5c3dbc28b4b74d9a2fc10c1101b073bc84628b01325ea8898c9ab13a3a",
+    "bytes": 2252771
+  },
+  {
+    "path": "Previews/S07_final-product-hero_v003.png",
+    "sha256": "642bdefc487257ddae81fd2fe0d28bd4131ff3bb183588e6ae7ff90999e25d8d",
+    "bytes": 907022
+  },
+  {
+    "path": "Previews/S07_Monumental-Precision_v003.mp4",
+    "sha256": "1e1b7d16fa04ddf1c43821bdf68de29e9b52d9ea90c5e34af2c920504f1ce99e",
+    "bytes": 1725017
+  },
+  {
+    "path": "Previews/S07_motion-review.jpg",
+    "sha256": "872f6178d86a9cb97457d426df901b5d9989933c6553307ab2f7b7bd268086ef",
+    "bytes": 268798
+  },
+  {
+    "path": "Previews/S07_second-beauty_v003.png",
+    "sha256": "c75a49f7f9908ebfa508ebe5cd1add8d9a896ddd7cff5e49fbf1bc5a785a9ded",
+    "bytes": 1076865
+  },
+  {
+    "path": "Previews/S07_sequence-review.jpg",
+    "sha256": "b54f8d464a48e3dee8a6d836f2cba19c3a47d06b1da0d228eab3f556e67260c3",
+    "bytes": 179124
+  },
+  {
+    "path": "Records/benchmark.json",
+    "sha256": "00c0ab3d239393740601f7d8f37d61edc6e3173e1544d9fb6c4608002d4eba14",
+    "bytes": 582
+  },
+  {
+    "path": "Records/camera-score.json",
+    "sha256": "b8f9ed12cb83158680a96a05a0bc6d17a336cf0e999a8f4bafa0b97202a1d927",
+    "bytes": 80558
+  },
+  {
+    "path": "Records/delivery.json",
+    "sha256": "4b70508f9c22682621e3f6198891d5f227674f22a364a57a96d2b0d7fd2faf92",
+    "bytes": 1164
+  },
+  {
+    "path": "Records/production-report.md",
+    "sha256": "a44320bae905c9267f69613cf4c5f98a3a1a9d921a1967e7420205f471cfd6fe",
+    "bytes": 2148
+  },
+  {
+    "path": "Records/render-timings.json",
+    "sha256": "802b5a8c14d5035535b6df9e48d9de901103b71390773e1e64be7f1146adcf08",
+    "bytes": 12342
+  },
+  {
+    "path": "Records/revision.json",
+    "sha256": "5ef83ccec0b00ea108a733b7de50ece069c409d6c438a787a709a38e7d5ccde2",
+    "bytes": 529
+  },
+  {
+    "path": "Records/S06-to-S07_transition_v003-frames.md5",
+    "sha256": "d6d43b86c7a4d38cc4354ec10087a886e4942e452b0c03a5456c327674a90e70",
+    "bytes": 19665
+  },
+  {
+    "path": "Records/S07_Monumental-Precision_v003-frames.md5",
+    "sha256": "66923cb5221f0d8234c470793a727ad16a9878e1b34d34fd99d5c556c619a45a",
+    "bytes": 15777
+  },
+  {
+    "path": "Records/verification.json",
+    "sha256": "5ff92cf2d647338f8d96456550f7a096cd5919dc9fa5a606f1076b7ec9f06b52",
+    "bytes": 3862
+  },
+  {
+    "path": "Scenes/S07_Monumental-Precision_v003.blend",
+    "sha256": "e2346a046887a16ea69854d03f601a9992f6f0f76d48fbdcd35a887d2879431a",
+    "bytes": 19865974
+  },
+  {
+    "path": "Scripts/finalize.py",
+    "sha256": "44f2672fe37d889a5805fb2a798f725c91a6c03bb35a70ab511c7ce46eb1adfd",
+    "bytes": 3804
+  },
+  {
+    "path": "Scripts/package.py",
+    "sha256": "64e89e04f97f6592a7f542d7211a7f994d52f6ba9128c6a8cf873080d8d52d46",
+    "bytes": 3747
+  },
+  {
+    "path": "Scripts/publish_records.py",
+    "sha256": "337bf7888189ae9ca400c895bdbc5c587610091fc7a2f532ecbe0861721df898",
+    "bytes": 2110
+  },
+  {
+    "path": "Scripts/render.py",
+    "sha256": "a61cc86d8daf0b14f81657a3ac6e19bd04eff2d34069dba678861de0706f6154",
+    "bytes": 858
+  },
+  {
+    "path": "Scripts/revise.py",
+    "sha256": "95494cd79df5f268efec3f971c0f5d9470f06e74e5aeda9ba6271f3f4ef2f19c",
+    "bytes": 4103
+  },
+  {
+    "path": "Scripts/verify.py",
+    "sha256": "3eb586c7e24c7275b6b5a3293578ccb5a6b04f9dd91ee3829a765e6b84d0a8ca",
+    "bytes": 4500
+  },
+  {
+    "path": "Previews/Checks/0036.png",
+    "sha256": "5fe261545737d85d1e385da2f291b56d78179744028bf5c8218a993f15272235",
+    "bytes": 1227137
+  },
+  {
+    "path": "Previews/Checks/0052.png",
+    "sha256": "c77813d058935a42d62c34859a886166432a7a8b1f855bf922db4434333bbf91",
+    "bytes": 1169939
+  },
+  {
+    "path": "Previews/Checks/0068.png",
+    "sha256": "329eb250054d037f31de50757c19c9a91f062f8ac482adf8a59b497a59d9ba30",
+    "bytes": 1099983
+  },
+  {
+    "path": "Previews/Checks/0084.png",
+    "sha256": "2ae8f9d6d1b000ade7c7bf314f081e1c1879f461ec87b2df8c91683f2eb53188",
+    "bytes": 1076865
+  },
+  {
+    "path": "Previews/Checks/0100.png",
+    "sha256": "b873a0cb32829b52e51d016d610f0dcd896a79383a865970529dbfb7253a4bbd",
+    "bytes": 1079026
+  },
+  {
+    "path": "Previews/Checks/0124.png",
+    "sha256": "be828737ba0167d69e8dffaf8b97bb904fc96039865e5ad44074c427239c95e0",
+    "bytes": 976457
+  },
+  {
+    "path": "Previews/Checks/0160.png",
+    "sha256": "b2c6dc83d885072390ba3e1019e70fd56546b44b07d1e9841be10e6e801b0cd6",
+    "bytes": 907022
+  },
+  {
+    "path": "Previews/Checks/0178.png",
+    "sha256": "7ebbf3b6e0075ef727ebfee56d7f9b03bc0ba2dc85c1bc980d14bd9d653c5fcc",
+    "bytes": 947030
+  },
+  {
+    "path": "Previews/Checks/0192.png",
+    "sha256": "4ceeb83dda61a2f3b04a4450261e62682b8e0ce3526ac67eda1f42a8940ec8e1",
+    "bytes": 210612
+  }
+]
