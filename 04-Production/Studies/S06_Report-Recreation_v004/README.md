@@ -1,6 +1,6 @@
 # S06 — v004 working A–B–C cinematic study
 
-**Current review candidate:** `Previews/S06_cinematic-study_v004_polished.mp4`, with editable `Scenes/S06_cinematic-study_v004_polished.blend`. The owner liked the complete animation and requested autonomous review and correction of rough transitions. The original `S06_cinematic-study_v004.mp4` and its native remain intact for comparison. This stays within the same v004 study, 12 seconds at 24 fps. Revised animation approval and final-film assembly remain with the owner.
+**Approved and closed — 25 October 2026.** The owner selected the polished v004 S06 previs. Start with [APPROVED_DELIVERY.md](APPROVED_DELIVERY.md) for the exact video, editable native, approval and closure records. Historical review wording below records earlier stages and is superseded by this approval.
 
 ## Scoped transition refinement
 

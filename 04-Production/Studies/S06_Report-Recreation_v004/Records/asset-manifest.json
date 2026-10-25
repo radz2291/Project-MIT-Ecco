@@ -5,9 +5,14 @@
     "sha256": "9e4f7a63dcbf8ea22e14de2ff043d1de11b22c403fd506e508f0179d91e47928"
   },
   {
+    "path": "APPROVED_DELIVERY.md",
+    "bytes": 1041,
+    "sha256": "acda8bcf36319b14330c4cd634a93b3e9d32dc784bed3e668be24f9bf088308c"
+  },
+  {
     "path": "README.md",
-    "bytes": 14564,
-    "sha256": "cbffbc36aff900b066a7039f641127d72a36cad6f6dee7c24e0ee3eab59ed31f"
+    "bytes": 14397,
+    "sha256": "87049231308a235db46e6665409d47fb979b48dc6a3c3a94c48f7445728369cf"
   },
   {
     "path": "Data/story_field.npz",
@@ -125,6 +130,21 @@
     "sha256": "a581b0342e07bb23c4287e84bca86d1e03032f504b3a83a287412b8c9910d16f"
   },
   {
+    "path": "Records/closure-report.md",
+    "bytes": 3402,
+    "sha256": "2c098793ebf713a5e2bae6c03f2de05e6ae03ceb9573e0fcc899e5278261844e"
+  },
+  {
+    "path": "Records/closure-verification.json",
+    "bytes": 1796,
+    "sha256": "ed41cbb84d6a259ae08f7547bf639f19fc0b61045e867c0d7ed2a8381e359d50"
+  },
+  {
+    "path": "Records/owner-approval_2026-10-25.md",
+    "bytes": 1121,
+    "sha256": "9979c25604c3914e23798844f22cb576944a5190c405598be84cd4242ba394c4"
+  },
+  {
     "path": "Records/polish-benchmark.json",
     "bytes": 1110,
     "sha256": "0886cf3d4b8659b2b8d14afcfc76d793e32edd7b6137fcbb7dca6eb07c0adc7a"
@@ -146,8 +166,8 @@
   },
   {
     "path": "Records/polish-delivery.json",
-    "bytes": 749,
-    "sha256": "1b55220d22a5f9aa938d8f3c22ea63e6d6d00806e477dae0410ac6cb2074982e"
+    "bytes": 794,
+    "sha256": "838d897a68b345d4902c51aa71b852b7e2aaf47232ff5d71366292cfae64fb55"
   },
   {
     "path": "Records/polish-first-pass-timings.json",
@@ -223,6 +243,11 @@
     "path": "Scripts/build_story.py",
     "bytes": 17539,
     "sha256": "3bea2c3cbf0b1addde8005f93a35dc171c54973f13ffcf671d2669a8799b68ca"
+  },
+  {
+    "path": "Scripts/close_s06.py",
+    "bytes": 9864,
+    "sha256": "d4b818d80529275d77de997db0268d9ed7e702d0b28d46038df0028f442b75c2"
   },
   {
     "path": "Scripts/derive_story.py",

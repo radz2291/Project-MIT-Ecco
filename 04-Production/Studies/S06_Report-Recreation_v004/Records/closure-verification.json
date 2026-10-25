@@ -1,0 +1,41 @@
+{
+  "status": "Owner-approved S06 cinematic previs; closed",
+  "approval_date": "2026-10-25",
+  "timezone": "Asia/Kuala_Lumpur",
+  "owner_statement": "S6 is approved, pls do your closure and wrap.",
+  "selected_movie": "Previews/S06_cinematic-study_v004_polished.mp4",
+  "selected_native": "Scenes/S06_cinematic-study_v004_polished.blend",
+  "implementation_commit": "2abde39be7ead179157afae2eda0d4663f1fe557",
+  "closure_verified_at": "2026-10-25T20:42:34.209979+08:00",
+  "artifacts": [
+    {
+      "path": "Previews/S06_cinematic-study_v004_polished.mp4",
+      "bytes": 6097041,
+      "sha256": "b1af840ef30a7862b31801b1b12c360487412bd60b20b6e5ab449dd5a3de13fe",
+      "recovery_sha256_matches": true
+    },
+    {
+      "path": "Scenes/S06_cinematic-study_v004_polished.blend",
+      "bytes": 25308803,
+      "sha256": "7f2a0086992be7c12c0896505d6fafbc42d82c7967a89ef9686f885bb06374a3",
+      "recovery_sha256_matches": true
+    },
+    {
+      "path": "Data/story_field.npz",
+      "bytes": 6612,
+      "sha256": "c82739990750e1750fbe0d3f5e58f48f6bbbc756b860d6b31eadabc86e2073a7",
+      "recovery_sha256_matches": true
+    }
+  ],
+  "fresh_video_decode_frames": 288,
+  "fresh_video_decode_errors": 0,
+  "saved_native_reopened_and_verified": true,
+  "source_native_unchanged": true,
+  "render_max_seconds": 3.11891019999166,
+  "work_workspace_revision": 747,
+  "matching_work_ticket": null,
+  "recovery_root": "D:\\MIT-ECCO-Render-Recovery\\S06-Report-Recreation_v004",
+  "recovery_type": "Hash-verified same-machine D-drive copy; not an off-machine backup",
+  "media_remote_upload": false,
+  "scope": "Approval of this S06 previs; final film assembly and client delivery remain with Radzi. No engineering certification or calibrated field-data claim."
+}

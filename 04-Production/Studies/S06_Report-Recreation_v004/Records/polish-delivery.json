@@ -16,6 +16,7 @@
   "decode_errors": 0,
   "movie_sha256": "b1af840ef30a7862b31801b1b12c360487412bd60b20b6e5ab449dd5a3de13fe",
   "original_movie_preserved": true,
-  "review": "Scoped transition refinement; awaiting owner playback review.",
-  "total_batch_render_seconds_including_steel_fade_repair": 576.4797799997614
+  "review": "Owner approved 2026-10-25; S06 previs closed",
+  "total_batch_render_seconds_including_steel_fade_repair": 576.4797799997614,
+  "approval_record": "Records/owner-approval_2026-10-25.md"
 }
