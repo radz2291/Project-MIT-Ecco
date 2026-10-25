@@ -1,0 +1,33 @@
+{
+  "duration_seconds": 8,
+  "frames": 192,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "render_total_seconds": 192.25359659988317,
+  "render_average_seconds": 1.0013208156243916,
+  "render_max_seconds": 2.4811826999939512,
+  "samples": 32,
+  "all_complete_frames_under_five_seconds": true,
+  "encode_seconds": 5.828588300006231,
+  "transition_preview_seconds": 10,
+  "transition_source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Studies\\S06_Report-Recreation_v004\\Previews\\S06_cinematic-study_v004_polished.mp4",
+  "media": {
+    "S07_Monumental-Precision_v004.mp4": {
+      "decoded_frames": 192,
+      "errors": 0,
+      "sha256": "e522ee12bf6269282addf1d04bc6ac57b82d109d32b011d9a6513985f23614a6"
+    },
+    "S06-to-S07_transition_v004.mp4": {
+      "decoded_frames": 240,
+      "errors": 0,
+      "sha256": "b1b8efc5a32f4c2274ee666d0d3beb8c1dfb44baae158e0c0aa4263db87601db"
+    }
+  },
+  "new_render_seconds": 192.25359659988317,
+  "newly_rendered_frames": 192,
+  "reused_unchanged_frames": 0,
+  "review_status": "S07 v004 rear-face traverse, collar reveal and centered fade to black; owner review pending"
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "f1869378abebf996f7379d015b9acc0863c304a27515280c128800269d23cca8",
+    "bytes": 75
+  },
+  {
+    "path": "README.md",
+    "sha256": "b8ad7d88678dacedb8107a8701fca52350b97116e26a4c6d9fad1cc356614cea",
+    "bytes": 1027
+  },
+  {
+    "path": "scene-direction-contract.md",
+    "sha256": "34f15f0102efedd844ae2268522ee946ef6c87454b4e4299d1c2aa004b52befa",
+    "bytes": 2499
+  },
+  {
+    "path": "Previews/rear-arc-review.jpg",
+    "sha256": "5fd6f61f4425d2ded60a74cb231a1c468377fc6e86b11e8e027cb55aceb12f98",
+    "bytes": 80144
+  },
+  {
+    "path": "Previews/S06-to-S07_transition_v004.mp4",
+    "sha256": "b1b8efc5a32f4c2274ee666d0d3beb8c1dfb44baae158e0c0aa4263db87601db",
+    "bytes": 2474409
+  },
+  {
+    "path": "Previews/S07_final-product-hero_v004.png",
+    "sha256": "6f163f194bba1c7a4efe338ccd50b28c939711ca7f669e2c29008aaa0027b3ee",
+    "bytes": 923043
+  },
+  {
+    "path": "Previews/S07_Monumental-Precision_v004.mp4",
+    "sha256": "e522ee12bf6269282addf1d04bc6ac57b82d109d32b011d9a6513985f23614a6",
+    "bytes": 1952977
+  },
+  {
+    "path": "Previews/S07_motion-review.jpg",
+    "sha256": "391482f19ddfb6e3b2429cc3064ce7ac5db15eb228a7810c76ed9dc0eeb51030",
+    "bytes": 268312
+  },
+  {
+    "path": "Previews/S07_second-beauty_v004.png",
+    "sha256": "05451b2f95400f1d6400729e1f51114e17faec9aeea7ef7abb68cd8d9288822f",
+    "bytes": 1021841
+  },
+  {
+    "path": "Previews/S07_sequence-review.jpg",
+    "sha256": "5973fd6a2351fe8aa50da6d2b93d9dbec71c7f02137fa77a5c90e763d896cb26",
+    "bytes": 171770
+  },
+  {
+    "path": "Records/benchmark.json",
+    "sha256": "8f0e19b8d9ad6ccd2aa8c1cd8637dd8ac2209595fbfe4f47a1ef3da35baac711",
+    "bytes": 648
+  },
+  {
+    "path": "Records/camera-score.json",
+    "sha256": "52953a8eb61779bb4ec00f9f2cee3d09526158c26e0d332f2a4ab46da891c34c",
+    "bytes": 89541
+  },
+  {
+    "path": "Records/delivery.json",
+    "sha256": "a6df932d6b0cd35304241cb4a14b4b794c46c5812fa91d8f20ab792cf48b13f1",
+    "bytes": 1180
+  },
+  {
+    "path": "Records/production-report.md",
+    "sha256": "41bdc1b5745b09263c19184a58efec61f0b3f99952d541df62e9e56e17933f8f",
+    "bytes": 2844
+  },
+  {
+    "path": "Records/render-timings.json",
+    "sha256": "b72b730c4f8129babeea335de76ad0f0693ae9bda073db39f71c2d7b46768275",
+    "bytes": 12336
+  },
+  {
+    "path": "Records/revision.json",
+    "sha256": "91eaa6e4a3dd2f65cad35a1a9ca72cb8d45a42b765367891cc427255ad197994",
+    "bytes": 588
+  },
+  {
+    "path": "Records/S06-to-S07_transition_v004-frames.md5",
+    "sha256": "3cc4e46a87414af79dec8f80d0b16c50f8ee1cf25fcb504cc213c4f0977b2f75",
+    "bytes": 19665
+  },
+  {
+    "path": "Records/S07_Monumental-Precision_v004-frames.md5",
+    "sha256": "c843e876b82541d223c3f8d7fa06b29102d3bfb3b2a3039a62508226619dae88",
+    "bytes": 15777
+  },
+  {
+    "path": "Records/survey.json",
+    "sha256": "cc0f5755bbc82481d843d85d423624e38a9ddbeb905edbb73970bcb9549eafeb",
+    "bytes": 485
+  },
+  {
+    "path": "Records/verification.json",
+    "sha256": "5a969514a0cc214e017c41eacc46eea1936d2724b4bcd88469a1324f6eaa8c46",
+    "bytes": 4005
+  },
+  {
+    "path": "Scenes/S07_Monumental-Precision_v004.blend",
+    "sha256": "c124fdead7919e077dd9f5bc24a09e785bc34d3ad5388e376b0a97e5c4d88a3c",
+    "bytes": 19370291
+  },
+  {
+    "path": "Scripts/finalize.py",
+    "sha256": "63f01298c5dd2a8441754e77fcc0795731a862bd29d9a7fa4fa4c05d97eead81",
+    "bytes": 4554
+  },
+  {
+    "path": "Scripts/package.py",
+    "sha256": "56abe1b4ee164fd087b0247f04bb233b6678c4b8cf75e6f9f71ca6c781d7d8f1",
+    "bytes": 3767
+  },
+  {
+    "path": "Scripts/publish_records.py",
+    "sha256": "2c631ea6a229ab16c29d0230157d954747ca95c14ea366dfd433662f82f33726",
+    "bytes": 2098
+  },
+  {
+    "path": "Scripts/render.py",
+    "sha256": "7e845a143334a119ee79bc33cf9799e44531cde171b87f4407460e81d8911386",
+    "bytes": 864
+  },
+  {
+    "path": "Scripts/revise.py",
+    "sha256": "1a5c82590a0672a7e1a8f9a22b31327cc88d50add9b2f6d02978863f56328419",
+    "bytes": 3987
+  },
+  {
+    "path": "Scripts/survey.py",
+    "sha256": "19df14d18f8484d0f17c6ee9c1f1e34e85b2ac157d4af02b167853725ebab348",
+    "bytes": 1267
+  },
+  {
+    "path": "Scripts/verify.py",
+    "sha256": "db2cfe4e697c5f95b3c4c5071455f12a3efebbef551ed52ecf527ec035b96893",
+    "bytes": 5127
+  },
+  {
+    "path": "Previews/Checks/0036.png",
+    "sha256": "51019c0d37e236b1a99383befa7aa0560f6b9d714b01b4623714904cf55dee53",
+    "bytes": 1227137
+  },
+  {
+    "path": "Previews/Checks/0052.png",
+    "sha256": "9c9bf7d6899d629cc63d376aff67ead6d86d89d1d2c896bd3fca02bf0b8e0755",
+    "bytes": 1166949
+  },
+  {
+    "path": "Previews/Checks/0068.png",
+    "sha256": "c4aa5af6a9ffc93db4e6f19493a2632cbf512d43840e423f1dc6a8728cb63994",
+    "bytes": 1136476
+  },
+  {
+    "path": "Previews/Checks/0084.png",
+    "sha256": "a02f483185b67dfe669e18a7a18a8dd192bab050a64584c9867aa4e8d882b6a6",
+    "bytes": 1134816
+  },
+  {
+    "path": "Previews/Checks/0100.png",
+    "sha256": "08b630dda7f1c8bde71ba533fb465debc1e54790b73e978b9feb068b7e897414",
+    "bytes": 1076111
+  },
+  {
+    "path": "Previews/Checks/0114.png",
+    "sha256": "66c25275901c0c5baf4c5052586190bd29e22fdce7ba4a4bde43eb1fe68a0869",
+    "bytes": 1021841
+  },
+  {
+    "path": "Previews/Checks/0132.png",
+    "sha256": "3bad1001a043fcd908953385a5404377f2cdc16da7d14b3926469f98ce6f55d8",
+    "bytes": 992076
+  },
+  {
+    "path": "Previews/Checks/0160.png",
+    "sha256": "aed1f772a47ef01f0469a9a851792118dd144c41d2ae4fd725181a2709332e5b",
+    "bytes": 923043
+  },
+  {
+    "path": "Previews/Checks/0178.png",
+    "sha256": "53380d002cab73b7a5df6b86d6641970e2f4fa117d713dc85f5b5f3aac1f1a7f",
+    "bytes": 962540
+  },
+  {
+    "path": "Previews/Checks/0192.png",
+    "sha256": "681b0db9bdf5c599a351c419caa6e177fe2340736a579283b42be8eaed4dbf6e",
+    "bytes": 210612
+  },
+  {
+    "path": "Previews/Survey/rear-body.png",
+    "sha256": "ec4b17e5f0ec166ad616fbd32fc5a814ed19d52ff6d4a416dfaa16d1b5db0437",
+    "bytes": 1092581
+  },
+  {
+    "path": "Previews/Survey/rear-collar.png",
+    "sha256": "216dc2d161ffd2a6348e845912660ff381a085a215b453b8221d6c7e9328bf55",
+    "bytes": 1026754
+  },
+  {
+    "path": "Previews/Survey/rear-end.png",
+    "sha256": "15805671a3442d37b04c5e633c0a9d41aba46aec6a59915dc16963594cf88337",
+    "bytes": 1084744
+  },
+  {
+    "path": "Previews/Survey/rear-sensor.png",
+    "sha256": "070d3a5f79c543f94fcf338b7123acc746523827c3612d191a8f3b1e698ecc43",
+    "bytes": 1077454
+  },
+  {
+    "path": "Previews/Survey/rear-shoulder.png",
+    "sha256": "406177b0b2bbad0ef1178440d9ce0a1832fe84ec87d152f51d600e862ccc2e81",
+    "bytes": 950563
+  },
+  {
+    "path": "Previews/Survey/rear-wide.png",
+    "sha256": "b9dcbf4802952bcd73966282c5af85701031d5506c1f976d85f73333ac2f9f20",
+    "bytes": 983437
+  }
+]
