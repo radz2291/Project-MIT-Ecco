@@ -1,0 +1,48 @@
+{
+  "duration_seconds": 8,
+  "frames": 192,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "render_total_seconds": 191.47040910008946,
+  "render_average_seconds": 0.9972417140629659,
+  "render_max_seconds": 2.859167199989315,
+  "samples": 32,
+  "all_complete_frames_under_five_seconds": true,
+  "encode_seconds": 4.805136299983133,
+  "transition_preview_seconds": 10,
+  "transition_source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Studies\\S06_Report-Recreation_v004\\Previews\\S06_cinematic-study_v004_polished.mp4",
+  "media": {
+    "S07_Monumental-Precision_v005.mp4": {
+      "decoded_frames": 192,
+      "errors": 0,
+      "sha256": "c3621cacb670f749907e99f9065a50b4200531a85c9b294b98b67b0dceba1f3e"
+    },
+    "S06-to-S07_transition_v005.mp4": {
+      "decoded_frames": 240,
+      "errors": 0,
+      "sha256": "f23677b3b37ad4068837763c38e52e7f31466186172358105a233f176601e392"
+    },
+    "S07-A_Detail_v005.mp4": {
+      "decoded_frames": 60,
+      "errors": 0,
+      "sha256": "c5bc9e764d58f32a2522e4298d51a191edfe0cd0c183ce070d875ff9185a6a2c"
+    },
+    "S07-B_Reverse-Beauty_v005.mp4": {
+      "decoded_frames": 60,
+      "errors": 0,
+      "sha256": "9cb488df468fe1dc9fc7e833fc6ad8a865e42feae2c9b433f41f65d72ee3ef30"
+    },
+    "S07-C_Full-Hero_v005.mp4": {
+      "decoded_frames": 72,
+      "errors": 0,
+      "sha256": "fe4f1ae2f99c111718c6018cf192e2e7cb60eee142cd429eacbf1a534c14b293"
+    }
+  },
+  "new_render_seconds": 191.47040910008946,
+  "newly_rendered_frames": 192,
+  "reused_unchanged_frames": 0,
+  "review_status": "S07 v005 v002-based three-shot linear-camera edit; owner review pending"
+}

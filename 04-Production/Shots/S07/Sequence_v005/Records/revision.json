@@ -1,0 +1,15 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S07\\Sequence_v002\\Scenes\\S07_Monumental-Precision_v002.blend",
+  "source_sha256": "934269fce79447ce087c4305f123bbd37290eb9b1cf6ca683102d89ef1361ea6",
+  "frames": 192,
+  "fps": 24,
+  "cut_frames": [
+    61,
+    121
+  ],
+  "camera_motion": "Constant straight-line translation per shot; no eased starts or stops",
+  "opening": "Direct product image from frame one; old S06 plate dissolve removed",
+  "branding_removed": true,
+  "black_endpoint_frame": 190,
+  "unchanged": "Actual geometry, stationary hardware, v002 materials and light rig"
+}
