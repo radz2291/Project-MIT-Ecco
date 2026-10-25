@@ -1,0 +1,17 @@
+{
+  "prior_native_unchanged": true,
+  "reused_frames": 107,
+  "ranges": [
+    [
+      1,
+      60
+    ],
+    [
+      146,
+      192
+    ]
+  ],
+  "camera_focus_and_brand_transforms_identical": true,
+  "maximum_delta": 0.0,
+  "unchanged_geometry_lighting_materials": "Revision script modifies only camera, focus and invisible-title placement within frames61-145"
+}

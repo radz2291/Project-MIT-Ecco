@@ -1,0 +1,33 @@
+{
+  "duration_seconds": 8,
+  "frames": 192,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "render_total_seconds": 252.0606527996424,
+  "render_average_seconds": 1.3128158999981376,
+  "render_max_seconds": 3.2747416999773122,
+  "samples": 32,
+  "all_complete_frames_under_five_seconds": true,
+  "encode_seconds": 3.6692391999822576,
+  "transition_preview_seconds": 10,
+  "transition_source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Studies\\S06_Report-Recreation_v004\\Previews\\S06_cinematic-study_v004_polished.mp4",
+  "media": {
+    "S07_Monumental-Precision_v002.mp4": {
+      "decoded_frames": 192,
+      "errors": 0,
+      "sha256": "2696b3838a82dec37b4f890d00e7bea6de0b3f083a2cb318cd35b359ec9a55ad"
+    },
+    "S06-to-S07_transition_v002.mp4": {
+      "decoded_frames": 240,
+      "errors": 0,
+      "sha256": "9fdcc381ad0356dd3ed9f177b8b92f5a887b6b04110b2a8a0fe8f07c4616ca55"
+    }
+  },
+  "new_render_seconds": 117.73147189966403,
+  "newly_rendered_frames": 85,
+  "reused_unchanged_frames": 107,
+  "review_status": "S07 v002 adds second beauty angle; owner review pending"
+}

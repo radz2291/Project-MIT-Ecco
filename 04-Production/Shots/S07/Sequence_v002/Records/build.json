@@ -1,0 +1,19 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+  "source_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+  "s06_plate_sha256": "1f69158362c02d2bf7e44b8148731c2b042d0d23683d07a6b662f9e71fce13ed",
+  "frames": 192,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "geometry_policy": "Mesh vertices and topology unchanged; object material overrides only",
+  "product_motion": "Stationary",
+  "graphic_copy": [
+    "ECCO ENP3",
+    "MIT LOGO"
+  ],
+  "render_engine": "BLENDER_EEVEE",
+  "samples": 32
+}

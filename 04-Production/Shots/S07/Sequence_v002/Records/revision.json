@@ -1,0 +1,22 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S07\\Sequence_v001\\Scenes\\S07_Monumental-Precision_v001.blend",
+  "source_sha256": "918fe67eada90627d076b6886a81a290c947f278bff13197f6e55a6a5184112b",
+  "changed_frames": [
+    61,
+    145
+  ],
+  "reused_frames": [
+    [
+      1,
+      60
+    ],
+    [
+      146,
+      192
+    ]
+  ],
+  "duration_seconds": 8,
+  "purpose": "Add a reverse three-quarter pad beauty close-up before the full-product reveal",
+  "hardware_material_lighting_changes": false,
+  "deliberate_cut_frame": 61
+}

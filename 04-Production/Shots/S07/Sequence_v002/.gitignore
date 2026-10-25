@@ -1,0 +1,6 @@
+/Scenes/
+/Previews/
+/Cache/
+/Graphics/*.png
+/Records/*.log
+/Records/sync-verification.json
