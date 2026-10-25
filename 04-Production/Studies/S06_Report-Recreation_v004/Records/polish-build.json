@@ -1,0 +1,68 @@
+{
+  "source_sha256": "29d1d97daa2dda4a4be360707b9ede319d268b8beb941d0b6d2c4dcb78c6c9dd",
+  "source_preserved": true,
+  "before": {
+    "max_position_second_difference": 0.11648000525840471,
+    "max_rotation_step_degrees": 2.314925959971358,
+    "BC_max_position_step": 0.34630290727608304
+  },
+  "after": {
+    "max_position_second_difference": 0.032111054316695906,
+    "max_rotation_step_degrees": 1.9620889959295402,
+    "BC_max_position_step": 0.2848223603911545
+  },
+  "fade_schedule": {
+    "paper": [
+      228,
+      242
+    ],
+    "graphics": [
+      232,
+      246
+    ],
+    "hardware": [
+      234,
+      250
+    ],
+    "environment": [
+      238,
+      258
+    ]
+  },
+  "materials_by_group": {
+    "paper": [
+      "C panels",
+      "C pearl"
+    ],
+    "graphics": [
+      "C blue",
+      "C grid",
+      "C ink",
+      "C secondary",
+      "C | same geometry reconstruction material"
+    ],
+    "hardware": [
+      "Keyboard",
+      "Keyboard markings",
+      "Laptop graphite",
+      "Screen bezel"
+    ],
+    "environment": [
+      "Desk",
+      "Office background"
+    ]
+  },
+  "changes": [
+    "Smooth automatic framing distance corrections",
+    "Camera follows changing map size during report handoff",
+    "Clear non-docking reconstruction guides before map transfer",
+    "Report paper, graphics, laptop, environment reveal in order"
+  ],
+  "preserved": [
+    "Geometry",
+    "Field colors and sample IDs",
+    "Opening and report-match shape animation",
+    "Source hardware",
+    "Duration and final camera frame"
+  ]
+}

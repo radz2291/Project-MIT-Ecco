@@ -1,6 +1,14 @@
 # S06 — v004 working A–B–C cinematic study
 
-**Current review candidate:** `Previews/S06_cinematic-study_v004.mp4`, with editable `Scenes/S06_cinematic-study_v004.blend`. The owner accepted the Part A environment for now and requested the animation render. This advances the same v004 working study to 12 seconds at 24 fps, without replacing its approved still native or earlier versions. Animation approval and final-film assembly remain with the owner.
+**Current review candidate:** `Previews/S06_cinematic-study_v004_polished.mp4`, with editable `Scenes/S06_cinematic-study_v004_polished.blend`. The owner liked the complete animation and requested autonomous review and correction of rough transitions. The original `S06_cinematic-study_v004.mp4` and its native remain intact for comparison. This stays within the same v004 study, 12 seconds at 24 fps. Revised animation approval and final-film assembly remain with the owner.
+
+## Scoped transition refinement
+
+Actual camera samples and the prior rendered frames exposed irregular distance corrections during A→B, a rapid push-in while the map changed size during B→C, and a reconstruction guide grid that remained at its old coordinates as the colored map moved into the laptop. These were presentation problems; no engineering geometry needed correction.
+
+`Scripts/polish_transitions.py` smooths the existing camera path over a short time window, coordinates camera distance with the changing map size, and keeps the same final camera pose. The guide grid clears before the map transfer, then report paper, supporting graphics, laptop hardware and room appear in sequence. Camera smoothing reduces maximum positional second difference from approximately 0.1165 to 0.0321 scene units per frame squared; this is a motion diagnostic, not independent viewer acceptance. Geometry, topology, sample colors, all 288 geometry/amplitude shape states, text inventory and duration are verified unchanged. Every-frame boundary checks cover frames 120–236. The steel fade also uses depth-correct dithered transparency to prevent internal surfaces flashing through. The sample schedule is 16 normally, 32 during frames 90–144 and 48 during frames 228–258; this is keyed in the editable native and checked against the strict render cap. Frames 1–144 were rerendered after consecutive-frame review exposed the steel sorting issue; the initial pass timing record is retained.
+
+The current delivery and timings are in `Records/polish-delivery.json`; source preservation and actual changes are in `polish-build.json`; saved-native and framing evidence are in `polish-verification.json`. Dense A→B and B→C review sheets accompany the clean MP4. Live Work remained revision 747 with no S06-specific ticket, so this is directly owner-authorized refinement, not a change to unrelated task statuses. The live Blender v001 scene was dirty and left untouched. Earlier source limitations and anonymous illustrative-report safeguards continue to apply.
 
 ## Animation execution — 25 October 2026
 

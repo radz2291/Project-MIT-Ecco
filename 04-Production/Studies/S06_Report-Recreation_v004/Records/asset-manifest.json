@@ -6,8 +6,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 12336,
-    "sha256": "6d33897508f5d53acb130d79f58ec80d465bae897209dd9896c3d4b2968fca3f"
+    "bytes": 14564,
+    "sha256": "cbffbc36aff900b066a7039f641127d72a36cad6f6dee7c24e0ee3eab59ed31f"
   },
   {
     "path": "Data/story_field.npz",
@@ -50,9 +50,29 @@
     "sha256": "531217c5b54fc781b76a34d99925c3ea4b118d12c6c800e7b93ad19354c87a21"
   },
   {
+    "path": "Previews/S06_cinematic-study_v004_polished.mp4",
+    "bytes": 6097041,
+    "sha256": "b1af840ef30a7862b31801b1b12c360487412bd60b20b6e5ab449dd5a3de13fe"
+  },
+  {
     "path": "Previews/S06_C_v004.png",
     "bytes": 1057145,
     "sha256": "8a2f630bf44589f3f843b2edbcffac4d4bbb8d0e87e4af7ef99a5c167dc353b6"
+  },
+  {
+    "path": "Previews/S06_polished-AB-consecutive.jpg",
+    "bytes": 193414,
+    "sha256": "98a44b14fc8cdf826f2f0a22539183c7fe76cbae465a5247d36a4013b2b5da31"
+  },
+  {
+    "path": "Previews/S06_polished-BC-consecutive.jpg",
+    "bytes": 166871,
+    "sha256": "9aebbb2ea91b2d17586b5c386a993ed04f723a9e6f248a2cf44627ceff5951ec"
+  },
+  {
+    "path": "Previews/S06_polished-transition-review.jpg",
+    "bytes": 276540,
+    "sha256": "f2098e47a2ba90bc700b6bff8e9c396f5eea91e72b8d444537c9909c86f281ab"
   },
   {
     "path": "Previews/S06_report-recreation_v004.png",
@@ -105,6 +125,46 @@
     "sha256": "a581b0342e07bb23c4287e84bca86d1e03032f504b3a83a287412b8c9910d16f"
   },
   {
+    "path": "Records/polish-benchmark.json",
+    "bytes": 1110,
+    "sha256": "0886cf3d4b8659b2b8d14afcfc76d793e32edd7b6137fcbb7dca6eb07c0adc7a"
+  },
+  {
+    "path": "Records/polish-build.json",
+    "bytes": 1612,
+    "sha256": "567319cd0c13a39fdbb5399e42e9cd561c3d5c95b513b07324fcf8bf01dbf67e"
+  },
+  {
+    "path": "Records/polish-camera-score.json",
+    "bytes": 58416,
+    "sha256": "4dc315bdb697afb45c364474ef766136e70f679a700f75dbcb45e8fc5f47cce8"
+  },
+  {
+    "path": "Records/polish-decoded-frames.md5",
+    "bytes": 23553,
+    "sha256": "c94c202a92ef6db603df5e319fcc16338875206d887812f846d9416804ec97bd"
+  },
+  {
+    "path": "Records/polish-delivery.json",
+    "bytes": 749,
+    "sha256": "1b55220d22a5f9aa938d8f3c22ea63e6d6d00806e477dae0410ac6cb2074982e"
+  },
+  {
+    "path": "Records/polish-first-pass-timings.json",
+    "bytes": 24363,
+    "sha256": "96d01aa6857569563623add35edb019e253be75f42eb17947ac90681898bf8bc"
+  },
+  {
+    "path": "Records/polish-render-timings.json",
+    "bytes": 24351,
+    "sha256": "5b73eabc3d364b53d8d04cb258d110c6570201808affa67fde471d510a487aca"
+  },
+  {
+    "path": "Records/polish-verification.json",
+    "bytes": 25171,
+    "sha256": "f3fc9c662a5c13cc0f5ab11637cb7afb4c896e603cdaa9d368a01c58d926001d"
+  },
+  {
     "path": "Records/saved-verification.json",
     "bytes": 702,
     "sha256": "635e4312b905386f8f4b4b9b274be40fc9f04fd2aad1cf97dfaa08da8ef408d3"
@@ -133,6 +193,11 @@
     "path": "Scenes/S06_cinematic-study_v004.blend",
     "bytes": 27282054,
     "sha256": "29d1d97daa2dda4a4be360707b9ede319d268b8beb941d0b6d2c4dcb78c6c9dd"
+  },
+  {
+    "path": "Scenes/S06_cinematic-study_v004_polished.blend",
+    "bytes": 25308803,
+    "sha256": "7f2a0086992be7c12c0896505d6fafbc42d82c7967a89ef9686f885bb06374a3"
   },
   {
     "path": "Scenes/S06_report-recreation_v004.blend",
@@ -185,9 +250,19 @@
     "sha256": "216896358930957138b16dcced92a6f295e8fc8ea2e92477a6a76ffd032a8af8"
   },
   {
+    "path": "Scripts/package_polish.py",
+    "bytes": 3263,
+    "sha256": "3db89328558a05624be4bfc638f067543b1a82fb1bfa64d2c018ee3047426080"
+  },
+  {
     "path": "Scripts/package_story.py",
     "bytes": 1589,
     "sha256": "b705e742c7fc9fad90f5d48949a0c50d7a097792b27d60c8b3796d89a804a739"
+  },
+  {
+    "path": "Scripts/polish_transitions.py",
+    "bytes": 6685,
+    "sha256": "2c581def48b8d7f348fe25c079a9b898e10bad44357ddeabda92e46846f32e61"
   },
   {
     "path": "Scripts/render_animation.py",
@@ -195,9 +270,19 @@
     "sha256": "8652827964761cf6be093cdc70dc0220c80b244511acd22a28d4ec727be22f77"
   },
   {
+    "path": "Scripts/render_polish.py",
+    "bytes": 1291,
+    "sha256": "15ac5fac59ae99dc96777363393cba972fa72679343e5282200653431a8cc86f"
+  },
+  {
     "path": "Scripts/verify_animation.py",
     "bytes": 4268,
     "sha256": "fa8c11a323e270c65e2fca7dbb5560a6bf267b84ecebd56aae8261a24151baea"
+  },
+  {
+    "path": "Scripts/verify_polish.py",
+    "bytes": 3230,
+    "sha256": "e2b71f1d33f3cc2055cff5ae5c8b1f0fcfbf36a1c9ea4ee22e2ee26561e55b74"
   },
   {
     "path": "Scripts/verify_saved.py",
@@ -273,5 +358,70 @@
     "path": "Previews/Animation-checks/0276.png",
     "bytes": 1040330,
     "sha256": "9135ce3d9dfd1a913cb9ad28e5fe4a096415b653acd3e8abb05ae8bf97ab2f68"
+  },
+  {
+    "path": "Previews/Polish-checks/0090.png",
+    "bytes": 1611038,
+    "sha256": "0bbb7157a39f66cb714d3723a6c2d3783f136cc8731cb1ed0acdb3d6eb65aa24"
+  },
+  {
+    "path": "Previews/Polish-checks/0100.png",
+    "bytes": 1468163,
+    "sha256": "1b4c346c8d2ca412e65a3862713e13eaf26ab06247617af45501f6081e9d4a4b"
+  },
+  {
+    "path": "Previews/Polish-checks/0108.png",
+    "bytes": 1339718,
+    "sha256": "51b221c73bfec3b4e2879a8afb2b0ab4bc06d6e09543d041c7c37c0d33b35386"
+  },
+  {
+    "path": "Previews/Polish-checks/0120.png",
+    "bytes": 1107428,
+    "sha256": "030c87e22d1e65b1f37a2dfe8db3b4832cc8bd2d98c8ef7b7ab8362f2011620b"
+  },
+  {
+    "path": "Previews/Polish-checks/0145.png",
+    "bytes": 1012587,
+    "sha256": "a295d51752799edee3db3640bc9dcc6ad3420b6426f85d35d993ad61cd712241"
+  },
+  {
+    "path": "Previews/Polish-checks/0172.png",
+    "bytes": 1055679,
+    "sha256": "d15b428f5e89879c951d75028d6bb9cb74d38e057afddde6588a8769cb170c6a"
+  },
+  {
+    "path": "Previews/Polish-checks/0192.png",
+    "bytes": 1080355,
+    "sha256": "df99c596202a6511853b4ca617544ce62deeb00f1a9558d243f9ab9545a2962d"
+  },
+  {
+    "path": "Previews/Polish-checks/0204.png",
+    "bytes": 978633,
+    "sha256": "66c29df855395968495bcb5760e776c5aa542ed6caa80402434c66c00684bd36"
+  },
+  {
+    "path": "Previews/Polish-checks/0216.png",
+    "bytes": 911801,
+    "sha256": "f1eab9a63a1a02495041d242a7932d667fd4ae079e4473d8ff25f6a085821540"
+  },
+  {
+    "path": "Previews/Polish-checks/0228.png",
+    "bytes": 918718,
+    "sha256": "d5aeb141634ac40666deca7e845e4a9327d41928bee5fdc6d58100b8e1cf4b25"
+  },
+  {
+    "path": "Previews/Polish-checks/0240.png",
+    "bytes": 1152023,
+    "sha256": "6e7a6fefcf9038f33180bee52dfdb2884aea6b3ddeb09822d8814eb346bd1abe"
+  },
+  {
+    "path": "Previews/Polish-checks/0260.png",
+    "bytes": 1039190,
+    "sha256": "7d7d5b4a00554f2a56459ef394c5c1f59cf90e6defcf336d0a732650bb138b2c"
+  },
+  {
+    "path": "Previews/Polish-checks/0288.png",
+    "bytes": 1040261,
+    "sha256": "5f39f65e6ec3c78315f7ef4718fc8eabc9e9435b6ae4a678b986864ea88f993f"
   }
 ]

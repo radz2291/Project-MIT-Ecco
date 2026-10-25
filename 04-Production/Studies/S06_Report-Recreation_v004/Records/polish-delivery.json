@@ -1,0 +1,21 @@
+{
+  "duration_seconds": 12,
+  "frames": 288,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "render_seconds": 385.3965800998849,
+  "mean_frame_seconds": 1.338182569791267,
+  "maximum_frame_seconds": 3.11891019999166,
+  "all_frames_under_five_seconds": true,
+  "samples": "16 normally; 32 at frames 90-144; 48 at frames 228-258, saved as native keys",
+  "encoding_seconds": 5.26033349998761,
+  "full_decode_frames": 288,
+  "decode_errors": 0,
+  "movie_sha256": "b1af840ef30a7862b31801b1b12c360487412bd60b20b6e5ab449dd5a3de13fe",
+  "original_movie_preserved": true,
+  "review": "Scoped transition refinement; awaiting owner playback review.",
+  "total_batch_render_seconds_including_steel_fade_repair": 576.4797799997614
+}
