@@ -1,6 +1,7 @@
 {
   "recovery_root": "D:\\MIT-ECCO-Render-Recovery\\S07-Monumental-Precision_v006",
-  "files_verified": 40,
+  "files_verified": 44,
   "same_machine_only": true,
-  "cache_included": false
+  "cache_included": false,
+  "status": "Owner-approved v006 closure"
 }

@@ -7,4 +7,6 @@ The approved first two shots from v005 are preserved exactly. Only shot 3 change
 - [Editable Blender source](Scenes/S07_Monumental-Precision_v006.blend)
 - [Production report](Records/production-report.md)
 
-Eight seconds / three shots. No logo or opening fade. Product stationary; camera moves. Earlier versions preserved. Updated ending awaits owner review. Heavy files remain local with a same-machine recovery copy.
+Eight seconds / three shots. No logo or opening fade. Product stationary; camera moves. Earlier versions preserved. Owner approved v006 on 25 October 2026; this section is closed. Heavy files remain local with a same-machine recovery copy.
+
+[Approval record](Records/owner-approval_2026-10-25.md) | [Closure verification](Records/closure-verification.json)

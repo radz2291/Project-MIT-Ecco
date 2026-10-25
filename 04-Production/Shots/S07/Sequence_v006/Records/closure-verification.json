@@ -1,0 +1,123 @@
+{
+  "status": "Owner-approved S07 cinematic previs; closed",
+  "approval_date": "2026-10-25",
+  "timezone": "Asia/Kuala_Lumpur",
+  "owner_statement": "ok good.. approve.. pls wrap and do closure",
+  "selected_movie": "Previews/S07_Monumental-Precision_v006.mp4",
+  "selected_native": "Scenes/S07_Monumental-Precision_v006.blend",
+  "implementation_commit": "0862c6fb05fa6e86ecd8524cb25f1ca5b277b6f0",
+  "closure_verified_at": "2026-10-25T22:56:51.675175+08:00",
+  "artifacts": [
+    {
+      "path": "Scenes/S07_Monumental-Precision_v006.blend",
+      "sha256": "62cc6fefc08b75a2506ba8c13297c1a5bcfef2a41d079dd42f1f3584edf2c548",
+      "bytes": 18323406,
+      "recovery_sha256_matches": true
+    },
+    {
+      "path": "Previews/S07_Monumental-Precision_v006.mp4",
+      "sha256": "a4edbb3a896f054a2b7b30d22a4d35a1bac228442a64e7871faaf0f6a8c93bb4",
+      "bytes": 1373472,
+      "recovery_sha256_matches": true
+    },
+    {
+      "path": "Previews/S06-to-S07_transition_v006.mp4",
+      "sha256": "05db2a16f3d2f9e61274f8f868f471a1125b7a83c5378f91e311c25d756e4a92",
+      "bytes": 1923878,
+      "recovery_sha256_matches": true
+    },
+    {
+      "path": "Previews/Individual-Shots/S07-A_Detail_v006.mp4",
+      "sha256": "c5bc9e764d58f32a2522e4298d51a191edfe0cd0c183ce070d875ff9185a6a2c",
+      "bytes": 593102,
+      "recovery_sha256_matches": true
+    },
+    {
+      "path": "Previews/Individual-Shots/S07-B_Reverse-Beauty_v006.mp4",
+      "sha256": "9cb488df468fe1dc9fc7e833fc6ad8a865e42feae2c9b433f41f65d72ee3ef30",
+      "bytes": 428601,
+      "recovery_sha256_matches": true
+    },
+    {
+      "path": "Previews/Individual-Shots/S07-C_Full-Hero_v006.mp4",
+      "sha256": "ede151f61e7b2fc135bcc5be79b9b65ac93dbff9739321fd99c1f452de3ee36b",
+      "bytes": 335117,
+      "recovery_sha256_matches": true
+    }
+  ],
+  "fresh_decode_checks": [
+    {
+      "path": "Previews/S07_Monumental-Precision_v006.mp4",
+      "fresh_decode_frames": 192,
+      "decode_errors": 0
+    },
+    {
+      "path": "Previews/S06-to-S07_transition_v006.mp4",
+      "fresh_decode_frames": 240,
+      "decode_errors": 0
+    },
+    {
+      "path": "Previews/Individual-Shots/S07-A_Detail_v006.mp4",
+      "fresh_decode_frames": 60,
+      "decode_errors": 0
+    },
+    {
+      "path": "Previews/Individual-Shots/S07-B_Reverse-Beauty_v006.mp4",
+      "fresh_decode_frames": 60,
+      "decode_errors": 0
+    },
+    {
+      "path": "Previews/Individual-Shots/S07-C_Full-Hero_v006.mp4",
+      "fresh_decode_frames": 72,
+      "decode_errors": 0
+    }
+  ],
+  "saved_native_freshly_reopened_and_verified": true,
+  "source_geometry_unchanged": true,
+  "first_two_shots_preserved": true,
+  "work_workspace_revision": 747,
+  "matching_work_ticket": null,
+  "work_action": "No S07 ticket exists; direct owner-authorized closure, unrelated tickets untouched",
+  "previous_versions": [
+    {
+      "version": "v001",
+      "native_exists": true,
+      "movie_exists": true,
+      "selected": false
+    },
+    {
+      "version": "v002",
+      "native_exists": true,
+      "movie_exists": true,
+      "selected": false
+    },
+    {
+      "version": "v003",
+      "native_exists": true,
+      "movie_exists": true,
+      "selected": false
+    },
+    {
+      "version": "v004",
+      "native_exists": true,
+      "movie_exists": true,
+      "selected": false
+    },
+    {
+      "version": "v005",
+      "native_exists": true,
+      "movie_exists": true,
+      "selected": false
+    },
+    {
+      "version": "v006",
+      "native_exists": true,
+      "movie_exists": true,
+      "selected": true
+    }
+  ],
+  "recovery_root": "D:\\MIT-ECCO-Render-Recovery\\S07-Monumental-Precision_v006",
+  "recovery_type": "Hash-verified same-machine D-drive copy; not off-machine backup",
+  "media_remote_upload": false,
+  "scope": "Owner approval of S07 v006 previs; logo insertion, audio, film assembly and client delivery remain with Radzi. No engineering certification or client approval inferred."
+}
