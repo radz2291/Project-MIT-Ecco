@@ -1,0 +1,202 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "f1869378abebf996f7379d015b9acc0863c304a27515280c128800269d23cca8",
+    "bytes": 75
+  },
+  {
+    "path": "README.md",
+    "sha256": "5bdb6b3af0266c3001fb2c7863e4a5d7da696aa4eec9dbda50d72072f134ed78",
+    "bytes": 758
+  },
+  {
+    "path": "scene-direction-contract.md",
+    "sha256": "9a8f4e8514b05b6ef68698b435d02419b153f403491cf5c1184036e42d5e7a34",
+    "bytes": 2129
+  },
+  {
+    "path": "Previews/S06-to-S07_transition_v006.mp4",
+    "sha256": "05db2a16f3d2f9e61274f8f868f471a1125b7a83c5378f91e311c25d756e4a92",
+    "bytes": 1923878
+  },
+  {
+    "path": "Previews/S07_cut-review.jpg",
+    "sha256": "04f36ccc7d878db8ea55238a54a628267cf06e2be18b36a9409a624fe7c28d23",
+    "bytes": 115605
+  },
+  {
+    "path": "Previews/S07_final-product-hero_v006.png",
+    "sha256": "58c1cbed33fe00e2fc01319ad5888efe44cfb8b597d66b7af7c88813de13cbb4",
+    "bytes": 902477
+  },
+  {
+    "path": "Previews/S07_Monumental-Precision_v006.mp4",
+    "sha256": "a4edbb3a896f054a2b7b30d22a4d35a1bac228442a64e7871faaf0f6a8c93bb4",
+    "bytes": 1373472
+  },
+  {
+    "path": "Previews/S07_motion-review.jpg",
+    "sha256": "bea80955ae3de8bbd5106efc112dc95af4a17d47c1cf7c9d89dbc17eefdfe54f",
+    "bytes": 280700
+  },
+  {
+    "path": "Previews/S07_second-beauty_v006.png",
+    "sha256": "4b4fbdcf0aca05faa8497d6eb6f8f9453f848638f24a2ece66a264d0cf27119a",
+    "bytes": 1071202
+  },
+  {
+    "path": "Previews/S07_sequence-review.jpg",
+    "sha256": "481a42fd08788d8d13bc9c3854383cf669e07bff8f166d0c7c14c3bb2a1d6751",
+    "bytes": 176966
+  },
+  {
+    "path": "Records/benchmark.json",
+    "sha256": "3dd506866572f0d56d466825fba62034028635d1421245cd5268ac85a4f6cee7",
+    "bytes": 521
+  },
+  {
+    "path": "Records/camera-score.json",
+    "sha256": "6a7fbdfbc40eb8abeacdba25bc32ec0190d5a0bff5c435811a3770cf4bae459c",
+    "bytes": 87429
+  },
+  {
+    "path": "Records/delivery.json",
+    "sha256": "8ae7bd229211bc7d8088f188a45ff00a8a7049d785ac4f3cb705cdada4a1046d",
+    "bytes": 1686
+  },
+  {
+    "path": "Records/production-report.md",
+    "sha256": "24ae6173897caa61bbc3c6f697388f93f145beaef110afacdeeed55268cd2e1a",
+    "bytes": 2716
+  },
+  {
+    "path": "Records/render-timings.json",
+    "sha256": "7e62173b1e0c1fc000a453e115a0e4c515155ad0b0ce306ea23196987285bf4b",
+    "bytes": 15711
+  },
+  {
+    "path": "Records/revision.json",
+    "sha256": "1902f96dbc12adb231de1d9e0cbaa04b6bd2fde411062a27aac1542e129734f2",
+    "bytes": 638
+  },
+  {
+    "path": "Records/S06-to-S07_transition_v006-frames.md5",
+    "sha256": "490b8445b7351868081f7373ccebc2fabb7ff50a5805d85d5ce7ec5cee77f817",
+    "bytes": 19665
+  },
+  {
+    "path": "Records/S07-A_Detail_v006-frames.md5",
+    "sha256": "6dc2d3c271aadf2b57da207ec8c2c9ac6e8e55a0e381c818f1a8894cfc44780c",
+    "bytes": 5085
+  },
+  {
+    "path": "Records/S07-B_Reverse-Beauty_v006-frames.md5",
+    "sha256": "469069609485112103562dcba8a8a910bfe576a516693595a5f4bcc3cb8dafce",
+    "bytes": 5085
+  },
+  {
+    "path": "Records/S07-C_Full-Hero_v006-frames.md5",
+    "sha256": "ef0c9b4cf0b929287baafa1d61d720bf15dc539ae91b4b28d52d3cf882265f74",
+    "bytes": 6057
+  },
+  {
+    "path": "Records/S07_Monumental-Precision_v006-frames.md5",
+    "sha256": "8a48ac11653b15f0da8577aa936ec8b10e9282daf54538f4e0f85ba86dbf12c4",
+    "bytes": 15777
+  },
+  {
+    "path": "Records/verification.json",
+    "sha256": "dc74046a238f44af6eaaf0c9ee16ddf50a9f8d540fda25e826bddd80530f372b",
+    "bytes": 5907
+  },
+  {
+    "path": "Scenes/S07_Monumental-Precision_v006.blend",
+    "sha256": "62cc6fefc08b75a2506ba8c13297c1a5bcfef2a41d079dd42f1f3584edf2c548",
+    "bytes": 18323406
+  },
+  {
+    "path": "Scripts/finalize.py",
+    "sha256": "f1d5af5b4d1492534dfb65098ac7fe80e19ed840f739c8ff17d5ad7c3613fbbd",
+    "bytes": 4516
+  },
+  {
+    "path": "Scripts/package.py",
+    "sha256": "6be92ce1100214cbdff35b7877802e108c094a87f4b867045d18dc4539d98744",
+    "bytes": 4411
+  },
+  {
+    "path": "Scripts/publish_records.py",
+    "sha256": "4834a2235924d3c3de6edf40749197cca682b9b84a5c14b5c5d928a36d1154d2",
+    "bytes": 2121
+  },
+  {
+    "path": "Scripts/render.py",
+    "sha256": "a0b9c16fde805ac1e045de4c31767e000eb1182abe0ff89ce5faa503c616a908",
+    "bytes": 1231
+  },
+  {
+    "path": "Scripts/revise.py",
+    "sha256": "13c4b6c55fb2dbc558d2634e2be328a837a4a5870dede9ce0ca3380a09f7b3c5",
+    "bytes": 2887
+  },
+  {
+    "path": "Scripts/verify.py",
+    "sha256": "1118678917de2ea7eba192f206f06ec00174b76b5baa79008fc7c23596673f8f",
+    "bytes": 5839
+  },
+  {
+    "path": "Previews/Checks/0121.png",
+    "sha256": "9ab63a91045ed69f7495f79b6d373f5b0d63476bed41cf64078a8e43b1ec528d",
+    "bytes": 1063480
+  },
+  {
+    "path": "Previews/Checks/0128.png",
+    "sha256": "0b82215724dbadf7b0d045d3a0210bb163eabb56d61dee78bbe93b324ddee19b",
+    "bytes": 1011087
+  },
+  {
+    "path": "Previews/Checks/0136.png",
+    "sha256": "5dd8431e39f2d8f327676db54440469afb76c15dc51a444939f1c671b0ccb647",
+    "bytes": 957663
+  },
+  {
+    "path": "Previews/Checks/0148.png",
+    "sha256": "de396e4ce10508be9d690bd44c09a253bb994f76e30be80109192cdc4bea110f",
+    "bytes": 911742
+  },
+  {
+    "path": "Previews/Checks/0156.png",
+    "sha256": "3b2f275e875d58392647b556617068831f14452bca1d5cabcf6ec109a23f90b9",
+    "bytes": 903456
+  },
+  {
+    "path": "Previews/Checks/0164.png",
+    "sha256": "f148d0575304e112197251df4eeb5d2f1864a22ccf89fb3f7eabf3c8547a03cc",
+    "bytes": 902158
+  },
+  {
+    "path": "Previews/Checks/0184.png",
+    "sha256": "1303b449b4758549b805e5222595a6e6be849bdf6d52025e65d3632512842cce",
+    "bytes": 922743
+  },
+  {
+    "path": "Previews/Checks/0192.png",
+    "sha256": "bb8cc8644a8dab7fe93e359667b8a9cc99b840c65d8aff51349eac714cf151ab",
+    "bytes": 210612
+  },
+  {
+    "path": "Previews/Individual-Shots/S07-A_Detail_v006.mp4",
+    "sha256": "c5bc9e764d58f32a2522e4298d51a191edfe0cd0c183ce070d875ff9185a6a2c",
+    "bytes": 593102
+  },
+  {
+    "path": "Previews/Individual-Shots/S07-B_Reverse-Beauty_v006.mp4",
+    "sha256": "9cb488df468fe1dc9fc7e833fc6ad8a865e42feae2c9b433f41f65d72ee3ef30",
+    "bytes": 428601
+  },
+  {
+    "path": "Previews/Individual-Shots/S07-C_Full-Hero_v006.mp4",
+    "sha256": "ede151f61e7b2fc135bcc5be79b9b65ac93dbff9739321fd99c1f452de3ee36b",
+    "bytes": 335117
+  }
+]

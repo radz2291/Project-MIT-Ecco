@@ -1,0 +1,22 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S07\\Sequence_v005\\Scenes\\S07_Monumental-Precision_v005.blend",
+  "source_sha256": "92bbe8804aece5a2b5d0445b91cb600e255da64497f8a8e8a7eb597180929ee8",
+  "changed_frames": [
+    121,
+    192
+  ],
+  "unchanged_frames": [
+    1,
+    120
+  ],
+  "duration": 8,
+  "frames": 192,
+  "cut_frames": [
+    61,
+    121
+  ],
+  "third_shot": "Linear moving entry for first eight frames, strong pullback easing into slow hero drift",
+  "source_geometry_material_lighting_changes": false,
+  "branding_removed": true,
+  "black_endpoint_frame": 190
+}

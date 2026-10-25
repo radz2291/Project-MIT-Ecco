@@ -1,0 +1,164 @@
+{
+  "saved_native_reopened": true,
+  "native_sha256": "62cc6fefc08b75a2506ba8c13297c1a5bcfef2a41d079dd42f1f3584edf2c548",
+  "source_unchanged": true,
+  "v005_native_unchanged": true,
+  "S06_approved_artifacts_unchanged": true,
+  "geometry": {
+    "ECCO_HOUSING_SOURCE_MESH": {
+      "vertices": 348876,
+      "faces": 697805,
+      "vertex_sha256": "8fdbba227e8c46a9520e1cc8fb4cd270d6486ed0a58781efea5f7ee2116ebc9b",
+      "topology_sha256": "f3ed8be73f27408de133beaaebd844b798818ee2431d39f73c1673850287f78e"
+    },
+    "TEMP | Imaging port 1 | removable acoustic cap": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "b041725680e39143cdc690293cad3f5bbf8518752c2762e8409b964305a6c744",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    },
+    "TEMP | Imaging port 2 | removable acoustic cap": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "b041725680e39143cdc690293cad3f5bbf8518752c2762e8409b964305a6c744",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    },
+    "TEMP | Imaging port 3 | removable acoustic cap": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "b041725680e39143cdc690293cad3f5bbf8518752c2762e8409b964305a6c744",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    },
+    "TEMP | Service cover 1 | removable fitted plate": {
+      "vertices": 8,
+      "faces": 6,
+      "vertex_sha256": "16313193adff7a64997ebf493a029cd702aec55cc1ea39a7c08fe46cdc371d55",
+      "topology_sha256": "df26ac34d5f990c88d39e7c442da3b2d5438b2bc40ba49c322789e2310c6ac48"
+    },
+    "TEMP | Service cover 2 | removable fitted plate": {
+      "vertices": 8,
+      "faces": 6,
+      "vertex_sha256": "16313193adff7a64997ebf493a029cd702aec55cc1ea39a7c08fe46cdc371d55",
+      "topology_sha256": "df26ac34d5f990c88d39e7c442da3b2d5438b2bc40ba49c322789e2310c6ac48"
+    },
+    "TEMP | Service cover 3 | removable fitted plate": {
+      "vertices": 8,
+      "faces": 6,
+      "vertex_sha256": "16313193adff7a64997ebf493a029cd702aec55cc1ea39a7c08fe46cdc371d55",
+      "topology_sha256": "df26ac34d5f990c88d39e7c442da3b2d5438b2bc40ba49c322789e2310c6ac48"
+    },
+    "TEMP | Service port 1 | removable metal plug": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "d8445bfdde5a41d7a811422eb435c6daf76331af692ec22b466bc4ee0087943c",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    },
+    "TEMP | Service port 2 | removable metal plug": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "d8445bfdde5a41d7a811422eb435c6daf76331af692ec22b466bc4ee0087943c",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    },
+    "TEMP | Service port 3 | removable metal plug": {
+      "vertices": 128,
+      "faces": 66,
+      "vertex_sha256": "d8445bfdde5a41d7a811422eb435c6daf76331af692ec22b466bc4ee0087943c",
+      "topology_sha256": "bd00c392d4f9bb1efe9129b042b39b28de577950cb11cc0f91ab92affd972129"
+    }
+  },
+  "all_192_frames_hardware_stationary": true,
+  "shot_motion_checks": [
+    {
+      "frames": [
+        1,
+        60
+      ],
+      "start_speed_m_per_frame": 0.00578535720912161,
+      "end_speed_m_per_frame": 0.00578535720912161,
+      "constant_translation": true,
+      "moving_on_first_interval": true
+    },
+    {
+      "frames": [
+        61,
+        120
+      ],
+      "start_speed_m_per_frame": 0.0046231312907975925,
+      "end_speed_m_per_frame": 0.004623148772186123,
+      "constant_translation": true,
+      "moving_on_first_interval": true
+    },
+    {
+      "frames": [
+        121,
+        128
+      ],
+      "start_speed_m_per_frame": 0.17409699796176914,
+      "end_speed_m_per_frame": 0.17409702291587897,
+      "constant_translation": true,
+      "moving_on_first_interval": true
+    }
+  ],
+  "cut_frames": [
+    61,
+    121
+  ],
+  "cut_interpolation_held_until_next_frame": true,
+  "second_to_third_camera_jump_m": 1.7448737543673773,
+  "first_120_camera_records_and_rendered_images_identical": true,
+  "third_shot_camera_retreat_ratio": 3.0294116899372123,
+  "pullback_is_monotonic": true,
+  "hero_drift_speed_fraction_of_entry": 0.0433568454008125,
+  "opening_is_direct_product_no_fade": true,
+  "branding_objects": 0,
+  "final_fade_to_black": true,
+  "projected_bounds": {
+    "60": {
+      "xmin": -2.138831377029419,
+      "xmax": 2.181532859802246,
+      "ymin": -2.5927584171295166,
+      "ymax": 2.718111991882324
+    },
+    "61": {
+      "xmin": -0.38360273838043213,
+      "xmax": 129.2797088623047,
+      "ymin": -67.82198333740234,
+      "ymax": 1.1742616891860962
+    },
+    "120": {
+      "xmin": -0.5276685357093811,
+      "xmax": 63.16672897338867,
+      "ymin": -2.2703158855438232,
+      "ymax": 9.289795875549316
+    },
+    "121": {
+      "xmin": -0.17510546743869781,
+      "xmax": 1.035590648651123,
+      "ymin": -0.9239464402198792,
+      "ymax": 1.5878373384475708
+    },
+    "156": {
+      "xmin": 0.31465813517570496,
+      "xmax": 0.6718329191207886,
+      "ymin": 0.06232237443327904,
+      "ymax": 0.8982992172241211
+    },
+    "160": {
+      "xmin": 0.3154861330986023,
+      "xmax": 0.6711215972900391,
+      "ymin": 0.06430879980325699,
+      "ymax": 0.8966163992881775
+    },
+    "192": {
+      "xmin": 0.32185202836990356,
+      "xmax": 0.6656357645988464,
+      "ymin": 0.07957739382982254,
+      "ymax": 0.8836524486541748
+    }
+  },
+  "minimum_camera_clearance_m": 0.5761776437169296,
+  "external_libraries": 0,
+  "all_file_images_and_fonts_packed": true,
+  "benchmark_max_seconds": 2.913823200011393,
+  "scope": "Technical and executor visual checks; owner playback review pending"
+}
