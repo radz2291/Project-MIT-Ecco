@@ -1,0 +1,10 @@
+{
+  "owner": "Radzi",
+  "date_recorded": "2026-10-25",
+  "authority": "S06 v002 Cinematic Refinement Handoff, owner section 1",
+  "reviewed": ["S06_unfolding-proof_v001.mp4", "S06_camera-report-study_v001.mp4", "V3 Section 6 storyboard"],
+  "accepted_scope": "v001 deterministic longitudinal-seam unfolding and apparent blue/red feature continuity as the working visual foundation",
+  "authorized_next_scope": "One targeted v002 cinematic revision, three arrivals, richer illustrative report, complete lightweight 12-second study",
+  "not_accepted": ["v002 candidate", "final finishing", "engineering signoff", "client acceptance", "full film assembly"],
+  "source_level_correspondence": "Separately checked by v002 verification.json; does not confer engineering signoff"
+}

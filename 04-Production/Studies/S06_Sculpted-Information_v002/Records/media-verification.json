@@ -1,0 +1,15 @@
+{
+  "video": "S06_cinematic-study_v002.mp4",
+  "frames_decoded": 288,
+  "fps": 24,
+  "duration_seconds": 12,
+  "resolution": [
+    1280,
+    720
+  ],
+  "render_seconds_total": 138.08359570006724,
+  "average_seconds_per_frame": 0.47945692951412233,
+  "maximum_seconds_per_frame": 4.206629899999825,
+  "sha256": "9084ab67532443c3abee0e63a4a0c29ca94c094304560da457bc4cd0632fa10b",
+  "decode_errors": ""
+}

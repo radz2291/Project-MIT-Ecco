@@ -1,0 +1,21 @@
+{
+  "base_native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Studies\\S06_Sculpted-Information_v001\\Scenes\\S06_journey_v001.blend",
+  "base_vertices_sha256": "b11a465334e33f18442a128c45c3d941ce76ec1c5658d611c9b0b8fbff714cb8",
+  "source_values_changed": false,
+  "surface_normals_flipped_for_outward_shading": true,
+  "shape_keys_reused": 33,
+  "geometry_samples": 24000,
+  "report_cross_section_rows": [
+    27,
+    62,
+    99
+  ],
+  "amplitude_provenance": "Independent analytic illustrative dataset; same relative depth and seam azimuth grid; no geometry-value dependency",
+  "amplitude_generator": "See refine.py AA/DD formula; periodic azimuth terms; no random seed or field data",
+  "timing_seconds": [
+    3,
+    6,
+    3
+  ],
+  "report_data_replaceable": true
+}

@@ -1,0 +1,7 @@
+/Cache/
+/Scenes/
+/Previews/*.mp4
+/Previews/test*.png
+/Records/*.log
+/Records/owner-handoff.txt
+/Records/sync-verification.json

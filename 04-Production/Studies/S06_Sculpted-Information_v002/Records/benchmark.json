@@ -1,0 +1,29 @@
+[
+  {
+    "frame": 61,
+    "seconds": 1.669816900001024,
+    "resolution": [
+      1280,
+      720
+    ],
+    "samples": 16
+  },
+  {
+    "frame": 142,
+    "seconds": 0.41156819999741856,
+    "resolution": [
+      1280,
+      720
+    ],
+    "samples": 16
+  },
+  {
+    "frame": 276,
+    "seconds": 0.45213089999742806,
+    "resolution": [
+      1280,
+      720
+    ],
+    "samples": 16
+  }
+]
