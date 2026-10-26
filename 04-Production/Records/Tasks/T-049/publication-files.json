@@ -54,9 +54,10 @@
   "components.json",
   "image-index.md",
   "inventory.md",
+  "owner-decisions.json",
+  "publication-files.json",
   "report.md",
   "review.html",
   "source-index.md",
-  "sources.json",
-  "publication-files.json"
+  "sources.json"
 ]

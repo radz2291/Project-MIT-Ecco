@@ -1,10 +1,18 @@
 # ECCO-049 — Component selection review
 
-27 October 2026 · **Proposal for Radzi** · inspection only
+27 October 2026 · **C03 proposal recorded for Radzi; report only** · documentation only
 
 Keep the completed seven-section previs as the visual baseline. The product shape is already consistent: the housing mesh matches the shared source across every section that contains it. The useful selection is mainly which finish, environment and behavior should become reusable later.
 
-**Recommended starting choice:** retain film ECCO v002 and connected BHA v007 as geometry references; retain S05's approved amber flow and S07's clean satin finish as appearance references; keep camera-dependent cutaways, lighting, reveals and data cases local. No component is selected or migrated by this report.
+**Recommended starting choice:** retain film ECCO v002 and connected BHA v007 as geometry references; retain S05's approved amber flow and S07's clean satin finish as appearance references; keep camera-dependent cutaways, lighting, reveals and data cases local. **Radzi requested that the report propose: combine the well environment and formation into one modular shared environment.** No consolidation or scene migration has begun.
+
+## C03 — owner-requested report proposal
+
+Combine the existing well environment and surrounding formation into one reusable environment master. Give it separate controls for rock, borehole shape, casing, cement, mud and wider earth context, with optional surface context when needed. Scenes select the modules, extent, detail and visibility they need instead of carrying independent overlapping environment builds.
+
+This replaces C03's earlier blanket **keep local** recommendation. Keep each approved scene's camera, lens, timing, motion, local lighting and viewing cutaways while adapting it to the future master. Existing sources remain preserved. The shared master is a later build deliverable; compatibility through each locked shot must be checked before adoption. S03/S06 illustrative data and reconstruction remain separate from the physical environment.
+
+The owner explicitly instructed: report only; do not combine yet. No implementation is authorized. Recorded instruction: [owner-decisions.json](owner-decisions.json).
 
 - [Hardware and world comparison](Images/02-hardware-and-world.jpg)
 - [Sensing and casing comparison](Images/03-sensing-and-casing.jpg)
@@ -12,13 +20,13 @@ Keep the completed seven-section previs as the visual baseline. The product shap
 - [All seven sections](Images/01-seven-section-baseline.jpg)
 - [Exact image/source index](image-index.md) · [Native sources and acceptance](source-index.md) · [Detailed inventory](inventory.md)
 
-## Proposed choices
+## Component choices and proposals
 
 | Component | Proposed choice | Reason / effect |
 |---|---|---|
 | C01 — ECCO body and closures | **Retain** | One product shape already underlies the film. Keep each approved material/camera treatment while selecting a reusable finish separately. |
 | C02 — Connected BHA, bit and joints | **Retain / keep local** | Keep v007 as the reusable connected assembly; preserve current simple/local string and all existing cropping until a component is explicitly selected. |
-| C03 — Surface, formation and borehole | **Keep local** | These environments serve different camera moves and explanations; a universal rock replacement would disturb approved openings and reveal masks. |
+| C03 — Surface, formation and borehole | **Propose one modular shared environment — report only** | One modular environment can supply close well detail and broader surrounding ground across scenes. Select rock, borehole variants, casing, cement, mud, extent and detail per scene instead of maintaining overlapping environment builds. |
 | C04 — Casing, cement, channel and wear | **Combine later / keep display local** | The layer source is already shared. Package a future S04 display wrapper only after choosing its channel/wear appearance. |
 | C05 — Fluid, metal finish and lighting | **Polish proposal / keep local** | Select a common metal/amber direction through actual locked views before extracting shared materials. Keep lights, opacity and optical cutaways local. |
 | C06 — Pulse, contact, echo and acquisition | **Retain shared semantics / keep scores local** | Retain shared packet/contact prototypes for future reuse; preserve S02's accepted event order and pixel-wall build instead of replacing its animation with a four-second asset demo. |
@@ -38,7 +46,7 @@ These are pending selections, not permission requests to continue this ticket. N
 
 1. Record Radzi's selected components and immutable source hashes. Preserve every approved scene/movie and the current camera, lens, motion and event score.
 2. Register geometry identities first: ECCO/closures, then connected BHA/bit/joints. Keep local display wrappers distinct from source geometry; do not delete apparent duplicates based on datablock counts.
-3. If selected, extract material controls and S05 flow into new versioned masters. Keep S04 cutaways/reactions and each environment local until their own selection.
+3. Plan the selected C03 modular environment: reconcile overlapping rock/casing/cement sources, use one declared axis/unit convention, and provide selectable layers, borehole variants, near/wide extents and detail controls. Preserve existing source versions. Keep approved scene cameras, local lighting/cutaways and data cases intact; migrate only in a later released build after affected-shot checks. Material controls and S05 flow remain pending selections.
 4. Reopen copies through every affected locked camera at entry, exit, reveal, close-up and heaviest frames. Check silhouette, cap origin, bit order, occlusion, finite flow/particle clearance, layer order, world-fixed history, geometry/amplitude separation, seam/colors and neighboring cuts. Compare camera/lens/animation hashes and timing before and after; benchmark complete writes strictly below 5 seconds/frame before a batch.
 5. Return those later replacement versions to Radzi. He alone updates film assembly. Keep old consumers unmigrated until their checks pass.
 

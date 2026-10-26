@@ -1,0 +1,53 @@
+[
+  {
+    "id": "C03-environment-consolidation-2026-10-27",
+    "component": "C03",
+    "owner": "Radzi",
+    "date_local": "2026-10-27",
+    "timezone": "Asia/Kuala_Lumpur",
+    "source": "Direct owner instruction in ECCO-049 review chat",
+    "owner_quote": "So I feel like this can be combined to become a much whole environment and can be used across any scene. If you agree, this must be included in the report.",
+    "direction": "Combine well environment and formation into one modular shared environment intended for reuse across scenes.",
+    "supersedes": "C03 blanket keep-local environment recommendation in commit fc05e7c4358bdda2cdd9eaab17d336e07ad4b383",
+    "source_packages": [
+      "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+      "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+      "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend"
+    ],
+    "related_modules": [
+      "CasedHole v002 for casing/cement/channel/wear source reconciliation",
+      "Surface v003 as optional surface context where needed"
+    ],
+    "master_target": "One new immutable versioned environment master under 04-Production/Shared/Assets/; exact package name and component source assignments to be fixed in the later build brief",
+    "controls": [
+      "rock/formation visibility",
+      "nominal/irregular/spiral borehole variants",
+      "casing",
+      "cement/channel/wear layers",
+      "mud",
+      "near/wide extent",
+      "detail level",
+      "optional surface/ground context",
+      "cutaway/visibility interfaces"
+    ],
+    "preserve": [
+      "original shared source files and versions",
+      "approved shot cameras and lenses",
+      "timing and motion",
+      "shot-specific lighting and viewing cutaways",
+      "separate illustrative data/reconstruction case identity"
+    ],
+    "later_checks": [
+      "reconcile overlapping rock/casing/cement geometry without duplicate rendered layers",
+      "declared source dimensions/axis/units and wrapper transforms",
+      "controls and relative dependencies",
+      "all affected locked camera views, masks and adjoining cuts",
+      "tool/wall/effect clearance",
+      "strictly below 5 seconds per frame at working settings before batch rendering"
+    ],
+    "scope_now": "Report amendment only: document the proposal for one modular shared environment. No implementation is authorized.",
+    "implementation_status": "NOT AUTHORIZED. Do not combine, edit, rebuild, relink or migrate Blender assets. Do not create downstream implementation tickets under this instruction.",
+    "acceptance_scope": "Owner requested that the proposal be included in the report only; no implementation release or completed master acceptance.",
+    "owner_clarification_quote": "ok but I don't want you to combine yet. There's no implementation here. This is just for the report."
+  }
+]

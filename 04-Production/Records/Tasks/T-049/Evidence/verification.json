@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "checks": 483,
+  "checks": 486,
   "failed": [],
   "results": [
     {
@@ -1464,6 +1464,11 @@
       "detail": null
     },
     {
+      "check": "link-comparison.md-owner-decisions.json",
+      "pass": true,
+      "detail": null
+    },
+    {
       "check": "link-comparison.md-Images/02-hardware-and-world.jpg",
       "pass": true,
       "detail": null
@@ -1904,6 +1909,11 @@
       "detail": null
     },
     {
+      "check": "link-report.md-owner-decisions.json",
+      "pass": true,
+      "detail": null
+    },
+    {
       "check": "link-report.md-Evidence/selection-evidence.json",
       "pass": true,
       "detail": null
@@ -1940,6 +1950,11 @@
     },
     {
       "check": "link-report.md-Evidence/verification.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-Evidence/verification-initial.json",
       "pass": true,
       "detail": null
     },

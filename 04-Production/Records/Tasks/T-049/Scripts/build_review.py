@@ -1,32 +1,44 @@
 """Build an image-led review packet from inspected natives and decoded media."""
 from pathlib import Path
-import json, hashlib, html, os
+import json, hashlib, html, os, sys
 R=Path(__file__).resolve().parents[5]; T=R/'04-Production/Records/Tasks/T-049'
-def read(p):return json.loads((T/p).read_text())
+def read(p):return json.loads((T/p).read_text(encoding='utf-8'))
 def write(p,s):(T/p).write_text(s,encoding='utf-8')
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 sources=read('sources.json'); audit=read('Evidence/source-audit.json'); images=read('Evidence/image-manifest.json'); media=read('Evidence/media-audit.json'); comps=read('components.json')
 by_image={x['id']:x for x in images}
 native={x['id']:x for x in audit}
-locks=[]; selections=[]; product=[]
-for s in sources:
-    d=native[s['id']];p=R/s['native']; locks.append({'id':s['id'],'path':s['native'],'sha256':sha(p),'unchanged_since_inspection':sha(p)==d['sha256']})
-    if s.get('acceptance'):
-        p=(R/s['acceptance']).resolve();selections.append({'id':s['id'],'path':p.relative_to(R).as_posix(),'sha256':sha(p),'recorded_evidence':p.read_text(encoding='utf-8-sig')})
-    raw=read(f"Evidence/{s['id']}_native.json")
-    for o in raw['objects']:
-        if o['type']=='MESH' and 'housing' in o['name'].lower():
-            m=raw['meshes'].get(o['data'],{})
-            product.append({'source':s['id'],'object':o['name'],'library':o['library'],'vertices':m.get('vertices'),'geometry_sha256':m.get('geometry_sha256'),'materials':o['materials'],'note':'Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished.'})
-write('Evidence/source-lock.json',json.dumps(locks,indent=2));write('Evidence/selection-evidence.json',json.dumps(selections,indent=2));write('Evidence/product-comparison.json',json.dumps(product,indent=2))
+decision=read('owner-decisions.json')[0]
+if '--documents-only' in sys.argv:
+    selections=read('Evidence/selection-evidence.json')
+else:
+    locks=[]; selections=[]; product=[]
+    for s in sources:
+        d=native[s['id']];p=R/s['native']; locks.append({'id':s['id'],'path':s['native'],'sha256':sha(p),'unchanged_since_inspection':sha(p)==d['sha256']})
+        if s.get('acceptance'):
+            p=(R/s['acceptance']).resolve();selections.append({'id':s['id'],'path':p.relative_to(R).as_posix(),'sha256':sha(p),'recorded_evidence':p.read_text(encoding='utf-8-sig')})
+        raw=read(f"Evidence/{s['id']}_native.json")
+        for o in raw['objects']:
+            if o['type']=='MESH' and 'housing' in o['name'].lower():
+                m=raw['meshes'].get(o['data'],{})
+                product.append({'source':s['id'],'object':o['name'],'library':o['library'],'vertices':m.get('vertices'),'geometry_sha256':m.get('geometry_sha256'),'materials':o['materials'],'note':'Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished.'})
+    write('Evidence/source-lock.json',json.dumps(locks,indent=2));write('Evidence/selection-evidence.json',json.dumps(selections,indent=2));write('Evidence/product-comparison.json',json.dumps(product,indent=2))
 
 intro='''# ECCO-049 — Component selection review
 
-27 October 2026 · **Proposal for Radzi** · inspection only
+27 October 2026 · **C03 proposal recorded for Radzi; report only** · documentation only
 
 Keep the completed seven-section previs as the visual baseline. The product shape is already consistent: the housing mesh matches the shared source across every section that contains it. The useful selection is mainly which finish, environment and behavior should become reusable later.
 
-**Recommended starting choice:** retain film ECCO v002 and connected BHA v007 as geometry references; retain S05's approved amber flow and S07's clean satin finish as appearance references; keep camera-dependent cutaways, lighting, reveals and data cases local. No component is selected or migrated by this report.
+**Recommended starting choice:** retain film ECCO v002 and connected BHA v007 as geometry references; retain S05's approved amber flow and S07's clean satin finish as appearance references; keep camera-dependent cutaways, lighting, reveals and data cases local. **Radzi requested that the report propose: combine the well environment and formation into one modular shared environment.** No consolidation or scene migration has begun.
+
+## C03 — owner-requested report proposal
+
+Combine the existing well environment and surrounding formation into one reusable environment master. Give it separate controls for rock, borehole shape, casing, cement, mud and wider earth context, with optional surface context when needed. Scenes select the modules, extent, detail and visibility they need instead of carrying independent overlapping environment builds.
+
+This replaces C03's earlier blanket **keep local** recommendation. Keep each approved scene's camera, lens, timing, motion, local lighting and viewing cutaways while adapting it to the future master. Existing sources remain preserved. The shared master is a later build deliverable; compatibility through each locked shot must be checked before adoption. S03/S06 illustrative data and reconstruction remain separate from the physical environment.
+
+The owner explicitly instructed: report only; do not combine yet. No implementation is authorized. Recorded instruction: [owner-decisions.json](owner-decisions.json).
 
 - [Hardware and world comparison](Images/02-hardware-and-world.jpg)
 - [Sensing and casing comparison](Images/03-sensing-and-casing.jpg)
@@ -34,7 +46,7 @@ Keep the completed seven-section previs as the visual baseline. The product shap
 - [All seven sections](Images/01-seven-section-baseline.jpg)
 - [Exact image/source index](image-index.md) · [Native sources and acceptance](source-index.md) · [Detailed inventory](inventory.md)
 
-## Proposed choices
+## Component choices and proposals
 
 | Component | Proposed choice | Reason / effect |
 |---|---|---|
@@ -53,7 +65,7 @@ These are pending selections, not permission requests to continue this ticket. N
 
 1. Record Radzi's selected components and immutable source hashes. Preserve every approved scene/movie and the current camera, lens, motion and event score.
 2. Register geometry identities first: ECCO/closures, then connected BHA/bit/joints. Keep local display wrappers distinct from source geometry; do not delete apparent duplicates based on datablock counts.
-3. If selected, extract material controls and S05 flow into new versioned masters. Keep S04 cutaways/reactions and each environment local until their own selection.
+3. Plan the selected C03 modular environment: reconcile overlapping rock/casing/cement sources, use one declared axis/unit convention, and provide selectable layers, borehole variants, near/wide extents and detail controls. Preserve existing source versions. Keep approved scene cameras, local lighting/cutaways and data cases intact; migrate only in a later released build after affected-shot checks. Material controls and S05 flow remain pending selections.
 4. Reopen copies through every affected locked camera at entry, exit, reveal, close-up and heaviest frames. Check silhouette, cap origin, bit order, occlusion, finite flow/particle clearance, layer order, world-fixed history, geometry/amplitude separation, seam/colors and neighboring cuts. Compare camera/lens/animation hashes and timing before and after; benchmark complete writes strictly below 5 seconds/frame before a batch.
 5. Return those later replacement versions to Radzi. He alone updates film assembly. Keep old consumers unmigrated until their checks pass.
 
@@ -69,7 +81,8 @@ This inventory describes the saved local candidates inspected on 27 October 2026
 
 '''
 for c in comps:
-    inv+=f"## {c['id']} — {c['component']}\n\n**Proposal:** {c['choice']}. **Proposed master/reference:** {c['master']}\n\n**Consumers:** {c['consumers']}\n\n**Observed:** {c['actual']}\n\n**Why / visual impact:** {c['reason']} {c['impact']}\n\n**Limits:** {c['limits']}\n\n**Inspect:** "+' · '.join(f"[{by_image[id]['title']}]({by_image[id]['image']})" for id in c['images'])+'\n\n'
+    label='Report proposal only' if c['id']=='C03' else 'Proposal'
+    inv+=f"## {c['id']} — {c['component']}\n\n**{label}:** {c['choice']}. **Proposed master/reference:** {c['master']}\n\n**Consumers:** {c['consumers']}\n\n**Observed:** {c['actual']}\n\n**Why / visual impact:** {c['reason']} {c['impact']}\n\n**Limits:** {c['limits']}\n\n**Inspect:** "+' · '.join(f"[{by_image[id]['title']}]({by_image[id]['image']})" for id in c['images'])+'\n\n'
 inv+='''## Evidence and interpretation limits
 
 - [Object-level ownership, collections, instance targets, materials and mesh fingerprints](Evidence/component-members.json) is the detailed member map. Categories are keyword aids and may overlap; the human-readable component entries above resolve their meaning.
@@ -133,11 +146,12 @@ write('image-index.md',ix)
 E=html.escape
 page='''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ECCO-049 — Component review</title><style>
 body{margin:0;background:#101820;color:#e4edf2;font:16px/1.5 system-ui,sans-serif}main{max-width:1280px;margin:auto;padding:28px}h1{font-size:32px;line-height:1.2}h2{margin-top:48px}p{max-width:920px}a{color:#8bdaea}nav{display:flex;gap:18px;flex-wrap:wrap;padding:14px 0}.tag{color:#f5cc80}section{border-top:1px solid #35414b;margin-top:28px;padding-top:10px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,360px),1fr));gap:16px}figure{margin:0;background:#19252f;border:1px solid #344652}img{width:100%;display:block}figcaption{padding:10px;font-size:14px}.note{color:#b4c8d3}summary{cursor:pointer;color:#a0ddec}code{overflow-wrap:anywhere}td,th{text-align:left;vertical-align:top;padding:9px;border-bottom:1px solid #35414b}table{width:100%;border-collapse:collapse}button{padding:8px} @media print{body{background:white;color:black}a{color:#075366}section{break-inside:avoid}}
-</style><main><p class="tag">ECCO-049 · 27 October 2026 · Proposal for Radzi</p><h1>Keep the shots. Choose what becomes shared.</h1><p>The completed previs is the baseline. The housing shape matches across the inspected sources. The useful differences are the finish, environment, explanatory views and behavior. No scenes have been edited.</p><nav><a href="comparison.md">Short proposal</a><a href="inventory.md">Inventory</a><a href="source-index.md">Exact sources</a><a href="image-index.md">Image index</a></nav><p class="note">Current choices are proposals. Consolidation and polishing require later selections. Original native scenes, cameras, motion and timing are preserved.</p><h2>Starting proposal</h2><table><tr><th>Component</th><th>Choice</th></tr>'''
+</style><main><p class="tag">ECCO-049 · 27 October 2026 · C03 proposal recorded; report only</p><h1>Keep the shots. Choose what becomes shared.</h1><p>The completed previs is the baseline. The housing shape matches across the inspected sources. The useful differences are the finish, environment, explanatory views and behavior. No scenes have been edited.</p><nav><a href="comparison.md">Short proposal</a><a href="inventory.md">Inventory</a><a href="source-index.md">Exact sources</a><a href="image-index.md">Image index</a></nav><p class="tag"><b>C03 report proposal:</b> combine the well environment and formation into one modular shared environment, with controls for rock, borehole variants, casing, cement, mud and wider ground context. Each scene uses the parts it needs while preserving its approved camera, motion, lighting and cutaways.</p><p class="note">C03 replaces the earlier keep-local recommendation. Other component choices remain proposals. No environment build or scene migration is authorized; original native scenes remain preserved.</p><h2>Component choices and proposals</h2><table><tr><th>Component</th><th>Choice</th></tr>'''
 for c in comps:page+=f'<tr><td><a href="#{c["id"]}">{E(c["component"])}</a></td><td>{E(c["choice"])}</td></tr>'
 page+='</table>'
 for c in comps:
-    page+=f'<section id="{c["id"]}"><h2>{c["id"]} · {E(c["component"])}</h2><p class="tag">Proposal: {E(c["choice"])}</p><p>{E(c["reason"])}</p><div class="grid">'
+    label='Report proposal only' if c['id']=='C03' else 'Proposal'
+    page+=f'<section id="{c["id"]}"><h2>{c["id"]} · {E(c["component"])}</h2><p class="tag">{label}: {E(c["choice"])}</p><p>{E(c["reason"])}</p><div class="grid">'
     for id in c['images']:
         x=by_image[id];page+=f'<figure><a href="{x["image"]}"><img loading="lazy" src="{x["image"]}" alt="{E(x["title"])}"></a><figcaption>{E(x["title"])}<details><summary>Exact source</summary><p><code>{E(x["source"])}</code></p><p>Native: <code>{E(x["native"])}</code></p></details></figcaption></figure>'
     page+=f'</div><p><b>Observed:</b> {E(c["actual"])}</p><p><b>Reference:</b> {E(c["master"])}</p><p class="note">{E(c["limits"])}</p></section>'

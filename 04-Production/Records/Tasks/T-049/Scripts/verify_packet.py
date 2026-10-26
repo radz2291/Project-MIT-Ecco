@@ -3,7 +3,7 @@ from PIL import Image, ImageStat
 from html.parser import HTMLParser
 import json, hashlib, re, ast
 R=Path(__file__).resolve().parents[5];T=R/'04-Production/Records/Tasks/T-049'
-def j(p):return json.loads((T/p).read_text())
+def j(p):return json.loads((T/p).read_text(encoding='utf-8'))
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 checks=[]
 def ck(name,ok,detail=None):checks.append({'check':name,'pass':bool(ok),'detail':detail})
@@ -37,7 +37,7 @@ class Parser(HTMLParser):
             if k in ('src','href'):link(v,T/'review.html')
 Parser().feed((T/'review.html').read_text(encoding='utf-8'))
 for p in (T/'Scripts').glob('*.py'):
-    ast.parse(p.read_text());ck('python-syntax-'+p.name,True)
+    ast.parse(p.read_text(encoding='utf-8'));ck('python-syntax-'+p.name,True)
 ck('25-native-sources',len(audit)==25);ck('30-source-images',len(ims)==30);ck('2376-decoded-frames',sum(m['decoded_frames'] for m in media)==2376)
 for name in ['01-seven-section-baseline.jpg','02-hardware-and-world.jpg','03-sensing-and-casing.jpg','04-flow-and-data.jpg']:
     with Image.open(T/'Images'/name) as im:im.verify()

@@ -34,15 +34,15 @@ This inventory describes the saved local candidates inspected on 27 October 2026
 
 ## C03 — Surface, formation and borehole
 
-**Proposal:** Keep local. **Proposed master/reference:** Current S01/S02 environment; S03 v036; S05 v020. Retain shared Surface v003, Formation v002 and World v009 as optional sources.
+**Report proposal only:** Propose one modular shared environment — report only. **Proposed master/reference:** Future versioned environment master combining World_environment v009, Formation_context v002 and Formation_cased-section v002; reconcile CasedHole v002 layers and optional Surface v003 context. No new master built.
 
 **Consumers:** S01-A/B/C, S02-A/B/C, S03-A/B/C, S04-A/B/C/D, S05-A/B/C, S06 opening
 
 **Observed:** S01/S02 use local descent/cutaway earth. S03 uses local scientific ground/reconstruction. S04 loads World v009 and cased formation v002. S05 has a local half borehole. Earlier Surface v003 is not linked by any selected previs native.
 
-**Why / visual impact:** These environments serve different camera moves and explanations; a universal rock replacement would disturb approved openings and reveal masks. Keep S01 confinement, S03 cyan information space and S05 amber passage distinct.
+**Why / visual impact:** One modular environment can supply close well detail and broader surrounding ground across scenes. Select rock, borehole variants, casing, cement, mud, extent and detail per scene instead of maintaining overlapping environment builds. Preserve approved cameras, lenses, timing, motion, local lighting and cutaways while giving scenes a common environment source. Reconcile duplicate layers and verify each consumer before adoption.
 
-**Limits:** Illustrative extents, cutaways and optical access. S03's tight radius is an information demonstration, not a physical BHA passage.
+**Limits:** Owner requested this proposal in the report on 27 October 2026 and explicitly instructed not to combine yet. No implementation is authorized. This replaces the earlier C03 blanket keep-local recommendation at the proposal level only. Illustrative extents/optical access and source dimensions remain explicit; S03/S06 data/reconstruction cases remain separate.
 
 **Inspect:** [S01 Gentle 10s | native f1](Images/S01_video-frame-0001.jpg) · [T44 environment v009 | reuse A](Images/T44-world.jpg) · [S03 v036 | native f220](Images/S03_video-frame-0220.jpg) · [S05 v020 | native f205](Images/S05_video-frame-0205.jpg)
 
