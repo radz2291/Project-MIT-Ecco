@@ -12,7 +12,8 @@
     "source_packages": [
       "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
       "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
-      "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend"
+      "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+      "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend"
     ],
     "related_modules": [
       "CasedHole v002 for casing/cement/channel/wear source reconciliation",
@@ -48,6 +49,11 @@
     "scope_now": "Report amendment only: document the proposal for one modular shared environment. No implementation is authorized.",
     "implementation_status": "NOT AUTHORIZED. Do not combine, edit, rebuild, relink or migrate Blender assets. Do not create downstream implementation tickets under this instruction.",
     "acceptance_scope": "Owner requested that the proposal be included in the report only; no implementation release or completed master acceptance.",
-    "owner_clarification_quote": "ok but I don't want you to combine yet. There's no implementation here. This is just for the report."
+    "owner_clarification_quote": "ok but I don't want you to combine yet. There's no implementation here. This is just for the report.",
+    "cased_hole_classification": {
+      "owner_quote": "Okay, so what's wrong here is the shared asset is an object. So, the cased hole also should be part of well environment,",
+      "report_change": "Classify the physical casing, cement, channel and wear objects as subcomponents of the shared well environment (C03). Retain C04 only as a detail/comparison subsection. Keep demonstration animation separate from the physical-asset classification.",
+      "implementation_authorized": false
+    }
   }
 ]

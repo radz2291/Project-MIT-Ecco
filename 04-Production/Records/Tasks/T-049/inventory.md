@@ -32,31 +32,31 @@ This inventory describes the saved local candidates inspected on 27 October 2026
 
 **Inspect:** [T44 BHA v007 | wide connection inspection](Images/T44-hardware.jpg) · [S01 Gentle 10s | native f220](Images/S01_video-frame-0220.jpg) · [T44 environment v009 | reuse A](Images/T44-world.jpg)
 
-## C03 — Surface, formation and borehole
+## C03 — Well environment: formation, borehole and cased-hole parts
 
-**Report proposal only:** Propose one modular shared environment — report only. **Proposed master/reference:** Future versioned environment master combining World_environment v009, Formation_context v002 and Formation_cased-section v002; reconcile CasedHole v002 layers and optional Surface v003 context. No new master built.
+**Report proposal only:** Propose one modular shared environment — report only. **Proposed master/reference:** Future modular environment using World_environment v009, Formation_context v002, Formation_cased-section v002 and CasedHole v002 physical layers, with optional Surface v003 context. Report proposal only; no new master built.
 
 **Consumers:** S01-A/B/C, S02-A/B/C, S03-A/B/C, S04-A/B/C/D, S05-A/B/C, S06 opening
 
 **Observed:** S01/S02 use local descent/cutaway earth. S03 uses local scientific ground/reconstruction. S04 loads World v009 and cased formation v002. S05 has a local half borehole. Earlier Surface v003 is not linked by any selected previs native.
 
-**Why / visual impact:** One modular environment can supply close well detail and broader surrounding ground across scenes. Select rock, borehole variants, casing, cement, mud, extent and detail per scene instead of maintaining overlapping environment builds. Preserve approved cameras, lenses, timing, motion, local lighting and cutaways while giving scenes a common environment source. Reconcile duplicate layers and verify each consumer before adoption.
+**Why / visual impact:** Group the physical environment objects together: surrounding rock, borehole, casing, cement, channel and wear geometry, mud and wider context. Scenes would select required modules from one shared environment. Preserve approved cameras, lenses, timing, motion, local lighting and cutaways while giving scenes a common environment source. Reconcile duplicate layers and verify each consumer before adoption.
 
 **Limits:** Owner requested this proposal in the report on 27 October 2026 and explicitly instructed not to combine yet. No implementation is authorized. This replaces the earlier C03 blanket keep-local recommendation at the proposal level only. Illustrative extents/optical access and source dimensions remain explicit; S03/S06 data/reconstruction cases remain separate.
 
 **Inspect:** [S01 Gentle 10s | native f1](Images/S01_video-frame-0001.jpg) · [T44 environment v009 | reuse A](Images/T44-world.jpg) · [S03 v036 | native f220](Images/S03_video-frame-0220.jpg) · [S05 v020 | native f205](Images/S05_video-frame-0205.jpg)
 
-## C04 — Casing, cement, channel and wear
+## C04 — Cased-hole parts — subcomponents of C03
 
-**Proposal:** Combine later / keep display local. **Proposed master/reference:** CasedHole/CasedHole_v002.blend for dimensional layers; preserve S04 v033 local organic channel, windows and reaction display
+**Proposal:** Part of the well environment — report classification only. **Proposed master/reference:** CasedHole/CasedHole_v002.blend is the existing source library for physical environment subcomponents. Its support/retrieval demos remain separate review scenes.
 
 **Consumers:** S04-A/B/C/D
 
 **Observed:** S04 links CasedHole v002, cased formation v002 and World v009, then adds local cement windows/channel bounds, source-derived steel viewing section, response bands and transparent product views.
 
-**Why / visual impact:** The layer source is already shared. Package a future S04 display wrapper only after choosing its channel/wear appearance. Keep tool/fluid -> steel -> cement/channel -> rock order, fixed OD and accepted A/B/C/D choreography.
+**Why / visual impact:** Casing, cement, the exterior channel and inner wear are physical parts or conditions of the well environment, so classify them under C03 rather than as a separate peer environment asset. The support-response animation demonstrates these objects; it is not the physical asset itself. Keep tool/fluid -> steel -> cement/channel -> rock order, fixed OD and accepted A/B/C/D choreography.
 
-**Limits:** Selected v033 still has the reported dark-band/pit readability issue. v034 was rejected; no resolution or calibrated wear/bond estimate is claimed.
+**Limits:** Selected v033 still has the reported dark-band/pit readability issue. v034 was rejected; no resolution or calibrated wear/bond estimate is claimed. Classification corrected in the report only; no files combined, moved, relinked or rebuilt.
 
 **Inspect:** [T47 CasedHole v002 | layer section f1](Images/T47-layers.jpg) · [S04 v033 selected | native f216](Images/S04_video-frame-0216.jpg) · [T47 CasedHole v002 | wear section f1](Images/T47-wear.jpg) · [S04 v033 selected | native f365](Images/S04_video-frame-0365.jpg)
 
