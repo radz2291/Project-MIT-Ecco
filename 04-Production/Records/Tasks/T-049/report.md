@@ -1,10 +1,10 @@
 # ECCO-049 — Shared-asset reconciliation
 
-27 October 2026 · **C03 proposal recorded — report only** · remaining selections stay in Review
+27 October 2026 · **C03/C04 grouping and C07 hydraulic source recorded — report only** · remaining selections stay in Review
 
 **Start with the [image-led comparison](comparison.md) or [visual review page](review.html).** The [inventory](inventory.md), [source index](source-index.md) and [image index](image-index.md) provide the supporting detail.
 
-The completed S01–S07 previs is the current visual baseline. Retain the common ECCO geometry and connected BHA reference; use S05's approved amber flow and S07's clean satin finish as candidate appearance references. Keep camera-dependent cutaways, lights, event timing and separate data cases local. This is a component-selection proposal, with no scene migration or polishing.
+The completed S01–S07 previs is the current visual baseline. Retain the common ECCO geometry and connected BHA reference; use S05 previs v020 as Radzi's selected hydraulic source and S07's clean satin finish as a candidate appearance reference. Keep camera-dependent cutaways, lights, event timing and separate data cases local. This is a component-selection proposal, with no scene migration or polishing.
 
 ## C03 — combine well environment and formation
 
@@ -17,6 +17,12 @@ Use the existing World environment v009, Formation context v002 and Formation ca
 Keep the original assets and approved shot cameras, lenses, motion, timing, local lighting and cutaway choices. Keep illustrative reconstruction/data cases distinct from physical environment geometry. Reuse across scenes is the design goal; each consumer still needs axis/unit, duplicate-layer, clearance, locked-camera and render-cost checks before adoption.
 
 Radzi explicitly clarified: “I don't want you to combine yet. There's no implementation here. This is just for the report.” This update changes the report and review documents only. No asset implementation is authorized. No environment master has been built, no source/shot relinked, and no downstream ticket created. A later bounded build release will define the exact package and migration scope. Other component choices and acceptance of completed work remain with Radzi.
+
+## C07 — hydraulic source selected
+
+Radzi instructed: “For the hydraulic, We use the previs section five hydraulic.” Record **Section 5 previs v020** as the selected source for hydraulic appearance and motion: amber fluid/trails, cuttings and existing flow behavior. The earlier shared Hydraulics v003 package remains preserved historical comparison, not the selected source. Exact native/video paths and approved hashes are in [owner-decisions.json](owner-decisions.json).
+
+This is a report-only source selection. No extraction, consolidation, polishing, camera/timing change or migration has been authorized or performed. Preserve the approved S05 source and its behavior.
 
 ## Authority and sources
 
@@ -35,11 +41,11 @@ Radzi explicitly clarified: “I don't want you to combine yet. There's no imple
 - **Seven selected review movies fully decoded: 2376 frames, no decode errors.** The [media audit](Evidence/media-audit.json) records hashes/counts. Thirty selected image derivatives plus four labeled sheets were visually inspected. [Image manifest](Evidence/image-manifest.json) records exact source movies/stills, native views, frame offsets and derivative hashes. S02's review excerpt begins at native frame169 and reuses S01 frames169–240; extraction samples are within S02 itself.
 - Actual ownership differs: S01/S02 retain linked product geometry; S04 combines shared libraries with local display derivatives; S05/S06/S07 use local product copies. S05's residual ECCO library entry has no linked object datablocks. [Object member map](Evidence/component-members.json) and [geometry matches](Evidence/geometry-matches.json) distinguish these from planned consumer lists. Datablock duplicates are not simultaneous rendered-instance counts.
 - **No new rendering.** Existing previews were adequate, so no diagnostic render cost or new <5s/frame benchmark is claimed. Historical costs/cache limitations remain in source records. No source save, camera/lens edit, material change, relink, retime, rebuild or film assembly occurred. The live Blender Acoustics_v003 scene was dirty; official MCP access was verified read-only and its unsaved state was left untouched.
-- [Packet verification](Evidence/verification.json) passes 486 checks after the C03 report amendment (original packet: 483 checks) covering local links, selected image/native correspondence, hashes, dependency paths, media evidence and script syntax. The retained [initial check](Evidence/verification-initial.json) flagged only its own not-yet-written verification file; the completed packet passes. Checks are executor evidence, not independent review.
+- [Packet verification](Evidence/verification.json) passes 487 checks after the report amendments (original packet: 483 checks) covering local links, selected image/native correspondence, hashes, dependency paths, media evidence and script syntax. The retained [initial check](Evidence/verification-initial.json) flagged only its own not-yet-written verification file; the completed packet passes. Checks are executor evidence, not independent review.
 
 ## Review and limits
 
-The [short proposal](comparison.md) contains the nine-row comparison, three focused selection questions and a bounded later consolidation order. No downstream tickets were created. Current section allocations total **96 seconds** after S05's approved expansion; Radzi retains film timing, logo, audio, assembly and client communication.
+The [short proposal](comparison.md) contains the nine-row comparison, two remaining selection questions and a bounded later consolidation order. No downstream tickets were created. Current section allocations total **96 seconds** after S05's approved expansion; Radzi retains film timing, logo, audio, assembly and client communication.
 
 Source length/temporary closures, unverified hydraulic stage/end mapping, illustrative sensing/flow/data, and the distinction between S03 and S06 cases remain explicit. No restricted field-log pixels were copied into the review packet. No calibrated acoustics, CFD, certified assembly/thread fit, field-output provenance, client acceptance or final-film approval is asserted.
 

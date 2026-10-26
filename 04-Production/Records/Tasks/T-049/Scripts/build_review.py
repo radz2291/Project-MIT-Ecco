@@ -26,11 +26,11 @@ else:
 
 intro='''# ECCO-049 — Component selection review
 
-27 October 2026 · **C03 proposal recorded for Radzi; report only** · documentation only
+27 October 2026 · **C03/C04 grouping and C07 source recorded; report only** · documentation only
 
 Keep the completed seven-section previs as the visual baseline. The product shape is already consistent: the housing mesh matches the shared source across every section that contains it. The useful selection is mainly which finish, environment and behavior should become reusable later.
 
-**Recommended starting choice:** retain film ECCO v002 and connected BHA v007 as geometry references; retain S05's approved amber flow and S07's clean satin finish as appearance references; keep camera-dependent cutaways, lighting, reveals and data cases local. **Radzi requested that the report propose: combine the well environment and formation into one modular shared environment.** No consolidation or scene migration has begun.
+**Recommended starting choice:** retain film ECCO v002 and connected BHA v007 as geometry references; use S05 previs v020 as the owner-selected hydraulic source; retain S07's clean satin finish as a proposed appearance reference; keep camera-dependent cutaways, lighting, reveals and data cases local. **Radzi requested that the report propose: combine the well environment and formation into one modular shared environment.** No consolidation or scene migration has begun.
 
 ## C03 — owner-requested report proposal
 
@@ -39,6 +39,8 @@ Combine the existing well environment and surrounding formation into one reusabl
 This replaces C03's earlier blanket **keep local** recommendation. Keep each approved scene's camera, lens, timing, motion, local lighting and viewing cutaways while adapting it to the future master. Existing sources remain preserved. The shared master is a later build deliverable; compatibility through each locked shot must be checked before adoption. S03/S06 illustrative data and reconstruction remain separate from the physical environment.
 
 The owner explicitly instructed: report only; do not combine yet. No implementation is authorized. Recorded instruction: [owner-decisions.json](owner-decisions.json).
+
+**C07 hydraulic source selected:** use the approved Section 5 previs v020 amber fluid, cuttings and flow motion. Earlier Hydraulics v003 remains historical comparison. This records the source choice only; no extraction or migration is authorized.
 
 - [Hardware and world comparison](Images/02-hardware-and-world.jpg)
 - [Sensing and casing comparison](Images/03-sensing-and-casing.jpg)
@@ -56,8 +58,7 @@ intro+='''
 ## Choices left for joint review
 
 1. Use S07 satin metal as the common appearance reference while keeping per-shot lighting and S04 transparency, or retain all finishes separately?
-2. Extract S05's approved rich amber behavior into a later shared package, or keep it local? The earlier T48 sparse flow remains a control/clearance reference, not an automatic replacement.
-3. Keep S04's selected v033 look, or scope a later correction for its known dark-band/pit impression? Rejected v034 is not a replacement.
+2. Keep S04's selected v033 look, or scope a later correction for its known dark-band/pit impression? Rejected v034 is not a replacement.
 
 These are pending selections, not permission requests to continue this ticket. No polishing, relinking, rebuilding, retiming or downstream task creation has begun.
 
@@ -65,7 +66,7 @@ These are pending selections, not permission requests to continue this ticket. N
 
 1. Record Radzi's selected components and immutable source hashes. Preserve every approved scene/movie and the current camera, lens, motion and event score.
 2. Register geometry identities first: ECCO/closures, then connected BHA/bit/joints. Keep local display wrappers distinct from source geometry; do not delete apparent duplicates based on datablock counts.
-3. Plan the proposed C03 modular environment: reconcile overlapping rock/casing/cement sources, use one declared axis/unit convention, and provide selectable layers, borehole variants, near/wide extents and detail controls. Preserve existing source versions. Keep approved scene cameras, local lighting/cutaways and data cases intact; migrate only in a later released build after affected-shot checks. Material controls and S05 flow remain pending selections.
+3. Plan the proposed C03 modular environment: reconcile overlapping rock/casing/cement sources, use one declared axis/unit convention, and provide selectable layers, borehole variants, near/wide extents and detail controls. Preserve existing source versions. Keep approved scene cameras, local lighting/cutaways and data cases intact; migrate only in a later released build after affected-shot checks. S05 v020 is selected as the hydraulic source; extraction or migration still requires a later scoped instruction. Material controls remain pending.
 4. Reopen copies through every affected locked camera at entry, exit, reveal, close-up and heaviest frames. Check silhouette, cap origin, bit order, occlusion, finite flow/particle clearance, layer order, world-fixed history, geometry/amplitude separation, seam/colors and neighboring cuts. Compare camera/lens/animation hashes and timing before and after; benchmark complete writes strictly below 5 seconds/frame before a batch.
 5. Return those later replacement versions to Radzi. He alone updates film assembly. Keep old consumers unmigrated until their checks pass.
 
@@ -81,7 +82,7 @@ This inventory describes the saved local candidates inspected on 27 October 2026
 
 '''
 for c in comps:
-    label='Report proposal only' if c['id']=='C03' else 'Proposal'
+    label='Owner-selected source; report only' if c['id']=='C07' else ('Report proposal only' if c['id'] in ('C03','C04') else 'Proposal')
     inv+=f"## {c['id']} — {c['component']}\n\n**{label}:** {c['choice']}. **Proposed master/reference:** {c['master']}\n\n**Consumers:** {c['consumers']}\n\n**Observed:** {c['actual']}\n\n**Why / visual impact:** {c['reason']} {c['impact']}\n\n**Limits:** {c['limits']}\n\n**Inspect:** "+' · '.join(f"[{by_image[id]['title']}]({by_image[id]['image']})" for id in c['images'])+'\n\n'
 inv+='''## Evidence and interpretation limits
 
@@ -146,11 +147,11 @@ write('image-index.md',ix)
 E=html.escape
 page='''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ECCO-049 — Component review</title><style>
 body{margin:0;background:#101820;color:#e4edf2;font:16px/1.5 system-ui,sans-serif}main{max-width:1280px;margin:auto;padding:28px}h1{font-size:32px;line-height:1.2}h2{margin-top:48px}p{max-width:920px}a{color:#8bdaea}nav{display:flex;gap:18px;flex-wrap:wrap;padding:14px 0}.tag{color:#f5cc80}section{border-top:1px solid #35414b;margin-top:28px;padding-top:10px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,360px),1fr));gap:16px}figure{margin:0;background:#19252f;border:1px solid #344652}img{width:100%;display:block}figcaption{padding:10px;font-size:14px}.note{color:#b4c8d3}summary{cursor:pointer;color:#a0ddec}code{overflow-wrap:anywhere}td,th{text-align:left;vertical-align:top;padding:9px;border-bottom:1px solid #35414b}table{width:100%;border-collapse:collapse}button{padding:8px} @media print{body{background:white;color:black}a{color:#075366}section{break-inside:avoid}}
-</style><main><p class="tag">ECCO-049 · 27 October 2026 · C03 proposal recorded; report only</p><h1>Keep the shots. Choose what becomes shared.</h1><p>The completed previs is the baseline. The housing shape matches across the inspected sources. The useful differences are the finish, environment, explanatory views and behavior. No scenes have been edited.</p><nav><a href="comparison.md">Short proposal</a><a href="inventory.md">Inventory</a><a href="source-index.md">Exact sources</a><a href="image-index.md">Image index</a></nav><p class="tag"><b>C03 report proposal:</b> combine the well environment and formation into one modular shared environment, with controls for rock, borehole variants, casing, cement, mud and wider ground context. C04 casing/cement/channel/wear objects belong inside C03; animation demonstrations are separate from the physical asset. Each scene uses the parts it needs while preserving its approved camera, motion, lighting and cutaways.</p><p class="note">C03 replaces the earlier keep-local recommendation. Other component choices remain proposals. No environment build or scene migration is authorized; original native scenes remain preserved.</p><h2>Component choices and proposals</h2><table><tr><th>Component</th><th>Choice</th></tr>'''
+</style><main><p class="tag">ECCO-049 · 27 October 2026 · C03/C04 grouping and C07 source recorded; report only</p><h1>Keep the shots. Choose what becomes shared.</h1><p>The completed previs is the baseline. The housing shape matches across the inspected sources. The useful differences are the finish, environment, explanatory views and behavior. No scenes have been edited.</p><nav><a href="comparison.md">Short proposal</a><a href="inventory.md">Inventory</a><a href="source-index.md">Exact sources</a><a href="image-index.md">Image index</a></nav><p class="tag"><b>C03 report proposal:</b> combine the well environment and formation into one modular shared environment, with controls for rock, borehole variants, casing, cement, mud and wider ground context. C04 casing/cement/channel/wear objects belong inside C03; animation demonstrations are separate from the physical asset. Each scene uses the parts it needs while preserving its approved camera, motion, lighting and cutaways.</p><p class="tag"><b>C07 hydraulic source selected:</b> Section 5 previs v020. Use its approved amber flow, cuttings and motion; the earlier Hydraulics v003 demo is historical comparison. Source selection only: no extraction or migration is authorized.</p><p class="note">C03 replaces the earlier keep-local recommendation. Other component choices remain proposals. No environment build or scene migration is authorized; original native scenes remain preserved.</p><h2>Component choices and proposals</h2><table><tr><th>Component</th><th>Choice</th></tr>'''
 for c in comps:page+=f'<tr><td><a href="#{c["id"]}">{E(c["component"])}</a></td><td>{E(c["choice"])}</td></tr>'
 page+='</table>'
 for c in comps:
-    label='Report proposal only' if c['id']=='C03' else 'Proposal'
+    label='Owner-selected source; report only' if c['id']=='C07' else ('Report proposal only' if c['id'] in ('C03','C04') else 'Proposal')
     page+=f'<section id="{c["id"]}"><h2>{c["id"]} · {E(c["component"])}</h2><p class="tag">{label}: {E(c["choice"])}</p><p>{E(c["reason"])}</p><div class="grid">'
     for id in c['images']:
         x=by_image[id];page+=f'<figure><a href="{x["image"]}"><img loading="lazy" src="{x["image"]}" alt="{E(x["title"])}"></a><figcaption>{E(x["title"])}<details><summary>Exact source</summary><p><code>{E(x["source"])}</code></p><p>Native: <code>{E(x["native"])}</code></p></details></figcaption></figure>'

@@ -48,7 +48,7 @@ This inventory describes the saved local candidates inspected on 27 October 2026
 
 ## C04 — Cased-hole parts — subcomponents of C03
 
-**Proposal:** Part of the well environment — report classification only. **Proposed master/reference:** CasedHole/CasedHole_v002.blend is the existing source library for physical environment subcomponents. Its support/retrieval demos remain separate review scenes.
+**Report proposal only:** Part of the well environment — report classification only. **Proposed master/reference:** CasedHole/CasedHole_v002.blend is the existing source library for physical environment subcomponents. Its support/retrieval demos remain separate review scenes.
 
 **Consumers:** S04-A/B/C/D
 
@@ -90,17 +90,17 @@ This inventory describes the saved local candidates inspected on 27 October 2026
 
 ## C07 — Hydraulic flow and cuttings
 
-**Proposal:** Retain S05 / combine interface later. **Proposed master/reference:** Current S05 v020 appearance and motion; retain Hydraulics/Hydraulics_v003.blend as the earlier reusable control reference
+**Owner-selected source; report only:** Use Section 5 previs v020 — owner-selected source; report only. **Proposed master/reference:** 05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Scenes/S05_continuous-camera_v020.blend
 
 **Consumers:** S05-A/B/C
 
 **Observed:** S05 owns local housing, S05_Guide paths, amber fluid/trails and mineral cuttings; it does not link Hydraulics v003. The retained ECCO library entry has no linked object datablocks in that file. Earlier T48 has fine continuous guides, sparse cuttings and a narrow checked centred clearance.
 
-**Why / visual impact:** The current richer amber treatment was approved. Later extract S05 behavior behind stable visibility/speed controls, rather than reinstating the older sparse demo. Preserve common axial rotation, A-to-B attention transfer, B/C interactions and final whole-body reveal.
+**Why / visual impact:** Radzi selected Section 5 previs v020 for the hydraulic appearance and motion: its amber fluid/trails, cuttings and existing flow behavior. Earlier Hydraulics_v003 is retained as historical comparison only, not the selected hydraulic source. Preserve common axial rotation, A-to-B attention transfer, B/C interactions and final whole-body reveal.
 
-**Limits:** No CFD, measured velocity/pressure or certified stage-face assignment. T48 clearance numbers apply only to its declared centred pose and do not certify S05 trajectories.
+**Limits:** No CFD, measured velocity/pressure or certified stage-face assignment. T48 clearance numbers apply only to its declared centred pose and do not certify S05 trajectories. Source selection recorded only: no extraction, consolidation, polishing, retiming or scene migration is authorized.
 
-**Inspect:** [T48 Hydraulics v003 | reuse B f48](Images/T48-flow.jpg) · [S05 v020 | native f50](Images/S05_video-frame-0050.jpg) · [S05 v020 | native f205](Images/S05_video-frame-0205.jpg) · [S05 v020 | native f390](Images/S05_video-frame-0390.jpg)
+**Inspect:** [S05 v020 | native f50](Images/S05_video-frame-0050.jpg) · [S05 v020 | native f205](Images/S05_video-frame-0205.jpg) · [S05 v020 | native f390](Images/S05_video-frame-0390.jpg) · [T48 Hydraulics v003 | reuse B f48](Images/T48-flow.jpg)
 
 ## C08 — Reconstruction, amplitude, map and report
 

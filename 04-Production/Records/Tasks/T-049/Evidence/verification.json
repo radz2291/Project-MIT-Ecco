@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "checks": 486,
+  "checks": 487,
   "failed": [],
   "results": [
     {
@@ -1809,11 +1809,6 @@
       "detail": null
     },
     {
-      "check": "link-inventory.md-Images/T48-flow.jpg",
-      "pass": true,
-      "detail": null
-    },
-    {
       "check": "link-inventory.md-Images/S05_video-frame-0050.jpg",
       "pass": true,
       "detail": null
@@ -1825,6 +1820,11 @@
     },
     {
       "check": "link-inventory.md-Images/S05_video-frame-0390.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T48-flow.jpg",
       "pass": true,
       "detail": null
     },
@@ -1905,6 +1905,11 @@
     },
     {
       "check": "link-report.md-image-index.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-owner-decisions.json",
       "pass": true,
       "detail": null
     },
@@ -2254,16 +2259,6 @@
       "detail": null
     },
     {
-      "check": "link-review.html-Images/T48-flow.jpg",
-      "pass": true,
-      "detail": null
-    },
-    {
-      "check": "link-review.html-Images/T48-flow.jpg",
-      "pass": true,
-      "detail": null
-    },
-    {
       "check": "link-review.html-Images/S05_video-frame-0050.jpg",
       "pass": true,
       "detail": null
@@ -2290,6 +2285,16 @@
     },
     {
       "check": "link-review.html-Images/S05_video-frame-0390.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T48-flow.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T48-flow.jpg",
       "pass": true,
       "detail": null
     },

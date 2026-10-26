@@ -55,5 +55,21 @@
       "report_change": "Classify the physical casing, cement, channel and wear objects as subcomponents of the shared well environment (C03). Retain C04 only as a detail/comparison subsection. Keep demonstration animation separate from the physical-asset classification.",
       "implementation_authorized": false
     }
+  },
+  {
+    "id": "C07-hydraulic-source-2026-10-27",
+    "component": "C07",
+    "owner": "Radzi",
+    "date_local": "2026-10-27",
+    "source": "Direct owner instruction in ECCO-049 review chat",
+    "owner_quote": "For the hydraulic, We use the previs section five hydraulic.",
+    "selected_native": "05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Scenes/S05_continuous-camera_v020.blend",
+    "selected_video": "05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Previews/S05_continuous-camera_v020.mp4",
+    "native_sha256": "3583b6bbbf1d33df3f191024658e407953610a6b137dd5e242a28e1b100db7a0",
+    "video_sha256": "f07f59b90dcbdd6b79930db20d6e5d3558db9f0dd0536fe10e62e148dfd016dd",
+    "selection": "S05 v020 hydraulic appearance and motion, including amber fluid/trails, cuttings and existing flow behavior. Preserve its approved camera, rotation and timing.",
+    "earlier_shared_hydraulics": "Hydraulics_v003 remains preserved historical comparison; not selected as the replacement source.",
+    "implementation_authorized": false,
+    "scope_now": "Record source selection in report and review page only. No extraction, asset consolidation, polishing or scene migration."
   }
 ]
