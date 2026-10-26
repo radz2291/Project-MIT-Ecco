@@ -1,0 +1,2091 @@
+[
+  {
+    "id": "S01",
+    "native": "05-Previs/Section-01_Continuous-Descent/v001/Gentle-10s-Finish/Scenes/S01_gentle-10s-finish.blend",
+    "sha256": "ee91462f1acd41dc7176809bba207f540ff317f0f91f4741fba5594d461a3f2e",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "S01 continuous descent - rough camera study",
+        "frame_start": 1,
+        "frame_end": 240,
+        "saved_frame": 193,
+        "fps": 24.0,
+        "engine": "BLENDER_WORKBENCH",
+        "resolution": [
+          960,
+          540,
+          100
+        ],
+        "camera": "CAM_S01_Continuous",
+        "world": "Dark underground",
+        "markers": [
+          [
+            "A Surface",
+            1,
+            null
+          ],
+          [
+            "B Enter tunnel",
+            97,
+            null
+          ],
+          [
+            "C Extended enclosed travel",
+            126,
+            null
+          ],
+          [
+            "D Smooth cutaway transition",
+            141,
+            null
+          ],
+          [
+            "E Cutaway descent",
+            152,
+            null
+          ],
+          [
+            "F Gradual product approach",
+            169,
+            null
+          ],
+          [
+            "Section 2 first-ping handoff",
+            240,
+            null
+          ]
+        ],
+        "custom": {
+          "Constant_descent_speed_m_per_s": "108.95522388059702",
+          "Scope": "13sec continuous previs. Earlier movement preserved through9.5sec. Quintic depth braking and lateral approach9.5-13sec settle at product with zero velocity and acceleration. Simplified geometry remains.",
+          "Short_version": "10sec cinematic transition: first96frames unchanged; quintic speed envelope;2sec lateral reveal5-7sec flows directly into3sec product arrival; no separate straight earth-layer phase. Opening and narrowing coordinated independently with camera clearance.",
+          "Narrowing_complete_frame": "140",
+          "Product_established_frame": "187",
+          "Product_center_depth_m": "730",
+          "Approach": "Closer cutaway from start; fixed XY from frame169; straight axial braking to frame187; product established early with no late lateral move.",
+          "Reveal": "Wide earth view restored, fixedXY=(6,-24) from7sec, product established~7.5sec, lens push finishes8sec, continual0.3m/s axial drift through end.",
+          "Ending": "Reveal starts~7sec; lens settles gently over6.125-10sec; downward drift decelerates continuously from7.5sec tozero at10sec; wide earth view and fixedXY retained."
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-01_Continuous-Descent\\v001\\Gentle-10s-Finish\\Scenes\\..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "CAM_S01_Continuous",
+        "lens": 71.0848388671875,
+        "camera_animation_sha256": "6b32b3382086a2a2b41b6cc3ab4e264cfd960abbc90f12fc87f06de8bc5d6472",
+        "lens_animation_sha256": "6b32b3382086a2a2b41b6cc3ab4e264cfd960abbc90f12fc87f06de8bc5d6472"
+      }
+    ],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 246,
+      "local_objects": 228,
+      "linked_objects": 18,
+      "materials": 37,
+      "meshes": 237
+    },
+    "categories": {
+      "camera": 1,
+      "BHA-bit-connection": 2,
+      "ECCO": 19,
+      "environment": 32,
+      "sensing-data-graphics": 63,
+      "flow": 1
+    },
+    "object_state_sha256": "fe8bc756c95d28d5a1867c8e9c60345f8d2d113c9438e8539f2477f62d0894d4",
+    "materials_sha256": "f12ca601eb1245b12b12100033b62ece7b0e578c077a26184222418d2763c35a",
+    "raw_evidence_sha256": "47945afba9d2f8810be43ded020dc17faf011fd7f75d29984b45a9de48e225e8"
+  },
+  {
+    "id": "S02",
+    "native": "05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend",
+    "sha256": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "S01 continuous descent - rough camera study",
+        "frame_start": 1,
+        "frame_end": 528,
+        "saved_frame": 528,
+        "fps": 24.0,
+        "engine": "BLENDER_WORKBENCH",
+        "resolution": [
+          960,
+          540,
+          100
+        ],
+        "camera": "CAM_S01_Continuous",
+        "world": "Dark underground",
+        "markers": [
+          [
+            "A Surface",
+            1,
+            null
+          ],
+          [
+            "B Enter tunnel",
+            97,
+            null
+          ],
+          [
+            "C Extended enclosed travel",
+            126,
+            null
+          ],
+          [
+            "D Smooth cutaway transition",
+            141,
+            null
+          ],
+          [
+            "E Cutaway descent",
+            152,
+            null
+          ],
+          [
+            "F Gradual product approach",
+            169,
+            null
+          ],
+          [
+            "Section 2 first-ping handoff",
+            240,
+            null
+          ]
+        ],
+        "custom": {
+          "Constant_descent_speed_m_per_s": "108.95522388059702",
+          "Scope": "13sec continuous previs. Earlier movement preserved through9.5sec. Quintic depth braking and lateral approach9.5-13sec settle at product with zero velocity and acceleration. Simplified geometry remains.",
+          "Short_version": "10sec cinematic transition: first96frames unchanged; quintic speed envelope;2sec lateral reveal5-7sec flows directly into3sec product arrival; no separate straight earth-layer phase. Opening and narrowing coordinated independently with camera clearance.",
+          "Narrowing_complete_frame": "140",
+          "Product_established_frame": "187",
+          "Product_center_depth_m": "730",
+          "Approach": "Closer cutaway from start; fixed XY from frame169; straight axial braking to frame187; product established early with no late lateral move.",
+          "Reveal": "Wide earth view restored, fixedXY=(6,-24) from7sec, product established~7.5sec, lens push finishes8sec, continual0.3m/s axial drift through end.",
+          "Ending": "Reveal starts~7sec; lens settles gently over6.125-10sec; downward drift decelerates continuously from7.5sec tozero at10sec; wide earth view and fixedXY retained.",
+          "owner_approval": "Radzi approved Section 2 v011, 2026-10-19"
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "CAM_S01_Continuous",
+        "lens": 55.0,
+        "camera_animation_sha256": "2d0fcc14049e640c6d9469e6b32c86a40280378c8bb1f50ee030cbdff3b4acd5",
+        "lens_animation_sha256": "2d0fcc14049e640c6d9469e6b32c86a40280378c8bb1f50ee030cbdff3b4acd5"
+      }
+    ],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 571,
+      "local_objects": 553,
+      "linked_objects": 18,
+      "materials": 841,
+      "meshes": 369
+    },
+    "categories": {
+      "camera": 1,
+      "BHA-bit-connection": 2,
+      "sensing-data-graphics": 371,
+      "ECCO": 22,
+      "environment": 57,
+      "flow": 1
+    },
+    "object_state_sha256": "6611882aed0efc37207dda2d35ec5b566b6f422075bcc6f59464751f747fbef0",
+    "materials_sha256": "1e578c80f06c4a8b4355fd5b2d9f68c833cb9fcb1d76053a3fd036bb929893d5",
+    "raw_evidence_sha256": "8d318ad970ece227246c97e684e01ea0716b90c4ec21036d1d349003ba385c1e"
+  },
+  {
+    "id": "S03",
+    "native": "05-Previs/Section-03_The-Earth-Revealed/v036/Scenes/S03_second-last-nominal-label_v036.blend",
+    "sha256": "371093affa9b9d05416b3d39c6bfe53716ce5c2f3dbaf2130dcbe226152b4757",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Section 3 v033 - smooth drone pullback ending",
+        "frame_start": 1,
+        "frame_end": 432,
+        "saved_frame": 60,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          960,
+          540,
+          100
+        ],
+        "camera": "S03 continuous camera - established choreography",
+        "world": "Section3 navy",
+        "markers": [
+          [
+            "Expected size - continuous approach",
+            1,
+            null
+          ],
+          [
+            "Enter the geological opening",
+            49,
+            null
+          ],
+          [
+            "Axial discovery",
+            121,
+            null
+          ],
+          [
+            "Tight wall inspection",
+            193,
+            null
+          ],
+          [
+            "Open foreground and pull outward",
+            241,
+            null
+          ],
+          [
+            "Fixed amplitude data reveal",
+            313,
+            null
+          ]
+        ],
+        "custom": {
+          "basis": "Section3 v002 geometry and camera samples, copied locally",
+          "reference_status": "Existing provisional .156m radius; uncalibrated illustrative preview",
+          "amplitude_status": "Fixed illustrative azimuth-depth image displayed unlit; no amplitude-driven geometry, bump or specular response",
+          "source_vertex_hash": "bf3923682b0edb1e79551b4d1b14af1dbe185fe662d14bbb9892c6f75b2e7bad",
+          "geometry_classification": "R156mm provisional reference, +/-1mm preview tolerance; approved illustrative tight sector R154mm. No product/BHA present.",
+          "organic_controls": "{\"seeds\": [[-0.22165982828203037, -1.7924584960937864, 31], [-1.3497792283741803, 0.5925512695312136, 31], [-1.0060549782789605, 1.4175024414062136, 31], [1.9388733845867856, -0.5475244140625364, 31], [2.7724518584773925, 1.1024999999999636, 31]], \"start_frames\": [290, 299, 311, 321, 331], \"rates\": [0.8, 0.96, 0.88, 1.04, 0.91], \"boundary_irregularity\": [0.13, 0.07], \"blend_frames\": 18, \"complete_frame\": 408}",
+          "v006_status": "Owner authorized R154mm illustrative geometry and organic reveal, with scientific amplitude refinements",
+          "physical_passage_claim": "False",
+          "geometry_source_vertex_hash": "bf3923682b0edb1e79551b4d1b14af1dbe185fe662d14bbb9892c6f75b2e7bad",
+          "amplitude_image_sha256": "237305abd82c972055da1f5ecc602befb4b15918e3015478a76318bc05e1931c",
+          "original_amplitude_sha256": "f765fb53166386cb3bfa5821b4b02767ba34c26935b8476176ba0293bcb98a9e",
+          "mask_completion_frame": "383",
+          "v007_status": "Complete 18-second review candidate; approved independent data-layer appearance with slight display contrast increase",
+          "texture_file_sha256": "e667a952dcd64840cb1e29376911a3437ad890bdb747292fe7a87d7ca7736649",
+          "local_contrast_display_gain": "0.12",
+          "review_status": "Geometry-only test before full integration",
+          "amplitude_system_modified": "False",
+          "physical_bha_passage_claim": "False",
+          "nominal_radius_m": "0.156",
+          "classification_tolerance_m": "0.001",
+          "no_spiral_or_helical_phase": "True",
+          "integration_status": "18-second review candidate; approved v009 geometry, seamless derivative of approved v013 image, accepted organic reveal and focused side-on amplitude",
+          "camera_architecture": "Established v007 route/lens with targeted aim correction and a wider geometry overview; original entry and final amplitude framing preserved",
+          "source_image_preserved": "True",
+          "geometry_driven_by_amplitude": "False",
+          "physical_BHA_passage_depicted": "False",
+          "amplitude_phase": "No changes to fixed recorded values during reveal. Narrow periodic edge matching is a saved image derivative.",
+          "revision": "Five original seed-growth graphs preserved; residual finish eased across clock 350-420 using smootherstep and continuous remaining-fraction blend. Amplitude 82 percent diffuse, 18 percent emission. No geometry/image/UV/camera changes.",
+          "amplitude_shading": "User-requested 60 percent emission plus 40 percent rough diffuse; fixed image color; unchanged surface normals; no bump, displacement, metallic or specular shaping.",
+          "review_stage": "FIRST PASS: environment and camera choreography only; no finishing approval",
+          "editorial_cuts": "<bpy id property array [0]>",
+          "engineering_geometry_changed": "False",
+          "amplitude_data_changed": "False",
+          "amplitude_display": "unlit, per current redesign brief",
+          "environment_role": "Solid dark geological half-space, borehole void, cyan strata, grazing illumination and bounded haze; measured reconstruction unchanged.",
+          "scope": "18-second review: v018 choreography, v023 physical surface/radius display, macro tight inspection, original fixed amplitude and reveal retained.",
+          "illustrative_not_field_data": "True",
+          "macro_overlay_role": "Exact projected world-space physical cross-section; native motion-graphic shape keys only; wall is static.",
+          "preview_surface_approximation": "{\"full_evaluated_vertices\": 1576704, \"static_preview_vertices\": 473548, \"static_preview_polygons\": 945560, \"tight_section_max_radial_error_mm\": 0.0009509876726654376, \"radius_min_mm\": 154.0350216121691, \"physical_surface_source_preserved\": \"v023 full-detail scene\", \"reason\": \"Static working-resolution mesh avoids per-frame subdivision allocations and GPU driver instability\", \"data_colors\": \"Still calculated from actual preview surface radius, not painted textures\"}",
+          "ground_presentation": "Progressive angular opening; full ground inside; foreground opened before camera departure.",
+          "camera_treatment": "First240 frames preserved. One monotonic C2 outward trajectory to a drone-wide view, followed by a gentle settle. No local bends, height reversals or delayed bank ramp.",
+          "composition": "Fixed shift_x=-1/6, no shift animation. Main gaze anchor lies on right vertical third at mid height. Tight wall is composed at the side, not below camera."
+        }
+      }
+    ],
+    "libraries": [],
+    "cameras": [
+      {
+        "name": "S03 continuous camera - established choreography",
+        "lens": 39.67561721801758,
+        "camera_animation_sha256": "6f7038c97c1c02142953d2c6d6ea086d53970258a30f45cfc9d3229c6698ae4e",
+        "lens_animation_sha256": "6f7038c97c1c02142953d2c6d6ea086d53970258a30f45cfc9d3229c6698ae4e"
+      }
+    ],
+    "images": [
+      {
+        "name": "S03 illustrative formation response - fixed independent image",
+        "path": "//..\\Data\\packed-source_58acba42cacee5a6.png",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v036\\Scenes\\..\\Data\\packed-source_58acba42cacee5a6.png",
+        "packed": true,
+        "source": "FILE",
+        "exists": true
+      },
+      {
+        "name": "S03 v007 approved recorded-amplitude data layer",
+        "path": "//..\\Data\\packed-source_58377e10ca460583.png",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v036\\Scenes\\..\\Data\\packed-source_58377e10ca460583.png",
+        "packed": true,
+        "source": "FILE",
+        "exists": true
+      },
+      {
+        "name": "S03 v014 approved seamless illustrative amplitude",
+        "path": "//..\\Data\\packed-source_8f392a7407ba14f7.png",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v036\\Scenes\\..\\Data\\packed-source_8f392a7407ba14f7.png",
+        "packed": true,
+        "source": "FILE",
+        "exists": true
+      }
+    ],
+    "fonts": [
+      {
+        "name": "Bfont Regular",
+        "path": "<builtin>",
+        "packed": false
+      }
+    ],
+    "counts": {
+      "objects": 1153,
+      "local_objects": 1153,
+      "linked_objects": 0,
+      "materials": 100,
+      "meshes": 12
+    },
+    "categories": {
+      "environment": 12,
+      "sensing-data-graphics": 1087,
+      "light": 3,
+      "camera": 1
+    },
+    "object_state_sha256": "c182327c5bfc850dd97537c52cfaacaf5b25e4acc10811987b84de8f1eee06cc",
+    "materials_sha256": "299e8572d59230108972e153f26dc293bcaae119a3df777936539bccd8a0acc7",
+    "raw_evidence_sha256": "6d2310e587b969f58de0647ea0408e6c49ba039bb87af35743893056199d204b"
+  },
+  {
+    "id": "S04",
+    "native": "04-Production/Shots/S04/S04-A/Previs_v033/Scenes/S04_continuous_ABCD_v033.blend",
+    "sha256": "018f65027ab9f190709085bcaf103edf10dc565bc49ab2c76d0dad79675ec77f",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "S04 continuous A B C D - high crossing v033",
+        "frame_start": 1,
+        "frame_end": 432,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "S04 proof camera",
+        "world": "Deep well explanatory illumination.002",
+        "markers": [
+          [
+            "A - casing entry",
+            1,
+            null
+          ],
+          [
+            "B - supported backing",
+            63,
+            null
+          ],
+          [
+            "C - reduced support",
+            175,
+            null
+          ],
+          [
+            "High crossing and style transition",
+            262,
+            null
+          ],
+          [
+            "D - sensor passes wear",
+            337,
+            null
+          ]
+        ],
+        "custom": {
+          "scope": "Owner released full18s continuous ABCD integration: approved ABC, higher overhead crossing, wear further ahead, accepted close side-offset D with drift. Illustrative data, not field measurement.",
+          "limitations": "Fixed inspection pose; no calibrated acoustics, full retrieval/response timing or voice sync claimed. Source meshes linked, no geometry change. Clear-fluid optical approximation and temporary viewing access.",
+          "contract": "04-Production/Shots/S04/S04-A/direction.md",
+          "interpretation": "Generic pulse echo principle, slowed illustrative response; no quantitative ECCO performance claim",
+          "channel_derivative": "Organic local annular boundary varies within original .30-.80rad envelope; canonical steel and all shared masters unchanged",
+          "director_application": "Authored diagonal wide arrivals; same relative B/C view; faster axial tracking reveals two fixed backing locations; move tool clear before D so complete curvature can be inspected. Preserve source-derived engineering geometry.",
+          "source_camera": "S04 proof camera",
+          "still_cameras": "A1; A2; B1; B2; C1; C2; D1; D2",
+          "source_geometry_unchanged": "True",
+          "display_limits": "Enlarged illustrative wavefront width and casing-bound reaction footprint; not physical wave amplitude, penetration depth, calibrated time or field data.",
+          "review_scope": "v022 owner-requested whole-video review. D detection tied to ECCO sensor instead of bit. Explanatory housing transparency is a new review choice."
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "S04 proof camera",
+        "lens": 32.0,
+        "camera_animation_sha256": "049db2466b2ffd1c753dbe37ce7e0b8d5d48c053de4c1808ff388cd1515acdd1",
+        "lens_animation_sha256": "049db2466b2ffd1c753dbe37ce7e0b8d5d48c053de4c1808ff388cd1515acdd1"
+      }
+    ],
+    "images": [],
+    "fonts": [
+      {
+        "name": "Bfont Regular",
+        "path": "<builtin>",
+        "packed": false
+      },
+      {
+        "name": "Segoe UI Regular",
+        "path": "C:\\Windows\\Fonts\\segoeui.ttf",
+        "packed": false
+      }
+    ],
+    "counts": {
+      "objects": 934,
+      "local_objects": 743,
+      "linked_objects": 191,
+      "materials": 428,
+      "meshes": 613
+    },
+    "categories": {
+      "BHA-bit-connection": 144,
+      "sensing-data-graphics": 87,
+      "environment": 381,
+      "ECCO": 50,
+      "light": 7,
+      "flow": 8,
+      "camera": 1
+    },
+    "object_state_sha256": "c8ddd5f5aead93bb23790f946ec958f23024a7bbc13edc997071015656ee65d1",
+    "materials_sha256": "99604a980a6cabfc3c987b5b823f563bb8f357887e63c39503665e76f319821a",
+    "raw_evidence_sha256": "da33d773dca981717cc12afdb9f968892aa5fc2992d432bd3166aab3eec368c0"
+  },
+  {
+    "id": "S05",
+    "native": "05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Scenes/S05_continuous-camera_v020.blend",
+    "sha256": "3583b6bbbf1d33df3f191024658e407953610a6b137dd5e242a28e1b100db7a0",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "S05_RichAmber_StillReview_v017",
+        "frame_start": 1,
+        "frame_end": 432,
+        "saved_frame": 72,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          960,
+          540,
+          100
+        ],
+        "camera": "S05_Camera",
+        "world": "S05_World",
+        "markers": [
+          [
+            "A / track actual lower steel feature",
+            1,
+            null
+          ],
+          [
+            "A to B / continuous attention transfer",
+            72,
+            null
+          ],
+          [
+            "B / retained interaction arrival",
+            165,
+            null
+          ],
+          [
+            "B to C / retained follow",
+            246,
+            null
+          ],
+          [
+            "C / retained detail",
+            330,
+            null
+          ],
+          [
+            "C / retained final arrival",
+            402,
+            null
+          ]
+        ],
+        "custom": {
+          "proof_scope": "v017 slightly restored fog and richer matching amber rocks/trails; still approval only.",
+          "palette_status": "Amber approved by owner for v002",
+          "production_scope": "v020 continuous camera proof. A tracks real steel landmark then transfers focus continuously into retained B; frame165 onward retains v019 exactly. Hydraulic content unchanged.",
+          "editorial_conflict": "S05 now 58-76s, 18s rather than prior12s; owner resolves S06/S07 and narration later."
+        }
+      },
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": "Camera",
+        "world": "World",
+        "markers": [],
+        "custom": {}
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v020\\Scenes\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "Camera",
+        "lens": 50.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      },
+      {
+        "name": "S05_Camera",
+        "lens": 44.0,
+        "camera_animation_sha256": "0d1118bb9cec551d0015ad4335ae0da700ecc294a98a90b54be658b87d894c75",
+        "lens_animation_sha256": "0d1118bb9cec551d0015ad4335ae0da700ecc294a98a90b54be658b87d894c75"
+      }
+    ],
+    "images": [],
+    "fonts": [
+      {
+        "name": "Bfont Regular",
+        "path": "<builtin>",
+        "packed": false
+      },
+      {
+        "name": "Segoe UI Regular",
+        "path": "C:\\Windows\\Fonts\\segoeui.ttf",
+        "packed": true
+      }
+    ],
+    "counts": {
+      "objects": 495,
+      "local_objects": 495,
+      "linked_objects": 0,
+      "materials": 32,
+      "meshes": 440
+    },
+    "categories": {
+      "camera": 2,
+      "light": 4,
+      "flow": 393,
+      "ECCO": 10,
+      "environment": 61,
+      "sensing-data-graphics": 4
+    },
+    "object_state_sha256": "234b2e7eb0c52af8399460b22611ffbe85510c1ba4ab7ed37372215fe1ed4165",
+    "materials_sha256": "b8681cd4cd5e53dc984a4c8bdc99774615ff6a384a1bb5eb8b1d4b70c99d82d4",
+    "raw_evidence_sha256": "96044b379f35a7d99f6c4fba31267baa27fbf0972b2bdc6a8ee374f312b754a2"
+  },
+  {
+    "id": "S06",
+    "native": "04-Production/Studies/S06_Report-Recreation_v004/Scenes/S06_cinematic-study_v004_polished.blend",
+    "sha256": "7f2a0086992be7c12c0896505d6fafbc42d82c7967a89ef9686f885bb06374a3",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "S06 v004 | continuous cinematic study",
+        "frame_start": 1,
+        "frame_end": 288,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "Continuous S06 camera",
+        "world": "A | Borehole to reconstruction studio.001",
+        "markers": [],
+        "custom": {
+          "scope": "Owner-authorized 12 second v004 animation from approved still direction",
+          "provenance": "Report-inspired illustrative geometry; not field measurements; after-run processing",
+          "dataset": "//../Data/story_field.npz",
+          "transition_polish": "Gaussian-smoothed source path; map-size-following camera handoff; staged screen/laptop arrival. Geometry and 12-second timeline retained."
+        }
+      }
+    ],
+    "libraries": [],
+    "cameras": [
+      {
+        "name": "Continuous S06 camera",
+        "lens": 48.0,
+        "camera_animation_sha256": "81fc0c3421868afe31af597dac29364ae2ddf283240dadb112aaacdf11bb6076",
+        "lens_animation_sha256": "81fc0c3421868afe31af597dac29364ae2ddf283240dadb112aaacdf11bb6076"
+      }
+    ],
+    "images": [],
+    "fonts": [
+      {
+        "name": "Bfont Regular",
+        "path": "<builtin>",
+        "packed": false
+      },
+      {
+        "name": "Segoe UI Regular",
+        "path": "//..\\..\\..\\..\\..\\..\\..\\..\\..\\Windows\\Fonts\\segoeui.ttf",
+        "packed": true
+      }
+    ],
+    "counts": {
+      "objects": 295,
+      "local_objects": 295,
+      "linked_objects": 0,
+      "materials": 31,
+      "meshes": 102
+    },
+    "categories": {
+      "environment": 5,
+      "light": 4,
+      "sensing-data-graphics": 21,
+      "ECCO": 12,
+      "flow": 1
+    },
+    "object_state_sha256": "4d96f193300fff50eba33e61d68ad62a926b7da497e00924c2650a32869fe80a",
+    "materials_sha256": "47e2ed0212ecf7bc11288c7c93d9d3bc208506763ea03bdc65a23a5f56fb41a5",
+    "raw_evidence_sha256": "c1f75d8edf4845d183fb316083dcd363bf063a4551c8a56b3da78f0ec0cb37f1"
+  },
+  {
+    "id": "S07",
+    "native": "04-Production/Shots/S07/Sequence_v006/Scenes/S07_Monumental-Precision_v006.blend",
+    "sha256": "62cc6fefc08b75a2506ba8c13297c1a5bcfef2a41d079dd42f1f3584edf2c548",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "S07 | Monumental Precision",
+        "frame_start": 1,
+        "frame_end": 192,
+        "saved_frame": 160,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "S07 discovery camera",
+        "world": "S07 charcoal studio",
+        "markers": [
+          [
+            "SHOT 1 | unchanged",
+            1,
+            null
+          ],
+          [
+            "SHOT 2 | unchanged",
+            61,
+            null
+          ],
+          [
+            "SHOT 3 | close moving pullback",
+            121,
+            null
+          ],
+          [
+            "Pullback settles into full hero",
+            156,
+            null
+          ],
+          [
+            "Fade to black",
+            164,
+            null
+          ],
+          [
+            "Black endpoint",
+            190,
+            null
+          ]
+        ],
+        "custom": {
+          "task": "T44 A-WORLD; reusable illustration, not engineering certification or full film shot",
+          "owner_authority": "S07 Full Cinematic Production handoff, 25 October 2026; 192f full previs",
+          "source_geometry_sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+          "illustrative_limits": "Source scale preserved; temporary closures retained; satin finish is art direction. No field-data provenance claim. MIT LOGO is editable placeholder.",
+          "revision": "v006 | first two shots preserved; third shot begins close at moving speed, strong retreat then gentle hero drift; no logo and black ending"
+        }
+      }
+    ],
+    "libraries": [],
+    "cameras": [
+      {
+        "name": "S07 discovery camera",
+        "lens": 55.0,
+        "camera_animation_sha256": "43fd31d771bdb302c1019b1c5413d5fd5899b6d2f550fe5d3f8a873edf9d0684",
+        "lens_animation_sha256": "43fd31d771bdb302c1019b1c5413d5fd5899b6d2f550fe5d3f8a873edf9d0684"
+      }
+    ],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 25,
+      "local_objects": 25,
+      "linked_objects": 0,
+      "materials": 13,
+      "meshes": 12
+    },
+    "categories": {
+      "light": 4,
+      "ECCO": 18,
+      "flow": 1,
+      "camera": 1,
+      "sensing-data-graphics": 3
+    },
+    "object_state_sha256": "9eb451c4af82836f40d2941a7aa8b0ab19840be361284ab40be427ed9fa647b1",
+    "materials_sha256": "88865b91bf61b3c3feaba1b8a140964d460af73fb5b36d097a7c224d1eb256b3",
+    "raw_evidence_sha256": "5c6b970362f7a2120c245a44d3ec44648bb93192854ccf488aea9fd6d7d1fd4c"
+  },
+  {
+    "id": "ECCO-T5",
+    "native": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+    "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "PZ12-8301 Main Housing",
+        "frame_start": 1,
+        "frame_end": 1,
+        "saved_frame": 0,
+        "fps": 24.0,
+        "engine": "BLENDER_WORKBENCH",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "INSPECT_overview",
+        "world": null,
+        "markers": [],
+        "custom": {
+          "B101": "v002 temporary closures per producer relayed client message, 15 October 2026. No manufacturing approval."
+        }
+      },
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": "Camera",
+        "world": "World",
+        "markers": [],
+        "custom": {}
+      }
+    ],
+    "libraries": [],
+    "cameras": [
+      {
+        "name": "Camera",
+        "lens": 50.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      },
+      {
+        "name": "INSPECT_end-X0",
+        "lens": 50.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      },
+      {
+        "name": "INSPECT_opposite",
+        "lens": 50.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      },
+      {
+        "name": "INSPECT_overview",
+        "lens": 50.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      },
+      {
+        "name": "INSPECT_sensor-closeup",
+        "lens": 50.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      }
+    ],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 25,
+      "local_objects": 25,
+      "linked_objects": 0,
+      "materials": 4,
+      "meshes": 12
+    },
+    "categories": {
+      "camera": 4,
+      "ECCO": 19,
+      "flow": 1,
+      "light": 1,
+      "sensing-data-graphics": 3
+    },
+    "object_state_sha256": "cc2e41385288e7cef54d7c992f0ae281645edfc8670b193821b5545ecb0c1091",
+    "materials_sha256": "a0034c0e4637059869acf17ab85e5d1f45917b70168dae80723a17029829b6e1",
+    "raw_evidence_sha256": "c5eaf1eac7313573021661323bcd1f845504543e1e991c2e0f0c6583c3556b44"
+  },
+  {
+    "id": "ECCO-film",
+    "native": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+    "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": null,
+        "world": null,
+        "markers": [],
+        "custom": {
+          "task": "T44 A-WORLD; reusable illustration, not engineering certification or full film shot"
+        }
+      }
+    ],
+    "libraries": [],
+    "cameras": [],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 18,
+      "local_objects": 18,
+      "linked_objects": 0,
+      "materials": 2,
+      "meshes": 11
+    },
+    "categories": {
+      "ECCO": 18,
+      "flow": 1,
+      "sensing-data-graphics": 3
+    },
+    "object_state_sha256": "644df5b05e68388efdd85e72ddb3ef1c9f4651cd1ba63b1c63d8de46e6a82439",
+    "materials_sha256": "09ee53175c83de3c308f3e73c035ace91a43b75d790d837a371ce40695523e43",
+    "raw_evidence_sha256": "7c73fecaaef6407761d4fdf290a450f7278b5fbf13a161a0fd890f47cdd54e12"
+  },
+  {
+    "id": "BHA",
+    "native": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+    "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": null,
+        "world": null,
+        "markers": [],
+        "custom": {
+          "task": "T44 A-WORLD; reusable illustration, not engineering certification or full film shot"
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+      },
+      {
+        "raw": "//..\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\..\\ECCO\\ECCO_film_v002.blend",
+        "parent": "//BHA_film_v006.blend",
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      }
+    ],
+    "cameras": [],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 156,
+      "local_objects": 8,
+      "linked_objects": 148,
+      "materials": 11,
+      "meshes": 139
+    },
+    "categories": {
+      "BHA-bit-connection": 138,
+      "ECCO": 19,
+      "environment": 7,
+      "flow": 1,
+      "sensing-data-graphics": 3
+    },
+    "object_state_sha256": "8fc839d157d3be0cd85fbf1838b8f4fab5baa6fb33124a465526447924d31230",
+    "materials_sha256": "a93cc07549bfe65f9db389ae66768d9ea4e2be73b1734085f3e948bb9f8138cd",
+    "raw_evidence_sha256": "96f24a3b66f68f338f9763f67e862652d06abe248e7e563325c8ea69aec87004"
+  },
+  {
+    "id": "WORLD",
+    "native": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+    "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": null,
+        "world": null,
+        "markers": [],
+        "custom": {
+          "task": "T44 A-WORLD; reusable illustration, not engineering certification or full film shot"
+        }
+      }
+    ],
+    "libraries": [],
+    "cameras": [],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 20,
+      "local_objects": 20,
+      "linked_objects": 0,
+      "materials": 4,
+      "meshes": 19
+    },
+    "categories": {
+      "environment": 10,
+      "sensing-data-graphics": 4,
+      "flow": 2
+    },
+    "object_state_sha256": "5ebcea0943ee6a781067292c85c0adb9c8314135e0ad7bc9c1c8cf25421ab214",
+    "materials_sha256": "2dd548680aa3bb3452511f25029647889bfdac85533185cd2b15c5e7eb762322",
+    "raw_evidence_sha256": "46318a804082ced8acb824a70bfddc2a59078c7ac4d2a2fefc21c5998b7588b1"
+  },
+  {
+    "id": "WELL-T6",
+    "native": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+    "sha256": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 96,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_WORKBENCH",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "INSPECTION_CAMERA",
+        "world": null,
+        "markers": [],
+        "custom": {
+          "purpose": "B1 reusable well/assembly illustration and inspection. No S01-S07 shot construction or technical lock.",
+          "config": "//config_authorized_v003.json"
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "INSPECTION_CAMERA",
+        "lens": 50.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      }
+    ],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 38,
+      "local_objects": 20,
+      "linked_objects": 18,
+      "materials": 2,
+      "meshes": 26
+    },
+    "categories": {
+      "BHA-bit-connection": 5,
+      "environment": 4,
+      "ECCO": 19,
+      "camera": 1,
+      "sensing-data-graphics": 5,
+      "flow": 1
+    },
+    "object_state_sha256": "d09b980b4a9ec0b75fa49677e46e7e180c01d30454d916e1ac17a581e3fbeb8c",
+    "materials_sha256": "9903f10b28f5018aa6c277611284927f3909e7ef636beaffa8889d004ecef9f9",
+    "raw_evidence_sha256": "cf6de633e5583dc21ad4ab145010a52926c121d62450dab32ad0d147768ca6d5"
+  },
+  {
+    "id": "FORMATION",
+    "native": "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+    "sha256": "731d7dfed6e7d91ae74c05503005f43b996e98caa0120b24ad0def97ea612ac4",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": null,
+        "world": null,
+        "markers": [],
+        "custom": {
+          "task": "T44 A-WORLD; reusable illustration, not engineering certification or full film shot"
+        }
+      }
+    ],
+    "libraries": [],
+    "cameras": [],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 6,
+      "local_objects": 6,
+      "linked_objects": 0,
+      "materials": 3,
+      "meshes": 5
+    },
+    "categories": {
+      "environment": 6,
+      "sensing-data-graphics": 6
+    },
+    "object_state_sha256": "c42bb4447261554ccf4c56b4f243200c935f2329167694eacd3ff269cd74b4a4",
+    "materials_sha256": "7bcf012e466c6a48622831ef35a243ac536636136740dde65ed3500702a1b516",
+    "raw_evidence_sha256": "0abe4c4740bb7a13e1f5b51ee1a2506aee282e4d3036ce165eea3e06353af00a"
+  },
+  {
+    "id": "CASED-FORMATION",
+    "native": "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+    "sha256": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": null,
+        "world": null,
+        "markers": [],
+        "custom": {
+          "task": "T44 A-WORLD; reusable illustration, not engineering certification or full film shot"
+        }
+      }
+    ],
+    "libraries": [],
+    "cameras": [],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 2,
+      "local_objects": 2,
+      "linked_objects": 0,
+      "materials": 1,
+      "meshes": 2
+    },
+    "categories": {
+      "environment": 2
+    },
+    "object_state_sha256": "ed348716ca15831d9a88b376136e139a1cce286e0573e54ef6d455316df92977",
+    "materials_sha256": "519465c6b9625597e40f2b8fd9ec04822d310ac71b4fdd4e9e83ffad5cf30893",
+    "raw_evidence_sha256": "0e0c32605624dec69ad721a1889e2b3df78cc175beedcc451908a844243ab433"
+  },
+  {
+    "id": "SURFACE",
+    "native": "04-Production/Shared/Assets/Surface/Surface_context_v003.blend",
+    "sha256": "a68823658495ba09ca626167a3c12042ffc825cfdcde3fffd616df23a4b64aa5",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": null,
+        "world": null,
+        "markers": [],
+        "custom": {
+          "task": "T44 A-WORLD; reusable illustration, not engineering certification or full film shot"
+        }
+      }
+    ],
+    "libraries": [],
+    "cameras": [],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 444,
+      "local_objects": 444,
+      "linked_objects": 0,
+      "materials": 11,
+      "meshes": 443
+    },
+    "categories": {
+      "environment": 444,
+      "sensing-data-graphics": 4,
+      "BHA-bit-connection": 2
+    },
+    "object_state_sha256": "13cc3aad459071a35ea21d1d5988b2f0f7900628ded2313014d268d6f598ab4c",
+    "materials_sha256": "10b144b4d8eda5fe3af609cec7d3a806a2b087116b930eb301cc629a6c8d61a3",
+    "raw_evidence_sha256": "f78eaccebb26278a6135edbba825441c13af0f58056e93cf83a3c857dfd789e1"
+  },
+  {
+    "id": "ACOUSTICS",
+    "native": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+    "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": null,
+        "world": null,
+        "markers": [],
+        "custom": {}
+      }
+    ],
+    "libraries": [],
+    "cameras": [],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 9,
+      "local_objects": 9,
+      "linked_objects": 0,
+      "materials": 3,
+      "meshes": 2
+    },
+    "categories": {
+      "sensing-data-graphics": 9
+    },
+    "object_state_sha256": "c9123b0ca66a37459a31ec5dc5db06eb2ab0c57e04b515f538daceead3d1a944",
+    "materials_sha256": "c6860509962e3d658b4b54a854ee17cb4e70461844dcd0b8481206b416df0bf2",
+    "raw_evidence_sha256": "5313cd68446bc17afce86b6567cec1babf8100d546b47250bd19738c9723943c"
+  },
+  {
+    "id": "CASING",
+    "native": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+    "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": null,
+        "world": null,
+        "markers": [],
+        "custom": {
+          "purpose": "T47 reusable layer master; no exploded display offset; source dimensions preserved"
+        }
+      }
+    ],
+    "libraries": [],
+    "cameras": [],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 24,
+      "local_objects": 24,
+      "linked_objects": 0,
+      "materials": 4,
+      "meshes": 16
+    },
+    "categories": {
+      "environment": 16,
+      "sensing-data-graphics": 10
+    },
+    "object_state_sha256": "a6c4e31db8c725aa49f54512ef068cc7783936c5014a41b0dc152be211e49c66",
+    "materials_sha256": "7688fc39b41820e81ddee154573dac11f1024b47e6f210d633dc2d37f7f24aa3",
+    "raw_evidence_sha256": "098b0cdcac1094223f9122522e70c6ac68c4a34342ece7a0806054e275bade79"
+  },
+  {
+    "id": "FLOW",
+    "native": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend",
+    "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 250,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1920,
+          1080,
+          100
+        ],
+        "camera": null,
+        "world": null,
+        "markers": [],
+        "custom": {}
+      }
+    ],
+    "libraries": [],
+    "cameras": [],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 15,
+      "local_objects": 15,
+      "linked_objects": 0,
+      "materials": 3,
+      "meshes": 2
+    },
+    "categories": {
+      "flow": 15
+    },
+    "object_state_sha256": "7381cdd54e1b4a8e1bdee9be689046d15208f16c5b7cca128f196accf913e0fe",
+    "materials_sha256": "ecb432c31df163373b3a32d28a3c27e00f54fee335193b505bdb6763a675c158",
+    "raw_evidence_sha256": "1fcb4085b9b21eefbae6b447f623ff68b5042dfb5c7115be5c569dac9a252131"
+  },
+  {
+    "id": "SENSING-PROOF",
+    "native": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v009.blend",
+    "sha256": "f152264a61d237a2baaed1b106b1a47f649de719dac90a136051bd21aba59033",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 96,
+        "saved_frame": 17,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "APPROVAL_CAMERA",
+        "world": "WORLD_ReviewLighting",
+        "markers": [],
+        "custom": {
+          "consumer": "T44 formation approval downhole_A",
+          "purpose": "Representative shared-asset approval still; not a film-shot production scene",
+          "cutaway": "Rear-half ground/well and fluid section; source bore dimensions unchanged",
+          "task": "T46 linked asset reuse behavior proof, not V3 movie shot",
+          "event_export": "04-Production/Records/Tasks/T-046/Evidence/events_A_v003.json",
+          "timing": "Illustrative seconds; no firing cadence/velocity claim",
+          "upstream_release": "a08d0ecfbd6f3241298f506b3ea42613388b3baf / BHAv007 with nestedv006 preserved"
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true,
+        "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "APPROVAL_CAMERA",
+        "lens": 30.0,
+        "camera_animation_sha256": "a4693a89174482318cebdbdcfa6a1c76c2a078d4170505cde9468fdc748ecd65",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      }
+    ],
+    "images": [],
+    "fonts": [
+      {
+        "name": "Bfont Regular",
+        "path": "<builtin>",
+        "packed": false
+      },
+      {
+        "name": "Segoe UI Regular.001",
+        "path": "C:\\Windows\\Fonts\\segoeui.ttf",
+        "packed": false
+      }
+    ],
+    "counts": {
+      "objects": 226,
+      "local_objects": 56,
+      "linked_objects": 170,
+      "materials": 20,
+      "meshes": 160
+    },
+    "categories": {
+      "sensing-data-graphics": 37,
+      "camera": 1,
+      "flow": 5,
+      "environment": 29,
+      "light": 2,
+      "BHA-bit-connection": 135,
+      "ECCO": 19
+    },
+    "object_state_sha256": "f54e745ab6e2ccde2cdbe8ceb3ca4ff76f882f6be6a7f1294ab1a6933b227a39",
+    "materials_sha256": "5c86e842cca2125869f8cf61e1535abbcb2e9a194fe3048b5241afe417ada7cb",
+    "raw_evidence_sha256": "29e4984f9188df15383fa64f74ee0e739459a871eae652c1f230789f8fe1472c"
+  },
+  {
+    "id": "CASING-PROOF",
+    "native": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+    "sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 96,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "CASED_CAMERA_A",
+        "world": "CASED_REVIEW_LIGHT",
+        "markers": [],
+        "custom": {
+          "purpose": "T47 shared-package reuse test, not S04 film shot",
+          "limits": "Layer cutaway is explanatory. Support and4mm wear illustrative; no acoustic calibration, chemical classification or thickness result.",
+          "future_consumers": "S04-A/B/C/D",
+          "demo_kind": "A",
+          "event_provenance": "Actual T46 native ray intersection with linked T47 steel; immutable sampled points; timing illustrative.",
+          "response_limits": "Casing-local qualitative adapter only; no physical material vibration, bond strength, fluid classification or wall thickness result.",
+          "event_export": "04-Production/Records/Tasks/T-047/Evidence/actual-cased-events_v009.json",
+          "timing_reference": "Leading-front seconds with declared lagged three-front packets; actual cap held through final return. Qualitative response has explicit independently sampled lifetime.",
+          "camera_revision": "v010 deliberate downhole-facing macro; source/events/controls/timing unchanged. Previous uphole-facing camera showed distant finite collar rim.",
+          "qualitative_response": "Screen comparison lanes only. No spatial response bars or simulated steel vibration. Contact cup/patch consumer scale .35; shared pulses unchanged."
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Acoustics_v003.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true,
+        "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "CASED_CAMERA_A",
+        "lens": 30.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      }
+    ],
+    "images": [],
+    "fonts": [
+      {
+        "name": "Bfont Regular",
+        "path": "<builtin>",
+        "packed": false
+      },
+      {
+        "name": "Segoe UI Regular",
+        "path": "C:\\Windows\\Fonts\\segoeui.ttf",
+        "packed": false
+      }
+    ],
+    "counts": {
+      "objects": 302,
+      "local_objects": 108,
+      "linked_objects": 194,
+      "materials": 23,
+      "meshes": 176
+    },
+    "categories": {
+      "sensing-data-graphics": 47,
+      "camera": 1,
+      "environment": 54,
+      "light": 2,
+      "flow": 4,
+      "BHA-bit-connection": 135,
+      "ECCO": 19
+    },
+    "object_state_sha256": "608a432d0b3bf955eb5824018d92954881c2fd245eb2156c9b48e2211bf4f86d",
+    "materials_sha256": "370ccfff70122189c444007bf5c59e175fb5495e6047f7dc810c97ee95d764ed",
+    "raw_evidence_sha256": "2e25014a535604054cd4f22d03d22eb6a20d45d02c8b3f499aaadcf04734a390"
+  },
+  {
+    "id": "FLOW-PROOF",
+    "native": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v006.blend",
+    "sha256": "463c7acc16eed27476eaa8de8d126e288c1fef2adfd494ae83d5e957807531aa",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 96,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "FLOW_CAMERA_B",
+        "world": "FLOW_ReviewWorld",
+        "markers": [],
+        "custom": {
+          "task": "T48 linked shared-asset reuse/behavior test; not an actual V3 film shot",
+          "consumer": "B"
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true,
+        "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\Hydraulics\\Hydraulics_v003.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "FLOW_CAMERA_B",
+        "lens": 52.0,
+        "camera_animation_sha256": "a31f83b6b7908631caf1a5fe164b196e2acf99f9a44016ae1311bb0b67a0a1d2",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      }
+    ],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 311,
+      "local_objects": 141,
+      "linked_objects": 170,
+      "materials": 18,
+      "meshes": 160
+    },
+    "categories": {
+      "flow": 120,
+      "environment": 29,
+      "sensing-data-graphics": 11,
+      "BHA-bit-connection": 135,
+      "ECCO": 19
+    },
+    "object_state_sha256": "ee42fb2c67295c43e707f8b32c870a1e8fb97f5f84c8328dd54a6bc85b8d67aa",
+    "materials_sha256": "777b728ba57661d794c94ec34e293473d91d0680a517d41cb2cee3c04aab57be",
+    "raw_evidence_sha256": "c27872916f5d492ab358230df6265264d221c0f7c061af2cf5515f12dedf80cc"
+  },
+  {
+    "id": "HARDWARE-VIEW",
+    "native": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v003.blend",
+    "sha256": "fcb4d066f76b227d21045ad931de212bd82e987e7693a72bd9b047097d8f8081",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 1,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "REUSE_CAMERA_B",
+        "world": "WORLD_ReviewLighting",
+        "markers": [],
+        "custom": {
+          "consumer": "B",
+          "purpose": "T44 static wider/travel-envelope continuity inspection, not an actual V3 shot. Accepted environment unchanged.",
+          "task": "T44 A-WORLD; reusable illustration, not engineering certification or full film shot"
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v007\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v007\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "parent": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true,
+        "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v007\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v007\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "REUSE_CAMERA_B",
+        "lens": 34.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      }
+    ],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 176,
+      "local_objects": 18,
+      "linked_objects": 158,
+      "materials": 15,
+      "meshes": 146
+    },
+    "categories": {
+      "light": 5,
+      "camera": 1,
+      "environment": 13,
+      "flow": 4,
+      "BHA-bit-connection": 135,
+      "ECCO": 19,
+      "sensing-data-graphics": 3
+    },
+    "object_state_sha256": "c2a06a7a4415fbd8568d74f2d4da9cef0e225b9985bcd89abe0bdd47bd5971a9",
+    "materials_sha256": "fd879963f8d1e627244201586782deb7b12115dd8c294297eed72ea8249d33fe",
+    "raw_evidence_sha256": "bad1070d0e346528d16e79ee7dd8a35b47916c0ae76b8acb097979a91dfc13e1"
+  },
+  {
+    "id": "WORLD-VIEW",
+    "native": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_A_continuity_v002.blend",
+    "sha256": "3603be6bfb5a715659350efe0d18af10f42fdfcf0c286b6ff86b3b66f6586f97",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 72,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "REUSE_CAMERA_A",
+        "world": "WORLD_ReviewLighting",
+        "markers": [],
+        "custom": {
+          "consumer": "A",
+          "purpose": "T44 linked-library reuse test only; not a completed V3 film shot",
+          "task": "T44 A-WORLD; reusable illustration, not engineering certification or full film shot"
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v007\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v007\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "parent": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true,
+        "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v007\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v007\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "REUSE_CAMERA_A",
+        "lens": 48.0,
+        "camera_animation_sha256": "aff8456b19144ef5741f3b036f132d49435c3369eeb982a2a03b392534cbc538",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      }
+    ],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 174,
+      "local_objects": 16,
+      "linked_objects": 158,
+      "materials": 15,
+      "meshes": 146
+    },
+    "categories": {
+      "light": 3,
+      "camera": 1,
+      "environment": 13,
+      "flow": 4,
+      "BHA-bit-connection": 135,
+      "ECCO": 19,
+      "sensing-data-graphics": 3
+    },
+    "object_state_sha256": "1def2ecbb795dadd441066bdf142cfeb9c5e0a7d80e8d0fccada9e3a4c229d08",
+    "materials_sha256": "fd879963f8d1e627244201586782deb7b12115dd8c294297eed72ea8249d33fe",
+    "raw_evidence_sha256": "b8f3e65d28386c3a6dd42bc2a3d3ac8d254d1e36f528bedcfad9bef8a1197c8c"
+  },
+  {
+    "id": "LAYER-VIEW",
+    "native": "04-Production/Records/Tasks/T-047/Scenes/CasedLayerSection_v011.blend",
+    "sha256": "28f26599883e51a57b21dd4c4382382a7f6284ec4dc7454955e4fa93eea3a086",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 96,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "CASED_CAMERA_B",
+        "world": "CASED_REVIEW_LIGHT",
+        "markers": [],
+        "custom": {
+          "purpose": "T47 shared-package reuse test, not S04 film shot",
+          "limits": "Layer cutaway is explanatory. Support and4mm wear illustrative; no acoustic calibration, chemical classification or thickness result.",
+          "future_consumers": "S04-A/B/C/D",
+          "demo_kind": "B"
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true,
+        "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "CASED_CAMERA_B",
+        "lens": 50.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      }
+    ],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 240,
+      "local_objects": 46,
+      "linked_objects": 194,
+      "materials": 22,
+      "meshes": 178
+    },
+    "categories": {
+      "camera": 1,
+      "environment": 58,
+      "light": 3,
+      "sensing-data-graphics": 26,
+      "flow": 4,
+      "BHA-bit-connection": 135,
+      "ECCO": 19
+    },
+    "object_state_sha256": "8ce8cc9bfd88c14bbb363d49a4529b1fd7e8174b9cf21abffe7e02caf03d988f",
+    "materials_sha256": "88a4a1c9ca805ed5adb2808f7f142d2df1c46a8ea4157a5b4684c0fcd6fb526e",
+    "raw_evidence_sha256": "2bc7ba85f36d58c87475f566e763c0e1c458cd3dd35dffdc07da2088b1f59a30"
+  },
+  {
+    "id": "WEAR-VIEW",
+    "native": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v011.blend",
+    "sha256": "fe2fdfba03f2a98c228f5bef6bf2556c620debcfb853060e69662e331b052e76",
+    "unchanged": true,
+    "scenes": [
+      {
+        "name": "Scene",
+        "frame_start": 1,
+        "frame_end": 96,
+        "saved_frame": 1,
+        "fps": 24.0,
+        "engine": "BLENDER_EEVEE",
+        "resolution": [
+          1280,
+          720,
+          100
+        ],
+        "camera": "CASED_CAMERA_B",
+        "world": "CASED_REVIEW_LIGHT",
+        "markers": [],
+        "custom": {
+          "purpose": "T47 shared-package reuse test, not S04 film shot",
+          "limits": "Layer cutaway is explanatory. Support and4mm wear illustrative; no acoustic calibration, chemical classification or thickness result.",
+          "future_consumers": "S04-A/B/C/D",
+          "demo_kind": "B"
+        }
+      }
+    ],
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v007.blend",
+        "exists": true,
+        "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\CasedHole\\CasedHole_v002.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "parent": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+        "exists": true,
+        "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+        "parent": null,
+        "exists": true,
+        "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+      }
+    ],
+    "cameras": [
+      {
+        "name": "CASED_CAMERA_B",
+        "lens": 50.0,
+        "camera_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+        "lens_animation_sha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b"
+      }
+    ],
+    "images": [],
+    "fonts": [],
+    "counts": {
+      "objects": 239,
+      "local_objects": 45,
+      "linked_objects": 194,
+      "materials": 22,
+      "meshes": 175
+    },
+    "categories": {
+      "camera": 1,
+      "environment": 54,
+      "light": 3,
+      "sensing-data-graphics": 26,
+      "flow": 4,
+      "BHA-bit-connection": 135,
+      "ECCO": 19
+    },
+    "object_state_sha256": "403cf1aa356f66d35f1a723f4e6ff2e9c0d58f44d9d2ab3d21e6823bdd678ddd",
+    "materials_sha256": "88a4a1c9ca805ed5adb2808f7f142d2df1c46a8ea4157a5b4684c0fcd6fb526e",
+    "raw_evidence_sha256": "5f03d5d1c33bdecc5fa410ac68557ea8673c6c4d015192b1d07152bc288eff43"
+  }
+]

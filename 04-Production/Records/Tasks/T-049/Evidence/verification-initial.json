@@ -1,0 +1,2429 @@
+{
+  "status": "FAIL",
+  "checks": 483,
+  "failed": [
+    {
+      "check": "link-report.md-Evidence/verification.json",
+      "pass": false,
+      "detail": null
+    }
+  ],
+  "results": [
+    {
+      "check": "native-S01",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-S01-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-S01",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-S02",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-S02-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-S02",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-S03",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-dependency-S03-S03 illustrative formation response - fixed independent image",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-dependency-S03-S03 v007 approved recorded-amplitude data layer",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-dependency-S03-S03 v014 approved seamless illustrative amplitude",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-S03",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-S04",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-S04-Acoustics_v003.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-S04-BHA_film_v007.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-S04-BHA_film_v006.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-S04-CasedHole_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-S04-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-S04-Formation_cased-section_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-S04-World_environment_v009.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "font-S04-Segoe UI Regular",
+      "pass": true,
+      "detail": "C:\\Windows\\Fonts\\segoeui.ttf"
+    },
+    {
+      "check": "raw-inspection-S04",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-S05",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-S05-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "font-S05-Segoe UI Regular",
+      "pass": true,
+      "detail": "C:\\Windows\\Fonts\\segoeui.ttf"
+    },
+    {
+      "check": "raw-inspection-S05",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-S06",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "font-S06-Segoe UI Regular",
+      "pass": true,
+      "detail": "//..\\..\\..\\..\\..\\..\\..\\..\\..\\Windows\\Fonts\\segoeui.ttf"
+    },
+    {
+      "check": "raw-inspection-S06",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-S07",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-S07",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-ECCO-T5",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-ECCO-T5",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-ECCO-film",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-ECCO-film",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-BHA",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-BHA-BHA_film_v006.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-BHA-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-BHA",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-WORLD",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-WORLD",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-WELL-T6",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-WELL-T6-ECCO_master_temporary-plugs_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-WELL-T6",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-FORMATION",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-FORMATION",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-CASED-FORMATION",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-CASED-FORMATION",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-SURFACE",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-SURFACE",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-ACOUSTICS",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-ACOUSTICS",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-CASING",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-CASING",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-FLOW",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-FLOW",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-SENSING-PROOF",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-SENSING-PROOF-Acoustics_v003.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-SENSING-PROOF-BHA_film_v007.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-SENSING-PROOF-BHA_film_v006.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-SENSING-PROOF-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-SENSING-PROOF-World_environment_v009.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "font-SENSING-PROOF-Segoe UI Regular.001",
+      "pass": true,
+      "detail": "C:\\Windows\\Fonts\\segoeui.ttf"
+    },
+    {
+      "check": "raw-inspection-SENSING-PROOF",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-CASING-PROOF",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-CASING-PROOF-Acoustics_v003.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-CASING-PROOF-BHA_film_v007.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-CASING-PROOF-BHA_film_v006.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-CASING-PROOF-CasedHole_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-CASING-PROOF-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-CASING-PROOF-World_environment_v009.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "font-CASING-PROOF-Segoe UI Regular",
+      "pass": true,
+      "detail": "C:\\Windows\\Fonts\\segoeui.ttf"
+    },
+    {
+      "check": "raw-inspection-CASING-PROOF",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-FLOW-PROOF",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-FLOW-PROOF-BHA_film_v007.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-FLOW-PROOF-BHA_film_v006.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-FLOW-PROOF-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-FLOW-PROOF-Hydraulics_v003.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-FLOW-PROOF-World_environment_v009.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-FLOW-PROOF",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-HARDWARE-VIEW",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-HARDWARE-VIEW-BHA_film_v007.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-HARDWARE-VIEW-BHA_film_v006.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-HARDWARE-VIEW-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-HARDWARE-VIEW-World_environment_v009.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-HARDWARE-VIEW",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-WORLD-VIEW",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-WORLD-VIEW-BHA_film_v007.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-WORLD-VIEW-BHA_film_v006.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-WORLD-VIEW-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-WORLD-VIEW-World_environment_v009.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-WORLD-VIEW",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-LAYER-VIEW",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-LAYER-VIEW-BHA_film_v007.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-LAYER-VIEW-BHA_film_v006.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-LAYER-VIEW-CasedHole_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-LAYER-VIEW-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-LAYER-VIEW-World_environment_v009.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-LAYER-VIEW",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "native-WEAR-VIEW",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-WEAR-VIEW-BHA_film_v007.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-WEAR-VIEW-BHA_film_v006.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-WEAR-VIEW-CasedHole_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-WEAR-VIEW-ECCO_film_v002.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "library-WEAR-VIEW-World_environment_v009.blend",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "raw-inspection-WEAR-VIEW",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "movie-S01",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "movie-S02",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "movie-S03",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "movie-S04",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "movie-S05",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "movie-S06",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "movie-S07",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S01_video-frame-0001",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S01_video-frame-0001",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S01_video-frame-0001",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S01_video-frame-0001",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S01_video-frame-0001",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S01_video-frame-0001",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S01_video-frame-0145",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S01_video-frame-0145",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S01_video-frame-0145",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S01_video-frame-0145",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S01_video-frame-0145",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S01_video-frame-0145",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S01_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S01_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S01_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S01_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S01_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S01_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S02_video-frame-0180",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S02_video-frame-0180",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S02_video-frame-0180",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S02_video-frame-0180",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S02_video-frame-0180",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S02_video-frame-0180",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S02_video-frame-0190",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S02_video-frame-0190",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S02_video-frame-0190",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S02_video-frame-0190",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S02_video-frame-0190",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S02_video-frame-0190",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S02_video-frame-0321",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S02_video-frame-0321",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S02_video-frame-0321",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S02_video-frame-0321",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S02_video-frame-0321",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S02_video-frame-0321",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S03_video-frame-0060",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S03_video-frame-0060",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S03_video-frame-0060",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S03_video-frame-0060",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S03_video-frame-0060",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S03_video-frame-0060",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S03_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S03_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S03_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S03_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S03_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S03_video-frame-0220",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S03_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S03_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S03_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S03_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S03_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S03_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S04_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S04_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S04_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S04_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S04_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S04_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S04_video-frame-0216",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S04_video-frame-0216",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S04_video-frame-0216",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S04_video-frame-0216",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S04_video-frame-0216",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S04_video-frame-0216",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S04_video-frame-0365",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S04_video-frame-0365",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S04_video-frame-0365",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S04_video-frame-0365",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S04_video-frame-0365",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S04_video-frame-0365",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S05_video-frame-0050",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S05_video-frame-0050",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S05_video-frame-0050",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S05_video-frame-0050",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S05_video-frame-0050",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S05_video-frame-0050",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S05_video-frame-0205",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S05_video-frame-0205",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S05_video-frame-0205",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S05_video-frame-0205",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S05_video-frame-0205",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S05_video-frame-0205",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S05_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S05_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S05_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S05_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S05_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S05_video-frame-0390",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S06_video-frame-0040",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S06_video-frame-0040",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S06_video-frame-0040",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S06_video-frame-0040",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S06_video-frame-0040",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S06_video-frame-0040",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S06_video-frame-0140",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S06_video-frame-0140",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S06_video-frame-0140",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S06_video-frame-0140",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S06_video-frame-0140",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S06_video-frame-0140",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S06_video-frame-0260",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S06_video-frame-0260",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S06_video-frame-0260",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S06_video-frame-0260",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S06_video-frame-0260",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S06_video-frame-0260",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S07_video-frame-0030",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S07_video-frame-0030",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S07_video-frame-0030",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S07_video-frame-0030",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S07_video-frame-0030",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S07_video-frame-0030",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S07_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S07_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S07_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S07_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S07_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S07_video-frame-0090",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-S07_video-frame-0160",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-S07_video-frame-0160",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-S07_video-frame-0160",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-S07_video-frame-0160",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-S07_video-frame-0160",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-S07_video-frame-0160",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-T44-hardware",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-T44-hardware",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-T44-hardware",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-T44-hardware",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-T44-hardware",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-T44-hardware",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-T44-world",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-T44-world",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-T44-world",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-T44-world",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-T44-world",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-T44-world",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-T46-send",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-T46-send",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-T46-send",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-T46-send",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-T46-send",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-T46-send",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-T46-contact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-T46-contact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-T46-contact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-T46-contact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-T46-contact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-T46-contact",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-T46-return",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-T46-return",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-T46-return",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-T46-return",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-T46-return",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-T46-return",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-T47-layers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-T47-layers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-T47-layers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-T47-layers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-T47-layers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-T47-layers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-T47-wear",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-T47-wear",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-T47-wear",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-T47-wear",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-T47-wear",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-T47-wear",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-T47-support",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-T47-support",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-T47-support",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-T47-support",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-T47-support",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-T47-support",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-source-T48-flow",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-native-T48-flow",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-derivative-T48-flow",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-size-T48-flow",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "image-nonblank-T48-flow",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "no-restricted-source-T48-flow",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-comparison.md-Images/02-hardware-and-world.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-comparison.md-Images/03-sensing-and-casing.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-comparison.md-Images/04-flow-and-data.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-comparison.md-Images/01-seven-section-baseline.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-comparison.md-image-index.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-comparison.md-source-index.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-comparison.md-inventory.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Evidence/image-manifest.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/01-seven-section-baseline.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/02-hardware-and-world.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/03-sensing-and-casing.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/04-flow-and-data.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S01_video-frame-0001.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S01_video-frame-0145.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S01_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S02_video-frame-0180.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S02_video-frame-0190.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S02_video-frame-0321.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S03_video-frame-0060.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S03_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S03_video-frame-0390.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S04_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S04_video-frame-0216.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S04_video-frame-0365.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S05_video-frame-0050.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S05_video-frame-0205.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S05_video-frame-0390.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S06_video-frame-0040.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S06_video-frame-0140.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S06_video-frame-0260.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S07_video-frame-0030.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S07_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/S07_video-frame-0160.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/T44-hardware.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/T44-world.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/T46-send.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/T46-contact.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/T46-return.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/T47-layers.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/T47-wear.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/T47-support.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-image-index.md-Images/T48-flow.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T44-hardware.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S05_video-frame-0205.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S07_video-frame-0030.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S07_video-frame-0160.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T44-hardware.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S01_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T44-world.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S01_video-frame-0001.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T44-world.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S03_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S05_video-frame-0205.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T47-layers.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S04_video-frame-0216.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T47-wear.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S04_video-frame-0365.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S01_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S04_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S05_video-frame-0050.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S07_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T46-send.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T46-contact.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T46-return.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S02_video-frame-0180.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S02_video-frame-0190.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S02_video-frame-0321.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T47-support.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/T48-flow.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S05_video-frame-0050.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S05_video-frame-0205.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S05_video-frame-0390.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S03_video-frame-0060.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S03_video-frame-0390.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S06_video-frame-0140.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S06_video-frame-0260.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S03_video-frame-0060.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S04_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S06_video-frame-0260.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Images/S07_video-frame-0160.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Evidence/component-members.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Evidence/geometry-matches.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-inventory.md-Evidence/product-comparison.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-comparison.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-review.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-inventory.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-source-index.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-image-index.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-Evidence/selection-evidence.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-Evidence/source-audit.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-Evidence/source-lock.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-Evidence/media-audit.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-Evidence/image-manifest.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-Evidence/component-members.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-Evidence/geometry-matches.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-Evidence/verification.json",
+      "pass": false,
+      "detail": null
+    },
+    {
+      "check": "link-report.md-comparison.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-source-index.md-Evidence/source-audit.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-source-index.md-Evidence/selection-evidence.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-comparison.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-inventory.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-source-index.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-image-index.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T44-hardware.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T44-hardware.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0205.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0205.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S07_video-frame-0030.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S07_video-frame-0030.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S07_video-frame-0160.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S07_video-frame-0160.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T44-hardware.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T44-hardware.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S01_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S01_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T44-world.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T44-world.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S01_video-frame-0001.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S01_video-frame-0001.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T44-world.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T44-world.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S03_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S03_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0205.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0205.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T47-layers.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T47-layers.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S04_video-frame-0216.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S04_video-frame-0216.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T47-wear.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T47-wear.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S04_video-frame-0365.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S04_video-frame-0365.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S01_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S01_video-frame-0220.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S04_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S04_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0050.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0050.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S07_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S07_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T46-send.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T46-send.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T46-contact.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T46-contact.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T46-return.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T46-return.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S02_video-frame-0180.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S02_video-frame-0180.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S02_video-frame-0190.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S02_video-frame-0190.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S02_video-frame-0321.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S02_video-frame-0321.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T47-support.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T47-support.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T48-flow.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/T48-flow.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0050.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0050.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0205.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0205.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0390.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S05_video-frame-0390.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S03_video-frame-0060.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S03_video-frame-0060.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S03_video-frame-0390.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S03_video-frame-0390.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S06_video-frame-0140.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S06_video-frame-0140.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S06_video-frame-0260.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S06_video-frame-0260.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S03_video-frame-0060.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S03_video-frame-0060.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S04_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S04_video-frame-0090.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S06_video-frame-0260.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S06_video-frame-0260.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S07_video-frame-0160.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "link-review.html-Images/S07_video-frame-0160.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "python-syntax-build_review.py",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "python-syntax-inspect_sources.py",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "python-syntax-prepare_images.py",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "python-syntax-summarize.py",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "python-syntax-verify_packet.py",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "25-native-sources",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "30-source-images",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "2376-decoded-frames",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "sheet-01-seven-section-baseline.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "sheet-02-hardware-and-world.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "sheet-03-sensing-and-casing.jpg",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "sheet-04-flow-and-data.jpg",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "limits": "Executor inspection. No new render or independent technical/creative acceptance. Raw native evidence remains local."
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "source": "S01",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_film_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-01_Continuous-Descent\\v001\\Gentle-10s-Finish\\Scenes\\..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "S02",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_film_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "S04",
+    "object": "ECCO unchanged source housing - D technical transparency",
+    "library": null,
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "ECCO D explanatory transparent housing",
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "S04",
+    "object": "ECCO unchanged source housing - D technical transparency.001",
+    "library": null,
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "ECCO D explanatory transparent housing v033 presentation",
+      "Housing_neutral v033 presentation"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "S05",
+    "object": "S05_ECCO_HOUSING_SOURCE_MESH",
+    "library": null,
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "S06",
+    "object": "ECCO_HOUSING_SOURCE_MESH",
+    "library": null,
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Review steel | source mesh unchanged"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "S07",
+    "object": "ECCO_HOUSING_SOURCE_MESH",
+    "library": null,
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "ECCO-T5",
+    "object": "ECCO_HOUSING_SOURCE_MESH",
+    "library": null,
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "ECCO-film",
+    "object": "ECCO_HOUSING_SOURCE_MESH",
+    "library": null,
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "BHA",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_film_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\BHA\\..\\ECCO\\ECCO_film_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "WELL-T6",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_master_temporary-plugs_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\WellAssembly\\..\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_master_temporary-plugs_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "SENSING-PROOF",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_film_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-046\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "CASING-PROOF",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_film_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "FLOW-PROOF",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_film_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-048\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "HARDWARE-VIEW",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_film_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v007\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "WORLD-VIEW",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_film_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v007\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "LAYER-VIEW",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_film_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  },
+  {
+    "source": "WEAR-VIEW",
+    "object": "ECCO_HOUSING_SOURCE_MESH [ECCO_film_v002.blend]",
+    "library": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-047\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "vertices": 348876,
+    "geometry_sha256": "4d0a0e7868d305fe2d4079c27e6f4e36656e7c71f46842075674e1384257cda6",
+    "materials": [
+      "Housing_neutral [ECCO_film_v002.blend]"
+    ],
+    "note": "Datablock inventory, not a count of simultaneously rendered instances. Source mm meshes and consumer metre-scale objects must be distinguished."
+  }
+]

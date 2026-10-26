@@ -1,0 +1,152 @@
+[
+  {
+    "id": "S01",
+    "path": "05-Previs/Section-01_Continuous-Descent/v001/Gentle-10s-Finish/Scenes/S01_gentle-10s-finish.blend",
+    "sha256": "ee91462f1acd41dc7176809bba207f540ff317f0f91f4741fba5594d461a3f2e",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "S02",
+    "path": "05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend",
+    "sha256": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "S03",
+    "path": "05-Previs/Section-03_The-Earth-Revealed/v036/Scenes/S03_second-last-nominal-label_v036.blend",
+    "sha256": "371093affa9b9d05416b3d39c6bfe53716ce5c2f3dbaf2130dcbe226152b4757",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "S04",
+    "path": "04-Production/Shots/S04/S04-A/Previs_v033/Scenes/S04_continuous_ABCD_v033.blend",
+    "sha256": "018f65027ab9f190709085bcaf103edf10dc565bc49ab2c76d0dad79675ec77f",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "S05",
+    "path": "05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Scenes/S05_continuous-camera_v020.blend",
+    "sha256": "3583b6bbbf1d33df3f191024658e407953610a6b137dd5e242a28e1b100db7a0",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "S06",
+    "path": "04-Production/Studies/S06_Report-Recreation_v004/Scenes/S06_cinematic-study_v004_polished.blend",
+    "sha256": "7f2a0086992be7c12c0896505d6fafbc42d82c7967a89ef9686f885bb06374a3",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "S07",
+    "path": "04-Production/Shots/S07/Sequence_v006/Scenes/S07_Monumental-Precision_v006.blend",
+    "sha256": "62cc6fefc08b75a2506ba8c13297c1a5bcfef2a41d079dd42f1f3584edf2c548",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "ECCO-T5",
+    "path": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+    "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "ECCO-film",
+    "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+    "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "BHA",
+    "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+    "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "WORLD",
+    "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+    "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "WELL-T6",
+    "path": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+    "sha256": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "FORMATION",
+    "path": "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+    "sha256": "731d7dfed6e7d91ae74c05503005f43b996e98caa0120b24ad0def97ea612ac4",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "CASED-FORMATION",
+    "path": "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+    "sha256": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "SURFACE",
+    "path": "04-Production/Shared/Assets/Surface/Surface_context_v003.blend",
+    "sha256": "a68823658495ba09ca626167a3c12042ffc825cfdcde3fffd616df23a4b64aa5",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "ACOUSTICS",
+    "path": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+    "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "CASING",
+    "path": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+    "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "FLOW",
+    "path": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend",
+    "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "SENSING-PROOF",
+    "path": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v009.blend",
+    "sha256": "f152264a61d237a2baaed1b106b1a47f649de719dac90a136051bd21aba59033",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "CASING-PROOF",
+    "path": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+    "sha256": "156cb8d9323e4a6c231d220f8c25977a8a404ff757649ad98dd1de82ec3ca958",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "FLOW-PROOF",
+    "path": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v006.blend",
+    "sha256": "463c7acc16eed27476eaa8de8d126e288c1fef2adfd494ae83d5e957807531aa",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "HARDWARE-VIEW",
+    "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v003.blend",
+    "sha256": "fcb4d066f76b227d21045ad931de212bd82e987e7693a72bd9b047097d8f8081",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "WORLD-VIEW",
+    "path": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_A_continuity_v002.blend",
+    "sha256": "3603be6bfb5a715659350efe0d18af10f42fdfcf0c286b6ff86b3b66f6586f97",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "LAYER-VIEW",
+    "path": "04-Production/Records/Tasks/T-047/Scenes/CasedLayerSection_v011.blend",
+    "sha256": "28f26599883e51a57b21dd4c4382382a7f6284ec4dc7454955e4fa93eea3a086",
+    "unchanged_since_inspection": true
+  },
+  {
+    "id": "WEAR-VIEW",
+    "path": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v011.blend",
+    "sha256": "fe2fdfba03f2a98c228f5bef6bf2556c620debcfb853060e69662e331b052e76",
+    "unchanged_since_inspection": true
+  }
+]

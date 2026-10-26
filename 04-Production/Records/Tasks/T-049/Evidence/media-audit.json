@@ -1,0 +1,65 @@
+[
+  {
+    "id": "S01",
+    "video": "05-Previs/Section-01_Continuous-Descent/v001/Gentle-10s-Finish/Previews/S01_gentle-10s-finish.mp4",
+    "sha256": "ad694417ea8dba0172a044ae17d65953ae3c0abda2c71295ee597682976627c7",
+    "decoded_frames": 240,
+    "decode_errors": 0,
+    "native_offset": 0,
+    "note": "Selected complete movie"
+  },
+  {
+    "id": "S02",
+    "video": "05-Previs/Section-02_Measurement-History/v011/Continuation/Previews/S01-S02_from-07s_v011.mp4",
+    "sha256": "849202ae6d1f884753fa6db2674f7468cf6a3879d6b3c023f39ef2733b5e04f9",
+    "decoded_frames": 360,
+    "decode_errors": 0,
+    "native_offset": 168,
+    "note": "S02 video starts at native frame169; its first72frames reuse approved S01 renders"
+  },
+  {
+    "id": "S03",
+    "video": "05-Previs/Section-03_The-Earth-Revealed/v036/Previews/S03_v036_final_24fps.mp4",
+    "sha256": "49362a65e8985f0cd3080ea3c1623887f8bc6b0f49095b9e2a24652525926c17",
+    "decoded_frames": 432,
+    "decode_errors": 0,
+    "native_offset": 0,
+    "note": "Selected complete movie"
+  },
+  {
+    "id": "S04",
+    "video": "04-Production/Shots/S04/S04-A/Previs_v033/Previews/S04_continuous_ABCD_v033.mp4",
+    "sha256": "2587e99921f59dec9b6e4fb637a7f1021665623e9614ecc98a11ba62a152dfa2",
+    "decoded_frames": 432,
+    "decode_errors": 0,
+    "native_offset": 0,
+    "note": "Selected complete movie"
+  },
+  {
+    "id": "S05",
+    "video": "05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Previews/S05_continuous-camera_v020.mp4",
+    "sha256": "f07f59b90dcbdd6b79930db20d6e5d3558db9f0dd0536fe10e62e148dfd016dd",
+    "decoded_frames": 432,
+    "decode_errors": 0,
+    "native_offset": 0,
+    "note": "Selected complete movie"
+  },
+  {
+    "id": "S06",
+    "video": "04-Production/Studies/S06_Report-Recreation_v004/Previews/S06_cinematic-study_v004_polished.mp4",
+    "sha256": "b1af840ef30a7862b31801b1b12c360487412bd60b20b6e5ab449dd5a3de13fe",
+    "decoded_frames": 288,
+    "decode_errors": 0,
+    "native_offset": 0,
+    "note": "Selected complete movie"
+  },
+  {
+    "id": "S07",
+    "video": "04-Production/Shots/S07/Sequence_v006/Previews/S07_Monumental-Precision_v006.mp4",
+    "sha256": "a4edbb3a896f054a2b7b30d22a4d35a1bac228442a64e7871faaf0f6a8c93bb4",
+    "decoded_frames": 192,
+    "decode_errors": 0,
+    "native_offset": 0,
+    "note": "Selected complete movie"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "S01",
+    "native": "05-Previs/Section-01_Continuous-Descent/v001/Gentle-10s-Finish/Scenes/S01_gentle-10s-finish.blend",
+    "video": "05-Previs/Section-01_Continuous-Descent/v001/Gentle-10s-Finish/Previews/S01_gentle-10s-finish.mp4",
+    "acceptance": "05-Previs/Section-01_Continuous-Descent/v001/Gentle-10s-Finish/Records/APPROVAL.json",
+    "role": "selected_previs"
+  },
+  {
+    "id": "S02",
+    "native": "05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend",
+    "video": "05-Previs/Section-02_Measurement-History/v011/Continuation/Previews/S01-S02_from-07s_v011.mp4",
+    "acceptance": "05-Previs/Section-02_Measurement-History/v011/Continuation/../../CLEANUP-GUIDE.txt",
+    "role": "selected_previs",
+    "detail_video": "05-Previs/Section-02_Measurement-History/v011/Continuation/Previews/S02_wall-build_v011.mp4"
+  },
+  {
+    "id": "S03",
+    "native": "05-Previs/Section-03_The-Earth-Revealed/v036/Scenes/S03_second-last-nominal-label_v036.blend",
+    "video": "05-Previs/Section-03_The-Earth-Revealed/v036/Previews/S03_v036_final_24fps.mp4",
+    "acceptance": "05-Previs/Section-03_The-Earth-Revealed/v036/../Closure/Completion-report.txt",
+    "role": "selected_previs"
+  },
+  {
+    "id": "S04",
+    "native": "04-Production/Shots/S04/S04-A/Previs_v033/Scenes/S04_continuous_ABCD_v033.blend",
+    "video": "04-Production/Shots/S04/S04-A/Previs_v033/Previews/S04_continuous_ABCD_v033.mp4",
+    "acceptance": "04-Production/Shots/S04/S04-A/Previs_v033/../Closure/README.md",
+    "role": "selected_previs"
+  },
+  {
+    "id": "S05",
+    "native": "05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Scenes/S05_continuous-camera_v020.blend",
+    "video": "05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Previews/S05_continuous-camera_v020.mp4",
+    "acceptance": "05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Records/owner-approval_2026-10-23.md",
+    "role": "selected_previs"
+  },
+  {
+    "id": "S06",
+    "native": "04-Production/Studies/S06_Report-Recreation_v004/Scenes/S06_cinematic-study_v004_polished.blend",
+    "video": "04-Production/Studies/S06_Report-Recreation_v004/Previews/S06_cinematic-study_v004_polished.mp4",
+    "acceptance": "04-Production/Studies/S06_Report-Recreation_v004/Records/owner-approval_2026-10-25.md",
+    "role": "selected_previs"
+  },
+  {
+    "id": "S07",
+    "native": "04-Production/Shots/S07/Sequence_v006/Scenes/S07_Monumental-Precision_v006.blend",
+    "video": "04-Production/Shots/S07/Sequence_v006/Previews/S07_Monumental-Precision_v006.mp4",
+    "acceptance": "04-Production/Shots/S07/Sequence_v006/Records/owner-approval_2026-10-25.md",
+    "role": "selected_previs"
+  },
+  {
+    "id": "ECCO-T5",
+    "native": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "ECCO-film",
+    "native": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "BHA",
+    "native": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "WORLD",
+    "native": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "WELL-T6",
+    "native": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "FORMATION",
+    "native": "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "CASED-FORMATION",
+    "native": "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "SURFACE",
+    "native": "04-Production/Shared/Assets/Surface/Surface_context_v003.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "ACOUSTICS",
+    "native": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "CASING",
+    "native": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "FLOW",
+    "native": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend",
+    "role": "earlier_shared"
+  },
+  {
+    "id": "SENSING-PROOF",
+    "native": "04-Production/Records/Tasks/T-046/Scenes/Sensing_reuse_A_v009.blend",
+    "role": "earlier_proof"
+  },
+  {
+    "id": "CASING-PROOF",
+    "native": "04-Production/Records/Tasks/T-047/Scenes/CasedSupport_v012.blend",
+    "role": "earlier_proof"
+  },
+  {
+    "id": "FLOW-PROOF",
+    "native": "04-Production/Records/Tasks/T-048/Scenes/Flow_reuse_B_v006.blend",
+    "role": "earlier_proof"
+  },
+  {
+    "id": "HARDWARE-VIEW",
+    "native": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/connection_wide_v003.blend",
+    "role": "earlier_inspection_view"
+  },
+  {
+    "id": "WORLD-VIEW",
+    "native": "04-Production/Records/Tasks/T-044/Revision_v007/Scenes/Reuse_A_continuity_v002.blend",
+    "role": "earlier_inspection_view"
+  },
+  {
+    "id": "LAYER-VIEW",
+    "native": "04-Production/Records/Tasks/T-047/Scenes/CasedLayerSection_v011.blend",
+    "role": "earlier_inspection_view"
+  },
+  {
+    "id": "WEAR-VIEW",
+    "native": "04-Production/Records/Tasks/T-047/Scenes/CasedWearSection_v011.blend",
+    "role": "earlier_inspection_view"
+  }
+]

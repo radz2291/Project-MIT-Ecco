@@ -1,0 +1,4 @@
+# Detailed read-only dumps stay local; compact audited records are tracked.
+Evidence/*_native.json
+Evidence/*.log
+Evidence/S02-pulse-selection.jpg
