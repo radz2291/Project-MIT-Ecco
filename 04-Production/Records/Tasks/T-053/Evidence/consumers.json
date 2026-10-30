@@ -1,0 +1,24 @@
+[
+  {
+    "consumer": "04-Production\\Records\\Tasks\\T-053\\Scenes\\S02_World_v010.blend",
+    "baseline": "05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend",
+    "camera_all_frames_sha256": "fd3e1f73870496a2e5e1034f247b25b33ae010465fca3f1a59e741c95c45bc86",
+    "reopened": true,
+    "frame_range": [
+      1,
+      528
+    ],
+    "missing_libraries": []
+  },
+  {
+    "consumer": "04-Production\\Records\\Tasks\\T-053\\Scenes\\T44_layers_World_v010.blend",
+    "baseline": "04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\layers_cleanup_v010.blend",
+    "camera_all_frames_sha256": "66099f233655d45de3c458c6b0721a9a33333cc04011e4042e58d928cdba5779",
+    "reopened": true,
+    "frame_range": [
+      1,
+      1
+    ],
+    "missing_libraries": []
+  }
+]

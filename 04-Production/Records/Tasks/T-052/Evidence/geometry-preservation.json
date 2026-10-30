@@ -1,0 +1,26 @@
+[
+  {
+    "baseline": "ECCO/ECCO_film_v002.blend",
+    "candidate": "ECCO/ECCO_film_v003.blend",
+    "equal": true,
+    "baseline_count": 18,
+    "candidate_count": 18,
+    "differences": []
+  },
+  {
+    "baseline": "BHA/BHA_film_v006.blend",
+    "candidate": "BHA/BHA_core_satin_v001.blend",
+    "equal": true,
+    "baseline_count": 148,
+    "candidate_count": 148,
+    "differences": []
+  },
+  {
+    "baseline": "BHA/BHA_film_v007.blend",
+    "candidate": "BHA/BHA_film_v008.blend",
+    "equal": true,
+    "baseline_count": 156,
+    "candidate_count": 156,
+    "differences": []
+  }
+]

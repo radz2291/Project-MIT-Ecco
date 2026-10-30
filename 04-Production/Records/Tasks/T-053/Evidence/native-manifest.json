@@ -1,0 +1,32 @@
+[
+  {
+    "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v010.blend",
+    "sha256": "9cb7d5c946e8573abc05af4ee3c12492610a982c1773a6437f90a762055fb540",
+    "bytes": 15649172,
+    "storage": "local ignored media; no new off-machine backup claimed"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-053/Scenes/S02_World_v010.blend",
+    "sha256": "d9b4100ae383746afaea1974ead0f36a619cda7f18ba2cefbf096a3473c1cbba",
+    "bytes": 15021099,
+    "storage": "local ignored media; no new off-machine backup claimed"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-053/Scenes/T44_layers_World_v010.blend",
+    "sha256": "9b2fd5e43d6ce9c3a6b59a72511f172e623a56b7b77366dde683ef9bc92c0244",
+    "bytes": 95137,
+    "storage": "local ignored media; no new off-machine backup claimed"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-053/Scenes/T44_open_World_v010.blend",
+    "sha256": "349b240c3bbd4a836f5053cffee9437b0a15d9c55fa03df85f172f7815f488ae",
+    "bytes": 90681,
+    "storage": "local ignored media; no new off-machine backup claimed"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-053/Previews/S02_sampled-coverage_v010.mp4",
+    "sha256": "f262144b7803c5d4ba42eee3ae445b789ec2c84bbe3ebc16de8b41a0dc04de2b",
+    "bytes": 97887,
+    "storage": "local ignored media; no new off-machine backup claimed"
+  }
+]

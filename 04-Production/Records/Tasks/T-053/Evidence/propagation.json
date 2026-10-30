@@ -1,0 +1,54 @@
+{
+  "shared_edit": "Isolated probe library only: outside soil20\u219221m; borehole unchanged",
+  "changed": [
+    [
+      "FORMATION_IRREGULAR_CUTAWAY",
+      18018
+    ],
+    [
+      "FORMATION_IRREGULAR_FULL",
+      17654
+    ],
+    [
+      "FORMATION_NOMINAL_CUTAWAY",
+      18018
+    ],
+    [
+      "FORMATION_NOMINAL_FULL",
+      17654
+    ],
+    [
+      "FORMATION_SPIRAL_CUTAWAY",
+      18018
+    ],
+    [
+      "FORMATION_SPIRAL_FULL",
+      17654
+    ],
+    [
+      "WORLD_S02_PHYSICAL_CUTAWAY_MESH",
+      48681
+    ]
+  ],
+  "checks": [
+    {
+      "consumer": "S02",
+      "path": "04-Production\\Records\\Tasks\\T-053\\Scenes\\S02_propagation_probe.blend",
+      "observed_outer_radii": {
+        "WORLD_S02_PHYSICAL_CUTAWAY_MESH": 21.00000203908711
+      },
+      "cameras_preserved": true,
+      "reopened": true
+    },
+    {
+      "consumer": "T44_open",
+      "path": "04-Production\\Records\\Tasks\\T-053\\Scenes\\T44_open_propagation_probe.blend",
+      "observed_outer_radii": {
+        "FORMATION_IRREGULAR_CUTAWAY": 21.0
+      },
+      "cameras_preserved": true,
+      "reopened": true
+    }
+  ],
+  "production_library_unchanged": true
+}

@@ -1,0 +1,101 @@
+{
+  "baseline": [
+    {
+      "consumer": "S01",
+      "x": -3.5,
+      "library": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v005.blend"
+    },
+    {
+      "consumer": "S02",
+      "x": -3.5,
+      "library": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v005.blend"
+    }
+  ],
+  "changed": [
+    {
+      "consumer": "S01",
+      "x": -3.499000072479248,
+      "library": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v005.blend"
+    },
+    {
+      "consumer": "S02",
+      "x": -3.499000072479248,
+      "library": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v005.blend"
+    }
+  ],
+  "restored": [
+    {
+      "consumer": "S01",
+      "x": -3.5,
+      "library": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v005.blend"
+    },
+    {
+      "consumer": "S02",
+      "x": -3.5,
+      "library": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v005.blend"
+    }
+  ],
+  "byte_exact_restore": true,
+  "source_sha256": "013ca7d61bd6b90841dc0e2f858b808b53ca20f2c4442ce1cacb059c81d810d3",
+  "subsea_bounds": {
+    "RIG_MarineRiser": [
+      [
+        -0.550000011920929,
+        0.5498523116111755
+      ],
+      [
+        -0.550000011920929,
+        0.550000011920929
+      ],
+      [
+        -120.0,
+        10.0
+      ]
+    ],
+    "SUBSEA_Foundation": [
+      [
+        -4.5,
+        4.5
+      ],
+      [
+        -4.5,
+        4.5
+      ],
+      [
+        -120.0,
+        -118.64999389648438
+      ]
+    ],
+    "SUBSEA_BOPStack": [
+      [
+        -1.5,
+        1.5
+      ],
+      [
+        -1.5,
+        1.5
+      ],
+      [
+        -118.0,
+        -116.0
+      ]
+    ],
+    "SUBSEA_GuidePost": [
+      [
+        -3.7799999713897705,
+        -3.419999837875366
+      ],
+      [
+        -3.7799999713897705,
+        -3.419999837875366
+      ],
+      [
+        -119.0,
+        -107.0
+      ]
+    ]
+  },
+  "seabed_z": -120,
+  "riser_top_z": 10,
+  "limits": "Illustrative adaptation; not certified engineering fit"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "frame": 90,
+    "consumer": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Consumers\\S07_shared-satin_v001.blend",
+    "resolution": [
+      640,
+      360
+    ],
+    "samples": 32,
+    "seconds": 1.9821363999508321,
+    "passes": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Previews\\S07_satin_f090_v002.png"
+  },
+  {
+    "frame": 170,
+    "consumer": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Consumers\\S07_shared-satin_v001.blend",
+    "resolution": [
+      640,
+      360
+    ],
+    "samples": 32,
+    "seconds": 0.5334100999170914,
+    "passes": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Previews\\S07_satin_f170_v002.png"
+  },
+  {
+    "frame": 240,
+    "consumer": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Consumers\\S05_shared-satin_v001.blend",
+    "resolution": [
+      640,
+      360
+    ],
+    "samples": 32,
+    "seconds": 2.61883409996517,
+    "passes": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Previews\\S05_satin_f240_v002.png"
+  },
+  {
+    "frame": 360,
+    "consumer": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Consumers\\S02_shared-satin_v001.blend",
+    "resolution": [
+      640,
+      360
+    ],
+    "samples": 32,
+    "seconds": 1.5088527000043541,
+    "passes": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Previews\\S02_satin_f360_v002.png"
+  }
+]

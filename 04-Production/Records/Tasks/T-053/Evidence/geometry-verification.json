@@ -1,0 +1,39 @@
+{
+  "exact_authority_vertex_count": 72120,
+  "max_coordinate_error_m": 0.0,
+  "source_radius_range_m": [
+    0.15557499387490448,
+    0.21052953895235524
+  ],
+  "inner_mesh_unchanged": true,
+  "illustrative_geometry": true,
+  "engineering_fit_certified": false,
+  "source_checks": [
+    {
+      "id": "S02",
+      "hash": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+      "unchanged": true
+    },
+    {
+      "id": "WORLD",
+      "hash": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+      "unchanged": true
+    },
+    {
+      "id": "FORMATION",
+      "hash": "731d7dfed6e7d91ae74c05503005f43b996e98caa0120b24ad0def97ea612ac4",
+      "unchanged": true
+    },
+    {
+      "id": "CASED-FORMATION",
+      "hash": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556",
+      "unchanged": true
+    },
+    {
+      "id": "CASING",
+      "hash": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "unchanged": true
+    }
+  ],
+  "missing_libraries": []
+}

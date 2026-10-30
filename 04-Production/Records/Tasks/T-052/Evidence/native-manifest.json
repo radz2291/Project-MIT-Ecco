@@ -1,0 +1,56 @@
+[
+  {
+    "path": "04-Production/Shared/Assets/ECCO/Satin_finish_v001.blend",
+    "sha256": "19cdac6471673b8b1d1970e689f99ea501331b1353782fdb95771d2173b46742",
+    "bytes": 91692,
+    "storage": "local-only; no new backup/upload claim"
+  },
+  {
+    "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v003.blend",
+    "sha256": "a14fcd538b7fc604a6ac064ff681f6eefc5dfc51854e29d5993d2a9952ee8586",
+    "bytes": 18288932,
+    "storage": "local-only; no new backup/upload claim"
+  },
+  {
+    "path": "04-Production/Shared/Assets/BHA/BHA_core_satin_v001.blend",
+    "sha256": "7e60952d039d85f4e964cbbb963f046935f8320b850027d2b654f5f365c1e6f5",
+    "bytes": 195179,
+    "storage": "local-only; no new backup/upload claim"
+  },
+  {
+    "path": "04-Production/Shared/Assets/BHA/BHA_film_v008.blend",
+    "sha256": "d15aff83c006ed80181ce15d40ac42aba5ed0de59721786249b9dea5ad7d9485",
+    "bytes": 104517,
+    "storage": "local-only; no new backup/upload claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Consumers/BHA_connected-controls_v001.blend",
+    "sha256": "4844f71254982cdf90c39874d4732740c9bf55679b570228d9da76a7c69dda1b",
+    "bytes": 105583,
+    "storage": "local-only; no new backup/upload claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Consumers/S02_shared-satin_v001.blend",
+    "sha256": "583345106830b15e3b307d05f85e3ea8abe1dd10ca2c46909c7bd86c2ffb6370",
+    "bytes": 17853977,
+    "storage": "local-only; no new backup/upload claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Consumers/S05_shared-satin_v001.blend",
+    "sha256": "9d70c24d353034e38d08e56e99d94d187fd8ecbc12d703f1866a827dd899ca71",
+    "bytes": 98269381,
+    "storage": "local-only; no new backup/upload claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Consumers/S07_shared-satin_v001.blend",
+    "sha256": "a8ee7665f292f5c97cf35913765418f438848444f726ddc4f901c92da9cc299c",
+    "bytes": 18323833,
+    "storage": "local-only; no new backup/upload claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Previews/S07_shared-satin_motion_1s.mp4",
+    "sha256": "7b61a4fb0a1a2380b50e2de2ce632df7e8fe17b95f910e4df6d38f9f8607a1b4",
+    "bytes": 67402,
+    "storage": "local-only; no new backup/upload claim"
+  }
+]

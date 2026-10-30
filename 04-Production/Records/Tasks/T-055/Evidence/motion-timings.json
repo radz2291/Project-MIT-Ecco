@@ -1,0 +1,338 @@
+[
+  {
+    "clip": "subsea",
+    "frame": 60,
+    "seconds": 1.9136620999779552,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 62,
+    "seconds": 0.8690264999167994,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 64,
+    "seconds": 0.9930528000695631,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 66,
+    "seconds": 0.7384401999879628,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 68,
+    "seconds": 0.7640000999672338,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 70,
+    "seconds": 0.7921500999946147,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 72,
+    "seconds": 0.7778790999436751,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 74,
+    "seconds": 0.8066652999259531,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 76,
+    "seconds": 0.9325962000293657,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 78,
+    "seconds": 0.7702046000631526,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 80,
+    "seconds": 0.7245995999546722,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 82,
+    "seconds": 0.7823040999937803,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 84,
+    "seconds": 0.7410484999418259,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 86,
+    "seconds": 0.7237342000007629,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 88,
+    "seconds": 0.7454467000206932,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 90,
+    "seconds": 0.7264859999995679,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 92,
+    "seconds": 0.7630745999049395,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 94,
+    "seconds": 0.7501754000550136,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 96,
+    "seconds": 0.7061742000514641,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 98,
+    "seconds": 0.7269109999760985,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 100,
+    "seconds": 0.7360400999896228,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 102,
+    "seconds": 0.7483885999536142,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 104,
+    "seconds": 0.7437159999972209,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 106,
+    "seconds": 0.7390415000263602,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 108,
+    "seconds": 0.7737862999783829,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 110,
+    "seconds": 0.7131906000431627,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 112,
+    "seconds": 0.8375001000240445,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 114,
+    "seconds": 0.8940082000335678,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 116,
+    "seconds": 0.793261400074698,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 118,
+    "seconds": 0.7383233999134973,
+    "pass": true
+  },
+  {
+    "clip": "subsea",
+    "frame": 120,
+    "seconds": 0.8103784000268206,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 228,
+    "seconds": 0.7366571000311524,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 230,
+    "seconds": 0.7291032000211999,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 232,
+    "seconds": 0.7203717000083998,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 234,
+    "seconds": 0.8164486000314355,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 236,
+    "seconds": 0.8174608999397606,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 238,
+    "seconds": 1.0293016999494284,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 240,
+    "seconds": 0.7698266999796033,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 242,
+    "seconds": 0.7964889999711886,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 244,
+    "seconds": 0.7723370000021532,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 246,
+    "seconds": 0.9060239000245929,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 248,
+    "seconds": 0.8880559999961406,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 250,
+    "seconds": 0.7943814001046121,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 252,
+    "seconds": 0.7960313999792561,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 254,
+    "seconds": 1.2573050999781117,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 256,
+    "seconds": 0.8494857000187039,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 258,
+    "seconds": 0.7770483999047428,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 260,
+    "seconds": 0.7812063000164926,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 262,
+    "seconds": 0.7966203999239951,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 264,
+    "seconds": 0.7859769000206143,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 266,
+    "seconds": 0.7934947999892756,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 268,
+    "seconds": 0.7768151999916881,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 270,
+    "seconds": 0.7774482000386342,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 272,
+    "seconds": 0.8725998000008985,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 274,
+    "seconds": 0.8012192000169307,
+    "pass": true
+  },
+  {
+    "clip": "destination",
+    "frame": 276,
+    "seconds": 0.7879117000848055,
+    "pass": true
+  }
+]

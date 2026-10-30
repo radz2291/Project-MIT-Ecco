@@ -1,0 +1,361 @@
+[
+  {
+    "baseline": {
+      "path": "05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend",
+      "sha256": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+      "unchanged": true,
+      "range": [
+        1,
+        528
+      ],
+      "fps": [
+        24,
+        1.0
+      ],
+      "camera_samples": [
+        {
+          "frame": 1,
+          "matrix": [
+            0.824042,
+            -0.2041334,
+            0.5284737,
+            110.0,
+            0.5665287,
+            0.2969212,
+            -0.768689,
+            -160.0,
+            1e-07,
+            0.9328275,
+            0.360323,
+            95.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 26.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 264,
+          "matrix": [
+            0.9638221,
+            -0.0083118,
+            0.2664166,
+            3.5588238,
+            0.2665299,
+            0.0189958,
+            -0.9636394,
+            -13.7941256,
+            0.0029488,
+            0.9997851,
+            0.020524,
+            -729.4185181,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 119.9999924,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 528,
+          "matrix": [
+            0.6399045,
+            -0.7259961,
+            0.2518966,
+            2.0,
+            -0.3385749,
+            -0.5606248,
+            -0.7556899,
+            -6.0,
+            0.6898473,
+            0.3982835,
+            -0.6045504,
+            -733.3299561,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 55.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        }
+      ],
+      "objects": 571,
+      "materials": 841
+    },
+    "candidate": {
+      "path": "04-Production\\Records\\Tasks\\T-053\\Scenes\\S02_World_v010.blend",
+      "sha256": "d9b4100ae383746afaea1974ead0f36a619cda7f18ba2cefbf096a3473c1cbba",
+      "unchanged": true,
+      "range": [
+        1,
+        528
+      ],
+      "fps": [
+        24,
+        1.0
+      ],
+      "camera_samples": [
+        {
+          "frame": 1,
+          "matrix": [
+            0.824042,
+            -0.2041334,
+            0.5284737,
+            110.0,
+            0.5665287,
+            0.2969212,
+            -0.768689,
+            -160.0,
+            1e-07,
+            0.9328275,
+            0.360323,
+            95.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 26.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 264,
+          "matrix": [
+            0.9638221,
+            -0.0083118,
+            0.2664166,
+            3.5588238,
+            0.2665299,
+            0.0189958,
+            -0.9636394,
+            -13.7941256,
+            0.0029488,
+            0.9997851,
+            0.020524,
+            -729.4185181,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 119.9999924,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 528,
+          "matrix": [
+            0.6399045,
+            -0.7259961,
+            0.2518966,
+            2.0,
+            -0.3385749,
+            -0.5606248,
+            -0.7556899,
+            -6.0,
+            0.6898473,
+            0.3982835,
+            -0.6045504,
+            -733.3299561,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 55.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "exists": true
+        }
+      ],
+      "objects": 572,
+      "materials": 842
+    },
+    "checks": {
+      "range": true,
+      "fps": true,
+      "camera_samples": true,
+      "source_files_unchanged": true,
+      "candidate_libraries_exist": true
+    },
+    "pass": true
+  },
+  {
+    "baseline": {
+      "path": "04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\layers_cleanup_v010.blend",
+      "sha256": "c66ffe89520f11200734b9cda05eb336c3822043ce8154a3884446dc95a0a987",
+      "unchanged": true,
+      "range": [
+        1,
+        1
+      ],
+      "fps": [
+        24,
+        1.0
+      ],
+      "camera_samples": [
+        {
+          "frame": 1,
+          "matrix": [
+            0.4431341,
+            -0.2620033,
+            0.8573135,
+            0.85,
+            0.8964553,
+            0.1295129,
+            -0.4237856,
+            -0.4,
+            0.0,
+            0.9563371,
+            0.2922659,
+            0.3,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 38.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-044\\Revision_v006\\Scenes\\..\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v009.blend",
+          "exists": true
+        }
+      ],
+      "objects": 195,
+      "materials": 14
+    },
+    "candidate": {
+      "path": "04-Production\\Records\\Tasks\\T-053\\Scenes\\T44_layers_World_v010.blend",
+      "sha256": "9b2fd5e43d6ce9c3a6b59a72511f172e623a56b7b77366dde683ef9bc92c0244",
+      "unchanged": true,
+      "range": [
+        1,
+        1
+      ],
+      "fps": [
+        24,
+        1.0
+      ],
+      "camera_samples": [
+        {
+          "frame": 1,
+          "matrix": [
+            0.4431341,
+            -0.2620033,
+            0.8573135,
+            0.85,
+            0.8964553,
+            0.1295129,
+            -0.4237856,
+            -0.4,
+            0.0,
+            0.9563371,
+            0.2922659,
+            0.3,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 38.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v006.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\Formation\\Formation_cased-section_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Scenes\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "exists": true
+        }
+      ],
+      "objects": 195,
+      "materials": 14
+    },
+    "checks": {
+      "range": true,
+      "fps": true,
+      "camera_samples": true,
+      "source_files_unchanged": true,
+      "candidate_libraries_exist": true
+    },
+    "pass": true
+  }
+]

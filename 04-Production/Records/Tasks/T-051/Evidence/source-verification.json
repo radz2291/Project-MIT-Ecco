@@ -1,0 +1,114 @@
+[
+  {
+    "id": "S01",
+    "path": "05-Previs/Section-01_Continuous-Descent/v001/Gentle-10s-Finish/Scenes/S01_gentle-10s-finish.blend",
+    "expected": "ee91462f1acd41dc7176809bba207f540ff317f0f91f4741fba5594d461a3f2e",
+    "actual": "ee91462f1acd41dc7176809bba207f540ff317f0f91f4741fba5594d461a3f2e",
+    "matches": true
+  },
+  {
+    "id": "S02",
+    "path": "05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend",
+    "expected": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "actual": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "matches": true
+  },
+  {
+    "id": "S03",
+    "path": "05-Previs/Section-03_The-Earth-Revealed/v036/Scenes/S03_second-last-nominal-label_v036.blend",
+    "expected": "371093affa9b9d05416b3d39c6bfe53716ce5c2f3dbaf2130dcbe226152b4757",
+    "actual": "371093affa9b9d05416b3d39c6bfe53716ce5c2f3dbaf2130dcbe226152b4757",
+    "matches": true
+  },
+  {
+    "id": "S04",
+    "path": "04-Production/Shots/S04/S04-A/Previs_v033/Scenes/S04_continuous_ABCD_v033.blend",
+    "expected": "018f65027ab9f190709085bcaf103edf10dc565bc49ab2c76d0dad79675ec77f",
+    "actual": "018f65027ab9f190709085bcaf103edf10dc565bc49ab2c76d0dad79675ec77f",
+    "matches": true
+  },
+  {
+    "id": "S05",
+    "path": "05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Scenes/S05_continuous-camera_v020.blend",
+    "expected": "3583b6bbbf1d33df3f191024658e407953610a6b137dd5e242a28e1b100db7a0",
+    "actual": "3583b6bbbf1d33df3f191024658e407953610a6b137dd5e242a28e1b100db7a0",
+    "matches": true
+  },
+  {
+    "id": "S06",
+    "path": "04-Production/Studies/S06_Report-Recreation_v004/Scenes/S06_cinematic-study_v004_polished.blend",
+    "expected": "7f2a0086992be7c12c0896505d6fafbc42d82c7967a89ef9686f885bb06374a3",
+    "actual": "7f2a0086992be7c12c0896505d6fafbc42d82c7967a89ef9686f885bb06374a3",
+    "matches": true
+  },
+  {
+    "id": "S07",
+    "path": "04-Production/Shots/S07/Sequence_v006/Scenes/S07_Monumental-Precision_v006.blend",
+    "expected": "62cc6fefc08b75a2506ba8c13297c1a5bcfef2a41d079dd42f1f3584edf2c548",
+    "actual": "62cc6fefc08b75a2506ba8c13297c1a5bcfef2a41d079dd42f1f3584edf2c548",
+    "matches": true
+  },
+  {
+    "id": "ECCO-film",
+    "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+    "expected": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+    "actual": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+    "matches": true
+  },
+  {
+    "id": "BHA",
+    "path": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+    "expected": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+    "actual": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+    "matches": true
+  },
+  {
+    "id": "WORLD",
+    "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+    "expected": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+    "actual": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+    "matches": true
+  },
+  {
+    "id": "FORMATION",
+    "path": "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+    "expected": "731d7dfed6e7d91ae74c05503005f43b996e98caa0120b24ad0def97ea612ac4",
+    "actual": "731d7dfed6e7d91ae74c05503005f43b996e98caa0120b24ad0def97ea612ac4",
+    "matches": true
+  },
+  {
+    "id": "CASED-FORMATION",
+    "path": "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+    "expected": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556",
+    "actual": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556",
+    "matches": true
+  },
+  {
+    "id": "SURFACE",
+    "path": "04-Production/Shared/Assets/Surface/Surface_context_v003.blend",
+    "expected": "a68823658495ba09ca626167a3c12042ffc825cfdcde3fffd616df23a4b64aa5",
+    "actual": "a68823658495ba09ca626167a3c12042ffc825cfdcde3fffd616df23a4b64aa5",
+    "matches": true
+  },
+  {
+    "id": "ACOUSTICS",
+    "path": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+    "expected": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+    "actual": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+    "matches": true
+  },
+  {
+    "id": "CASING",
+    "path": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+    "expected": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+    "actual": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+    "matches": true
+  },
+  {
+    "id": "SURFACE-ORIGINAL",
+    "path": "04-Production/Shared/Assets/Surface/Originals/IntoTheInvisible_Shot01.blend",
+    "expected": "ef669ae4fdd20a74d1d4b6a16e0978c17ae857f5c839dc08128247ff3bf29ab0",
+    "actual": "ef669ae4fdd20a74d1d4b6a16e0978c17ae857f5c839dc08128247ff3bf29ab0",
+    "matches": true
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "baseline": "05-Previs\\Section-01_Continuous-Descent\\v001\\Gentle-10s-Finish\\Scenes\\S01_gentle-10s-finish.blend",
+    "candidate": "04-Production\\Records\\Tasks\\T-055\\Consumers\\S01_shared-descent_v002.blend",
+    "frames": [
+      1,
+      60,
+      120,
+      180,
+      220,
+      240,
+      240
+    ],
+    "removed_proxy_objects": [
+      "Platform leg",
+      "Platform leg.001",
+      "Platform leg.002",
+      "Platform leg.003",
+      "Upper building",
+      "Service building",
+      "Roof trim",
+      "Rig machinery",
+      "Deck side",
+      "Deck side.001",
+      "Deck end",
+      "Deck end.001"
+    ],
+    "shared_earth_meshes": 210,
+    "camera_preserved": true
+  },
+  {
+    "baseline": "05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend",
+    "candidate": "04-Production\\Records\\Tasks\\T-055\\Consumers\\S02_shared-descent_v002.blend",
+    "frames": [
+      1,
+      60,
+      120,
+      180,
+      220,
+      240,
+      528
+    ],
+    "removed_proxy_objects": [
+      "Platform leg",
+      "Platform leg.001",
+      "Platform leg.002",
+      "Platform leg.003",
+      "Upper building",
+      "Service building",
+      "Roof trim",
+      "Rig machinery",
+      "Deck side",
+      "Deck side.001",
+      "Deck end",
+      "Deck end.001"
+    ],
+    "shared_earth_meshes": 210,
+    "camera_preserved": true
+  }
+]

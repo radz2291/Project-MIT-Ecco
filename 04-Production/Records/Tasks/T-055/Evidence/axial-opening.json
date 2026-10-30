@@ -1,0 +1,119 @@
+{
+  "radius_m": 0.45,
+  "near_side_wedge": {
+    "azimuth_degrees": [
+      -85,
+      -35
+    ],
+    "z_m": [
+      -121,
+      -100
+    ],
+    "radius_m": 2,
+    "foundation_excluded": true
+  },
+  "source": "04-Production\\Shared\\Assets\\Surface\\Surface_descent_v004.blend",
+  "candidate": "04-Production\\Shared\\Assets\\Surface\\Surface_descent_v005.blend",
+  "objects": [
+    {
+      "object": "RIG_MarineRiser",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.001",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.002",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.003",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.004",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.005",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.006",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.007",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.008",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.009",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.010",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.011",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.012",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_RiserCoupling.013",
+      "before_faces": 386,
+      "after_faces": 354
+    },
+    {
+      "object": "SUBSEA_Foundation",
+      "before_faces": 6,
+      "after_faces": 72
+    },
+    {
+      "object": "SUBSEA_BOPStack",
+      "before_faces": 66,
+      "after_faces": 132
+    },
+    {
+      "object": "SUBSEA_BOPStack.001",
+      "before_faces": 66,
+      "after_faces": 132
+    },
+    {
+      "object": "SUBSEA_BOPStack.002",
+      "before_faces": 66,
+      "after_faces": 132
+    },
+    {
+      "object": "SUBSEA_BOPStack.003",
+      "before_faces": 66,
+      "after_faces": 132
+    }
+  ]
+}

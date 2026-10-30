@@ -1,0 +1,65 @@
+[
+  {
+    "consumer": "T44_open",
+    "frame": 1,
+    "seconds_full_render_to_file": 1.8293271999573335,
+    "pass_under_5": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Previews\\T44_open_f001_World_v010.png"
+  },
+  {
+    "consumer": "S02",
+    "frame": 241,
+    "seconds_full_render_to_file": 0.8485893999459222,
+    "pass_under_5": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Previews\\MotionFrames\\000.png"
+  },
+  {
+    "consumer": "S02",
+    "frame": 300,
+    "seconds_full_render_to_file": 0.756419499986805,
+    "pass_under_5": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Previews\\MotionFrames\\001.png"
+  },
+  {
+    "consumer": "S02",
+    "frame": 360,
+    "seconds_full_render_to_file": 0.7737158000236377,
+    "pass_under_5": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Previews\\MotionFrames\\002.png"
+  },
+  {
+    "consumer": "S02",
+    "frame": 420,
+    "seconds_full_render_to_file": 0.7060851000715047,
+    "pass_under_5": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Previews\\MotionFrames\\003.png"
+  },
+  {
+    "consumer": "S02",
+    "frame": 450,
+    "seconds_full_render_to_file": 0.7241426999680698,
+    "pass_under_5": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Previews\\MotionFrames\\004.png"
+  },
+  {
+    "consumer": "S02",
+    "frame": 480,
+    "seconds_full_render_to_file": 0.7269717999733984,
+    "pass_under_5": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Previews\\MotionFrames\\005.png"
+  },
+  {
+    "consumer": "S02",
+    "frame": 505,
+    "seconds_full_render_to_file": 0.8281076999846846,
+    "pass_under_5": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Previews\\MotionFrames\\006.png"
+  },
+  {
+    "consumer": "S02",
+    "frame": 528,
+    "seconds_full_render_to_file": 0.9168206999311224,
+    "pass_under_5": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-053\\Previews\\MotionFrames\\007.png"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "files": [
+    "04-Production/Records/Tasks/T-052/build_shared.py",
+    "04-Production/Records/Tasks/T-052/inspect_sources.py",
+    "04-Production/Records/Tasks/T-052/package_manifest.ps1",
+    "04-Production/Records/Tasks/T-052/proof_hardware.py",
+    "04-Production/Records/Tasks/T-052/README-controls.md",
+    "04-Production/Records/Tasks/T-052/render_proofs.py",
+    "04-Production/Records/Tasks/T-052/render_refinement.py",
+    "04-Production/Records/Tasks/T-052/report.md",
+    "04-Production/Records/Tasks/T-052/verify_geometry.py",
+    "04-Production/Records/Tasks/T-052/verify_package.py",
+    "04-Production/Records/Tasks/T-052/Evidence/consumer-mappings.json",
+    "04-Production/Records/Tasks/T-052/Evidence/geometry-preservation.json",
+    "04-Production/Records/Tasks/T-052/Evidence/hardware-bench.json",
+    "04-Production/Records/Tasks/T-052/Evidence/hardware-motion.json",
+    "04-Production/Records/Tasks/T-052/Evidence/native-manifest.json",
+    "04-Production/Records/Tasks/T-052/Evidence/package-verification.json",
+    "04-Production/Records/Tasks/T-052/Evidence/render-benchmarks.json",
+    "04-Production/Records/Tasks/T-052/Evidence/render-refinement.json",
+    "04-Production/Records/Tasks/T-052/Previews/BHA_connected_core_show0.png",
+    "04-Production/Records/Tasks/T-052/Previews/BHA_connected_extension_2m_wide.png",
+    "04-Production/Records/Tasks/T-052/Previews/S02_simple-string_f528_workbench.png",
+    "04-Production/Records/Tasks/T-052/Previews/S05_satin_f240_v002.png",
+    "04-Production/Records/Tasks/T-052/Previews/S07_satin_f090_v002.png",
+    "04-Production/Records/Tasks/T-052/Previews/S07_satin_f170_v002.png"
+  ],
+  "exclude": "All .blend, .blend1, MP4 and raw frames remain local."
+}

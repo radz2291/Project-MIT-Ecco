@@ -1,0 +1,38 @@
+[
+  {
+    "path": "04-Production/Shared/Assets/Surface/Surface_descent_v004.blend",
+    "sha256": "ee75cfb3bd6f225ff28b97d1692ee8ba7931ecaf77008b6f4c8f12377acbefc2",
+    "bytes": 601549,
+    "storage": "local heavy media; ignored; no upload or off-machine backup claim"
+  },
+  {
+    "path": "04-Production/Shared/Assets/Surface/Surface_descent_v005.blend",
+    "sha256": "013ca7d61bd6b90841dc0e2f858b808b53ca20f2c4442ce1cacb059c81d810d3",
+    "bytes": 668362,
+    "storage": "local heavy media; ignored; no upload or off-machine backup claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-055/Consumers/S01_shared-descent_v002.blend",
+    "sha256": "216a0215b7ffa774b33f32669713e015886ba45d49639a15bf100f7fde886d50",
+    "bytes": 376036,
+    "storage": "local heavy media; ignored; no upload or off-machine backup claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-055/Consumers/S02_shared-descent_v002.blend",
+    "sha256": "d68d058eb81a3d7a37164090a9f2e75174a9fa6ac72703a87de50774fa8505aa",
+    "bytes": 14909710,
+    "storage": "local heavy media; ignored; no upload or off-machine backup claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-055/Previews/subsea-travel_v002.mp4",
+    "sha256": "5023fcc8c19c30dfeaaed47281e4f4d306496c808f351731f265b5fa05921039",
+    "bytes": 73950,
+    "storage": "local heavy media; ignored; no upload or off-machine backup claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-055/Previews/deep-transition_v001.mp4",
+    "sha256": "b45516e171b7292bb82d7f5dc820a40834cae1b1c5842cd590daad54109c21dd",
+    "bytes": 23296,
+    "storage": "local heavy media; ignored; no upload or off-machine backup claim"
+  }
+]

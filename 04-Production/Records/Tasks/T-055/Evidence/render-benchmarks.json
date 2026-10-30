@@ -1,0 +1,151 @@
+[
+  {
+    "candidate": "04-Production\\Records\\Tasks\\T-055\\Consumers\\S01_shared-descent_v001.blend",
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v004.blend",
+        "exists": true
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+        "exists": true
+      }
+    ],
+    "camera_samples": [
+      {
+        "frame": 1,
+        "camera_z": 95.0,
+        "lens": 26.0
+      },
+      {
+        "frame": 60,
+        "camera_z": -4.094849586486816,
+        "lens": 26.0
+      },
+      {
+        "frame": 90,
+        "camera_z": -88.88911437988281,
+        "lens": 26.0
+      },
+      {
+        "frame": 120,
+        "camera_z": -274.2611999511719,
+        "lens": 26.0
+      },
+      {
+        "frame": 180,
+        "camera_z": -728.979736328125,
+        "lens": 47.789546966552734
+      },
+      {
+        "frame": 220,
+        "camera_z": -729.3532104492188,
+        "lens": 113.21800231933594
+      },
+      {
+        "frame": 240,
+        "camera_z": -729.3687744140625,
+        "lens": 120.0
+      }
+    ]
+  },
+  {
+    "candidate": "04-Production\\Records\\Tasks\\T-055\\Consumers\\S02_shared-descent_v001.blend",
+    "libraries": [
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v004.blend",
+        "exists": true
+      },
+      {
+        "raw": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+        "exists": true
+      }
+    ],
+    "camera_samples": [
+      {
+        "frame": 1,
+        "camera_z": 95.0,
+        "lens": 26.0
+      },
+      {
+        "frame": 60,
+        "camera_z": -4.094849586486816,
+        "lens": 26.0
+      },
+      {
+        "frame": 90,
+        "camera_z": -88.88911437988281,
+        "lens": 26.0
+      },
+      {
+        "frame": 120,
+        "camera_z": -274.2611999511719,
+        "lens": 26.0
+      },
+      {
+        "frame": 180,
+        "camera_z": -728.979736328125,
+        "lens": 47.789546966552734
+      },
+      {
+        "frame": 220,
+        "camera_z": -729.3532104492188,
+        "lens": 113.21800231933594
+      },
+      {
+        "frame": 240,
+        "camera_z": -729.3687744140625,
+        "lens": 120.0
+      },
+      {
+        "frame": 241,
+        "camera_z": -729.3687744140625,
+        "lens": 120.0
+      },
+      {
+        "frame": 264,
+        "camera_z": -729.4185180664062,
+        "lens": 119.99999237060547
+      },
+      {
+        "frame": 528,
+        "camera_z": -733.3299560546875,
+        "lens": 55.0
+      }
+    ],
+    "renders": [
+      {
+        "frame": 1,
+        "seconds": 2.202464299974963,
+        "pass": true,
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-055\\Previews\\S02_descent_f001_v001.png"
+      },
+      {
+        "frame": 90,
+        "seconds": 1.022884799982421,
+        "pass": true,
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-055\\Previews\\S02_descent_f090_v001.png"
+      },
+      {
+        "frame": 240,
+        "seconds": 0.9480697000399232,
+        "pass": true,
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-055\\Previews\\S02_descent_f240_v001.png"
+      },
+      {
+        "frame": 264,
+        "seconds": 1.1686703999293968,
+        "pass": true,
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-055\\Previews\\S02_descent_f264_v001.png"
+      }
+    ]
+  }
+]

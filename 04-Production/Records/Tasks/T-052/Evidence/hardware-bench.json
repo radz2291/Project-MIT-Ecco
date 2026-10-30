@@ -1,0 +1,62 @@
+[
+  {
+    "label": "S02_simple-string_f360_workbench",
+    "frame": 360,
+    "engine": "BLENDER_WORKBENCH",
+    "seconds": 1.6632153999526054,
+    "passes": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Previews\\S02_simple-string_f360_workbench.png",
+    "resolution": [
+      640,
+      360
+    ]
+  },
+  {
+    "label": "BHA_connected_core_show0",
+    "frame": 1,
+    "engine": "BLENDER_WORKBENCH",
+    "seconds": 1.7528994000749663,
+    "passes": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Previews\\BHA_connected_core_show0.png",
+    "resolution": [
+      640,
+      360
+    ]
+  },
+  {
+    "label": "BHA_connected_extension_2m",
+    "frame": 2,
+    "engine": "BLENDER_WORKBENCH",
+    "seconds": 0.428638800047338,
+    "passes": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Previews\\BHA_connected_extension_2m.png",
+    "resolution": [
+      640,
+      360
+    ]
+  },
+  {
+    "label": "S07_motion_benchmark_f072",
+    "frame": 72,
+    "engine": "BLENDER_EEVEE",
+    "seconds": 0.9913174000103027,
+    "passes": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Previews\\S07_motion_benchmark_f072.png",
+    "resolution": [
+      640,
+      360
+    ]
+  },
+  {
+    "label": "S07_motion_benchmark_f095",
+    "frame": 95,
+    "engine": "BLENDER_EEVEE",
+    "seconds": 0.9446659999666736,
+    "passes": true,
+    "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Previews\\S07_motion_benchmark_f095.png",
+    "resolution": [
+      640,
+      360
+    ]
+  }
+]
