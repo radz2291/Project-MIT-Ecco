@@ -1,0 +1,112 @@
+{
+  "checks": [
+    {
+      "frame": 1,
+      "vertices": 0,
+      "max_coordinate_error_m": 0,
+      "height_m": 0
+    },
+    {
+      "frame": 12,
+      "vertices": 7680,
+      "max_coordinate_error_m": 1.3969838619232178e-09,
+      "height_m": 0.0025699154939502478
+    },
+    {
+      "frame": 18,
+      "vertices": 19200,
+      "max_coordinate_error_m": 1.3969838619232178e-08,
+      "height_m": 0.02074802666902542
+    },
+    {
+      "frame": 26,
+      "vertices": 23168,
+      "max_coordinate_error_m": 3.003515303134918e-08,
+      "height_m": 0.03061256092041731
+    },
+    {
+      "frame": 30,
+      "vertices": 23168,
+      "max_coordinate_error_m": 3.365857992321253e-08,
+      "height_m": 0.03521919157356024
+    },
+    {
+      "frame": 38,
+      "vertices": 23168,
+      "max_coordinate_error_m": 3.795139491558075e-08,
+      "height_m": 0.032961655408144
+    },
+    {
+      "frame": 54,
+      "vertices": 15360,
+      "max_coordinate_error_m": 2.403976395726204e-08,
+      "height_m": 0.006791527383029461
+    },
+    {
+      "frame": 62,
+      "vertices": 0,
+      "max_coordinate_error_m": 0,
+      "height_m": 0
+    },
+    {
+      "frame": 68,
+      "vertices": 0,
+      "max_coordinate_error_m": 0,
+      "height_m": 0
+    },
+    {
+      "frame": 96,
+      "vertices": 0,
+      "max_coordinate_error_m": 0,
+      "height_m": 0
+    }
+  ],
+  "pass": true,
+  "master": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\Waveform_shared_v014\\Waveform_shared_v014.blend",
+  "node_group": "WF_FIELD_LIVE_v014",
+  "master_controls": "WF_MASTER_CONTROLS",
+  "shared_collection": "WF_SHARED_CONTROLS",
+  "controls": {
+    "Geometry": "Socket_0",
+    "Playback Speed": "Socket_2",
+    "Frequency Multiplier": "Socket_3",
+    "Strength": "Socket_4",
+    "Echo Strength": "Socket_5",
+    "Decay Tightness": "Socket_6",
+    "Source Duration Frames": "Socket_7",
+    "One Way Frames": "Socket_8",
+    "Reference Height m": "Socket_9",
+    "Width m": "Socket_10",
+    "Emission": "Socket_11",
+    "Strand Radius m": "Socket_12",
+    "Opacity Power": "Socket_13",
+    "Color Violet": "Socket_14",
+    "Color Cyan": "Socket_15"
+  },
+  "local_controls": {
+    "Geometry": "Socket_0",
+    "Start Frame": "Socket_2",
+    "Playback Override": "Socket_3",
+    "Duration Override": "Socket_4",
+    "Travel Override": "Socket_5",
+    "Echo Delay Frames": "Socket_6",
+    "Return Travel Override": "Socket_7",
+    "Outbound End Frame": "Socket_8",
+    "Return End Frame": "Socket_9",
+    "Lock Event Timing": "Socket_10",
+    "Frequency Override": "Socket_11",
+    "Strength Override": "Socket_12",
+    "Echo Override": "Socket_13",
+    "Decay Override": "Socket_14",
+    "Radius Override": "Socket_15",
+    "Width Override": "Socket_16",
+    "Height Override": "Socket_17",
+    "Gap Length m": "Socket_18",
+    "Preset 0 Open 1 Cased": "Socket_19",
+    "Enabled": "Socket_20",
+    "Route Axis": "Socket_21",
+    "Transverse Axis": "Socket_22",
+    "Up Axis": "Socket_23"
+  },
+  "note": "live native GN; invisible sites removed; compare active vertex indices to baked v013"
+}

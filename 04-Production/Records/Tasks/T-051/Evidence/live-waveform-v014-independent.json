@@ -1,0 +1,69 @@
+{
+  "checks": {
+    "native_live_matches_selected_v013": true,
+    "quiet_start_and_end_empty": true,
+    "shared_strength_changes_geometry": true,
+    "shared_strength_restores_geometry": true,
+    "cased_preset_changes_geometry": true,
+    "relative_libraries_resolve": true,
+    "source_files_unchanged": true
+  },
+  "pass": true,
+  "samples": [
+    {
+      "frame": 1,
+      "vertices": 0,
+      "max_default_error_m": 0
+    },
+    {
+      "frame": 12,
+      "vertices": 7680,
+      "max_default_error_m": 1.3969838619232178e-09
+    },
+    {
+      "frame": 18,
+      "vertices": 19200,
+      "max_default_error_m": 1.3969838619232178e-08
+    },
+    {
+      "frame": 26,
+      "vertices": 23168,
+      "max_default_error_m": 3.003515303134918e-08
+    },
+    {
+      "frame": 30,
+      "vertices": 23168,
+      "max_default_error_m": 3.365857992321253e-08
+    },
+    {
+      "frame": 38,
+      "vertices": 23168,
+      "max_default_error_m": 3.795139491558075e-08
+    },
+    {
+      "frame": 54,
+      "vertices": 15360,
+      "max_default_error_m": 2.403976395726204e-08
+    },
+    {
+      "frame": 62,
+      "vertices": 0,
+      "max_default_error_m": 0
+    },
+    {
+      "frame": 68,
+      "vertices": 0,
+      "max_default_error_m": 0
+    },
+    {
+      "frame": 96,
+      "vertices": 0,
+      "max_default_error_m": 0
+    }
+  ],
+  "hashes": {
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\RibbonWaveform_v013\\S02_rolling-wave-field_v013.blend": "049a1aa27a256b302ae5c65822f863333f92ba826c36ac412e1f313f31d11d15",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\Waveform_shared_v014\\Waveform_shared_v014.blend": "f40442c23464edf73afb0a1e752625f37aac9e780123f073ddb95addb220c235"
+  },
+  "scope": "No native saves. Blender launched with autoexec disabled. These checks do not replace owner native review."
+}

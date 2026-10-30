@@ -1,0 +1,20 @@
+[
+  {
+    "consumer": "S02",
+    "source_objects": 571,
+    "source_data_blocks": 548,
+    "object_action_custom_differences": [],
+    "geometry_shape_action_differences": [],
+    "scene_custom_equal": true,
+    "pass": true
+  },
+  {
+    "consumer": "S04",
+    "source_objects": 798,
+    "source_data_blocks": 728,
+    "object_action_custom_differences": [],
+    "geometry_shape_action_differences": [],
+    "scene_custom_equal": true,
+    "pass": true
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "consumer": "S02",
+    "instance": "WF_S02_EVENT_1",
+    "samples": [
+      {
+        "frame": 299,
+        "vertices": 0,
+        "axial_min_max": null
+      },
+      {
+        "frame": 302,
+        "vertices": 5120,
+        "axial_min_max": [
+          -5.901984474060429e-10,
+          0.005324768939843019
+        ]
+      },
+      {
+        "frame": 304,
+        "vertices": 7552,
+        "axial_min_max": [
+          0.0028671829425518046,
+          0.010786069765667592
+        ]
+      },
+      {
+        "frame": 315,
+        "vertices": 8576,
+        "axial_min_max": [
+          0.00928421097069705,
+          0.018295357620237162
+        ]
+      },
+      {
+        "frame": 320,
+        "vertices": 0,
+        "axial_min_max": null
+      },
+      {
+        "frame": 323,
+        "vertices": 0,
+        "axial_min_max": null
+      }
+    ],
+    "checks": {
+      "nonzero_gap": true,
+      "gap_matches_endpoint_distance": true,
+      "quiet_before_start": true,
+      "quiet_after_end": true,
+      "active_during_event": true
+    },
+    "pass": true
+  },
+  {
+    "consumer": "S04",
+    "instance": "WF_S04_EVENT_1",
+    "samples": [
+      {
+        "frame": 71,
+        "vertices": 0,
+        "axial_min_max": null
+      },
+      {
+        "frame": 75,
+        "vertices": 6656,
+        "axial_min_max": [
+          -1.720726512666193e-10,
+          0.007893334430444744
+        ]
+      },
+      {
+        "frame": 76,
+        "vertices": 7040,
+        "axial_min_max": [
+          0.002940653574936455,
+          0.01129830093927001
+        ]
+      },
+      {
+        "frame": 89,
+        "vertices": 6528,
+        "axial_min_max": [
+          0.004797908594797174,
+          0.012536471173329723
+        ]
+      },
+      {
+        "frame": 94,
+        "vertices": 0,
+        "axial_min_max": null
+      },
+      {
+        "frame": 97,
+        "vertices": 0,
+        "axial_min_max": null
+      }
+    ],
+    "checks": {
+      "nonzero_gap": true,
+      "gap_matches_endpoint_distance": true,
+      "quiet_before_start": true,
+      "quiet_after_end": true,
+      "active_during_event": true
+    },
+    "pass": true
+  },
+  {
+    "consumer": "S04",
+    "instance": "WF_S04_EVENT_2",
+    "samples": [
+      {
+        "frame": 183,
+        "vertices": 0,
+        "axial_min_max": null
+      },
+      {
+        "frame": 187,
+        "vertices": 6656,
+        "axial_min_max": [
+          -1.2265129493635452e-10,
+          0.007896813107512845
+        ]
+      },
+      {
+        "frame": 188,
+        "vertices": 7040,
+        "axial_min_max": [
+          0.0029419498325138817,
+          0.011303281189995358
+        ]
+      },
+      {
+        "frame": 201,
+        "vertices": 6528,
+        "axial_min_max": [
+          0.004800023420852076,
+          0.012541997187409637
+        ]
+      },
+      {
+        "frame": 206,
+        "vertices": 0,
+        "axial_min_max": null
+      },
+      {
+        "frame": 209,
+        "vertices": 0,
+        "axial_min_max": null
+      }
+    ],
+    "checks": {
+      "nonzero_gap": true,
+      "gap_matches_endpoint_distance": true,
+      "quiet_before_start": true,
+      "quiet_after_end": true,
+      "active_during_event": true
+    },
+    "pass": true
+  }
+]

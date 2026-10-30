@@ -1,0 +1,72 @@
+[
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/Ribbon_dark-stage_v010.blend",
+    "sha256": "d9c099d0ac9c456ecf0e2a44aa57ed0cbc7a1476597703800ac85c88c30f997c",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-context_v010.blend",
+    "sha256": "fda02dfc2c64882f6d7f04ec304ce8d2585c1dd33aba74796547830429a488d0",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-review-framing_v010.blend",
+    "sha256": "aa1e040dfc7e99f95fc6577a586e3a31427c155c156be3d0d1d476872e62fe34",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-056/Previews/ribbon_v010_slow-review.mp4",
+    "sha256": "251b9d1e9a3fed1250ad223e1061c5893045686bdba7a85f1ae276a84db1407e",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v011/Ribbon_formation-dark_v011.blend",
+    "sha256": "61f61094a1cab1b227a90d730755ae64c6110bf34d428cc8db0c73a105201ad8",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v011/S02_ribbon-formation-review_v011.blend",
+    "sha256": "a53bb15e99df25be57ebea500186be09511e24f259fa86c010701cf3908375a0",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-056/Previews/ribbon_formation-isolated_v011.mp4",
+    "sha256": "521a6848b869203d2e1699cca56aa41e0b8ede57f22591274c57ebb02614224f",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-056/Previews/ribbon_formation-context_v011.mp4",
+    "sha256": "2a5a478123671f5a21a618cd8a205ea9204f3930a4272620dd316c07ccf29e91",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v012/S02_causal-waveform-review_v012.blend",
+    "sha256": "b096b02c9134f4ba72f8857f1df08806236864c153a86f26f359ea27a05c1f29",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-056/Previews/causal-waveform-context_v012.mp4",
+    "sha256": "459ea75290224796d6e79d95131be8e0db13e5fa4b618690067426d83810a83d",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v013/S02_rolling-wave-field_v013.blend",
+    "sha256": "049a1aa27a256b302ae5c65822f863333f92ba826c36ac412e1f313f31d11d15",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-056/Previews/rolling-wave-field-context_v013.mp4",
+    "sha256": "481772bcf641eef9d03a0b952726556fd6d40f3cf6cc59c0de01173572955f07",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/PressureField_v007/S02_pressure-field-proof_v007.blend",
+    "sha256": "940efed0f0cb2254c8301a58141c40532e3fcf1528e7958638b6e8a40260e519",
+    "matches_previous": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-056/Previews/pressure-field_v007_slow-review.mp4",
+    "sha256": "79d072cac103e17fd6a8bcdd408db98c1ed93db3911cca99bbd6538a1a76b96c",
+    "matches_previous": true
+  }
+]

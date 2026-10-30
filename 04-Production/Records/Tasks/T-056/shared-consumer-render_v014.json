@@ -1,0 +1,46 @@
+[
+  {
+    "consumer": "S02",
+    "native_frames": [
+      298,
+      324
+    ],
+    "fps": 24,
+    "frames": 27,
+    "max_full_seconds": 0.6286767000565305,
+    "mean_full_seconds": 0.41329527779102876,
+    "benchmarks": [
+      {
+        "frame": 305,
+        "full_seconds": 1.9513173000887036
+      },
+      {
+        "frame": 314,
+        "full_seconds": 0.41062580002471805
+      }
+    ],
+    "folder": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-056\\Previews\\shared_S02_frames_v014"
+  },
+  {
+    "consumer": "S04",
+    "native_frames": [
+      71,
+      95
+    ],
+    "fps": 24,
+    "frames": 25,
+    "max_full_seconds": 0.8500873000593856,
+    "mean_full_seconds": 0.6506563439965248,
+    "benchmarks": [
+      {
+        "frame": 77,
+        "full_seconds": 1.8059925999259576
+      },
+      {
+        "frame": 86,
+        "full_seconds": 0.8449552999809384
+      }
+    ],
+    "folder": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-056\\Previews\\shared_S04_frames_v014"
+  }
+]

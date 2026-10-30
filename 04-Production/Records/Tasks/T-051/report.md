@@ -1,6 +1,6 @@
 # ECCO-051 — Shared asset integration
 
-30 October 2026. **In progress; no owner acceptance claimed.** Controlling input is ECCO-050 at commit `58013a6f5a907bfdfe9a7c7d63405e3306c2c42c`. The five delegated packages preserve locked source scenes and publish successor masters plus separate consumer copies.
+30 October 2026. **Implementation complete for shared-asset review; final native inspection/acceptance remains with Radzi.** Controlling input is ECCO-050 at commit `58013a6f5a907bfdfe9a7c7d63405e3306c2c42c`. The five delegated packages preserve locked source scenes and publish successor masters plus separate consumer copies. Later completion sections supersede historical incomplete status below.
 
 ## Package status
 
@@ -10,7 +10,7 @@
 | [053 physical World](../T-053/report.md) | World v010 with exact irregular S02 wall, documented transforms and extents; S02/T44 consumers; shared edit propagation | Owner appearance review |
 | [054 digital / reveal](../T-054/report-v004.md) | V004 exact cap-topology correction, shared contextual-line library, preserved S02/S06 behavior; camera/data/link and propagation checks pass | Owner visually approved v004; final native-file inspection remains |
 | [055 surface / descent](../T-055/report.md) | Surface v005; actual S01/S02 consumers; seabed join, axial view opening and motion checked; shared edit propagation | Owner appearance review; opening is illustrative, not internal engineering geometry |
-| [056 acoustic waveform](../T-056/report.md) | V013 fast evolving field approved for now; earlier versions preserved | Live shared controls, variants and two-consumer checks underway |
+| [056 acoustic waveform](../T-056/report.md) | V014 live native controls match provisionally approved v013; open/cased presets, S02/S04 copies, shared/local controls and preserved source checks pass | Owner native inspection/final acceptance |
 
 ## Independent review
 
@@ -65,3 +65,9 @@ Native: `Shared/Assets/Acoustics/RibbonWaveform_v013/S02_rolling-wave-field_v013
 Radzi approved v013 for now and reported no issues with the other previews, while reserving final approval until inspecting shared Blender files. He then authorized finishing054 first and056 second. During054 completion he explicitly approved its visual result. The [native review list](native-review.md) distinguishes preview approval from final native acceptance.
 
 054 v004 uses the exact two source cap grids instead of heuristic triangle filtering. All70 strata levels yield two continuous chains and all8 grid lines one chain, with no branches or hole-crossing chains. The3mm normal offset and0.1mm source-seam tie-break are display choices; local measurements are unchanged. Root inspected frames1/120/220/288, independently reopened S02/S03/S06 copies (camera/range/fps/libraries/source preservation pass), and read/reran the saved-copy shared propagation test for digital palette and reveal, including exact restoration. The derived shared line library has a manual source-hash preflight and tested regeneration helper; it does not update automatically with World geometry. Coarse source-timed continuity proof max2.856s/frame. Current entrypoint and limits: [054 v004 report](../T-054/report-v004.md).
+
+056 v014 completes the selected waveform as native Geometry Nodes with shared modifier controls, local overrides, and illustrative open/cased presets. Root independently reopened the stable master with autoexec disabled: active vertices match v013 within3.8e-8m; quiet geometry is empty; shared strength changes/restores geometry; cased preset changes geometry; relative libraries and source hashes pass. Separate root checks confirm nonzero routes, actual endpoint distances, active event geometry and empty geometry after all three mapped events. Final S02/S04 cameras, playback and frame ranges match source samples. Root also read/reran the source-preservation checker at a common frame: original object actions/custom data and geometry/shape-key comparisons pass across571/548 S02 objects/data blocks and798/728 S04 objects/data blocks.
+
+Builder's16 control tests include a saved shared strength edit observed in both reopened consumers, byte-exact restoration, and a saved local override affecting only S02. Root viewed the master, outgoing/return frames and16-sample consumer sequence. Source-time clips contain27 S02 frames and25 S04 frames at24fps; batch maxima0.629s/0.851s, representative master2.193s. Source Workbench views remain flatter than the Eevee master and use a local radius multiplier; S04's field is small in its preserved wide view. An initial zero-route adapter bug was fixed before acceptance. A cyan tail at S04 frame95 is the untouched section-owned casing response; the new shared field is empty then. Fourteen retained prior native/video hashes pass preservation.
+
+All five implementation packages are ready for final native inspection. Reports/scripts/evidence and selected stills are synchronized by the master; native files/video remain organized locally and ignored, without a new backup claim. No final movie batches, film assembly or client delivery occurred. Owner visual approval of054 and provisional v013 approval do not replace final inspection of the shared Blender assets. See [native review](native-review.md) and [056 controls](../T-056/shared-controls-guide_v014.md).

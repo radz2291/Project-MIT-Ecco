@@ -1,0 +1,174 @@
+{
+  "status": "native shared controls and two consumers verified; awaiting owner native inspection and acceptance",
+  "files": [
+    {
+      "path": "04-Production/Records/Tasks/T-056/report.md",
+      "sha256": "5727b664d0e16357b51044114e088203d1fe11086716344c6c132ab1f38c0980",
+      "bytes": 471
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/shared-controls-plan_v014.md",
+      "sha256": "188aefdabde4549ad209072a4e06e015d20a466a624b4ff5f28c0e9390dd3dda",
+      "bytes": 4346
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/shared-controls-guide_v014.md",
+      "sha256": "7e50ae31a9302de16e252e196c7a181b9fe050686d19685f2f0cf30fb5d9024b",
+      "bytes": 5948
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/shared-completion-report_v014.md",
+      "sha256": "218dfa2a9630792aaf83999f18a45675ee2dcfcfe4b53b2454f8784efa4bae01",
+      "bytes": 3120
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/build_shared_gn_v014.py",
+      "sha256": "2f247b5511fb3648de73d2a8802c8be2ddd5b580df7737c6a2b9de361c8bc59b",
+      "bytes": 13346
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/finish_master_cues_v014.py",
+      "sha256": "68266f45b0d16691228edf01d70677da52ee892b42b0a9d3b801c983e712aee8",
+      "bytes": 2937
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/build_consumers_v014.py",
+      "sha256": "293d693c2ea98cfffdccc0bd6b93c9d5c20b1c1a2b6378b280c301e8e8b3433a",
+      "bytes": 4783
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/inspect_consumers_v014.py",
+      "sha256": "08a6af62cf5d1d9f1f9125bf427392f0384dd1596d768a36fa7b233e564dc026",
+      "bytes": 1262
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/check_render_shared_v014.py",
+      "sha256": "84bb6bd61906020e605eaaa011c7c31b181f224dd22977598e52050dc026b4ee",
+      "bytes": 1290
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/test_shared_controls_v014.py",
+      "sha256": "05b35d85c2f8e491cc7f8d1bb756e1a835c8b9f4af5052d133c4feabdb3f1444",
+      "bytes": 4124
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/check_source_preservation_v014.py",
+      "sha256": "5173b6f0bdc418b291e835e3f9ca7ef58d65e13a1e923cb8b20cd3e94524c896",
+      "bytes": 2227
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/render_consumers_v014.py",
+      "sha256": "70f1e19351b3e65c083b0394ef7d25aac800d0dc55631c18e041af77caa89047",
+      "bytes": 1334
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/identify_s04_overlay_v014.py",
+      "sha256": "6d1ce5c5df6cad4fe576d9f709d9dd0b37b88b3bdd30475e6083bcf94dbd6223",
+      "bytes": 686
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/consumer-mapping_v014.json",
+      "sha256": "a311fcdc3e356cff56eae4c01d7deb0bdfb4ef4536c59fefe0824d0041b2a8ef",
+      "bytes": 6154
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/consumer-source-events_v014.json",
+      "sha256": "626c945fe4d2e4bd43c9b66c288fd2fc254c8ece9d832219b14f35c5556fb186",
+      "bytes": 970667
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/shared-default-comparison_v014.json",
+      "sha256": "b18c341eb8deebe0cdf7d468b98961d5704b6f4a17dc17c9eb5a316adfa662fd",
+      "bytes": 3215
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/shared-control-tests_v014.json",
+      "sha256": "560a0c569027b406ad8554252fd6fd537e74fe173bf8cd1aa18948b6782e29d3",
+      "bytes": 2814
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/shared-benchmarks_v014.json",
+      "sha256": "4430256637134e41e6d18194758891cbd6d999ca52e660790327c0db74a18ce4",
+      "bytes": 1088
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/shared-consumer-render_v014.json",
+      "sha256": "c2aa1b805f149ef0e835cb71a97a72efb7ae0196b42b4bdbfff10e58e5ebc257",
+      "bytes": 1101
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/source-preservation_v014.json",
+      "sha256": "55cf40b7a5b472ffebfe3141d77674359b60a5d65c51131e6323c938443fbfd1",
+      "bytes": 477
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/prior-proof-preservation_v014.json",
+      "sha256": "0d145ab7e5488c5b596eb50c1ecf16fcb8c68e2e1eb85885f2416f27222ec87c",
+      "bytes": 3162
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/s04-frame95-source-overlays_v014.json",
+      "sha256": "cd4fbc5ff0ce7144393e60f4bf7b410ed8415ba508eb75d6de285f8160ca745d",
+      "bytes": 475
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/shared_master_v014.png",
+      "sha256": "a59ade3dc36639ff61746d65e9b2eccc983a152adda43f7d033ebd1f21db9852",
+      "bytes": 329533
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/shared_S02_305_v014.png",
+      "sha256": "1f0c0192161d26dddd56498cd3e85cb65e9b6c9001eaa3664d90916c5db274f0",
+      "bytes": 285757
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/shared_S02_314_v014.png",
+      "sha256": "c1ee27b284ab66cbc7e0ca6d6cda1dec36498469dbd5a6cd96ed718ac3fa132d",
+      "bytes": 284240
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/shared_S04_77_v014.png",
+      "sha256": "73b39af0313a3ff1ff993590f2ea4565f733b848fcb35c7695ca13ae4a2aa304",
+      "bytes": 693260
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/shared_S04_86_v014.png",
+      "sha256": "07542fe969335002a561b39e922587593e313bc1ec1a4eb81a9877952a032ffb",
+      "bytes": 693260
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/shared_sequence_v014.png",
+      "sha256": "5b7e7091270e0d3ca27f6d56cfa964f7035f7849fe5345bb8c8e07d25812ee50",
+      "bytes": 420361
+    }
+  ],
+  "local_only": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/Waveform_shared_v014/Waveform_shared_v014.blend",
+      "sha256": "f40442c23464edf73afb0a1e752625f37aac9e780123f073ddb95addb220c235",
+      "bytes": 25494967
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Consumers/S02_waveform_shared_v014.blend",
+      "sha256": "1a0fac00a0c7b8f2732568779ffdc041224e6e38570ae6e0703626b175d34573",
+      "bytes": 17865608
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Consumers/S04_waveform_shared_v014.blend",
+      "sha256": "4000429544688dfcb5364886613e632da2ae00e8704372102bbad6b68b35b477",
+      "bytes": 42665436
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/shared_S02_native-time_v014.mp4",
+      "sha256": "2e776c89211c808e20dd6115c9e9668821811a39b76c3ddb1ac5f7ed26c48e9c",
+      "bytes": 71657
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/shared_S04_native-time_v014.mp4",
+      "sha256": "e7bd70b70de6519f412b00c7973515593cf6ec37d8dcdac38194b6a7fab15dca",
+      "bytes": 34441
+    }
+  ],
+  "prior_preserved": 14,
+  "excluded": "all raw frames, .blend/.blend1, videos and bulk diagnostic caches; no remote media/backup claim"
+}

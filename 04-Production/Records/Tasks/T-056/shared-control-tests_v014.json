@@ -1,0 +1,111 @@
+{
+  "pass": true,
+  "checks": [
+    {
+      "control": "Playback Speed",
+      "geometry_changed": true
+    },
+    {
+      "control": "Frequency Multiplier",
+      "geometry_changed": true
+    },
+    {
+      "control": "Strength",
+      "geometry_changed": true
+    },
+    {
+      "control": "Echo Strength",
+      "geometry_changed": true
+    },
+    {
+      "control": "Decay Tightness",
+      "geometry_changed": true
+    },
+    {
+      "control": "Source Duration Frames",
+      "geometry_changed": true
+    },
+    {
+      "control": "One Way Frames",
+      "geometry_changed": true
+    },
+    {
+      "control": "Reference Height m",
+      "geometry_changed": true
+    },
+    {
+      "control": "Width m",
+      "geometry_changed": true
+    },
+    {
+      "control": "Strand Radius m",
+      "geometry_changed": true
+    },
+    {
+      "control": "Emission",
+      "attribute_changed": true
+    },
+    {
+      "control": "Opacity Power",
+      "attribute_changed": true
+    },
+    {
+      "test": "saved shared Strength=.8 reaches both reopened consumers",
+      "pass": true,
+      "baseline": {
+        "S02": {
+          "vertices": 7552,
+          "hash": "121127de3eba2cde926b5b6e5971d543aefc8c6cec8674fd93b995914410a4ee",
+          "extent": [
+            0.03749072551727295,
+            0.01520581915974617,
+            0.01897759735584259
+          ]
+        },
+        "S04": {
+          "vertices": 7168,
+          "hash": "f10b0934fd6e62880003db4bd308b9fb3b2d083941418e0afa5c0bbbf57f4d4d",
+          "extent": [
+            0.020365092903375626,
+            0.025589503347873688,
+            0.03134952485561371
+          ]
+        }
+      },
+      "changed": {
+        "S02": {
+          "vertices": 7552,
+          "hash": "d91a92db30dcb8f9eec260146511f5c7bef72d5e5b093f6b9a0f087243d0ecee",
+          "extent": [
+            0.03749072551727295,
+            0.01520581915974617,
+            0.015203677117824554
+          ]
+        },
+        "S04": {
+          "vertices": 7168,
+          "hash": "216e4ba2c5cc8cb643bfbb877dc92c665c64c9b542860fa5eff40c12c4a2105a",
+          "extent": [
+            0.016313673928380013,
+            0.025589503347873688,
+            0.03134952485561371
+          ]
+        }
+      }
+    },
+    {
+      "test": "restored shared source returns both consumers exactly",
+      "pass": true
+    },
+    {
+      "test": "saved local override changes S02 only",
+      "pass": true
+    },
+    {
+      "test": "native cased preset changes field",
+      "pass": true
+    }
+  ],
+  "master_restored_sha256": "f40442c23464edf73afb0a1e752625f37aac9e780123f073ddb95addb220c235",
+  "execution": "Blender --disable-autoexec; saved file edits and reopens; no handlers"
+}

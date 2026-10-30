@@ -1,0 +1,27 @@
+[
+  {
+    "object": "Casing response tail 0",
+    "materials": [
+      [
+        "Fine resonance-tail return 0",
+        [
+          0.18000000715255737,
+          1.0,
+          0.550000011920929,
+          0.10000000149011612
+        ]
+      ]
+    ],
+    "location": [
+      -0.31999993324279785,
+      0.11684108525514603,
+      0.09461604058742523
+    ],
+    "collections": [
+      [
+        "Scene Collection",
+        false
+      ]
+    ]
+  }
+]

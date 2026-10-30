@@ -1,0 +1,15 @@
+# ECCO-056 — Native shared waveform ready for owner inspection
+
+V014 turns the provisionally approved v013 appearance into editable native Geometry Nodes and two linked consumer copies. It is ready for inspection, not owner-accepted. Master defaults reproduce v013 active geometry within3.8e-8m; quiet frames have zero vertices. The same constant normalization, smooth envelope and coordinated multi-frequency field remain in use. Master proof cues now follow native speed/duration/travel controls. S02/S04 retain their source-owned timing, cues, camera, datasets and frame ranges.
+
+The controls guide is `shared-controls-guide_v014.md`; exact native paths, source hashes, local event settings and replaced object lists are in `consumer-mapping_v014.json`. Original traveling objects remain in a hidden collection with their actions intact. No supplied original or previous v007/v010/v011/v012/v013 proof was edited.
+
+Sixteen native control tests pass with auto-execution disabled. A saved shared strength edit changes evaluated geometry in both reopened consumers; restoration returns exactly to baseline. A saved local override changes only S02. Open/cased presets change actual geometry. Shader appearance is available in the Eevee master; Workbench consumers retain source rendering and use cyan material color plus a local thickness multiplier. Their smaller, shorter native event windows are not presented as the four-second master demonstration.
+
+Visual checks caught and corrected an initial zero-length S04 route caused by evaluating hidden source objects. Final routes use native action endpoint extrema with nonzero-gap assertions. A separate source-preservation check initially compared an animated WORLD_CONTROL property at different saved frames; it now evaluates both files at frame1. Neither issue was concealed as a visual pass.
+
+Representative full render-to-file checks and both native-time clip batches stay below5seconds/frame. See `shared-benchmarks_v014.json` and `shared-consumer-render_v014.json` for exact timings/settings. Selected outgoing/return stills and `Previews/shared_sequence_v014.png` show the progression in both unchanged cameras. S04 is intentionally small in its source wide framing.
+
+This remains authored cinematic visualization with illustrative open/cased presets. It is not measured RF, calibrated pressure, a diffraction/full-wave solve, engineering certification or client acceptance. Heavy native/video files are local; no off-machine backup claim is made. Root integrates permitted publication files and pins the synchronized commit before the Work review handoff.
+
+S04 front versus tail:80.92/90.52 are the first SEND/ECHO front endpoints; the full source sets continue through83.48/92.44. The adapter preserves those tail windows. At frame95 the shared field is empty; the small retained signal is original **Casing response tail 0**, material **Fine resonance-tail return 0**, left unchanged as section-owned response. Both original-object/action/custom-data and mesh/shape-key comparisons pass:571/548 S02 objects/data blocks and798/728 S04 objects/data blocks.

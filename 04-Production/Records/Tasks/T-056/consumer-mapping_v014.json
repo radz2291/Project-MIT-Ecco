@@ -1,0 +1,217 @@
+[
+  {
+    "name": "S02",
+    "baseline": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend",
+    "candidate": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-056\\Consumers\\S02_waveform_shared_v014.blend",
+    "frames": [
+      1,
+      299,
+      300,
+      305,
+      309,
+      310,
+      314,
+      318,
+      324,
+      528
+    ],
+    "source_sha256": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "camera": "CAM_S01_Continuous",
+    "range": [
+      1,
+      528
+    ],
+    "fps": 24,
+    "instances": [
+      {
+        "object": "WF_S02_EVENT_1",
+        "start": [
+          0.04694615676999092,
+          -0.12229903787374496,
+          -729.5299682617188
+        ],
+        "wall": [
+          0.05575335770845413,
+          -0.1452425718307495,
+          -729.5299682617188
+        ],
+        "settings": {
+          "Radius Override": 3.0,
+          "Start Frame": 300.0,
+          "Duration Override": 3.0,
+          "Travel Override": 9.0,
+          "Return Travel Override": 8.0,
+          "Echo Delay Frames": 1.0,
+          "Outbound End Frame": 309.01,
+          "Return End Frame": 318.01,
+          "Lock Event Timing": 1.0,
+          "Gap Length m": 0.024575852808900598,
+          "Route Axis": [
+            0.3583680987358093,
+            -0.9335803985595703,
+            0.0
+          ],
+          "Transverse Axis": [
+            -0.9335803985595703,
+            -0.3583680987358093,
+            0.0
+          ],
+          "Up Axis": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Preset 0 Open 1 Cased": 0
+        }
+      }
+    ],
+    "replaced_travel_objects": [
+      "DW 1 ECHO front0 core",
+      "DW 1 ECHO front0 digital samples",
+      "DW 1 ECHO front0 halo",
+      "DW 1 ECHO front1 core",
+      "DW 1 ECHO front1 digital samples",
+      "DW 1 ECHO front1 halo",
+      "DW 1 ECHO front2 core",
+      "DW 1 ECHO front2 digital samples",
+      "DW 1 ECHO front2 halo",
+      "DW 1 SEND front0 core",
+      "DW 1 SEND front0 digital samples",
+      "DW 1 SEND front0 halo",
+      "DW 1 SEND front1 core",
+      "DW 1 SEND front1 digital samples",
+      "DW 1 SEND front1 halo",
+      "DW 1 SEND front2 core",
+      "DW 1 SEND front2 digital samples",
+      "DW 1 SEND front2 halo",
+      "DW 1 SEND front3 core",
+      "DW 1 SEND front3 digital samples",
+      "DW 1 SEND front3 halo"
+    ]
+  },
+  {
+    "name": "S04",
+    "baseline": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S04\\S04-A\\Previs_v033\\Scenes\\S04_continuous_ABCD_v033.blend",
+    "candidate": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-056\\Consumers\\S04_waveform_shared_v014.blend",
+    "frames": [
+      1,
+      72,
+      77,
+      81,
+      86,
+      93,
+      184,
+      190,
+      200,
+      205,
+      261,
+      300,
+      432
+    ],
+    "source_sha256": "018f65027ab9f190709085bcaf103edf10dc565bc49ab2c76d0dad79675ec77f",
+    "camera": "S04 proof camera",
+    "range": [
+      1,
+      432
+    ],
+    "fps": 24,
+    "instances": [
+      {
+        "object": "WF_S04_EVENT_1",
+        "start": [
+          -0.31999993324279785,
+          0.10180610418319702,
+          0.08244095742702484
+        ],
+        "wall": [
+          -0.31999993324279785,
+          0.12345647811889648,
+          0.09997308254241943
+        ],
+        "settings": {
+          "Radius Override": 3.0,
+          "Start Frame": 72.5999984741211,
+          "Duration Override": 2.56,
+          "Travel Override": 8.319999694824219,
+          "Return Travel Override": 8.959999084472656,
+          "Echo Delay Frames": 0.6399993896484375,
+          "Outbound End Frame": 83.47999816894531,
+          "Return End Frame": 92.43999664306641,
+          "Lock Event Timing": 1.0,
+          "Gap Length m": 0.027858824757848153,
+          "Route Axis": [
+            0.0,
+            0.7771459817886353,
+            0.6293203234672546
+          ],
+          "Transverse Axis": [
+            0.0,
+            0.6293203234672546,
+            -0.7771459817886353
+          ],
+          "Up Axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "Preset 0 Open 1 Cased": 0
+        }
+      },
+      {
+        "object": "WF_S04_EVENT_2",
+        "start": [
+          -1.5,
+          0.10180610418319702,
+          0.08244095742702484
+        ],
+        "wall": [
+          -1.5,
+          0.12346602231264114,
+          0.09998080879449844
+        ],
+        "settings": {
+          "Radius Override": 3.0,
+          "Start Frame": 184.60000610351562,
+          "Duration Override": 2.56,
+          "Travel Override": 8.319992065429688,
+          "Return Travel Override": 8.960006713867188,
+          "Echo Delay Frames": 0.6399993896484375,
+          "Outbound End Frame": 195.47999816894531,
+          "Return End Frame": 204.44000427246092,
+          "Lock Event Timing": 1.0,
+          "Gap Length m": 0.027871103947530004,
+          "Route Axis": [
+            0.0,
+            0.77714604139328,
+            0.6293203234672546
+          ],
+          "Transverse Axis": [
+            0.0,
+            0.6293203234672546,
+            -0.77714604139328
+          ],
+          "Up Axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "Preset 0 Open 1 Cased": 1
+        }
+      }
+    ],
+    "replaced_travel_objects": [
+      "S02 sourced ECHO front 0",
+      "S02 sourced ECHO front 0.001",
+      "S02 sourced ECHO front 1",
+      "S02 sourced ECHO front 1.001",
+      "S02 sourced ECHO front 2",
+      "S02 sourced ECHO front 2.001",
+      "S02 sourced SEND front 0",
+      "S02 sourced SEND front 0.001",
+      "S02 sourced SEND front 1",
+      "S02 sourced SEND front 1.001",
+      "S02 sourced SEND front 2",
+      "S02 sourced SEND front 2.001"
+    ]
+  }
+]

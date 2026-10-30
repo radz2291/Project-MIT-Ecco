@@ -1,0 +1,38 @@
+[
+  {
+    "name": "master",
+    "frame": 30,
+    "vertices": 23168,
+    "extent": [
+      0.040039826184511185,
+      0.03448994504287839,
+      0.03521919157356024
+    ],
+    "full_render_seconds": 2.1925502999220043,
+    "image": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-056\\Previews\\shared_master_v014.png"
+  },
+  {
+    "name": "S02",
+    "frame": 305,
+    "vertices": 7552,
+    "extent": [
+      0.0374907273799181,
+      0.015205818694084883,
+      0.01897759735584259
+    ],
+    "full_render_seconds": 0.4733200999908149,
+    "image": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-056\\Previews\\shared_S02_v014.png"
+  },
+  {
+    "name": "S04",
+    "frame": 77,
+    "vertices": 7168,
+    "extent": [
+      0.02036509243771434,
+      0.025589502416551113,
+      0.031349523924291134
+    ],
+    "full_render_seconds": 0.9635413000360131,
+    "image": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-056\\Previews\\shared_S04_v014.png"
+  }
+]
