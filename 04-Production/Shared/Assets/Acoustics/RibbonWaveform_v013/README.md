@@ -1,0 +1,13 @@
+# Rolling-wave field v013
+
+Focused four-second proof responding to the owner's request for fast, organic motion like an ocean of waves. A changing multi-component field replaces v012's fixed-profile packet. Crests continuously form, roll, interfere and decay across the anchored sensor-wall domain. The weaker wall-born return overlaps the outgoing field after contact; reception still precedes the wall measurement mark.
+
+The field is authored and illustrative, not measured RF or a complete acoustic solver. It uses two coordinated sine components (frequency ratio 1:1.65), a smooth sine-squared source envelope, phase variations across the strands, and a delayed reflected component at half strength. The original 24.576 mm gap and context anchors remain. One constant height normalization is computed for the entire clip, capped at approximately40mm peak-to-trough; there is no per-frame normalization or global amplitude pumping. Transverse width is capped at40mm. The return is weaker by component strength, not by arbitrary uniform scaling of a finished shape.
+
+All source controls are in the C dictionary in build_field_v013.py and copied into field-model_v013.json: start8, source duration30frames, one-way propagation12frames, primary period7.5frames, echo coefficient0.5,32strands and180route samples. Changing these parameters requires rebuilding the baked native. This is a scoped proof control surface, not the final shared-asset API.
+
+Timeline at24fps: emission8–38; wall arrivals20–50; returned signal reaches sensor32–62; sensor cue ends64; measurement starts68 and holds through96. An outgoing-only onset and return-dominant tail remain visible. Review duration is four seconds at native24fps, not slow playback. Colors, dimensions and time are cinematic mappings, not calibrated physical quantities.
+
+Native playback is self-contained apart from the existing relative ECCO library. Ninety-six absolute shape-key samples plus animated material opacity are saved; no handlers or auto-execution scripts are required. The object matrix and route coordinates remain anchored. Opacity uses the same smooth outgoing/reflected envelopes, so inactive edges taper rather than appearing as rectangular cuts. No random wobble is used.
+
+The wider fixed review camera and source-native-305 tableau remain unchanged. Original CAM_S01_Continuous is retained as a datablock/action, not used as the active review timing. All prior proofs remain preserved. First six representative full render-to-file timings passed: max3.009s, others0.90–1.11s,640x360Eevee16. Only owner review can accept the look; full library/variant/migration completion remains pending.

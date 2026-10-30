@@ -1,0 +1,205 @@
+{
+  "controls": {
+    "start": 8,
+    "source_duration": 30,
+    "one_way_frames": 12,
+    "carrier_period_frames": 7.5,
+    "echo_strength": 0.5,
+    "height_limit_m": 0.0400390625,
+    "width_limit_m": 0.0400000084,
+    "strand_count": 32,
+    "route_samples": 180,
+    "fps": 24,
+    "frames": 96
+  },
+  "constant_height_normalization": 0.019331816745520012,
+  "raw_max_frame_span": 2.0711484609576964,
+  "checks": [
+    {
+      "frame": 1,
+      "geometry_hash": "bd4ef60c5bc3e32f05ab9dac4d1924629fce90c1d53f2e77a0069b478b2c3d14",
+      "height_m": 3.6e-05,
+      "outgoing_energy": 0.0,
+      "echo_energy": 0.0,
+      "active_route_bounds": null
+    },
+    {
+      "frame": 12,
+      "geometry_hash": "74583cfbca8e1f3a0e5716cfa43a6076037c6805e0c2898cfa0590c3029df3aa",
+      "height_m": 0.0025699153361805676,
+      "outgoing_energy": 0.00024682499019850504,
+      "echo_energy": 0.0,
+      "active_route_bounds": [
+        0.0,
+        0.3277777777777778
+      ]
+    },
+    {
+      "frame": 18,
+      "geometry_hash": "9b383c1f305f63a2a1c0aed7a142a6aed0371ac194d530895ff2914631133796",
+      "height_m": 0.0207480268170439,
+      "outgoing_energy": 0.03935642963713463,
+      "echo_energy": 0.0,
+      "active_route_bounds": [
+        0.0,
+        0.8277777777777778
+      ]
+    },
+    {
+      "frame": 22,
+      "geometry_hash": "5a24635b3f5bcececfc1be1b270a81e1ab7dd2b1ba834e87757a1bbcfc0d9578",
+      "height_m": 0.03033326710053077,
+      "outgoing_energy": 0.131447995526269,
+      "echo_energy": 7.879877911776411e-06,
+      "active_route_bounds": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "frame": 26,
+      "geometry_hash": "269fced18b75fccf092927d22ae8959362c909ca1740a1dd8339ee09f1f847d2",
+      "height_m": 0.030612558100978918,
+      "outgoing_energy": 0.17099647869372653,
+      "echo_energy": 0.0010549397977989608,
+      "active_route_bounds": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "frame": 30,
+      "geometry_hash": "8ae460927bb17464a1f0c96cd89f6226ca960d82452bfc4ce896ed9f1dc83bd2",
+      "height_m": 0.035219191018701676,
+      "outgoing_energy": 0.19333475388794144,
+      "echo_energy": 0.006921549772148445,
+      "active_route_bounds": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "frame": 34,
+      "geometry_hash": "9bfb86be137e7dc8529c6c487834970a569d8d4d582336e43b95efc99423cfbe",
+      "height_m": 0.03701146892228403,
+      "outgoing_energy": 0.11711928732492637,
+      "echo_energy": 0.03170910456944809,
+      "active_route_bounds": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "frame": 38,
+      "geometry_hash": "aa70397afc4cbda80a3d2094ab803303908d54fb11f5b8bbebbb45e602bb590f",
+      "height_m": 0.03296165382694992,
+      "outgoing_energy": 0.07583095782737648,
+      "echo_energy": 0.05871726184135855,
+      "active_route_bounds": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "frame": 46,
+      "geometry_hash": "3a05125d317b39c973bde79931da5060e3f85675d3d3cf138784cd9f90773bf6",
+      "height_m": 0.016652828499895148,
+      "outgoing_energy": 0.00022621365881427964,
+      "echo_energy": 0.04239864317966914,
+      "active_route_bounds": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "frame": 54,
+      "geometry_hash": "f8a8205f40dfb3760cf1a6230ecce2794d82fe8e614444efada696b45633fd1e",
+      "height_m": 0.006791525998286847,
+      "outgoing_energy": 0.0,
+      "echo_energy": 0.00413463502361334,
+      "active_route_bounds": [
+        0.0,
+        0.6611111111111111
+      ]
+    },
+    {
+      "frame": 62,
+      "geometry_hash": "bd4ef60c5bc3e32f05ab9dac4d1924629fce90c1d53f2e77a0069b478b2c3d14",
+      "height_m": 3.6e-05,
+      "outgoing_energy": 0.0,
+      "echo_energy": 0.0,
+      "active_route_bounds": null
+    },
+    {
+      "frame": 68,
+      "geometry_hash": "bd4ef60c5bc3e32f05ab9dac4d1924629fce90c1d53f2e77a0069b478b2c3d14",
+      "height_m": 3.6e-05,
+      "outgoing_energy": 0.0,
+      "echo_energy": 0.0,
+      "active_route_bounds": null
+    },
+    {
+      "frame": 96,
+      "geometry_hash": "bd4ef60c5bc3e32f05ab9dac4d1924629fce90c1d53f2e77a0069b478b2c3d14",
+      "height_m": 3.6e-05,
+      "outgoing_energy": 0.0,
+      "echo_energy": 0.0,
+      "active_route_bounds": null
+    }
+  ],
+  "sensor_world": [
+    0.04694615676999092,
+    -0.12229903787374496,
+    -729.5299682617188
+  ],
+  "wall_world": [
+    0.05575335770845413,
+    -0.1452425718307495,
+    -729.5299682617188
+  ],
+  "camera": "RIBBON_CONTEXT_REVIEW_20PCT_WIDER",
+  "matrix": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.04694615676999092
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      -0.12229903787374496
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      -729.5299682617188
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "model": "authored multi-frequency outgoing plus0.5 delayed reflected field; strand-coordinated phase; sine-squared temporal envelope; smooth opacity; not measuredRF or physical medium displacement",
+  "prior_source": "v012 context preserved; no sourceCSV claim for new field",
+  "timing": {
+    "outgoing_source": [
+      8,
+      38
+    ],
+    "wall_arrival_tail": [
+      20,
+      50
+    ],
+    "sensor_receipt": [
+      32,
+      62
+    ],
+    "measurement_starts": 68
+  },
+  "stored": "96 absolute shape samples, no handlers"
+}

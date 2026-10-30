@@ -1,9 +1,9 @@
-# ECCO-056 — Causal waveform proof awaiting review
+# ECCO-056 — Fast rolling-wave field awaiting review
 
-Current review: [v012 causal proof](causal-proof-report_v012.md). The seven-second device-context animation shows emission from the right-hand oval, travel to the left-hand wall, localized contact, a smaller returning echo entering the same oval, and a measurement mark appearing only afterward. The inactive gap is invisible.
+Current proof: [v013 rolling-wave field](field-proof-report_v013.md). Main video: `Previews/rolling-wave-field-context_v013.mp4`, four seconds at native 24 fps. [Sequence contact sheet](Previews/field_sequence_v013.png) samples every sixth frame.
 
-The outgoing waveform reaches the provisional sensor face's approximately 40 mm height/width; the return is about 20 mm. Local sampled geometry evolves on an anchored route, with fixed object transforms. This is explicitly an artistic display of an assumed signal model, not measured ECCO data or calibrated fluid displacement.
+The field has continuously changing, overlapping crests and a weaker wall-born return. Smooth occupancy replaces the earlier cut packet edges. Sensor receipt still precedes the final wall measurement mark. This is an authored cinematic field, not measured RF or calibrated fluid displacement. One constant scale limits the full height/width to about the provisional 40 mm sensor face.
 
-Main video: `Previews/causal-waveform-context_v012.mp4`. Native folder: `04-Production/Shared/Assets/Acoustics/RibbonWaveform_v012`. The camera is a fixed wider review view of a source-frame-305 tableau; the original camera datablock/action is retained separately. V007, v010 and v011 native/video files remain unchanged.
+All 96 frames rendered below five seconds: maximum 2.26 seconds. V007/v010/v011/v012 native/video hashes remain unchanged. The source camera is retained separately; the proof uses a fixed review view and source-frame-305 tableau. Heavy native/video/raw frames stay local, with exact hashes in the publication manifest.
 
-Owner visual acceptance remains pending. Full shared controls, variants and consumer migration are not complete. Heavy native/video/raw frames stay local; master alone integrates permitted files. Current worker run: `b2738f26-bfab-4cca-a4c0-b789f7552d47`, attempt 3.
+Owner visual acceptance and full reusable controls, variants and consumer migration remain pending. No final film assembly or engineering approval claimed. Master alone integrates permitted files.

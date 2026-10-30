@@ -1,0 +1,894 @@
+{
+  "candidate": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\RibbonWaveform_v013\\S02_rolling-wave-field_v013.blend",
+  "sha256": "049a1aa27a256b302ae5c65822f863333f92ba826c36ac412e1f313f31d11d15",
+  "checks": {
+    "object_transform_stationary": true,
+    "axial_sampling_stationary": true,
+    "geometry_evolves_at_fixed_locations": true,
+    "full_height_matches_sensor": true,
+    "quiet_geometry_returns_to_start": true,
+    "no_early_wall_response": true,
+    "wall_response_present": true,
+    "no_early_receipt": true,
+    "receipt_present": true,
+    "measurement_after_return_tail": true,
+    "same_sensor_emits_receives": true,
+    "relative_libraries_resolve": true,
+    "four_seconds": true,
+    "native_preserved": true
+  },
+  "all_pass": true,
+  "frame_samples": {
+    "1": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "2": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "3": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "4": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "5": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "6": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "7": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "8": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "9": {
+      "height_m": 0.000257169140240876,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "10": {
+      "height_m": 0.0006835465283074882,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "11": {
+      "height_m": 0.001750966242980212,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "12": {
+      "height_m": 0.002569915261119604,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "13": {
+      "height_m": 0.0036341430386528373,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "14": {
+      "height_m": 0.005073421751148999,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "15": {
+      "height_m": 0.008644651621580124,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "16": {
+      "height_m": 0.015076623298227787,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "17": {
+      "height_m": 0.0183080630376935,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "18": {
+      "height_m": 0.02074802666902542,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "19": {
+      "height_m": 0.026348352432250977,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "20": {
+      "height_m": 0.03015912603586912,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "21": {
+      "height_m": 0.030333267524838448,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "22": {
+      "height_m": 0.030333267524838448,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "23": {
+      "height_m": 0.030333267524838448,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "24": {
+      "height_m": 0.030333267524838448,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "25": {
+      "height_m": 0.030333267524838448,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "26": {
+      "height_m": 0.030612558126449585,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "27": {
+      "height_m": 0.03033764287829399,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "28": {
+      "height_m": 0.03180934954434633,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "29": {
+      "height_m": 0.03439061529934406,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "30": {
+      "height_m": 0.03521919157356024,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "31": {
+      "height_m": 0.036300135776400566,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "32": {
+      "height_m": 0.035162790678441525,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "33": {
+      "height_m": 0.03749457560479641,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "34": {
+      "height_m": 0.037011442705988884,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "35": {
+      "height_m": 0.0347659420222044,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "36": {
+      "height_m": 0.03848098777234554,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "37": {
+      "height_m": 0.04007503017783165,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "38": {
+      "height_m": 0.03296165354549885,
+      "cues": {
+        "FIELD_EMISSION": true,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "39": {
+      "height_m": 0.03607421554625034,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "40": {
+      "height_m": 0.032126931473612785,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "41": {
+      "height_m": 0.026273544877767563,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "42": {
+      "height_m": 0.02331214863806963,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "43": {
+      "height_m": 0.020151560194790363,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "44": {
+      "height_m": 0.018426931463181973,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "45": {
+      "height_m": 0.018426931463181973,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "46": {
+      "height_m": 0.016652829013764858,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "47": {
+      "height_m": 0.015735537745058537,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "48": {
+      "height_m": 0.01487429253757,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "49": {
+      "height_m": 0.01267094537615776,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "50": {
+      "height_m": 0.010063697816804051,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": true,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "51": {
+      "height_m": 0.009023467544466257,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "52": {
+      "height_m": 0.008284160867333412,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "53": {
+      "height_m": 0.008143141400068998,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "54": {
+      "height_m": 0.006791523192077875,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "55": {
+      "height_m": 0.005209968192502856,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "56": {
+      "height_m": 0.004878379870206118,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "57": {
+      "height_m": 0.003716438775882125,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "58": {
+      "height_m": 0.0021035519894212484,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "59": {
+      "height_m": 0.00106815219623968,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "60": {
+      "height_m": 0.0005086701276013628,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "61": {
+      "height_m": 0.0001657356187934056,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "62": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "63": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "64": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": true,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "65": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "66": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "67": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": false
+      }
+    },
+    "68": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "69": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "70": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "71": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "72": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "73": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "74": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "75": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "76": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "77": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "78": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "79": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "80": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "81": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "82": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "83": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "84": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "85": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "86": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "87": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "88": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "89": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "90": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "91": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "92": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "93": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "94": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "95": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    },
+    "96": {
+      "height_m": 3.600000127335079e-05,
+      "cues": {
+        "FIELD_EMISSION": false,
+        "FIELD_WALL_CONTACT": false,
+        "FIELD_SENSOR_RECEIPT": false,
+        "FIELD_MEASUREMENT_AFTER_RECEIPT": true
+      }
+    }
+  },
+  "libraries": [
+    {
+      "path": "//..\\..\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    }
+  ],
+  "limit": "Technical checks complement rendered sequence review; not physical calibration or owner acceptance."
+}

@@ -1,0 +1,79 @@
+{
+  "status": "fast evolving field proof awaiting owner acceptance",
+  "files": [
+    {
+      "path": "04-Production/Records/Tasks/T-056/.gitignore",
+      "sha256": "8368c1da780a66f0b41d9ad766df216059d23700644a280913879f4485f0aa62"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/report.md",
+      "sha256": "d94695d00018451bdd67f2106131959c943b582a461ec88a1c5918a26bd3536e"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/field-proof-report_v013.md",
+      "sha256": "5673d58ef508fb5504d6ed71d51e4db8b61f9b90a5b91870d20e436ea034d9eb"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/build_field_v013.py",
+      "sha256": "e05ea0ec6051004af64ee7051ae26542c76c06972b29c3e22ab6299f49086a45"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/render_field_v013.py",
+      "sha256": "69831d116d52a0f527b291d227f27775c48856f8f30ae6a9e371b1f93bdba35e"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/contact_sheet_field_v013.py",
+      "sha256": "3c26c716282f17a82b727f54c079ba06a684eb82b95a76ac29c063373dd4aa00"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/check_field_preservation_v013.py",
+      "sha256": "84f2ff828321af9eaf6ccb24618b9952fe4ee8aefda8e2be956d3459def12cf5"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/field-preservation_v013.json",
+      "sha256": "23f7368e8fea49f6aea278a0912d2e856ac5ddaf52420000b4b10d110d1dbdd1"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/field-benchmarks_v013.json",
+      "sha256": "990f889c6c8b882b66682c627542f7617b278bb136bfdf2fafff1e32b62eada7"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/field-model_v013.json",
+      "sha256": "301da1473e364df86f60f1cdb63bcd65270d15ab1b22b335da9d9fb597260e8d"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/field-batch_v013.json",
+      "sha256": "e8b351df21dde5dccccbf3be18b723a6849130cc885458512b6df6fb50497b94"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v013/README.md",
+      "sha256": "1f5e392060bba73b023a28d575f6dffdfb94aa3f3c6f88e8483e805b08ba1f15"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/field_outgoing_v013.png",
+      "sha256": "7ea261393c994b341fe326f61d7ba1757397799c9c9d254587459b7f7f2ddb91"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/field_overlap_v013.png",
+      "sha256": "6ed9742841093e59a45161e911588dee10c1bb363430ebd0289e4a548d13b110"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/field_return_v013.png",
+      "sha256": "026af06c233f1ffcacd2c74a14245f0ef7ea8b8515e8105f4f19edf2b1c8e74a"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/field_sequence_v013.png",
+      "sha256": "fb24e0060a14e720963bb1ddf3a184fe8caa2e00481e1f7b580dc0af86af4f48"
+    }
+  ],
+  "local_only": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v013/S02_rolling-wave-field_v013.blend",
+      "sha256": "049a1aa27a256b302ae5c65822f863333f92ba826c36ac412e1f313f31d11d15"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/rolling-wave-field-context_v013.mp4",
+      "sha256": "481772bcf641eef9d03a0b952726556fd6d40f3cf6cc59c0de01173572955f07"
+    }
+  ]
+}
