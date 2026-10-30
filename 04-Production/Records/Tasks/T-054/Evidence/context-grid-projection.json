@@ -1,0 +1,14 @@
+[
+  {
+    "object": "Luminous geological strata",
+    "target": "S03 | physical World live context",
+    "operation": "local Y -0.7m projection start; positive-Y ray to live World cap; offset0.003m",
+    "does_not_change": "local reconstruction data, labels, camera/timing"
+  },
+  {
+    "object": "Subordinate formation survey grid",
+    "target": "S03 | physical World live context",
+    "operation": "local Y -0.7m projection start; positive-Y ray to live World cap; offset0.003m",
+    "does_not_change": "local reconstruction data, labels, camera/timing"
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-30",
+  "scope": "Verified packages only;054/056 remain in development",
+  "storage": "Native/video local only; scripts/reports/selected stills published",
+  "packages": [
+    {
+      "ticket": "ECCO-052",
+      "status": "Review; owner acceptance pending",
+      "manifest": "04-Production/Records/Tasks/T-052/Evidence/native-manifest.json",
+      "published_commit": "a86990614ce100354a7da6c1bd6d26bcaf2ad110",
+      "native_checks": [
+        {
+          "path": "04-Production/Shared/Assets/ECCO/Satin_finish_v001.blend",
+          "sha256": "19cdac6471673b8b1d1970e689f99ea501331b1353782fdb95771d2173b46742",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v003.blend",
+          "sha256": "a14fcd538b7fc604a6ac064ff681f6eefc5dfc51854e29d5993d2a9952ee8586",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Shared/Assets/BHA/BHA_core_satin_v001.blend",
+          "sha256": "7e60952d039d85f4e964cbbb963f046935f8320b850027d2b654f5f365c1e6f5",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Shared/Assets/BHA/BHA_film_v008.blend",
+          "sha256": "d15aff83c006ed80181ce15d40ac42aba5ed0de59721786249b9dea5ad7d9485",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Records/Tasks/T-052/Consumers/BHA_connected-controls_v001.blend",
+          "sha256": "4844f71254982cdf90c39874d4732740c9bf55679b570228d9da76a7c69dda1b",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Records/Tasks/T-052/Consumers/S02_shared-satin_v001.blend",
+          "sha256": "583345106830b15e3b307d05f85e3ea8abe1dd10ca2c46909c7bd86c2ffb6370",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Records/Tasks/T-052/Consumers/S05_shared-satin_v001.blend",
+          "sha256": "9d70c24d353034e38d08e56e99d94d187fd8ecbc12d703f1866a827dd899ca71",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Records/Tasks/T-052/Consumers/S07_shared-satin_v001.blend",
+          "sha256": "a8ee7665f292f5c97cf35913765418f438848444f726ddc4f901c92da9cc299c",
+          "matches_manifest": true
+        }
+      ]
+    },
+    {
+      "ticket": "ECCO-053",
+      "status": "Review; owner acceptance pending",
+      "manifest": "04-Production/Records/Tasks/T-053/Evidence/native-manifest.json",
+      "published_commit": "a86990614ce100354a7da6c1bd6d26bcaf2ad110",
+      "native_checks": [
+        {
+          "path": "04-Production/Shared/Assets/WellAssembly/World_environment_v010.blend",
+          "sha256": "9cb7d5c946e8573abc05af4ee3c12492610a982c1773a6437f90a762055fb540",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Records/Tasks/T-053/Scenes/S02_World_v010.blend",
+          "sha256": "d9b4100ae383746afaea1974ead0f36a619cda7f18ba2cefbf096a3473c1cbba",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Records/Tasks/T-053/Scenes/T44_layers_World_v010.blend",
+          "sha256": "9b2fd5e43d6ce9c3a6b59a72511f172e623a56b7b77366dde683ef9bc92c0244",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Records/Tasks/T-053/Scenes/T44_open_World_v010.blend",
+          "sha256": "349b240c3bbd4a836f5053cffee9437b0a15d9c55fa03df85f172f7815f488ae",
+          "matches_manifest": true
+        }
+      ]
+    },
+    {
+      "ticket": "ECCO-055",
+      "status": "Review; owner acceptance pending",
+      "manifest": "04-Production/Records/Tasks/T-055/Evidence/artifact-manifest.json",
+      "published_commit": "a86990614ce100354a7da6c1bd6d26bcaf2ad110",
+      "native_checks": [
+        {
+          "path": "04-Production/Shared/Assets/Surface/Surface_descent_v004.blend",
+          "sha256": "ee75cfb3bd6f225ff28b97d1692ee8ba7931ecaf77008b6f4c8f12377acbefc2",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Shared/Assets/Surface/Surface_descent_v005.blend",
+          "sha256": "013ca7d61bd6b90841dc0e2f858b808b53ca20f2c4442ce1cacb059c81d810d3",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Records/Tasks/T-055/Consumers/S01_shared-descent_v002.blend",
+          "sha256": "216a0215b7ffa774b33f32669713e015886ba45d49639a15bf100f7fde886d50",
+          "matches_manifest": true
+        },
+        {
+          "path": "04-Production/Records/Tasks/T-055/Consumers/S02_shared-descent_v002.blend",
+          "sha256": "d68d058eb81a3d7a37164090a9f2e75174a9fa6ac72703a87de50774fa8505aa",
+          "matches_manifest": true
+        }
+      ]
+    }
+  ]
+}

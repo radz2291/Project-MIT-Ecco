@@ -1,0 +1,50 @@
+[
+  {
+    "path": "04-Production/Shared/Assets/DigitalEnvironment/Digital_style_v001.blend",
+    "sha256": "5068442b00b73ddf4ad3e6245411a8d43839db776e699b6c099764b0f929d4c2",
+    "bytes": 514091,
+    "storage": "local ignored; no new backup claim"
+  },
+  {
+    "path": "04-Production/Shared/Assets/DigitalEnvironment/Digital_world_v001.blend",
+    "sha256": "7161616b37beea057e46393740c18d1616fb0b3f088faa89ed64d1aa54f7fbb8",
+    "bytes": 105870,
+    "storage": "local ignored; no new backup claim"
+  },
+  {
+    "path": "04-Production/Shared/Assets/MeasurementReveal/Measurement_reveal_v001.blend",
+    "sha256": "6571281f6babff0b293dba55dfdf1cfbfb80f98ddd743d3dcc1469dbd539ec0f",
+    "bytes": 513253,
+    "storage": "local ignored; no new backup claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-054/Consumers/Reveal_two-shapes_v001.blend",
+    "sha256": "1f5df23b813591dbcb2535b341e9c6754fb0be3a3a0d7563320783cede2b00d4",
+    "bytes": 116840,
+    "storage": "local ignored; no new backup claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-054/Consumers/S02_shared-reveal_v001.blend",
+    "sha256": "69ce95428dba3fe2b24467eb06699ac19288723a7bba204be5a2c94ce7a70357",
+    "bytes": 17854759,
+    "storage": "local ignored; no new backup claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-054/Consumers/S03_shared-digital_v002.blend",
+    "sha256": "ea04e38e67bec58afd1fa4cc1632f40302591e44c6d52db1db40e2de0c993425",
+    "bytes": 51311470,
+    "storage": "local ignored; no new backup claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-054/Consumers/S06_shared-digital_v002.blend",
+    "sha256": "e168e99cc45db378663b480c048fd3c6838c0b4737d173ba3b60f210a1376274",
+    "bytes": 25339321,
+    "storage": "local ignored; no new backup claim"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-054/Previews/S02_shared-reveal_motion_v001.mp4",
+    "sha256": "b05bc9741bc507ff3fd2650ba96157384256118599decf181d3e18cd59e88b2f",
+    "bytes": 201382,
+    "storage": "local ignored; no new backup claim"
+  }
+]

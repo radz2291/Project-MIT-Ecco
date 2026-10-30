@@ -1,0 +1,89 @@
+[
+  {
+    "section": "S03",
+    "checks": [
+      {
+        "frame": 1,
+        "old_physical_faces": {
+          "SOLID EARTH - borehole cutaway half-space": 0,
+          "GROUND FRONT HALF - closes tunnel for interior camera": 0
+        },
+        "new_hide_render": false,
+        "new_faces": 17376
+      },
+      {
+        "frame": 120,
+        "old_physical_faces": {
+          "SOLID EARTH - borehole cutaway half-space": 0,
+          "GROUND FRONT HALF - closes tunnel for interior camera": 0
+        },
+        "new_hide_render": false,
+        "new_faces": 17376
+      },
+      {
+        "frame": 220,
+        "old_physical_faces": {
+          "SOLID EARTH - borehole cutaway half-space": 0,
+          "GROUND FRONT HALF - closes tunnel for interior camera": 0
+        },
+        "new_hide_render": false,
+        "new_faces": 17376
+      }
+    ]
+  },
+  {
+    "section": "S06",
+    "checks": [
+      {
+        "frame": 1,
+        "old_physical_faces": {
+          "Rock sectional mass": 0,
+          "Rock sectional mass.001": 0,
+          "Fixed borehole context | open viewing sector": 0
+        },
+        "new_hide_render": false,
+        "new_faces": 2400
+      },
+      {
+        "frame": 52,
+        "old_physical_faces": {
+          "Rock sectional mass": 0,
+          "Rock sectional mass.001": 0,
+          "Fixed borehole context | open viewing sector": 0
+        },
+        "new_hide_render": false,
+        "new_faces": 2400
+      },
+      {
+        "frame": 144,
+        "old_physical_faces": {
+          "Rock sectional mass": 0,
+          "Rock sectional mass.001": 0,
+          "Fixed borehole context | open viewing sector": 0
+        },
+        "new_hide_render": false,
+        "new_faces": 2400
+      },
+      {
+        "frame": 250,
+        "old_physical_faces": {
+          "Rock sectional mass": 0,
+          "Rock sectional mass.001": 0,
+          "Fixed borehole context | open viewing sector": 0
+        },
+        "new_hide_render": true,
+        "new_faces": 2400
+      },
+      {
+        "frame": 288,
+        "old_physical_faces": {
+          "Rock sectional mass": 0,
+          "Rock sectional mass.001": 0,
+          "Fixed borehole context | open viewing sector": 0
+        },
+        "new_hide_render": true,
+        "new_faces": 2400
+      }
+    ]
+  }
+]

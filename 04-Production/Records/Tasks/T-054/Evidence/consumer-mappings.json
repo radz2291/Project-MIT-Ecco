@@ -1,0 +1,52 @@
+[
+  {
+    "baseline": "05-Previs\\Section-03_The-Earth-Revealed\\v036\\Scenes\\S03_second-last-nominal-label_v036.blend",
+    "candidate": "04-Production\\Records\\Tasks\\T-054\\Consumers\\S03_shared-digital_v001.blend",
+    "changed": [
+      "HUD - actual S02 soil section contours",
+      "HUD stylized formation depth divisions",
+      "Luminous geological strata",
+      "SOLID EARTH - borehole cutaway half-space",
+      "Subordinate formation survey grid"
+    ]
+  },
+  {
+    "baseline": "04-Production\\Studies\\S06_Report-Recreation_v004\\Scenes\\S06_cinematic-study_v004_polished.blend",
+    "candidate": "04-Production\\Records\\Tasks\\T-054\\Consumers\\S06_shared-digital_v001.blend",
+    "changed": [
+      "A depth contour",
+      "A depth contour.001",
+      "A depth contour.002",
+      "A depth contour.003",
+      "A depth contour.004",
+      "A depth contour.005",
+      "A depth contour.006",
+      "A depth contour.007",
+      "A depth contour.008",
+      "A depth contour.009",
+      "A depth contour.010",
+      "A depth contour.011",
+      "A depth contour.012",
+      "A depth contour.013",
+      "A depth contour.014",
+      "A depth contour.015",
+      "A depth contour.016",
+      "A depth contour.017",
+      "A depth contour.018",
+      "A depth contour.019",
+      "A depth contour.020",
+      "A depth contour.021",
+      "A depth contour.022",
+      "A depth contour.023",
+      "A length contour",
+      "A length contour.001",
+      "A length contour.002",
+      "A length contour.003",
+      "A length contour.004",
+      "A length contour.005",
+      "A length contour.006",
+      "A length contour.007",
+      "A length contour.008"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "source": "Luminous geological strata",
+    "carrier": "Luminous geological strata | live shared cap",
+    "sample_points": 39117,
+    "edges": 39000,
+    "radius": 0.0020000000949949026,
+    "evaluated_faces": 117000
+  },
+  {
+    "source": "Subordinate formation survey grid",
+    "carrier": "Subordinate formation survey grid | live shared cap",
+    "sample_points": 6408,
+    "edges": 6400,
+    "radius": 0.0007999999797903001,
+    "evaluated_faces": 19200
+  }
+]

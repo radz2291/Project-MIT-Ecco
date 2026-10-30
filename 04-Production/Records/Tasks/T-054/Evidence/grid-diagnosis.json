@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Luminous geological strata",
+    "hidden": false,
+    "mesh_vertices": 34788,
+    "mesh_polygons": 34320,
+    "raw_splines": 117,
+    "tested_rays": 42900,
+    "hits": 38852,
+    "material_factors": [
+      {
+        "Mix Shader": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Subordinate formation survey grid",
+    "hidden": false,
+    "mesh_vertices": 64,
+    "mesh_polygons": 32,
+    "raw_splines": 8,
+    "tested_rays": 40,
+    "hits": 24,
+    "material_factors": [
+      {
+        "Mix Shader": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HUD - actual S02 soil section contours",
+    "hidden": true,
+    "mesh_vertices": 1728,
+    "mesh_polygons": 1696,
+    "raw_splines": 8,
+    "tested_rays": 2120,
+    "hits": 2120,
+    "material_factors": [
+      {}
+    ]
+  }
+]

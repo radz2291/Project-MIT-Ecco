@@ -1,0 +1,91 @@
+[
+  {
+    "section": "S03",
+    "candidate": "04-Production\\Records\\Tasks\\T-054\\Consumers\\S03_shared-digital_v002.blend",
+    "source_collection": "WORLD_FORMATION_IRREGULAR_FULL",
+    "source_object": "FORMATION_IRREGULAR_FULL",
+    "local_window": {
+      "z": [
+        -10,
+        10
+      ],
+      "y_min": 0
+    },
+    "mapping": [
+      [
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "hidden_physical_only": [
+      "SOLID EARTH - borehole cutaway half-space",
+      "GROUND FRONT HALF - closes tunnel for interior camera"
+    ],
+    "status": "fit/occlusion requires visual review before selection"
+  },
+  {
+    "section": "S06",
+    "candidate": "04-Production\\Records\\Tasks\\T-054\\Consumers\\S06_shared-digital_v002.blend",
+    "source_collection": "WORLD_FORMATION_IRREGULAR_FULL",
+    "source_object": "FORMATION_IRREGULAR_FULL",
+    "local_window": {
+      "z": [
+        -1.2,
+        1.2
+      ],
+      "y_min": 0
+    },
+    "mapping": [
+      [
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "hidden_physical_only": [
+      "Rock sectional mass",
+      "Rock sectional mass.001",
+      "Fixed borehole context | open viewing sector"
+    ],
+    "status": "fit/occlusion requires visual review before selection"
+  }
+]

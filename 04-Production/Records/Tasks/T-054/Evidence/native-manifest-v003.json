@@ -1,0 +1,13 @@
+{
+  "diagnostic": {
+    "bytes": 51433744,
+    "path": "04-Production/Records/Tasks/T-054/Consumers/S03_shared-digital_v003.blend",
+    "storage": "local ignored; no new backup claim",
+    "sha256": "c71d79b727a3bd1f28ff4e4df9a4f65672d871de962ea7e2780ed6acc9c0d611"
+  },
+  "v002_preservation": {
+    "actual": "ea04e38e67bec58afd1fa4cc1632f40302591e44c6d52db1db40e2de0c993425",
+    "unchanged": true,
+    "expected": "ea04e38e67bec58afd1fa4cc1632f40302591e44c6d52db1db40e2de0c993425"
+  }
+}

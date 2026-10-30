@@ -22,4 +22,6 @@ Benchmarks and batches use working preview settings, not full-resolution deliver
 
 Original seven-section scenes and unrelated working changes are preserved. Local native masters/consumer paths and SHA256 values are in each package's manifest. Heavy Blender files, movies and frame caches remain local and ignored; no off-machine backup or remote native access is claimed. Selected stills, scripts and reports are published on `codex/ecco051-shared-assets` through one integrator. Exact verified commit links are attached after push.
 
+First publication: `a86990614ce100354a7da6c1bd6d26bcaf2ad110` on `codex/ecco051-shared-assets`; local HEAD and remote branch matched after push. ECCO-052,053,055 are now in Work Review with commit-pinned reports. Original main checkout remains unchanged by Git integration. ECCO-054,056 and master remain active.
+
 This is shared-asset preparation and focused consumer proof work. It does not assemble or deliver the film, certify the engineering, supply measured ECCO waveform data, or imply Radzi/client approval. Master remains active while054/056 are unresolved.

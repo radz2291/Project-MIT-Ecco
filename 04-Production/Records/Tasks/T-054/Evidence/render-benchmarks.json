@@ -1,0 +1,44 @@
+[
+  {
+    "scene": "Reveal_two-shapes_v001",
+    "frame": 20,
+    "seconds": 1.4208632999798283,
+    "pass": true,
+    "settings": "640x360 full render-to-file; Eevee8 except S02 Workbench; compositing/raytracing disabled; saved cameras unchanged"
+  },
+  {
+    "scene": "Reveal_two-shapes_v001",
+    "frame": 45,
+    "seconds": 0.1868481000419706,
+    "pass": true,
+    "settings": "640x360 full render-to-file; Eevee8 except S02 Workbench; compositing/raytracing disabled; saved cameras unchanged"
+  },
+  {
+    "scene": "S03_shared-digital_v002",
+    "frame": 1,
+    "seconds": 1.4941303000086918,
+    "pass": true,
+    "settings": "640x360 full render-to-file; Eevee8 except S02 Workbench; compositing/raytracing disabled; saved cameras unchanged"
+  },
+  {
+    "scene": "S03_shared-digital_v002",
+    "frame": 120,
+    "seconds": 1.1300977000501007,
+    "pass": true,
+    "settings": "640x360 full render-to-file; Eevee8 except S02 Workbench; compositing/raytracing disabled; saved cameras unchanged"
+  },
+  {
+    "scene": "S06_shared-digital_v002",
+    "frame": 52,
+    "seconds": 1.3121645000064746,
+    "pass": true,
+    "settings": "640x360 full render-to-file; Eevee8 except S02 Workbench; compositing/raytracing disabled; saved cameras unchanged"
+  },
+  {
+    "scene": "S02_shared-reveal_v001",
+    "frame": 480,
+    "seconds": 0.5455324000213295,
+    "pass": true,
+    "settings": "640x360 full render-to-file; Eevee8 except S02 Workbench; compositing/raytracing disabled; saved cameras unchanged"
+  }
+]

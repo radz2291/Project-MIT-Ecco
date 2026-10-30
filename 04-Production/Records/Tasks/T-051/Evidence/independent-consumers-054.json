@@ -1,0 +1,917 @@
+[
+  {
+    "baseline": {
+      "path": "05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend",
+      "sha256": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+      "unchanged": true,
+      "range": [
+        1,
+        528
+      ],
+      "fps": [
+        24,
+        1.0
+      ],
+      "camera_samples": [
+        {
+          "frame": 1,
+          "matrix": [
+            0.824042,
+            -0.2041334,
+            0.5284737,
+            110.0,
+            0.5665287,
+            0.2969212,
+            -0.768689,
+            -160.0,
+            1e-07,
+            0.9328275,
+            0.360323,
+            95.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 26.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 317,
+          "matrix": [
+            0.1209419,
+            -0.176443,
+            0.9768526,
+            0.2990901,
+            0.9926596,
+            0.0214971,
+            -0.119016,
+            -0.1636878,
+            1e-07,
+            0.9840761,
+            0.1777477,
+            -729.4849854,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 119.9999313,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 441,
+          "matrix": [
+            0.8793713,
+            0.1042801,
+            0.464577,
+            0.528989,
+            0.4597744,
+            -0.439566,
+            -0.771615,
+            -0.9295387,
+            0.123748,
+            0.8921367,
+            -0.434487,
+            -729.9910889,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 111.4448166,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 480,
+          "matrix": [
+            0.8329821,
+            -0.478911,
+            0.2771011,
+            1.4622668,
+            -0.0909418,
+            -0.6125084,
+            -0.7852154,
+            -4.1464753,
+            0.545775,
+            0.6288703,
+            -0.5537616,
+            -732.109375,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 75.6335983,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 528,
+          "matrix": [
+            0.6399045,
+            -0.7259961,
+            0.2518966,
+            2.0,
+            -0.3385749,
+            -0.5606248,
+            -0.7556899,
+            -6.0,
+            0.6898473,
+            0.3982835,
+            -0.6045504,
+            -733.3299561,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 55.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\..\\..\\..\\..\\..\\04-Production\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        }
+      ],
+      "objects": 571,
+      "materials": 841
+    },
+    "candidate": {
+      "path": "04-Production/Records/Tasks/T-054/Consumers/S02_shared-reveal_v001.blend",
+      "sha256": "69ce95428dba3fe2b24467eb06699ac19288723a7bba204be5a2c94ce7a70357",
+      "unchanged": true,
+      "range": [
+        1,
+        528
+      ],
+      "fps": [
+        24,
+        1.0
+      ],
+      "camera_samples": [
+        {
+          "frame": 1,
+          "matrix": [
+            0.824042,
+            -0.2041334,
+            0.5284737,
+            110.0,
+            0.5665287,
+            0.2969212,
+            -0.768689,
+            -160.0,
+            1e-07,
+            0.9328275,
+            0.360323,
+            95.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 26.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 317,
+          "matrix": [
+            0.1209419,
+            -0.176443,
+            0.9768526,
+            0.2990901,
+            0.9926596,
+            0.0214971,
+            -0.119016,
+            -0.1636878,
+            1e-07,
+            0.9840761,
+            0.1777477,
+            -729.4849854,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 119.9999313,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 441,
+          "matrix": [
+            0.8793713,
+            0.1042801,
+            0.464577,
+            0.528989,
+            0.4597744,
+            -0.439566,
+            -0.771615,
+            -0.9295387,
+            0.123748,
+            0.8921367,
+            -0.434487,
+            -729.9910889,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 111.4448166,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 480,
+          "matrix": [
+            0.8329821,
+            -0.478911,
+            0.2771011,
+            1.4622668,
+            -0.0909418,
+            -0.6125084,
+            -0.7852154,
+            -4.1464753,
+            0.545775,
+            0.6288703,
+            -0.5537616,
+            -732.109375,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 75.6335983,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 528,
+          "matrix": [
+            0.6399045,
+            -0.7259961,
+            0.2518966,
+            2.0,
+            -0.3385749,
+            -0.5606248,
+            -0.7556899,
+            -6.0,
+            0.6898473,
+            0.3982835,
+            -0.6045504,
+            -733.3299561,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 55.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-054\\Consumers\\..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v002.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\MeasurementReveal\\Measurement_reveal_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-054\\Consumers\\..\\..\\..\\..\\Shared\\Assets\\MeasurementReveal\\Measurement_reveal_v001.blend",
+          "exists": true
+        }
+      ],
+      "objects": 572,
+      "materials": 843
+    },
+    "checks": {
+      "range": true,
+      "fps": true,
+      "camera_samples": true,
+      "source_files_unchanged": true,
+      "candidate_libraries_exist": true
+    },
+    "pass": true
+  },
+  {
+    "baseline": {
+      "path": "05-Previs/Section-03_The-Earth-Revealed/v036/Scenes/S03_second-last-nominal-label_v036.blend",
+      "sha256": "371093affa9b9d05416b3d39c6bfe53716ce5c2f3dbaf2130dcbe226152b4757",
+      "unchanged": true,
+      "range": [
+        1,
+        432
+      ],
+      "fps": [
+        24,
+        1.0
+      ],
+      "camera_samples": [
+        {
+          "frame": 1,
+          "matrix": [
+            0.9781476,
+            -0.2079117,
+            -0.0,
+            0.0,
+            -0.1958975,
+            -0.9216251,
+            -0.3350097,
+            -0.32,
+            0.0696524,
+            0.3276889,
+            -0.9422148,
+            -0.4,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 40.0,
+          "shift": [
+            -0.1666666716337204,
+            0.0
+          ]
+        },
+        {
+          "frame": 120,
+          "matrix": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            -2.1500001,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 28.0,
+          "shift": [
+            -0.1666666716337204,
+            0.0
+          ]
+        },
+        {
+          "frame": 220,
+          "matrix": [
+            0.9655446,
+            0.0,
+            -0.2602378,
+            0.0,
+            0.0,
+            -1.0000001,
+            0.0,
+            0.0,
+            -0.2602378,
+            0.0,
+            -0.9655446,
+            -1.0363306,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 46.5857735,
+          "shift": [
+            -0.1666666716337204,
+            0.0
+          ]
+        },
+        {
+          "frame": 288,
+          "matrix": [
+            0.0071946,
+            0.5865337,
+            -0.809893,
+            -2.6040001,
+            -0.0949573,
+            -0.8058534,
+            -0.5844517,
+            -1.932,
+            -0.9954554,
+            0.0811102,
+            0.0498976,
+            -0.1250545,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 38.1176414,
+          "shift": [
+            -0.1666666716337204,
+            0.0
+          ]
+        }
+      ],
+      "libraries": [],
+      "objects": 1153,
+      "materials": 100
+    },
+    "candidate": {
+      "path": "04-Production/Records/Tasks/T-054/Consumers/S03_shared-digital_v002.blend",
+      "sha256": "ea04e38e67bec58afd1fa4cc1632f40302591e44c6d52db1db40e2de0c993425",
+      "unchanged": true,
+      "range": [
+        1,
+        432
+      ],
+      "fps": [
+        24,
+        1.0
+      ],
+      "camera_samples": [
+        {
+          "frame": 1,
+          "matrix": [
+            0.9781476,
+            -0.2079117,
+            -0.0,
+            0.0,
+            -0.1958975,
+            -0.9216251,
+            -0.3350097,
+            -0.32,
+            0.0696524,
+            0.3276889,
+            -0.9422148,
+            -0.4,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 40.0,
+          "shift": [
+            -0.1666666716337204,
+            0.0
+          ]
+        },
+        {
+          "frame": 120,
+          "matrix": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            -2.1500001,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 28.0,
+          "shift": [
+            -0.1666666716337204,
+            0.0
+          ]
+        },
+        {
+          "frame": 220,
+          "matrix": [
+            0.9655446,
+            0.0,
+            -0.2602378,
+            0.0,
+            0.0,
+            -1.0000001,
+            0.0,
+            0.0,
+            -0.2602378,
+            0.0,
+            -0.9655446,
+            -1.0363306,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 46.5857735,
+          "shift": [
+            -0.1666666716337204,
+            0.0
+          ]
+        },
+        {
+          "frame": 288,
+          "matrix": [
+            0.0071946,
+            0.5865337,
+            -0.809893,
+            -2.6040001,
+            -0.0949573,
+            -0.8058534,
+            -0.5844517,
+            -1.932,
+            -0.9954554,
+            0.0811102,
+            0.0498976,
+            -0.1250545,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 38.1176414,
+          "shift": [
+            -0.1666666716337204,
+            0.0
+          ]
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_style_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-054\\Consumers\\..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_style_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_world_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-054\\Consumers\\..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_world_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-054\\Consumers\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "exists": true
+        }
+      ],
+      "objects": 1158,
+      "materials": 106
+    },
+    "checks": {
+      "range": true,
+      "fps": true,
+      "camera_samples": true,
+      "source_files_unchanged": true,
+      "candidate_libraries_exist": true
+    },
+    "pass": true
+  },
+  {
+    "baseline": {
+      "path": "04-Production/Studies/S06_Report-Recreation_v004/Scenes/S06_cinematic-study_v004_polished.blend",
+      "sha256": "7f2a0086992be7c12c0896505d6fafbc42d82c7967a89ef9686f885bb06374a3",
+      "unchanged": true,
+      "range": [
+        1,
+        288
+      ],
+      "fps": [
+        24,
+        1.0
+      ],
+      "camera_samples": [
+        {
+          "frame": 1,
+          "matrix": [
+            0.4588597,
+            -0.8725143,
+            0.1678289,
+            0.4,
+            0.4941532,
+            0.0936252,
+            -0.8643187,
+            -2.0599999,
+            0.7384175,
+            0.4795341,
+            0.4741166,
+            1.03,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 48.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 52,
+          "matrix": [
+            0.4604262,
+            -0.870487,
+            0.1739547,
+            0.4391834,
+            0.4773929,
+            0.0775992,
+            -0.8752568,
+            -2.2088971,
+            0.7484009,
+            0.486036,
+            0.4512929,
+            1.0848567,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 48.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 144,
+          "matrix": [
+            0.4956841,
+            -0.8334655,
+            -0.2441974,
+            -1.4822204,
+            -0.4789946,
+            -0.0278077,
+            -0.8773772,
+            -5.9168463,
+            0.7244732,
+            0.5518712,
+            -0.4130093,
+            -2.7858734,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 48.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 250,
+          "matrix": [
+            0.9920757,
+            -0.009248,
+            0.1253005,
+            1.0071733,
+            0.1244327,
+            0.2103202,
+            -0.9696815,
+            -3.286999,
+            -0.0173856,
+            0.977589,
+            0.2098043,
+            1.7642591,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 46.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 288,
+          "matrix": [
+            0.9836329,
+            -0.0217057,
+            0.1788718,
+            0.79,
+            0.1770793,
+            0.2999399,
+            -0.9373788,
+            -4.02,
+            -0.0333044,
+            0.9537112,
+            0.2988743,
+            2.4100001,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 46.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "libraries": [],
+      "objects": 295,
+      "materials": 31
+    },
+    "candidate": {
+      "path": "04-Production/Records/Tasks/T-054/Consumers/S06_shared-digital_v002.blend",
+      "sha256": "e168e99cc45db378663b480c048fd3c6838c0b4737d173ba3b60f210a1376274",
+      "unchanged": true,
+      "range": [
+        1,
+        288
+      ],
+      "fps": [
+        24,
+        1.0
+      ],
+      "camera_samples": [
+        {
+          "frame": 1,
+          "matrix": [
+            0.4588597,
+            -0.8725143,
+            0.1678289,
+            0.4,
+            0.4941532,
+            0.0936252,
+            -0.8643187,
+            -2.0599999,
+            0.7384175,
+            0.4795341,
+            0.4741166,
+            1.03,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 48.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 52,
+          "matrix": [
+            0.4604262,
+            -0.870487,
+            0.1739547,
+            0.4391834,
+            0.4773929,
+            0.0775992,
+            -0.8752568,
+            -2.2088971,
+            0.7484009,
+            0.486036,
+            0.4512929,
+            1.0848567,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 48.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 144,
+          "matrix": [
+            0.4956841,
+            -0.8334655,
+            -0.2441974,
+            -1.4822204,
+            -0.4789946,
+            -0.0278077,
+            -0.8773772,
+            -5.9168463,
+            0.7244732,
+            0.5518712,
+            -0.4130093,
+            -2.7858734,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 48.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 250,
+          "matrix": [
+            0.9920757,
+            -0.009248,
+            0.1253005,
+            1.0071733,
+            0.1244327,
+            0.2103202,
+            -0.9696815,
+            -3.286999,
+            -0.0173856,
+            0.977589,
+            0.2098043,
+            1.7642591,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 46.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 288,
+          "matrix": [
+            0.9836329,
+            -0.0217057,
+            0.1788718,
+            0.79,
+            0.1770793,
+            0.2999399,
+            -0.9373788,
+            -4.02,
+            -0.0333044,
+            0.9537112,
+            0.2988743,
+            2.4100001,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "lens": 46.0,
+          "shift": [
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_style_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-054\\Consumers\\..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_style_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_world_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-054\\Consumers\\..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_world_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-054\\Consumers\\..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "exists": true
+        }
+      ],
+      "objects": 298,
+      "materials": 58
+    },
+    "checks": {
+      "range": true,
+      "fps": true,
+      "camera_samples": true,
+      "source_files_unchanged": true,
+      "candidate_libraries_exist": true
+    },
+    "pass": true
+  }
+]

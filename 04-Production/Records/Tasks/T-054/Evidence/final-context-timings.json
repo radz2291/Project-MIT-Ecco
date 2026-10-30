@@ -1,0 +1,14 @@
+[
+  {
+    "frame": 52,
+    "seconds": 2.440950599964708,
+    "pass": true,
+    "settings": "640x360 Eevee8, no compositor/raytracing, full render-to-file"
+  },
+  {
+    "frame": 250,
+    "seconds": 1.6036552999867126,
+    "pass": true,
+    "settings": "640x360 Eevee8, no compositor/raytracing, full render-to-file"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "section": "S02",
+    "baseline": {
+      "ONE WALL - old history and current cells share topology": {
+        "mesh": "77ac17620659b161129149e09e45bc922addd03b9086bbd44bb7ec5f3be07042",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    "candidate": {
+      "ONE WALL - old history and current cells share topology": {
+        "mesh": "77ac17620659b161129149e09e45bc922addd03b9086bbd44bb7ec5f3be07042",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    "same_raw_sample_geometry_and_transforms": true
+  },
+  {
+    "section": "S03",
+    "baseline": {
+      "ILLUSTRATIVE CONTINUOUS WALL v009": {
+        "mesh": "1ac4b13320369a8ffc3c0ab27966c2e4d79a76acedd7e8296a47ecea053b10b5",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    "candidate": {
+      "ILLUSTRATIVE CONTINUOUS WALL v009": {
+        "mesh": "1ac4b13320369a8ffc3c0ab27966c2e4d79a76acedd7e8296a47ecea053b10b5",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    "same_raw_sample_geometry_and_transforms": true
+  },
+  {
+    "section": "S06",
+    "baseline": {
+      "A | indexed reconstruction samples": {
+        "mesh": "9d8f9bbdd208720d894d55731d8b64917dd14cd4b8e32408e54ca5d37f951bf7",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "A | reconstructed wall beginning to open": {
+        "mesh": "165cfbd12ad979141db3282936be20617283ac9182a93d5b1424c0fd3a17719e",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    "candidate": {
+      "A | indexed reconstruction samples": {
+        "mesh": "9d8f9bbdd208720d894d55731d8b64917dd14cd4b8e32408e54ca5d37f951bf7",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "A | reconstructed wall beginning to open": {
+        "mesh": "165cfbd12ad979141db3282936be20617283ac9182a93d5b1424c0fd3a17719e",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    "same_raw_sample_geometry_and_transforms": true
+  }
+]

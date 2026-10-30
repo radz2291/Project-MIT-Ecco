@@ -1,0 +1,37 @@
+[
+  {
+    "scene": "Reveal_two-shapes_v001",
+    "frame": 20,
+    "seconds": 2.869640800054185,
+    "pass": true,
+    "settings": "640x360 Eevee8 full render-to-file"
+  },
+  {
+    "scene": "Reveal_two-shapes_v001",
+    "frame": 45,
+    "seconds": 0.27024899993557483,
+    "pass": true,
+    "settings": "640x360 Eevee8 full render-to-file"
+  },
+  {
+    "scene": "S03_shared-digital_v001",
+    "frame": 1,
+    "seconds": 2.0468580999877304,
+    "pass": true,
+    "settings": "640x360 Eevee8 full render-to-file"
+  },
+  {
+    "scene": "S03_shared-digital_v001",
+    "frame": 120,
+    "seconds": 1.2982883000513539,
+    "pass": true,
+    "settings": "640x360 Eevee8 full render-to-file"
+  },
+  {
+    "scene": "S06_shared-digital_v001",
+    "frame": 52,
+    "seconds": 13.740650900057517,
+    "pass": false,
+    "settings": "640x360 Eevee8 full render-to-file"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "frame": 528,
+    "seconds": 2.1850745999254286,
+    "pass": true
+  },
+  {
+    "frame": 440,
+    "seconds": 0.5715306999627501,
+    "pass": true
+  },
+  {
+    "frame": 444,
+    "seconds": 0.47190250002313405,
+    "pass": true
+  },
+  {
+    "frame": 448,
+    "seconds": 0.3734993999823928,
+    "pass": true
+  },
+  {
+    "frame": 452,
+    "seconds": 0.37883469997905195,
+    "pass": true
+  },
+  {
+    "frame": 456,
+    "seconds": 0.5130854001035914,
+    "pass": true
+  },
+  {
+    "frame": 460,
+    "seconds": 0.4469921999843791,
+    "pass": true
+  },
+  {
+    "frame": 464,
+    "seconds": 0.4386028000153601,
+    "pass": true
+  },
+  {
+    "frame": 468,
+    "seconds": 0.43693480000365525,
+    "pass": true
+  },
+  {
+    "frame": 472,
+    "seconds": 0.5989930999930948,
+    "pass": true
+  },
+  {
+    "frame": 476,
+    "seconds": 0.5037777000106871,
+    "pass": true
+  },
+  {
+    "frame": 480,
+    "seconds": 0.5962170000420883,
+    "pass": true
+  },
+  {
+    "frame": 484,
+    "seconds": 0.5356654000934213,
+    "pass": true
+  },
+  {
+    "frame": 488,
+    "seconds": 1.144135900074616,
+    "pass": true
+  },
+  {
+    "frame": 492,
+    "seconds": 0.9660044000484049,
+    "pass": true
+  },
+  {
+    "frame": 496,
+    "seconds": 0.7824274000013247,
+    "pass": true
+  },
+  {
+    "frame": 500,
+    "seconds": 0.7794373000506312,
+    "pass": true
+  },
+  {
+    "frame": 504,
+    "seconds": 1.0814227999653667,
+    "pass": true
+  },
+  {
+    "frame": 508,
+    "seconds": 0.8677715000230819,
+    "pass": true
+  },
+  {
+    "frame": 512,
+    "seconds": 0.9982521999627352,
+    "pass": true
+  },
+  {
+    "frame": 516,
+    "seconds": 1.0314182000001892,
+    "pass": true
+  },
+  {
+    "frame": 520,
+    "seconds": 1.0742254999931902,
+    "pass": true
+  },
+  {
+    "frame": 524,
+    "seconds": 1.300342799979262,
+    "pass": true
+  },
+  {
+    "frame": 528,
+    "seconds": 0.9260627999901772,
+    "pass": true
+  }
+]

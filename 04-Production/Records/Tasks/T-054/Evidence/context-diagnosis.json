@@ -1,0 +1,122 @@
+{
+  "candidate_faces": 2400,
+  "candidate_bounds": [
+    [
+      -19.999998092651367,
+      19.999998092651367
+    ],
+    [
+      -2.3841855636419496e-06,
+      20.0
+    ],
+    [
+      -1.1999999284744263,
+      1.2000023126602173
+    ]
+  ],
+  "materials": [
+    {
+      "name": "FORMATION_WetMineral_v005",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Metallic": 0.03999999910593033,
+            "Roughness": 0.47999998927116394,
+            "IOR": 1.5,
+            "Alpha": 1.0,
+            "Thin Wall": 0.0,
+            "Weight": 0.0,
+            "Diffuse Roughness": 0.0,
+            "Subsurface Weight": 0.0,
+            "Subsurface Scale": 0.004999999888241291,
+            "Subsurface IOR": 1.399999976158142,
+            "Subsurface Anisotropy": 0.0,
+            "Specular IOR Level": 0.5,
+            "Anisotropic": 0.0,
+            "Anisotropic Rotation": 0.0,
+            "Transmission Weight": 0.0,
+            "Coat Weight": 0.23999999463558197,
+            "Coat Roughness": 0.2199999988079071,
+            "Coat IOR": 1.5,
+            "Sheen Weight": 0.0,
+            "Sheen Roughness": 0.5,
+            "Emission Strength": 0.0,
+            "Thin Film Thickness": 0.0,
+            "Thin Film IOR": 1.3300000429153442
+          }
+        }
+      ]
+    },
+    {
+      "name": "S06 local visibility | shared digital earth",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Metallic": 0.0,
+            "Roughness": 0.8799999952316284,
+            "IOR": 1.5,
+            "Alpha": 1.0,
+            "Thin Wall": 0.0,
+            "Weight": 0.0,
+            "Diffuse Roughness": 0.0,
+            "Subsurface Weight": 0.0,
+            "Subsurface Scale": 0.004999999888241291,
+            "Subsurface IOR": 1.399999976158142,
+            "Subsurface Anisotropy": 0.0,
+            "Specular IOR Level": 0.5,
+            "Anisotropic": 0.0,
+            "Anisotropic Rotation": 0.0,
+            "Transmission Weight": 0.0,
+            "Coat Weight": 0.0,
+            "Coat Roughness": 0.029999999329447746,
+            "Coat IOR": 1.5,
+            "Sheen Weight": 0.0,
+            "Sheen Roughness": 0.5,
+            "Emission Strength": 0.0,
+            "Thin Film Thickness": 0.0,
+            "Thin Film IOR": 1.3300000429153442
+          }
+        },
+        {
+          "name": "SHOT_VISIBILITY",
+          "type": "MIX_SHADER",
+          "inputs": {
+            "Factor": 1.0
+          }
+        },
+        {
+          "name": "Group",
+          "type": "GROUP",
+          "inputs": {}
+        }
+      ]
+    }
+  ],
+  "cutaway": {
+    "name": "FORMATION_IRREGULAR_CUTAWAY",
+    "bounds": [
+      [
+        -8.0,
+        10.0
+      ],
+      [
+        -0.6192220449447632,
+        20.0
+      ],
+      [
+        -20.0,
+        20.0
+      ]
+    ],
+    "polygons": 49232,
+    "planar_caps_by_axis": {
+      "0": 176,
+      "1": 9576,
+      "2": 9125
+    }
+  }
+}

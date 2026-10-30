@@ -1,0 +1,34 @@
+[
+  {
+    "frames": [
+      1,
+      317,
+      441,
+      480,
+      528
+    ],
+    "candidate": "04-Production/Records/Tasks/T-054/Consumers/S02_shared-reveal_v001.blend",
+    "baseline": "05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend"
+  },
+  {
+    "frames": [
+      1,
+      120,
+      220,
+      288
+    ],
+    "candidate": "04-Production/Records/Tasks/T-054/Consumers/S03_shared-digital_v002.blend",
+    "baseline": "05-Previs/Section-03_The-Earth-Revealed/v036/Scenes/S03_second-last-nominal-label_v036.blend"
+  },
+  {
+    "frames": [
+      1,
+      52,
+      144,
+      250,
+      288
+    ],
+    "candidate": "04-Production/Records/Tasks/T-054/Consumers/S06_shared-digital_v002.blend",
+    "baseline": "04-Production/Studies/S06_Report-Recreation_v004/Scenes/S06_cinematic-study_v004_polished.blend"
+  }
+]
