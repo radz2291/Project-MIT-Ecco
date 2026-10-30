@@ -1,0 +1,20 @@
+[
+  {
+    "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\RibbonWaveform_v010\\Ribbon_dark-stage_v010.blend",
+    "libraries": [
+      "//..\\..\\ECCO\\ECCO_film_v002.blend"
+    ]
+  },
+  {
+    "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\RibbonWaveform_v010\\S02_ribbon-context_v010.blend",
+    "libraries": [
+      "//..\\..\\ECCO\\ECCO_film_v002.blend"
+    ]
+  },
+  {
+    "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\RibbonWaveform_v010\\S02_ribbon-review-framing_v010.blend",
+    "libraries": [
+      "//..\\..\\ECCO\\ECCO_film_v002.blend"
+    ]
+  }
+]

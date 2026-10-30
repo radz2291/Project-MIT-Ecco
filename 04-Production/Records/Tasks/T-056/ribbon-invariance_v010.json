@@ -1,0 +1,51 @@
+{
+  "records": [
+    {
+      "frame": 298,
+      "geometry_sha256": "fc9c82ca6cd253d391abb32ea0bb378ac036f5dbadee1e4e747b1232dcdc5f10",
+      "head": -0.2222222238779068,
+      "gain": 5.0
+    },
+    {
+      "frame": 300,
+      "geometry_sha256": "fc9c82ca6cd253d391abb32ea0bb378ac036f5dbadee1e4e747b1232dcdc5f10",
+      "head": 0.0,
+      "gain": 5.0
+    },
+    {
+      "frame": 305,
+      "geometry_sha256": "fc9c82ca6cd253d391abb32ea0bb378ac036f5dbadee1e4e747b1232dcdc5f10",
+      "head": 0.5555555820465088,
+      "gain": 5.0
+    },
+    {
+      "frame": 309,
+      "geometry_sha256": "fc9c82ca6cd253d391abb32ea0bb378ac036f5dbadee1e4e747b1232dcdc5f10",
+      "head": 1.0,
+      "gain": 5.0
+    },
+    {
+      "frame": 314,
+      "geometry_sha256": "fc9c82ca6cd253d391abb32ea0bb378ac036f5dbadee1e4e747b1232dcdc5f10",
+      "head": 0.4444444477558136,
+      "gain": 2.5
+    },
+    {
+      "frame": 318,
+      "geometry_sha256": "fc9c82ca6cd253d391abb32ea0bb378ac036f5dbadee1e4e747b1232dcdc5f10",
+      "head": 0.0,
+      "gain": 2.5
+    },
+    {
+      "frame": 324,
+      "geometry_sha256": "fc9c82ca6cd253d391abb32ea0bb378ac036f5dbadee1e4e747b1232dcdc5f10",
+      "head": -0.6666666865348816,
+      "gain": 2.5
+    }
+  ],
+  "fixed_geometry_pass": true,
+  "moving_light_pass": true,
+  "camera": "RIBBON_REVIEW_CAMERA",
+  "object_action": false,
+  "mesh_action": false
+}

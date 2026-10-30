@@ -1,0 +1,65 @@
+{
+  "candidate": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-context_v010.blend",
+  "sha256": "fda02dfc2c64882f6d7f04ec304ce8d2585c1dd33aba74796547830429a488d0",
+  "face_height_m": 0.0400390625,
+  "face_width_m": 0.04000236093997955,
+  "records": [
+    {
+      "frame": 298,
+      "geometry_sha256": "586752494593d3b1912d0ec3da000cadf93cc59fca7318377a9e3ac7caee071c",
+      "height_m": 0.0401611328125,
+      "width_m": 0.04006406769622117,
+      "vertical_center_offset_m": 0.0
+    },
+    {
+      "frame": 300,
+      "geometry_sha256": "586752494593d3b1912d0ec3da000cadf93cc59fca7318377a9e3ac7caee071c",
+      "height_m": 0.0401611328125,
+      "width_m": 0.04006406769622117,
+      "vertical_center_offset_m": 0.0
+    },
+    {
+      "frame": 305,
+      "geometry_sha256": "586752494593d3b1912d0ec3da000cadf93cc59fca7318377a9e3ac7caee071c",
+      "height_m": 0.0401611328125,
+      "width_m": 0.04006406769622117,
+      "vertical_center_offset_m": 0.0
+    },
+    {
+      "frame": 309,
+      "geometry_sha256": "586752494593d3b1912d0ec3da000cadf93cc59fca7318377a9e3ac7caee071c",
+      "height_m": 0.0401611328125,
+      "width_m": 0.04006406769622117,
+      "vertical_center_offset_m": 0.0
+    },
+    {
+      "frame": 314,
+      "geometry_sha256": "586752494593d3b1912d0ec3da000cadf93cc59fca7318377a9e3ac7caee071c",
+      "height_m": 0.0401611328125,
+      "width_m": 0.04006406769622117,
+      "vertical_center_offset_m": 0.0
+    },
+    {
+      "frame": 318,
+      "geometry_sha256": "586752494593d3b1912d0ec3da000cadf93cc59fca7318377a9e3ac7caee071c",
+      "height_m": 0.0401611328125,
+      "width_m": 0.04006406769622117,
+      "vertical_center_offset_m": 0.0
+    },
+    {
+      "frame": 324,
+      "geometry_sha256": "586752494593d3b1912d0ec3da000cadf93cc59fca7318377a9e3ac7caee071c",
+      "height_m": 0.0401611328125,
+      "width_m": 0.04006406769622117,
+      "vertical_center_offset_m": 0.0
+    }
+  ],
+  "checks": {
+    "fixed_evaluated_geometry": true,
+    "height_matches_face_within_1_percent": true,
+    "width_matches_face_within_1_percent": true,
+    "centered_within_half_mm": true,
+    "candidate_unchanged": true
+  },
+  "all_pass": true
+}

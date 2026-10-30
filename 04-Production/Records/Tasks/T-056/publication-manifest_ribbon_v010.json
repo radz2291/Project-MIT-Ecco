@@ -1,0 +1,103 @@
+{
+  "status": "owner choice pending; visual proof only",
+  "files": [
+    {
+      "path": "04-Production/Records/Tasks/T-056/report.md",
+      "sha256": "e57ca4c08307dcf77874764813b432142ec594b0f74fbe10bfa963b726a41a44"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/relativize_ribbon_v010.py",
+      "sha256": "ae219999318eed825c646f7144ebd6a64d0cd81305802f0ccbc8d52d35e89db5"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/ribbon-relative-paths_v010.json",
+      "sha256": "20daaf07c723eafb93c49690a8679614f1889fee843141004f0f866c3a5f69c2"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/.gitignore",
+      "sha256": "50f302a8a2a248ff5c6796ef262d6d5ce62c61aebe99bc50e5340753c1ed96a2"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/build_ribbon_v010.py",
+      "sha256": "6d1bd16e44a2c2804b66e0d4c988124dd472f9381dc42fe48b98c92fe731ec91"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/verify_ribbon_v010.py",
+      "sha256": "fe5ba697eba42ed40ec9df973203a08242817cefb134a17cb788760dfbd45ca9"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/render_ribbon_v010.py",
+      "sha256": "4153cf237e16643046f1355f8d3c0ce9a7d638b4c01ab8697977770139e71672"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/review_context_ribbon_v010.py",
+      "sha256": "c8b5acddcb779b5aafbb28304191271dcb26a2b711d38e391605da2610a6c222"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/ribbon-build_v010.json",
+      "sha256": "83c00de2fc15ec14241a2dab74b519957b1d3f839d5f5a6c1961ede06b8eab4b"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/ribbon-invariance_v010.json",
+      "sha256": "f76ec08c0353358b8cbaf57ae7a534b078f5229b39d511379e6daf218b69eca3"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/ribbon-batch_v010.json",
+      "sha256": "7e61d3c29a8c9d8d7ead1edb48a74d33c28c081bf5c76368acf9aa7d523eae7c"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/ribbon-context-review_v010.json",
+      "sha256": "18790b68f1b2f78d3e8b4fc786804144b9468e7829b4e4f7dcf2c8cf7ca6802b"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/ribbon-proof-report_v010.md",
+      "sha256": "9afbd56d5b257cfc1ee0e6ccf7e65177ec6fa4603123004989548a231382c9d1"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/ribbon-proof-report_v009.md",
+      "sha256": "efc98a9142f0f530edc129768f4072480a9ba4d0f7f805efd8872e6529e1bff3"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/retained-pressure-v007.md",
+      "sha256": "f9c97efcbc426f2a30132673c4509fb1f4f139d566172c92669fb018d8d1b16f"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/ribbon-instance-inspection_v008.json",
+      "sha256": "5d86c23d48e182457f0f24669e7d1c621c9e54046dcf9d7172b0fd44281d35d6"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/README.md",
+      "sha256": "9874f445a0bea8c4fa1d84028e6b44144d9b1314c7a313fd7559fa652e29f587"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/ribbon_isolated_v010.png",
+      "sha256": "24bb5ea18d2d0dec0ea306695d65251dd5e8bf68b7c53c04154c8617b1019561"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/ribbon_context_v010.png",
+      "sha256": "97a133fe384306d795b7b18e16556e76c3053aadf8adec7da126bd771ba67fff"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/ribbon_context-review_v010.png",
+      "sha256": "ba0039c2f4f23fb7b3126d1fc9c64d59f6571df9906b81f4a288571c40e65667"
+    }
+  ],
+  "local_only": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/Ribbon_dark-stage_v010.blend",
+      "sha256": "d9c099d0ac9c456ecf0e2a44aa57ed0cbc7a1476597703800ac85c88c30f997c"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-context_v010.blend",
+      "sha256": "fda02dfc2c64882f6d7f04ec304ce8d2585c1dd33aba74796547830429a488d0"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-review-framing_v010.blend",
+      "sha256": "aa1e040dfc7e99f95fc6577a586e3a31427c155c156be3d0d1d476872e62fe34"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/ribbon_v010_slow-review.mp4",
+      "sha256": "251b9d1e9a3fed1250ad223e1061c5893045686bdba7a85f1ae276a84db1407e"
+    }
+  ]
+}

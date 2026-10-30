@@ -1,0 +1,56 @@
+{
+  "cap_name": "TEMP | Imaging port 2 | removable acoustic cap",
+  "cap_matrix": [
+    [
+      -0.9335805177688599,
+      -1.386549826065675e-07,
+      0.3583681285381317,
+      0.04658770561218262
+    ],
+    [
+      -0.3583680987358093,
+      -1.5172889789027977e-07,
+      -0.9335803985595703,
+      -0.12136545777320862
+    ],
+    [
+      1.838203758097734e-07,
+      -1.0000001192092896,
+      9.196160988267366e-08,
+      -729.5299682617188
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "full_height_m": 0.0400390625,
+  "full_width_m": 0.040000008419156075,
+  "peak_to_trough_m": 0.0400390625,
+  "path_start": [
+    0.04694615676999092,
+    -0.12229903787374496,
+    -729.5299682617188
+  ],
+  "path_end": [
+    0.05575335770845413,
+    -0.1452425718307495,
+    -729.5299682617188
+  ],
+  "filaments": 32,
+  "source_sample_csv": "PressureField_v005/Data/source_pulse.csv",
+  "display_window_s": [
+    2.5e-06,
+    5e-06
+  ],
+  "taper": "sin(pi*u)**0.3; fixed artistic window",
+  "mapping": "Assumed normalized pulse becomes artistic static height; depth strands have fixed sample offset. Not actual pressure displacement or measured ECCO waveform.",
+  "geometry_animation": false,
+  "frame": 305,
+  "full_render_to_file_seconds": 2.6714878999628127,
+  "context_native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\RibbonWaveform_v010\\S02_ribbon-context_v010.blend",
+  "context_camera": "CAM_S01_Continuous",
+  "isolated_seconds": 0.32145399996079504
+}
