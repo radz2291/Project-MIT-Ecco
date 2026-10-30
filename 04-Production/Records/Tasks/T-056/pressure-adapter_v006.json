@@ -1,0 +1,4689 @@
+{
+  "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\PressureField_v006\\S02_pressure-field-proof_v006.blend",
+  "source_model": "PressureField_v005/Data",
+  "camera_untouched": "CAM_S01_Continuous",
+  "pressure_geometry": "unchanged from v005",
+  "adapter": "existing local materials diffuse viewport color and alpha; added simple fixture lighting; pressure emissive transparent mix",
+  "resolution": [
+    640,
+    360
+  ],
+  "samples": 8,
+  "materials": [
+    {
+      "material": "DW5 ECHO halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "PIXEL history edge1 start507",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_094_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start501",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "S02 fresh-to-recent 5",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 4 edge0 reveal1",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start455",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start452",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start451",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start467",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start473",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start476",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start477",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start480",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start494",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start505",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 SEND core3",
+      "pressure": false,
+      "alpha": 0.49000000953674316
+    },
+    {
+      "material": "DW5 SEND core2",
+      "pressure": false,
+      "alpha": 0.6600000262260437
+    },
+    {
+      "material": "PRESSURE_SLICE_055_VALUE",
+      "pressure": true,
+      "alpha": 0.06110066920518875
+    },
+    {
+      "material": "PIXEL history edge1 start512",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start506",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_012_VALUE",
+      "pressure": true,
+      "alpha": 0.0006531366379931569
+    },
+    {
+      "material": "PIXEL history edge5 start460",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start467",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Drill string",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Recorded skin preview edge level 0",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "PIXEL history edge3 start448",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start454",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start475",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start479",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start488",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start489",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start497",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start479",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start517",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start517",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW5 SEND halo3",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "DW 5 soft dimple radial fade 8",
+      "pressure": false,
+      "alpha": 0.1599999964237213
+    },
+    {
+      "material": "Exact sample 5 confirmation",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge7 start473",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_017_VALUE",
+      "pressure": true,
+      "alpha": 0.0626508891582489
+    },
+    {
+      "material": "PRESSURE_SLICE_065_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start450",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "S02 fresh-to-recent 4",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 4 edge0 reveal0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start454",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start451",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start466",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start472",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start476",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start475",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start479",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 2 soft dimple radial fade 4",
+      "pressure": false,
+      "alpha": 0.07999999821186066
+    },
+    {
+      "material": "PRESSURE_SLICE_018_VALUE",
+      "pressure": true,
+      "alpha": 0.09540395438671112
+    },
+    {
+      "material": "DW 6 soft dimple radial fade 2",
+      "pressure": false,
+      "alpha": 0.03999999910593033
+    },
+    {
+      "material": "PIXEL history edge5 start513",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 ECHO core0",
+      "pressure": false,
+      "alpha": 0.8500000238418579
+    },
+    {
+      "material": "PIXEL history edge7 start478",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start494",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 SEND halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "DW4 ECHO core0",
+      "pressure": false,
+      "alpha": 0.8500000238418579
+    },
+    {
+      "material": "PIXEL history edge2 start513",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Recorded pale circumferential contours",
+      "pressure": false,
+      "alpha": 0.07999999821186066
+    },
+    {
+      "material": "PIXEL history edge3 start447",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start452",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start459",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start466",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start474",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start478",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start487",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start488",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start491",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW4 SEND core1",
+      "pressure": false,
+      "alpha": 0.8299999833106995
+    },
+    {
+      "material": "DW 6 precise contact pin",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PRESSURE_SLICE_023_VALUE",
+      "pressure": true,
+      "alpha": 0.16548264026641846
+    },
+    {
+      "material": "PIXEL history edge5 start518",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start515",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_071_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 ECHO halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge7 start483",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start499",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 SEND halo3",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge2 start518",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW4 SEND halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge5 start471",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start465",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "S02 fresh-to-recent 3",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 3 edge0 reveal3",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start449",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start450",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start453",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start475",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start474",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start478",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_028_VALUE",
+      "pressure": true,
+      "alpha": 0.20914755761623383
+    },
+    {
+      "material": "PRESSURE_SLICE_032_VALUE",
+      "pressure": true,
+      "alpha": 0.7088453769683838
+    },
+    {
+      "material": "DW 4 soft dimple radial fade 4",
+      "pressure": false,
+      "alpha": 0.07999999821186066
+    },
+    {
+      "material": "PRESSURE_SLICE_036_VALUE",
+      "pressure": true,
+      "alpha": 0.07904897630214691
+    },
+    {
+      "material": "PRESSURE_SLICE_076_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start504",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start504",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start477",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start497",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_037_VALUE",
+      "pressure": true,
+      "alpha": 0.2791666090488434
+    },
+    {
+      "material": "PIXEL history edge1 start465",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Recorded fine surface grid",
+      "pressure": false,
+      "alpha": 0.05999999865889549
+    },
+    {
+      "material": "PIXEL history edge4 start451",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start458",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start473",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start477",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start486",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start487",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start490",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start493",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 5 contact contour",
+      "pressure": false,
+      "alpha": 0.8999999761581421
+    },
+    {
+      "material": "PIXEL history edge3 start509",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start482",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start516",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start502",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_042_VALUE",
+      "pressure": true,
+      "alpha": 0.47506871819496155
+    },
+    {
+      "material": "PIXEL history edge4 start464",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start473",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "S02 fresh-to-recent 2",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 3 edge0 reveal2",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start448",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start449",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start452",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start470",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start474",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start477",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 5 soft dimple radial fade 3",
+      "pressure": false,
+      "alpha": 0.05999999865889549
+    },
+    {
+      "material": "PIXEL history edge3 start487",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start484",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start502",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_043_VALUE",
+      "pressure": true,
+      "alpha": 0.1666998416185379
+    },
+    {
+      "material": "DW1 SEND halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "Reconstructed local region 6",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start457",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start450",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start464",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start472",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start476",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start486",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start485",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start489",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start489",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start505",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start507",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start516",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_048_VALUE",
+      "pressure": true,
+      "alpha": 0.4372102618217468
+    },
+    {
+      "material": "PRESSURE_SLICE_082_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start514",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start492",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW2 ECHO halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "DW2 SEND halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "PIXEL history edge0 start510",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start518",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 3 soft dimple radial fade 5",
+      "pressure": false,
+      "alpha": 0.10000000149011612
+    },
+    {
+      "material": "PIXEL history edge4 start463",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start473",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start472",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "S02 fresh-to-recent 1",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified wall unrecorded cells",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Unified cell 3 edge0 reveal1",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start448",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start447",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start451",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start469",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 1 soft dimple radial fade 0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_001_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 ECHO halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "PRESSURE_SLICE_053_VALUE",
+      "pressure": true,
+      "alpha": 0.12359578162431717
+    },
+    {
+      "material": "PRESSURE_SLICE_087_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start492",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 ECHO core1",
+      "pressure": false,
+      "alpha": 0.6499999761581421
+    },
+    {
+      "material": "DW 4 precise contact pin",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "DW 1 soft dimple radial fade 5",
+      "pressure": false,
+      "alpha": 0.10000000149011612
+    },
+    {
+      "material": "PIXEL history edge1 start463",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Reconstructed local region 5",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start449",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start456",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start471",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start475",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start484",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start485",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start488",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start491",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 SEND core2",
+      "pressure": false,
+      "alpha": 0.6600000262260437
+    },
+    {
+      "material": "PIXEL history edge7 start497",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start506",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_093_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 2 precise contact pin",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge6 start471",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start468",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start462",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Rig neutral grey",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 3 edge0 reveal0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start447",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start450",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start472",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start475",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start478",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start504",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 SEND halo3",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PRESSURE_SLICE_006_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW5 SEND core1",
+      "pressure": false,
+      "alpha": 0.8299999833106995
+    },
+    {
+      "material": "PIXEL history edge1 start511",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start518",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start498",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start505",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 SEND core0",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge3 start470",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Reconstructed local region 4",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start448",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start455",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start462",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start474",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start484",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start483",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start487",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start490",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start496",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start509",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start516",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start516",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 3 contact contour",
+      "pressure": false,
+      "alpha": 0.8999999761581421
+    },
+    {
+      "material": "DW5 SEND halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "DW 5 soft dimple radial fade 7",
+      "pressure": false,
+      "alpha": 0.14000000059604645
+    },
+    {
+      "material": "PIXEL history edge5 start510",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Exact sample 4 confirmation",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PRESSURE_SLICE_016_VALUE",
+      "pressure": true,
+      "alpha": 0.030549539253115654
+    },
+    {
+      "material": "Unified cell 2 edge0 reveal3",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start470",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start449",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start467",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Recorded skin preview edge level 7",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "PIXEL history edge0 start471",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start461",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Measurement diamonds - recent",
+      "pressure": false,
+      "alpha": 0.3499999940395355
+    },
+    {
+      "material": "PIXEL history edge1 start474",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start477",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start483",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 2 soft dimple radial fade 3",
+      "pressure": false,
+      "alpha": 0.05999999865889549
+    },
+    {
+      "material": "DW 6 soft dimple radial fade 1",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "PIXEL history edge5 start512",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 6 soft dimple radial fade 8",
+      "pressure": false,
+      "alpha": 0.1599999964237213
+    },
+    {
+      "material": "PIXEL history edge7 start477",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Unified wall pale major contours",
+      "pressure": false,
+      "alpha": 0.07999999821186066
+    },
+    {
+      "material": "PIXEL history edge2 start512",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Reconstructed local region 3",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start447",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start454",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start461",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start469",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start473",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start482",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start483",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start486",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start489",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 2 soft dimple radial fade 8",
+      "pressure": false,
+      "alpha": 0.1599999964237213
+    },
+    {
+      "material": "DW4 SEND core0",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PRESSURE_SLICE_022_VALUE",
+      "pressure": true,
+      "alpha": 0.04198236018419266
+    },
+    {
+      "material": "PIXEL history edge5 start517",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_070_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 ECHO halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge7 start482",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start498",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW4 ECHO halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge2 start517",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW4 SEND halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge5 start466",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Measurement diamonds - historical",
+      "pressure": false,
+      "alpha": 0.3499999940395355
+    },
+    {
+      "material": "Recorded skin preview edge level 6",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified recorded wall settled edge 7",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified cell 2 edge0 reveal2",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start448",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start460",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start470",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start469",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start473",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_027_VALUE",
+      "pressure": true,
+      "alpha": 0.3627435564994812
+    },
+    {
+      "material": "PRESSURE_SLICE_031_VALUE",
+      "pressure": true,
+      "alpha": 0.5397201180458069
+    },
+    {
+      "material": "PRESSURE_SLICE_075_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 4 soft dimple radial fade 3",
+      "pressure": false,
+      "alpha": 0.05999999865889549
+    },
+    {
+      "material": "PIXEL history edge4 start503",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start476",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start496",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW5 ECHO core2",
+      "pressure": false,
+      "alpha": 0.44999998807907104
+    },
+    {
+      "material": "Reconstructed local region 2",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start453",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start460",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start468",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start472",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start481",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start482",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start485",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start488",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start490",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 4 soft dimple radial fade 8",
+      "pressure": false,
+      "alpha": 0.1599999964237213
+    },
+    {
+      "material": "PIXEL history edge3 start508",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start481",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start515",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start501",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_041_VALUE",
+      "pressure": true,
+      "alpha": 0.7149578332901001
+    },
+    {
+      "material": "Measurement connections - historical",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Recorded skin preview edge level 5",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified recorded wall settled edge 6",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified cell 2 edge0 reveal1",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start447",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start459",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start468",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start465",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start469",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start472",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start513",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 5 soft dimple radial fade 2",
+      "pressure": false,
+      "alpha": 0.03999999910593033
+    },
+    {
+      "material": "PIXEL history edge3 start486",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start483",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start501",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 SEND halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge1 start459",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start471",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Reconstructed local region 1",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start449",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start467",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start480",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start481",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start484",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start487",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start492",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start504",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start488",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start506",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_047_VALUE",
+      "pressure": true,
+      "alpha": 0.5276738405227661
+    },
+    {
+      "material": "PRESSURE_SLICE_081_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start513",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW2 ECHO core2",
+      "pressure": false,
+      "alpha": 0.44999998807907104
+    },
+    {
+      "material": "DW2 SEND core3",
+      "pressure": false,
+      "alpha": 0.49000000953674316
+    },
+    {
+      "material": "PIXEL history edge6 start510",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start509",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start467",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start468",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Measurement 6 temporary contact glow",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Recorded skin preview edge level 4",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified recorded wall settled edge 5",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified cell 2 edge0 reveal0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start458",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start464",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start471",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start474",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 1 precise contact pin",
+      "pressure": false,
+      "alpha": 0.07999999821186066
+    },
+    {
+      "material": "PRESSURE_SLICE_052_VALUE",
+      "pressure": true,
+      "alpha": 0.10131827741861343
+    },
+    {
+      "material": "PRESSURE_SLICE_086_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_000_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 ECHO core2",
+      "pressure": false,
+      "alpha": 0.44999998807907104
+    },
+    {
+      "material": "PIXEL history edge7 start491",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW2 SEND core1",
+      "pressure": false,
+      "alpha": 0.8299999833106995
+    },
+    {
+      "material": "DW3 ECHO core0",
+      "pressure": false,
+      "alpha": 0.8500000238418579
+    },
+    {
+      "material": "PIXEL history edge0 start514",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 4 contact contour",
+      "pressure": false,
+      "alpha": 0.8999999761581421
+    },
+    {
+      "material": "PIXEL history edge4 start470",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start466",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start448",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start458",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start479",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start480",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start483",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start486",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start488",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start491",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 SEND core1",
+      "pressure": false,
+      "alpha": 0.8299999833106995
+    },
+    {
+      "material": "PRESSURE_SLICE_091_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start496",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 ECHO halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "DW 2 contact contour",
+      "pressure": false,
+      "alpha": 0.8999999761581421
+    },
+    {
+      "material": "PIXEL history edge5 start463",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Measurement 6 fresh-to-history",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Recorded skin preview edge level 3",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified recorded wall settled edge 4",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified cell 1 edge0 reveal3",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start457",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start470",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start467",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start466",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start473",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start492",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 SEND halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge6 start503",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_005_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW5 SEND core0",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge1 start476",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start510",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start465",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start447",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start457",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start469",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start479",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start478",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start482",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start485",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start487",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start490",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start495",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start508",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW5 SEND halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge6 start515",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_058_VALUE",
+      "pressure": true,
+      "alpha": 3.621286668931134e-05
+    },
+    {
+      "material": "PIXEL history edge1 start515",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 5 soft dimple radial fade 6",
+      "pressure": false,
+      "alpha": 0.11999999731779099
+    },
+    {
+      "material": "Exact sample 3 confirmation",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PRESSURE_SLICE_015_VALUE",
+      "pressure": true,
+      "alpha": 0.008341621607542038
+    },
+    {
+      "material": "PIXEL history edge5 start462",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start469",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start466",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Measurement 6 connections age",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Recorded skin preview edge level 2",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified recorded wall settled edge 3",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified cell 1 edge0 reveal2",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start456",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start465",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start472",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start500",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start513",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start482",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 2 soft dimple radial fade 2",
+      "pressure": false,
+      "alpha": 0.03999999910593033
+    },
+    {
+      "material": "DW3 SEND core1",
+      "pressure": false,
+      "alpha": 0.8299999833106995
+    },
+    {
+      "material": "DW 6 soft dimple radial fade 0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start511",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 6 soft dimple radial fade 7",
+      "pressure": false,
+      "alpha": 0.14000000059604645
+    },
+    {
+      "material": "PIXEL history edge7 start476",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start464",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start468",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start456",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start478",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start477",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start481",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start484",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start486",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start489",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start493",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start511",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 2 soft dimple radial fade 7",
+      "pressure": false,
+      "alpha": 0.14000000059604645
+    },
+    {
+      "material": "DW4 ECHO halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PRESSURE_SLICE_021_VALUE",
+      "pressure": true,
+      "alpha": 0.052135128527879715
+    },
+    {
+      "material": "DW 6 soft dimple radial fade 5",
+      "pressure": false,
+      "alpha": 0.10000000149011612
+    },
+    {
+      "material": "PIXEL history edge5 start516",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_069_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 ECHO halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "PIXEL history edge7 start481",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start497",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW4 ECHO halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "PIXEL history edge2 start516",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_092_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start464",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Measurement 5 temporary contact glow",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Recorded skin preview edge level 1",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified recorded wall settled edge 2",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified cell 1 edge0 reveal1",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start455",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start461",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start465",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start468",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start471",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW4 SEND halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "PRESSURE_SLICE_026_VALUE",
+      "pressure": true,
+      "alpha": 0.421954870223999
+    },
+    {
+      "material": "PRESSURE_SLICE_030_VALUE",
+      "pressure": true,
+      "alpha": 0.29109519720077515
+    },
+    {
+      "material": "PRESSURE_SLICE_074_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start518",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 SEND core2",
+      "pressure": false,
+      "alpha": 0.6600000262260437
+    },
+    {
+      "material": "PIXEL history edge4 start502",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start495",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW5 ECHO core1",
+      "pressure": false,
+      "alpha": 0.6499999761581421
+    },
+    {
+      "material": "PRESSURE_SLICE_035_VALUE",
+      "pressure": true,
+      "alpha": 0.4111592769622803
+    },
+    {
+      "material": "PRESSURE_SLICE_079_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 4 soft dimple radial fade 7",
+      "pressure": false,
+      "alpha": 0.14000000059604645
+    },
+    {
+      "material": "PIXEL history edge3 start480",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start514",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 12",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 1 fresh-to-history",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge2 start458",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start463",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start459",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start498",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start500",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start502",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start501",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start508",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_040_VALUE",
+      "pressure": true,
+      "alpha": 0.8298192620277405
+    },
+    {
+      "material": "DW 5 soft dimple radial fade 1",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "PIXEL history edge3 start485",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start482",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start500",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 24",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 5 fresh-to-history",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified recorded wall settled edge 1",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "Unified cell 1 edge0 reveal0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start463",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start464",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start470",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start472",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start485",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start505",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 SEND halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "PIXEL history edge0 start503",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start487",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start505",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_046_VALUE",
+      "pressure": true,
+      "alpha": 0.5143486857414246
+    },
+    {
+      "material": "PRESSURE_SLICE_080_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start512",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 11",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 1 connections age",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge2 start457",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start457",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start462",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start497",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start500",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start501",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start507",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start512",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW2 ECHO core1",
+      "pressure": false,
+      "alpha": 0.6499999761581421
+    },
+    {
+      "material": "DW2 SEND core2",
+      "pressure": false,
+      "alpha": 0.6600000262260437
+    },
+    {
+      "material": "PRESSURE_SLICE_095_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start508",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 3 soft dimple radial fade 3",
+      "pressure": false,
+      "alpha": 0.05999999865889549
+    },
+    {
+      "material": "DW 1 contact contour",
+      "pressure": false,
+      "alpha": 0.029999999329447746
+    },
+    {
+      "material": "PIXEL history edge4 start492",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start510",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_051_VALUE",
+      "pressure": true,
+      "alpha": 0.018717780709266663
+    },
+    {
+      "material": "PRESSURE_SLICE_085_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start517",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start463",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start462",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start469",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Tool section bands",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Earth stratum 23",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 5 connections age",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified recorded wall settled edge 0",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "PIXEL history edge7 start471",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start484",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start509",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW2 SEND core0",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "DW2 SEND halo3",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge0 start513",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 3 soft dimple radial fade 8",
+      "pressure": false,
+      "alpha": 0.1599999964237213
+    },
+    {
+      "material": "DW 1 soft dimple radial fade 3",
+      "pressure": false,
+      "alpha": 0.05999999865889549
+    },
+    {
+      "material": "PRESSURE_SLICE_090_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_004_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 SEND core0",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge7 start495",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start517",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start461",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 10",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge2 start456",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start456",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start496",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start499",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start500",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start506",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start511",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start515",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 ECHO halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "DW 4 soft dimple radial fade 2",
+      "pressure": false,
+      "alpha": 0.03999999910593033
+    },
+    {
+      "material": "DW 1 soft dimple radial fade 8",
+      "pressure": false,
+      "alpha": 0.1599999964237213
+    },
+    {
+      "material": "DW6 SEND halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge5 start514",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start502",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW5 ECHO halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge1 start509",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start461",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start468",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Surface plane",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Earth stratum 22",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 4 temporary contact glow",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 6 edge2 reveal2",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start462",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start470",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start483",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start508",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_009_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start494",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start507",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_057_VALUE",
+      "pressure": true,
+      "alpha": 0.0042284391820430756
+    },
+    {
+      "material": "DW5 SEND halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "PIXEL history edge1 start514",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start476",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 09",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge7 start452",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start455",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start460",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start495",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start498",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start499",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start505",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start510",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start514",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Exact sample 2 confirmation",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "DW 5 soft dimple radial fade 5",
+      "pressure": false,
+      "alpha": 0.10000000149011612
+    },
+    {
+      "material": "PRESSURE_SLICE_014_VALUE",
+      "pressure": true,
+      "alpha": 0.0018071398371830583
+    },
+    {
+      "material": "PIXEL history edge3 start499",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start512",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 SEND core0",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PRESSURE_SLICE_062_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 ECHO core1",
+      "pressure": false,
+      "alpha": 0.6499999761581421
+    },
+    {
+      "material": "DW 2 soft dimple radial fade 1",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "PIXEL history edge2 start481",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_007_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "Seabed sand",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Earth stratum 21",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 4 fresh-to-history",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 6 edge2 reveal1",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start461",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start460",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start467",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start469",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start482",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start507",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start475",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 6 soft dimple radial fade 6",
+      "pressure": false,
+      "alpha": 0.11999999731779099
+    },
+    {
+      "material": "PRESSURE_SLICE_067_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 SEND halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge2 start510",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 2 soft dimple radial fade 6",
+      "pressure": false,
+      "alpha": 0.11999999731779099
+    },
+    {
+      "material": "PRESSURE_SLICE_020_VALUE",
+      "pressure": true,
+      "alpha": 0.1034897118806839
+    },
+    {
+      "material": "DW 6 soft dimple radial fade 4",
+      "pressure": false,
+      "alpha": 0.07999999821186066
+    },
+    {
+      "material": "PIXEL history edge5 start515",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_068_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start451",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start459",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 08",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge2 start454",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start494",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start497",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start480",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start496",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start498",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start504",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 ECHO core2",
+      "pressure": false,
+      "alpha": 0.44999998807907104
+    },
+    {
+      "material": "DW4 ECHO core2",
+      "pressure": false,
+      "alpha": 0.44999998807907104
+    },
+    {
+      "material": "PIXEL history edge2 start515",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 3 soft dimple radial fade 0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW4 SEND core3",
+      "pressure": false,
+      "alpha": 0.49000000953674316
+    },
+    {
+      "material": "DW 3 soft dimple radial fade 4",
+      "pressure": false,
+      "alpha": 0.07999999821186066
+    },
+    {
+      "material": "PRESSURE_SLICE_025_VALUE",
+      "pressure": true,
+      "alpha": 0.38961607217788696
+    },
+    {
+      "material": "PIXEL history edge0 start517",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_073_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 SEND core1",
+      "pressure": false,
+      "alpha": 0.8299999833106995
+    },
+    {
+      "material": "PIXEL history edge6 start459",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start468",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start466",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 20",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "S02 v002 subtle indexed contours",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 4 connections age",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 6 edge1 reveal1",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start460",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start481",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start485",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start501",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start494",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW5 ECHO core0",
+      "pressure": false,
+      "alpha": 0.8500000238418579
+    },
+    {
+      "material": "PRESSURE_SLICE_034_VALUE",
+      "pressure": true,
+      "alpha": 0.6498401165008545
+    },
+    {
+      "material": "PRESSURE_SLICE_010_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_059_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_078_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 4 soft dimple radial fade 6",
+      "pressure": false,
+      "alpha": 0.11999999731779099
+    },
+    {
+      "material": "Earth stratum 07",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge2 start453",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start450",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start458",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start479",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start493",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start496",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start497",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start499",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start503",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_011_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_039_VALUE",
+      "pressure": true,
+      "alpha": 0.7849990725517273
+    },
+    {
+      "material": "PRESSURE_SLICE_060_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 5 soft dimple radial fade 0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start508",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start484",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start518",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start481",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start499",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start459",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start465",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 19",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "S02 v002 recent wall samples",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 3 temporary contact glow",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 6 edge1 reveal0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start458",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start466",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start480",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start504",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 SEND core3",
+      "pressure": false,
+      "alpha": 0.49000000953674316
+    },
+    {
+      "material": "PIXEL history edge4 start513",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start486",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start504",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_045_VALUE",
+      "pressure": true,
+      "alpha": 0.3821595013141632
+    },
+    {
+      "material": "PIXEL history edge7 start511",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 06",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge2 start452",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start448",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start457",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start492",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start495",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start496",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start502",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start507",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start511",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW2 ECHO core0",
+      "pressure": false,
+      "alpha": 0.8500000238418579
+    },
+    {
+      "material": "Unified wall cell grid",
+      "pressure": false,
+      "alpha": 0.11999999731779099
+    },
+    {
+      "material": "PIXEL history edge0 start507",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 3 soft dimple radial fade 2",
+      "pressure": false,
+      "alpha": 0.03999999910593033
+    },
+    {
+      "material": "PIXEL history edge4 start491",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start509",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_050_VALUE",
+      "pressure": true,
+      "alpha": 0.11818305402994156
+    },
+    {
+      "material": "PRESSURE_SLICE_084_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start516",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start489",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 18",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "S02 v002 older wall samples",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 3 fresh-to-history",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 5 edge1 reveal2",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start457",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start458",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start464",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start465",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start479",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start504",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW2 ECHO halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PRESSURE_SLICE_063_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW2 SEND halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge0 start512",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 3 soft dimple radial fade 7",
+      "pressure": false,
+      "alpha": 0.14000000059604645
+    },
+    {
+      "material": "DW 1 soft dimple radial fade 2",
+      "pressure": false,
+      "alpha": 0.03999999910593033
+    },
+    {
+      "material": "PRESSURE_SLICE_089_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_003_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 ECHO halo2",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge7 start494",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 05",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge7 start447",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start451",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start456",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start491",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start494",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start495",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start501",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start506",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start510",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 ECHO halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "PRESSURE_SLICE_064_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 4 soft dimple radial fade 1",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "DW 1 soft dimple radial fade 7",
+      "pressure": false,
+      "alpha": 0.14000000059604645
+    },
+    {
+      "material": "DW6 SEND halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "DW5 ECHO halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "Earth stratum 17",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "S02 returning emerald",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 3 connections age",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 5 edge1 reveal1",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start456",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start457",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start463",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start464",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start478",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start503",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start508",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 1 soft dimple radial fade 4",
+      "pressure": false,
+      "alpha": 0.07999999821186066
+    },
+    {
+      "material": "PRESSURE_SLICE_008_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start495",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start493",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start506",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_056_VALUE",
+      "pressure": true,
+      "alpha": 0.0241574514657259
+    },
+    {
+      "material": "DW5 SEND core3",
+      "pressure": false,
+      "alpha": 0.49000000953674316
+    },
+    {
+      "material": "PIXEL history edge2 start475",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start513",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 04",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Earth stratum 29",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge3 start453",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start450",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start490",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start493",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start494",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start500",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start505",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start509",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 5 soft dimple radial fade 4",
+      "pressure": false,
+      "alpha": 0.07999999821186066
+    },
+    {
+      "material": "Exact sample 1 confirmation",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PRESSURE_SLICE_013_VALUE",
+      "pressure": true,
+      "alpha": 0.0027925586327910423
+    },
+    {
+      "material": "PIXEL history edge3 start498",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start511",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_061_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 ECHO core0",
+      "pressure": false,
+      "alpha": 0.8500000238418579
+    },
+    {
+      "material": "PIXEL history edge6 start518",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 2 soft dimple radial fade 0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start480",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 16",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "S02 quiet section boundary",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 2 temporary contact glow",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 5 edge1 reveal0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start456",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start455",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start462",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start463",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start477",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start502",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Exact sample 6 confirmation",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "DW 6 contact contour",
+      "pressure": false,
+      "alpha": 0.8999999761581421
+    },
+    {
+      "material": "PIXEL history edge7 start474",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_066_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 SEND halo0",
+      "pressure": false,
+      "alpha": 0.07000000029802322
+    },
+    {
+      "material": "PIXEL history edge2 start509",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 2 soft dimple radial fade 5",
+      "pressure": false,
+      "alpha": 0.10000000149011612
+    },
+    {
+      "material": "PRESSURE_SLICE_019_VALUE",
+      "pressure": true,
+      "alpha": 0.11446656286716461
+    },
+    {
+      "material": "DW 6 soft dimple radial fade 3",
+      "pressure": false,
+      "alpha": 0.05999999865889549
+    },
+    {
+      "material": "Earth stratum 03",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Earth stratum 28",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge2 start449",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start452",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start489",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start492",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start493",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start499",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start479",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start495",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 ECHO core1",
+      "pressure": false,
+      "alpha": 0.6499999761581421
+    },
+    {
+      "material": "DW4 ECHO core1",
+      "pressure": false,
+      "alpha": 0.6499999761581421
+    },
+    {
+      "material": "PIXEL history edge2 start514",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 3 precise contact pin",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "DW4 SEND core2",
+      "pressure": false,
+      "alpha": 0.6600000262260437
+    },
+    {
+      "material": "PRESSURE_SLICE_024_VALUE",
+      "pressure": true,
+      "alpha": 0.29292190074920654
+    },
+    {
+      "material": "PRESSURE_SLICE_072_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start516",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 15",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "S02 outgoing cyan",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 2 fresh-to-history",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 5 edge0 reveal3",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start455",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start454",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start461",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start462",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start476",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start484",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start500",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start493",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW4 SEND halo3",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PRESSURE_SLICE_033_VALUE",
+      "pressure": true,
+      "alpha": 0.7543377876281738
+    },
+    {
+      "material": "PRESSURE_SLICE_029_VALUE",
+      "pressure": true,
+      "alpha": 0.02284829318523407
+    },
+    {
+      "material": "PRESSURE_SLICE_077_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 4 soft dimple radial fade 5",
+      "pressure": false,
+      "alpha": 0.10000000149011612
+    },
+    {
+      "material": "Earth stratum 02",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Earth stratum 27",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge2 start448",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start451",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start478",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start488",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start492",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start491",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start498",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start503",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start498",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_038_VALUE",
+      "pressure": true,
+      "alpha": 0.5895135998725891
+    },
+    {
+      "material": "DW 5 precise contact pin",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge4 start507",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start483",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start480",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 14",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "S02 older pale cyan samples",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 2 connections age",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 5 edge0 reveal2",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start453",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start454",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start460",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start461",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start475",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start500",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge1 start503",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start512",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start488",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start485",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start503",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_044_VALUE",
+      "pressure": true,
+      "alpha": 0.14000682532787323
+    },
+    {
+      "material": "Earth stratum 01",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Earth stratum 26",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge2 start447",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start450",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start487",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start490",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start491",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start497",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start502",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start506",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW1 SEND halo3",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge0 start506",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 3 soft dimple radial fade 1",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "PIXEL history edge4 start517",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start490",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start508",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_049_VALUE",
+      "pressure": true,
+      "alpha": 0.28459087014198303
+    },
+    {
+      "material": "PRESSURE_SLICE_083_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start515",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 13",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "S02 fresh-to-recent 6",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Measurement 1 temporary contact glow",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Unified cell 4 edge0 reveal2",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start452",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start453",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start459",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge7 start460",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start474",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start499",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW2 ECHO halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "DW2 SEND halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge0 start511",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 3 soft dimple radial fade 6",
+      "pressure": false,
+      "alpha": 0.11999999731779099
+    },
+    {
+      "material": "DW 1 soft dimple radial fade 1",
+      "pressure": false,
+      "alpha": 0.019999999552965164
+    },
+    {
+      "material": "PRESSURE_SLICE_054_VALUE",
+      "pressure": true,
+      "alpha": 0.10218419134616852
+    },
+    {
+      "material": "PRESSURE_SLICE_088_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "PRESSURE_SLICE_002_VALUE",
+      "pressure": true,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW6 ECHO halo1",
+      "pressure": false,
+      "alpha": 0.02500000037252903
+    },
+    {
+      "material": "PIXEL history edge7 start493",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "Earth stratum 00",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "Earth stratum 25",
+      "pressure": false,
+      "alpha": 1.0
+    },
+    {
+      "material": "PIXEL history edge3 start449",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge5 start486",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start489",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge0 start490",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge2 start496",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge3 start501",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge4 start505",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "PIXEL history edge6 start514",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW3 ECHO core2",
+      "pressure": false,
+      "alpha": 0.44999998807907104
+    },
+    {
+      "material": "DW 4 soft dimple radial fade 0",
+      "pressure": false,
+      "alpha": 0.0
+    },
+    {
+      "material": "DW 1 soft dimple radial fade 6",
+      "pressure": false,
+      "alpha": 0.11999999731779099
+    },
+    {
+      "material": "DW6 SEND core3",
+      "pressure": false,
+      "alpha": 0.49000000953674316
+    },
+    {
+      "material": "DW3 SEND core2",
+      "pressure": false,
+      "alpha": 0.6600000262260437
+    }
+  ]
+}

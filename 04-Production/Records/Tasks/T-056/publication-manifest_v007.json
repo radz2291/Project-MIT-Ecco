@@ -1,0 +1,218 @@
+{
+  "status": "proof only; full ticket incomplete; owner representation feedback pending",
+  "publication_files": [
+    {
+      "path": "04-Production/Records/Tasks/T-056/.gitignore",
+      "sha256": "20d0e7d35916a81b4d12634179e42bd6e698c006274373b5376547e8197f04a3",
+      "bytes": 203
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/report.md",
+      "sha256": "acefe4fd75ae4e9341abb423c8cce2b37cf9e553e0f355eaf5404876e3003ad8",
+      "bytes": 2877
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/pressure-proof-report_v007.md",
+      "sha256": "2a2daa9f9ee9581b4c05df68dd0375d30a587bac527b2c11ed2483e2f5b53d6b",
+      "bytes": 5699
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/local-waveform-research.md",
+      "sha256": "5a16a351651485e8612389f69ecd0e9c5b42f408ed261a8352bd7a3c218e320d",
+      "bytes": 6487
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/waveform-research.md",
+      "sha256": "9542ffe82b9d5c671aeae29ae0f5bac0ef935a7ad461fe365568ba3b653821d5",
+      "bytes": 3951
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/local-signal-data-audit.json",
+      "sha256": "c21712be6e310b8d4dda9547f15bf209ce9eb25f4fb3bc2810b82db7b75c8ce0",
+      "bytes": 10098
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/audit_local_signal_data.py",
+      "sha256": "c8590a64960c9dd671b92801c186f9402bd6505e9c34491fb40874da4c4a1d9d",
+      "bytes": 2222
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/pressure-model-verification_v005.json",
+      "sha256": "b6bebdfe8913be003a55608d6e1c2a14f3bccf61231a8154a183f73f1bbcc2b2",
+      "bytes": 1289
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/verify_pressure_model_v005.py",
+      "sha256": "3a8393f6a4992a12cac229462cef2f432a8a50531ad4b5e5e645553ecbfb3fea",
+      "bytes": 510
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/build_pressure_field_v005.py",
+      "sha256": "5bccc7c030da3ed068b03149449d3c36f488a30470ddb3c418b7a3e671b3b548",
+      "bytes": 5530
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/adapt_pressure_eevee_v006.py",
+      "sha256": "24a18b55b89b8ce30fad0393cf91e8f4987c90632051b452b2bb37b2ddc81f50",
+      "bytes": 3297
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/refine_pressure_fixture_v007.py",
+      "sha256": "a16abd22178a9ed404fe1fcddaca0b9744f57cc24171ba214751c7093940eb61",
+      "bytes": 1015
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/render_pressure_field_v005.py",
+      "sha256": "3037a9f1c64edf6b9809dc840bb0db0e7f329adaf3c3b09505b6c1df2137dd8c",
+      "bytes": 1026
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/render_pressure_field_v006.py",
+      "sha256": "cbdd9e1c022a4515916d52fa2bf39565258f1fbb882ca1ca4f659778879437d4",
+      "bytes": 1082
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/render_pressure_field_v007.py",
+      "sha256": "afca294872321b64acaca85d3d882c9e4d1f8f8787494afc32ba17a6af497876",
+      "bytes": 1083
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/pressure-build_v005.json",
+      "sha256": "196e8b481241a60d575bec2b07ff4cc29e7d436f7b76fe35d280fcfc47d6bd34",
+      "bytes": 3957
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/pressure-adapter_v006.json",
+      "sha256": "292c41087cde16ffc455f5517017699c4f032856a0e23eb6ebbdb756a4515035",
+      "bytes": 106540
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/pressure-benchmark_v005.json",
+      "sha256": "43682ad5d9e6ea0dfe166c936827d6c996023da75f4c068ea42d5c00b7f258d5",
+      "bytes": 422
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/pressure-benchmark_v006.json",
+      "sha256": "d86eb80b5bf6ea4d3635de8099e01070610a85e5662545923becd09f49494316",
+      "bytes": 217
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/pressure-benchmark_v007.json",
+      "sha256": "fd1e4b40910af395adb7a5b4e8cc2a1c6f65764f6ff481c49fc9cff909a8e3ab",
+      "bytes": 420
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/pressure-batch_v007.json",
+      "sha256": "faa886cdf27442ade67d9d59a4af869ada7484b52eabfd8953710d497d762b3c",
+      "bytes": 10846
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/event-projection.json",
+      "sha256": "df99cabc0b523398fee6ca349a34be4e04bf9885439a03a4f22ef5703edefe79",
+      "bytes": 59469
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/event-timing.json",
+      "sha256": "f4ffc588babaccb1863cc209fc7e7b532fe062b7cdf0e4c5a922d23786c8556d",
+      "bytes": 98005
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/source-inspection.json",
+      "sha256": "93715f24bedc8b82d448395c634bb540a269203be8edc8260408fa96248fcaf4",
+      "bytes": 37612
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/inspect_source.py",
+      "sha256": "90dd7e5c2854b05c26cfa7ca75556b0b3d38b9f489a81349ca85508abdfe7f18",
+      "bytes": 661
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/inspect_timing.py",
+      "sha256": "53bb13887c9a58fbb7be8ba86a5f724549b3e79f599096b2ee7f1ad6e412b5ab",
+      "bytes": 612
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/project_event.py",
+      "sha256": "e6d3f64c9e5a31e0def36e42f33e832cb4c8ee046fdbb96cdbe631166d34bf19",
+      "bytes": 1367
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/pressure_outbound_v007.png",
+      "sha256": "c0bb1af87b4df47125b44d81a8a33fe22229a1e977860e5d703b5fa2047ae554",
+      "bytes": 290985
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/pressure_contact_v007.png",
+      "sha256": "e274650a39e0d9ef8d2404a87080ba92f8ddd36d8a7e5e3e8cbb4ba6bb9f2ab7",
+      "bytes": 301124
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/pressure_return_v007.png",
+      "sha256": "3b95b2d6863a2338478196e3936fc145d146139dec28a80df216287b22afeeca",
+      "bytes": 297774
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/PressureField_v005/.gitignore",
+      "sha256": "e58b0918539f24443d80f42d943bceb904c10d6c58e2a602c7a4f6d1ec17a049",
+      "bytes": 53
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/PressureField_v005/README.md",
+      "sha256": "42fcd51d1659326a3ed91290bbe50f6d5a39dc8681fdc49d200a7cee1c79f823",
+      "bytes": 5993
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Scripts/pressure_model.py",
+      "sha256": "c07e24a59f165bae4e42f8e57b5ab5c38053c176b291b48c191132e1fac5c9d9",
+      "bytes": 9936
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Data/source_pulse.csv",
+      "sha256": "af019a2935a59c4399b3651fcc18fe9b92fc761d4fd3d3a6ee4b3a55c98349bb",
+      "bytes": 5377
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Data/source_pulse.json",
+      "sha256": "b875c17a8db4c7097bfb5bd858772f6b6aece9cb837e71f8464a4b37000c912e",
+      "bytes": 1490
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Data/receiver_model.csv",
+      "sha256": "b0c4c4c5bf04d5ee46d3bc4d39cf853fdae614798bf002dec2f6a73048ece692",
+      "bytes": 32819
+    }
+  ],
+  "local_only": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/PressureField_v007/S02_pressure-field-proof_v007.blend",
+      "sha256": "940efed0f0cb2254c8301a58141c40532e3fcf1528e7958638b6e8a40260e519",
+      "bytes": 18145138,
+      "storage": "local only, no upload or off-machine backup claimed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/pressure-field_v007_slow-review.mp4",
+      "sha256": "79d072cac103e17fd6a8bcdd408db98c1ed93db3911cca99bbd6538a1a76b96c",
+      "bytes": 613475,
+      "storage": "local only, no upload or off-machine backup claimed"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Data/pressure_field_samples.npz",
+      "sha256": "ed9f1471ec1f1a480d4665db5d6804d51b00a0b7c9725c2896fc1a64283d4a52",
+      "bytes": 27257,
+      "storage": "local only, no upload or off-machine backup claimed"
+    }
+  ],
+  "exclude": "all blend/video/raw frame folders, earlier rejected proof images, unvalidated wire-controls scaffold; explicit files only",
+  "model_version": "PressureField_v005",
+  "native_look_version": "PressureField_v007",
+  "timing": {
+    "frame_count": 105,
+    "native_first": 298,
+    "native_last": 324,
+    "native_increment": 0.25,
+    "video_fps": 24,
+    "video_seconds": 4.375,
+    "camera_playback": "4x slower than original native camera",
+    "physical_time_s": "(native_frame-300)*(0.024575852808900598/1500)/9"
+  }
+}

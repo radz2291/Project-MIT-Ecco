@@ -1,0 +1,37 @@
+{
+  "checks": {
+    "zero_before_source": true,
+    "receiver_echo_zero_before_roundtrip": true,
+    "wall_reflection_zero_before_contact": true,
+    "echo_gain_correct": true,
+    "wall_superposition_correct": true,
+    "double_speed_halves_delay_from_sampled_peak": true,
+    "double_speed_advances_sampled_support": true,
+    "zero_reflection_zero_echo": true,
+    "receiver_trace_not_treated_as_field": true,
+    "metadata_preserved": true,
+    "voltage_not_accepted_as_pressure_without_calibration": true,
+    "explicit_calibration_applied": true
+  },
+  "all_pass": true,
+  "gap_m": 0.024575852808900598,
+  "one_way_s": 1.63839018726004e-05,
+  "roundtrip_s": 3.27678037452008e-05,
+  "receiver_echo_gain": 0.45183246377400743,
+  "sampled_speed_check": {
+    "slow_peak_s": 3.59e-05,
+    "fast_peak_s": 1.9549999999999997e-05,
+    "slow_first_s": 3.28e-05,
+    "fast_first_s": 1.64e-05
+  },
+  "spectrum": {
+    "sample_rate_hz": 20000000.000000022,
+    "fft_peak_hz": 400085.44921875047,
+    "minus_6db_amplitude_band_hz": [
+      274047.8515625003,
+      526123.0468750006
+    ],
+    "strictly_bandlimited": false,
+    "note": "Finite smooth window has spectral tails; bandwidth measured from authored discrete samples, not ENP3 specification"
+  }
+}

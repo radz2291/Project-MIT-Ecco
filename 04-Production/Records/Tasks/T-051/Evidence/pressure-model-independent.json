@@ -1,0 +1,21 @@
+{
+  "kind": "independent numerical model verification; not physical calibration",
+  "model_path": "04-Production\\Shared\\Assets\\Acoustics\\PressureField_v005\\Scripts\\pressure_model.py",
+  "model_sha256": "c07e24a59f165bae4e42f8e57b5ab5c38053c176b291b48c191132e1fac5c9d9",
+  "checks": {
+    "no_echo_before_geometric_delay": true,
+    "double_speed_advances_actual_echo_by_half_roundtrip": true,
+    "double_distance_delays_actual_echo_one_roundtrip": true,
+    "signed_reflection_inverts_actual_samples": true,
+    "zero_reflection_removes_return": true,
+    "pulse_and_echo_end": true,
+    "superposition_0": true,
+    "superposition_1e-05": true,
+    "superposition_2e-05": true,
+    "superposition_3.5e-05": true,
+    "superposition_5e-05": true
+  },
+  "all_pass": true,
+  "roundtrip_s": 3.27678037452008e-05,
+  "observed_first_return_s": 3.277e-05
+}

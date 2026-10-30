@@ -1,0 +1,1519 @@
+{
+  "scene": "S01 continuous descent - rough camera study",
+  "camera": "CAM_S01_Continuous",
+  "frames": [
+    1,
+    528
+  ],
+  "objects": [
+    {
+      "name": "DW 1 contact digital nodes 0.012",
+      "type": "MESH",
+      "location": [
+        0.055753353983163834,
+        -0.1452425718307495,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 contact digital nodes 0.012Action"
+    },
+    {
+      "name": "DW 1 contact digital nodes 0.025",
+      "type": "MESH",
+      "location": [
+        0.055753353983163834,
+        -0.1452425718307495,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 contact digital nodes 0.025Action"
+    },
+    {
+      "name": "DW 1 contact digital nodes 0.038",
+      "type": "MESH",
+      "location": [
+        0.055753353983163834,
+        -0.1452425718307495,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 contact digital nodes 0.038Action"
+    },
+    {
+      "name": "DW 1 ECHO front0 core",
+      "type": "CURVE",
+      "location": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 ECHO front0 coreAction"
+    },
+    {
+      "name": "DW 1 ECHO front0 digital samples",
+      "type": "MESH",
+      "location": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 ECHO front0 digital samplesAction"
+    },
+    {
+      "name": "DW 1 ECHO front0 halo",
+      "type": "CURVE",
+      "location": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 ECHO front0 haloAction"
+    },
+    {
+      "name": "DW 1 ECHO front1 core",
+      "type": "CURVE",
+      "location": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 ECHO front1 coreAction"
+    },
+    {
+      "name": "DW 1 ECHO front1 digital samples",
+      "type": "MESH",
+      "location": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 ECHO front1 digital samplesAction"
+    },
+    {
+      "name": "DW 1 ECHO front1 halo",
+      "type": "CURVE",
+      "location": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 ECHO front1 haloAction"
+    },
+    {
+      "name": "DW 1 ECHO front2 core",
+      "type": "CURVE",
+      "location": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 ECHO front2 coreAction"
+    },
+    {
+      "name": "DW 1 ECHO front2 digital samples",
+      "type": "MESH",
+      "location": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 ECHO front2 digital samplesAction"
+    },
+    {
+      "name": "DW 1 ECHO front2 halo",
+      "type": "CURVE",
+      "location": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 ECHO front2 haloAction"
+    },
+    {
+      "name": "DW 1 fixed native contact pin",
+      "type": "MESH",
+      "location": [
+        0.055753353983163834,
+        -0.1452425718307495,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 fixed native contact pinAction"
+    },
+    {
+      "name": "DW 1 localized contact contour 0.012",
+      "type": "CURVE",
+      "location": [
+        0.055753353983163834,
+        -0.1452425718307495,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 localized contact contour 0.012Action"
+    },
+    {
+      "name": "DW 1 localized contact contour 0.025",
+      "type": "CURVE",
+      "location": [
+        0.055753353983163834,
+        -0.1452425718307495,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 localized contact contour 0.025Action"
+    },
+    {
+      "name": "DW 1 localized contact contour 0.038",
+      "type": "CURVE",
+      "location": [
+        0.055753353983163834,
+        -0.1452425718307495,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "DW 1 localized contact contour 0.038Action"
+    },
+    {
+      "name": "DW 2 contact digital nodes 0.012",
+      "type": "MESH",
+      "location": [
+        0.025781486183404922,
+        -0.15339259803295135,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 contact digital nodes 0.012Action"
+    },
+    {
+      "name": "DW 2 contact digital nodes 0.025",
+      "type": "MESH",
+      "location": [
+        0.025781486183404922,
+        -0.15339259803295135,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 contact digital nodes 0.025Action"
+    },
+    {
+      "name": "DW 2 contact digital nodes 0.038",
+      "type": "MESH",
+      "location": [
+        0.025781486183404922,
+        -0.15339259803295135,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 contact digital nodes 0.038Action"
+    },
+    {
+      "name": "DW 2 ECHO front0 core",
+      "type": "CURVE",
+      "location": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 ECHO front0 coreAction"
+    },
+    {
+      "name": "DW 2 ECHO front0 digital samples",
+      "type": "MESH",
+      "location": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 ECHO front0 digital samplesAction"
+    },
+    {
+      "name": "DW 2 ECHO front0 halo",
+      "type": "CURVE",
+      "location": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 ECHO front0 haloAction"
+    },
+    {
+      "name": "DW 2 ECHO front1 core",
+      "type": "CURVE",
+      "location": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 ECHO front1 coreAction"
+    },
+    {
+      "name": "DW 2 ECHO front1 digital samples",
+      "type": "MESH",
+      "location": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 ECHO front1 digital samplesAction"
+    },
+    {
+      "name": "DW 2 ECHO front1 halo",
+      "type": "CURVE",
+      "location": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 ECHO front1 haloAction"
+    },
+    {
+      "name": "DW 2 ECHO front2 core",
+      "type": "CURVE",
+      "location": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 ECHO front2 coreAction"
+    },
+    {
+      "name": "DW 2 ECHO front2 digital samples",
+      "type": "MESH",
+      "location": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 ECHO front2 digital samplesAction"
+    },
+    {
+      "name": "DW 2 ECHO front2 halo",
+      "type": "CURVE",
+      "location": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 ECHO front2 haloAction"
+    },
+    {
+      "name": "DW 2 fixed native contact pin",
+      "type": "MESH",
+      "location": [
+        0.025781486183404922,
+        -0.15339259803295135,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 fixed native contact pinAction"
+    },
+    {
+      "name": "DW 2 localized contact contour 0.012",
+      "type": "CURVE",
+      "location": [
+        0.025781486183404922,
+        -0.15339259803295135,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 localized contact contour 0.012Action"
+    },
+    {
+      "name": "DW 2 localized contact contour 0.025",
+      "type": "CURVE",
+      "location": [
+        0.025781486183404922,
+        -0.15339259803295135,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 localized contact contour 0.025Action"
+    },
+    {
+      "name": "DW 2 localized contact contour 0.038",
+      "type": "CURVE",
+      "location": [
+        0.025781486183404922,
+        -0.15339259803295135,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "DW 2 localized contact contour 0.038Action"
+    },
+    {
+      "name": "DW 3 contact digital nodes 0.012",
+      "type": "MESH",
+      "location": [
+        -0.005206243135035038,
+        -0.15543918311595917,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 contact digital nodes 0.012Action"
+    },
+    {
+      "name": "DW 3 contact digital nodes 0.025",
+      "type": "MESH",
+      "location": [
+        -0.005206243135035038,
+        -0.15543918311595917,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 contact digital nodes 0.025Action"
+    },
+    {
+      "name": "DW 3 contact digital nodes 0.038",
+      "type": "MESH",
+      "location": [
+        -0.005206243135035038,
+        -0.15543918311595917,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 contact digital nodes 0.038Action"
+    },
+    {
+      "name": "DW 3 ECHO front0 core",
+      "type": "CURVE",
+      "location": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 ECHO front0 coreAction"
+    },
+    {
+      "name": "DW 3 ECHO front0 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 ECHO front0 digital samplesAction"
+    },
+    {
+      "name": "DW 3 ECHO front0 halo",
+      "type": "CURVE",
+      "location": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 ECHO front0 haloAction"
+    },
+    {
+      "name": "DW 3 ECHO front1 core",
+      "type": "CURVE",
+      "location": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 ECHO front1 coreAction"
+    },
+    {
+      "name": "DW 3 ECHO front1 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 ECHO front1 digital samplesAction"
+    },
+    {
+      "name": "DW 3 ECHO front1 halo",
+      "type": "CURVE",
+      "location": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 ECHO front1 haloAction"
+    },
+    {
+      "name": "DW 3 ECHO front2 core",
+      "type": "CURVE",
+      "location": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 ECHO front2 coreAction"
+    },
+    {
+      "name": "DW 3 ECHO front2 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 ECHO front2 digital samplesAction"
+    },
+    {
+      "name": "DW 3 ECHO front2 halo",
+      "type": "CURVE",
+      "location": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 ECHO front2 haloAction"
+    },
+    {
+      "name": "DW 3 fixed native contact pin",
+      "type": "MESH",
+      "location": [
+        -0.005206243135035038,
+        -0.15543918311595917,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 fixed native contact pinAction"
+    },
+    {
+      "name": "DW 3 localized contact contour 0.012",
+      "type": "CURVE",
+      "location": [
+        -0.005206243135035038,
+        -0.15543918311595917,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 localized contact contour 0.012Action"
+    },
+    {
+      "name": "DW 3 localized contact contour 0.025",
+      "type": "CURVE",
+      "location": [
+        -0.005206243135035038,
+        -0.15543918311595917,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 localized contact contour 0.025Action"
+    },
+    {
+      "name": "DW 3 localized contact contour 0.038",
+      "type": "CURVE",
+      "location": [
+        -0.005206243135035038,
+        -0.15543918311595917,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "DW 3 localized contact contour 0.038Action"
+    },
+    {
+      "name": "DW 4 contact digital nodes 0.012",
+      "type": "MESH",
+      "location": [
+        -0.043500036001205444,
+        -0.14931686222553253,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 contact digital nodes 0.012Action"
+    },
+    {
+      "name": "DW 4 contact digital nodes 0.025",
+      "type": "MESH",
+      "location": [
+        -0.043500036001205444,
+        -0.14931686222553253,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 contact digital nodes 0.025Action"
+    },
+    {
+      "name": "DW 4 contact digital nodes 0.038",
+      "type": "MESH",
+      "location": [
+        -0.043500036001205444,
+        -0.14931686222553253,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 contact digital nodes 0.038Action"
+    },
+    {
+      "name": "DW 4 ECHO front0 core",
+      "type": "CURVE",
+      "location": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 ECHO front0 coreAction"
+    },
+    {
+      "name": "DW 4 ECHO front0 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 ECHO front0 digital samplesAction"
+    },
+    {
+      "name": "DW 4 ECHO front0 halo",
+      "type": "CURVE",
+      "location": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 ECHO front0 haloAction"
+    },
+    {
+      "name": "DW 4 ECHO front1 core",
+      "type": "CURVE",
+      "location": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 ECHO front1 coreAction"
+    },
+    {
+      "name": "DW 4 ECHO front1 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 ECHO front1 digital samplesAction"
+    },
+    {
+      "name": "DW 4 ECHO front1 halo",
+      "type": "CURVE",
+      "location": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 ECHO front1 haloAction"
+    },
+    {
+      "name": "DW 4 ECHO front2 core",
+      "type": "CURVE",
+      "location": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 ECHO front2 coreAction"
+    },
+    {
+      "name": "DW 4 ECHO front2 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 ECHO front2 digital samplesAction"
+    },
+    {
+      "name": "DW 4 ECHO front2 halo",
+      "type": "CURVE",
+      "location": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 ECHO front2 haloAction"
+    },
+    {
+      "name": "DW 4 fixed native contact pin",
+      "type": "MESH",
+      "location": [
+        -0.043500036001205444,
+        -0.14931686222553253,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 fixed native contact pinAction"
+    },
+    {
+      "name": "DW 4 localized contact contour 0.012",
+      "type": "CURVE",
+      "location": [
+        -0.043500036001205444,
+        -0.14931686222553253,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 localized contact contour 0.012Action"
+    },
+    {
+      "name": "DW 4 localized contact contour 0.025",
+      "type": "CURVE",
+      "location": [
+        -0.043500036001205444,
+        -0.14931686222553253,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 localized contact contour 0.025Action"
+    },
+    {
+      "name": "DW 4 localized contact contour 0.038",
+      "type": "CURVE",
+      "location": [
+        -0.043500036001205444,
+        -0.14931686222553253,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "DW 4 localized contact contour 0.038Action"
+    },
+    {
+      "name": "DW 5 contact digital nodes 0.012",
+      "type": "MESH",
+      "location": [
+        -0.07909897714853287,
+        -0.1339292824268341,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 contact digital nodes 0.012Action"
+    },
+    {
+      "name": "DW 5 contact digital nodes 0.025",
+      "type": "MESH",
+      "location": [
+        -0.07909897714853287,
+        -0.1339292824268341,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 contact digital nodes 0.025Action"
+    },
+    {
+      "name": "DW 5 contact digital nodes 0.038",
+      "type": "MESH",
+      "location": [
+        -0.07909897714853287,
+        -0.1339292824268341,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 contact digital nodes 0.038Action"
+    },
+    {
+      "name": "DW 5 ECHO front0 core",
+      "type": "CURVE",
+      "location": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 ECHO front0 coreAction"
+    },
+    {
+      "name": "DW 5 ECHO front0 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 ECHO front0 digital samplesAction"
+    },
+    {
+      "name": "DW 5 ECHO front0 halo",
+      "type": "CURVE",
+      "location": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 ECHO front0 haloAction"
+    },
+    {
+      "name": "DW 5 ECHO front1 core",
+      "type": "CURVE",
+      "location": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 ECHO front1 coreAction"
+    },
+    {
+      "name": "DW 5 ECHO front1 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 ECHO front1 digital samplesAction"
+    },
+    {
+      "name": "DW 5 ECHO front1 halo",
+      "type": "CURVE",
+      "location": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 ECHO front1 haloAction"
+    },
+    {
+      "name": "DW 5 ECHO front2 core",
+      "type": "CURVE",
+      "location": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 ECHO front2 coreAction"
+    },
+    {
+      "name": "DW 5 ECHO front2 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 ECHO front2 digital samplesAction"
+    },
+    {
+      "name": "DW 5 ECHO front2 halo",
+      "type": "CURVE",
+      "location": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 ECHO front2 haloAction"
+    },
+    {
+      "name": "DW 5 fixed native contact pin",
+      "type": "MESH",
+      "location": [
+        -0.07909897714853287,
+        -0.1339292824268341,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 fixed native contact pinAction"
+    },
+    {
+      "name": "DW 5 localized contact contour 0.012",
+      "type": "CURVE",
+      "location": [
+        -0.07909897714853287,
+        -0.1339292824268341,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 localized contact contour 0.012Action"
+    },
+    {
+      "name": "DW 5 localized contact contour 0.025",
+      "type": "CURVE",
+      "location": [
+        -0.07909897714853287,
+        -0.1339292824268341,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 localized contact contour 0.025Action"
+    },
+    {
+      "name": "DW 5 localized contact contour 0.038",
+      "type": "CURVE",
+      "location": [
+        -0.07909897714853287,
+        -0.1339292824268341,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "DW 5 localized contact contour 0.038Action"
+    },
+    {
+      "name": "DW 6 contact digital nodes 0.012",
+      "type": "MESH",
+      "location": [
+        -0.09455037862062454,
+        -0.12348036468029022,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 contact digital nodes 0.012Action"
+    },
+    {
+      "name": "DW 6 contact digital nodes 0.025",
+      "type": "MESH",
+      "location": [
+        -0.09455037862062454,
+        -0.12348036468029022,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 contact digital nodes 0.025Action"
+    },
+    {
+      "name": "DW 6 contact digital nodes 0.038",
+      "type": "MESH",
+      "location": [
+        -0.09455037862062454,
+        -0.12348036468029022,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 contact digital nodes 0.038Action"
+    },
+    {
+      "name": "DW 6 ECHO front0 core",
+      "type": "CURVE",
+      "location": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 ECHO front0 coreAction"
+    },
+    {
+      "name": "DW 6 ECHO front0 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 ECHO front0 digital samplesAction"
+    },
+    {
+      "name": "DW 6 ECHO front0 halo",
+      "type": "CURVE",
+      "location": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 ECHO front0 haloAction"
+    },
+    {
+      "name": "DW 6 ECHO front1 core",
+      "type": "CURVE",
+      "location": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 ECHO front1 coreAction"
+    },
+    {
+      "name": "DW 6 ECHO front1 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 ECHO front1 digital samplesAction"
+    },
+    {
+      "name": "DW 6 ECHO front1 halo",
+      "type": "CURVE",
+      "location": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 ECHO front1 haloAction"
+    },
+    {
+      "name": "DW 6 ECHO front2 core",
+      "type": "CURVE",
+      "location": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 ECHO front2 coreAction"
+    },
+    {
+      "name": "DW 6 ECHO front2 digital samples",
+      "type": "MESH",
+      "location": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 ECHO front2 digital samplesAction"
+    },
+    {
+      "name": "DW 6 ECHO front2 halo",
+      "type": "CURVE",
+      "location": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 ECHO front2 haloAction"
+    },
+    {
+      "name": "DW 6 fixed native contact pin",
+      "type": "MESH",
+      "location": [
+        -0.09455037862062454,
+        -0.12348036468029022,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 fixed native contact pinAction"
+    },
+    {
+      "name": "DW 6 localized contact contour 0.012",
+      "type": "CURVE",
+      "location": [
+        -0.09455037862062454,
+        -0.12348036468029022,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 localized contact contour 0.012Action"
+    },
+    {
+      "name": "DW 6 localized contact contour 0.025",
+      "type": "CURVE",
+      "location": [
+        -0.09455037862062454,
+        -0.12348036468029022,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 localized contact contour 0.025Action"
+    },
+    {
+      "name": "DW 6 localized contact contour 0.038",
+      "type": "CURVE",
+      "location": [
+        -0.09455037862062454,
+        -0.12348036468029022,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "DW 6 localized contact contour 0.038Action"
+    },
+    {
+      "name": "MEASURE 1 temporary contact at same centre",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 1 temporary contact at same centreAction"
+    },
+    {
+      "name": "MEASURE 2 temporary contact at same centre",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 2 temporary contact at same centreAction"
+    },
+    {
+      "name": "MEASURE 3 temporary contact at same centre",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 3 temporary contact at same centreAction"
+    },
+    {
+      "name": "MEASURE 4 temporary contact at same centre",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 4 temporary contact at same centreAction"
+    },
+    {
+      "name": "MEASURE 5 temporary contact at same centre",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 5 temporary contact at same centreAction"
+    },
+    {
+      "name": "MEASURE 6 temporary contact at same centre",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 6 temporary contact at same centreAction"
+    },
+    {
+      "name": "S02 1 ECHO",
+      "type": "CURVE",
+      "location": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "props": {},
+      "action": "S02 1 ECHOAction.001"
+    },
+    {
+      "name": "S02 1 temporary contact",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 1 temporary contactAction"
+    },
+    {
+      "name": "S02 2 ECHO",
+      "type": "CURVE",
+      "location": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "props": {},
+      "action": "S02 2 ECHOAction.001"
+    },
+    {
+      "name": "S02 2 temporary contact",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 2 temporary contactAction"
+    },
+    {
+      "name": "S02 3 ECHO",
+      "type": "CURVE",
+      "location": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "props": {},
+      "action": "S02 3 ECHOAction.001"
+    },
+    {
+      "name": "S02 3 temporary contact",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 3 temporary contactAction"
+    },
+    {
+      "name": "S02 4 ECHO",
+      "type": "CURVE",
+      "location": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "props": {},
+      "action": "S02 4 ECHOAction.001"
+    },
+    {
+      "name": "S02 4 temporary contact",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 4 temporary contactAction"
+    },
+    {
+      "name": "S02 5 ECHO",
+      "type": "CURVE",
+      "location": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "props": {},
+      "action": "S02 5 ECHOAction.001"
+    },
+    {
+      "name": "S02 5 temporary contact",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 5 temporary contactAction"
+    },
+    {
+      "name": "S02 6 ECHO",
+      "type": "CURVE",
+      "location": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "props": {},
+      "action": "S02 6 ECHOAction.001"
+    },
+    {
+      "name": "S02 6 temporary contact",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 6 temporary contactAction"
+    },
+    {
+      "name": "S02 geological contact wall 1",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 geological contact wall 1Action"
+    },
+    {
+      "name": "S02 geological contact wall 2",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 geological contact wall 2Action"
+    },
+    {
+      "name": "S02 geological contact wall 3",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 geological contact wall 3Action"
+    },
+    {
+      "name": "S02 geological contact wall 4",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 geological contact wall 4Action"
+    },
+    {
+      "name": "S02 geological contact wall 5",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 geological contact wall 5Action"
+    },
+    {
+      "name": "S02 geological contact wall 6",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 geological contact wall 6Action"
+    },
+    {
+      "name": "S02 side sensor 1",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 side sensor 1Action.001"
+    },
+    {
+      "name": "S02 side sensor 2",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 side sensor 2Action.001"
+    },
+    {
+      "name": "S02 side sensor 3",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": "S02 side sensor 3Action.001"
+    },
+    {
+      "name": "Unified measurement 1 contact",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 1 temporary contact at same centreAction.001"
+    },
+    {
+      "name": "Unified measurement 2 contact",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 2 temporary contact at same centreAction.001"
+    },
+    {
+      "name": "Unified measurement 3 contact",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 3 temporary contact at same centreAction.001"
+    },
+    {
+      "name": "Unified measurement 4 contact",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 4 temporary contact at same centreAction.001"
+    },
+    {
+      "name": "Unified measurement 5 contact",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 5 temporary contact at same centreAction.001"
+    },
+    {
+      "name": "Unified measurement 6 contact",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "stationary_wall_record": "True"
+      },
+      "action": "MEASURE 6 temporary contact at same centreAction.001"
+    },
+    {
+      "name": "ECCO_MUD_SENSOR_UNLOCATED",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "props": {
+        "status": "Unlocated. Origin is placeholder only; MUST NOT emit effects or be treated as a sensor position."
+      },
+      "action": null
+    },
+    {
+      "name": "ECCO_SENSOR_PLANE_PROVISIONAL",
+      "type": "EMPTY",
+      "location": [
+        0.7300000190734863,
+        0.0,
+        0.0
+      ],
+      "props": {},
+      "action": null
+    },
+    {
+      "name": "ECCO_SENSOR_REF_01",
+      "type": "EMPTY",
+      "location": [
+        0.7300000190734863,
+        0.10025183111429214,
+        0.0811823308467865
+      ],
+      "props": {
+        "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+        "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+      },
+      "action": null
+    },
+    {
+      "name": "ECCO_SENSOR_REF_02",
+      "type": "EMPTY",
+      "location": [
+        0.7300000190734863,
+        -0.12043187767267227,
+        0.046229466795921326
+      ],
+      "props": {
+        "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+        "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+      },
+      "action": null
+    },
+    {
+      "name": "ECCO_SENSOR_REF_03",
+      "type": "EMPTY",
+      "location": [
+        0.7300000190734863,
+        0.020180046558380127,
+        -0.12741179764270782
+      ],
+      "props": {
+        "status": "PROVISIONAL recess rim centre from inherited report; not transducer/acoustic face",
+        "source": "Originals/Client_Confirmed_Sensor.png + IMPLEMENTATION_REPORT.md; 39/159/279 deg in source YZ plane"
+      },
+      "action": null
+    }
+  ]
+}

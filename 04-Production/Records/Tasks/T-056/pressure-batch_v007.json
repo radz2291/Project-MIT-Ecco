@@ -1,0 +1,430 @@
+{
+  "engine": "BLENDER_EEVEE",
+  "resolution": [
+    640,
+    360
+  ],
+  "samples": 16,
+  "records": [
+    {
+      "native_frame": 298.0,
+      "seconds_full_render_to_file": 2.2571552000008523
+    },
+    {
+      "native_frame": 298.25,
+      "seconds_full_render_to_file": 0.941173700033687
+    },
+    {
+      "native_frame": 298.5,
+      "seconds_full_render_to_file": 0.9609934999607503
+    },
+    {
+      "native_frame": 298.75,
+      "seconds_full_render_to_file": 1.0533360000699759
+    },
+    {
+      "native_frame": 299.0,
+      "seconds_full_render_to_file": 0.9262840999290347
+    },
+    {
+      "native_frame": 299.25,
+      "seconds_full_render_to_file": 0.9454163999762386
+    },
+    {
+      "native_frame": 299.5,
+      "seconds_full_render_to_file": 0.949067100067623
+    },
+    {
+      "native_frame": 299.75,
+      "seconds_full_render_to_file": 0.9732652999227867
+    },
+    {
+      "native_frame": 300.0,
+      "seconds_full_render_to_file": 0.995201800018549
+    },
+    {
+      "native_frame": 300.25,
+      "seconds_full_render_to_file": 1.05815239995718
+    },
+    {
+      "native_frame": 300.5,
+      "seconds_full_render_to_file": 0.9859844000311568
+    },
+    {
+      "native_frame": 300.75,
+      "seconds_full_render_to_file": 0.9261489000637084
+    },
+    {
+      "native_frame": 301.0,
+      "seconds_full_render_to_file": 0.9764774999348447
+    },
+    {
+      "native_frame": 301.25,
+      "seconds_full_render_to_file": 1.0148366999346763
+    },
+    {
+      "native_frame": 301.5,
+      "seconds_full_render_to_file": 0.990771200042218
+    },
+    {
+      "native_frame": 301.75,
+      "seconds_full_render_to_file": 1.0857558000134304
+    },
+    {
+      "native_frame": 302.0,
+      "seconds_full_render_to_file": 1.046506499988027
+    },
+    {
+      "native_frame": 302.25,
+      "seconds_full_render_to_file": 0.935849400004372
+    },
+    {
+      "native_frame": 302.5,
+      "seconds_full_render_to_file": 0.958633599919267
+    },
+    {
+      "native_frame": 302.75,
+      "seconds_full_render_to_file": 0.9571267999708652
+    },
+    {
+      "native_frame": 303.0,
+      "seconds_full_render_to_file": 1.4253443999914452
+    },
+    {
+      "native_frame": 303.25,
+      "seconds_full_render_to_file": 1.128773899981752
+    },
+    {
+      "native_frame": 303.5,
+      "seconds_full_render_to_file": 1.1495349000906572
+    },
+    {
+      "native_frame": 303.75,
+      "seconds_full_render_to_file": 1.236476399935782
+    },
+    {
+      "native_frame": 304.0,
+      "seconds_full_render_to_file": 1.189187900046818
+    },
+    {
+      "native_frame": 304.25,
+      "seconds_full_render_to_file": 1.2101802000543103
+    },
+    {
+      "native_frame": 304.5,
+      "seconds_full_render_to_file": 1.0935444999486208
+    },
+    {
+      "native_frame": 304.75,
+      "seconds_full_render_to_file": 1.1122105999384075
+    },
+    {
+      "native_frame": 305.0,
+      "seconds_full_render_to_file": 1.063181799952872
+    },
+    {
+      "native_frame": 305.25,
+      "seconds_full_render_to_file": 1.49233399995137
+    },
+    {
+      "native_frame": 305.5,
+      "seconds_full_render_to_file": 1.1676039999583736
+    },
+    {
+      "native_frame": 305.75,
+      "seconds_full_render_to_file": 1.136470100027509
+    },
+    {
+      "native_frame": 306.0,
+      "seconds_full_render_to_file": 1.0804298999719322
+    },
+    {
+      "native_frame": 306.25,
+      "seconds_full_render_to_file": 1.0787811999907717
+    },
+    {
+      "native_frame": 306.5,
+      "seconds_full_render_to_file": 1.2558330999454483
+    },
+    {
+      "native_frame": 306.75,
+      "seconds_full_render_to_file": 1.0693584000691772
+    },
+    {
+      "native_frame": 307.0,
+      "seconds_full_render_to_file": 1.0331850000657141
+    },
+    {
+      "native_frame": 307.25,
+      "seconds_full_render_to_file": 1.2509004999883473
+    },
+    {
+      "native_frame": 307.5,
+      "seconds_full_render_to_file": 1.092500799917616
+    },
+    {
+      "native_frame": 307.75,
+      "seconds_full_render_to_file": 1.1935217999853194
+    },
+    {
+      "native_frame": 308.0,
+      "seconds_full_render_to_file": 1.2371012000367045
+    },
+    {
+      "native_frame": 308.25,
+      "seconds_full_render_to_file": 1.015565300011076
+    },
+    {
+      "native_frame": 308.5,
+      "seconds_full_render_to_file": 1.4897143000271171
+    },
+    {
+      "native_frame": 308.75,
+      "seconds_full_render_to_file": 1.0782234999351203
+    },
+    {
+      "native_frame": 309.0,
+      "seconds_full_render_to_file": 1.0258230000035837
+    },
+    {
+      "native_frame": 309.25,
+      "seconds_full_render_to_file": 1.4188970000250265
+    },
+    {
+      "native_frame": 309.5,
+      "seconds_full_render_to_file": 1.5320536999497563
+    },
+    {
+      "native_frame": 309.75,
+      "seconds_full_render_to_file": 2.352837900049053
+    },
+    {
+      "native_frame": 310.0,
+      "seconds_full_render_to_file": 1.776741199893877
+    },
+    {
+      "native_frame": 310.25,
+      "seconds_full_render_to_file": 1.77866160008125
+    },
+    {
+      "native_frame": 310.5,
+      "seconds_full_render_to_file": 1.704746100003831
+    },
+    {
+      "native_frame": 310.75,
+      "seconds_full_render_to_file": 2.0839867999311537
+    },
+    {
+      "native_frame": 311.0,
+      "seconds_full_render_to_file": 1.7717400001129135
+    },
+    {
+      "native_frame": 311.25,
+      "seconds_full_render_to_file": 1.4670824999921024
+    },
+    {
+      "native_frame": 311.5,
+      "seconds_full_render_to_file": 1.2577221000101417
+    },
+    {
+      "native_frame": 311.75,
+      "seconds_full_render_to_file": 0.9749260999960825
+    },
+    {
+      "native_frame": 312.0,
+      "seconds_full_render_to_file": 1.1286267000250518
+    },
+    {
+      "native_frame": 312.25,
+      "seconds_full_render_to_file": 0.998736499925144
+    },
+    {
+      "native_frame": 312.5,
+      "seconds_full_render_to_file": 0.98759459995199
+    },
+    {
+      "native_frame": 312.75,
+      "seconds_full_render_to_file": 0.9959669000236318
+    },
+    {
+      "native_frame": 313.0,
+      "seconds_full_render_to_file": 1.0112461999524385
+    },
+    {
+      "native_frame": 313.25,
+      "seconds_full_render_to_file": 1.185339199961163
+    },
+    {
+      "native_frame": 313.5,
+      "seconds_full_render_to_file": 1.1897866999497637
+    },
+    {
+      "native_frame": 313.75,
+      "seconds_full_render_to_file": 1.0613785999594256
+    },
+    {
+      "native_frame": 314.0,
+      "seconds_full_render_to_file": 1.0266062999144197
+    },
+    {
+      "native_frame": 314.25,
+      "seconds_full_render_to_file": 0.9960559000028297
+    },
+    {
+      "native_frame": 314.5,
+      "seconds_full_render_to_file": 1.1005439000437036
+    },
+    {
+      "native_frame": 314.75,
+      "seconds_full_render_to_file": 1.026299300021492
+    },
+    {
+      "native_frame": 315.0,
+      "seconds_full_render_to_file": 1.5220331000164151
+    },
+    {
+      "native_frame": 315.25,
+      "seconds_full_render_to_file": 0.9966862000292167
+    },
+    {
+      "native_frame": 315.5,
+      "seconds_full_render_to_file": 1.2693648000713438
+    },
+    {
+      "native_frame": 315.75,
+      "seconds_full_render_to_file": 1.0075919999508187
+    },
+    {
+      "native_frame": 316.0,
+      "seconds_full_render_to_file": 1.0364373000338674
+    },
+    {
+      "native_frame": 316.25,
+      "seconds_full_render_to_file": 1.0949358999496326
+    },
+    {
+      "native_frame": 316.5,
+      "seconds_full_render_to_file": 1.4121551000280306
+    },
+    {
+      "native_frame": 316.75,
+      "seconds_full_render_to_file": 1.351479599950835
+    },
+    {
+      "native_frame": 317.0,
+      "seconds_full_render_to_file": 1.7846649999264628
+    },
+    {
+      "native_frame": 317.25,
+      "seconds_full_render_to_file": 1.8453353999648243
+    },
+    {
+      "native_frame": 317.5,
+      "seconds_full_render_to_file": 1.295134300016798
+    },
+    {
+      "native_frame": 317.75,
+      "seconds_full_render_to_file": 1.0821941000176594
+    },
+    {
+      "native_frame": 318.0,
+      "seconds_full_render_to_file": 1.2153957999544218
+    },
+    {
+      "native_frame": 318.25,
+      "seconds_full_render_to_file": 1.0550545000005513
+    },
+    {
+      "native_frame": 318.5,
+      "seconds_full_render_to_file": 1.1548181000398472
+    },
+    {
+      "native_frame": 318.75,
+      "seconds_full_render_to_file": 1.0127008999697864
+    },
+    {
+      "native_frame": 319.0,
+      "seconds_full_render_to_file": 1.3360488000325859
+    },
+    {
+      "native_frame": 319.25,
+      "seconds_full_render_to_file": 1.3108787999954075
+    },
+    {
+      "native_frame": 319.5,
+      "seconds_full_render_to_file": 0.9919053000630811
+    },
+    {
+      "native_frame": 319.75,
+      "seconds_full_render_to_file": 0.9947339000646025
+    },
+    {
+      "native_frame": 320.0,
+      "seconds_full_render_to_file": 1.0047440000344068
+    },
+    {
+      "native_frame": 320.25,
+      "seconds_full_render_to_file": 1.2522037000162527
+    },
+    {
+      "native_frame": 320.5,
+      "seconds_full_render_to_file": 1.0462360000237823
+    },
+    {
+      "native_frame": 320.75,
+      "seconds_full_render_to_file": 1.195176100009121
+    },
+    {
+      "native_frame": 321.0,
+      "seconds_full_render_to_file": 1.0189714001026005
+    },
+    {
+      "native_frame": 321.25,
+      "seconds_full_render_to_file": 0.9857062000082806
+    },
+    {
+      "native_frame": 321.5,
+      "seconds_full_render_to_file": 0.9014912999700755
+    },
+    {
+      "native_frame": 321.75,
+      "seconds_full_render_to_file": 0.9197864999296144
+    },
+    {
+      "native_frame": 322.0,
+      "seconds_full_render_to_file": 0.9154797999653965
+    },
+    {
+      "native_frame": 322.25,
+      "seconds_full_render_to_file": 1.1183107999386266
+    },
+    {
+      "native_frame": 322.5,
+      "seconds_full_render_to_file": 0.9547741999849677
+    },
+    {
+      "native_frame": 322.75,
+      "seconds_full_render_to_file": 1.0161124999867752
+    },
+    {
+      "native_frame": 323.0,
+      "seconds_full_render_to_file": 0.9625676000723615
+    },
+    {
+      "native_frame": 323.25,
+      "seconds_full_render_to_file": 0.9344813999487087
+    },
+    {
+      "native_frame": 323.5,
+      "seconds_full_render_to_file": 0.909332999959588
+    },
+    {
+      "native_frame": 323.75,
+      "seconds_full_render_to_file": 0.9041498999577016
+    },
+    {
+      "native_frame": 324.0,
+      "seconds_full_render_to_file": 0.9739469999913126
+    }
+  ]
+}

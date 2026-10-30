@@ -1,0 +1,22 @@
+{
+  "engine": "BLENDER_EEVEE",
+  "resolution": [
+    640,
+    360
+  ],
+  "samples": 16,
+  "records": [
+    {
+      "native_frame": 305.5,
+      "seconds_full_render_to_file": 2.627798399887979
+    },
+    {
+      "native_frame": 310.5,
+      "seconds_full_render_to_file": 1.115939399925992
+    },
+    {
+      "native_frame": 316.5,
+      "seconds_full_render_to_file": 1.1178065999411047
+    }
+  ]
+}

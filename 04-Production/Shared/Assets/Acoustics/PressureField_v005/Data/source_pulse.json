@@ -1,0 +1,37 @@
+{
+  "kind": "assumed_model",
+  "source_label": "Finite Hann-tapered exponentially damped sinusoid",
+  "signal_role": "source_pressure",
+  "time_unit": "s",
+  "amplitude_unit": "normalized_pressure",
+  "normalization": "divide authored pulse by its maximum absolute sample; damping changes normalized shape/spectrum, not predicted absolute power",
+  "time_zero_definition": "start of modeled source pulse",
+  "measured_ECCO": false,
+  "parameters": {
+    "gap_m": 0.024575852808900598,
+    "sound_speed_m_s": 1500.0,
+    "carrier_hz": 400000.0,
+    "pulse_duration_s": 8e-06,
+    "decay_s": 6e-06,
+    "sample_interval_s": 5e-08,
+    "attenuation_np_m": 4.0,
+    "pressure_reflection": 0.55
+  },
+  "spectrum": {
+    "sample_rate_hz": 20000000.000000022,
+    "fft_peak_hz": 400085.44921875047,
+    "minus_6db_amplitude_band_hz": [
+      274047.8515625003,
+      526123.0468750006
+    ],
+    "strictly_bandlimited": false,
+    "note": "Finite smooth window has spectral tails; bandwidth measured from authored discrete samples, not ENP3 specification"
+  },
+  "limits": [
+    "1-D homogeneous nondispersive fluid",
+    "single planar scalar reflection",
+    "no diffraction, beam spreading, shear conversion, transducer response, receiver filter, noise or multiple interfaces",
+    "input receiver trace does not uniquely reconstruct full field",
+    "display gain is separate from physical amplitude; normalization prevents absolute-output prediction"
+  ]
+}

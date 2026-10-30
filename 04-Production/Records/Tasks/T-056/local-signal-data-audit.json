@@ -1,0 +1,424 @@
+{
+  "search_roots": [
+    "01-Brief",
+    "02-Reference",
+    "03-Context",
+    "04-Production",
+    "05-Previs"
+  ],
+  "excluded_directory_names": [
+    ".git",
+    "Cache",
+    "Scratch",
+    "__pycache__",
+    "node_modules"
+  ],
+  "extensions": [
+    ".bin",
+    ".csv",
+    ".dat",
+    ".dlis",
+    ".exe",
+    ".h5",
+    ".hdf5",
+    ".las",
+    ".mat",
+    ".npy",
+    ".npz",
+    ".xlsx"
+  ],
+  "candidate_files": [
+    {
+      "path": "03-Context/02_Storyboard/V1/Padlet - ECCO Draft Storyboard/Comments - ecco-draft-storyboard.csv",
+      "bytes": 1616
+    },
+    {
+      "path": "03-Context/02_Storyboard/V1/Padlet - ECCO Draft Storyboard/Posts - ecco-draft-storyboard.csv",
+      "bytes": 47291
+    },
+    {
+      "path": "03-Context/02_Storyboard/V1/Padlet - ECCO Draft Storyboard/Reactions - ecco-draft-storyboard.csv",
+      "bytes": 43
+    },
+    {
+      "path": "03-Context/02_Storyboard/V1/Padlet - ECCO Draft Storyboard/Summary - ecco-draft-storyboard.csv",
+      "bytes": 171
+    },
+    {
+      "path": "04-Production/Records/panel-shot-map_v001.csv",
+      "bytes": 7900
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-008/Evidence/v009/comparison_trace_depth3m_v009.csv",
+      "bytes": 74434
+    },
+    {
+      "path": "04-Production/Studies/S06_Report-Recreation_v004/Data/story_field.npz",
+      "bytes": 6612
+    },
+    {
+      "path": "04-Production/Studies/S06_Report-Recreation_v004/Data/visual_structure.npz",
+      "bytes": 10060
+    },
+    {
+      "path": "04-Production/Studies/S06_Sculpted-Information_v001/Data/surface_samples.npz",
+      "bytes": 78092
+    },
+    {
+      "path": "04-Production/Studies/S06_Sculpted-Information_v002/Data/derived_report_arrays.npz",
+      "bytes": 2913
+    },
+    {
+      "path": "04-Production/Studies/S06_Sculpted-Information_v002/Data/independent_amplitude.npz",
+      "bytes": 87291
+    },
+    {
+      "path": "04-Production/Studies/S06_Sculpted-Information_v002/Data/surface_samples.npz",
+      "bytes": 78092
+    },
+    {
+      "path": "05-Previs/Section-03_The-Earth-Revealed/Closure/KEEP-REMOVE.csv",
+      "bytes": 7732
+    },
+    {
+      "path": "05-Previs/Section-03_The-Earth-Revealed/v023/Data/S03_computed-radius_v023.npz",
+      "bytes": 2348179
+    },
+    {
+      "path": "05-Previs/Section-03_The-Earth-Revealed/v023/Data/S03_evaluated-section_v023.npz",
+      "bytes": 3027
+    },
+    {
+      "path": "05-Previs/Section-04_Cement-Casing-Integrity/D-Physical-Wear_v016/Records/computed-wear-samples.csv",
+      "bytes": 63061
+    }
+  ],
+  "npz_headers": [
+    {
+      "path": "04-Production/Studies/S06_Report-Recreation_v004/Data/story_field.npz",
+      "fields": {
+        "radius": {
+          "shape": [
+            192,
+            96
+          ],
+          "dtype": "float64"
+        },
+        "geometry": {
+          "shape": [
+            192,
+            96
+          ],
+          "dtype": "float64"
+        },
+        "amplitude": {
+          "shape": [
+            192,
+            96
+          ],
+          "dtype": "float64"
+        },
+        "theta": {
+          "shape": [
+            96
+          ],
+          "dtype": "float64"
+        },
+        "z": {
+          "shape": [
+            192
+          ],
+          "dtype": "float64"
+        },
+        "diameter": {
+          "shape": [
+            3,
+            192
+          ],
+          "dtype": "float64"
+        },
+        "R": {
+          "shape": [],
+          "dtype": "float64"
+        },
+        "H": {
+          "shape": [],
+          "dtype": "float64"
+        }
+      }
+    },
+    {
+      "path": "04-Production/Studies/S06_Report-Recreation_v004/Data/visual_structure.npz",
+      "fields": {
+        "geometry_visual": {
+          "shape": [
+            384,
+            96
+          ],
+          "dtype": "float64"
+        },
+        "amplitude_visual": {
+          "shape": [
+            384,
+            96
+          ],
+          "dtype": "float64"
+        },
+        "silhouette_radius": {
+          "shape": [
+            384
+          ],
+          "dtype": "float64"
+        },
+        "profile_visual": {
+          "shape": [
+            512
+          ],
+          "dtype": "float64"
+        },
+        "sections_visual": {
+          "shape": [
+            2,
+            181
+          ],
+          "dtype": "float64"
+        }
+      }
+    },
+    {
+      "path": "04-Production/Studies/S06_Sculpted-Information_v001/Data/surface_samples.npz",
+      "fields": {
+        "radius_m": {
+          "shape": [
+            125,
+            192
+          ],
+          "dtype": "float32"
+        },
+        "depth_from_interval_top_m": {
+          "shape": [
+            125
+          ],
+          "dtype": "float32"
+        },
+        "source_z_m": {
+          "shape": [
+            125
+          ],
+          "dtype": "float32"
+        },
+        "source_row": {
+          "shape": [
+            125
+          ],
+          "dtype": "int64"
+        },
+        "source_col": {
+          "shape": [
+            192
+          ],
+          "dtype": "int64"
+        },
+        "source_azimuth_radians": {
+          "shape": [
+            192
+          ],
+          "dtype": "float32"
+        },
+        "relative_azimuth_radians": {
+          "shape": [
+            192
+          ],
+          "dtype": "float64"
+        }
+      }
+    },
+    {
+      "path": "04-Production/Studies/S06_Sculpted-Information_v002/Data/derived_report_arrays.npz",
+      "fields": {
+        "diameter_min_m": {
+          "shape": [
+            125
+          ],
+          "dtype": "float32"
+        },
+        "diameter_mean_m": {
+          "shape": [
+            125
+          ],
+          "dtype": "float32"
+        },
+        "diameter_max_m": {
+          "shape": [
+            125
+          ],
+          "dtype": "float32"
+        },
+        "radial_std_m": {
+          "shape": [
+            125
+          ],
+          "dtype": "float32"
+        },
+        "cross_section_rows": {
+          "shape": [
+            3
+          ],
+          "dtype": "int64"
+        }
+      }
+    },
+    {
+      "path": "04-Production/Studies/S06_Sculpted-Information_v002/Data/independent_amplitude.npz",
+      "fields": {
+        "amplitude_normalized": {
+          "shape": [
+            125,
+            192
+          ],
+          "dtype": "float32"
+        },
+        "relative_depth_m": {
+          "shape": [
+            125
+          ],
+          "dtype": "float32"
+        },
+        "relative_azimuth_radians": {
+          "shape": [
+            192
+          ],
+          "dtype": "float64"
+        }
+      }
+    },
+    {
+      "path": "04-Production/Studies/S06_Sculpted-Information_v002/Data/surface_samples.npz",
+      "fields": {
+        "radius_m": {
+          "shape": [
+            125,
+            192
+          ],
+          "dtype": "float32"
+        },
+        "depth_from_interval_top_m": {
+          "shape": [
+            125
+          ],
+          "dtype": "float32"
+        },
+        "source_z_m": {
+          "shape": [
+            125
+          ],
+          "dtype": "float32"
+        },
+        "source_row": {
+          "shape": [
+            125
+          ],
+          "dtype": "int64"
+        },
+        "source_col": {
+          "shape": [
+            192
+          ],
+          "dtype": "int64"
+        },
+        "source_azimuth_radians": {
+          "shape": [
+            192
+          ],
+          "dtype": "float32"
+        },
+        "relative_azimuth_radians": {
+          "shape": [
+            192
+          ],
+          "dtype": "float64"
+        }
+      }
+    },
+    {
+      "path": "05-Previs/Section-03_The-Earth-Revealed/v023/Data/S03_computed-radius_v023.npz",
+      "fields": {
+        "azimuth_radians": {
+          "shape": [
+            384
+          ],
+          "dtype": "float32"
+        },
+        "stage_z_m": {
+          "shape": [
+            1027
+          ],
+          "dtype": "float32"
+        },
+        "actual_radius_m": {
+          "shape": [
+            1027,
+            384
+          ],
+          "dtype": "float32"
+        },
+        "approved_resampled_radius_m": {
+          "shape": [
+            1027,
+            384
+          ],
+          "dtype": "float32"
+        }
+      }
+    },
+    {
+      "path": "05-Previs/Section-03_The-Earth-Revealed/v023/Data/S03_evaluated-section_v023.npz",
+      "fields": {
+        "azimuth_radians": {
+          "shape": [
+            384
+          ],
+          "dtype": "float32"
+        },
+        "actual_evaluated_radius_m": {
+          "shape": [
+            384
+          ],
+          "dtype": "float32"
+        },
+        "stage_z_m": {
+          "shape": [
+            1
+          ],
+          "dtype": "float32"
+        }
+      }
+    }
+  ],
+  "B202_event_example": {
+    "path": "04-Production/Mechanisms/B202/Data/v009/irregular_layers_events_v009.json.gz",
+    "sha256": "6e254e9bed6df9772f7676bfac6cc9aa7ce2844b6905b7b9ec2a041a5a56e093",
+    "top_type": "list",
+    "event_keys": [
+      "echo_strength",
+      "id",
+      "incidence_cos",
+      "mud_sound_speed_m_s",
+      "outward_direction",
+      "quality_flag",
+      "raycast_method",
+      "receiver_sensor_id",
+      "response_factors",
+      "sensor_id",
+      "sensor_origin_m",
+      "source_kind",
+      "timestamp_s",
+      "tof_2way_s",
+      "tool_pose",
+      "valid_amplitude",
+      "valid_tof"
+    ],
+    "source_kind": "synthetic_illustrative"
+  },
+  "conclusion": "No identified recorded RF time-amplitude series in bounded local candidates. B202 supplies authored scalar TOF/strength; NPZ candidates require their existing synthetic/derived provenance. File-extension search cannot prove absence in unexamined files or external machines."
+}

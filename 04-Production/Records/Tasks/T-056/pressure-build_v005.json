@@ -1,0 +1,119 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend",
+  "output": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\PressureField_v005\\S02_pressure-field-proof_v005.blend",
+  "parameters": {
+    "gap_m": 0.024575852808900598,
+    "sound_speed_m_s": 1500.0,
+    "carrier_hz": 400000.0,
+    "pulse_duration_s": 8e-06,
+    "decay_s": 6e-06,
+    "sample_interval_s": 5e-08,
+    "attenuation_np_m": 4.0,
+    "pressure_reflection": 0.55
+  },
+  "source_metadata": {
+    "kind": "assumed_model",
+    "source_label": "Finite Hann-tapered exponentially damped sinusoid",
+    "signal_role": "source_pressure",
+    "time_unit": "s",
+    "amplitude_unit": "normalized_pressure",
+    "time_zero_definition": "start of modeled source pulse",
+    "measured_ECCO": false,
+    "parameters": {
+      "gap_m": 0.024575852808900598,
+      "sound_speed_m_s": 1500.0,
+      "carrier_hz": 400000.0,
+      "pulse_duration_s": 8e-06,
+      "decay_s": 6e-06,
+      "sample_interval_s": 5e-08,
+      "attenuation_np_m": 4.0,
+      "pressure_reflection": 0.55
+    },
+    "spectrum": {
+      "sample_rate_hz": 20000000.000000022,
+      "fft_peak_hz": 400085.44921875047,
+      "minus_6db_amplitude_band_hz": [
+        274047.8515625003,
+        526123.0468750006
+      ],
+      "strictly_bandlimited": false,
+      "note": "Finite smooth window has spectral tails; bandwidth measured from authored discrete samples, not ENP3 specification"
+    },
+    "limits": [
+      "1-D homogeneous nondispersive fluid",
+      "single planar scalar reflection",
+      "no diffraction, beam spreading, shear conversion, transducer response, receiver filter, noise or multiple interfaces",
+      "input receiver trace does not uniquely reconstruct full field"
+    ],
+    "input_sha256": "af019a2935a59c4399b3651fcc18fe9b92fc761d4fd3d3a6ee4b3a55c98349bb"
+  },
+  "sensor": [
+    0.04694615676999092,
+    -0.12229903787374496,
+    -729.5299682617188
+  ],
+  "wall": [
+    0.05575335770845413,
+    -0.1452425718307495,
+    -729.5299682617188
+  ],
+  "sampling_slices": 96,
+  "slice_radii_m": [
+    0.0043,
+    0.0045
+  ],
+  "zero_pressure_hidden": true,
+  "display_cutoff": 0.035,
+  "display_scale": 1.15,
+  "max_summed_pressure": 1.3663706226293286,
+  "engine": "BLENDER_WORKBENCH",
+  "camera": "CAM_S01_Continuous",
+  "native_camera_range_preserved": [
+    1,
+    528
+  ],
+  "render_frames": [
+    298,
+    324,
+    0.25
+  ],
+  "checks": [
+    {
+      "frame": 298,
+      "geometry_transform_sha256": "9f71282bd64aae32e702eb35f1b06e1c8de8e5a9ae47dadf35ef81f98c63cb72",
+      "visible_slices": 0
+    },
+    {
+      "frame": 303,
+      "geometry_transform_sha256": "9f71282bd64aae32e702eb35f1b06e1c8de8e5a9ae47dadf35ef81f98c63cb72",
+      "visible_slices": 28
+    },
+    {
+      "frame": 305.5,
+      "geometry_transform_sha256": "9f71282bd64aae32e702eb35f1b06e1c8de8e5a9ae47dadf35ef81f98c63cb72",
+      "visible_slices": 38
+    },
+    {
+      "frame": 309,
+      "geometry_transform_sha256": "9f71282bd64aae32e702eb35f1b06e1c8de8e5a9ae47dadf35ef81f98c63cb72",
+      "visible_slices": 38
+    },
+    {
+      "frame": 312,
+      "geometry_transform_sha256": "9f71282bd64aae32e702eb35f1b06e1c8de8e5a9ae47dadf35ef81f98c63cb72",
+      "visible_slices": 27
+    },
+    {
+      "frame": 318,
+      "geometry_transform_sha256": "9f71282bd64aae32e702eb35f1b06e1c8de8e5a9ae47dadf35ef81f98c63cb72",
+      "visible_slices": 35
+    },
+    {
+      "frame": 324,
+      "geometry_transform_sha256": "9f71282bd64aae32e702eb35f1b06e1c8de8e5a9ae47dadf35ef81f98c63cb72",
+      "visible_slices": 0
+    }
+  ],
+  "fixed_geometry_pass": true,
+  "limits": "1D model; radial discs are display sampling cross-sections, not solved beam width or material displacement"
+}

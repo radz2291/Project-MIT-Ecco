@@ -1,0 +1,22 @@
+{
+  "engine": "BLENDER_WORKBENCH",
+  "resolution": [
+    960,
+    540
+  ],
+  "aa": "8",
+  "records": [
+    {
+      "native_frame": 305.5,
+      "seconds_full_render_to_file": 1.6455364000285044
+    },
+    {
+      "native_frame": 310.5,
+      "seconds_full_render_to_file": 0.45590649999212474
+    },
+    {
+      "native_frame": 316.5,
+      "seconds_full_render_to_file": 0.547520300024189
+    }
+  ]
+}
