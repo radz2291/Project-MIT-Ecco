@@ -1,0 +1,3292 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Surface\\Originals\\IntoTheInvisible_Shot01.blend",
+  "collections": [
+    {
+      "name": "00_CAMERA",
+      "objects": 1,
+      "direct_names": [
+        "CAM_Shot01"
+      ]
+    },
+    {
+      "name": "01_SURFACE",
+      "objects": 442,
+      "direct_names": [
+        "RIG_DeckWing",
+        "RIG_DeckWing.001",
+        "RIG_MoonpoolCrossDeck",
+        "RIG_MoonpoolCrossDeck.001",
+        "RIG_SupportColumn",
+        "RIG_ColumnSafetyBand",
+        "RIG_SupportColumn.001",
+        "RIG_ColumnSafetyBand.001",
+        "RIG_SupportColumn.002",
+        "RIG_ColumnSafetyBand.002",
+        "RIG_SupportColumn.003",
+        "RIG_ColumnSafetyBand.003",
+        "RIG_SubmergedPontoon",
+        "RIG_SubmergedPontoon.001",
+        "RIG_Accommodation",
+        "RIG_Bridge",
+        "RIG_Window",
+        "RIG_Window.001",
+        "RIG_Window.002",
+        "RIG_Window.003",
+        "RIG_Window.004",
+        "RIG_Window.005",
+        "RIG_Window.006",
+        "RIG_Window.007"
+      ]
+    },
+    {
+      "name": "02_OCEAN",
+      "objects": 2,
+      "direct_names": [
+        "OCEAN_Surface",
+        "OCEAN_DepthMedium"
+      ]
+    },
+    {
+      "name": "03_SUBSEA",
+      "objects": 118,
+      "direct_names": [
+        "RIG_MarineRiser",
+        "SUBSEA_RiserCoupling",
+        "SUBSEA_AuxiliaryLine",
+        "SUBSEA_AuxiliaryLine.001",
+        "SUBSEA_AuxiliaryLine.002",
+        "SUBSEA_AuxiliaryLine.003",
+        "SUBSEA_RiserCoupling.001",
+        "SUBSEA_AuxiliaryLine.004",
+        "SUBSEA_AuxiliaryLine.005",
+        "SUBSEA_AuxiliaryLine.006",
+        "SUBSEA_AuxiliaryLine.007",
+        "SUBSEA_RiserCoupling.002",
+        "SUBSEA_AuxiliaryLine.008",
+        "SUBSEA_AuxiliaryLine.009",
+        "SUBSEA_AuxiliaryLine.010",
+        "SUBSEA_AuxiliaryLine.011",
+        "SUBSEA_RiserCoupling.003",
+        "SUBSEA_AuxiliaryLine.012",
+        "SUBSEA_AuxiliaryLine.013",
+        "SUBSEA_AuxiliaryLine.014",
+        "SUBSEA_AuxiliaryLine.015",
+        "SUBSEA_RiserCoupling.004",
+        "SUBSEA_AuxiliaryLine.016",
+        "SUBSEA_AuxiliaryLine.017"
+      ]
+    },
+    {
+      "name": "04_GEOLOGY",
+      "objects": 35,
+      "direct_names": [
+        "GEO_00_BackFormation",
+        "GEO_00_LeftFormation",
+        "GEO_00_RevealSector",
+        "GEO_01_BackFormation",
+        "GEO_01_LeftFormation",
+        "GEO_01_RevealSector",
+        "GEO_02_BackFormation",
+        "GEO_02_LeftFormation",
+        "GEO_02_RevealSector",
+        "GEO_03_BackFormation",
+        "GEO_03_LeftFormation",
+        "GEO_03_RevealSector",
+        "GEO_04_BackFormation",
+        "GEO_04_LeftFormation",
+        "GEO_04_RevealSector",
+        "GEO_05_BackFormation",
+        "GEO_05_LeftFormation",
+        "GEO_05_RevealSector",
+        "GEO_06_BackFormation",
+        "GEO_06_LeftFormation",
+        "GEO_06_RevealSector",
+        "GEO_07_BackFormation",
+        "GEO_07_LeftFormation",
+        "GEO_07_RevealSector"
+      ]
+    },
+    {
+      "name": "05_WELL",
+      "objects": 40,
+      "direct_names": [
+        "WELL_CasingUpper",
+        "WELL_CasingDeepRetained",
+        "WELL_CasingEntryWall",
+        "WELL_CasingCollar",
+        "WELL_CasingCollar.001",
+        "WELL_CasingCollar.002",
+        "WELL_CasingCollar.003",
+        "WELL_CasingCollar.004",
+        "WELL_CasingCollar.005",
+        "WELL_CasingCollar.006",
+        "WELL_CasingCollar.007",
+        "WELL_CasingCollar.008",
+        "WELL_CasingCollar.009",
+        "WELL_CasingCollar.010",
+        "WELL_CasingCollar.011",
+        "WELL_CasingCollar.012",
+        "WELL_CasingCollar.013",
+        "WELL_CasingCollar.014",
+        "WELL_CementSheathSection",
+        "WELL_DrillString_Continuous",
+        "WELL_DrillString_BHA_Crossover",
+        "WELL_DrillPipe_ToolJoint",
+        "WELL_DrillPipe_ToolJoint.001",
+        "WELL_DrillPipe_ToolJoint.002"
+      ]
+    },
+    {
+      "name": "06_TOOL",
+      "objects": 64,
+      "direct_names": [
+        "TOOL_UpperConnector",
+        "TOOL_UpperConnector_RemovableSection",
+        "TOOL_ActuatorHousing",
+        "TOOL_ActuatorHousing_RemovableSection",
+        "TOOL_IndexValveHousing",
+        "TOOL_IndexValveHousing_RemovableSection",
+        "TOOL_LowerHousing",
+        "TOOL_LowerHousing_RemovableSection",
+        "TOOL_LowerConnector",
+        "TOOL_LowerConnector_RemovableSection",
+        "TOOL_MachinedCollar",
+        "TOOL_Collar_RemovableSection",
+        "TOOL_MachinedCollar.001",
+        "TOOL_Collar_RemovableSection.001",
+        "TOOL_MachinedCollar.002",
+        "TOOL_Collar_RemovableSection.002",
+        "TOOL_MachinedCollar.003",
+        "TOOL_Collar_RemovableSection.003",
+        "TOOL_MachinedCollar.004",
+        "TOOL_Collar_RemovableSection.004",
+        "TOOL_MachinedCollar.005",
+        "TOOL_Collar_RemovableSection.005",
+        "TOOL_MachinedCollar.006",
+        "TOOL_Collar_RemovableSection.006"
+      ]
+    },
+    {
+      "name": "07_MECHANISM",
+      "objects": 39,
+      "direct_names": [
+        "MECH_Sleeve",
+        "MECH_ActuatorPiston",
+        "MECH_AxialBore_Upper",
+        "MECH_AxialBore_Lower",
+        "MECH_RotaryValve",
+        "MECH_ValveSeat",
+        "MECH_LowerFlowGuide",
+        "MECH_IndexRotaryAssembly",
+        "MECH_AxialActuatorAssembly",
+        "MECH_PistonSeal",
+        "MECH_PistonSeal.001",
+        "MECH_ActuatorCylinderLiner",
+        "MECH_PressureChamberHead",
+        "MECH_CentralGuideTube",
+        "MECH_GuideKeyCarrier",
+        "MECH_AntiRotationKey",
+        "MECH_GuideKeyScrew",
+        "MECH_AntiRotationKey.001",
+        "MECH_GuideKeyScrew.001",
+        "MECH_HelicalCamDrum",
+        "MECH_FollowerShoulderPin",
+        "MECH_CamFollowerRoller",
+        "MECH_FollowerRetainingHead",
+        "MECH_CamJournal"
+      ]
+    },
+    {
+      "name": "08_FLOW",
+      "objects": 9,
+      "direct_names": [
+        "FLOW_Main_00",
+        "FLOW_Main_01",
+        "FLOW_Main_02",
+        "FLOW_Main_03",
+        "FLOW_Main_04",
+        "FLOW_Main_05",
+        "FLOW_Main_06",
+        "FLOW_Main_07",
+        "FLOW_Main_08"
+      ]
+    },
+    {
+      "name": "09_LIGHTING",
+      "objects": 12,
+      "direct_names": [
+        "LIGHT_OvercastSun",
+        "LIGHT_DeckFill",
+        "LIGHT_SubseaFill",
+        "LIGHT_SubseaFill.001",
+        "LIGHT_SectionFill",
+        "LIGHT_SectionFill.001",
+        "LIGHT_SectionFill.002",
+        "LIGHT_ToolKey",
+        "LIGHT_ToolEdge",
+        "LIGHT_ToolLower",
+        "LIGHT_CasingApproach",
+        "LIGHT_WellEntry_SteelReadability"
+      ]
+    },
+    {
+      "name": "10_HELPERS",
+      "objects": 0,
+      "direct_names": []
+    },
+    {
+      "name": "Collection",
+      "objects": 3,
+      "direct_names": [
+        "Cube",
+        "Light",
+        "Camera"
+      ]
+    }
+  ],
+  "named_parts": [
+    {
+      "name": "LIGHT_CasingApproach",
+      "type": "LIGHT",
+      "collections": [
+        "09_LIGHTING"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "location": [
+        0.0,
+        -0.14000000059604645,
+        -317.3999938964844
+      ]
+    },
+    {
+      "name": "MECH_CentralGuideTube",
+      "type": "MESH",
+      "collections": [
+        "07_MECHANISM"
+      ],
+      "dimensions": [
+        0.0731852799654007,
+        0.06220969557762146,
+        0.175018310546875
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "MECH_GuideKeyCarrier",
+      "type": "MESH",
+      "collections": [
+        "07_MECHANISM"
+      ],
+      "dimensions": [
+        0.16799888014793396,
+        0.14337657392024994,
+        0.01806640625
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "MECH_GuideKeyScrew",
+      "type": "MESH",
+      "collections": [
+        "07_MECHANISM"
+      ],
+      "dimensions": [
+        0.003599999938160181,
+        0.003599999938160181,
+        0.006999999284744263
+      ],
+      "location": [
+        -0.08150000125169754,
+        0.001500000013038516,
+        -321.0379943847656
+      ]
+    },
+    {
+      "name": "MECH_GuideKeyScrew.001",
+      "type": "MESH",
+      "collections": [
+        "07_MECHANISM"
+      ],
+      "dimensions": [
+        0.003599999938160181,
+        0.003599999938160181,
+        0.006999999284744263
+      ],
+      "location": [
+        0.08150000125169754,
+        0.001500000013038516,
+        -321.0379943847656
+      ]
+    },
+    {
+      "name": "MECH_LowerFlowGuide",
+      "type": "MESH",
+      "collections": [
+        "07_MECHANISM"
+      ],
+      "dimensions": [
+        0.1199345588684082,
+        0.05999999865889549,
+        0.149993896484375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "MECH_PistonInnerGuideSeal",
+      "type": "MESH",
+      "collections": [
+        "07_MECHANISM"
+      ],
+      "dimensions": [
+        0.07738527655601501,
+        0.06579461693763733,
+        0.00360107421875
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "MECH_PistonInnerGuideSeal.001",
+      "type": "MESH",
+      "collections": [
+        "07_MECHANISM"
+      ],
+      "dimensions": [
+        0.07738527655601501,
+        0.06579461693763733,
+        0.00360107421875
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "RIG_MarineRiser",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.0995092391967773,
+        1.100000023841858,
+        170.0
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "RIG_PipeRackUpright",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.18000000715255737,
+        0.18000000715255737,
+        3.5
+      ],
+      "location": [
+        8.0,
+        -13.0,
+        15.25
+      ]
+    },
+    {
+      "name": "RIG_PipeRackUpright.001",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.18000000715255737,
+        0.18000000715255737,
+        3.5
+      ],
+      "location": [
+        8.0,
+        -3.0,
+        15.25
+      ]
+    },
+    {
+      "name": "RIG_PipeRackUpright.002",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.18000000715255737,
+        0.18000000715255737,
+        3.5
+      ],
+      "location": [
+        8.0,
+        7.0,
+        15.25
+      ]
+    },
+    {
+      "name": "RIG_PipeRackUpright.003",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.18000000715255737,
+        0.18000000715255737,
+        3.5
+      ],
+      "location": [
+        8.0,
+        14.0,
+        15.25
+      ]
+    },
+    {
+      "name": "RIG_PipeRackUpright.004",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.18000000715255737,
+        0.18000000715255737,
+        3.5
+      ],
+      "location": [
+        22.0,
+        -13.0,
+        15.25
+      ]
+    },
+    {
+      "name": "RIG_PipeRackUpright.005",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.18000000715255737,
+        0.18000000715255737,
+        3.5
+      ],
+      "location": [
+        22.0,
+        -3.0,
+        15.25
+      ]
+    },
+    {
+      "name": "RIG_PipeRackUpright.006",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.18000000715255737,
+        0.18000000715255737,
+        3.5
+      ],
+      "location": [
+        22.0,
+        7.0,
+        15.25
+      ]
+    },
+    {
+      "name": "RIG_PipeRackUpright.007",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.18000000715255737,
+        0.18000000715255737,
+        3.5
+      ],
+      "location": [
+        22.0,
+        14.0,
+        15.25
+      ]
+    },
+    {
+      "name": "RIG_PipeStock",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        8.0,
+        -14.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.001",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        10.0,
+        -14.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.002",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        12.0,
+        -14.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.003",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        14.0,
+        -14.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.004",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        16.0,
+        -14.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.005",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        18.0,
+        -14.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.006",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        20.0,
+        -14.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.007",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        22.0,
+        -14.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.008",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        24.0,
+        -14.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.009",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        8.0,
+        -12.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.010",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        10.0,
+        -12.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.011",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        12.0,
+        -12.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.012",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        14.0,
+        -12.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.013",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        16.0,
+        -12.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.014",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        18.0,
+        -12.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.015",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        20.0,
+        -12.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.016",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        22.0,
+        -12.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.017",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        24.0,
+        -12.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.018",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        8.0,
+        -10.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.019",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        10.0,
+        -10.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.020",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        12.0,
+        -10.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.021",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        14.0,
+        -10.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.022",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        16.0,
+        -10.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.023",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        18.0,
+        -10.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.024",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        20.0,
+        -10.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.025",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        22.0,
+        -10.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.026",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        24.0,
+        -10.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.027",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        8.0,
+        -8.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.028",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        10.0,
+        -8.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.029",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        12.0,
+        -8.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.030",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        14.0,
+        -8.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.031",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        16.0,
+        -8.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.032",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        18.0,
+        -8.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.033",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        20.0,
+        -8.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.034",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        22.0,
+        -8.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.035",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        24.0,
+        -8.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.036",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        8.0,
+        -6.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.037",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        10.0,
+        -6.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.038",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        12.0,
+        -6.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.039",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        14.0,
+        -6.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.040",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        16.0,
+        -6.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.041",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        18.0,
+        -6.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.042",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        20.0,
+        -6.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.043",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        22.0,
+        -6.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.044",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        24.0,
+        -6.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.045",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        8.0,
+        -4.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.046",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        10.0,
+        -4.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.047",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        12.0,
+        -4.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.048",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        14.0,
+        -4.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.049",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        16.0,
+        -4.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.050",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        18.0,
+        -4.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.051",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        20.0,
+        -4.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.052",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        22.0,
+        -4.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.053",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        24.0,
+        -4.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.054",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        8.0,
+        -2.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.055",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        10.0,
+        -2.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.056",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        12.0,
+        -2.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.057",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        14.0,
+        -2.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.058",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        16.0,
+        -2.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.059",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        18.0,
+        -2.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.060",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        20.0,
+        -2.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.061",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        22.0,
+        -2.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.062",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        24.0,
+        -2.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.063",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        8.0,
+        -0.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.064",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        10.0,
+        -0.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.065",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        12.0,
+        -0.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.066",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        14.0,
+        -0.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.067",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        16.0,
+        -0.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.068",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        18.0,
+        -0.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.069",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        20.0,
+        -0.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.070",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        22.0,
+        -0.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeStock.071",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.20000004768371582,
+        0.20000003278255463,
+        1.500000238418579
+      ],
+      "location": [
+        24.0,
+        -0.25,
+        13.899999618530273
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        12.0,
+        -10.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.001",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        12.0,
+        0.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.002",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        12.0,
+        10.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.003",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        15.0,
+        -10.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.004",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        15.0,
+        0.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.005",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        15.0,
+        10.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.006",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        18.0,
+        -10.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.007",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        18.0,
+        0.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.008",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        18.0,
+        10.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.009",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        21.0,
+        -10.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.010",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        21.0,
+        0.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_PipeSupport.011",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "location": [
+        21.0,
+        10.0,
+        13.600000381469727
+      ]
+    },
+    {
+      "name": "RIG_ProcessPipe",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.4600001275539398,
+        0.46000006794929504,
+        28.000003814697266
+      ],
+      "location": [
+        12.0,
+        -1.0,
+        14.0
+      ]
+    },
+    {
+      "name": "RIG_ProcessPipe.001",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.4600001275539398,
+        0.46000006794929504,
+        28.000003814697266
+      ],
+      "location": [
+        15.0,
+        -1.0,
+        14.0
+      ]
+    },
+    {
+      "name": "RIG_ProcessPipe.002",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.4600001275539398,
+        0.46000006794929504,
+        28.000003814697266
+      ],
+      "location": [
+        18.0,
+        -1.0,
+        14.0
+      ]
+    },
+    {
+      "name": "RIG_ProcessPipe.003",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.4600001275539398,
+        0.46000006794929504,
+        28.000003814697266
+      ],
+      "location": [
+        21.0,
+        -1.0,
+        14.0
+      ]
+    },
+    {
+      "name": "RIG_RackPipe",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        10.0,
+        0.5,
+        16.799999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.001",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        12.0,
+        0.5,
+        16.799999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.002",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        14.0,
+        0.5,
+        16.799999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.003",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        16.0,
+        0.5,
+        16.799999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.004",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        18.0,
+        0.5,
+        16.799999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.005",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        20.0,
+        0.5,
+        16.799999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.006",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        10.0,
+        0.5,
+        17.299999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.007",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        12.0,
+        0.5,
+        17.299999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.008",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        14.0,
+        0.5,
+        17.299999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.009",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        16.0,
+        0.5,
+        17.299999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.010",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        18.0,
+        0.5,
+        17.299999237060547
+      ]
+    },
+    {
+      "name": "RIG_RackPipe.011",
+      "type": "MESH",
+      "collections": [
+        "01_SURFACE"
+      ],
+      "dimensions": [
+        0.1300000250339508,
+        0.1300000101327896,
+        27.000003814697266
+      ],
+      "location": [
+        20.0,
+        0.5,
+        17.299999237060547
+      ]
+    },
+    {
+      "name": "SUBSEA_BOPStack",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        3.0,
+        3.0,
+        2.0
+      ],
+      "location": [
+        0.0,
+        0.0,
+        -157.0
+      ]
+    },
+    {
+      "name": "SUBSEA_BOPStack.001",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        2.5,
+        2.5,
+        2.0
+      ],
+      "location": [
+        0.0,
+        0.0,
+        -154.0
+      ]
+    },
+    {
+      "name": "SUBSEA_BOPStack.002",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        2.0999999046325684,
+        2.0999999046325684,
+        2.0
+      ],
+      "location": [
+        0.0,
+        0.0,
+        -151.0
+      ]
+    },
+    {
+      "name": "SUBSEA_BOPStack.003",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.600000023841858,
+        1.600000023841858,
+        1.0
+      ],
+      "location": [
+        0.0,
+        0.0,
+        -149.0
+      ]
+    },
+    {
+      "name": "SUBSEA_GuideCable",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        0.029999999329447746,
+        0.029999999329447746,
+        157.0032958984375
+      ],
+      "location": [
+        -3.240000009536743,
+        -3.240000009536743,
+        -68.5
+      ]
+    },
+    {
+      "name": "SUBSEA_GuideCable.001",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        0.029999999329447746,
+        0.029999997466802597,
+        157.0032958984375
+      ],
+      "location": [
+        -3.240000009536743,
+        3.240000009536743,
+        -68.5
+      ]
+    },
+    {
+      "name": "SUBSEA_GuideCable.002",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        0.029999999329447746,
+        0.029999999329447746,
+        157.0032958984375
+      ],
+      "location": [
+        3.240000009536743,
+        -3.240000009536743,
+        -68.5
+      ]
+    },
+    {
+      "name": "SUBSEA_GuideCable.003",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        0.029999999329447746,
+        0.029999997466802597,
+        157.0032958984375
+      ],
+      "location": [
+        3.240000009536743,
+        3.240000009536743,
+        -68.5
+      ]
+    },
+    {
+      "name": "SUBSEA_GuidePost",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        0.36000001430511475,
+        0.36000001430511475,
+        12.0
+      ],
+      "location": [
+        -3.5999999046325684,
+        -3.5999999046325684,
+        -153.0
+      ]
+    },
+    {
+      "name": "SUBSEA_GuidePost.001",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        0.36000001430511475,
+        0.36000001430511475,
+        12.0
+      ],
+      "location": [
+        -3.5999999046325684,
+        3.5999999046325684,
+        -153.0
+      ]
+    },
+    {
+      "name": "SUBSEA_GuidePost.002",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        0.36000001430511475,
+        0.36000001430511475,
+        12.0
+      ],
+      "location": [
+        3.5999999046325684,
+        -3.5999999046325684,
+        -153.0
+      ]
+    },
+    {
+      "name": "SUBSEA_GuidePost.003",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        0.36000001430511475,
+        0.36000001430511475,
+        12.0
+      ],
+      "location": [
+        3.5999999046325684,
+        3.5999999046325684,
+        -153.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.001",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.002",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.003",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.004",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.005",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.006",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.007",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.008",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.009",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.010",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.011",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.012",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "SUBSEA_RiserCoupling.013",
+      "type": "MESH",
+      "collections": [
+        "03_SUBSEA"
+      ],
+      "dimensions": [
+        1.4390579462051392,
+        1.440000057220459,
+        0.5
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.001",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.002",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.003",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.004",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.005",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.006",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.007",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.008",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.009",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.010",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.011",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.012",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.013",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingCollar.014",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.5399672985076904,
+        0.27000001072883606,
+        0.239990234375
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingDeepRetained",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.4898691475391388,
+        0.24500000476837158,
+        25.0
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingEntryWall",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.49000000953674316,
+        0.24500000476837158,
+        25.0
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_CasingUpper",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.4899018406867981,
+        0.24500000476837158,
+        146.0
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.001",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.002",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.003",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.004",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.005",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.006",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.007",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.008",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.009",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.010",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.011",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.012",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.013",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.014",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.015",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.016",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "WELL_DrillPipe_ToolJoint.017",
+      "type": "MESH",
+      "collections": [
+        "05_WELL"
+      ],
+      "dimensions": [
+        0.15600000321865082,
+        0.15600000321865082,
+        0.20001220703125
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

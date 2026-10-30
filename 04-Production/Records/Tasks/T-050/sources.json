@@ -1,0 +1,98 @@
+[
+  {
+    "id": "S01",
+    "native": "05-Previs/Section-01_Continuous-Descent/v001/Gentle-10s-Finish/Scenes/S01_gentle-10s-finish.blend",
+    "sha256": "ee91462f1acd41dc7176809bba207f540ff317f0f91f4741fba5594d461a3f2e",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "S02",
+    "native": "05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend",
+    "sha256": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "S03",
+    "native": "05-Previs/Section-03_The-Earth-Revealed/v036/Scenes/S03_second-last-nominal-label_v036.blend",
+    "sha256": "371093affa9b9d05416b3d39c6bfe53716ce5c2f3dbaf2130dcbe226152b4757",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "S04",
+    "native": "04-Production/Shots/S04/S04-A/Previs_v033/Scenes/S04_continuous_ABCD_v033.blend",
+    "sha256": "018f65027ab9f190709085bcaf103edf10dc565bc49ab2c76d0dad79675ec77f",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "S05",
+    "native": "05-Previs/Section-05_Hydraulic-Enhancement/Camera-Proof_v020/Scenes/S05_continuous-camera_v020.blend",
+    "sha256": "3583b6bbbf1d33df3f191024658e407953610a6b137dd5e242a28e1b100db7a0",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "S06",
+    "native": "04-Production/Studies/S06_Report-Recreation_v004/Scenes/S06_cinematic-study_v004_polished.blend",
+    "sha256": "7f2a0086992be7c12c0896505d6fafbc42d82c7967a89ef9686f885bb06374a3",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "S07",
+    "native": "04-Production/Shots/S07/Sequence_v006/Scenes/S07_Monumental-Precision_v006.blend",
+    "sha256": "62cc6fefc08b75a2506ba8c13297c1a5bcfef2a41d079dd42f1f3584edf2c548",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "ECCO-film",
+    "native": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+    "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "BHA",
+    "native": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+    "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "WORLD",
+    "native": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+    "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "FORMATION",
+    "native": "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+    "sha256": "731d7dfed6e7d91ae74c05503005f43b996e98caa0120b24ad0def97ea612ac4",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "CASED-FORMATION",
+    "native": "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+    "sha256": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "SURFACE",
+    "native": "04-Production/Shared/Assets/Surface/Surface_context_v003.blend",
+    "sha256": "a68823658495ba09ca626167a3c12042ffc825cfdcde3fffd616df23a4b64aa5",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "ACOUSTICS",
+    "native": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+    "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "CASING",
+    "native": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+    "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+    "storage": "local native, not uploaded"
+  },
+  {
+    "id": "SURFACE-ORIGINAL",
+    "native": "04-Production/Shared/Assets/Surface/Originals/IntoTheInvisible_Shot01.blend",
+    "sha256": "ef669ae4fdd20a74d1d4b6a16e0978c17ae857f5c839dc08128247ff3bf29ab0",
+    "storage": "local preserved original, not uploaded"
+  }
+]

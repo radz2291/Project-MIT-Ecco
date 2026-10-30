@@ -1,0 +1,260 @@
+{
+  "date_local": "2026-10-30",
+  "scope": "Executor file/source closure checks, not independent review",
+  "checks": [
+    {
+      "check": "native exists and hash matches: S01",
+      "pass": true
+    },
+    {
+      "check": "selected native unchanged from T49: S01",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: S02",
+      "pass": true
+    },
+    {
+      "check": "selected native unchanged from T49: S02",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: S03",
+      "pass": true
+    },
+    {
+      "check": "selected native unchanged from T49: S03",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: S04",
+      "pass": true
+    },
+    {
+      "check": "selected native unchanged from T49: S04",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: S05",
+      "pass": true
+    },
+    {
+      "check": "selected native unchanged from T49: S05",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: S06",
+      "pass": true
+    },
+    {
+      "check": "selected native unchanged from T49: S06",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: S07",
+      "pass": true
+    },
+    {
+      "check": "selected native unchanged from T49: S07",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: ECCO-film",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: BHA",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: WORLD",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: FORMATION",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: CASED-FORMATION",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: SURFACE",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: ACOUSTICS",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: CASING",
+      "pass": true
+    },
+    {
+      "check": "native exists and hash matches: SURFACE-ORIGINAL",
+      "pass": true
+    },
+    {
+      "check": "script parses: inspect_measurement_reveals.py",
+      "pass": true
+    },
+    {
+      "check": "script parses: inspect_surface_original.py",
+      "pass": true
+    },
+    {
+      "check": "script parses: render_satin_reference.py",
+      "pass": true
+    },
+    {
+      "check": "report link resolves: source-index.md",
+      "pass": true
+    },
+    {
+      "check": "report link resolves: sources.json",
+      "pass": true
+    },
+    {
+      "check": "report link resolves: Evidence/client-waveform-style-reference.png",
+      "pass": true
+    },
+    {
+      "check": "report link resolves: Evidence/S02_measurement-reveal.jpg",
+      "pass": true
+    },
+    {
+      "check": "report link resolves: Evidence/S06_measurement-reveal.jpg",
+      "pass": true
+    },
+    {
+      "check": "report link resolves: Evidence/measurement-reveal-samples.json",
+      "pass": true
+    },
+    {
+      "check": "report link resolves: Evidence/surface-original-parts.json",
+      "pass": true
+    },
+    {
+      "check": "report link resolves: Evidence/owner-subsea-reference.png",
+      "pass": true
+    },
+    {
+      "check": "report link resolves: Previews/S07_satin-studio_f090.png",
+      "pass": true
+    },
+    {
+      "check": "report link resolves: Evidence/satin-render.json",
+      "pass": true
+    },
+    {
+      "check": "image decodes: client-waveform-style-reference.png",
+      "pass": true
+    },
+    {
+      "check": "image decodes: owner-subsea-reference.png",
+      "pass": true
+    },
+    {
+      "check": "image decodes: S02_measurement-reveal.jpg",
+      "pass": true
+    },
+    {
+      "check": "image decodes: S06_measurement-reveal.jpg",
+      "pass": true
+    },
+    {
+      "check": "image decodes: S07_satin-studio_f090.png",
+      "pass": true
+    },
+    {
+      "check": "13 decision rows",
+      "pass": true
+    },
+    {
+      "check": "final camera ownership decision recorded",
+      "pass": true
+    }
+  ],
+  "all_pass": true,
+  "artifacts": [
+    {
+      "path": ".gitignore",
+      "sha256": "516cd7ffb8c34ffa4d2fdccaa9f9c8cbd99fd29f2c10493e4a2c4f8efa0b73b2",
+      "bytes": 121
+    },
+    {
+      "path": "inspect_measurement_reveals.py",
+      "sha256": "cef9edb9950440f9a9791d61e6dc4f59f3df57316e17af05838192b51a5107cb",
+      "bytes": 1738
+    },
+    {
+      "path": "inspect_surface_original.py",
+      "sha256": "cc1e3aa48ff952cf27acc635c98a196f9d1f6b5c7f623503f7ab137d2cf09996",
+      "bytes": 897
+    },
+    {
+      "path": "render_satin_reference.py",
+      "sha256": "61c618fbc2d0164e993eb1251bf6f93af28e47402e55a057ca071d1ca2e1df3d",
+      "bytes": 1291
+    },
+    {
+      "path": "report.md",
+      "sha256": "add0b6e16cc9d629a4f1e796c727f2643cb63100ee5f7706319bdf9653f457bf",
+      "bytes": 10219
+    },
+    {
+      "path": "source-index.md",
+      "sha256": "ae7b632a7091598e95ca694df91325434b8dccc0f327baa2fae9b85535bfd731",
+      "bytes": 1743
+    },
+    {
+      "path": "sources.json",
+      "sha256": "64bcb2bfb5a1b15ca68daec64e9a21186b331d1754ccbee4775b1d336706cb35",
+      "bytes": 3989
+    },
+    {
+      "path": "Evidence/client-waveform-style-reference.png",
+      "sha256": "b4ac566896e66ec70c1a32a54d64978c46333a538d5eb1038a34e03bfad7d924",
+      "bytes": 264315
+    },
+    {
+      "path": "Evidence/measurement-reveal-samples.json",
+      "sha256": "4c310ae4dae1aa295c496c10f568e8c248abee387d939de343449d2f24b0523c",
+      "bytes": 671
+    },
+    {
+      "path": "Evidence/owner-subsea-reference.png",
+      "sha256": "0e9067c9cd85bc16ee47f0cc29c8589179b7114d8703f6d5923eadb75765ac8e",
+      "bytes": 209148
+    },
+    {
+      "path": "Evidence/S02_measurement-reveal.jpg",
+      "sha256": "3fe8c2b60548a669d706fa9e98933cac167abed262b41dd3dcca6b3265bc10cd",
+      "bytes": 69321
+    },
+    {
+      "path": "Evidence/S06_measurement-reveal.jpg",
+      "sha256": "50eb403e9f1ac5b8e1f2a55fd1595dd665dd8dcfe8f2f59e131b892580f1943a",
+      "bytes": 146876
+    },
+    {
+      "path": "Evidence/satin-render.json",
+      "sha256": "a58e3fe71f283cf6fc332f4eab6a0da4a318d1f95d967636b5fa19789945a088",
+      "bytes": 696
+    },
+    {
+      "path": "Evidence/surface-original-parts.json",
+      "sha256": "4c5f3a35a2d8b75dfe285f5dd7898c81d21acf6d7b3abb1de9f649f85aa6978e",
+      "bytes": 62677
+    },
+    {
+      "path": "Previews/S07_satin-studio_f090.png",
+      "sha256": "30ca21b71eb1c433f97199fdc8af26a5317eb32391f14d6efa036beca7cbb02f",
+      "bytes": 1071202
+    }
+  ],
+  "publication_base": "5f6b18f642d456815f5779a2f7b3a82964abb97e",
+  "render_cap_pass": false,
+  "render_note": "Single requested still 26.523s exceeded cap. No batch; future settings need passing benchmark.",
+  "text_encoding": "UTF-8 without BOM; LF before publication"
+}

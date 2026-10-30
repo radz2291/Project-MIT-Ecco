@@ -1,0 +1,36 @@
+[
+  {
+    "section": "S02",
+    "source_movie": "05-Previs/Section-02_Measurement-History/v011/Continuation/Previews/S02_wall-build_v011.mp4",
+    "video_frames_1based": [
+      9,
+      34,
+      64,
+      97
+    ],
+    "native_frames": [
+      440,
+      465,
+      495,
+      528
+    ],
+    "sheet": "S02_measurement-reveal.jpg"
+  },
+  {
+    "section": "S06",
+    "source_movie": "04-Production/Studies/S06_Report-Recreation_v004/Previews/S06_cinematic-study_v004_polished.mp4",
+    "video_frames_1based": [
+      8,
+      30,
+      52,
+      76
+    ],
+    "native_frames": [
+      8,
+      30,
+      52,
+      76
+    ],
+    "sheet": "S06_measurement-reveal.jpg"
+  }
+]
