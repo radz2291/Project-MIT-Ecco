@@ -1,0 +1,744 @@
+{
+  "candidate": "04-Production\\Records\\Tasks\\T-054\\Consumers\\S03_shared-digital_v004.blend",
+  "source": "04-Production\\Records\\Tasks\\T-054\\Consumers\\S03_shared-digital_v003.blend",
+  "world_sha256": "9cb7d5c946e8573abc05af4ee3c12492610a982c1773a6437f90a762055fb540",
+  "selected_cap_triangles": 28960,
+  "source_topology": {
+    "grid_rows": 182,
+    "grid_angles": 97,
+    "radial_cap_vertices": 41,
+    "cap_first_polygon": 34752,
+    "cap_first_vertex": 35308,
+    "vertices": 50232,
+    "polygons": 49232,
+    "rule": "Explicit cap grids from build_formation_revision_v005.mass; asserted layout. Extent-coordinate edits allowed; topology changes fail closed."
+  },
+  "selection": "Exact two cap face grids; no heuristic normal or coordinate rejection",
+  "offset_m": 0.003,
+  "junction_tiebreak_m": 0.0001,
+  "shared_asset": "04-Production\\Shared\\Assets\\DigitalEnvironment\\Digital_context_lines_v004.blend",
+  "hole_crossing_chains": 0,
+  "representation": "Regenerated derived lines, not live automatic curve geometry",
+  "records": [
+    {
+      "source_context": "Luminous geological strata",
+      "axis": 2,
+      "planes": [
+        -7.5011,
+        -7.5,
+        -7.0,
+        -6.9995,
+        -6.5,
+        -6.4981,
+        -6.0,
+        -5.9977,
+        -5.5,
+        -5.4983,
+        -5.0,
+        -4.9997,
+        -4.5013,
+        -4.5,
+        -4.0022,
+        -4.0,
+        -3.5021,
+        -3.5,
+        -3.001,
+        -3.0,
+        -2.5,
+        -2.4994,
+        -2.0,
+        -1.9981,
+        -1.5,
+        -1.4977,
+        -1.0,
+        -0.9983,
+        -0.5,
+        -0.4998,
+        -0.0013,
+        0.0001,
+        0.4978,
+        0.5,
+        0.9979,
+        1.0,
+        1.499,
+        1.5,
+        2.0,
+        2.0006,
+        2.5,
+        2.5019,
+        3.0,
+        3.0023,
+        3.5,
+        3.5016,
+        4.0,
+        4.0002,
+        4.4986,
+        4.5,
+        4.9977,
+        5.0,
+        5.4979,
+        5.5,
+        5.999,
+        6.0,
+        6.5,
+        6.5006,
+        7.0,
+        7.0019,
+        7.5,
+        7.5023,
+        8.0,
+        8.0016,
+        8.5,
+        8.5001,
+        8.9986,
+        9.0,
+        9.4977,
+        9.5
+      ],
+      "curve": "Luminous geological strata | World intersection v004",
+      "stats": [
+        {
+          "plane": -7.5011,
+          "chains": 2,
+          "length_m": 39.706474003786745,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -7.5,
+          "chains": 2,
+          "length_m": 39.70099871254338,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -7.0,
+          "chains": 2,
+          "length_m": 39.728309072366095,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -6.9995,
+          "chains": 2,
+          "length_m": 39.74479766923368,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -6.5,
+          "chains": 2,
+          "length_m": 39.67761747641782,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -6.4981,
+          "chains": 2,
+          "length_m": 39.6836670286299,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -6.0,
+          "chains": 2,
+          "length_m": 39.71779352434839,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -5.9977,
+          "chains": 2,
+          "length_m": 39.71934882427512,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -5.5,
+          "chains": 2,
+          "length_m": 39.7010769883252,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -5.4983,
+          "chains": 2,
+          "length_m": 39.704407316728144,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -5.0,
+          "chains": 2,
+          "length_m": 39.7141441845167,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -4.9997,
+          "chains": 2,
+          "length_m": 39.7370050142801,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -4.5013,
+          "chains": 2,
+          "length_m": 39.68781671570926,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -4.5,
+          "chains": 2,
+          "length_m": 39.683889512883326,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -4.0022,
+          "chains": 2,
+          "length_m": 39.70454616823913,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -4.0,
+          "chains": 2,
+          "length_m": 39.702151571595124,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -3.5021,
+          "chains": 2,
+          "length_m": 39.72544809608466,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -3.5,
+          "chains": 2,
+          "length_m": 39.724009916612474,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -3.001,
+          "chains": 2,
+          "length_m": 39.693532310231014,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -3.0,
+          "chains": 2,
+          "length_m": 39.6869284799138,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -2.5,
+          "chains": 2,
+          "length_m": 39.71514782352395,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -2.4994,
+          "chains": 2,
+          "length_m": 39.728798071267484,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -2.0,
+          "chains": 2,
+          "length_m": 39.68973073758397,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -1.9981,
+          "chains": 2,
+          "length_m": 39.692376523655284,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -1.5,
+          "chains": 2,
+          "length_m": 39.72089663803483,
+          "segments": 82,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -1.4977,
+          "chains": 2,
+          "length_m": 39.72032053015064,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -1.0,
+          "chains": 2,
+          "length_m": 39.69783968278381,
+          "segments": 82,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -0.9983,
+          "chains": 2,
+          "length_m": 39.69849075067556,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -0.5,
+          "chains": 2,
+          "length_m": 39.69933720658893,
+          "segments": 82,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -0.4998,
+          "chains": 2,
+          "length_m": 39.72835182602241,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": -0.0013,
+          "chains": 2,
+          "length_m": 39.71519947275984,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 0.0001,
+          "chains": 2,
+          "length_m": 39.89452495066179,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 0.4978,
+          "chains": 2,
+          "length_m": 39.82504363121464,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 0.5,
+          "chains": 2,
+          "length_m": 39.82550539683841,
+          "segments": 82,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 0.9979,
+          "chains": 2,
+          "length_m": 39.84533588944163,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 1.0,
+          "chains": 2,
+          "length_m": 39.84364339939902,
+          "segments": 82,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 1.499,
+          "chains": 2,
+          "length_m": 39.83029063790977,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 1.5,
+          "chains": 2,
+          "length_m": 39.824031673680565,
+          "segments": 82,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 2.0,
+          "chains": 2,
+          "length_m": 39.842694736467706,
+          "segments": 82,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 2.0006,
+          "chains": 2,
+          "length_m": 39.853983038449115,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 2.5,
+          "chains": 2,
+          "length_m": 39.81584592438013,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 2.5019,
+          "chains": 2,
+          "length_m": 39.818597025054615,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 3.0,
+          "chains": 2,
+          "length_m": 39.798579833052386,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 3.0023,
+          "chains": 2,
+          "length_m": 39.80374306211159,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 3.5,
+          "chains": 2,
+          "length_m": 39.832288025894535,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 3.5016,
+          "chains": 2,
+          "length_m": 39.834280334235785,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 4.0,
+          "chains": 2,
+          "length_m": 39.826201109732345,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 4.0002,
+          "chains": 2,
+          "length_m": 39.85341483523317,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 4.4986,
+          "chains": 2,
+          "length_m": 39.85760414861,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 4.5,
+          "chains": 2,
+          "length_m": 39.85301143903872,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 4.9977,
+          "chains": 2,
+          "length_m": 39.81532133470536,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 5.0,
+          "chains": 2,
+          "length_m": 39.81300389183576,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 5.4979,
+          "chains": 2,
+          "length_m": 39.8597129490832,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 5.5,
+          "chains": 2,
+          "length_m": 39.85779126208317,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 5.999,
+          "chains": 2,
+          "length_m": 39.855757565124804,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 6.0,
+          "chains": 2,
+          "length_m": 39.848174520183804,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 6.5,
+          "chains": 2,
+          "length_m": 39.828483097238035,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 6.5006,
+          "chains": 2,
+          "length_m": 39.84523244639099,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 7.0,
+          "chains": 2,
+          "length_m": 39.833065129201046,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 7.0019,
+          "chains": 2,
+          "length_m": 39.8339432434164,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 7.5,
+          "chains": 2,
+          "length_m": 39.83617794963115,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 7.5023,
+          "chains": 2,
+          "length_m": 39.83843428458343,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 8.0,
+          "chains": 2,
+          "length_m": 39.865613927998226,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 8.0016,
+          "chains": 2,
+          "length_m": 39.86897824070718,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 8.5,
+          "chains": 2,
+          "length_m": 39.812919395292354,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 8.5001,
+          "chains": 2,
+          "length_m": 39.842406127343,
+          "segments": 159,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 8.9986,
+          "chains": 2,
+          "length_m": 39.853523703698755,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 9.0,
+          "chains": 2,
+          "length_m": 39.84850760524703,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 9.4977,
+          "chains": 2,
+          "length_m": 39.84930415563997,
+          "segments": 160,
+          "branch_vertices": 0,
+          "endpoints": 4
+        },
+        {
+          "plane": 9.5,
+          "chains": 2,
+          "length_m": 39.84649179309827,
+          "segments": 81,
+          "branch_vertices": 0,
+          "endpoints": 4
+        }
+      ]
+    },
+    {
+      "source_context": "Subordinate formation survey grid",
+      "axis": 0,
+      "planes": [
+        -6.0,
+        -4.0,
+        -2.0,
+        -1.0,
+        1.0,
+        2.0,
+        4.0,
+        6.0
+      ],
+      "curve": "Subordinate formation survey grid | World intersection v004",
+      "stats": [
+        {
+          "plane": -6.0,
+          "chains": 1,
+          "length_m": 22.829454623011063,
+          "segments": 361,
+          "branch_vertices": 0,
+          "endpoints": 2
+        },
+        {
+          "plane": -4.0,
+          "chains": 1,
+          "length_m": 20.5344329836182,
+          "segments": 361,
+          "branch_vertices": 0,
+          "endpoints": 2
+        },
+        {
+          "plane": -2.0,
+          "chains": 1,
+          "length_m": 18.602432295720746,
+          "segments": 362,
+          "branch_vertices": 0,
+          "endpoints": 2
+        },
+        {
+          "plane": -1.0,
+          "chains": 1,
+          "length_m": 18.61645966894578,
+          "segments": 366,
+          "branch_vertices": 0,
+          "endpoints": 2
+        },
+        {
+          "plane": 1.0,
+          "chains": 1,
+          "length_m": 18.614309450777526,
+          "segments": 364,
+          "branch_vertices": 0,
+          "endpoints": 2
+        },
+        {
+          "plane": 2.0,
+          "chains": 1,
+          "length_m": 18.602524585404726,
+          "segments": 362,
+          "branch_vertices": 0,
+          "endpoints": 2
+        },
+        {
+          "plane": 4.0,
+          "chains": 1,
+          "length_m": 20.53451748354518,
+          "segments": 361,
+          "branch_vertices": 0,
+          "endpoints": 2
+        },
+        {
+          "plane": 6.0,
+          "chains": 1,
+          "length_m": 22.829524826652452,
+          "segments": 361,
+          "branch_vertices": 0,
+          "endpoints": 2
+        }
+      ]
+    }
+  ]
+}

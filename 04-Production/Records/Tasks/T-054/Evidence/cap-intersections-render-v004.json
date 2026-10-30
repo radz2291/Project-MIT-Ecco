@@ -1,0 +1,16 @@
+[
+  {
+    "section": "S03",
+    "frame": 1,
+    "seconds": 2.5758466999977827,
+    "pass": true,
+    "settings": "640x360 Eevee8, no compositor/raytracing, full render-to-file"
+  },
+  {
+    "section": "S03",
+    "frame": 120,
+    "seconds": 1.1497443000553176,
+    "pass": true,
+    "settings": "640x360 Eevee8, no compositor/raytracing, full render-to-file"
+  }
+]

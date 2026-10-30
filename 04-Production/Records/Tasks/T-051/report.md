@@ -8,9 +8,9 @@
 |---|---|---|
 | [052 hardware / finish](../T-052/report.md) | Satin master, ECCO v003, BHA core satin v001 and BHA v008; actual S07/S05/S02 saved consumers; geometry preserved; shared edit propagation; motion and still checks | Owner appearance review |
 | [053 physical World](../T-053/report.md) | World v010 with exact irregular S02 wall, documented transforms and extents; S02/T44 consumers; shared edit propagation | Owner appearance review |
-| [054 digital / reveal](../T-054/report.md) | Saved S02 reveal and S06 context; shared physical World and local datasets kept distinct; camera/library checks pass | S03 contextual lines remain fragmented; correction active, package incomplete |
+| [054 digital / reveal](../T-054/report-v004.md) | V004 exact cap-topology correction, shared contextual-line library, preserved S02/S06 behavior; camera/data/link and propagation checks pass | Owner visually approved v004; final native-file inspection remains |
 | [055 surface / descent](../T-055/report.md) | Surface v005; actual S01/S02 consumers; seabed join, axial view opening and motion checked; shared edit propagation | Owner appearance review; opening is illustrative, not internal engineering geometry |
-| [056 acoustic waveform](../T-056/report.md) | V007/v010/v011 preserved; v012 seven-second device-context example now shows send, wall interaction, echo, reception and post-reception measurement | V012 awaits owner's visual choice; full controls/variants and two-consumer migration remain incomplete |
+| [056 acoustic waveform](../T-056/report.md) | V013 fast evolving field approved for now; earlier versions preserved | Live shared controls, variants and two-consumer checks underway |
 
 ## Independent review
 
@@ -59,3 +59,9 @@ Owner found v012 too much like a floating object and requested organic ocean-lik
 Master inspected successive context frames and the complete every-six-frame sequence, then independently reopened the saved native. `Evidence/rolling-field-v013-independent.json` passes stationary object/axial samples, evolving local geometry, sensor-sized maximum height, quiet start/end, wall and reception cue timing, same sensor, delayed measurement, relative links and unchanged file. These tests support the motion review; they do not establish owner visual acceptance. The strands still have a fine mesh appearance in still frames; the actual four-second clip is the review artifact for the requested movement.
 
 Native: `Shared/Assets/Acoustics/RibbonWaveform_v013/S02_rolling-wave-field_v013.blend`. Video: `Records/Tasks/T-056/Previews/rolling-wave-field-context_v013.mp4` (paths beneath `04-Production` in the main production checkout).96frames at24fps,640x360/Eevee16. Batch maximum2.26seconds/frame; benchmark maximum3.01seconds. Prior versions are preserved. Heavy scene/video remain local, without a new off-machine backup claim. Shared-library completion and full-shot integration remain pending.
+
+## Completion pass and owner review boundary
+
+Radzi approved v013 for now and reported no issues with the other previews, while reserving final approval until inspecting shared Blender files. He then authorized finishing054 first and056 second. During054 completion he explicitly approved its visual result. The [native review list](native-review.md) distinguishes preview approval from final native acceptance.
+
+054 v004 uses the exact two source cap grids instead of heuristic triangle filtering. All70 strata levels yield two continuous chains and all8 grid lines one chain, with no branches or hole-crossing chains. The3mm normal offset and0.1mm source-seam tie-break are display choices; local measurements are unchanged. Root inspected frames1/120/220/288, independently reopened S02/S03/S06 copies (camera/range/fps/libraries/source preservation pass), and read/reran the saved-copy shared propagation test for digital palette and reveal, including exact restoration. The derived shared line library has a manual source-hash preflight and tested regeneration helper; it does not update automatically with World geometry. Coarse source-timed continuity proof max2.856s/frame. Current entrypoint and limits: [054 v004 report](../T-054/report-v004.md).

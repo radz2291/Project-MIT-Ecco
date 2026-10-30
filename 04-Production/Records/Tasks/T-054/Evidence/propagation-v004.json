@@ -1,0 +1,133 @@
+[
+  {
+    "kind": "digital",
+    "method": "Saved disposable exact shared master copy; saved consumers relinked; edited master saved; fresh reopened consumers evaluated; byte-exact copied master restoration and reopened verification. Production masters/consumers never saved.",
+    "before": [
+      {
+        "ECCO shared cyan palette v001": [
+          0.02500000037252903,
+          0.2199999988079071,
+          0.28999999165534973,
+          1.0
+        ],
+        "ECCO shared cyan palette v001.001": [
+          0.02500000037252903,
+          0.2199999988079071,
+          0.28999999165534973,
+          1.0
+        ],
+        "ECCO shared cyan palette v001.002": [
+          0.02500000037252903,
+          0.2199999988079071,
+          0.28999999165534973,
+          1.0
+        ]
+      },
+      {
+        "ECCO shared cyan palette v001": [
+          0.02500000037252903,
+          0.2199999988079071,
+          0.28999999165534973,
+          1.0
+        ]
+      }
+    ],
+    "after": [
+      {
+        "ECCO shared cyan palette v001": [
+          0.3100000023841858,
+          0.07000000029802322,
+          0.17000000178813934,
+          1.0
+        ],
+        "ECCO shared cyan palette v001.001": [
+          0.3100000023841858,
+          0.07000000029802322,
+          0.17000000178813934,
+          1.0
+        ],
+        "ECCO shared cyan palette v001.002": [
+          0.3100000023841858,
+          0.07000000029802322,
+          0.17000000178813934,
+          1.0
+        ]
+      },
+      {
+        "ECCO shared cyan palette v001": [
+          0.3100000023841858,
+          0.07000000029802322,
+          0.17000000178813934,
+          1.0
+        ]
+      }
+    ],
+    "restored": [
+      {
+        "ECCO shared cyan palette v001": [
+          0.02500000037252903,
+          0.2199999988079071,
+          0.28999999165534973,
+          1.0
+        ],
+        "ECCO shared cyan palette v001.001": [
+          0.02500000037252903,
+          0.2199999988079071,
+          0.28999999165534973,
+          1.0
+        ],
+        "ECCO shared cyan palette v001.002": [
+          0.02500000037252903,
+          0.2199999988079071,
+          0.28999999165534973,
+          1.0
+        ]
+      },
+      {
+        "ECCO shared cyan palette v001": [
+          0.02500000037252903,
+          0.2199999988079071,
+          0.28999999165534973,
+          1.0
+        ]
+      }
+    ],
+    "source_unchanged": true,
+    "two_consumers_changed": true,
+    "test_master_restored_sha256": "5068442b00b73ddf4ad3e6245411a8d43839db776e699b6c099764b0f929d4c2"
+  },
+  {
+    "kind": "reveal",
+    "method": "Saved disposable exact shared master copy; saved consumers relinked; edited master saved; fresh reopened consumers evaluated; byte-exact copied master restoration and reopened verification. Production masters/consumers never saved.",
+    "before": [
+      {
+        "ONE WALL - old history and current cells share topology": 8292
+      },
+      {
+        "irregular | receipt then stored reveal": 27412,
+        "clean | receipt then stored reveal": 27412
+      }
+    ],
+    "after": [
+      {
+        "ONE WALL - old history and current cells share topology": 0
+      },
+      {
+        "irregular | receipt then stored reveal": 0,
+        "clean | receipt then stored reveal": 0
+      }
+    ],
+    "restored": [
+      {
+        "ONE WALL - old history and current cells share topology": 8292
+      },
+      {
+        "irregular | receipt then stored reveal": 27412,
+        "clean | receipt then stored reveal": 27412
+      }
+    ],
+    "source_unchanged": true,
+    "two_consumers_changed": true,
+    "test_master_restored_sha256": "6571281f6babff0b293dba55dfdf1cfbfb80f98ddd743d3dcc1469dbd539ec0f"
+  }
+]

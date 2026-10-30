@@ -1,0 +1,18 @@
+{
+  "current_hash_pass": true,
+  "stale_hash_rejected": true,
+  "changed_topology_count_rejected": true,
+  "coordinate_only_extent_tests": [
+    {
+      "outer_radius_m": 15.0,
+      "cap_triangle_count": 28960,
+      "topology_valid": true
+    },
+    {
+      "outer_radius_m": 25.0,
+      "cap_triangle_count": 28960,
+      "topology_valid": true
+    }
+  ],
+  "scope": "Topology selection tested at15/25m; no approval of changed-shape aesthetics. Changed World requires full regeneration and affected-consumer render checks."
+}
