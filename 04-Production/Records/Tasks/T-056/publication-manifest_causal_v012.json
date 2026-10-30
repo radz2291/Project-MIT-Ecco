@@ -1,0 +1,103 @@
+{
+  "status": "causal device-context proof awaiting owner acceptance",
+  "files": [
+    {
+      "path": "04-Production/Records/Tasks/T-056/.gitignore",
+      "sha256": "7b5134e5c86a4de2a15e0a141eb0be5df3ed41b72350382afe4f3cfbe5534547"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/report.md",
+      "sha256": "b4984557f416d5a5f99db649ebc306799512f3432951e0d11ebb62d0a2aa09e5"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/causal-proof-report_v012.md",
+      "sha256": "b4b39ee1094eb2a1adc79938256c93dfe1cb3552356bca184713c4a716f9167b"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/build_causal_v012.py",
+      "sha256": "3bce6228ab93dad70431f99a46156f75551f63977b7814567f6a05fcabdc549d"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/fix_causal_sensor_cue_v012.py",
+      "sha256": "10b093f40becfc193a358ac138a8fccc42717fdbb73e7afaad5937e0df38463a"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/verify_causal_v012.py",
+      "sha256": "f1be6517f4fca5a26e68d25224cc39f9f40fad2bd020dbaceee592be1188a577"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/render_causal_v012.py",
+      "sha256": "17ceadb07d916b1f128d804472e57cddc6ce3a641b4708cbb070e0a1a9b987d7"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/check_causal_preservation_v012.py",
+      "sha256": "d822465e196eb0850857e81875d2987d66983c4e23fc0d3da50db73c577bb8d6"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/causal-preservation_v012.json",
+      "sha256": "ff2fc93b42731f467d06db7eef96f0dc46090938d6bb9a3630e6f279eb038179"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/causal-benchmarks_v012.json",
+      "sha256": "224ee699647b264d8cac9d6717b411971bd5950db78a53c21739c9a9d81d51b0"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/causal-quiet-departure-bench_v012.json",
+      "sha256": "817af0f9ce1aa62945fcfd58bd5ea1746b848c2466d5fa7eb07301516f3a4791"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/causal-sensor-cue_v012.json",
+      "sha256": "3ec1e77ff49f7d5d98efaa57558872427a7b86a07fb6d677a1794a87a0197473"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/causal-timeline_v012.json",
+      "sha256": "6e71e4338431cf526c783a7c778eb40d5148b48253b6921129d3bc6ca785b05d"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/causal-verification_v012.json",
+      "sha256": "976cb4ba31fdc9d8b1c47f27fd8c2f50f0ec230d54466b035390bd8ba55d39a8"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/causal-batch_v012.json",
+      "sha256": "9a69a7b6954e7d44e6acc304266741926b62a8c9ead17f0be846bbbf7aa45675"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v012/README.md",
+      "sha256": "a71ac3c2c52c1fe05c930bdb1340f368a89fbe824e2a2d204a8f81a545edb3ed"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/causal_quiet_v012.png",
+      "sha256": "e20e36729a6f2e0ac8ce88225b07e196651c37a0e5ae57f1efe63549703a101d"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/causal_outgoing_v012.png",
+      "sha256": "023a57a3d4e1b27722f80279f5a3efe96c70ccac5b23b83153d4ca544e269705"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/causal_contact_v012.png",
+      "sha256": "438a0ec30be16908f8d444b29048a41c1cd4fdb912a9c0dcb9c20172ecf6e2d8"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/causal_return_v012.png",
+      "sha256": "55492f37383f334687fe296c315a13dbcd678c33a184c8eb9faee9e3e98c3c76"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/causal_receipt_v012.png",
+      "sha256": "44408ad55ec9e90fc8b4a1924fc5018a4f5aeccd3d0fc9dd7ffa608ffdc1664f"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/causal_measurement_v012.png",
+      "sha256": "c2553765b009460019497f19b4783cb629d400d6ee64953a549b3cfb6d7806cf"
+    }
+  ],
+  "local_only": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v012/S02_causal-waveform-review_v012.blend",
+      "sha256": "b096b02c9134f4ba72f8857f1df08806236864c153a86f26f359ea27a05c1f29"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/causal-waveform-context_v012.mp4",
+      "sha256": "459ea75290224796d6e79d95131be8e0db13e5fa4b618690067426d83810a83d"
+    }
+  ]
+}

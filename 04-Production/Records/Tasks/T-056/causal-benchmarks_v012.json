@@ -1,0 +1,27 @@
+[
+  {
+    "frame": 36,
+    "event": "outgoing",
+    "seconds": 2.5929207000881433
+  },
+  {
+    "frame": 54,
+    "event": "contact",
+    "seconds": 1.1042307000607252
+  },
+  {
+    "frame": 84,
+    "event": "return",
+    "seconds": 1.0147345999721438
+  },
+  {
+    "frame": 114,
+    "event": "receipt",
+    "seconds": 1.186059799976647
+  },
+  {
+    "frame": 140,
+    "event": "measurement",
+    "seconds": 0.9856507999356836
+  }
+]

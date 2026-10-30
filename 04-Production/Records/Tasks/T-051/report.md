@@ -10,7 +10,7 @@
 | [053 physical World](../T-053/report.md) | World v010 with exact irregular S02 wall, documented transforms and extents; S02/T44 consumers; shared edit propagation | Owner appearance review |
 | [054 digital / reveal](../T-054/report.md) | Saved S02 reveal and S06 context; shared physical World and local datasets kept distinct; camera/library checks pass | S03 contextual lines remain fragmented; correction active, package incomplete |
 | [055 surface / descent](../T-055/report.md) | Surface v005; actual S01/S02 consumers; seabed join, axial view opening and motion checked; shared edit propagation | Owner appearance review; opening is illustrative, not internal engineering geometry |
-| [056 acoustic waveform](../T-056/report.md) | V007/v010 preserved; new v011 five-second isolated and device-context examples show actual local waveform formation and settling | V011 awaits owner's visual choice; full controls/variants and two-consumer migration remain incomplete |
+| [056 acoustic waveform](../T-056/report.md) | V007/v010/v011 preserved; v012 seven-second device-context example now shows send, wall interaction, echo, reception and post-reception measurement | V012 awaits owner's visual choice; full controls/variants and two-consumer migration remain incomplete |
 
 ## Independent review
 
@@ -43,3 +43,11 @@ Owner correctly identified that v010 merely moved light over a completed shape. 
 Master inspected flat/growing/full/response/end states and independently reopened both v011 natives. Checks pass for changing evaluated geometry, invariant object transform and route X/Y, anchored endpoint positions within0.1micrometre, progressive rather than uniform growth, full height within1% of the40mm face, smaller response, fixed review camera/optics, relative libraries and unchanged files. Exact checks are in Evidence/formation-context-independent_v011.json and formation-isolated-independent_v011.json.
 
 The context is intentionally a review tableau frozen at source frame305, with its own5second timing and wider review camera. The source camera datablock/action is retained separately; this is not a claim that the proof plays the original shot timing. Full render-to-file maxima: isolated1.48s and context2.38s; initial context benchmark3.254s. The waveform motion is an artistic display, not measured ECCO data or calibrated particle motion. Owner visual choice and final library work remain outstanding.
+
+## Intent-led correction — v012
+
+Owner approved the clarified intent: sensor on right sends toward wall on left; interaction there causes the return into that same sensor; only after reception is a measurement recorded. V012 replaces whole-ribbon growth with finite visible signals on an anchored domain. The quiet gap is empty. A localized wall response, same-face reception cue and delayed wall mark make the event order explicit. Maximum outgoing height remains approximately40mm; the echo is approximately20mm.
+
+Master inspected quiet/departure/outgoing/contact/return/reception/measurement images and independently reopened the saved native. All sampled checks in `Evidence/causal-v012-independent.json` pass: stationary packet objects and axial sample coordinates, changing geometry, correct projected travel directions, wall response after arrival, echo originating at the wall, same-sensor emission/reception, no early receipt, no mark before the echo tail finishes, matching wall reaction/record location, full-size outgoing and smaller return, valid relative links and unchanged native file.
+
+The seven-second clip has168frames at24fps,640x360/Eevee16. All batch frames pass below5s; maximum2.857s. The initial cold-shader benchmark failure remains documented, and interpolation amplitude loss was fixed by baking every rendered frame before the final batch. All ten retained v007/v010/v011 native/video hashes match their prior manifests. This is still an illustrative review tableau with separate cinematic timing; original datasets and source scenes are untouched. Full shared controls, variants, migration and owner visual acceptance remain incomplete.

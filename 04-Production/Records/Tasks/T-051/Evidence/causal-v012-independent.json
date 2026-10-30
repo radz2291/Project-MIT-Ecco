@@ -1,0 +1,707 @@
+{
+  "candidate": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v012/S02_causal-waveform-review_v012.blend",
+  "sha256": "b096b02c9134f4ba72f8857f1df08806236864c153a86f26f359ea27a05c1f29",
+  "checks": {
+    "packet_objects_stationary": true,
+    "axial_route_coordinates_fixed": true,
+    "geometry_really_changes": true,
+    "empty_gap_at_start_and_end": true,
+    "outgoing_begins_at_sensor": true,
+    "outgoing_moves_sensor_to_wall": true,
+    "outgoing_moves_right_to_left_on_screen": true,
+    "no_wall_response_before_contact": true,
+    "wall_response_visible_at_contact": true,
+    "no_echo_before_wall_interaction": true,
+    "echo_begins_at_wall": true,
+    "echo_moves_back_to_sensor": true,
+    "echo_moves_left_to_right_on_screen": true,
+    "same_sensor_emits_and_receives": true,
+    "receipt_cue_not_early": true,
+    "echo_reaches_sensor_with_receipt_cue": true,
+    "measurement_only_after_complete_reception": true,
+    "measurement_at_same_wall_spot": true,
+    "outgoing_reaches_face_height": true,
+    "echo_smaller_than_outgoing": true,
+    "relative_links_resolve": true,
+    "saved_candidate_unchanged": true
+  },
+  "all_pass": true,
+  "samples": {
+    "1": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "17": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "19": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": [
+          0.0,
+          0.02916666679084301
+        ],
+        "centroid_u": 0.01458333368645981,
+        "projected_centroid": [
+          0.6127179861068726,
+          0.5323196649551392,
+          0.2585420608520508
+        ],
+        "height_m": 0.002013408220591373,
+        "geometry_sha256": "28b0f23f451544317067825ca93e7ac789e9d88c93b80083291517686750b86c"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": true,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "25": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": [
+          0.0,
+          0.2291666716337204
+        ],
+        "centroid_u": 0.11458333359665371,
+        "projected_centroid": [
+          0.5902787446975708,
+          0.6793921589851379,
+          0.25600484013557434
+        ],
+        "height_m": 0.025472783017903566,
+        "geometry_sha256": "a086a8d4ccbf11b095a7678bbe8a82ab96c4020bfa4673c168b12a4e483dc02a"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": true,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "30": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": [
+          0.0,
+          0.3958333432674408
+        ],
+        "centroid_u": 0.19791666676853006,
+        "projected_centroid": [
+          0.5704925060272217,
+          0.5147714018821716,
+          0.256570965051651
+        ],
+        "height_m": 0.040052665397524834,
+        "geometry_sha256": "523d21f19025a6497175a2d7282caef5116f76e6a678d9e8f84ce6ea1251f4b8"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": true,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "36": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": [
+          0.16249999403953552,
+          0.5958333611488342
+        ],
+        "centroid_u": 0.3791666658151717,
+        "projected_centroid": [
+          0.5281141996383667,
+          0.506506621837616,
+          0.25453194975852966
+        ],
+        "height_m": 0.040052665397524834,
+        "geometry_sha256": "37e8c37db686b0a8a1e7f881240d9291354b4ca176af95a764853ce23e45eb32"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "37": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": [
+          0.19583334028720856,
+          0.6291666626930237
+        ],
+        "centroid_u": 0.4125,
+        "projected_centroid": [
+          0.520246684551239,
+          0.5051904320716858,
+          0.25415414571762085
+        ],
+        "height_m": 0.04005264677107334,
+        "geometry_sha256": "88da575f0add20a4d075a3816f77e1fb6fc5370f3a24a2beac7b130f8f729d7b"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "40": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": [
+          0.2958333194255829,
+          0.7291666865348816
+        ],
+        "centroid_u": 0.5124999997161683,
+        "projected_centroid": [
+          0.49650323390960693,
+          0.5012181401252747,
+          0.2530207335948944
+        ],
+        "height_m": 0.04005264677107334,
+        "geometry_sha256": "c2a5d61b2f13c7337cae3dc3e3ab010965097628b36752b84b4dcd4ac9fc71ad"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "42": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": [
+          0.36250001192092896,
+          0.7958333492279053
+        ],
+        "centroid_u": 0.5791666666666667,
+        "projected_centroid": [
+          0.4805557429790497,
+          0.498550146818161,
+          0.25226515531539917
+        ],
+        "height_m": 0.040052665397524834,
+        "geometry_sha256": "80945f699ea948ab07755f54a83bef17918650ef8dc26e3bcea2177c0d312c0b"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "47": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": [
+          0.5291666388511658,
+          0.9624999761581421
+        ],
+        "centroid_u": 0.7458333333333333,
+        "projected_centroid": [
+          0.4402657151222229,
+          0.4918096363544464,
+          0.2503761351108551
+        ],
+        "height_m": 0.040052665397524834,
+        "geometry_sha256": "e5b718449a2d809e44a67f6366219bcfb7533d11379a5dc2884b436676ac8042"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "49": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": [
+          0.5958333611488342,
+          1.0
+        ],
+        "centroid_u": 0.7979166678019932,
+        "projected_centroid": [
+          0.4275502860546112,
+          0.48847565054893494,
+          0.24978584051132202
+        ],
+        "height_m": 0.040052665397524834,
+        "geometry_sha256": "d95eff7315cd73cba21e6a439660c805797ab1d13bb59356189e1f4bd3f54546"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": true,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "54": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": [
+          0.762499988079071,
+          1.0
+        ],
+        "centroid_u": 0.8812500002055332,
+        "projected_centroid": [
+          0.40761232376098633,
+          0.328572541475296,
+          0.2502756714820862
+        ],
+        "height_m": 0.02757849358022213,
+        "geometry_sha256": "afa959b6d7dde9f7f1095a94ecd8ee736c89086a401e7535fb56337ee0d40618"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": true,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "62": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": true,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "65": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": true,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "67": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": [
+          0.9750000238418579,
+          1.0
+        ],
+        "centroid_u": 0.987500011920929,
+        "projected_centroid": [
+          0.3807315230369568,
+          0.4855020046234131,
+          0.24759133160114288
+        ],
+        "height_m": 0.0007095513174135704,
+        "geometry_sha256": "b096108c1620efef2f6e2331efc1b3f05d972c0a51fefcdf6c0b43a482a1d3be"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "72": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": [
+          0.8374999761581421,
+          1.0
+        ],
+        "centroid_u": 0.9187500014901161,
+        "projected_centroid": [
+          0.3974584639072418,
+          0.5796256065368652,
+          0.24754656851291656
+        ],
+        "height_m": 0.010039473504548369,
+        "geometry_sha256": "c95b241096dca5d3b5a24d4b87e11efc185922da7345425b87be617eb8da1a2e"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "84": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": [
+          0.5041666626930237,
+          0.9375
+        ],
+        "centroid_u": 0.7208333333333333,
+        "projected_centroid": [
+          0.44634804129600525,
+          0.49162471294403076,
+          0.2506594955921173
+        ],
+        "height_m": 0.02004833333194256,
+        "geometry_sha256": "1bef91863b9fa2abee32e2377c17470e7bc107a43ba181316cbf892eb21e58d0"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "90": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": [
+          0.3333333432674408,
+          0.7708333134651184
+        ],
+        "centroid_u": 0.5520833328647433,
+        "projected_centroid": [
+          0.4870460033416748,
+          0.49844256043434143,
+          0.25257211923599243
+        ],
+        "height_m": 0.02004833333194256,
+        "geometry_sha256": "63c48ae642ba4a14df455a53654c68d775d6713bb260ea40f24866d293537767"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "100": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": [
+          0.05833333358168602,
+          0.49166667461395264
+        ],
+        "centroid_u": 0.27499999996452107,
+        "projected_centroid": [
+          0.5525503754615784,
+          0.5094161033630371,
+          0.2557125687599182
+        ],
+        "height_m": 0.020057312212884426,
+        "geometry_sha256": "c53cfb01471e6563c7f51cc8b560948213f67cef362d2666959a60deea852a42"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "103": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": [
+          0.0,
+          0.40833333134651184
+        ],
+        "centroid_u": 0.20416666682565002,
+        "projected_centroid": [
+          0.5690385103225708,
+          0.5121782422065735,
+          0.25651538372039795
+        ],
+        "height_m": 0.020057287998497486,
+        "geometry_sha256": "4198403c470b9cd38893b45934beb2ba1b8eb3fb64a31a63708e162d7d91560b"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": true,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "114": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": [
+          0.0,
+          0.1041666641831398
+        ],
+        "centroid_u": 0.052083333900484904,
+        "projected_centroid": [
+          0.6038964986801147,
+          0.46675819158554077,
+          0.25872737169265747
+        ],
+        "height_m": 0.00828431055015244,
+        "geometry_sha256": "0deeb25d90051986f599ab811b0bf689ca590ab6bf32ac6906caf14847397751"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": true,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "118": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": true,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "123": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    "124": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": true
+      }
+    },
+    "168": {
+      "OUTGOING_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "RETURN_FINITE_PACKET": {
+        "visible_support": null,
+        "centroid_u": null,
+        "projected_centroid": null,
+        "height_m": 0,
+        "geometry_sha256": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610"
+      },
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": true
+      }
+    }
+  },
+  "libraries": [
+    {
+      "path": "//..\\..\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    }
+  ],
+  "scope": "Illustrative causal review, not calibrated acoustic propagation."
+}

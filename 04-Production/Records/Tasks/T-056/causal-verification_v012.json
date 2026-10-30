@@ -1,0 +1,1576 @@
+{
+  "records": [
+    {
+      "frame": 1,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 24,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "bf156b2af9a17ebf206d5c82476377ffcf977b9dec74f04ebec0dd51bd3d8950",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": [
+            0.0,
+            0.19583334028720856
+          ],
+          "active_screen_endpoints": [
+            [
+              0.6159906387329102,
+              0.5200437903404236,
+              0.25882941484451294
+            ],
+            [
+              0.5709713697433472,
+              0.5125020742416382,
+              0.25660982728004456
+            ]
+          ],
+          "height_m": 0.02003494730706734,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": true,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 30,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "523d21f19025a6497175a2d7282caef5116f76e6a678d9e8f84ce6ea1251f4b8",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": [
+            0.0,
+            0.3958333432674408
+          ],
+          "active_screen_endpoints": [
+            [
+              0.6159906387329102,
+              0.5200437903404236,
+              0.25882941484451294
+            ],
+            [
+              0.524183452129364,
+              0.5046640038490295,
+              0.25434303283691406
+            ]
+          ],
+          "height_m": 0.040052665397524834,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": true,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 37,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "88da575f0add20a4d075a3816f77e1fb6fc5370f3a24a2beac7b130f8f729d7b",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": [
+            0.19583334028720856,
+            0.6333333253860474
+          ],
+          "active_screen_endpoints": [
+            [
+              0.5709713697433472,
+              0.5125020742416382,
+              0.25660982728004456
+            ],
+            [
+              0.4675278663635254,
+              0.4951728582382202,
+              0.25165122747421265
+            ]
+          ],
+          "height_m": 0.04005264677107334,
+          "route_coordinate_error_max_m": 3.201094469357235e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 42,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "80945f699ea948ab07755f54a83bef17918650ef8dc26e3bcea2177c0d312c0b",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": [
+            0.36250001192092896,
+            0.7958333492279053
+          ],
+          "active_screen_endpoints": [
+            [
+              0.5320392847061157,
+              0.5059800148010254,
+              0.2547208368778229
+            ],
+            [
+              0.42806002497673035,
+              0.48856106400489807,
+              0.24980944395065308
+            ]
+          ],
+          "height_m": 0.040052665397524834,
+          "route_coordinate_error_max_m": 2.057153163093073e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 48,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "548fd4b005e71ac6fab04f11208af53f931f7dcd8a28ccb353111382c6bf36b5",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": [
+            0.5625,
+            0.9958333373069763
+          ],
+          "active_screen_endpoints": [
+            [
+              0.48455148935317993,
+              0.49802470207214355,
+              0.2524540424346924
+            ],
+            [
+              0.3786780834197998,
+              0.48028841614723206,
+              0.24754264950752258
+            ]
+          ],
+          "height_m": 0.040052665397524834,
+          "route_coordinate_error_max_m": 2.173190294385563e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 54,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "afa959b6d7dde9f7f1095a94ecd8ee736c89086a401e7535fb56337ee0d40618",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": [
+            0.762499988079071,
+            1.0
+          ],
+          "active_screen_endpoints": [
+            [
+              0.43620336055755615,
+              0.4899252653121948,
+              0.2501872479915619
+            ],
+            [
+              0.3776395618915558,
+              0.4801144599914551,
+              0.24749542772769928
+            ]
+          ],
+          "height_m": 0.02757849358022213,
+          "route_coordinate_error_max_m": 3.9911204618992e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": true,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 65,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": true,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 66,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "268ac0acad3a3c0bd9a8d4ae33661ea173db712a4aa4b81de5c5627da8c78119",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 2.2028948769292622e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": true,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 78,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "25e0aba237d42ea9981b4b5ad82768e222aed7fd25e08ab3b04ad8efa62ab3e2",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": [
+            0.6666666865348816,
+            1.0
+          ],
+          "active_screen_endpoints": [
+            [
+              0.45947909355163574,
+              0.49382448196411133,
+              0.25127342343330383
+            ],
+            [
+              0.3776395618915558,
+              0.4801144599914551,
+              0.24749542772769928
+            ]
+          ],
+          "height_m": 0.02004833333194256,
+          "route_coordinate_error_max_m": 2.2468289971599997e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 90,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "63c48ae642ba4a14df455a53654c68d775d6713bb260ea40f24866d293537767",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": [
+            0.3333333432674408,
+            0.7708333134651184
+          ],
+          "active_screen_endpoints": [
+            [
+              0.5388939380645752,
+              0.5071283578872681,
+              0.2550514042377472
+            ],
+            [
+              0.43416979908943176,
+              0.4895845949649811,
+              0.2500928044319153
+            ]
+          ],
+          "height_m": 0.02004833333194256,
+          "route_coordinate_error_max_m": 2.0030008138216537e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 102,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "fa18af605aa3934d29c67e8cdd6259d01c9b309eefad13fd2e6730a39b06da67",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": [
+            0.004166666883975267,
+            0.4375
+          ],
+          "active_screen_endpoints": [
+            [
+              0.6150408387184143,
+              0.5198847055435181,
+              0.25878217816352844
+            ],
+            [
+              0.5143307447433472,
+              0.5030134320259094,
+              0.25387078523635864
+            ]
+          ],
+          "height_m": 0.02004833333194256,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 114,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "0deeb25d90051986f599ab811b0bf689ca590ab6bf32ac6906caf14847397751",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": [
+            0.0,
+            0.1041666641831398
+          ],
+          "active_screen_endpoints": [
+            [
+              0.6159906387329102,
+              0.5200437903404236,
+              0.25882941484451294
+            ],
+            [
+              0.5921408534049988,
+              0.5160484313964844,
+              0.2576487958431244
+            ]
+          ],
+          "height_m": 0.00828431055015244,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": true,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 118,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": true,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 123,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": false
+      }
+    },
+    {
+      "frame": 124,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": true
+      }
+    },
+    {
+      "frame": 140,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": true
+      }
+    },
+    {
+      "frame": 168,
+      "packets": [
+        {
+          "name": "OUTGOING_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        },
+        {
+          "name": "RETURN_FINITE_PACKET",
+          "geometry_hash": "b47f43a67e2a9699b24db62e8eb8fcee10f4e759f1e26d7860bf242e7ad90610",
+          "matrix": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.04694615676999092
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              -0.12229903787374496
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -729.5299682617188
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "active_route_bounds": null,
+          "active_screen_endpoints": [],
+          "height_m": 0,
+          "route_coordinate_error_max_m": 1.7744626427951271e-09
+        }
+      ],
+      "cues": {
+        "EMISSION_ON_SAME_SENSOR": false,
+        "EXACT_WALL_CONTACT_RIPPLE": false,
+        "SAME_SENSOR_RECEIPT": false,
+        "POST_RECEIPT_WALL_MEASUREMENT": true
+      }
+    }
+  ],
+  "sensor_screen": [
+    0.6159906387329102,
+    0.5200437903404236,
+    0.25882941484451294
+  ],
+  "wall_screen": [
+    0.3776395618915558,
+    0.4801144599914551,
+    0.24749542772769928
+  ]
+}

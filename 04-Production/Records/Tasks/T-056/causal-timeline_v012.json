@@ -1,0 +1,42 @@
+{
+  "source_context": "v011 fixed native305 review tableau",
+  "camera": "RIBBON_CONTEXT_REVIEW_20PCT_WIDER",
+  "sensor_world_m": [
+    0.04694615676999092,
+    -0.12229903787374496,
+    -729.5299682617188
+  ],
+  "wall_world_m": [
+    0.05575335770845413,
+    -0.1452425718307495,
+    -729.5299682617188
+  ],
+  "gap_m": 0.024575852808900598,
+  "packet_width_fraction": 0.44,
+  "outgoing": {
+    "start": 18,
+    "leading_wall_contact": 48,
+    "tail_at_wall": 61.2
+  },
+  "wall_response": [
+    48,
+    66
+  ],
+  "echo": {
+    "start_at_wall": 66,
+    "leading_sensor_receipt": 102,
+    "tail_at_sensor": 117.84
+  },
+  "sensor_reception_cue": [
+    102,
+    122
+  ],
+  "measurement_mark": [
+    124,
+    168
+  ],
+  "geometry": "sampled local height and transverse envelope on immutable route coordinates; no object motion",
+  "profile": "authored window of assumed400kHz pulse; artistic height field, not calibrated displacement/propagation",
+  "duration_s": 7,
+  "stored_animation": "absolute shape keys each frame, animated eval_time; shader masks outside finite support; no runtime handlers"
+}
