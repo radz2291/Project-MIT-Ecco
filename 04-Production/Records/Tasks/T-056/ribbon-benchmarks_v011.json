@@ -1,0 +1,22 @@
+[
+  {
+    "frame": 50,
+    "file": "context_full_050.png",
+    "seconds": 3.253913900000043
+  },
+  {
+    "frame": 1,
+    "file": "isolated_flat_001.png",
+    "seconds": 0.3276076999027282
+  },
+  {
+    "frame": 25,
+    "file": "isolated_growing_025.png",
+    "seconds": 0.3596320999786258
+  },
+  {
+    "frame": 50,
+    "file": "isolated_full_050.png",
+    "seconds": 0.4480243999278173
+  }
+]

@@ -10,7 +10,7 @@
 | [053 physical World](../T-053/report.md) | World v010 with exact irregular S02 wall, documented transforms and extents; S02/T44 consumers; shared edit propagation | Owner appearance review |
 | [054 digital / reveal](../T-054/report.md) | Saved S02 reveal and S06 context; shared physical World and local datasets kept distinct; camera/library checks pass | S03 contextual lines remain fragmented; correction active, package incomplete |
 | [055 surface / descent](../T-055/report.md) | Surface v005; actual S01/S02 consumers; seabed join, axial view opening and motion checked; shared edit propagation | Owner appearance review; opening is illustrative, not internal engineering geometry |
-| [056 acoustic waveform](../T-056/report.md) | V007 pressure-field alternative retained byte-exact at owner's request; new v010 fixed multistrand ribbon proof sized to the oval face | V010 awaits owner's visual choice; full controls/variants and two-consumer migration remain incomplete |
+| [056 acoustic waveform](../T-056/report.md) | V007/v010 preserved; new v011 five-second isolated and device-context examples show actual local waveform formation and settling | V011 awaits owner's visual choice; full controls/variants and two-consumer migration remain incomplete |
 
 ## Independent review
 
@@ -35,3 +35,11 @@ Owner supplied four luminous multistrand references and requested full amplitude
 V008/009 helped expose a curtain/fence appearance when many steep cycles were squeezed into the short24.576mm gap. V010 displays the2.5–5.0microsecond window of the existing assumed pulse as a broad static peak/trough, with documented artistic endpoint taper and amplitude normalization.32fine strands span the cap's full height/width; only light changes. The raw signal is unchanged and transverse height is a display mapping, not acoustic displacement.
 
 Master inspected isolated and actual-context stills. Independent reopened checks pass for fixed evaluated geometry over7frames, height/width matching the face within1%, and centering within0.5mm. A separate20%-wider review camera shows the complete envelope; the original context camera remains intact. The79frame3.292second isolated motion proof passes max1.410s/frame at960x540/Eevee32. This is a focused representation proof; no final cinematic or shared-library acceptance is claimed.
+
+## Formation animation correction — v011
+
+Owner correctly identified that v010 merely moved light over a completed shape. V011 preserves the anchored domain but changes actual mesh height through17local controls: flat start, progressive near-to-far formation, crest, weaker returning response, and an identical flat end. Both isolated and device-context clips contain120frames at24fps, five seconds each. V007/v010 native/video preservation checks pass.
+
+Master inspected flat/growing/full/response/end states and independently reopened both v011 natives. Checks pass for changing evaluated geometry, invariant object transform and route X/Y, anchored endpoint positions within0.1micrometre, progressive rather than uniform growth, full height within1% of the40mm face, smaller response, fixed review camera/optics, relative libraries and unchanged files. Exact checks are in Evidence/formation-context-independent_v011.json and formation-isolated-independent_v011.json.
+
+The context is intentionally a review tableau frozen at source frame305, with its own5second timing and wider review camera. The source camera datablock/action is retained separately; this is not a claim that the proof plays the original shot timing. Full render-to-file maxima: isolated1.48s and context2.38s; initial context benchmark3.254s. The waveform motion is an artistic display, not measured ECCO data or calibrated particle motion. Owner visual choice and final library work remain outstanding.

@@ -1,0 +1,67 @@
+{
+  "candidate": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v011/S02_ribbon-formation-review_v011.blend",
+  "sha256": "a53bb15e99df25be57ebea500186be09511e24f259fa86c010701cf3908375a0",
+  "range": [
+    1,
+    120
+  ],
+  "fps": 24,
+  "records": [
+    {
+      "frame": 1,
+      "geometry_sha256": "7f1095889aad1fef12976de99a8f42660b98b779c8c93cd53d42e47fbdc601d9",
+      "height_m": 6.406250031432137e-05
+    },
+    {
+      "frame": 25,
+      "geometry_sha256": "6b36eedc0fa484b229bd090b827dc33f7cc6b353c02760c2b33c41e1f4ea7edc",
+      "height_m": 0.019417119037825614
+    },
+    {
+      "frame": 50,
+      "geometry_sha256": "df2d389cd7131841065a88128f0c048a46e8020cba46f9bb0d91a1477dd211bf",
+      "height_m": 0.0401031281799078
+    },
+    {
+      "frame": 70,
+      "geometry_sha256": "ca1f0aa4393c01d960a8c04a5cd0b0f8da1c21ee216f96c403e67d1cd24e0847",
+      "height_m": 0.0010469276858202647
+    },
+    {
+      "frame": 90,
+      "geometry_sha256": "d08f432beae31d2b7ae5562e25fad38d1c29b30b6e9d749c8178a1f0675e8365",
+      "height_m": 0.02014682348817587
+    },
+    {
+      "frame": 120,
+      "geometry_sha256": "7f1095889aad1fef12976de99a8f42660b98b779c8c93cd53d42e47fbdc601d9",
+      "height_m": 6.406250031432137e-05
+    }
+  ],
+  "near_growth_f25": 0.925925901307062,
+  "far_growth_f25": 0.0,
+  "max_endpoint_deviation_m": 6.384469157781234e-22,
+  "libraries": [
+    {
+      "path": "//..\\..\\ECCO\\ECCO_film_v002.blend",
+      "exists": true
+    }
+  ],
+  "checks": {
+    "evaluated_geometry_changes": true,
+    "object_transform_fixed": true,
+    "route_xy_fixed": true,
+    "endpoints_fixed_within_0_1_micrometre": true,
+    "starts_flat": true,
+    "settles_to_identical_flat_end": true,
+    "progressive_not_uniform_growth": true,
+    "full_height_matches_40mm_face": true,
+    "response_smaller_than_full": true,
+    "review_camera_fixed": true,
+    "review_camera_optics_fixed": true,
+    "relative_libraries_resolve": true,
+    "saved_file_unchanged": true
+  },
+  "all_pass": true,
+  "scope": "Artistic review animation; not calibrated acoustic motion or original shot timing."
+}

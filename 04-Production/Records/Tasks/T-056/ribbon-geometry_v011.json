@@ -1,0 +1,214 @@
+{
+  "checks": [
+    {
+      "frame": 1,
+      "geometry_sha256": "7f1095889aad1fef12976de99a8f42660b98b779c8c93cd53d42e47fbdc601d9",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.04694615676999092
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.12229903787374496
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -729.5299682617188
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "height_m": 6.406250031432137e-05,
+      "near_height_factor": 0.0,
+      "far_height_factor": 0.0,
+      "endpoint_z_max_m": 3.2031250157160684e-05
+    },
+    {
+      "frame": 25,
+      "geometry_sha256": "6b36eedc0fa484b229bd090b827dc33f7cc6b353c02760c2b33c41e1f4ea7edc",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.04694615676999092
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.12229903787374496
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -729.5299682617188
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "height_m": 0.019417119037825614,
+      "near_height_factor": 0.925925925925926,
+      "far_height_factor": 0.0,
+      "endpoint_z_max_m": 3.2031250157160684e-05
+    },
+    {
+      "frame": 50,
+      "geometry_sha256": "df2d389cd7131841065a88128f0c048a46e8020cba46f9bb0d91a1477dd211bf",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.04694615676999092
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.12229903787374496
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -729.5299682617188
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "height_m": 0.0401031281799078,
+      "near_height_factor": 1,
+      "far_height_factor": 1,
+      "endpoint_z_max_m": 3.2031250157160684e-05
+    },
+    {
+      "frame": 70,
+      "geometry_sha256": "ca1f0aa4393c01d960a8c04a5cd0b0f8da1c21ee216f96c403e67d1cd24e0847",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.04694615676999092
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.12229903787374496
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -729.5299682617188
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "height_m": 0.0010469276858202647,
+      "near_height_factor": 0.0,
+      "far_height_factor": 0.06562414266117969,
+      "endpoint_z_max_m": 3.2031250157160684e-05
+    },
+    {
+      "frame": 90,
+      "geometry_sha256": "d08f432beae31d2b7ae5562e25fad38d1c29b30b6e9d749c8178a1f0675e8365",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.04694615676999092
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.12229903787374496
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -729.5299682617188
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "height_m": 0.02014682348817587,
+      "near_height_factor": 0.52,
+      "far_height_factor": 0.44331275147094296,
+      "endpoint_z_max_m": 3.2031250157160684e-05
+    },
+    {
+      "frame": 120,
+      "geometry_sha256": "7f1095889aad1fef12976de99a8f42660b98b779c8c93cd53d42e47fbdc601d9",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.04694615676999092
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.12229903787374496
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -729.5299682617188
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "height_m": 6.406250031432137e-05,
+      "near_height_factor": 0.0,
+      "far_height_factor": 0.0,
+      "endpoint_z_max_m": 3.2031250157160684e-05
+    }
+  ],
+  "geometry_changes": true,
+  "matrices_fixed": true,
+  "timeline": "1\u2013120 at24fps,5sec; source context frozen at native305 for review only; original source camera action retained",
+  "profile": "v010 2.5\u20135us artistic display window; seventeen local height controls",
+  "formation": "delayed growth f8+28u,12frame rise; crest48\u201354; settle54\u201370; weaker return65+20(1-u), decay105\u2013120",
+  "source_camera_preserved": "CAM_S01_Continuous"
+}

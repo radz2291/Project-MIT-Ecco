@@ -1,0 +1,91 @@
+{
+  "status": "actual geometry formation proof awaiting owner choice",
+  "files": [
+    {
+      "path": "04-Production/Records/Tasks/T-056/.gitignore",
+      "sha256": "f95d22916e435eb65934c21a3858f10882b8c4212f283f0c638b5769252ed072"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/report.md",
+      "sha256": "7ac2c113ff22d3a5342c42c7f2c99b5a9584aa77c26a389c2157308546579523"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/formation-proof-report_v011.md",
+      "sha256": "3f9c42967e7689301817c6a72c95f82bf964b67538d9a4932c5160ec3a4f2f7b"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/build_formation_v011.py",
+      "sha256": "f0e8af7a13ddf913b3b8a52aa358b48506034a8be5c48abd7d6061d8cbead266"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/render_formation_v011.py",
+      "sha256": "160890399a9fb54311398d6995078d04e931dd75c3f5ca13fac020c663e66ec6"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/check_formation_preservation_v011.py",
+      "sha256": "046ec115a44229079c8f0373175d5d869a973fa65e6cea555d9c3c4142bdb139"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/formation-preservation_v011.json",
+      "sha256": "5bba2873a25e35c3232f6c3ef13925ee0b3bac3457eff6371b6747c1328d6b69"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/ribbon-benchmarks_v011.json",
+      "sha256": "b3993c6f71a78da08f6550a23abd70b344bc49b53aeb053673bb0a0956ee0f8d"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/ribbon-geometry_v011.json",
+      "sha256": "7c485239b82a767261b4fcac11f7a6689d27c1cc0017fd02971175b798aa4617"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/formation-batch-isolated_v011.json",
+      "sha256": "24ef3442334aa5b71a6e4527dd2a284119aea008abe66b58b999aed7481b2cbb"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/formation-batch-context_v011.json",
+      "sha256": "fe69aeb734d3ae2f7e7c82fd092e8581799eb31d4c42fa022771187c23e4e8e3"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v011/README.md",
+      "sha256": "3dbd7905da20368d23b64c279c915e5c272395e4492a93bce9c005443defb60b"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/formation_flat_v011.png",
+      "sha256": "cc8be29b02cfe87ef017a8b3f442a7101f7b154acf4e77bc414c66d58922706c"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/formation_growing_v011.png",
+      "sha256": "ebb01ddbf184ac6b90fd6c3d558c8cbd79a9d1f8e5b0fc794b6199b652d66a04"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/formation_full_v011.png",
+      "sha256": "d92e33bddb317bdcf4563a1a5c7c1111b72aff5ca53a1e8d7bbbdf0e1b8923e9"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/formation_echo_v011.png",
+      "sha256": "2d4f39496553feacaf79a4ffaf6cef2013016bb422076b5e3b82cf826732c0ce"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/formation_context_v011.png",
+      "sha256": "8abbae3a083569a39c223836be5dcca9cb3785517fdfdcd0d95a492341aea878"
+    }
+  ],
+  "local_only": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v011/Ribbon_formation-dark_v011.blend",
+      "sha256": "61f61094a1cab1b227a90d730755ae64c6110bf34d428cc8db0c73a105201ad8"
+    },
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v011/S02_ribbon-formation-review_v011.blend",
+      "sha256": "a53bb15e99df25be57ebea500186be09511e24f259fa86c010701cf3908375a0"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/ribbon_formation-isolated_v011.mp4",
+      "sha256": "521a6848b869203d2e1699cca56aa41e0b8ede57f22591274c57ebb02614224f"
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Previews/ribbon_formation-context_v011.mp4",
+      "sha256": "2a5a478123671f5a21a618cd8a205ea9204f3930a4272620dd316c07ccf29e91"
+    }
+  ]
+}

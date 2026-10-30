@@ -1,0 +1,32 @@
+[
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/Ribbon_dark-stage_v010.blend",
+    "sha256": "d9c099d0ac9c456ecf0e2a44aa57ed0cbc7a1476597703800ac85c88c30f997c",
+    "matches_preserved_manifest": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-context_v010.blend",
+    "sha256": "fda02dfc2c64882f6d7f04ec304ce8d2585c1dd33aba74796547830429a488d0",
+    "matches_preserved_manifest": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-review-framing_v010.blend",
+    "sha256": "aa1e040dfc7e99f95fc6577a586e3a31427c155c156be3d0d1d476872e62fe34",
+    "matches_preserved_manifest": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-056/Previews/ribbon_v010_slow-review.mp4",
+    "sha256": "251b9d1e9a3fed1250ad223e1061c5893045686bdba7a85f1ae276a84db1407e",
+    "matches_preserved_manifest": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Acoustics/PressureField_v007/S02_pressure-field-proof_v007.blend",
+    "sha256": "940efed0f0cb2254c8301a58141c40532e3fcf1528e7958638b6e8a40260e519",
+    "matches_preserved_manifest": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-056/Previews/pressure-field_v007_slow-review.mp4",
+    "sha256": "79d072cac103e17fd6a8bcdd408db98c1ed93db3911cca99bbd6538a1a76b96c",
+    "matches_preserved_manifest": true
+  }
+]
