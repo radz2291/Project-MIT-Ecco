@@ -1,0 +1,51 @@
+{
+  "geometry_unchanged": true,
+  "links_resolve": true,
+  "rendered": false,
+  "world": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Borehole\\World_environment_v012.blend",
+  "demo": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Surface_descent_demo_v003.blend",
+  "palette": [
+    [
+      0.29,
+      0.265,
+      0.225,
+      1
+    ],
+    [
+      0.38,
+      0.325,
+      0.25,
+      1
+    ],
+    [
+      0.255,
+      0.25,
+      0.23,
+      1
+    ],
+    [
+      0.335,
+      0.295,
+      0.245,
+      1
+    ],
+    [
+      0.31,
+      0.28,
+      0.235,
+      1
+    ],
+    [
+      0.27,
+      0.26,
+      0.24,
+      1
+    ],
+    [
+      0.245,
+      0.225,
+      0.2,
+      1
+    ]
+  ]
+}
