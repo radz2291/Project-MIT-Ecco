@@ -1,0 +1,59 @@
+{
+  "status": "producer-authorized illustration; O05 remains open before technical lock",
+  "producer_selection": "authorized_provisional_illustration_2026-10-16",
+  "product_library": "../../Archive/2026-10-31/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+  "product_collection": "ECCO_MASTER_v002",
+  "product_sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7",
+  "intervals": {
+    "upper_cased": {
+      "host_hole_diameter_inches": 17.5,
+      "casing_od_inches": 13.375,
+      "reference_weight_lb_ft": 61,
+      "body_wall_inches": 0.43,
+      "nominal_body_id_inches": 12.515,
+      "reference_drift_inches": 12.359,
+      "cement_extent": "ideal host-hole-to-casing annulus; inferred geometry, not an engineered cement job"
+    },
+    "lower_open": {
+      "hole_diameter_inches": 12.25,
+      "bit_gauge_inches": 12.25,
+      "casing_present": false
+    }
+  },
+  "generic_collar_reference": {
+    "od_inches": 8.25,
+    "id_inches": 2.8125,
+    "connection": "6-5/8 REG",
+    "actual_MIT_BHA": false,
+    "crossover_to_ENP3_FH": "required type/interface confirmation; no assumed direct mating",
+    "length_m": null,
+    "ECCO_to_bit_distance_m": null
+  },
+  "illustrative_wall_parameters": {
+    "rugosity_amplitude_m": null,
+    "spiral_amplitude_m": null,
+    "spiral_pitch_m": null
+  },
+  "sources": {
+    "interval_progression": "https://www.slb.com/resource-library/case-study-with-navigation/bdt/direct-xcd-indonesia-cs",
+    "casing_geometry": "https://www.tenaris.com/media/lqxjon4r/blanking_wedge_521.pdf (p3; 2016 revision10; use inch values)",
+    "BHA_structure": "https://glossary.slb.com/terms/b/bottomhole_assembly",
+    "collar_reference": "https://assets.nov.com/NCP4N68N/at/kf3z37rbhs5v2xc842bnh9x/SpiralWate_DC_flyer_-_Letter_-_Web_22May2025.pdf (p2)",
+    "ENP3_specification": "01-Brief/ECCO_ENP3_Datasheet-1.pdf p3; supplied client source"
+  },
+  "limitations": [
+    "Two different host-hole diameters are intentional; do not force both intervals into the original single-hole builder schema.",
+    "Nominal ID is not drift or the minimum of all actual connection bores.",
+    "No direct FH-to-REG thread compatibility, BHA placement, dogleg or load acceptance.",
+    "Actual deployment O05 and incoming assembled model O14 remain open."
+  ],
+  "authorization": "Proceed with the researched configuration as a provisional illustration. Adapt the builder for separate cased and open-hole intervals, complete the well variants and controls, and provide moving previews. Keep unknown BHA placement and adapters simplified and explicitly provisional. Preserve O05 for MIT confirmation before technical lock.",
+  "illustrative_layout": {
+    "upper_start_m": -5.5,
+    "lower_end_m": 6.0,
+    "washout_radial_m": 0.0254,
+    "spiral_radial_m": 0.0254,
+    "spiral_pitch_m": 1.8,
+    "note": "Lengths, outward profile amplitudes/pitch, proxy lengths and test motion are illustrative authoring parameters, not MIT field/assembly dimensions. All are editable/rebuildable."
+  }
+}

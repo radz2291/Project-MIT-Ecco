@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "240_moves_recorded": true,
+    "all_destinations_exist": true,
+    "archive_byte_exact": true,
+    "sources_byte_exact": true,
+    "active_native_postimages_match": true,
+    "only_active_demo_native_changed": true,
+    "root_has_only_categories_and_readme": true
+  },
+  "pass": true,
+  "active_native_libraries": 16,
+  "demos": 6,
+  "archived_original_files": 204,
+  "source_files": 5,
+  "native_files_patched": 14,
+  "path_fields_patched": 548,
+  "decoded_content_unchanged_outside_path_fields": true,
+  "archive_links": "Not maintained or validated, by owner instruction",
+  "historical_scene_links": "Not migrated; outside active delivery",
+  "sources": "Byte-exact supplied originals",
+  "unused_task_dryrun_deltas_removed": 129,
+  "unused_task_dryrun_bytes_reclaimed": 6649768,
+  "free_disk_bytes": 20539285504,
+  "native_backup_status": "Local exact rollback deltas retained; no new off-machine backup claim"
+}

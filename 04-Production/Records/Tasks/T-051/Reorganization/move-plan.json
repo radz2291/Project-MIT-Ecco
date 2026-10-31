@@ -1,0 +1,1682 @@
+[
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Acoustics_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Acoustics_v001.blend",
+    "kind": "archive",
+    "bytes": 97882,
+    "sha256": "9438956e8d7bd405faed29c9e1e8c531706f3b155516285bd44ff58a6656bcba"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Acoustics_v002.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Acoustics_v002.blend",
+    "kind": "archive",
+    "bytes": 97870,
+    "sha256": "9712ec199316ed337769582c735722b56370fb6cd01691fd77e6526b3742163a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Acoustics_v003.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Acoustics_v003.blend",
+    "kind": "archive",
+    "bytes": 97869,
+    "sha256": "2a467616b68a6183a33a7fb0e4abb685642bf3da1954ccd0377f035b44fb9572"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/event-interface_v002.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/event-interface_v002.json",
+    "kind": "archive",
+    "bytes": 2409,
+    "sha256": "867491345601e466f11bf4707459aaa1f14fe621c7861241b49a9655afd58025"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/manifest_v001.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/manifest_v001.json",
+    "kind": "archive",
+    "bytes": 6654,
+    "sha256": "51a6f0781970f5b51de680a14c10fa504c0b3d5825cb4b1a03925c4652276675"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/manifest_v002.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/manifest_v002.json",
+    "kind": "archive",
+    "bytes": 6122,
+    "sha256": "bb6d1a44c108a51f1f79af91e9b0b58fe88a592d3513a8e742aa95f215ef0e47"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v005/.gitignore",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v005/.gitignore",
+    "kind": "archive",
+    "bytes": 53,
+    "sha256": "e58b0918539f24443d80f42d943bceb904c10d6c58e2a602c7a4f6d1ec17a049"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Data/pressure_field_samples.npz",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v005/Data/pressure_field_samples.npz",
+    "kind": "archive",
+    "bytes": 27257,
+    "sha256": "ed9f1471ec1f1a480d4665db5d6804d51b00a0b7c9725c2896fc1a64283d4a52"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Data/receiver_model.csv",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v005/Data/receiver_model.csv",
+    "kind": "archive",
+    "bytes": 32819,
+    "sha256": "b0c4c4c5bf04d5ee46d3bc4d39cf853fdae614798bf002dec2f6a73048ece692"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Data/source_pulse.csv",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v005/Data/source_pulse.csv",
+    "kind": "archive",
+    "bytes": 5377,
+    "sha256": "af019a2935a59c4399b3651fcc18fe9b92fc761d4fd3d3a6ee4b3a55c98349bb"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Data/source_pulse.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v005/Data/source_pulse.json",
+    "kind": "archive",
+    "bytes": 1490,
+    "sha256": "b875c17a8db4c7097bfb5bd858772f6b6aece9cb837e71f8464a4b37000c912e"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v005/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v005/README.md",
+    "kind": "archive",
+    "bytes": 5993,
+    "sha256": "42fcd51d1659326a3ed91290bbe50f6d5a39dc8681fdc49d200a7cee1c79f823"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v005/S02_pressure-field-proof_v005.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v005/S02_pressure-field-proof_v005.blend",
+    "kind": "archive",
+    "bytes": 18313980,
+    "sha256": "d36f0919fcd2fd7485b612cbadda8d68fff960b6aec79e3b01296be50d666efc"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Scripts/__pycache__/pressure_model.cpython-312.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v005/Scripts/__pycache__/pressure_model.cpython-312.pyc",
+    "kind": "archive",
+    "bytes": 17883,
+    "sha256": "ac21ca63f168874265f34aedab22c31dc1e35de3a6c2ccfe4de35064854c0cc7"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Scripts/__pycache__/pressure_model.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v005/Scripts/__pycache__/pressure_model.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 18027,
+    "sha256": "38d5ad00feac1b150fd2924ce337d3f800b15eff2b5091b5dd3af4dffd1bd8ef"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v005/Scripts/pressure_model.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v005/Scripts/pressure_model.py",
+    "kind": "archive",
+    "bytes": 9936,
+    "sha256": "c07e24a59f165bae4e42f8e57b5ab5c38053c176b291b48c191132e1fac5c9d9"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v006/S02_pressure-field-proof_v006.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v006/S02_pressure-field-proof_v006.blend",
+    "kind": "archive",
+    "bytes": 18159977,
+    "sha256": "c8e23bb47295f7fd82c09bc2a619e01b6ee6187a8360e2fcdefa463270a786a3"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/PressureField_v007/S02_pressure-field-proof_v007.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/PressureField_v007/S02_pressure-field-proof_v007.blend",
+    "kind": "archive",
+    "bytes": 18145138,
+    "sha256": "940efed0f0cb2254c8301a58141c40532e3fcf1528e7958638b6e8a40260e519"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/README_v001.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/README_v001.md",
+    "kind": "archive",
+    "bytes": 8397,
+    "sha256": "342ea0e3d2abd46d360b028dc262340227e5bd65cde16084d13081f6aa890b4d"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v008/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v008/README.md",
+    "kind": "archive",
+    "bytes": 2002,
+    "sha256": "2161be83d1fcfb271d586276d9d203aa6948610d0a65648bb0e746a3342ffb89"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v008/Ribbon_dark-stage_v008.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v008/Ribbon_dark-stage_v008.blend",
+    "kind": "archive",
+    "bytes": 20131305,
+    "sha256": "20606090a11e1de8974f39b512e07665f892a2f7f67f6fd5468ae93409737206"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v008/S02_ribbon-context_v008.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v008/S02_ribbon-context_v008.blend",
+    "kind": "archive",
+    "bytes": 20130896,
+    "sha256": "e5a7a2fb38eba2f001474bf458d2997c524675b57c87c98d188279aa26826078"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v009/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v009/README.md",
+    "kind": "archive",
+    "bytes": 2338,
+    "sha256": "ba6e8396b3f221651cd81772a1b15f11c172f5f683b2c1ebdc9a1daafe95ab0c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v009/Ribbon_dark-stage_v009.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v009/Ribbon_dark-stage_v009.blend",
+    "kind": "archive",
+    "bytes": 18970399,
+    "sha256": "45c478709ca81a947661c038ccebef5e012d6568270cd46d3dfe9c7771087752"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v009/Ribbon_profile-stage_v009.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v009/Ribbon_profile-stage_v009.blend",
+    "kind": "archive",
+    "bytes": 18958724,
+    "sha256": "6aaa9a77c98aac3f53ebb6e8c95768a0c7857a976ea9a72f85fe661318d08e61"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v009/S02_ribbon-context_v009.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v009/S02_ribbon-context_v009.blend",
+    "kind": "archive",
+    "bytes": 19220284,
+    "sha256": "b6595894c6d8e0618adaa09b54d707efc24bfc70cf516d1a52e7215cd8558238"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v010/README.md",
+    "kind": "archive",
+    "bytes": 2017,
+    "sha256": "9874f445a0bea8c4fa1d84028e6b44144d9b1314c7a313fd7559fa652e29f587"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/Ribbon_dark-stage_v010.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v010/Ribbon_dark-stage_v010.blend",
+    "kind": "archive",
+    "bytes": 18954544,
+    "sha256": "d9c099d0ac9c456ecf0e2a44aa57ed0cbc7a1476597703800ac85c88c30f997c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-context_v010.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-context_v010.blend",
+    "kind": "archive",
+    "bytes": 19214751,
+    "sha256": "fda02dfc2c64882f6d7f04ec304ce8d2585c1dd33aba74796547830429a488d0"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-review-framing_v010.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v010/S02_ribbon-review-framing_v010.blend",
+    "kind": "archive",
+    "bytes": 19215332,
+    "sha256": "aa1e040dfc7e99f95fc6577a586e3a31427c155c156be3d0d1d476872e62fe34"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v011/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v011/README.md",
+    "kind": "archive",
+    "bytes": 2536,
+    "sha256": "3dbd7905da20368d23b64c279c915e5c272395e4492a93bce9c005443defb60b"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v011/Ribbon_formation-dark_v011.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v011/Ribbon_formation-dark_v011.blend",
+    "kind": "archive",
+    "bytes": 20318486,
+    "sha256": "61f61094a1cab1b227a90d730755ae64c6110bf34d428cc8db0c73a105201ad8"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v011/S02_ribbon-formation-review_v011.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v011/S02_ribbon-formation-review_v011.blend",
+    "kind": "archive",
+    "bytes": 20321154,
+    "sha256": "a53bb15e99df25be57ebea500186be09511e24f259fa86c010701cf3908375a0"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v012/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v012/README.md",
+    "kind": "archive",
+    "bytes": 2870,
+    "sha256": "a71ac3c2c52c1fe05c930bdb1340f368a89fbe824e2a2d204a8f81a545edb3ed"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v012/S02_causal-waveform-review_v012.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v012/S02_causal-waveform-review_v012.blend",
+    "kind": "archive",
+    "bytes": 28296046,
+    "sha256": "b096b02c9134f4ba72f8857f1df08806236864c153a86f26f359ea27a05c1f29"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v013/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v013/README.md",
+    "kind": "archive",
+    "bytes": 2669,
+    "sha256": "1f5e392060bba73b023a28d575f6dffdfb94aa3f3c6f88e8483e805b08ba1f15"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/RibbonWaveform_v013/S02_rolling-wave-field_v013.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/RibbonWaveform_v013/S02_rolling-wave-field_v013.blend",
+    "kind": "archive",
+    "bytes": 24995928,
+    "sha256": "049a1aa27a256b302ae5c65822f863333f92ba826c36ac412e1f313f31d11d15"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/__pycache__/acoustic_binding_v001.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/__pycache__/acoustic_binding_v001.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 4332,
+    "sha256": "453b75b87c032068618f0bbba013f7ddfe9e58495f4ba085d63aeca025a32d96"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/__pycache__/acoustic_event_v001.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/__pycache__/acoustic_event_v001.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 9710,
+    "sha256": "f7009a1dc80bee25314bbe27837e0dc91c1bae1d51b47db0c0656e2466845554"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/__pycache__/acoustic_event_v002.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/__pycache__/acoustic_event_v002.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 18189,
+    "sha256": "d3a54809a18cf11e0459a8dc3ea9d4e82790911efb9e0b689cd40d95e419412f"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/__pycache__/acoustic_verify_v002.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/__pycache__/acoustic_verify_v002.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 12068,
+    "sha256": "665b117740e3446f9fca4c07edc232e326b68e01d3dc484989c5a0635b804228"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/__pycache__/build_sensing_v001.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/__pycache__/build_sensing_v001.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 29624,
+    "sha256": "aec7d0aa0078328a0099d4a24f81cb64993676b26ef97491e3f7bc7b8b54a1ba"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/acoustic_binding_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/acoustic_binding_v001.py",
+    "kind": "archive",
+    "bytes": 2332,
+    "sha256": "286c91b162804d2391a81cabdf822540389d24a811ad71c16f9b2bfcd3196f3a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/acoustic_event_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/acoustic_event_v001.py",
+    "kind": "archive",
+    "bytes": 4430,
+    "sha256": "4fc3d1506f93159e6b6fec75e5d7b398cb9dd53cdb6f47e3e9fd0c2185c823b0"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/acoustic_event_v002.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/acoustic_event_v002.py",
+    "kind": "archive",
+    "bytes": 8398,
+    "sha256": "5188b68d4769167b3abbd5f75de6f71f03b9963c734d9e9b7be443bc2d56bde0"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/acoustic_verify_v002.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/acoustic_verify_v002.py",
+    "kind": "archive",
+    "bytes": 6174,
+    "sha256": "cb89584bb04a1fc3c5b9a26b7523c9e1ab697fffa49fce9a271e0ce6b0da926a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/build_sensing_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/build_sensing_v001.py",
+    "kind": "archive",
+    "bytes": 11649,
+    "sha256": "a911afb818498d490696275c481b2c474499e168cc0f9bf2336ca3d1fefe9d11"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/check_extension_visibility_v009.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/check_extension_visibility_v009.py",
+    "kind": "archive",
+    "bytes": 3141,
+    "sha256": "a979950e2367280c00c88908c12d7207b776696e6e779b587387d4d962fd2264"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/inspect_sensing_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/inspect_sensing_v001.py",
+    "kind": "archive",
+    "bytes": 1278,
+    "sha256": "0d12a9cdb5a88854fd79041fe7b694f307fc25491d51825aa3aaa71c4badaf20"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/inspect_sightlines_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/inspect_sightlines_v001.py",
+    "kind": "archive",
+    "bytes": 1909,
+    "sha256": "a91035d12ca8e9b897091c473f381d073cf5cd1b13589dc7aaf139e17a263b3a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/migrate_continuity_v009.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/migrate_continuity_v009.py",
+    "kind": "archive",
+    "bytes": 3877,
+    "sha256": "cd295c5c2d9f596ffce32e8763f5d21a74d1ec7ba4317b52309f08b9fff2dc88"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/package_sensing_final_v002.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/package_sensing_final_v002.py",
+    "kind": "archive",
+    "bytes": 5482,
+    "sha256": "39045259195db0ce9f2a0739c6f1b1966b46b05675425f892fe0abcc8c3767db"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/package_sensing_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/package_sensing_v001.py",
+    "kind": "archive",
+    "bytes": 4697,
+    "sha256": "4ac1f26f19346148d6ebcb7d4b5c461b5712abc85ef777eb6a857c492ac6d6b7"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/render_sensing_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/render_sensing_v001.py",
+    "kind": "archive",
+    "bytes": 2525,
+    "sha256": "ff459ea86b2d7dafbd2a2752bd34fac1f92b194eff7055ea20f56cfc6c7e58b8"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/render_sensing_v009.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/render_sensing_v009.py",
+    "kind": "archive",
+    "bytes": 2440,
+    "sha256": "a566dad136f321954c44a2be9653d8a74bd2e4ee6e0a85f680d01ad7e3edb979"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/repair_arcs_v007.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/repair_arcs_v007.py",
+    "kind": "archive",
+    "bytes": 2160,
+    "sha256": "fd1020697fc14207bc30c6a8a43444f564c54f65dde11716200e3d116e63af80"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/repair_B_camera_v010.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/repair_B_camera_v010.py",
+    "kind": "archive",
+    "bytes": 1762,
+    "sha256": "79b4f648eb1db3d9128f8a92837b12df91c96bd9a709f0b685079296efa317dd"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/repair_camera_v005.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/repair_camera_v005.py",
+    "kind": "archive",
+    "bytes": 1531,
+    "sha256": "ac6313e70f706fe92df5029cafe8020f24896666527f788258d47a1f883bdbc2"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/repair_face_camera_v006.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/repair_face_camera_v006.py",
+    "kind": "archive",
+    "bytes": 4137,
+    "sha256": "e191dc7ac7d020edc0b6524d4e048f6596463696042573cfef5c56fcd0121cbb"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/repair_point_v008.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/repair_point_v008.py",
+    "kind": "archive",
+    "bytes": 622,
+    "sha256": "3ff8e2cf727cd63ed2527143fa4d1f36fe0ffcf821326fd0a116dc068c2c014b"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/upgrade_consumers_v003.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/upgrade_consumers_v003.py",
+    "kind": "archive",
+    "bytes": 1490,
+    "sha256": "57f8c25cdff0d620d130819da39eef94b2923626c25f784eb96c19e929086028"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/verify_sensing_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/verify_sensing_v001.py",
+    "kind": "archive",
+    "bytes": 5020,
+    "sha256": "77c9ceb1307206adc48ad6192aa19b5e8b340ebe2e1fd13f3405f695c4d2ee4a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Scripts/verify_sensing_v009.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Scripts/verify_sensing_v009.py",
+    "kind": "archive",
+    "bytes": 8386,
+    "sha256": "3ca36feda7c3d746a5efa657d2857c35fc4cbf1362e76e769d81562e2db5ce94"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Waveform_shared_v014/Waveform_shared_v014.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Waveform_shared_v014/Waveform_shared_v014.blend",
+    "kind": "archive",
+    "bytes": 25494967,
+    "sha256": "f40442c23464edf73afb0a1e752625f37aac9e780123f073ddb95addb220c235"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Waveform_shared_v015/Waveform_shared_v015.blend",
+    "new": "04-Production/Shared/Assets/Effects/Waveform/Waveform_shared_v015.blend",
+    "kind": "active",
+    "bytes": 611558,
+    "sha256": "91c439395b93e4babf17c0a476b0e75ca06e9a60102af1c31aeb9eadb3c1121d"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Waveform_shared_v015/Waveform_shared_v015.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Waveform_shared_v015/Waveform_shared_v015.blend1",
+    "kind": "archive",
+    "bytes": 611588,
+    "sha256": "a32437d208fdfa1b187b066f5138814295c0497ed367d41dc5c108cfe4592505"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Waveform_v002/S02_spatial-waveform-proof_v002.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Waveform_v002/S02_spatial-waveform-proof_v002.blend",
+    "kind": "archive",
+    "bytes": 17924494,
+    "sha256": "3e60cfb8a71be51d3ee453694c7d708c4a8c6a391241690ee4f4abbd339125af"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Waveform_v003/S02_spatial-waveform-proof_v003.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Waveform_v003/S02_spatial-waveform-proof_v003.blend",
+    "kind": "archive",
+    "bytes": 17924493,
+    "sha256": "833f50248960ea8f967fd5c581c470e175d0f7004f18b432a663a7249af37e82"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/Waveform_v004/S02_static-waveform-path_v004.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/Waveform_v004/S02_static-waveform-path_v004.blend",
+    "kind": "archive",
+    "bytes": 17970063,
+    "sha256": "2868df7b671f80c6f7d3f6898613bc1542200a7b87ea13c41a7b29ed6549dcd5"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Acoustics/WaveformControls_v001/Scripts/fixed_waveform.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Acoustics/WaveformControls_v001/Scripts/fixed_waveform.py",
+    "kind": "archive",
+    "bytes": 12256,
+    "sha256": "2389584916cbc083b5d3e64cfd783b28654269389f62d313712e1a932229a38e"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_core_satin_v001.blend",
+    "new": "04-Production/Shared/Assets/Hardware/BHA/Dependencies/BHA_core_satin_v001.blend",
+    "kind": "active",
+    "bytes": 195179,
+    "sha256": "7e60952d039d85f4e964cbbb963f046935f8320b850027d2b654f5f365c1e6f5"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_core_satin_v001.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/BHA/BHA_core_satin_v001.blend1",
+    "kind": "archive",
+    "bytes": 195196,
+    "sha256": "e3141fbe455bf409f5c405e852cf16d9a08cea1cfd700a570d08c80be0022aca"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_film_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/BHA/BHA_film_v001.blend",
+    "kind": "archive",
+    "bytes": 116365,
+    "sha256": "16e6e5c227c9729a60ab3ff8218818fbff4228c8ef796ceddbd89a782f3e458c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_film_v002.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/BHA/BHA_film_v002.blend",
+    "kind": "archive",
+    "bytes": 116383,
+    "sha256": "38a9d1d6b327d1d89adc51a002c957cab3abebdc98241859d7250b1b6625a19f"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_film_v003.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/BHA/BHA_film_v003.blend",
+    "kind": "archive",
+    "bytes": 195688,
+    "sha256": "e66b23ca06acd2fccd33b97db18c52b2054f515cca7e7814b31eea2379408d88"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_film_v004.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/BHA/BHA_film_v004.blend",
+    "kind": "archive",
+    "bytes": 193215,
+    "sha256": "b0f2ac05f30d3a7708ad1612f88cf6403eed54e214fc8fb70c63db5deb4854a1"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_film_v005.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/BHA/BHA_film_v005.blend",
+    "kind": "archive",
+    "bytes": 194504,
+    "sha256": "94504e96a713ac161646176e79a7b1b267f61d7fe00ee3a7082468f2bb289d86"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_film_v006.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/BHA/BHA_film_v006.blend",
+    "kind": "archive",
+    "bytes": 194252,
+    "sha256": "923c931e52f6c1cf81eefbd8db530fc45f08ab1aa0b2d74ca607c01481d1e66d"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_film_v007.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/BHA/BHA_film_v007.blend",
+    "kind": "archive",
+    "bytes": 103695,
+    "sha256": "b6b98f870064f5b9e07640bec9dadaeb457c7e45ebdb5d33d2ac18b6210acdd1"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_film_v008.blend",
+    "new": "04-Production/Shared/Assets/Hardware/BHA/BHA_film_v008.blend",
+    "kind": "active",
+    "bytes": 104517,
+    "sha256": "d15aff83c006ed80181ce15d40ac42aba5ed0de59721786249b9dea5ad7d9485"
+  },
+  {
+    "old": "04-Production/Shared/Assets/BHA/BHA_film_v008.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/BHA/BHA_film_v008.blend1",
+    "kind": "archive",
+    "bytes": 104521,
+    "sha256": "b03eb0596d495acdc2355c7a78f5720414275a3e70a4bf001e048f771344e324"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/CasedHole_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/CasedHole_v001.blend",
+    "kind": "archive",
+    "bytes": 358816,
+    "sha256": "cc402a2ef50645c361944b2ba59bb10ed3cf7236ab5bd0a2ff8a8cda9fbe59c5"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/CasedHole_v002.blend",
+    "new": "04-Production/Shared/Assets/Environment/Borehole/Dependencies/CasedHole_v002.blend",
+    "kind": "active",
+    "bytes": 358482,
+    "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/manifest_v001.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/manifest_v001.json",
+    "kind": "archive",
+    "bytes": 9503,
+    "sha256": "f872644f4ee2a7d357fa57d23ff88056007adfc16691314389131aaf39806a72"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/manifest_v002.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/manifest_v002.json",
+    "kind": "archive",
+    "bytes": 10951,
+    "sha256": "654e2153de746f66c159121434c1733175e164b4ef920d360e9fb0a4a9a8d0f1"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/README_v001.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/README_v001.md",
+    "kind": "archive",
+    "bytes": 6076,
+    "sha256": "d243c80c07c2cbf8593b0e543ced253d13eb0e7c5b30e05bebaac1277dec1155"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/README_v002.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/README_v002.md",
+    "kind": "archive",
+    "bytes": 8080,
+    "sha256": "b170459e70f3413746b57b218730a7f8599e16e99ae74257ee84d326458c99c9"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/__pycache__/cased_controls_v001.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/__pycache__/cased_controls_v001.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 10045,
+    "sha256": "23e6592f44764e23be3ff6906b7db309411007fb3e7193a99715fe58d266f4db"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/__pycache__/integrate_cased_v001.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/__pycache__/integrate_cased_v001.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 43069,
+    "sha256": "b0da1838ab369e4b746d91aba6bffa72cad745aec049b99eedf8c1c14107ab6e"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/build_cased_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/build_cased_v001.py",
+    "kind": "archive",
+    "bytes": 11411,
+    "sha256": "0e34b7f68a9c73c354522f8c38768131aea44e7895b06ec87bb4b5c6584f2f6c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/cased_controls_v001.py",
+    "new": "04-Production/Shared/Assets/Environment/Borehole/Scripts/cased_controls_v001.py",
+    "kind": "active",
+    "bytes": 4826,
+    "sha256": "ee52b03087d7beccf2c7d131d513835b1e5bdc9f6ab816fb449e29d46ec95627"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/check_extension_visibility_v009.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/check_extension_visibility_v009.py",
+    "kind": "archive",
+    "bytes": 3281,
+    "sha256": "5a090c3359d334af29a980c46755694073ad576fdcb2162a784b9a8a5455b9ed"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/finalize_response_v012.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/finalize_response_v012.py",
+    "kind": "archive",
+    "bytes": 4409,
+    "sha256": "5de863203dc0663383f5c1ba33036163ca484b01e656d176842204867779d6db"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/inspect_sources_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/inspect_sources_v001.py",
+    "kind": "archive",
+    "bytes": 1297,
+    "sha256": "1cf6d552b69e2194c87168e1594534793a15caf28dab512306e22886e4d6b393"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/integrate_cased_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/integrate_cased_v001.py",
+    "kind": "archive",
+    "bytes": 17146,
+    "sha256": "32e2f917719eb52a6c3f7b98e2fb0ba2d719c82839d27b54998d03767360b89e"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/migrate_continuity_v008.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/migrate_continuity_v008.py",
+    "kind": "archive",
+    "bytes": 7055,
+    "sha256": "42273d771e106d1b46095858e6354d1b53c0563e659b9dbdcb19f93e901df456"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/package_cased_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/package_cased_v001.py",
+    "kind": "archive",
+    "bytes": 6589,
+    "sha256": "9820e96fe483fe357903051cda68c9b230739fce6a88a1e16d2e2abecb638c3d"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/package_cased_v010.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/package_cased_v010.py",
+    "kind": "archive",
+    "bytes": 6337,
+    "sha256": "b90d7ee3352073f126e44a54fc3f039bb8eff908f8b20d35f86d50daee343cda"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/package_cased_v012.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/package_cased_v012.py",
+    "kind": "archive",
+    "bytes": 7129,
+    "sha256": "b77e7c09e746c8746e21237021b841e5a4799bc09b0a0ab260e377b0f52492ca"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/rebind_strict_v009.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/rebind_strict_v009.py",
+    "kind": "archive",
+    "bytes": 3126,
+    "sha256": "8a6a2d0f23f83ca14042300d05cf4f9e476781a901dbaddfc6537f452df6ff82"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/render_cased_v010.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/render_cased_v010.py",
+    "kind": "archive",
+    "bytes": 2799,
+    "sha256": "9969939988b8d7bf0fea6f3fcc8b9f99c50c1b4cfb2c43a549a041d470f9e594"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/render_cased_v012.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/render_cased_v012.py",
+    "kind": "archive",
+    "bytes": 2724,
+    "sha256": "beca7cbed34766c84f6be4d138b646d52dd3300b6268d6f31872a1853009d920"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/repair_camera_v010.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/repair_camera_v010.py",
+    "kind": "archive",
+    "bytes": 2440,
+    "sha256": "d62650d457de93dc984315c8f4b0954d4bfc5593286bf9f5dca7b3c2beb7e0d5"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/repair_visuals_v011.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/repair_visuals_v011.py",
+    "kind": "archive",
+    "bytes": 7187,
+    "sha256": "2487ad19e596a50f352e631f08eaff5d6fb167f6e41b0420efb1f8117aa2c79f"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/verify_cased_v004.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/verify_cased_v004.py",
+    "kind": "archive",
+    "bytes": 3885,
+    "sha256": "222ecabc4f5c27e01ee5d0a6adf7c207e78bdc8ea9cb07d3d56bd30b38aab880"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/verify_cased_v005.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/verify_cased_v005.py",
+    "kind": "archive",
+    "bytes": 4871,
+    "sha256": "679b31426479b4cd93a3c3adf1c3a9ffa4d6e6265fd302d0eda8dad56facd53b"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/verify_cased_v006.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/verify_cased_v006.py",
+    "kind": "archive",
+    "bytes": 5172,
+    "sha256": "43081ef81527b120687658b5d12f387011662e56f55c87a2b032a601ce63192a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/verify_preflight_v009.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/verify_preflight_v009.py",
+    "kind": "archive",
+    "bytes": 10090,
+    "sha256": "20b6c4f978fe4041fa1f03b66fcdb41217872d400e81c00d2c7c62d08a5c6393"
+  },
+  {
+    "old": "04-Production/Shared/Assets/CasedHole/Scripts/verify_public_packets_v010.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/CasedHole/Scripts/verify_public_packets_v010.py",
+    "kind": "archive",
+    "bytes": 1387,
+    "sha256": "265d4a53963a25811062de7f36129e0defdff243f0964f28d386f31e583dab0a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/DigitalEnvironment/check_context_derivation.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/DigitalEnvironment/check_context_derivation.py",
+    "kind": "archive",
+    "bytes": 1118,
+    "sha256": "036c92220ae77e9216805a300f5af61683fe1df425aa7676d91daa13631874c4"
+  },
+  {
+    "old": "04-Production/Shared/Assets/DigitalEnvironment/check_context_derivation_v004.py",
+    "new": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Scripts/check_context_derivation_v004.py",
+    "kind": "active",
+    "bytes": 900,
+    "sha256": "27611f59363d1463b8c0b2c34eed15e5f11d009d0eb7aa46a0b4525007f2020a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/DigitalEnvironment/CONTEXT_LINES_v004.md",
+    "new": "04-Production/Shared/Assets/Effects/DigitalEnvironment/CONTEXT_LINES_v004.md",
+    "kind": "active",
+    "bytes": 3575,
+    "sha256": "bca20ac1d2b8e533edf38bcf5da8e33ec30a8fbe288859d51e98f5c6d7a724e2"
+  },
+  {
+    "old": "04-Production/Shared/Assets/DigitalEnvironment/Digital_context_lines_v004.blend",
+    "new": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Digital_context_lines_v004.blend",
+    "kind": "active",
+    "bytes": 611939,
+    "sha256": "983c5024c8d32f0f58eb9bb0a197740e60a9e18f1c901156129ced6966e42000"
+  },
+  {
+    "old": "04-Production/Shared/Assets/DigitalEnvironment/Digital_style_v001.blend",
+    "new": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Dependencies/Digital_style_v001.blend",
+    "kind": "active",
+    "bytes": 514091,
+    "sha256": "5068442b00b73ddf4ad3e6245411a8d43839db776e699b6c099764b0f929d4c2"
+  },
+  {
+    "old": "04-Production/Shared/Assets/DigitalEnvironment/Digital_style_v001.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/DigitalEnvironment/Digital_style_v001.blend1",
+    "kind": "archive",
+    "bytes": 476480,
+    "sha256": "ccc85507d30f320c7a27bdc6ff05423d40fbf811f3e12ea86651e05082cdcb95"
+  },
+  {
+    "old": "04-Production/Shared/Assets/DigitalEnvironment/Digital_world_v001.blend",
+    "new": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Dependencies/Digital_world_v001.blend",
+    "kind": "active",
+    "bytes": 105870,
+    "sha256": "7161616b37beea057e46393740c18d1616fb0b3f088faa89ed64d1aa54f7fbb8"
+  },
+  {
+    "old": "04-Production/Shared/Assets/DigitalEnvironment/Digital_world_v001.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/DigitalEnvironment/Digital_world_v001.blend1",
+    "kind": "archive",
+    "bytes": 102809,
+    "sha256": "0f99156747e7eeaff8ac47752657013dab44ec6c4c3028316032b16ce907642d"
+  },
+  {
+    "old": "04-Production/Shared/Assets/DigitalEnvironment/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/DigitalEnvironment/README.md",
+    "kind": "archive",
+    "bytes": 2349,
+    "sha256": "cf812011f604aeaf364e8fc7a0f245df73cf7e7f318ec7fd3bda93a1ced32249"
+  },
+  {
+    "old": "04-Production/Shared/Assets/DigitalEnvironment/Scripts/regenerate_context_lines.py",
+    "new": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Scripts/regenerate_context_lines.py",
+    "kind": "active",
+    "bytes": 8596,
+    "sha256": "1738f816a421fb78731f93be613d8a1007882e4adc05a451279bdac47e9f2329"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/ECCO_film_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/ECCO/ECCO_film_v001.blend",
+    "kind": "archive",
+    "bytes": 18275650,
+    "sha256": "6c03b8e916f494116ffa021e5ae27ca34b7332bc72f39331abe35236b90568b0"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/ECCO/ECCO_film_v002.blend",
+    "kind": "archive",
+    "bytes": 18275711,
+    "sha256": "df656a5c4bc48f081a4b6365c7969df55d15c7da53ddb96be20875e931d26584"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/ECCO_film_v003.blend",
+    "new": "04-Production/Shared/Assets/Hardware/ECCO/ECCO_film_v003.blend",
+    "kind": "active",
+    "bytes": 18288932,
+    "sha256": "a14fcd538b7fc604a6ac064ff681f6eefc5dfc51854e29d5993d2a9952ee8586"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/ECCO_film_v003.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/ECCO/ECCO_film_v003.blend1",
+    "kind": "archive",
+    "bytes": 18288949,
+    "sha256": "fafeafc7b605fedf9c4b21369888efb01928a3683b17798574f154abc20b7722"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend",
+    "kind": "archive",
+    "bytes": 18296495,
+    "sha256": "704a91cb478a1a38304835786fa62d549df5bf5833e457cbc4da094fd6557fd7"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/ECCO/ECCO_master_temporary-plugs_v002.blend1",
+    "kind": "archive",
+    "bytes": 18296587,
+    "sha256": "fd1d7a2fbff029569afa5239af58c81ebade39a8242e92c05025d87d2c8bb56f"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/ECCO_master_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/ECCO/ECCO_master_v001.blend",
+    "kind": "archive",
+    "bytes": 18281091,
+    "sha256": "c37547042cd56780bbeb3577377df8933b794371e60b0a853305f1e2a436a057"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/Originals/Client_Confirmed_Sensor.png",
+    "new": "04-Production/Shared/Sources/ECCO/Client_Confirmed_Sensor.png",
+    "kind": "source",
+    "bytes": 178412,
+    "sha256": "af0886d8a614dcbd55049ef0c986cd07c008a02b9c761c15d1a3a196d3653573"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/Originals/IMPLEMENTATION_REPORT.md",
+    "new": "04-Production/Shared/Sources/ECCO/IMPLEMENTATION_REPORT.md",
+    "kind": "source",
+    "bytes": 7516,
+    "sha256": "4aa8704e6564a3020e4a08296e0e10049e57bc1a3128687476b8535b514dd69d"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/Originals/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+    "new": "04-Production/Shared/Sources/ECCO/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+    "kind": "source",
+    "bytes": 4606150,
+    "sha256": "ded44633fcdd5161f117f59c157c27c6213bae55d8ce8616f432d84b32e24cde"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/Originals/Source_Imported_ecco.blend",
+    "new": "04-Production/Shared/Sources/ECCO/Source_Imported_ecco.blend",
+    "kind": "source",
+    "bytes": 18277267,
+    "sha256": "e2eb5796482a12f8a78db011e1a1bea2717e7a023dd6bc62daa9d8c8dfc841a5"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/README_v001.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/ECCO/README_v001.md",
+    "kind": "archive",
+    "bytes": 5640,
+    "sha256": "8ee4ced423fb04f0057e6bd9a05b5a960aa9e88ada829e6a54b349c0479a9b10"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/README_v002.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/ECCO/README_v002.md",
+    "kind": "archive",
+    "bytes": 2597,
+    "sha256": "f693de490a6b074c86e3c6efeb8168d32eb5a536ebba35749210874a7aa4f613"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/Satin_finish_v001.blend",
+    "new": "04-Production/Shared/Assets/Hardware/ECCO/Dependencies/Satin_finish_v001.blend",
+    "kind": "active",
+    "bytes": 91692,
+    "sha256": "19cdac6471673b8b1d1970e689f99ea501331b1353782fdb95771d2173b46742"
+  },
+  {
+    "old": "04-Production/Shared/Assets/ECCO/Satin_finish_v001.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/ECCO/Satin_finish_v001.blend1",
+    "kind": "archive",
+    "bytes": 91692,
+    "sha256": "19cdac6471673b8b1d1970e689f99ea501331b1353782fdb95771d2173b46742"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Formation/Formation_cased-section_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Formation/Formation_cased-section_v001.blend",
+    "kind": "archive",
+    "bytes": 1221312,
+    "sha256": "8b9508f442b1c083dd61ddc6b34121c2839555906f0ca4dde79438ea97c51b34"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Formation/Formation_cased-section_v002.blend",
+    "new": "04-Production/Shared/Assets/Environment/Borehole/Dependencies/Formation_cased-section_v002.blend",
+    "kind": "active",
+    "bytes": 1214774,
+    "sha256": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Formation/Formation_context_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Formation/Formation_context_v001.blend",
+    "kind": "archive",
+    "bytes": 1243565,
+    "sha256": "1dc5f08a8b6bd338e59c018a9c694b6ecb748867aa67cf1805ccfce347b1dc93"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Formation/Formation_context_v002.blend",
+    "new": "04-Production/Shared/Assets/Environment/Borehole/Dependencies/Formation_context_v002.blend",
+    "kind": "active",
+    "bytes": 1255854,
+    "sha256": "731d7dfed6e7d91ae74c05503005f43b996e98caa0120b24ad0def97ea612ac4"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Hydraulics_v001.blend",
+    "kind": "archive",
+    "bytes": 104203,
+    "sha256": "9fd1f0450827a16a24e65f630ac2bfdacd26a7ed9c95e239c6cd73a9d33169cf"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v001.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Hydraulics_v001.blend1",
+    "kind": "archive",
+    "bytes": 104178,
+    "sha256": "3b8bed0ad1a026d398559ba698aa58b77075d108e4b2ff04dfb860cf265b8ed6"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v002.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Hydraulics_v002.blend",
+    "kind": "archive",
+    "bytes": 104217,
+    "sha256": "6e423536b27ad9ef5c68aa59e9f1572dc4ec1b744d9fc2499fd94a6c1ab1dc65"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v002.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Hydraulics_v002.blend1",
+    "kind": "archive",
+    "bytes": 104191,
+    "sha256": "a76b23b9a2287b4b45c8506df69e89150f7e21969fb9875bf0d5b0d0debdb07f"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend",
+    "new": "04-Production/Shared/Assets/Effects/Hydraulics/Hydraulics_v003.blend",
+    "kind": "active",
+    "bytes": 105963,
+    "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Hydraulics_v003.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Hydraulics_v003.blend1",
+    "kind": "archive",
+    "bytes": 105960,
+    "sha256": "6d626e6fed9f214b844cbad9e8000d635c486e730ce2ce109bc9bbe9f673ef06"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/manifest_v001.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/manifest_v001.json",
+    "kind": "archive",
+    "bytes": 5219,
+    "sha256": "3179052890d5620132fb19cf535757b37a5a9678082e1b4bd3408d185805272a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/manifest_v002.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/manifest_v002.json",
+    "kind": "archive",
+    "bytes": 7171,
+    "sha256": "eceecab58385cba5317ff330261c5ea858aabce624be55146063b11fc62abe09"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/README_v001.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/README_v001.md",
+    "kind": "archive",
+    "bytes": 6338,
+    "sha256": "7cd3f6ec3e0c12d74b356f9fadb0306941ee50275f7629316307d3a3957f1740"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/README_v002.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/README_v002.md",
+    "kind": "archive",
+    "bytes": 5731,
+    "sha256": "532bb69c7f934a515bab8ecb1cdd175ef52a68d7ba0d91e2f71291ba8f1c2f5e"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/__pycache__/build_hydraulics_v001.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/__pycache__/build_hydraulics_v001.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 21399,
+    "sha256": "39730ffee7363d8f35b93618527bc9e0236ac52a281d495ffb7efde0a92d44bf"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/__pycache__/hydraulics_controls_v001.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/__pycache__/hydraulics_controls_v001.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 9288,
+    "sha256": "c2cdb06f8d097346577a63370d7c5a5b6ec4d507f5574200a566448376011ffa"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/__pycache__/migrate_continuity_v007.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/__pycache__/migrate_continuity_v007.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 9674,
+    "sha256": "d25c39c2780792a3820b6e86292b7ee6865ad8200ed256f902bde794c3a8c642"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/build_hydraulics_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/build_hydraulics_v001.py",
+    "kind": "archive",
+    "bytes": 8429,
+    "sha256": "e94edfb281a401974f9b79f8896b6c8f8a58cdfece7bfb63d7660f7359b00d44"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/encode_demo_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/encode_demo_v001.py",
+    "kind": "archive",
+    "bytes": 2144,
+    "sha256": "39e38ca3a7107ca79990ff7bf4732b77af2511ed01ddfcf83906149c09a2ce55"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/encode_demo_v002.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/encode_demo_v002.py",
+    "kind": "archive",
+    "bytes": 2144,
+    "sha256": "b0846168e89539b678b824e30583f79d6073e73e13cf19f2023b1d557cd4ce04"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/hydraulics_controls_v001.py",
+    "new": "04-Production/Shared/Assets/Effects/Hydraulics/Scripts/hydraulics_controls_v001.py",
+    "kind": "active",
+    "bytes": 4934,
+    "sha256": "847aa607037457c690155eabe94ea90ed061bf418d8f217df57e0c56f63b63be"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/inspect_sources_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/inspect_sources_v001.py",
+    "kind": "archive",
+    "bytes": 2132,
+    "sha256": "1ff27bfcba290316d55d9b148132d48a4399e0fde270b1009180d69b315d8deb"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/migrate_continuity_v007.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/migrate_continuity_v007.py",
+    "kind": "archive",
+    "bytes": 4020,
+    "sha256": "4888f739350e78a9cf7231e74fbce746a0a9a89e98051732aa8e177fb7625112"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/package_hydraulics_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/package_hydraulics_v001.py",
+    "kind": "archive",
+    "bytes": 4729,
+    "sha256": "1977c1992f160e8a448ef8a622e7bfe4252166234dfa8fa62681c5ac9e2cf8a2"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/package_hydraulics_v002.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/package_hydraulics_v002.py",
+    "kind": "archive",
+    "bytes": 5344,
+    "sha256": "288dee07548f85c4e85a316115a226941ec683fa5f91127fa0ad200b1bf48d03"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/render_hydraulics_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/render_hydraulics_v001.py",
+    "kind": "archive",
+    "bytes": 2875,
+    "sha256": "0a8e7d2e998dc517a382714c40f26640791956fcc00ef5372067bea87ac85dd9"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/render_hydraulics_v002.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/render_hydraulics_v002.py",
+    "kind": "archive",
+    "bytes": 3074,
+    "sha256": "0518d43cfff7efe8d8a2828af3231c7caf76c1c29ff2bddbd7e189c14ffc73f9"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/upgrade_readability_v003.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/upgrade_readability_v003.py",
+    "kind": "archive",
+    "bytes": 2980,
+    "sha256": "4cb73929a565423eb1631e3c1e862e5ba4692f9373dc1748fb113ab45c6bec6a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/verify_hydraulics_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/verify_hydraulics_v001.py",
+    "kind": "archive",
+    "bytes": 11432,
+    "sha256": "3b4716ee89477f3d2806584e7708d61bc574b7cbe9fdfd716d046a96aa25f38c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Hydraulics/Scripts/verify_hydraulics_v002.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Hydraulics/Scripts/verify_hydraulics_v002.py",
+    "kind": "archive",
+    "bytes": 13601,
+    "sha256": "be218c740441c3e8428a728980ab43313effe95d6053698e1b80bda8c4e15e22"
+  },
+  {
+    "old": "04-Production/Shared/Assets/MeasurementReveal/Measurement_reveal_v001.blend",
+    "new": "04-Production/Shared/Assets/Effects/MeasurementReveal/Measurement_reveal_v001.blend",
+    "kind": "active",
+    "bytes": 513253,
+    "sha256": "6571281f6babff0b293dba55dfdf1cfbfb80f98ddd743d3dcc1469dbd539ec0f"
+  },
+  {
+    "old": "04-Production/Shared/Assets/MeasurementReveal/Measurement_reveal_v001.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/MeasurementReveal/Measurement_reveal_v001.blend1",
+    "kind": "archive",
+    "bytes": 255760,
+    "sha256": "f6f45c8b64766df8c78dc3100e9794756bd0c9456bf0383b7906c9fcd4c339aa"
+  },
+  {
+    "old": "04-Production/Shared/Assets/MeasurementReveal/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/MeasurementReveal/README.md",
+    "kind": "archive",
+    "bytes": 1885,
+    "sha256": "1889402e6022ff507cf00e329f8741a29a540d388bed1d5c493f498415231c52"
+  },
+  {
+    "old": "04-Production/Shared/Assets/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+    "kind": "archive",
+    "bytes": 4606150,
+    "sha256": "ded44633fcdd5161f117f59c157c27c6213bae55d8ce8616f432d84b32e24cde"
+  },
+  {
+    "old": "04-Production/Shared/Assets/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/README.md",
+    "kind": "archive",
+    "bytes": 671,
+    "sha256": "d937682d4a63fc1e87a94cd0d0bd0f41d045c2c414ec570e2f70f5cd9450df13"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Surface/Originals/IntoTheInvisible_Shot01.blend",
+    "new": "04-Production/Shared/Sources/Surface/IntoTheInvisible_Shot01.blend",
+    "kind": "source",
+    "bytes": 2600755,
+    "sha256": "ef669ae4fdd20a74d1d4b6a16e0978c17ae857f5c839dc08128247ff3bf29ab0"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Surface/Surface_context_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Surface/Surface_context_v001.blend",
+    "kind": "archive",
+    "bytes": 110454,
+    "sha256": "f2fc020c6228df08a4dbe30c45cc5a6cd40a0c15f243aed1c4a238bd1ac79a81"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Surface/Surface_context_v002.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Surface/Surface_context_v002.blend",
+    "kind": "archive",
+    "bytes": 350357,
+    "sha256": "1e7d8cefc24884d514473cf676250e67068b19f604005dcbca6e1f48ba53b256"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Surface/Surface_context_v003.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Surface/Surface_context_v003.blend",
+    "kind": "archive",
+    "bytes": 354156,
+    "sha256": "a68823658495ba09ca626167a3c12042ffc825cfdcde3fffd616df23a4b64aa5"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Surface/Surface_descent_v004.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Surface/Surface_descent_v004.blend",
+    "kind": "archive",
+    "bytes": 601549,
+    "sha256": "ee75cfb3bd6f225ff28b97d1692ee8ba7931ecaf77008b6f4c8f12377acbefc2"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Surface/Surface_descent_v004.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Surface/Surface_descent_v004.blend1",
+    "kind": "archive",
+    "bytes": 601397,
+    "sha256": "dea79d1126e0ee4312ebd03539d68e7733b1da8fff0084ac8e0799252f42206b"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Surface/Surface_descent_v005.blend",
+    "new": "04-Production/Shared/Assets/Environment/Surface/Surface_descent_v005.blend",
+    "kind": "active",
+    "bytes": 668362,
+    "sha256": "013ca7d61bd6b90841dc0e2f858b808b53ca20f2c4442ce1cacb059c81d810d3"
+  },
+  {
+    "old": "04-Production/Shared/Assets/Surface/Surface_descent_v005.blend1",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/Surface/Surface_descent_v005.blend1",
+    "kind": "archive",
+    "bytes": 668362,
+    "sha256": "013ca7d61bd6b90841dc0e2f858b808b53ca20f2c4442ce1cacb059c81d810d3"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/B102_clearance-fixture_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/B102_clearance-fixture_v001.blend",
+    "kind": "archive",
+    "bytes": 90125,
+    "sha256": "d80c93d76ba13318f968a90417066cc84180d99a1a2697c99154432cd556b9c1"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/config_authorized_v003.json",
+    "new": "04-Production/Shared/Assets/Environment/Borehole/Dependencies/config_authorized_v003.json",
+    "kind": "active",
+    "bytes": 3065,
+    "sha256": "83e4975e65cabe4d52d0faeb820b44af192daa786a605b31f479a8cb5ac5712a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/config_pending_v001.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/config_pending_v001.json",
+    "kind": "archive",
+    "bytes": 1081,
+    "sha256": "853da302831fdd9f9a7bb38dedf3dad1ba3a6e3af2323e885ab3d16cbcc8ce7c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/config_researched-proposal_v002.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/config_researched-proposal_v002.json",
+    "kind": "archive",
+    "bytes": 2230,
+    "sha256": "85eaf8de81cea63cad3b68420f07ba59bc2d1caca45c435238f2511255d40770"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/README.md",
+    "kind": "archive",
+    "bytes": 420,
+    "sha256": "029a356a40a73fc997905e8df65c3b2b266177201a4402f56b8720d9ac61d31e"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/README_v001.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/README_v001.md",
+    "kind": "archive",
+    "bytes": 4863,
+    "sha256": "245bdcbd65a9bda6f092f238f4cac3f2bc63a9c52ed22bdcfcc29d31ba5e21f7"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/README_v003.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/README_v003.md",
+    "kind": "archive",
+    "bytes": 6219,
+    "sha256": "25a183f51ba5d2475493d672ff6de24f3464fb73c4849565c51429a21da1de4f"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/README_v010.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/README_v010.md",
+    "kind": "archive",
+    "bytes": 2994,
+    "sha256": "70c52c696f95c0ca63f092170ca9363dd751ab93240292dc16f4d05f9b47a542"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/Scripts/__pycache__/world_interface_v010.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/Scripts/__pycache__/world_interface_v010.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 2135,
+    "sha256": "e419dfad60e9a623838a5313ad282cbfa5ad4eca8b2202b1c1a44ffad2e0e274"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/Scripts/build_variants_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/Scripts/build_variants_v001.py",
+    "kind": "archive",
+    "bytes": 8226,
+    "sha256": "843ca170a27538fc6a79b934d8242690f9f2b0ab66292505628d1ba9cc3888be"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/Scripts/build_variants_v003.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/Scripts/build_variants_v003.py",
+    "kind": "archive",
+    "bytes": 9771,
+    "sha256": "05e8e484fee1543c1e1d10c679df848f43be1cd3b88a63be4cd198373f182d68"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/Scripts/compatibility_v001.py",
+    "new": "04-Production/Shared/Assets/Environment/Borehole/Scripts/compatibility_v001.py",
+    "kind": "active",
+    "bytes": 5285,
+    "sha256": "a35fb1f71c448583a87fb96a803ac686ccaca73eb31c462d5559719af2ace10c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/Scripts/world_interface_v010.py",
+    "new": "04-Production/Shared/Assets/Environment/Borehole/Scripts/world_interface_v010.py",
+    "kind": "active",
+    "bytes": 1109,
+    "sha256": "9592a9bf3375ee7956cccdd659cc8554d3ff339b5b38859fd7c1465915b4e51f"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/WellAssembly_variants_v003.blend",
+    "new": "04-Production/Shared/Assets/Environment/Borehole/Dependencies/WellAssembly_variants_v003.blend",
+    "kind": "active",
+    "bytes": 4683504,
+    "sha256": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_environment_v001.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/World_environment_v001.blend",
+    "kind": "archive",
+    "bytes": 2559923,
+    "sha256": "8fbd47523106ff798ea9f162fefd68a2d80742c1593a1698e78f6f9e39d28253"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_environment_v002.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/World_environment_v002.blend",
+    "kind": "archive",
+    "bytes": 2560064,
+    "sha256": "cc3a489ea1474a232ac78e22d18b7206cf81d7c1213ea553128845387acd056d"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_environment_v003.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/World_environment_v003.blend",
+    "kind": "archive",
+    "bytes": 2559955,
+    "sha256": "5f9abf5183d6b173f154f99c67515e8e247625f7ee5dfbef3ff9665df508074b"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_environment_v004.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/World_environment_v004.blend",
+    "kind": "archive",
+    "bytes": 2560094,
+    "sha256": "3d6ccd17831e889315832c04ca654ba0e4f383ab77fb7b1ce5ff90417d22afc6"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_environment_v005.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/World_environment_v005.blend",
+    "kind": "archive",
+    "bytes": 8486111,
+    "sha256": "e3c255ca84f8c92c17332ee2fda9a873f2fd4eca7d65c308ea2898ed2bc5fdde"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_environment_v006.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/World_environment_v006.blend",
+    "kind": "archive",
+    "bytes": 9263953,
+    "sha256": "44a8b84d9c9ac30f05e8a0a815e93ee878a77303a5e6b2fc8ca8b202c3148213"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_environment_v007.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/World_environment_v007.blend",
+    "kind": "archive",
+    "bytes": 9614792,
+    "sha256": "52f5d393a6591915b62b01d07d5049bffd5f7160907f7154d9d682362053de34"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_environment_v008.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/World_environment_v008.blend",
+    "kind": "archive",
+    "bytes": 9610189,
+    "sha256": "5a0cfed5df29ca5a758154414b4b675d9f0964944daba6b6e6b55fd3f652bb93"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_environment_v009.blend",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/WellAssembly/World_environment_v009.blend",
+    "kind": "archive",
+    "bytes": 9608678,
+    "sha256": "addf69a41e677052b40992dbbed56355f9b65c5ba5e64f865e143f09d2288281"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_environment_v010.blend",
+    "new": "04-Production/Shared/Assets/Environment/Borehole/World_environment_v010.blend",
+    "kind": "active",
+    "bytes": 15649172,
+    "sha256": "9cb7d5c946e8573abc05af4ee3c12492610a982c1773a6437f90a762055fb540"
+  },
+  {
+    "old": "04-Production/Shared/Assets/WellAssembly/World_interface_v010.json",
+    "new": "04-Production/Shared/Assets/Environment/Borehole/World_interface_v010.json",
+    "kind": "active",
+    "bytes": 3174,
+    "sha256": "aa1ea80636f3b09352ea32225cd18f1702427ed71335392bb5ea9ed614acb542"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/manifest_v004.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/manifest_v004.json",
+    "kind": "archive",
+    "bytes": 4340,
+    "sha256": "9f3a89c4e07713017a1afc8af80456cc0a020385d3d908680e383211fc8b331e"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/manifest_v005.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/manifest_v005.json",
+    "kind": "archive",
+    "bytes": 7255,
+    "sha256": "e8bc3f771974793ba4e2dfe4e385a469e6593a849f82bbc76f8332c9629df1b0"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/manifest_v006.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/manifest_v006.json",
+    "kind": "archive",
+    "bytes": 7060,
+    "sha256": "37a2c8a0a2796939230ef68cdb95a35ceb9c84226a655ccb045797f8dccd246e"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/manifest_v007.json",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/manifest_v007.json",
+    "kind": "archive",
+    "bytes": 4959,
+    "sha256": "b6fa88acfb3ccf9bedbf8fb75c87b9c283715087002b8739ea92b46a3cfc2f69"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/README.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/README.md",
+    "kind": "archive",
+    "bytes": 645,
+    "sha256": "14826752b6752370cf1aae3f585107c7d6325f631e2ef78be697c35979b235c2"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/README_v001.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/README_v001.md",
+    "kind": "archive",
+    "bytes": 10705,
+    "sha256": "c3ef44fdab607fc1df5339e264a8b1ca00f5e49199dfe03b7826c069f437b055"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/README_v002.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/README_v002.md",
+    "kind": "archive",
+    "bytes": 6467,
+    "sha256": "2532df38782c0fb0a95315b983d1b79bf766db3ddd3a6ba51c5f9f4b52c3c7ee"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/README_v003.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/README_v003.md",
+    "kind": "archive",
+    "bytes": 5538,
+    "sha256": "f5bbdd4bfd8128d99b5f587cbb233f08385770b3a8182fc574a29ba277380238"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/README_v004.md",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/README_v004.md",
+    "kind": "archive",
+    "bytes": 5624,
+    "sha256": "262a19d75a42316c6614db2298ac6ed31f872dfd7102deffb3311bf92233c618"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/__pycache__/continuation_controls_v001.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/__pycache__/continuation_controls_v001.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 4592,
+    "sha256": "da579f43eaf3f2a33aa79b27ae35686927833f3e90f4f3d1d9d02519e27a84c1"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/__pycache__/formation_controls_v002.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/__pycache__/formation_controls_v002.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 3353,
+    "sha256": "8a6612d297413fdebcad4c777699c60d4818b4cf2a9bed4170f14b6d9bcfa91c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/__pycache__/formation_controls_v003.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/__pycache__/formation_controls_v003.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 3420,
+    "sha256": "99232720322d4f078ce71730ac2b8223e1125d96f365a598cc0b49ba6ca058e8"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/__pycache__/formation_controls_v004.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/__pycache__/formation_controls_v004.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 1905,
+    "sha256": "61238abecd2594158c5db50c26bfe06578fe4aafe7f7363b93e6bf30de6dd6bb"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/__pycache__/world_controls.cpython-313.pyc",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/__pycache__/world_controls.cpython-313.pyc",
+    "kind": "archive",
+    "bytes": 5940,
+    "sha256": "e1bce11cbd42b81a5dd29ab8b5cfe69ccd6512ef9822b07e314a7e2d621f9b6c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/build_cleanup_v006.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/build_cleanup_v006.py",
+    "kind": "archive",
+    "bytes": 24695,
+    "sha256": "b43c392a169c0731ebb4922a169d7b777e9c7381ef9b89a2f4108f33cad72d91"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/build_formation_revision_v005.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/build_formation_revision_v005.py",
+    "kind": "archive",
+    "bytes": 22546,
+    "sha256": "22a40f239b969f70a45d7f1e7f7714f066cf85a899dd04406b821522924d7744"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/build_overview_t44.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/build_overview_t44.py",
+    "kind": "archive",
+    "bytes": 896,
+    "sha256": "3cbb4de0bd44a3cbba7232ad99b40e3d7e3bede838b9728305e3c1abe2000c9e"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/build_world_t44.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/build_world_t44.py",
+    "kind": "archive",
+    "bytes": 24433,
+    "sha256": "6509e29f47a0420efc32252bcbde4fb984c5d6970b08b71d659f17848a4e5256"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/continuation_controls_v001.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/continuation_controls_v001.py",
+    "kind": "archive",
+    "bytes": 2542,
+    "sha256": "c17c80ff3a42fad6b0575da7154aff070d8da0846ff80440805b069f0c6fb590"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/formation_controls_v002.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/formation_controls_v002.py",
+    "kind": "archive",
+    "bytes": 1493,
+    "sha256": "a82a1452448aa17c15b607cd7ed1bb9708bc3c3eafa7edf5a6007f7ed4b99dbb"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/formation_controls_v003.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/formation_controls_v003.py",
+    "kind": "archive",
+    "bytes": 1556,
+    "sha256": "8f20ae565c03fcab3f4017bf4969d71cc9da8c2a73f939ec438a107ed0f281a3"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/formation_controls_v004.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/formation_controls_v004.py",
+    "kind": "archive",
+    "bytes": 833,
+    "sha256": "df01e2587533fc01beb09db3dce663fd68cc9dd4bd4d9c12f7def9fadbde9064"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/inspect_rig_t44.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/inspect_rig_t44.py",
+    "kind": "archive",
+    "bytes": 1408,
+    "sha256": "319d00bfafea7c3266cb341b2945856a44ba7eef9a3830a5c4ff347107d62964"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/inspect_sources_t44.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/inspect_sources_t44.py",
+    "kind": "archive",
+    "bytes": 1982,
+    "sha256": "6858eb4ed2b9b4042a72cbb42fe360032d9be79bfd80d9e057509f0569f8c1cc"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/package_cleanup_v006.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/package_cleanup_v006.py",
+    "kind": "archive",
+    "bytes": 7336,
+    "sha256": "64541f0a011a1dee17da7c593a5588a79ad9162112d0ffe916e724e42ad300ad"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/package_formation_v005.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/package_formation_v005.py",
+    "kind": "archive",
+    "bytes": 8003,
+    "sha256": "16cc78a6d71296cb4225f505c231ba3cd5ccc9aaa9c0ed54ddcbca185318b73c"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/package_world_t44.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/package_world_t44.py",
+    "kind": "archive",
+    "bytes": 7629,
+    "sha256": "2cfc4a997d4449adf45342238acb9b225d03bb4a8925e0d743f8ca5cc8fecee3"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/validate_controls_t44.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/validate_controls_t44.py",
+    "kind": "archive",
+    "bytes": 2597,
+    "sha256": "543af4b0654fbd0241e30caed196ddee28acf9b5352630404511260082ea6eb8"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/verify_cleanup_v006.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/verify_cleanup_v006.py",
+    "kind": "archive",
+    "bytes": 5176,
+    "sha256": "583d5bdbf738b1584fd315ee3cfd0b2cc6646f549bd3291a7fc388d7ee5192df"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/verify_formation_v005.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/verify_formation_v005.py",
+    "kind": "archive",
+    "bytes": 4416,
+    "sha256": "b6c4a7aeb294cfd7b3047526b7529870d2b276c520251c8f2b30c019820238bb"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/verify_world_t44.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/verify_world_t44.py",
+    "kind": "archive",
+    "bytes": 4417,
+    "sha256": "0be284a36fd67e6b5b37e9179c273ecca22e05f1f27a6a74b5f382b017719d5a"
+  },
+  {
+    "old": "04-Production/Shared/Assets/World/Scripts/world_controls.py",
+    "new": "04-Production/Shared/Archive/2026-10-31/Assets/World/Scripts/world_controls.py",
+    "kind": "archive",
+    "bytes": 2902,
+    "sha256": "0c7c7f0310ae6667bcec8a56f54e8fe2fe2c91268c9f5146bdf63b7f0d454b52"
+  },
+  {
+    "old": "04-Production/Records/Tasks/T-052/Demos/Hardware_demo_v001.blend",
+    "new": "04-Production/Shared/Demos/Hardware_demo_v001.blend",
+    "kind": "demo",
+    "bytes": 93693,
+    "sha256": "f0e046362efaca2555f1888cd9225f52d636c6d56bf3d0ed1316edfccf174da6"
+  },
+  {
+    "old": "04-Production/Records/Tasks/T-051/Demos/World_demo_v001.blend",
+    "new": "04-Production/Shared/Demos/World_demo_v001.blend",
+    "kind": "demo",
+    "bytes": 87989,
+    "sha256": "07ebd84da0e1e568ccabbd72cbce033be5aac5d2d6a464669e397774ceb91540"
+  },
+  {
+    "old": "04-Production/Records/Tasks/T-051/Demos/Surface_demo_v001.blend",
+    "new": "04-Production/Shared/Demos/Surface_demo_v001.blend",
+    "kind": "demo",
+    "bytes": 108196,
+    "sha256": "1b86c6e7ce4a7cd10891c76821507d569fd35bda9fe4dac7a476b5c0bb123036"
+  },
+  {
+    "old": "04-Production/Records/Tasks/T-054/Demos/Digital_environment_demo_v005.blend",
+    "new": "04-Production/Shared/Demos/Digital_environment_demo_v005.blend",
+    "kind": "demo",
+    "bytes": 93477,
+    "sha256": "39840a3949486b11e3ada65198c1d9225214ae9e6d3180f019e29e874e87fc33"
+  },
+  {
+    "old": "04-Production/Records/Tasks/T-054/Demos/Measurement_reveal_demo_v002.blend",
+    "new": "04-Production/Shared/Demos/Measurement_reveal_demo_v002.blend",
+    "kind": "demo",
+    "bytes": 111497,
+    "sha256": "963b373aa4ef2ffa48bd0595481b56c79280aedad8a6ded7f19b860ad8156681"
+  },
+  {
+    "old": "04-Production/Records/Tasks/T-056/Demos/Waveform_demo_v015.blend",
+    "new": "04-Production/Shared/Demos/Waveform_demo_v015.blend",
+    "kind": "demo",
+    "bytes": 124247,
+    "sha256": "1fe46081258289a1e95e4229a61519f1d72704c28b182f2dd0726d2d0113fc70"
+  }
+]

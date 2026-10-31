@@ -1,0 +1,6 @@
+Backup/
+Cache/
+all-blend-paths-*.json
+binary-remap-*.json
+sparse-*.json
+*.tmp

@@ -1,0 +1,44 @@
+[
+  {
+    "path": "04-Production/Shared/Assets/Environment/Borehole/Scripts/cased_controls_v001.py",
+    "changed": true,
+    "before_sha256": "ee52b03087d7beccf2c7d131d513835b1e5bdc9f6ab816fb449e29d46ec95627",
+    "after_sha256": "cc58e1899630bc8b085d86415473d0cc3e5679cdd8194f25dabdbaa9362cbcc4",
+    "syntax_valid": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Scripts/check_context_derivation_v004.py",
+    "changed": true,
+    "before_sha256": "27611f59363d1463b8c0b2c34eed15e5f11d009d0eb7aa46a0b4525007f2020a",
+    "after_sha256": "96d42a6a8aecf0547d29f4f5f47d3c34e1081999bd2a936f2dbcb6e1811c71e8",
+    "syntax_valid": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Scripts/regenerate_context_lines.py",
+    "changed": true,
+    "before_sha256": "1738f816a421fb78731f93be613d8a1007882e4adc05a451279bdac47e9f2329",
+    "after_sha256": "fdb8656b6c5b393dd716716b35e4729ee3293cd010670f8825e64e4ea7c7eeaf",
+    "syntax_valid": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Effects/Hydraulics/Scripts/hydraulics_controls_v001.py",
+    "changed": false,
+    "before_sha256": "847aa607037457c690155eabe94ea90ed061bf418d8f217df57e0c56f63b63be",
+    "after_sha256": "847aa607037457c690155eabe94ea90ed061bf418d8f217df57e0c56f63b63be",
+    "syntax_valid": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Environment/Borehole/Scripts/compatibility_v001.py",
+    "changed": false,
+    "before_sha256": "a35fb1f71c448583a87fb96a803ac686ccaca73eb31c462d5559719af2ace10c",
+    "after_sha256": "a35fb1f71c448583a87fb96a803ac686ccaca73eb31c462d5559719af2ace10c",
+    "syntax_valid": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Environment/Borehole/Scripts/world_interface_v010.py",
+    "changed": true,
+    "before_sha256": "9592a9bf3375ee7956cccdd659cc8554d3ff339b5b38859fd7c1465915b4e51f",
+    "after_sha256": "edb1b9a4e08fbd8395bf1f1937b187575a5ef20294db651536d229a572902cf2",
+    "syntax_valid": true
+  }
+]

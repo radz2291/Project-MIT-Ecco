@@ -1,0 +1,65 @@
+{
+  "reviewer": "ECCO-052 independent reviewer",
+  "scope": "Read-only code/plan review and in-memory tests; no native modified",
+  "verdict": "conditional: preserve supplied-original bytes; finish complete preparation and final disk growth check before apply",
+  "plan": {
+    "files": 534,
+    "fields": {
+      "LibraryWeakReference.library_filepath[1024]": 3466,
+      "Library.name[1024]": 1201
+    },
+    "relative_resolution_mismatches": [],
+    "move_count": 240,
+    "unique_old": true,
+    "unique_new": true,
+    "all_paths_inside_repo": true
+  },
+  "prepared_snapshot": {
+    "complete": false,
+    "files": 255,
+    "expected": 534,
+    "delta_bytes": 410476915
+  },
+  "in_memory_tests": {
+    "sample_source_sha_matches": true,
+    "sample_post_sha_matches": true,
+    "sample_byte_exact_rollback": true,
+    "invalid_offset_rejected": true,
+    "embedded_nul_rejected": true,
+    "overflow_rejected": true,
+    "stale_postimage_rejected": true
+  },
+  "free_bytes": 3281170432,
+  "findings": [
+    {
+      "priority": "required-before-apply",
+      "issue": "Two preserved supplied-original native files are scheduled for brush weak-reference rebasing only. Exclude these files/edits to retain their original byte provenance; missing weakrefs are not live dependencies."
+    },
+    {
+      "priority": "required-before-apply",
+      "issue": "Current apply free-space gate uses largest original*2+256MiB; add/check actual prepared total positive encoded growth and largest patched temp after rollback deltas finish."
+    },
+    {
+      "priority": "operational",
+      "issue": "Use normal Python without -O: safety assertions are essential. Sole writer, no source or plan edits after preparation."
+    },
+    {
+      "priority": "operational",
+      "issue": "Atomic replace+journal permits byte-exact rollback on mixed original/patched crash state. This is per-file atomicity, not whole-migration atomicity; rollback_sparse_remaps does not reverse filesystem moves."
+    },
+    {
+      "priority": "scope",
+      "issue": "Decoded SDNA filepath fields are preserved outside authorized ranges; changed compressed frames are recompressed. Arbitrary Text/script/IDProperty strings are not covered; metadata/runtime path audit remains separate."
+    }
+  ],
+  "guards_confirmed": [
+    "complete preparation required",
+    "whole-input source/delta hashes before first native write",
+    "per-file source recheck",
+    "dry-run expected postimage hash",
+    "exact rollback in memory before write",
+    "temp exclusive create+flush+fsync+hash then same-directory os.replace",
+    "journal intent before each replace; applied marker after",
+    "stale newer content refuses rollback"
+  ]
+}

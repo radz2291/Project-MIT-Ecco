@@ -1,0 +1,48 @@
+{
+  "world_v010": {
+    "placement_shape": [
+      4,
+      4
+    ],
+    "collection": "WORLD_S02_PHYSICAL_CUTAWAY",
+    "libraries": [
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Borehole\\World_environment_v010.blend",
+        "exists": true
+      }
+    ]
+  },
+  "compatibility": {
+    "finite_clearance_pass": true,
+    "invalid_diameter_rejected": true
+  },
+  "cased_v002": {
+    "instances": 12,
+    "visible_before": 2,
+    "visible_all_off": 0,
+    "libraries": [
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\CasedHole_v002.blend",
+        "exists": true
+      }
+    ]
+  },
+  "hydraulics_v003": {
+    "wrappers": 60,
+    "visible_before": 60,
+    "visible_mode_off": 0,
+    "libraries": [
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Effects\\Hydraulics\\Hydraulics_v003.blend",
+        "exists": true
+      }
+    ]
+  },
+  "digital_regenerator": {
+    "ast_valid": true,
+    "help_exit_zero": true,
+    "required_cli_options_present": true
+  },
+  "native_files_unchanged": true,
+  "scope": "Temporary empty sessions only; no saves, renders, archive APIs, or regeneration builds."
+}

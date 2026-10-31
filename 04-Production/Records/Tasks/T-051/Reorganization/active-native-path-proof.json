@@ -1,0 +1,114 @@
+[
+  {
+    "path": "04-Production/Shared/Demos/Surface_demo_v001.blend",
+    "original_sha256": "1b86c6e7ce4a7cd10891c76821507d569fd35bda9fe4dac7a476b5c0bb123036",
+    "current_sha256": "49fcdaadc148d059dfe4a9853fe1519e418547b1c4458e51c74df7d9e2e0e997",
+    "fields": 1,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Demos/World_demo_v001.blend",
+    "original_sha256": "07ebd84da0e1e568ccabbd72cbce033be5aac5d2d6a464669e397774ceb91540",
+    "current_sha256": "e00e8b2ba9af8019e81391661236fd9e01a7a6a0f5938be7899ebc58858ab8ed",
+    "fields": 1,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Demos/Hardware_demo_v001.blend",
+    "original_sha256": "f0e046362efaca2555f1888cd9225f52d636c6d56bf3d0ed1316edfccf174da6",
+    "current_sha256": "4baf685a513692d6675123ed3b3ac60e2f203d4b566d139871321e41aed27612",
+    "fields": 2,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Demos/Digital_environment_demo_v005.blend",
+    "original_sha256": "39840a3949486b11e3ada65198c1d9225214ae9e6d3180f019e29e874e87fc33",
+    "current_sha256": "a3689f0dbdb07df3a49e38405a732fb60017c370693f596050957d292908dc49",
+    "fields": 3,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Demos/Measurement_reveal_demo_v002.blend",
+    "original_sha256": "963b373aa4ef2ffa48bd0595481b56c79280aedad8a6ded7f19b860ad8156681",
+    "current_sha256": "d2f217e96ce521f4537943e8f5d2affa8e612728877add5ef4fbb8da43dbe5ad",
+    "fields": 1,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Demos/Waveform_demo_v015.blend",
+    "original_sha256": "1fe46081258289a1e95e4229a61519f1d72704c28b182f2dd0726d2d0113fc70",
+    "current_sha256": "652a7e11ed3b75dc8647f956d3a49c9286c47e47d8db066c186cbfd51dab8ae6",
+    "fields": 10,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Effects/Waveform/Waveform_shared_v015.blend",
+    "original_sha256": "91c439395b93e4babf17c0a476b0e75ca06e9a60102af1c31aeb9eadb3c1121d",
+    "current_sha256": "077d1049759723738849003552311f3346b5ff1abdf75146e195e6da853a1914",
+    "fields": 5,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Hardware/BHA/Dependencies/BHA_core_satin_v001.blend",
+    "original_sha256": "7e60952d039d85f4e964cbbb963f046935f8320b850027d2b654f5f365c1e6f5",
+    "current_sha256": "8c135e5d7aaf0b8bbffd2b9ef67eef620bd9b7e9ed97757c63bc1898be6c010c",
+    "fields": 2,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Hardware/BHA/BHA_film_v008.blend",
+    "original_sha256": "d15aff83c006ed80181ce15d40ac42aba5ed0de59721786249b9dea5ad7d9485",
+    "current_sha256": "acabc3ba086d6417b9be15f8731ee07c10b7c2221d553ee7004517b78fb8a7fa",
+    "fields": 2,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Dependencies/Digital_world_v001.blend",
+    "original_sha256": "7161616b37beea057e46393740c18d1616fb0b3f088faa89ed64d1aa54f7fbb8",
+    "current_sha256": "6dbeef11b17ae399a846c4a2f94d0f3e4988b360fc8cb464c4bbd91bb66b0feb",
+    "fields": 1,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Hardware/ECCO/ECCO_film_v003.blend",
+    "original_sha256": "a14fcd538b7fc604a6ac064ff681f6eefc5dfc51854e29d5993d2a9952ee8586",
+    "current_sha256": "3d9dd35fcb42e320c9a90b447f473ff6bb9b87de7a86afb2422935d6148e5fc5",
+    "fields": 21,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Environment/Surface/Surface_descent_v005.blend",
+    "original_sha256": "013ca7d61bd6b90841dc0e2f858b808b53ca20f2c4442ce1cacb059c81d810d3",
+    "current_sha256": "aa0d9886f4c591c3c1ef54154a095502fd75009b10937bec2cdf717f922989c9",
+    "fields": 488,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Environment/Borehole/Dependencies/WellAssembly_variants_v003.blend",
+    "original_sha256": "6bdacfefa6b999d941d0e2a93a75b26563be8e46141ee761114fdb81dae754c4",
+    "current_sha256": "c8702240068eb7f255c9a98b081910d7cc44edfbf1140cb9a6dcbf44b9b5cc82",
+    "fields": 1,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/Environment/Borehole/World_environment_v010.blend",
+    "original_sha256": "9cb7d5c946e8573abc05af4ee3c12492610a982c1773a6437f90a762055fb540",
+    "current_sha256": "67e789b370746ecb58fd186acf4678e4d64ad4da92aee1fb0a7e9bade1179538",
+    "fields": 10,
+    "only_filepath_bytes_changed": true,
+    "exact_original_rollback_pretested": true
+  }
+]

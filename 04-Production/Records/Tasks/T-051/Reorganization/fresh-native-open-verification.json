@@ -1,0 +1,441 @@
+{
+  "reviewer": "ECCO-052 independent read-only verifier",
+  "scope": "Active and demo natives only; no archive or old-shot open, no renders, no native saves",
+  "active_count": 16,
+  "demo_count": 6,
+  "all_open": true,
+  "all_libraries_resolve": true,
+  "all_natives_unchanged": true,
+  "sources_exact": true,
+  "files": [
+    {
+      "path": "04-Production/Shared/Assets/Effects/Waveform/Waveform_shared_v015.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 2,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "077d1049759723738849003552311f3346b5ff1abdf75146e195e6da853a1914",
+      "seconds": 0.03651120001450181,
+      "focused_two_objects": true,
+      "object_names": [
+        "WF_LIVE_FIELD",
+        "WF_MASTER_CONTROLS"
+      ]
+    },
+    {
+      "path": "04-Production/Shared/Assets/Hardware/BHA/Dependencies/BHA_core_satin_v001.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 148,
+      "scenes": 1,
+      "libraries": [
+        {
+          "path": "//..\\..\\ECCO\\ECCO_film_v003.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\..\\..\\ECCO\\ECCO_film_v003.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\..\\..\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "8c135e5d7aaf0b8bbffd2b9ef67eef620bd9b7e9ed97757c63bc1898be6c010c",
+      "seconds": 0.18909140001051128
+    },
+    {
+      "path": "04-Production/Shared/Assets/Hardware/BHA/BHA_film_v008.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 156,
+      "scenes": 1,
+      "libraries": [
+        {
+          "path": "//Dependencies\\BHA_core_satin_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\ECCO\\ECCO_film_v003.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hardware\\BHA\\..\\ECCO\\ECCO_film_v003.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hardware\\BHA\\..\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "acabc3ba086d6417b9be15f8731ee07c10b7c2221d553ee7004517b78fb8a7fa",
+      "seconds": 0.1810122000752017
+    },
+    {
+      "path": "04-Production/Shared/Assets/Environment/Borehole/Dependencies/CasedHole_v002.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 24,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "52c14a8f71d9d3c160acbdfaade240f7e699334c3a2ed4bd649cb220b59e49ba",
+      "seconds": 0.026031399960629642
+    },
+    {
+      "path": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Digital_context_lines_v004.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 2,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "983c5024c8d32f0f58eb9bb0a197740e60a9e18f1c901156129ced6966e42000",
+      "seconds": 0.018587399972602725
+    },
+    {
+      "path": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Dependencies/Digital_style_v001.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 0,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "5068442b00b73ddf4ad3e6245411a8d43839db776e699b6c099764b0f929d4c2",
+      "seconds": 0.016847999999299645
+    },
+    {
+      "path": "04-Production/Shared/Assets/Effects/DigitalEnvironment/Dependencies/Digital_world_v001.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 2,
+      "scenes": 1,
+      "libraries": [
+        {
+          "path": "//Digital_style_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Effects\\DigitalEnvironment\\Dependencies\\Digital_style_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Environment\\Borehole\\World_environment_v010.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Effects\\DigitalEnvironment\\Dependencies\\..\\..\\..\\Environment\\Borehole\\World_environment_v010.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "6dbeef11b17ae399a846c4a2f94d0f3e4988b360fc8cb464c4bbd91bb66b0feb",
+      "seconds": 0.1503800000064075
+    },
+    {
+      "path": "04-Production/Shared/Assets/Hardware/ECCO/ECCO_film_v003.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 18,
+      "scenes": 1,
+      "libraries": [
+        {
+          "path": "//Dependencies\\Satin_finish_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "3d9dd35fcb42e320c9a90b447f473ff6bb9b87de7a86afb2422935d6148e5fc5",
+      "seconds": 0.39963650004938245
+    },
+    {
+      "path": "04-Production/Shared/Assets/Hardware/ECCO/Dependencies/Satin_finish_v001.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 0,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "19cdac6471673b8b1d1970e689f99ea501331b1353782fdb95771d2173b46742",
+      "seconds": 0.013489800039678812
+    },
+    {
+      "path": "04-Production/Shared/Assets/Environment/Borehole/Dependencies/Formation_cased-section_v002.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 2,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "00f193844bd9d371ade2dc7ab317d9fdc871adedf037b0cac2f0c5ccd3aca556",
+      "seconds": 0.04527070000767708
+    },
+    {
+      "path": "04-Production/Shared/Assets/Environment/Borehole/Dependencies/Formation_context_v002.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 6,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "731d7dfed6e7d91ae74c05503005f43b996e98caa0120b24ad0def97ea612ac4",
+      "seconds": 0.04662569996435195
+    },
+    {
+      "path": "04-Production/Shared/Assets/Effects/Hydraulics/Hydraulics_v003.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 15,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "e4db1c08362b7bc9d6476382a4c98124fe1ed148045e98384c982e015f447a5c",
+      "seconds": 0.02190719998907298
+    },
+    {
+      "path": "04-Production/Shared/Assets/Effects/MeasurementReveal/Measurement_reveal_v001.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 0,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "6571281f6babff0b293dba55dfdf1cfbfb80f98ddd743d3dcc1469dbd539ec0f",
+      "seconds": 0.01645180000923574
+    },
+    {
+      "path": "04-Production/Shared/Assets/Environment/Surface/Surface_descent_v005.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 771,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "aa0d9886f4c591c3c1ef54154a095502fd75009b10937bec2cdf717f922989c9",
+      "seconds": 0.37582929991185665
+    },
+    {
+      "path": "04-Production/Shared/Assets/Environment/Borehole/Dependencies/WellAssembly_variants_v003.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 38,
+      "scenes": 1,
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Archive\\2026-10-31\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\..\\..\\..\\..\\Archive\\2026-10-31\\Assets\\ECCO\\ECCO_master_temporary-plugs_v002.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "c8702240068eb7f255c9a98b081910d7cc44edfbf1140cb9a6dcbf44b9b5cc82",
+      "seconds": 0.2570499998982996
+    },
+    {
+      "path": "04-Production/Shared/Assets/Environment/Borehole/World_environment_v010.blend",
+      "kind": "active",
+      "open_ok": true,
+      "objects": 23,
+      "scenes": 1,
+      "libraries": [],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "67e789b370746ecb58fd186acf4678e4d64ad4da92aee1fb0a7e9bade1179538",
+      "seconds": 0.3471704999683425
+    },
+    {
+      "path": "04-Production/Shared/Demos/Hardware_demo_v001.blend",
+      "kind": "demo",
+      "open_ok": true,
+      "objects": 169,
+      "scenes": 1,
+      "libraries": [
+        {
+          "path": "//..\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "4baf685a513692d6675123ed3b3ac60e2f203d4b566d139871321e41aed27612",
+      "seconds": 0.19610409997403622
+    },
+    {
+      "path": "04-Production/Shared/Demos/World_demo_v001.blend",
+      "kind": "demo",
+      "open_ok": true,
+      "objects": 3,
+      "scenes": 2,
+      "libraries": [
+        {
+          "path": "//..\\Assets\\Environment\\Borehole\\World_environment_v010.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Environment\\Borehole\\World_environment_v010.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "e00e8b2ba9af8019e81391661236fd9e01a7a6a0f5938be7899ebc58858ab8ed",
+      "seconds": 0.12374159996397793
+    },
+    {
+      "path": "04-Production/Shared/Demos/Surface_demo_v001.blend",
+      "kind": "demo",
+      "open_ok": true,
+      "objects": 565,
+      "scenes": 2,
+      "libraries": [
+        {
+          "path": "//..\\Assets\\Environment\\Surface\\Surface_descent_v005.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Environment\\Surface\\Surface_descent_v005.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "49fcdaadc148d059dfe4a9853fe1519e418547b1c4458e51c74df7d9e2e0e997",
+      "seconds": 0.33323709992691875
+    },
+    {
+      "path": "04-Production/Shared/Demos/Digital_environment_demo_v005.blend",
+      "kind": "demo",
+      "open_ok": true,
+      "objects": 8,
+      "scenes": 1,
+      "libraries": [
+        {
+          "path": "//..\\Assets\\Effects\\DigitalEnvironment\\Digital_context_lines_v004.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Effects\\DigitalEnvironment\\Digital_context_lines_v004.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\Assets\\Effects\\DigitalEnvironment\\Dependencies\\Digital_style_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Effects\\DigitalEnvironment\\Dependencies\\Digital_style_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\Assets\\Environment\\Borehole\\World_environment_v010.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Environment\\Borehole\\World_environment_v010.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "a3689f0dbdb07df3a49e38405a732fb60017c370693f596050957d292908dc49",
+      "seconds": 0.14865220000501722
+    },
+    {
+      "path": "04-Production/Shared/Demos/Measurement_reveal_demo_v002.blend",
+      "kind": "demo",
+      "open_ok": true,
+      "objects": 5,
+      "scenes": 1,
+      "libraries": [
+        {
+          "path": "//..\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "d2f217e96ce521f4537943e8f5d2affa8e612728877add5ef4fbb8da43dbe5ad",
+      "seconds": 0.019846900017000735
+    },
+    {
+      "path": "04-Production/Shared/Demos/Waveform_demo_v015.blend",
+      "kind": "demo",
+      "open_ok": true,
+      "objects": 11,
+      "scenes": 1,
+      "libraries": [
+        {
+          "path": "//..\\Assets\\Effects\\Waveform\\Waveform_shared_v015.blend",
+          "resolved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\..\\Assets\\Effects\\Waveform\\Waveform_shared_v015.blend",
+          "exists": true
+        }
+      ],
+      "all_libraries_resolve": true,
+      "all_libraries_relative": true,
+      "unchanged": true,
+      "sha256": "652a7e11ed3b75dc8647f956d3a49c9286c47e47d8db066c186cbfd51dab8ae6",
+      "seconds": 0.033319200039841235
+    }
+  ],
+  "sources": [
+    {
+      "path": "04-Production/Shared/Sources/ECCO/Client_Confirmed_Sensor.png",
+      "sha256": "af0886d8a614dcbd55049ef0c986cd07c008a02b9c761c15d1a3a196d3653573",
+      "matches_original": true
+    },
+    {
+      "path": "04-Production/Shared/Sources/ECCO/IMPLEMENTATION_REPORT.md",
+      "sha256": "4aa8704e6564a3020e4a08296e0e10049e57bc1a3128687476b8535b514dd69d",
+      "matches_original": true
+    },
+    {
+      "path": "04-Production/Shared/Sources/ECCO/PZ12-8301 Main Housing ENP3 _A_ Modified TFA _5_ Ready _TC.stp",
+      "sha256": "ded44633fcdd5161f117f59c157c27c6213bae55d8ce8616f432d84b32e24cde",
+      "matches_original": true
+    },
+    {
+      "path": "04-Production/Shared/Sources/ECCO/Source_Imported_ecco.blend",
+      "sha256": "e2eb5796482a12f8a78db011e1a1bea2717e7a023dd6bc62daa9d8c8dfc841a5",
+      "matches_original": true
+    },
+    {
+      "path": "04-Production/Shared/Sources/Surface/IntoTheInvisible_Shot01.blend",
+      "sha256": "ef669ae4fdd20a74d1d4b6a16e0978c17ae857f5c839dc08128247ff3bf29ab0",
+      "matches_original": true
+    }
+  ]
+}
