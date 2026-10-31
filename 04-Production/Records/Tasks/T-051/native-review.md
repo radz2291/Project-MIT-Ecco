@@ -1,24 +1,25 @@
-# ECCO-051 — Native shared-asset review
+# ECCO-051 — Shared assets and demos
 
-Owner review happens in the shared Blender files. On 30 October 2026 Radzi reported no issues with the other previews and approved waveform v013 for now, while explicitly reserving final approval until inspecting the native assets. None of these statements marks the complete package Done.
+Current delivery: 31 October 2026. Production root: C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco. Preserve the folder structure for relative links. Final acceptance follows Radzi's native inspection.
 
-Open the files in the production checkout: `C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco`. Heavy Blender files are local, not included in the Git publication. Keep the relative folder structure so linked libraries resolve. Review copies preserve the original shot files.
-
-| Package | Shared Blender entry point beneath production root | What to inspect |
+| Item | Shared master beneath 04-Production/Shared/Assets/ | Demo beneath 04-Production/Records/Tasks/ |
 |---|---|---|
-| 052 hardware | `04-Production/Shared/Assets/ECCO/ECCO_film_v003.blend` | ECCO geometry, sensor faces and linked satin finish |
-| 052 BHA | `04-Production/Shared/Assets/BHA/BHA_film_v008.blend` | Connected assembly and continuation controls |
-| 053 physical World | `04-Production/Shared/Assets/WellAssembly/World_environment_v010.blend` | Irregular borehole, cutaway, soil extent and separate variants |
-| 055 surface/descent | `04-Production/Shared/Assets/Surface/Surface_descent_v005.blend` | Surface rig, subsea assembly, earth and illustrative viewing opening |
-| 054 digital context | `04-Production/Shared/Assets/DigitalEnvironment/Digital_context_lines_v004.blend` | Shared relief-following contextual strata/grid; visually approved, native review pending |
-| 054 digital style | `04-Production/Shared/Assets/DigitalEnvironment/Digital_style_v001.blend` | Shared cyan palette and styling |
-| 054 measurement reveal | `04-Production/Shared/Assets/MeasurementReveal/Measurement_reveal_v001.blend` | Shared receipt-driven reveal controls; local measurements remain in each shot |
-| 056 waveform | `04-Production/Shared/Assets/Acoustics/Waveform_shared_v014/Waveform_shared_v014.blend` | Select `WF_MASTER_CONTROLS` and inspect its modifier; select `WF_LIVE_FIELD` for timing, preset and local overrides |
+| ECCO hardware | ECCO/ECCO_film_v003.blend | T-052/Demos/Hardware_demo_v001.blend |
+| BHA assembly | BHA/BHA_film_v008.blend | T-052/Demos/Hardware_demo_v001.blend |
+| Physical World | WellAssembly/World_environment_v010.blend | T-051/Demos/World_demo_v001.blend |
+| Surface/subsea | Surface/Surface_descent_v005.blend | T-051/Demos/Surface_demo_v001.blend |
+| Digital environment | DigitalEnvironment/Digital_context_lines_v004.blend | T-054/Demos/Digital_environment_demo_v005.blend |
+| Measurement reveal | MeasurementReveal/Measurement_reveal_v001.blend | T-054/Demos/Measurement_reveal_demo_v002.blend |
+| Waveform | Acoustics/Waveform_shared_v015/Waveform_shared_v015.blend | T-056/Demos/Waveform_demo_v015.blend |
 
-054 is visually approved. Its derived contextual lines require the documented source-hash preflight and regeneration after World shape changes; see `Shared/Assets/DigitalEnvironment/CONTEXT_LINES_v004.md`.
+Required supporting libraries: ECCO/Satin_finish_v001.blend, BHA/BHA_core_satin_v001.blend, DigitalEnvironment/Digital_style_v001.blend and DigitalEnvironment/Digital_world_v001.blend. The digital environment is a small family of style, physical wrapper and derived contextual-line libraries.
 
-056 v014 is the live-control successor to the provisionally approved v013 motion. Defaults reproduce v013. The master exposes speed, frequency, strength, echo, decay, size, colors, emission and strand radius. The field modifier exposes local timing/appearance overrides and `Preset 0 Open 1 Cased`; presets are authored display choices, not measured material responses. Its demo plays frames1–96 at24fps. Shot consumers lock event timing by default, so changing shared playback speed does not shift original shot events.
+Shared masters hold reusable components; demos link them and add examples, framing and instructions. Earlier consumer copies remain historical test evidence, outside this delivered list. Existing files and locked shots are preserved.
 
-Open `04-Production/Records/Tasks/T-056/Consumers/S02_waveform_shared_v014.blend` around frames298–324 and `S04_waveform_shared_v014.blend` around71–95 and183–207 for the actual shot integration copies. Their original cameras/timing/data remain; the S02 Workbench preview is flatter than the Eevee master and both consumers use a local strand-radius multiplier for readability. Do not overwrite locked shot sources during review.
+Waveform V015 contains only the live field and master control: two objects, two meshes, one material, two Geometry Nodes groups, no external libraries, cameras, lights, geology or recorded history. Its local origin is near zero. Default geometry matches V014 exactly at ten checked frames. Select WF_MASTER_CONTROLS for shared values and WF_LIVE_FIELD for local settings; use the Blender README. The separate11object demo provides a minimal sensor/wall fixture and causal cues. V014 and V013 are retained.
 
-For scene context, use the package reports' consumer copies: [052](../T-052/report.md), [053](../T-053/report.md), [054](../T-054/report.md), [055](../T-055/report.md), [056](../T-056/report.md). Exact versions, native hashes, local limitations and propagation checks are recorded there. Final film assembly stays with Radzi.
+World and Surface demos provide two scenes each through the scene selector: detail/outer extent and assembly/subsea. World uses neutral geometry shading. Hardware demo uses Workbench for fast organization inspection; linked satin materials and lights remain stored.
+
+Digital lines require the documented manual source-hash preflight and regeneration after World changes; see Shared/Assets/DigitalEnvironment/CONTEXT_LINES_v004.md. Measurement demo shapes and acoustic presets are authored illustrations, not calibrated data. Visual approval of054 and provisional V013 approval remain recorded; native acceptance stays with Radzi.
+
+Verification and hashes: Evidence/shared-demo-independent.json, Evidence/environment-demo-build.json and package demo manifests. Heavy Blender files remain local/ignored without a new off-machine backup claim.

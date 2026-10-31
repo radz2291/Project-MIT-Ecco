@@ -1,0 +1,22 @@
+[
+  {
+    "path": "04-Production\\Records\\Tasks\\T-051\\Demos\\World_demo_v001.blend",
+    "source": "04-Production/Shared/Assets/WellAssembly/World_environment_v010.blend",
+    "source_sha256": "9cb7d5c946e8573abc05af4ee3c12492610a982c1773a6437f90a762055fb540",
+    "scenes": [
+      "World \u2014 borehole detail",
+      "World \u2014 outer extent"
+    ],
+    "sha256": "07ebd84da0e1e568ccabbd72cbce033be5aac5d2d6a464669e397774ceb91540"
+  },
+  {
+    "path": "04-Production\\Records\\Tasks\\T-051\\Demos\\Surface_demo_v001.blend",
+    "source": "04-Production/Shared/Assets/Surface/Surface_descent_v005.blend",
+    "source_sha256": "013ca7d61bd6b90841dc0e2f858b808b53ca20f2c4442ce1cacb059c81d810d3",
+    "scenes": [
+      "Surface \u2014 assembly overview",
+      "Surface \u2014 subsea detail"
+    ],
+    "sha256": "1b86c6e7ce4a7cd10891c76821507d569fd35bda9fe4dac7a476b5c0bb123036"
+  }
+]

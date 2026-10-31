@@ -1,0 +1,10 @@
+{
+  "seconds": 1.652115699951537,
+  "under_five": true,
+  "engine": "BLENDER_WORKBENCH",
+  "resolution": [
+    640,
+    360
+  ],
+  "scope": "Geometry/organization preview only; satin material remains linked but Workbench does not evaluate nodes."
+}

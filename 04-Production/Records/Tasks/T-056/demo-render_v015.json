@@ -1,0 +1,13 @@
+{
+  "frame": 30,
+  "resolution": [
+    640,
+    360
+  ],
+  "engine": "BLENDER_EEVEE",
+  "samples": 16,
+  "full_render_seconds": 1.6272841000463814,
+  "cap_pass": true,
+  "image": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-056\\Previews\\waveform_demo_v015.png",
+  "native_saved": false
+}

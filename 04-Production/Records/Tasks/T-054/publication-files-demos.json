@@ -1,0 +1,17 @@
+[
+  "04-Production/Records/Tasks/T-054/Demos/README.md",
+  "04-Production/Records/Tasks/T-054/Evidence/demo-native-manifest.json",
+  "04-Production/Records/Tasks/T-054/Evidence/demo-render-before-framing.json",
+  "04-Production/Records/Tasks/T-054/Evidence/demo-render-failure-initial.json",
+  "04-Production/Records/Tasks/T-054/Evidence/demo-render-timings.json",
+  "04-Production/Records/Tasks/T-054/Evidence/demo-shared-preservation.json",
+  "04-Production/Records/Tasks/T-054/Evidence/demo-validation.json",
+  "04-Production/Records/Tasks/T-054/Previews/Digital_environment_demo_v005_f001.png",
+  "04-Production/Records/Tasks/T-054/Previews/Measurement_reveal_demo_v002_f060.png",
+  "04-Production/Records/Tasks/T-054/report-demos.md",
+  "04-Production/Records/Tasks/T-054/Scripts/build_clean_demos.py",
+  "04-Production/Records/Tasks/T-054/Scripts/render_clean_demos_final.py",
+  "04-Production/Records/Tasks/T-054/Scripts/render_clean_demos.py",
+  "04-Production/Records/Tasks/T-054/Scripts/verify_clean_demos.py",
+  "04-Production/Records/Tasks/T-054/Scripts/verify_root_demos.py"
+]

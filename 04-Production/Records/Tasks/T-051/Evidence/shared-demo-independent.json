@@ -1,0 +1,231 @@
+{
+  "files": [
+    {
+      "path": "04-Production/Shared/Assets/Acoustics/Waveform_shared_v015/Waveform_shared_v015.blend",
+      "sha256": "91c439395b93e4babf17c0a476b0e75ca06e9a60102af1c31aeb9eadb3c1121d",
+      "objects": 2,
+      "local_objects": 2,
+      "texts": [
+        "START HERE \u2014 shared waveform"
+      ],
+      "scenes": [
+        {
+          "name": "WAVEFORM \u2014 reusable field only",
+          "camera": null
+        }
+      ],
+      "libraries": [],
+      "checks": {
+        "libraries_relative_resolve": true,
+        "no_shot_libraries": true,
+        "file_unchanged": true,
+        "only_two_objects": true,
+        "no_external_libraries": true,
+        "no_camera_lights": true,
+        "near_origin": true
+      },
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-056/Demos/Waveform_demo_v015.blend",
+      "sha256": "1fe46081258289a1e95e4229a61519f1d72704c28b182f2dd0726d2d0113fc70",
+      "objects": 11,
+      "local_objects": 9,
+      "texts": [
+        "START HERE \u2014 demo"
+      ],
+      "scenes": [
+        {
+          "name": "WAVEFORM \u2014 minimal linked demo",
+          "camera": "DEMO_CAMERA"
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Waveform_shared_v015\\Waveform_shared_v015.blend",
+          "exists": true
+        }
+      ],
+      "checks": {
+        "libraries_relative_resolve": true,
+        "no_shot_libraries": true,
+        "file_unchanged": true
+      },
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-052/Demos/Hardware_demo_v001.blend",
+      "sha256": "f0e046362efaca2555f1888cd9225f52d636c6d56bf3d0ed1316edfccf174da6",
+      "objects": 169,
+      "local_objects": 13,
+      "texts": [],
+      "scenes": [
+        {
+          "name": "Hardware | Shared assets review",
+          "camera": "Hardware review camera"
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_core_satin_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v008.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v003.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\Satin_finish_v001.blend",
+          "exists": true
+        }
+      ],
+      "checks": {
+        "libraries_relative_resolve": true,
+        "no_shot_libraries": true,
+        "file_unchanged": true
+      },
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-054/Demos/Digital_environment_demo_v005.blend",
+      "sha256": "39840a3949486b11e3ada65198c1d9225214ae9e6d3180f019e29e874e87fc33",
+      "objects": 8,
+      "local_objects": 5,
+      "texts": [
+        "README \u2014 SHARED ASSET DEMO"
+      ],
+      "scenes": [
+        {
+          "name": "Digital environment \u2014 shared asset demo",
+          "camera": "DEMO viewing camera"
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_context_lines_v004.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_style_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "exists": true
+        }
+      ],
+      "checks": {
+        "libraries_relative_resolve": true,
+        "no_shot_libraries": true,
+        "file_unchanged": true
+      },
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-054/Demos/Measurement_reveal_demo_v002.blend",
+      "sha256": "963b373aa4ef2ffa48bd0595481b56c79280aedad8a6ded7f19b860ad8156681",
+      "objects": 5,
+      "local_objects": 5,
+      "texts": [
+        "README \u2014 SHARED ASSET DEMO"
+      ],
+      "scenes": [
+        {
+          "name": "Measurement reveal \u2014 two authored proxy shapes",
+          "camera": "DEMO viewing camera"
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\MeasurementReveal\\Measurement_reveal_v001.blend",
+          "exists": true
+        }
+      ],
+      "checks": {
+        "libraries_relative_resolve": true,
+        "no_shot_libraries": true,
+        "file_unchanged": true
+      },
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-051/Demos/World_demo_v001.blend",
+      "sha256": "07ebd84da0e1e568ccabbd72cbce033be5aac5d2d6a464669e397774ceb91540",
+      "objects": 3,
+      "local_objects": 2,
+      "texts": [
+        "README \u2014 World demo"
+      ],
+      "scenes": [
+        {
+          "name": "World \u2014 borehole detail",
+          "camera": "World \u2014 borehole detail camera"
+        },
+        {
+          "name": "World \u2014 outer extent",
+          "camera": "World \u2014 outer extent camera"
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "exists": true
+        }
+      ],
+      "checks": {
+        "libraries_relative_resolve": true,
+        "no_shot_libraries": true,
+        "file_unchanged": true
+      },
+      "pass": true
+    },
+    {
+      "path": "04-Production/Records/Tasks/T-051/Demos/Surface_demo_v001.blend",
+      "sha256": "1b86c6e7ce4a7cd10891c76821507d569fd35bda9fe4dac7a476b5c0bb123036",
+      "objects": 565,
+      "local_objects": 4,
+      "texts": [
+        "README \u2014 Surface demo"
+      ],
+      "scenes": [
+        {
+          "name": "Surface \u2014 assembly overview",
+          "camera": "Surface \u2014 assembly overview camera"
+        },
+        {
+          "name": "Surface \u2014 subsea detail",
+          "camera": "Surface \u2014 subsea detail camera"
+        }
+      ],
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v005.blend",
+          "exists": true
+        }
+      ],
+      "checks": {
+        "libraries_relative_resolve": true,
+        "no_shot_libraries": true,
+        "file_unchanged": true
+      },
+      "pass": true
+    }
+  ],
+  "waveform_default_errors_m": {
+    "1": 0,
+    "12": 0.0,
+    "18": 0.0,
+    "26": 0.0,
+    "30": 0.0,
+    "38": 0.0,
+    "54": 0.0,
+    "62": 0,
+    "68": 0,
+    "96": 0
+  },
+  "pass": true
+}

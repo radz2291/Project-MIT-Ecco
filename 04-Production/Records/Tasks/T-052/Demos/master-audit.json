@@ -1,0 +1,22 @@
+[
+  {
+    "path": "04-Production/Shared/Assets/ECCO/Satin_finish_v001.blend",
+    "sha256": "19cdac6471673b8b1d1970e689f99ea501331b1353782fdb95771d2173b46742",
+    "unchanged": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/ECCO/ECCO_film_v003.blend",
+    "sha256": "a14fcd538b7fc604a6ac064ff681f6eefc5dfc51854e29d5993d2a9952ee8586",
+    "unchanged": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/BHA/BHA_core_satin_v001.blend",
+    "sha256": "7e60952d039d85f4e964cbbb963f046935f8320b850027d2b654f5f365c1e6f5",
+    "unchanged": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/BHA/BHA_film_v008.blend",
+    "sha256": "d15aff83c006ed80181ce15d40ac42aba5ed0de59721786249b9dea5ad7d9485",
+    "unchanged": true
+  }
+]

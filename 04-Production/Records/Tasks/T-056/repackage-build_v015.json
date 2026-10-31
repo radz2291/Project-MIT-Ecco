@@ -1,0 +1,86 @@
+{
+  "shared": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Acoustics\\Waveform_shared_v015\\Waveform_shared_v015.blend",
+  "demo": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-056\\Demos\\Waveform_demo_v015.blend",
+  "shared_counts": {
+    "objects": 2,
+    "cameras": 0,
+    "lights": 0,
+    "meshes": 2,
+    "materials": 1,
+    "node_groups": 2,
+    "libraries": 0
+  },
+  "demo_counts": {
+    "objects": 11,
+    "cameras": 1,
+    "lights": 2,
+    "libraries": [
+      "//..\\..\\..\\..\\Shared\\Assets\\Acoustics\\Waveform_shared_v015\\Waveform_shared_v015.blend"
+    ]
+  },
+  "default_comparison": [
+    {
+      "frame": 1,
+      "vertices": 0,
+      "max_error_m": 0,
+      "same_count": true
+    },
+    {
+      "frame": 12,
+      "vertices": 7680,
+      "max_error_m": 0.0,
+      "same_count": true
+    },
+    {
+      "frame": 18,
+      "vertices": 19200,
+      "max_error_m": 0.0,
+      "same_count": true
+    },
+    {
+      "frame": 26,
+      "vertices": 23168,
+      "max_error_m": 0.0,
+      "same_count": true
+    },
+    {
+      "frame": 30,
+      "vertices": 23168,
+      "max_error_m": 0.0,
+      "same_count": true
+    },
+    {
+      "frame": 38,
+      "vertices": 23168,
+      "max_error_m": 0.0,
+      "same_count": true
+    },
+    {
+      "frame": 54,
+      "vertices": 15360,
+      "max_error_m": 0.0,
+      "same_count": true
+    },
+    {
+      "frame": 62,
+      "vertices": 0,
+      "max_error_m": 0,
+      "same_count": true
+    },
+    {
+      "frame": 68,
+      "vertices": 0,
+      "max_error_m": 0,
+      "same_count": true
+    },
+    {
+      "frame": 96,
+      "vertices": 0,
+      "max_error_m": 0,
+      "same_count": true
+    }
+  ],
+  "pass": true,
+  "v014_preserved_sha256": "f40442c23464edf73afb0a1e752625f37aac9e780123f073ddb95addb220c235",
+  "note": "Final library count verified after reopening; unused append library entry pruned on save/reopen."
+}

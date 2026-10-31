@@ -1,0 +1,111 @@
+{
+  "verifier": "ECCO-052 builder; independent of root environment demo author",
+  "mode": "read-only background reopen; no render or native save",
+  "demos": [
+    {
+      "demo": "04-Production\\Records\\Tasks\\T-051\\Demos\\World_demo_v001.blend",
+      "sha256": "07ebd84da0e1e568ccabbd72cbce033be5aac5d2d6a464669e397774ceb91540",
+      "demo_unchanged": true,
+      "source": "04-Production/Shared/Assets/WellAssembly/World_environment_v010.blend",
+      "source_hash_matches_build": true,
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+          "exists": true
+        }
+      ],
+      "all_relative": true,
+      "all_resolve": true,
+      "shot_dependencies": [],
+      "scenes": [
+        {
+          "name": "World \u2014 borehole detail",
+          "objects": 2,
+          "camera": "World \u2014 borehole detail camera",
+          "camera_action": false,
+          "camera_data_action": false,
+          "engine": "BLENDER_WORKBENCH",
+          "range": [
+            1,
+            250
+          ]
+        },
+        {
+          "name": "World \u2014 outer extent",
+          "objects": 2,
+          "camera": "World \u2014 outer extent camera",
+          "camera_action": false,
+          "camera_data_action": false,
+          "engine": "BLENDER_WORKBENCH",
+          "range": [
+            1,
+            250
+          ]
+        }
+      ],
+      "texts": [
+        {
+          "name": "README \u2014 World demo",
+          "body": "DEMO ONLY. Linked shared master: 04-Production/Shared/Assets/WellAssembly/World_environment_v010.blend\nUse the scene dropdown for World \u2014 borehole detail, World \u2014 outer extent.\nThe shared asset is editable in its source library. Camera/framing and seabed reference belong only to this demo. No section camera, measurement dataset or production timeline is included.\nChoose other World variants in the shared master; do not stack competing full/cutaway variants. Authored previs geometry.\n"
+        }
+      ],
+      "images": [],
+      "actions": []
+    },
+    {
+      "demo": "04-Production\\Records\\Tasks\\T-051\\Demos\\Surface_demo_v001.blend",
+      "sha256": "1b86c6e7ce4a7cd10891c76821507d569fd35bda9fe4dac7a476b5c0bb123036",
+      "demo_unchanged": true,
+      "source": "04-Production/Shared/Assets/Surface/Surface_descent_v005.blend",
+      "source_hash_matches_build": true,
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v005.blend",
+          "exists": true
+        }
+      ],
+      "all_relative": true,
+      "all_resolve": true,
+      "shot_dependencies": [],
+      "scenes": [
+        {
+          "name": "Surface \u2014 assembly overview",
+          "objects": 563,
+          "camera": "Surface \u2014 assembly overview camera",
+          "camera_action": false,
+          "camera_data_action": false,
+          "engine": "BLENDER_WORKBENCH",
+          "range": [
+            1,
+            250
+          ]
+        },
+        {
+          "name": "Surface \u2014 subsea detail",
+          "objects": 563,
+          "camera": "Surface \u2014 subsea detail camera",
+          "camera_action": false,
+          "camera_data_action": false,
+          "engine": "BLENDER_WORKBENCH",
+          "range": [
+            1,
+            250
+          ]
+        }
+      ],
+      "texts": [
+        {
+          "name": "README \u2014 Surface demo",
+          "body": "DEMO ONLY. Linked shared master: 04-Production/Shared/Assets/Surface/Surface_descent_v005.blend\nUse the scene dropdown for Surface \u2014 assembly overview, Surface \u2014 subsea detail.\nThe shared asset is editable in its source library. Camera/framing and seabed reference belong only to this demo. No section camera, measurement dataset or production timeline is included.\nSurface master includes the approved illustrative camera-access opening; equipment dimensions are previs adaptations.\n"
+        }
+      ],
+      "images": [],
+      "actions": []
+    }
+  ],
+  "visual_observations": {
+    "Surface_0.png": "Assembly overview shows rig, riser and seabed fixture together. Riser connection is readable; structure fully framed, with seabed edge near frame bottom.",
+    "Surface_1.png": "Subsea detail shows guide structure/central connector and foundation seated on gray seabed; base clearly visible. Top of subsea assembly intentionally outside detail frame.",
+    "World": "No new World visual verdict; current rerender pending root."
+  }
+}

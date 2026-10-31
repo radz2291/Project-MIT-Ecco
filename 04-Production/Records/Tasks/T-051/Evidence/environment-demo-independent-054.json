@@ -1,0 +1,100 @@
+[
+  {
+    "path": "04-Production\\Records\\Tasks\\T-051\\Demos\\World_demo_v001.blend",
+    "native_sha256": "07ebd84da0e1e568ccabbd72cbce033be5aac5d2d6a464669e397774ceb91540",
+    "source_sha256": "9cb7d5c946e8573abc05af4ee3c12492610a982c1773a6437f90a762055fb540",
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+        "exists": true
+      }
+    ],
+    "local_actions": [],
+    "local_objects": [
+      "World — borehole detail camera",
+      "World — outer extent camera"
+    ],
+    "scenes": [
+      {
+        "name": "World — borehole detail",
+        "camera": "World — borehole detail camera",
+        "camera_location": [
+          0.0,
+          -4.0,
+          0.0
+        ],
+        "camera_ortho_scale": 2.0,
+        "frame_range": [
+          1,
+          250
+        ],
+        "mesh_object_count": 1
+      },
+      {
+        "name": "World — outer extent",
+        "camera": "World — outer extent camera",
+        "camera_location": [
+          33.88013458251953,
+          -34.149776458740234,
+          38.36014175415039
+        ],
+        "camera_ortho_scale": 98.99639129638672,
+        "frame_range": [
+          1,
+          250
+        ],
+        "mesh_object_count": 1
+      }
+    ]
+  },
+  {
+    "path": "04-Production\\Records\\Tasks\\T-051\\Demos\\Surface_demo_v001.blend",
+    "native_sha256": "1b86c6e7ce4a7cd10891c76821507d569fd35bda9fe4dac7a476b5c0bb123036",
+    "source_sha256": "013ca7d61bd6b90841dc0e2f858b808b53ca20f2c4442ce1cacb059c81d810d3",
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\Surface\\Surface_descent_v005.blend",
+        "exists": true
+      }
+    ],
+    "local_actions": [],
+    "local_objects": [
+      "DEMO ONLY seabed reference",
+      "DEMO ONLY seabed reference.001",
+      "Surface — assembly overview camera",
+      "Surface — subsea detail camera"
+    ],
+    "scenes": [
+      {
+        "name": "Surface — assembly overview",
+        "camera": "Surface — assembly overview camera",
+        "camera_location": [
+          199.9723663330078,
+          -274.1092224121094,
+          112.25885772705078
+        ],
+        "camera_ortho_scale": 378.5362548828125,
+        "frame_range": [
+          1,
+          250
+        ],
+        "mesh_object_count": 561
+      },
+      {
+        "name": "Surface — subsea detail",
+        "camera": "Surface — subsea detail camera",
+        "camera_location": [
+          12.0,
+          -18.0,
+          -108.0
+        ],
+        "camera_ortho_scale": 19.0,
+        "frame_range": [
+          1,
+          250
+        ],
+        "mesh_object_count": 561
+      }
+    ]
+  }
+]

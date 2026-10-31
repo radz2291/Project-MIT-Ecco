@@ -1,0 +1,93 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Records\\Tasks\\T-052\\Demos\\Hardware_demo_v001.blend",
+  "sha256": "f0e046362efaca2555f1888cd9225f52d636c6d56bf3d0ed1316edfccf174da6",
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_core_satin_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\BHA\\BHA_film_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\ECCO_film_v003.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\..\\Shared\\Assets\\ECCO\\Satin_finish_v001.blend",
+      "exists": true
+    }
+  ],
+  "all_relative": true,
+  "all_resolve": true,
+  "control_is_override": true,
+  "control_states": [
+    {
+      "show": 0,
+      "length_m": 2.0,
+      "objects": [
+        {
+          "name": "WORLD_UPHOLE_EXTENSION_INSTANCE",
+          "hide_render": true,
+          "scale": [
+            2.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "WORLD_UPHOLE_JOINT_INSTANCE",
+          "hide_render": true,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "show": 1,
+      "length_m": 2.0,
+      "objects": [
+        {
+          "name": "WORLD_UPHOLE_EXTENSION_INSTANCE",
+          "hide_render": false,
+          "scale": [
+            2.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "WORLD_UPHOLE_JOINT_INSTANCE",
+          "hide_render": false,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ]
+    }
+  ],
+  "finish": {
+    "linked": true,
+    "revision": 1,
+    "roughness_base": 0.29100000858306885
+  },
+  "scene_objects": [
+    "ECCO | linked standalone",
+    "BHA | linked connected assembly",
+    "ECCO  /  shared satin",
+    "BHA  /  connected core",
+    "Hardware review camera",
+    "Broad key",
+    "Edge reflection",
+    "Soft fill",
+    "UPHOLE_CONTINUATION_CONTROL"
+  ],
+  "no_section_scene": true,
+  "source_masters_unchanged": "checked separately against prior manifest"
+}

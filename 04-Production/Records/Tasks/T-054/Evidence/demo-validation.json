@@ -1,0 +1,123 @@
+[
+  {
+    "demo": "Digital_environment_demo_v005.blend",
+    "scene_objects": [
+      "DEMO CONTROLS \u2014 select then Object Custom Properties",
+      "DEMO linked soil",
+      "DEMO linked contextual lines",
+      "DEMO viewing camera",
+      "DEMO soft light"
+    ],
+    "local_objects": [
+      "DEMO CONTROLS \u2014 select then Object Custom Properties",
+      "DEMO linked contextual lines",
+      "DEMO linked soil",
+      "DEMO soft light",
+      "DEMO viewing camera"
+    ],
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_context_lines_v004.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\DigitalEnvironment\\Digital_style_v001.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\WellAssembly\\World_environment_v010.blend",
+        "exists": true
+      }
+    ],
+    "default_counts": {
+      "DEMO linked soil": 43792,
+      "DEMO linked contextual lines": 40590
+    },
+    "raw_local_mesh_vertices": {
+      "DEMO linked soil": 0,
+      "DEMO linked contextual lines": 0
+    },
+    "control_names": [
+      "Axial half window m",
+      "Show soil",
+      "Show contextual lines"
+    ],
+    "readme": true,
+    "control_effects": {
+      "normal": {
+        "DEMO linked soil": 43792,
+        "DEMO linked contextual lines": 40590
+      },
+      "soil_off": {
+        "DEMO linked soil": 0,
+        "DEMO linked contextual lines": 40590
+      },
+      "window2m": {
+        "DEMO linked soil": 11074,
+        "DEMO linked contextual lines": 10335
+      }
+    }
+  },
+  {
+    "demo": "Measurement_reveal_demo_v002.blend",
+    "scene_objects": [
+      "DEMO CONTROLS \u2014 select then Object Custom Properties",
+      "DEMO Irregular proxy \u2014 not field data",
+      "DEMO Clean proxy \u2014 not field data",
+      "DEMO viewing camera",
+      "DEMO soft light"
+    ],
+    "local_objects": [
+      "DEMO Clean proxy \u2014 not field data",
+      "DEMO CONTROLS \u2014 select then Object Custom Properties",
+      "DEMO Irregular proxy \u2014 not field data",
+      "DEMO soft light",
+      "DEMO viewing camera"
+    ],
+    "libraries": [
+      {
+        "path": "//..\\..\\..\\..\\Shared\\Assets\\MeasurementReveal\\Measurement_reveal_v001.blend",
+        "exists": true
+      }
+    ],
+    "default_counts": {
+      "DEMO Irregular proxy \u2014 not field data": 11568,
+      "DEMO Clean proxy \u2014 not field data": 11568
+    },
+    "raw_local_mesh_vertices": {
+      "DEMO Irregular proxy \u2014 not field data": 696,
+      "DEMO Clean proxy \u2014 not field data": 696
+    },
+    "control_names": [
+      "Start frame",
+      "Stagger frames",
+      "Settle frames",
+      "Arrival offset",
+      "Point radius",
+      "Line radius"
+    ],
+    "readme": true,
+    "frame_counts": {
+      "1": {
+        "DEMO Irregular proxy \u2014 not field data": 0,
+        "DEMO Clean proxy \u2014 not field data": 0
+      },
+      "20": {
+        "DEMO Irregular proxy \u2014 not field data": 4740,
+        "DEMO Clean proxy \u2014 not field data": 4740
+      },
+      "34": {
+        "DEMO Irregular proxy \u2014 not field data": 11568,
+        "DEMO Clean proxy \u2014 not field data": 11568
+      },
+      "60": {
+        "DEMO Irregular proxy \u2014 not field data": 18696,
+        "DEMO Clean proxy \u2014 not field data": 18696
+      }
+    },
+    "late_start_at35": {
+      "DEMO Irregular proxy \u2014 not field data": 0,
+      "DEMO Clean proxy \u2014 not field data": 0
+    }
+  }
+]

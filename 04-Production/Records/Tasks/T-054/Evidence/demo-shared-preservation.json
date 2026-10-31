@@ -1,0 +1,26 @@
+[
+  {
+    "path": "04-Production/Shared/Assets/DigitalEnvironment/Digital_context_lines_v004.blend",
+    "expected": "983c5024c8d32f0f58eb9bb0a197740e60a9e18f1c901156129ced6966e42000",
+    "actual": "983c5024c8d32f0f58eb9bb0a197740e60a9e18f1c901156129ced6966e42000",
+    "unchanged": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/DigitalEnvironment/Digital_style_v001.blend",
+    "expected": "5068442b00b73ddf4ad3e6245411a8d43839db776e699b6c099764b0f929d4c2",
+    "actual": "5068442b00b73ddf4ad3e6245411a8d43839db776e699b6c099764b0f929d4c2",
+    "unchanged": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/DigitalEnvironment/Digital_world_v001.blend",
+    "expected": "7161616b37beea057e46393740c18d1616fb0b3f088faa89ed64d1aa54f7fbb8",
+    "actual": "7161616b37beea057e46393740c18d1616fb0b3f088faa89ed64d1aa54f7fbb8",
+    "unchanged": true
+  },
+  {
+    "path": "04-Production/Shared/Assets/MeasurementReveal/Measurement_reveal_v001.blend",
+    "expected": "6571281f6babff0b293dba55dfdf1cfbfb80f98ddd743d3dcc1469dbd539ec0f",
+    "actual": "6571281f6babff0b293dba55dfdf1cfbfb80f98ddd743d3dcc1469dbd539ec0f",
+    "unchanged": true
+  }
+]

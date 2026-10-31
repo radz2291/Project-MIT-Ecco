@@ -1,0 +1,419 @@
+[
+  {
+    "path": "ECCO/Satin_finish_v001.blend",
+    "objects": 0,
+    "scene_objects": 0,
+    "local_objects": 0,
+    "types": {},
+    "collections": [],
+    "cameras": [],
+    "actions": [],
+    "groups": [
+      "ECCO | Satin finish v001"
+    ],
+    "libraries": [],
+    "object_examples": [],
+    "unchanged": true
+  },
+  {
+    "path": "ECCO/ECCO_film_v003.blend",
+    "objects": 18,
+    "scene_objects": 18,
+    "local_objects": 18,
+    "types": {
+      "MESH": 11,
+      "EMPTY": 7
+    },
+    "collections": [
+      {
+        "name": "ECCO_FILM",
+        "objects": 18
+      }
+    ],
+    "cameras": [],
+    "actions": [],
+    "groups": [],
+    "libraries": [
+      "//Satin_finish_v001.blend"
+    ],
+    "object_examples": [
+      "ECCO_CUTTER_PREVIEW_ONLY",
+      "ECCO_HOUSING_SOURCE_MESH",
+      "ECCO_MUD_SENSOR_UNLOCATED",
+      "ECCO_ROOT",
+      "ECCO_ROTATION_X",
+      "ECCO_SENSOR_PLANE_PROVISIONAL",
+      "ECCO_SENSOR_REF_01",
+      "ECCO_SENSOR_REF_02",
+      "ECCO_SENSOR_REF_03",
+      "TEMP | Imaging port 1 | removable acoustic cap",
+      "TEMP | Imaging port 2 | removable acoustic cap",
+      "TEMP | Imaging port 3 | removable acoustic cap",
+      "TEMP | Service cover 1 | removable fitted plate",
+      "TEMP | Service cover 2 | removable fitted plate",
+      "TEMP | Service cover 3 | removable fitted plate"
+    ],
+    "unchanged": true
+  },
+  {
+    "path": "BHA/BHA_core_satin_v001.blend",
+    "objects": 148,
+    "scene_objects": 130,
+    "local_objects": 130,
+    "types": {
+      "MESH": 137,
+      "EMPTY": 11
+    },
+    "collections": [
+      {
+        "name": "WORLD_HARDWARE",
+        "objects": 130
+      }
+    ],
+    "cameras": [],
+    "actions": [],
+    "groups": [],
+    "libraries": [
+      "//..\\ECCO\\ECCO_film_v003.blend",
+      "//..\\ECCO\\Satin_finish_v001.blend"
+    ],
+    "object_examples": [
+      "DOWNHOLE_ADAPTER",
+      "DOWNHOLE_AXIS",
+      "DOWNHOLE_COLLAR",
+      "ECCO_FILM_LINK",
+      "HARDWARE_ORIGIN",
+      "PDC_ADAPTER_SHOULDER",
+      "PDC_COMPACT_01_01",
+      "PDC_COMPACT_01_02",
+      "PDC_COMPACT_01_03",
+      "PDC_COMPACT_01_04",
+      "PDC_COMPACT_01_05",
+      "PDC_COMPACT_01_06",
+      "PDC_COMPACT_01_07",
+      "PDC_COMPACT_01_08",
+      "PDC_COMPACT_02_01"
+    ],
+    "unchanged": true
+  },
+  {
+    "path": "BHA/BHA_film_v008.blend",
+    "objects": 156,
+    "scene_objects": 5,
+    "local_objects": 8,
+    "types": {
+      "EMPTY": 17,
+      "MESH": 139
+    },
+    "collections": [
+      {
+        "name": "BHA_CONTINUITY_PREVIEW",
+        "objects": 5
+      }
+    ],
+    "cameras": [],
+    "actions": [],
+    "groups": [],
+    "libraries": [
+      "//BHA_core_satin_v001.blend",
+      "//..\\ECCO\\ECCO_film_v003.blend",
+      "//..\\ECCO\\Satin_finish_v001.blend"
+    ],
+    "object_examples": [
+      "ACCEPTED_BHA_v006_LINK",
+      "PREVIEW_HARDWARE",
+      "UPHOLE_CONTINUATION_CONTROL",
+      "UPHOLE_FAR_ENDPOINT",
+      "UPHOLE_SIMPLIFIED_CONNECTION",
+      "UPHOLE_UNIT_COLLAR_EXTENSION",
+      "WORLD_UPHOLE_EXTENSION_INSTANCE",
+      "WORLD_UPHOLE_JOINT_INSTANCE",
+      "DOWNHOLE_ADAPTER",
+      "DOWNHOLE_AXIS",
+      "DOWNHOLE_COLLAR",
+      "ECCO_FILM_LINK",
+      "HARDWARE_ORIGIN",
+      "PDC_ADAPTER_SHOULDER",
+      "PDC_COMPACT_01_01"
+    ],
+    "unchanged": true
+  },
+  {
+    "path": "WellAssembly/World_environment_v010.blend",
+    "objects": 23,
+    "scene_objects": 9,
+    "local_objects": 23,
+    "types": {
+      "MESH": 21,
+      "EMPTY": 2
+    },
+    "collections": [
+      {
+        "name": "WORLD_ENV",
+        "objects": 8
+      }
+    ],
+    "cameras": [],
+    "actions": [],
+    "groups": [],
+    "libraries": [],
+    "object_examples": [
+      "CASING_CUTAWAY",
+      "CASING_FULL",
+      "CEMENT_CUTAWAY",
+      "CEMENT_FULL",
+      "ENV_DEFAULTS",
+      "FORMATION_IRREGULAR_CUTAWAY",
+      "FORMATION_IRREGULAR_FULL",
+      "FORMATION_NOMINAL_CUTAWAY",
+      "FORMATION_NOMINAL_FULL",
+      "FORMATION_SPIRAL_CUTAWAY",
+      "FORMATION_SPIRAL_FULL",
+      "ILLUSTRATIVE_SHOE_RIM",
+      "IRREGULAR_CUTAWAY",
+      "IRREGULAR_FULL",
+      "MUD_CURVED_OPTICAL_CUT"
+    ],
+    "unchanged": true
+  },
+  {
+    "path": "Surface/Surface_descent_v005.blend",
+    "objects": 771,
+    "scene_objects": 771,
+    "local_objects": 771,
+    "types": {
+      "MESH": 770,
+      "EMPTY": 1
+    },
+    "collections": [
+      {
+        "name": "SURFACE_DESCENT_EARTH_SOURCE",
+        "objects": 210
+      },
+      {
+        "name": "SURFACE_RIG_SUBSEA_v004",
+        "objects": 561
+      }
+    ],
+    "cameras": [],
+    "actions": [
+      "Opening wall.001Action",
+      "Opening wall.002Action",
+      "Opening wall.003Action",
+      "Opening wall.004Action",
+      "Opening wall.005Action",
+      "Opening wall.006Action",
+      "Opening wall.007Action",
+      "Opening wall.008Action",
+      "Opening wall.009Action",
+      "Opening wall.010Action",
+      "Opening wall.011Action",
+      "Opening wall.012Action",
+      "Opening wall.013Action",
+      "Opening wall.014Action"
+    ],
+    "groups": [],
+    "libraries": [],
+    "object_examples": [
+      "Cutaway earth 00 side -1",
+      "Cutaway earth 00 side 1",
+      "Cutaway earth 01 side -1",
+      "Cutaway earth 01 side 1",
+      "Cutaway earth 02 side -1",
+      "Cutaway earth 02 side 1",
+      "Cutaway earth 03 side -1",
+      "Cutaway earth 03 side 1",
+      "Cutaway earth 04 side -1",
+      "Cutaway earth 04 side 1",
+      "Cutaway earth 05 side -1",
+      "Cutaway earth 05 side 1",
+      "Cutaway earth 06 side -1",
+      "Cutaway earth 06 side 1",
+      "Cutaway earth 07 side -1"
+    ],
+    "unchanged": true
+  },
+  {
+    "path": "DigitalEnvironment/Digital_context_lines_v004.blend",
+    "objects": 2,
+    "scene_objects": 0,
+    "local_objects": 2,
+    "types": {
+      "CURVE": 2
+    },
+    "collections": [],
+    "cameras": [],
+    "actions": [
+      "Luminous geological strataAction",
+      "Subordinate formation survey gridAction"
+    ],
+    "groups": [],
+    "libraries": [],
+    "object_examples": [
+      "Luminous geological strata | World intersection v004",
+      "Subordinate formation survey grid | World intersection v004"
+    ],
+    "unchanged": true
+  },
+  {
+    "path": "DigitalEnvironment/Digital_style_v001.blend",
+    "objects": 0,
+    "scene_objects": 0,
+    "local_objects": 0,
+    "types": {},
+    "collections": [],
+    "cameras": [],
+    "actions": [
+      "HUD restrained cyan contoursAction",
+      "Luminous geological strataAction",
+      "Subordinate formation survey gridAction"
+    ],
+    "groups": [
+      "ECCO digital earth shader v001",
+      "ECCO shared cyan palette v001",
+      "ECCO shared cyan palette v001.001",
+      "ECCO shared cyan palette v001.002"
+    ],
+    "libraries": [],
+    "object_examples": [],
+    "unchanged": true
+  },
+  {
+    "path": "DigitalEnvironment/Digital_world_v001.blend",
+    "objects": 2,
+    "scene_objects": 1,
+    "local_objects": 1,
+    "types": {
+      "MESH": 2
+    },
+    "collections": [],
+    "cameras": [],
+    "actions": [
+      "HUD restrained cyan contoursAction"
+    ],
+    "groups": [
+      "Digital World source wrapper v001",
+      "ECCO Fine Surface Style v001",
+      "ECCO Stored Surface Reveal v001",
+      "ECCO World outer extent adapter v001",
+      "ECCO World outer extent adapter v001.001",
+      "ECCO World outer extent adapter v001.002"
+    ],
+    "libraries": [
+      "//Digital_style_v001.blend",
+      "//..\\WellAssembly\\World_environment_v010.blend"
+    ],
+    "object_examples": [
+      "Digital World | linked physical authority",
+      "WORLD_S02_PHYSICAL_CUTAWAY_MESH"
+    ],
+    "unchanged": true
+  },
+  {
+    "path": "MeasurementReveal/Measurement_reveal_v001.blend",
+    "objects": 0,
+    "scene_objects": 0,
+    "local_objects": 0,
+    "types": {},
+    "collections": [],
+    "cameras": [],
+    "actions": [],
+    "groups": [
+      "ECCO Fine Surface Style v001",
+      "ECCO Stored Surface Reveal v001"
+    ],
+    "libraries": [],
+    "object_examples": [],
+    "unchanged": true
+  },
+  {
+    "path": "Acoustics/Waveform_shared_v014/Waveform_shared_v014.blend",
+    "objects": 682,
+    "scene_objects": 664,
+    "local_objects": 664,
+    "types": {
+      "CAMERA": 2,
+      "MESH": 468,
+      "CURVE": 201,
+      "EMPTY": 9,
+      "LIGHT": 2
+    },
+    "collections": [
+      {
+        "name": "S02 ONE MEASUREMENT SYSTEM v005",
+        "objects": 52
+      },
+      {
+        "name": "S02 RECORDED WALL SURFACE v006",
+        "objects": 9
+      },
+      {
+        "name": "S02 ONE CONTINUOUS RECORDED WALL v007",
+        "objects": 28
+      },
+      {
+        "name": "S02 DIGITAL WAVEFRONT v009",
+        "objects": 174
+      },
+      {
+        "name": "PRESSURE_FIELD_v005",
+        "objects": 97
+      },
+      {
+        "name": "WF_SHARED_CONTROLS",
+        "objects": 1
+      }
+    ],
+    "cameras": [
+      "CAM_S01_Continuous",
+      "RIBBON_CONTEXT_REVIEW_20PCT_WIDER"
+    ],
+    "actions": [
+      "CAM_S01_ContinuousAction",
+      "COHERENT_EVOLVING_FIELD_MESHAction",
+      "DW 1 contact digital nodes 0.012Action",
+      "DW 1 contact digital nodes 0.025Action",
+      "DW 1 contact digital nodes 0.038Action",
+      "DW 1 ECHO front0 coreAction",
+      "DW 1 ECHO front0 digital samplesAction",
+      "DW 1 ECHO front0 haloAction",
+      "DW 1 ECHO front1 coreAction",
+      "DW 1 ECHO front1 digital samplesAction",
+      "DW 1 ECHO front1 haloAction",
+      "DW 1 ECHO front2 coreAction",
+      "DW 1 ECHO front2 digital samplesAction",
+      "DW 1 ECHO front2 haloAction"
+    ],
+    "groups": [
+      "Ribbon optical bloom",
+      "Stored wall display bottom-to-top reveal v010",
+      "WF_FIELD_LIVE_v014",
+      "WF_MASTER_CONTROL_VALUES",
+      "WF_NATIVE_CUE_0",
+      "WF_NATIVE_CUE_1",
+      "WF_NATIVE_CUE_2",
+      "WF_NATIVE_CUE_3"
+    ],
+    "libraries": [
+      "//..\\..\\ECCO\\ECCO_film_v002.blend"
+    ],
+    "object_examples": [
+      "CAM_S01_Continuous",
+      "COHERENT_EVOLVING_FIELD_v013",
+      "Cutaway earth 00 side -1",
+      "Cutaway earth 00 side 1",
+      "Cutaway earth 01 side -1",
+      "Cutaway earth 01 side 1",
+      "Cutaway earth 02 side -1",
+      "Cutaway earth 02 side 1",
+      "Cutaway earth 03 side -1",
+      "Cutaway earth 03 side 1",
+      "Cutaway earth 04 side -1",
+      "Cutaway earth 04 side 1",
+      "Cutaway earth 05 side -1",
+      "Cutaway earth 05 side 1",
+      "Cutaway earth 06 side -1"
+    ],
+    "unchanged": true
+  }
+]

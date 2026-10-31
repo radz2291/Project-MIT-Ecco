@@ -1,0 +1,74 @@
+[
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/build_demo.py",
+    "sha256": "023dcadc0978ac68f245dad817f1e8db59c552d9272da4163ff06543c1655d63",
+    "bytes": 4061,
+    "publish": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/finalize_demo.py",
+    "sha256": "b15e383c8a83ab172600c9d415127159a3a85f6fdbe72524ba3d8c12d6105d40",
+    "bytes": 1625,
+    "publish": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/Hardware_demo_show0.png",
+    "sha256": "9e7e8a28bfa94e81412f6654a46681e53d51c0f4d50e12932ae763da42b5b041",
+    "bytes": 234208,
+    "publish": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/Hardware_demo_v001.blend",
+    "sha256": "f0e046362efaca2555f1888cd9225f52d636c6d56bf3d0ed1316edfccf174da6",
+    "bytes": 93693,
+    "publish": false
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/Hardware_demo_workbench.png",
+    "sha256": "8129e17f7d127b04c43d5cf1d845b989c213ad3bdd25e0c8c5ed7bc561ef0f74",
+    "bytes": 222784,
+    "publish": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/master-audit.json",
+    "sha256": "7be01dea9f1b7617e88cc5eaa83e81dc36e84cbfa334eb6883b9053e5b1861da",
+    "bytes": 758,
+    "publish": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/README.md",
+    "sha256": "bea9185f88b5d2abb2393fb0667a83a43e01fbc29a4d8a977f2c1e25b4550e26",
+    "bytes": 2167,
+    "publish": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/render_demo.py",
+    "sha256": "c6151ffe8c585f851185aea8589096ac61c678efc5fa3cc1465e3d51e1ec4505",
+    "bytes": 859,
+    "publish": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/render-evidence.json",
+    "sha256": "1abcc246dc8b40fc9e021b105d0d411f9cf2f2bfac6f4e92d667a8980c04a25a",
+    "bytes": 295,
+    "publish": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/verification.json",
+    "sha256": "c63892c24e024fb3bd963b45578dec3bb7b10f25aba28681de1a30b066f5fe6c",
+    "bytes": 2267,
+    "publish": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/verify_demo.py",
+    "sha256": "213c12b42d603ac0aa01c88d5fe72216110d1e16c3b379b8e366df41efb3085e",
+    "bytes": 1501,
+    "publish": true
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-052/Demos/working-render-evidence.json",
+    "sha256": "29a08913b70d7181eb4bfb2d7e321546961ac847bd6bc397437155568c31f57e",
+    "bytes": 257,
+    "publish": true
+  }
+]

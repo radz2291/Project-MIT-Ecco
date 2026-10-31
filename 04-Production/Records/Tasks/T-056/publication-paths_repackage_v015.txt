@@ -1,0 +1,13 @@
+04-Production/Records/Tasks/T-056/report.md
+04-Production/Records/Tasks/T-056/repackage-report_v015.md
+04-Production/Records/Tasks/T-056/repackage_waveform_v015.py
+04-Production/Records/Tasks/T-056/verify_repackage_v015.py
+04-Production/Records/Tasks/T-056/fix_demo_view_v015.py
+04-Production/Records/Tasks/T-056/render_demo_v015.py
+04-Production/Records/Tasks/T-056/repackage-build_v015.json
+04-Production/Records/Tasks/T-056/repackage-verification_v015.json
+04-Production/Records/Tasks/T-056/demo-render_v015.json
+04-Production/Records/Tasks/T-056/demo-render-failed_v015.json
+04-Production/Records/Tasks/T-056/Previews/waveform_demo_v015.png
+04-Production/Records/Tasks/T-056/publication-manifest_repackage_v015.json
+04-Production/Records/Tasks/T-056/publication-paths_repackage_v015.txt
