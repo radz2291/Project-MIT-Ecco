@@ -6,8 +6,8 @@ Updated 31 October 2026. Open the versioned master for editing; use its separate
 |---|---|---|
 | ECCO | [ECCO_film_v003.blend](Hardware/ECCO/ECCO_film_v003.blend) | [Hardware_demo_v001.blend](../Demos/Hardware_demo_v001.blend) |
 | BHA | [BHA_film_v008.blend](Hardware/BHA/BHA_film_v008.blend) | [Hardware_demo_v001.blend](../Demos/Hardware_demo_v001.blend) |
-| Borehole | [World_environment_v012.blend](Environment/Borehole/World_environment_v012.blend) | [World_demo_v002.blend](../Demos/World_demo_v002.blend) |
-| Surface | [Surface_descent_v006.blend](Environment/Surface/Surface_descent_v006.blend) | [Surface_descent_demo_v003.blend](../Demos/Surface_descent_demo_v003.blend) |
+| Borehole | [World_environment_v013.blend](Environment/Borehole/World_environment_v013.blend) | [World_demo_v002.blend](../Demos/World_demo_v002.blend) |
+| Surface | [Surface_descent_v006.blend](Environment/Surface/Surface_descent_v006.blend) | [Surface_descent_demo_v004.blend](../Demos/Surface_descent_demo_v004.blend) |
 | Waveform | [Waveform_shared_v015.blend](Effects/Waveform/Waveform_shared_v015.blend) | [Waveform_demo_v015.blend](../Demos/Waveform_demo_v015.blend) |
 | Digital environment | [Digital_context_lines_v004.blend](Effects/DigitalEnvironment/Digital_context_lines_v004.blend) | [Digital_environment_demo_v005.blend](../Demos/Digital_environment_demo_v005.blend) |
 | Measurement reveal | [Measurement_reveal_v001.blend](Effects/MeasurementReveal/Measurement_reveal_v001.blend) | [Measurement_reveal_demo_v002.blend](../Demos/Measurement_reveal_demo_v002.blend) |
