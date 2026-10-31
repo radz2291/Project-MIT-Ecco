@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01",
+    "native_frame": 241,
+    "position_in_combined_sheet": "Top-left",
+    "prompt": "prompts/individual/01-f241-final.txt",
+    "input_1": "stills/01-f241.png",
+    "input_2": "inputs/02-tool-reflective-metal.png",
+    "input_3": "inputs/03-rock-solid-structure.png",
+    "output_aspect": "16:9"
+  },
+  {
+    "id": "02",
+    "native_frame": 278,
+    "position_in_combined_sheet": "Top-centre",
+    "prompt": "prompts/individual/02-f278-final.txt",
+    "input_1": "stills/02-f278.png",
+    "input_2": "inputs/02-tool-reflective-metal.png",
+    "input_3": "inputs/03-rock-solid-structure.png",
+    "output_aspect": "16:9"
+  },
+  {
+    "id": "03",
+    "native_frame": 348,
+    "position_in_combined_sheet": "Top-right",
+    "prompt": "prompts/individual/03-f348-final.txt",
+    "input_1": "stills/03-f348.jpg",
+    "input_2": "inputs/02-tool-reflective-metal.png",
+    "input_3": "inputs/03-rock-solid-structure.png",
+    "output_aspect": "16:9"
+  },
+  {
+    "id": "04",
+    "native_frame": 358,
+    "position_in_combined_sheet": "Bottom-left",
+    "prompt": "prompts/individual/04-f358-final.txt",
+    "input_1": "stills/04-f358.jpg",
+    "input_2": "inputs/02-tool-reflective-metal.png",
+    "input_3": "inputs/03-rock-solid-structure.png",
+    "output_aspect": "16:9"
+  },
+  {
+    "id": "05",
+    "native_frame": 480,
+    "position_in_combined_sheet": "Bottom-centre",
+    "prompt": "prompts/individual/05-f480-final.txt",
+    "input_1": "stills/05-f480.png",
+    "input_2": "inputs/02-tool-reflective-metal.png",
+    "input_3": "inputs/03-rock-solid-structure.png",
+    "output_aspect": "16:9"
+  },
+  {
+    "id": "06",
+    "native_frame": 528,
+    "position_in_combined_sheet": "Bottom-right",
+    "prompt": "prompts/individual/06-f528-final.txt",
+    "input_1": "stills/06-f528.png",
+    "input_2": "inputs/02-tool-reflective-metal.png",
+    "input_3": "inputs/03-rock-solid-structure.png",
+    "output_aspect": "16:9"
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "package": "Section 2 six-shot Nano Banana v005",
+  "date": "2026-10-31",
+  "scope": "Reference inputs and prompts only; no new AI generation or Blender render",
+  "selection": {
+    "file": "selection.json",
+    "sha256": "8443faedf2502b435037fd5ed64ef96222393d597d3c79cf5456f7d05b2627d5",
+    "status": "Existing explicit six-frame selection retained unchanged"
+  },
+  "layout": {
+    "columns": 3,
+    "rows": 2,
+    "panel_aspect": "16:9",
+    "canvas_aspect": "8:3",
+    "reference_pixels": [
+      2880,
+      1080
+    ],
+    "reading_order": "row-major",
+    "model_or_node_exact_output_support": "Not verified; see individual-shot fallback"
+  },
+  "inputs": [
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S02\\Keyframe-Stills_Hyperreal_v001\\reference-grid.png",
+      "file": "inputs/01-blender-six-shot-grid.png",
+      "sha256": "b63ba82f9cbf3457495ac286d548dfcccc201317258464bbad960e2a4de9c713",
+      "bytes": 2090993,
+      "image_index": 1,
+      "role": "Composition, geometry, layout and event states",
+      "provenance": "Existing six-frame Blender reference sheet"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\References\\ECCO_Product_Metal_v003\\ECCO_product-four-views_reflective-metal_v005.png",
+      "file": "inputs/02-tool-reflective-metal.png",
+      "sha256": "875626e1fef51b0c22dc9b6579f3710f3e4dddbad245f61f6693399ba98959fd",
+      "bytes": 1871029,
+      "image_index": 2,
+      "role": "Reflective machined steel appearance",
+      "provenance": "Physical Blender reference render, not AI generated"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\AppData\\Local\\Temp\\codex-clipboard-e3582b1f-299d-4b6b-ab36-6bcee9fb3f17.png",
+      "file": "inputs/03-rock-solid-structure.png",
+      "sha256": "a78e4532939709250d42ca1d945ab87aa68f0f0ba95900cd47f19b69cfc79244",
+      "bytes": 514950,
+      "image_index": 3,
+      "role": "Connected solid stone forms; final dark brown palette supplied in prompt",
+      "provenance": "User-supplied rock photograph/reference; geological identity unverified"
+    }
+  ],
+  "stills": [
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S02\\Keyframe-Stills_Hyperreal_v001\\stills\\01-f241.png",
+      "file": "stills/01-f241.png",
+      "sha256": "f2c26f084b794f66bc4ee69696cb88a06b1eff504fd8453b5e27c40b7d536878",
+      "bytes": 526775,
+      "id": "01",
+      "native_frame": 241,
+      "position": "Top-left",
+      "title": "Opening wide view",
+      "provenance": "Original v011 Blender still"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S02\\Keyframe-Stills_Hyperreal_v001\\stills\\02-f278.png",
+      "file": "stills/02-f278.png",
+      "sha256": "1311bc755c91d7e4de5fc812e393fee2e8d0ba25098c07b07a1dbb82f55a40fd",
+      "bytes": 166848,
+      "id": "02",
+      "native_frame": 278,
+      "position": "Top-centre",
+      "title": "Camera approaches the sensor",
+      "provenance": "PNG decoded from selected v011 review movie in this chat"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S02\\Keyframe-Stills_Hyperreal_v001\\stills\\03-f348.jpg",
+      "file": "stills/03-f348.jpg",
+      "sha256": "5bd7bb75e54baec61b8cdc458b0b7571f355f7c5f79c9b7ed79622921102613e",
+      "bytes": 31395,
+      "id": "03",
+      "native_frame": 348,
+      "position": "Top-right",
+      "title": "Outgoing pulse",
+      "provenance": "T049 JPEG decoded from selected v011 movie; native mapping recorded in image-manifest.json"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S02\\Keyframe-Stills_Hyperreal_v001\\stills\\04-f358.jpg",
+      "file": "stills/04-f358.jpg",
+      "sha256": "198519d68e0ee6161b0c2b5e32600e21462183fed057a5e222e6255d5d968e51",
+      "bytes": 30992,
+      "id": "04",
+      "native_frame": 358,
+      "position": "Bottom-left",
+      "title": "Returning echo",
+      "provenance": "T049 JPEG decoded from selected v011 movie; native mapping recorded in image-manifest.json"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S02\\Keyframe-Stills_Hyperreal_v001\\stills\\05-f480.png",
+      "file": "stills/05-f480.png",
+      "sha256": "db7dbe60dd6d78862bcb8a97bcf3dc12bedaa970ac154cfe59da9fa2569b122c",
+      "bytes": 624528,
+      "id": "05",
+      "native_frame": 480,
+      "position": "Bottom-centre",
+      "title": "Recorded wall develops",
+      "provenance": "Original v011 Blender still"
+    },
+    {
+      "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S02\\Keyframe-Stills_Hyperreal_v001\\stills\\06-f528.png",
+      "file": "stills/06-f528.png",
+      "sha256": "59e222c684905ae85bca9c85af8b375c60ab2493784491a5f639d60935179d94",
+      "bytes": 631257,
+      "id": "06",
+      "native_frame": 528,
+      "position": "Bottom-right",
+      "title": "Full recorded-history reveal",
+      "provenance": "Original v011 Blender still"
+    }
+  ],
+  "main_prompt": "prompts/01-six-shot-final.txt",
+  "individual_prompts": "shot-map.json",
+  "image_generation_tested": false,
+  "generated_output_accepted": false,
+  "source_blender_modified": false,
+  "media_backup_status": "Local package; no remote media backup claimed"
+}

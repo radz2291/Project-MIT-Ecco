@@ -1,0 +1,48 @@
+Transform Image 1 into one finished hyperrealistic commercial image containing exactly SIX distinct shots of the same ECCO instrument and rock formation. Use Images 2 and 3 as appearance references. Replace the Blender-preview materials and lighting throughout all six shots.
+
+LAYOUT
+Match Image 1: THREE COLUMNS and TWO ROWS, read left to right across the top row, then left to right across the bottom row. Each panel is 16:9; the overall canvas is 8:3. The supplied sheet is 2880 by 1080 pixels. Preserve this layout at the selected output size. Panels meet edge to edge with no gutters, borders, black padding, blank cells, captions, numbers or text. Each panel is a separate camera view. Keep all six assigned compositions distinct.
+
+REFERENCE ROLES
+Image 1 controls every panel's camera, perspective, crop, instrument geometry, relative scale, rock opening, clearance and frozen event state. Preserve each panel's view rather than repeating the sensor close-up across the sheet. The flat grey metal and plain brown rock are preview shading to replace.
+
+Image 2 supplies the tool's machined silver steel appearance and reflective response. Apply that finish to the existing tool in every panel. Image 1 governs geometry wherever the two references differ, including open ends, genuine sensor faces, covers and connections. The product sheet's layout and grey background belong only to that reference.
+
+Image 3 supplies the connected solid stone forms and surface character. Borrow its broad ridges, worn grooves and tightly bonded fine texture. Use the dark brown palette described below rather than copying its bright orange colour or strong sunlight.
+
+PRISTINE COMMERCIAL PRODUCT
+Present the instrument as newly manufactured and freshly finished for a premium product advertisement. Show clean bare silver steel, crisp manufactured edges, smooth continuous reflections and extremely fine, orderly machining marks consistent with each surface. These marks are subtle manufacturing texture, revealed through delicate changes in reflected light.
+
+Keep the exposed metal immaculate and evenly finished across the cylindrical body, rectangular service cover and surrounding sensor housing. Flat and curved surfaces can differ naturally in brightness while retaining convincing metallic reflections. Keep the steel bright and machined, with controlled reflections and fine texture.
+
+The product is free of handling scratches, scuffs, gouges, dents, corrosion, fingerprints, stains and embedded dirt. Any incidental wear in an appearance reference is excluded from the intended finish. Natural ruggedness belongs to the surrounding rock.
+
+Preserve genuine sensor surfaces, cover boundaries, grooves and recesses. The surrounding housing and its transition into the sculpted lower body read as one continuous machined steel body, with reflections following the existing contours. Retain the real relief without adding artificial assembly seams at that transition. Keep the instrument physically opaque in every panel.
+
+SOLID ROCK
+Show dense consolidated bedrock shaped into broad connected masses, gently rounded ridges and shallow worn grooves, guided by Image 3. Fine texture is tightly bonded into the stone and remains subordinate to the larger forms. Avoid loose particles, gravel clusters, crumbly soil and sponge-like porosity.
+
+Use dark earthy brown and muted umber tones, a predominantly diffuse surface and restrained natural variation. Keep rock texture scale consistent relative to the instrument as camera distance changes. Maintain each panel's existing opening, wall positions and tool clearance. Express the rock relief within those boundaries.
+
+SHARED LIGHTING AND CAMERA LOOK
+Use coherent photographic lighting across the sequence: broad soft illumination through the exposed cutaway, gentle fill, readable recesses, soft contact shadows and controlled elongated highlights revealing the steel curvature. Recalculate reflections for each camera angle. Keep neutral silver metal, warm subdued rock, smooth highlight rolloff and moderate cinematic contrast.
+
+Preserve the camera position, field of view and crop of each source panel. Use clean optics and sufficient focus to read the instrument and the relevant wall or signal. Freeze one sharp instant per panel. The rock opening is an explanatory cutaway.
+
+SIX SHOTS
+TOP-LEFT — Opening wide, native frame 241. Match the narrow vertical opening and small central tool, with the pipe continuing above the frame. This is the establishing instant before the camera moves toward the sensor. Retain the wide scale and visible surrounding rock. No acoustic signal or recorded-history overlay is active.
+
+TOP-CENTRE — Sensor approach, native frame 278. Match the closer vertical view, including the large circular sensor and smaller circular feature beneath it. The camera has moved toward the same instrument; its physical size and design remain constant. Freeze before the acoustic demonstration, with enough surrounding housing to locate the sensor. No signal or recorded-history overlay is active.
+
+TOP-RIGHT — Outgoing pulse, native frame 348. Match the extreme close-up with the circular sensor at the right and rock wall at the left. Freeze the cyan wavefronts travelling from the sensor toward the left wall. Preserve their visible count, positions, spacing and curvature from this panel of Image 1. Render them as delicate illustrative acoustic graphics, with the sensor edge and wavefronts readable together.
+
+BOTTOM-LEFT — Returning echo, native frame 358. Match the next sensor close-up. Freeze the small green echo arcs immediately left of the sensor as they travel back toward it after the wall response. Preserve the faint farther traces where visible in this panel of Image 1. Keep the previous close-up's metal, rock, scale and lighting consistent while showing this different signal phase.
+
+BOTTOM-CENTRE — History develops, native frame 480. Match the diagonal medium-wide view with the lower instrument toward bottom-left and pipe extending toward top-right. The camera is pulling back and changing angle. Freeze the partially revealed blue recorded-wall cells and thin contours at their existing positions and extent. Preserve the incomplete advancing boundary. Keep the opaque steel readable beneath the restrained translucent information overlay.
+
+BOTTOM-RIGHT — Full history reveal, native frame 528. Match the final wide diagonal view, with the complete visible tool toward bottom-left and a longer pipe interval extending toward top-right. Freeze the settled blue recorded-history display at the source panel's full visible extent. Preserve the visible open lower end and existing geometry. Retain the wider view rather than enlarging the tool to fill the panel.
+
+SIGNAL MEANING AND FINAL OUTPUT
+Cyan outgoing pulses, green returning echoes and blue recorded-history cells are explanatory measurement graphics. They are not physical wires, rigid cages or a new transparent instrument shell. History panels reveal previously recorded information. Keep each signal phase confined to its assigned panel; no signal graphics in the first two panels.
+
+Output one clean six-shot commercial image with consistent pristine steel, solid brown rock and the exact assigned views. No additional hardware, text, logos, watermarks, decorative effects or reference swatches. Keep all six shots sharp, correctly ordered and fully contained within their panels.

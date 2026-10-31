@@ -1,0 +1,76 @@
+{
+  "package_checks_passed": true,
+  "sha256_verified_files": [
+    "inputs/01-blender-six-shot-grid.png",
+    "inputs/02-tool-reflective-metal.png",
+    "inputs/03-rock-solid-structure.png",
+    "stills/01-f241.png",
+    "stills/02-f278.png",
+    "stills/03-f348.jpg",
+    "stills/04-f358.jpg",
+    "stills/05-f480.png",
+    "stills/06-f528.png",
+    "selection.json"
+  ],
+  "grid": {
+    "columns": 3,
+    "width": 2880,
+    "rows": 2,
+    "height": 1080,
+    "aspect": "8:3",
+    "source_pixels_preserved": true
+  },
+  "panels": [
+    {
+      "id": "01",
+      "frame": 241,
+      "position": "Top-left",
+      "width": 960,
+      "height": 540,
+      "pixel_match": true
+    },
+    {
+      "id": "02",
+      "frame": 278,
+      "position": "Top-centre",
+      "width": 960,
+      "height": 540,
+      "pixel_match": true
+    },
+    {
+      "id": "03",
+      "frame": 348,
+      "position": "Top-right",
+      "width": 960,
+      "height": 540,
+      "pixel_match": true
+    },
+    {
+      "id": "04",
+      "frame": 358,
+      "position": "Bottom-left",
+      "width": 960,
+      "height": 540,
+      "pixel_match": true
+    },
+    {
+      "id": "05",
+      "frame": 480,
+      "position": "Bottom-centre",
+      "width": 960,
+      "height": 540,
+      "pixel_match": true
+    },
+    {
+      "id": "06",
+      "frame": 528,
+      "position": "Bottom-right",
+      "width": 960,
+      "height": 540,
+      "pixel_match": true
+    }
+  ],
+  "complete_individual_prompts": 6,
+  "image_generation_run": false,
+  "source_blender_modified": false
+}
