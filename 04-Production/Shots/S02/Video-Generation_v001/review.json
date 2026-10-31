@@ -1,0 +1,12 @@
+{
+  "inspected": [
+    "motion-review.png",
+    "timeline-review.png",
+    "timeline-color-review.png",
+    "appearance/six-shot-look.png"
+  ],
+  "findings": "Opening/approach, outgoing/returning arcs, close interval and diagonal pullback reviewed in phase/timeline sheets. Colour retains history better than grayscale. Appearance reviewed in chat. All videos fully decoded; no real-time playback claimed.",
+  "warnings": "Missing linked tool in saved scene: verified complete existing video used. Procedural history not newly certified. Appearance crops slightly wide. Model input support distinguished in START-HERE.",
+  "workflow": "Custom existing-video fallback; not fresh-render finalizer certification",
+  "generator_run": false
+}

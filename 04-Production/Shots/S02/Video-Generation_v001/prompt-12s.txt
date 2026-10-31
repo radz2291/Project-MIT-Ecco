@@ -1,0 +1,25 @@
+Create one continuous 12-second, 16:9 hyperrealistic commercial animation of the ECCO downhole instrument inside a narrow borehole, revealed through a longitudinal cutaway in solid brown rock. Begin with the supplied first image and finish at the supplied last image. These are single views extracted from our visual reference sheet. Output one full-frame moving scene throughout, without tiles, split screens, labels or borders.
+
+The camera supplies the approach and pullback. Keep the instrument seated in the borehole, with its pipe connected and continuing upward. Preserve its proportions, circular sensor, smaller circular feature beneath it, service cover, sculpted lower housing and genuine openings. Do not make the instrument grow, bend, float or transform between views.
+
+TIMELINE — seconds from the start of this clip
+0.00–1.54: Begin in the wide vertical cutaway view, with the small instrument centred in the narrow borehole. Move smoothly toward the sensor housing. The instrument grows on screen through camera approach, with corresponding rock parallax. Reach a closer view of both circular features and their surrounding housing. No measurement graphics yet.
+
+1.54–4.45: Continue into the sensor close-up. The large circular sensor becomes prominent at the right, with the rock wall to the left across the clearance. Ease into the close view, keeping sensor and wall spatially coherent. Introduce the acoustic event near the end of this interval rather than leaving all its action to the next instant.
+
+4.45–5.25: Show the outgoing cyan wavefronts moving from the sensor toward the left wall, followed by green echoes travelling back toward the sensor. The outgoing state is clearly readable around 4.46 seconds and the returning echo near the sensor around 4.88 seconds. Use smoothly advancing curved wavefronts, with a crisp luminous core, slender feathered halo and subtly tapered ends. The leading arc is clearest and supporting arcs quieter. Keep both the signal and sensor edge readable.
+
+5.25–8.00: Let the acoustic demonstration settle while maintaining the close sensor view. Preserve a calm, stable interval. Do not fill it with repeated new pulses, invented mechanical activation or a premature wide reveal.
+
+8.00–10.00: Pull back smoothly and change the viewing angle into the diagonal medium-wide composition. The lower instrument moves toward bottom-left in the frame and the connected pipe extends toward top-right. Reveal the blue recorded-history cells progressively along their curved borehole display region. By approximately 9.96 seconds, show the partially developed history view with a readable advancing boundary.
+
+10.00–12.00: Continue the pullback into the final wide diagonal view. Reveal the longer recorded interval along the pipe and reach the supplied last image's framing at the end. Preserve the visible open lower end. Let the history settle into a coherent completed display, without inserting an extra pause or fade before the clip ends.
+
+FINISH AND CONTINUITY
+The steel is pristine and newly manufactured: bright machined silver, clean edges, continuous reflections and extremely fine orderly manufacturing marks. Preserve real recesses and cover boundaries, while the housing-to-sculpted-body transition reads as continuous machined steel. No added handling scratches, scars, dirt, dents or corrosion. Keep metal physically opaque.
+
+Rock is dense consolidated dark brown/umber stone, with broad connected masses, rounded ridges, shallow worn grooves and tightly bonded fine texture. Preserve believable tool clearance and stable rock structure throughout. Use broad soft photographic illumination, gentle fill and readable shadows. Keep camera movement smooth and retain sufficient focus for the subject and measurement event.
+
+History represents previously collected information. Give primary blue-cyan contours crisp luminous cores and restrained halos, quieter secondary divisions and lightly translucent cells. Emphasize the advancing boundary during the reveal, then settle its brightness. Only soft unpatterned blue light spills onto immediately adjacent existing rock, fading naturally with distance; add restrained reflections on nearby steel. Keep every grid line and cell confined to the designated curved borehole display surface. Foreground rock and the opaque instrument occlude display portions behind them. Do not project a lattice onto exposed rock faces or turn the display into a rigid cage.
+
+Keep materials, geometry, light and scale consistent through the entire journey. No montage cuts, crossfades, morphing, animated storyboard panels, new hardware, text, logos, music or narration.

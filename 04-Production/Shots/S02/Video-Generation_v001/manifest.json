@@ -1,0 +1,164 @@
+{
+  "source_movie": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Previews\\S01-S02_from-07s_v011.mp4",
+  "source_movie_sha256": "849202ae6d1f884753fa6db2674f7468cf6a3879d6b3c023f39ef2733b5e04f9",
+  "source_range": [
+    241,
+    528
+  ],
+  "decoded_source_indices": [
+    72,
+    359
+  ],
+  "fps": 24,
+  "frames": 288,
+  "duration": 12,
+  "resolution": [
+    1280,
+    720
+  ],
+  "native_video_resolution": [
+    960,
+    540
+  ],
+  "retiming": "None; original 24fps inclusive samples",
+  "processing": [
+    "trim existing complete preview",
+    "grayscale conversion",
+    "upscale 960x540 to1280x720",
+    "H264 re-encode"
+  ],
+  "fresh_blender_render": false,
+  "missing_source_dependency": "04-Production/Shared/Assets/ECCO/ECCO_film_v002.blend",
+  "appearance_source": "C:\\Users\\RZ1\\Downloads\\untitled_Nano Banana 2.1_2026-10-31_13-54-55.png",
+  "appearance_model": "Nano Banana 2.1 per supplied filename; not independently verified",
+  "appearance_panel_rectangles": [
+    [
+      0,
+      0,
+      565,
+      312
+    ],
+    [
+      565,
+      0,
+      1131,
+      312
+    ],
+    [
+      1131,
+      0,
+      1696,
+      312
+    ],
+    [
+      0,
+      312,
+      565,
+      624
+    ],
+    [
+      565,
+      312,
+      1131,
+      624
+    ],
+    [
+      1131,
+      312,
+      1696,
+      624
+    ]
+  ],
+  "appearance_crop_note": "Exact native panel crops without stretching; generated sheet proportions are slightly wider than16:9. Node may reframe them.",
+  "events": [
+    {
+      "frame": 241,
+      "time": 0.0,
+      "file": "events/01-f241.png"
+    },
+    {
+      "frame": 278,
+      "time": 1.5416666666666667,
+      "file": "events/02-f278.png"
+    },
+    {
+      "frame": 348,
+      "time": 4.458333333333333,
+      "file": "events/03-f348.png"
+    },
+    {
+      "frame": 358,
+      "time": 4.875,
+      "file": "events/04-f358.png"
+    },
+    {
+      "frame": 480,
+      "time": 9.958333333333334,
+      "file": "events/05-f480.png"
+    },
+    {
+      "frame": 528,
+      "time": 11.958333333333334,
+      "file": "events/06-f528.png"
+    }
+  ],
+  "pilot": {
+    "native_frames": [
+      241,
+      360
+    ],
+    "duration": 5,
+    "retiming": "None; first120frames of full reference",
+    "scope": "Opening, camera approach, outgoing pulse and returning echo; no history reveal"
+  },
+  "qa": {
+    "decoded_count": 288,
+    "decoded_duration": 12.0,
+    "all_frames_decoded": true,
+    "boundary_images": "Extracted from encoded motion reference",
+    "generation_run": false,
+    "decoded_videos": {
+      "motion_reference.mp4": {
+        "frames": 288,
+        "duration": 12.0
+      },
+      "motion_reference-color.mp4": {
+        "frames": 288,
+        "duration": 12.0
+      },
+      "pilot/motion_reference-5s.mp4": {
+        "frames": 120,
+        "duration": 5.0
+      }
+    }
+  },
+  "hashes": {
+    "first_frame.png": "37da4305688d1a97b2dcfca03329175250e1f0befcd32781471d9aacdcb6bcfb",
+    "last_frame.png": "4d584c7476175f720826b1eb4339ab9bcc49e4337767a4a91f6cdbd5e685edf9",
+    "motion-review.png": "5198860468c809b8ca1267c003ea6ee7068656e6107d6b91acb2ef90eecb3873",
+    "motion_reference.mp4": "a70bbc4df61d75045eafb900e0b1a821c16f8b6a05b801292db7fe2264a29fb6",
+    "appearance/01-look.png": "14624a136e11b1f6cbc9aae9d8cd983c2e698102827233b034d81ed8635199fa",
+    "appearance/02-look.png": "cd1644885405e18fec3bde61d3b5f340e45fd63b77f2809729cf8f0751144cb4",
+    "appearance/03-look.png": "2221ba8366a0532965d27a1129450ec4b6d45551118994b1fdfa13f75a84310d",
+    "appearance/04-look.png": "9528209b3881601533601a0d7ba9e8d269d601a2dcfb1bb6e2f6847e00427e08",
+    "appearance/05-look.png": "7f170c47df149721182c25f05f81ef68c29892e8987acda28084d9b74d1c4469",
+    "appearance/06-look.png": "9d35c719f6dc8b335cde55abc5e4f5ccbc929fa740d8078078176753be476ae1",
+    "appearance/six-shot-look.png": "bbf1a7367a08e46b15e7d9a4d64bfe210c498ba3638993ed9a47e426f35482cf",
+    "events/01-f241.png": "37da4305688d1a97b2dcfca03329175250e1f0befcd32781471d9aacdcb6bcfb",
+    "events/02-f278.png": "7c04ffd0f93a380c7f8b6cdea548982953a5029ba9e1173dba7a90eb30980413",
+    "events/03-f348.png": "66cccb0f2a6ec6fd0bfe751cbaad1238a234701025aba140198e0cd0eb722290",
+    "events/04-f358.png": "d7a6c457307c9eecb102876dc4317e5132f9f7e8970f8c6e5a8d7156ae768a4a",
+    "events/05-f480.png": "864ed5acb29bbaac83a386b63b4c151d604c9c5581f27e9bce7261786ce1ae58",
+    "events/06-f528.png": "4d584c7476175f720826b1eb4339ab9bcc49e4337767a4a91f6cdbd5e685edf9",
+    "inspection/animation_keys.json.gz": "380738269b6933b830bd5cf5b0b2baeeecc79998ebb801c9bc52722e2d146993",
+    "inspection/motion_samples.json.gz": "0817f653b7fbbca1cfeb20dab5775441e98d8dc3ca8a7e5756749f522c2cd87c",
+    "inspection/scene.json.gz": "c4269f9536307deee3503f943e2e9add1443d5dc2a4dac88bb9899fa3815c952",
+    "pilot/first_frame.png": "37da4305688d1a97b2dcfca03329175250e1f0befcd32781471d9aacdcb6bcfb",
+    "pilot/last_frame.png": "59704aa3f442956ac15ec7f8afc905f2b94c868eacf117e79a324b7778267e3a",
+    "pilot/motion_reference-5s.mp4": "39508b6c7f44de79a37a01bc0e034835e60e9350a7bb93c91ad5c05a6f0c5e78",
+    "motion_reference-color.mp4": "5088002e0649da53d6ad687605289a7d6c78338ad18db407a6a833678876a98b"
+  },
+  "preferred_motion_video": "motion_reference-color.mp4",
+  "color_video_note": "Same source frames; retains meaningful cyan/green/blue graphics.",
+  "source_blend_sha256": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed"
+}

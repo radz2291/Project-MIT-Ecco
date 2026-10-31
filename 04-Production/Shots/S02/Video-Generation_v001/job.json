@@ -1,0 +1,34 @@
+{
+  "source_blend": "C:/Users/RZ1/Desktop/RZ/261013-MIT-Ecco/05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend",
+  "overwrite": false,
+  "segments": [
+    {
+      "duration": 12,
+      "source_start": 241,
+      "event_frames": [
+        278,
+        348,
+        358,
+        480
+      ],
+      "id": "section-02",
+      "source_end": 528
+    }
+  ],
+  "fps": 24,
+  "inspect": {
+    "extra_frames": [
+      241,
+      278,
+      348,
+      358,
+      480,
+      528
+    ],
+    "sample_step": 3,
+    "evaluated_geometry": false,
+    "objects": [],
+    "pose_bones": false
+  },
+  "output_dir": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S02\\Video-Generation_v001"
+}

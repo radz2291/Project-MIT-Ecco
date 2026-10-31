@@ -1,0 +1,13 @@
+Create one continuous 5-second, 16:9 hyperrealistic commercial animation. Use the supplied first image as the opening wide view and the supplied last image as a close sensor/returning-echo appearance guide. Animate one full-frame scene, not a tiled storyboard.
+
+The ECCO steel downhole instrument sits inside a narrow borehole revealed through a longitudinal cutaway in dense brown rock. Preserve the instrument's cylindrical housing, circular sensor, smaller circular feature below it, service cover, pipe connection and sculpted body. The camera moves toward the instrument; the instrument does not grow or deform.
+
+0.00–1.54 seconds: Begin wide with the small instrument centred in the vertical opening and pipe continuing above. Smoothly approach the sensor housing, showing natural rock parallax. Reach a closer view of the sensor and smaller feature beneath it. No signal graphics yet.
+
+1.54–4.45 seconds: Continue into the sensor close-up, with the sensor prominent at right and the rock wall to the left across the clearance. Ease into the close view. Begin the acoustic event near the end of this interval so the outgoing wavefront is clearly visible around 4.46 seconds.
+
+4.45–5.00 seconds: Cyan wavefronts travel from sensor toward the left wall, followed by green echoes returning toward the sensor. Show the returning state near the sensor around 4.88 seconds. Use crisp luminous cores, slender feathered halos, precise curvature and subtly tapered arc ends. Keep the sensor edge and signal readable. End during the close-up returning-echo phase; do not squeeze a history reveal into this pilot.
+
+Render pristine newly manufactured silver steel with smooth reflections, crisp edges and extremely fine orderly machining texture. No handling scratches, scars, dents, corrosion or dirt. Preserve actual recesses and sensor surfaces without inventing seams in the continuous surrounding housing.
+
+Show dense solid dark brown/umber rock with connected ridges, worn shallow grooves and tightly bonded fine texture. Use broad soft photographic lighting, gentle fill and moderate contrast. Maintain stable geometry and believable clearances throughout. No blue history grid, additional hardware, captions, borders, split screens, cuts, crossfades, morphing, narration or music.
