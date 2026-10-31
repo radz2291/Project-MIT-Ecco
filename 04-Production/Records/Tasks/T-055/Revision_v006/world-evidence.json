@@ -1,0 +1,886 @@
+{
+  "source_sha256": "67e789b370746ecb58fd186acf4678e4d64ad4da92aee1fb0a7e9bade1179538",
+  "native_sha256": "ac3dc7ca00498eb90dbcb099f6fb5bed7242a2bc04a2455b4488ff6c4f2a08f2",
+  "preserved_v010_mesh_objects": 21,
+  "all_mesh_topology_shape_keys_transforms_exact": true,
+  "all_original_collection_memberships_exact": true,
+  "missing_libraries": [],
+  "cameras": 0,
+  "lights": 0,
+  "actions": 0,
+  "regional_units": 7,
+  "regional_angular_bounds_deg": [
+    -5.000000424005013,
+    225.00000017261834
+  ],
+  "host_material_reused_exact": "Earth stratum 20",
+  "host_unit_source_z_bounds_m": [
+    -805,
+    -660
+  ],
+  "regional_bedding_uses_local_object_coordinates": true,
+  "regional_objects": [
+    {
+      "object": "REGIONAL_UNIT_01_OUTER_120_245",
+      "source_z_bounds_m": [
+        -245.0,
+        -120.0
+      ],
+      "inner": false,
+      "vertices": 1458,
+      "faces": 736
+    },
+    {
+      "object": "REGIONAL_UNIT_01_INNER_120_245",
+      "source_z_bounds_m": [
+        -245.0,
+        -120.0
+      ],
+      "inner": true,
+      "vertices": 1458,
+      "faces": 736
+    },
+    {
+      "object": "REGIONAL_UNIT_02_OUTER_245_390",
+      "source_z_bounds_m": [
+        -390.0,
+        -245.0
+      ],
+      "inner": false,
+      "vertices": 1782,
+      "faces": 820
+    },
+    {
+      "object": "REGIONAL_UNIT_02_INNER_245_390",
+      "source_z_bounds_m": [
+        -390.0,
+        -245.0
+      ],
+      "inner": true,
+      "vertices": 1782,
+      "faces": 820
+    },
+    {
+      "object": "REGIONAL_UNIT_03_OUTER_390_515",
+      "source_z_bounds_m": [
+        -515.0,
+        -390.0
+      ],
+      "inner": false,
+      "vertices": 1458,
+      "faces": 656
+    },
+    {
+      "object": "REGIONAL_UNIT_03_INNER_390_515",
+      "source_z_bounds_m": [
+        -515.0,
+        -390.0
+      ],
+      "inner": true,
+      "vertices": 1458,
+      "faces": 656
+    },
+    {
+      "object": "REGIONAL_UNIT_04_OUTER_515_660",
+      "source_z_bounds_m": [
+        -660.0,
+        -515.0
+      ],
+      "inner": false,
+      "vertices": 1782,
+      "faces": 820
+    },
+    {
+      "object": "REGIONAL_UNIT_04_INNER_515_660",
+      "source_z_bounds_m": [
+        -660.0,
+        -515.0
+      ],
+      "inner": true,
+      "vertices": 1782,
+      "faces": 820
+    },
+    {
+      "object": "REGIONAL_UNIT_05_OUTER_750_805",
+      "source_z_bounds_m": [
+        -805.0,
+        -750.0
+      ],
+      "inner": false,
+      "vertices": 810,
+      "faces": 328
+    },
+    {
+      "object": "REGIONAL_UNIT_05_OUTER_720_750",
+      "source_z_bounds_m": [
+        -750.0,
+        -720.0
+      ],
+      "inner": false,
+      "vertices": 486,
+      "faces": 164
+    },
+    {
+      "object": "REGIONAL_UNIT_05_OUTER_660_720",
+      "source_z_bounds_m": [
+        -720.0,
+        -660.0
+      ],
+      "inner": false,
+      "vertices": 810,
+      "faces": 328
+    },
+    {
+      "object": "REGIONAL_UNIT_05_INNER_750_805",
+      "source_z_bounds_m": [
+        -805.0,
+        -750.0
+      ],
+      "inner": true,
+      "vertices": 810,
+      "faces": 328
+    },
+    {
+      "object": "REGIONAL_UNIT_05_INNER_660_720",
+      "source_z_bounds_m": [
+        -720.0,
+        -660.0
+      ],
+      "inner": true,
+      "vertices": 810,
+      "faces": 328
+    },
+    {
+      "object": "REGIONAL_UNIT_06_OUTER_805_925",
+      "source_z_bounds_m": [
+        -925.0,
+        -805.0
+      ],
+      "inner": false,
+      "vertices": 1458,
+      "faces": 656
+    },
+    {
+      "object": "REGIONAL_UNIT_06_INNER_805_925",
+      "source_z_bounds_m": [
+        -925.0,
+        -805.0
+      ],
+      "inner": true,
+      "vertices": 1458,
+      "faces": 656
+    },
+    {
+      "object": "REGIONAL_UNIT_07_OUTER_925_1020",
+      "source_z_bounds_m": [
+        -1020.0,
+        -925.0
+      ],
+      "inner": false,
+      "vertices": 1134,
+      "faces": 572
+    },
+    {
+      "object": "REGIONAL_UNIT_07_INNER_925_1020",
+      "source_z_bounds_m": [
+        -1020.0,
+        -925.0
+      ],
+      "inner": true,
+      "vertices": 1134,
+      "faces": 572
+    }
+  ],
+  "matching_outer_profile_vertices": 81,
+  "destination_inner_end_profile_vertices": {
+    "-15.0": 81,
+    "15.0": 81
+  },
+  "original_geometry": {
+    "CASING_CUTAWAY": {
+      "geometry_sha256": "ee9a961601f607bc922d1e927b1d4731d8612a073d4952c3f93341e348cb02a9",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 18818,
+      "faces": 18816
+    },
+    "CASING_FULL": {
+      "geometry_sha256": "55d68d9fe6f39410fcbc64d3f9f2f7cd541b1f037a49f6eb1a7ebd2ff5ec8ef6",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 18624,
+      "faces": 18624
+    },
+    "CEMENT_CUTAWAY": {
+      "geometry_sha256": "2623f7fa405d8dd823c6ae98c3a9c8a0f4aceb3c0d8c59a9b06b937410301836",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 18818,
+      "faces": 18816
+    },
+    "CEMENT_FULL": {
+      "geometry_sha256": "cded3950bc8d540bad3ce8b1e0575e2efc0aa59982572103b4ee0b982ab0cd1b",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 18624,
+      "faces": 18624
+    },
+    "FORMATION_IRREGULAR_CUTAWAY": {
+      "geometry_sha256": "204ab926aa4455a67ab5dcd3cb86c5e4727be9fb4b37dc9ee017fab7bd43f552",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 50232,
+      "faces": 49232
+    },
+    "FORMATION_IRREGULAR_FULL": {
+      "geometry_sha256": "b60ff1b73f1d8903031294ae719e1fe47711b91a8e646a8fb701fc328d8fbf7f",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 35308,
+      "faces": 34752
+    },
+    "FORMATION_NOMINAL_CUTAWAY": {
+      "geometry_sha256": "c3f89b87c0ffae11c79db6680c1b8a3a7f15284f54043e6b9897f8e09dd8d8f8",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 50232,
+      "faces": 49232
+    },
+    "FORMATION_NOMINAL_FULL": {
+      "geometry_sha256": "438dbdce7080f8b7df1c37e312a467caf9cea2d11adf6b7848fdec1792a1c99a",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 35308,
+      "faces": 34752
+    },
+    "FORMATION_SPIRAL_CUTAWAY": {
+      "geometry_sha256": "53d71c3298cf3961f3689dc32204cf61c0120292451434f6f3f6b5db9d476b1a",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 50232,
+      "faces": 49232
+    },
+    "FORMATION_SPIRAL_FULL": {
+      "geometry_sha256": "f8469d80594ea51ed921b8796408abc146ede5233e59de156c405bd898dd0b1a",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 35308,
+      "faces": 34752
+    },
+    "ILLUSTRATIVE_SHOE_RIM": {
+      "geometry_sha256": "de1d1492e49d7027dbf857f4ff55eb825b440162a7aa728090ee5c506b918e7f",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 390,
+      "faces": 320
+    },
+    "IRREGULAR_CUTAWAY": {
+      "geometry_sha256": "5c023ab6b8a12a7bdf7b74c3f8b2f7a8ee030d5bd45daf430166605f903ce134",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 9409,
+      "faces": 9216
+    },
+    "IRREGULAR_FULL": {
+      "geometry_sha256": "8fc4e33cd65302f54425377a2225b803c5bd4d296f07ae031f9e6443844cd5d8",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 9312,
+      "faces": 9216
+    },
+    "MUD_CURVED_OPTICAL_CUT": {
+      "geometry_sha256": "a0bfb4e095876706972d9ac0d7e0672855a80862721b290bdeaf28af2e44792b",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 16705,
+      "faces": 16384
+    },
+    "MUD_CURVED_REAR_OPTICAL_SKIN": {
+      "geometry_sha256": "f714da4bc0b129476efb10f57b17ab35eb3e0dd023444784d21199cf2a4ae5d2",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 24929,
+      "faces": 24576
+    },
+    "NOMINAL_CUTAWAY": {
+      "geometry_sha256": "c9c2115f3c7aa40877ea4ae908b1386be01f2dada0ae083c55d6ca6e58a7b3af",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 9409,
+      "faces": 9216
+    },
+    "NOMINAL_FULL": {
+      "geometry_sha256": "8977b7b67bd4962f94ed71ac0562865725fb18e1391ff8c2cee7940e40d6b65a",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 9312,
+      "faces": 9216
+    },
+    "SPIRAL_CUTAWAY": {
+      "geometry_sha256": "f643ba7c8101ecd5f41987e8af90a7462a688efd109bb26ab03c8e9249f7894c",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 9409,
+      "faces": 9216
+    },
+    "SPIRAL_FULL": {
+      "geometry_sha256": "baf1ee19e9b9db56b1e1ebc90e9bdb0f5d070a344062e394e71ce3345af1580c",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 9312,
+      "faces": 9216
+    },
+    "WORLD_S02_IRREGULAR_AUTHORITY_MESH": {
+      "geometry_sha256": "8cefbe966a9f7f235027667463c47eb942719ea8ce8cd5515e29acce95962c7c",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 72120,
+      "faces": 72000
+    },
+    "WORLD_S02_PHYSICAL_CUTAWAY_MESH": {
+      "geometry_sha256": "148026d597d44b92ad2b1ba41e01869c32fd7556c02f7a290ccd59fb6a490e65",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 97362,
+      "faces": 97200
+    }
+  },
+  "fresh_open_pass": true,
+  "limits": "Exact native destination and regional angular bounds both -5..225degrees; same full outer profile. Interfaces touch with no overlapping regional r20 faces. No renders performed.",
+  "default_scene_roots": {
+    "Scene": [
+      "WORLD_DESCENT_CONNECTED"
+    ]
+  },
+  "all_previous_collection_names_retained": true,
+  "retained_previous_collection_names": [
+    "WORLD_CASING_CUTAWAY",
+    "WORLD_CASING_FULL",
+    "WORLD_CEMENT_CUTAWAY",
+    "WORLD_CEMENT_FULL",
+    "WORLD_ENV",
+    "WORLD_FORMATION_IRREGULAR_CUTAWAY",
+    "WORLD_FORMATION_IRREGULAR_FULL",
+    "WORLD_FORMATION_NOMINAL_CUTAWAY",
+    "WORLD_FORMATION_NOMINAL_FULL",
+    "WORLD_FORMATION_SPIRAL_CUTAWAY",
+    "WORLD_FORMATION_SPIRAL_FULL",
+    "WORLD_IRREGULAR_CUTAWAY",
+    "WORLD_IRREGULAR_FULL",
+    "WORLD_MUD",
+    "WORLD_NOMINAL_CUTAWAY",
+    "WORLD_NOMINAL_FULL",
+    "WORLD_S02_IRREGULAR_AUTHORITY",
+    "WORLD_S02_PHYSICAL_CUTAWAY",
+    "WORLD_SHOE",
+    "WORLD_SPIRAL_CUTAWAY",
+    "WORLD_SPIRAL_FULL",
+    "WORLD_UPPER_FORMATION"
+  ],
+  "packaging_all_geometry_unchanged": true,
+  "embedded_readme": true
+}

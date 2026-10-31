@@ -1,0 +1,21 @@
+{
+  "pass": true,
+  "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\Surface-to-wall_v006.mp4",
+  "decoded_frames": 288,
+  "fps": 24,
+  "duration_seconds": 12.0,
+  "resolution": [
+    640,
+    360
+  ],
+  "all_frames_decoded": true,
+  "audio": false,
+  "source_frames": [
+    1,
+    288
+  ],
+  "source_speed_unchanged": true,
+  "render_max_seconds": 3.13852030003909,
+  "review_sheet": "Previews/motion-review-sheet.png",
+  "limits": "Workbench geometry/continuity proof, not final cinematic lighting or underwater optics"
+}

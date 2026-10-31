@@ -1,0 +1,38 @@
+[
+  {
+    "path": "04-Production/Shared/Assets/Environment/Surface/Surface_descent_v006.blend",
+    "bytes": 982699,
+    "sha256": "1560468aaa916e0a7960ef6f80c73467cecbbb6a80191e4072d5b43d1c8f8561",
+    "storage": "local only"
+  },
+  {
+    "path": "04-Production/Shared/Assets/Environment/Borehole/World_environment_v011.blend",
+    "bytes": 15750059,
+    "sha256": "ac3dc7ca00498eb90dbcb099f6fb5bed7242a2bc04a2455b4488ff6c4f2a08f2",
+    "storage": "local only"
+  },
+  {
+    "path": "04-Production/Shared/Assets/Environment/Borehole/World_environment_v010.blend",
+    "bytes": 15649452,
+    "sha256": "67e789b370746ecb58fd186acf4678e4d64ad4da92aee1fb0a7e9bade1179538",
+    "storage": "local only"
+  },
+  {
+    "path": "04-Production/Shared/Demos/Surface_descent_demo_v002.blend",
+    "bytes": 14645478,
+    "sha256": "876c4a4d2fbd165659a3d374d276c0659369469ff35a6f75cbc0fa9a1356d992",
+    "storage": "local only"
+  },
+  {
+    "path": "04-Production/Shared/Demos/World_demo_v002.blend",
+    "bytes": 88087,
+    "sha256": "0418f209b4ce0239d26e48e7ba555661f1919473fdbe1c6b7f40321d0e3d70b7",
+    "storage": "local only"
+  },
+  {
+    "path": "04-Production/Records/Tasks/T-055/Revision_v006/Previews/Surface-to-wall_v006.mp4",
+    "bytes": 442113,
+    "sha256": "011cce371e19a34d9eb9226afb683288ad7175e9ff40a2282902d3a826fe79a8",
+    "storage": "local only"
+  }
+]

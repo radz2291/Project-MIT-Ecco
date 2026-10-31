@@ -1,5 +1,7 @@
 # ECCO-051 — Shared asset integration
 
+Current surface/World revision: [31 October v006 review](../T-055/Revision_v006/report.md). Surface v006, World v011 and connected demo v002 supersede the surface/continuity package descriptions below. Pinned World v010 consumers remain unchanged.
+
 30 October 2026. **Implementation complete for shared-asset review; final native inspection/acceptance remains with Radzi.** Controlling input is ECCO-050 at commit `58013a6f5a907bfdfe9a7c7d63405e3306c2c42c`. The five delegated packages preserve locked source scenes and publish successor masters plus separate consumer copies. Later completion sections supersede historical incomplete status below.
 
 ## Package status

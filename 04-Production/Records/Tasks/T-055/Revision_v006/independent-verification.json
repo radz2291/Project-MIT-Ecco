@@ -1,0 +1,333 @@
+{
+  "verifier": "ECCO-052 independent of Surface/World/demo authors",
+  "scope": "read-only background Blender; official MCP path query first; dirty interactive scene untouched",
+  "checks": {
+    "pontoons_submerged": true,
+    "deck_above_sea": true,
+    "ocean_alternatives_retained": true,
+    "surface_no_geology_camera_light_action": true,
+    "exact_wall_geometry": true,
+    "all528_camera_lens_identical": true,
+    "no_old_slabs": true,
+    "world_present_constant_from1": true,
+    "libraries_resolve": true,
+    "native_inputs_unchanged": true
+  },
+  "source": {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend",
+    "sha256": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "matches_T050": true,
+    "wall_vertices": 97362,
+    "wall_polygons": 97200
+  },
+  "surface": {
+    "objects": 563,
+    "cameras_lights": [],
+    "actions": [],
+    "geology_candidates": [],
+    "collections": [
+      "SURFACE_OCEAN_CUTAWAY",
+      "SURFACE_OCEAN_FULL",
+      "SURFACE_RIG_SUBSEA_v004",
+      "SURFACE_RIG_v004",
+      "SURFACE_SUBSEA_v004"
+    ],
+    "pontoons": [
+      {
+        "name": "RIG_SubmergedPontoon",
+        "min": [
+          -27.5,
+          -23.0,
+          -20.0
+        ],
+        "max": [
+          -18.5,
+          23.0,
+          -14.0
+        ]
+      },
+      {
+        "name": "RIG_SubmergedPontoon.001",
+        "min": [
+          18.5,
+          -23.0,
+          -20.0
+        ],
+        "max": [
+          27.5,
+          23.0,
+          -14.0
+        ]
+      }
+    ],
+    "deck": [
+      {
+        "name": "RIG_DeckWing",
+        "min": [
+          -29.0,
+          -21.0,
+          10.5
+        ],
+        "max": [
+          -5.0,
+          21.0,
+          13.5
+        ]
+      },
+      {
+        "name": "RIG_DeckWing.001",
+        "min": [
+          5.0,
+          -21.0,
+          10.5
+        ],
+        "max": [
+          29.0,
+          21.0,
+          13.5
+        ]
+      },
+      {
+        "name": "RIG_MoonpoolCrossDeck",
+        "min": [
+          -5.0,
+          -21.0,
+          10.5
+        ],
+        "max": [
+          5.0,
+          -7.0,
+          13.5
+        ]
+      },
+      {
+        "name": "RIG_MoonpoolCrossDeck.001",
+        "min": [
+          -5.0,
+          7.0,
+          10.5
+        ],
+        "max": [
+          5.0,
+          21.0,
+          13.5
+        ]
+      }
+    ],
+    "libraries": []
+  },
+  "world": {
+    "exact_wall_vertices": 97362,
+    "max_source_wall_vertex_delta_m": 19.680002443974427,
+    "source_inner_vertex_delta_m": 0.0,
+    "source_inner_vertices": 48681,
+    "topology_matches": true,
+    "predecessor_v010_wall_exact": true,
+    "connected_members": [
+      "REGIONAL_UNIT_01_OUTER_120_245",
+      "REGIONAL_UNIT_01_INNER_120_245",
+      "REGIONAL_UNIT_02_OUTER_245_390",
+      "REGIONAL_UNIT_02_INNER_245_390",
+      "REGIONAL_UNIT_03_OUTER_390_515",
+      "REGIONAL_UNIT_03_INNER_390_515",
+      "REGIONAL_UNIT_04_OUTER_515_660",
+      "REGIONAL_UNIT_04_INNER_515_660",
+      "REGIONAL_UNIT_05_OUTER_750_805",
+      "REGIONAL_UNIT_05_OUTER_720_750",
+      "REGIONAL_UNIT_05_OUTER_660_720",
+      "REGIONAL_UNIT_05_INNER_750_805",
+      "REGIONAL_UNIT_05_INNER_660_720",
+      "REGIONAL_UNIT_06_OUTER_805_925",
+      "REGIONAL_UNIT_06_INNER_805_925",
+      "REGIONAL_UNIT_07_OUTER_925_1020",
+      "REGIONAL_UNIT_07_INNER_925_1020",
+      "WORLD_S02_PHYSICAL_CUTAWAY_MESH"
+    ],
+    "wall_action": false,
+    "libraries": [],
+    "scope": "v010 expanded outer soil preserved exactly; original S02 inner bore compared separately.",
+    "inner_selection": "Current wall radial distance <1m excludes intentionally widened20m outer ring. Original wall outer0.32m was also<1m, so selection uses candidate topology indices."
+  },
+  "demo": {
+    "scenes": [
+      "Descent — connected S01-S02",
+      "Surface — water column",
+      "Surface — waterline",
+      "World — layered descent"
+    ],
+    "old_slab_objects": [],
+    "world_instance_states": [
+      {
+        "frame": 1,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "matrix": [
+          [
+            -4.371138828673793E-08,
+            1.0,
+            4.371138828673793E-08,
+            0.0
+          ],
+          [
+            0.0,
+            -4.371138828673793E-08,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            4.371138828673793E-08,
+            1.910685676922942E-15,
+            -735.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "hide_render": false,
+        "collection": "WORLD_DESCENT_CONNECTED"
+      },
+      {
+        "frame": 240,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "matrix": [
+          [
+            -4.371138828673793E-08,
+            1.0,
+            4.371138828673793E-08,
+            0.0
+          ],
+          [
+            0.0,
+            -4.371138828673793E-08,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            4.371138828673793E-08,
+            1.910685676922942E-15,
+            -735.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "hide_render": false,
+        "collection": "WORLD_DESCENT_CONNECTED"
+      },
+      {
+        "frame": 241,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "matrix": [
+          [
+            -4.371138828673793E-08,
+            1.0,
+            4.371138828673793E-08,
+            0.0
+          ],
+          [
+            0.0,
+            -4.371138828673793E-08,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            4.371138828673793E-08,
+            1.910685676922942E-15,
+            -735.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "hide_render": false,
+        "collection": "WORLD_DESCENT_CONNECTED"
+      },
+      {
+        "frame": 528,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "matrix": [
+          [
+            -4.371138828673793E-08,
+            1.0,
+            4.371138828673793E-08,
+            0.0
+          ],
+          [
+            0.0,
+            -4.371138828673793E-08,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            4.371138828673793E-08,
+            1.910685676922942E-15,
+            -735.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "hide_render": false,
+        "collection": "WORLD_DESCENT_CONNECTED"
+      }
+    ],
+    "world_action": false,
+    "world_drivers": 0,
+    "libraries": [
+      {
+        "path": "//..\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\Assets\\Environment\\Surface\\Surface_descent_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\Assets\\Environment\\Borehole\\World_environment_v011.blend",
+        "exists": true
+      }
+    ]
+  },
+  "native_hashes": {
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v006.blend": "1560468aaa916e0a7960ef6f80c73467cecbbb6a80191e4072d5b43d1c8f8561",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Borehole\\World_environment_v011.blend": "0382fa5091e301f907d69c5a5f9166543f80bfef544ad6375be147cb1002eb9e",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Surface_descent_demo_v002.blend": "b54cf1a5576998e44c64045c779bff93e2ee461213f3bb3f373302bcafc73b2d"
+  },
+  "review_state": "Interim read-only snapshot. Root visual review requires regional overview correction; final World hash/link recheck pending. Camera528/source checks remain valid for unchanged demo."
+}

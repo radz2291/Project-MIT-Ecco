@@ -1,8 +1,8 @@
 # Shared production library
 
-- Assets: active reusable components under Hardware, Environment and Effects.
-- Demos: six linked inspection scenes, with no full section timelines.
-- Sources: supplied original files and provenance.
-- Archive/2026-10-31: previous releases, experiments, legacy scripts and backups; still referenced where needed.
+- Assets: focused reusable components under Hardware, Environment and Effects.
+- Demos: six linked review files. The connected Surface demo owns its S01-S02 reference timeline; shared masters contain no complete section scenes.
+- Sources: supplied originals and provenance.
+- Archive/2026-10-31: preserved prior versions, experiments and backups; historical links are not maintained.
 
-Start with Assets/README.md. No historical shot was upgraded to a different geometry version during this cleanup.
+Start with Assets/README.md. No production shot was automatically upgraded by the surface/World revision. Heavy native/media files remain local.

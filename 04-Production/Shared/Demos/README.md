@@ -1,10 +1,12 @@
 # Shared asset demos
 
-These six scenes link the active shared masters. Editing a master and reopening a demo reloads it. Each demo has an embedded README. World/Surface use the scene dropdown for detail and overview. Hardware Workbench is for fast geometry inspection; satin materials remain linked.
+Six current demos link their shared masters. Use the scene dropdown for alternate inspection views. The connected Surface demo owns its camera/timeline and existing local measurement/history; reusable masters contain no complete section scenes.
 
-- Digital_environment_demo_v005.blend
 - Hardware_demo_v001.blend
+- World_demo_v002.blend
+- Surface_descent_demo_v002.blend — connected S01-S02, waterline, water column and regional geology
+- Digital_environment_demo_v005.blend — remains pinned to accepted World v010 derivation
 - Measurement_reveal_demo_v002.blend
-- Surface_demo_v001.blend
 - Waveform_demo_v015.blend
-- World_demo_v001.blend
+
+Surface/World review previews use Workbench for geometry and continuity inspection. They do not establish final film lighting, sea shading or geological provenance. Previous demo versions are archived without link maintenance.

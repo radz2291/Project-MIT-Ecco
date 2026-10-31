@@ -1,0 +1,191 @@
+{
+  "version": "v011",
+  "native": "04-Production/Shared/Assets/Environment/Borehole/World_environment_v011.blend",
+  "units": "metres",
+  "axis": "X",
+  "source_to_canonical": [
+    [
+      0.0,
+      0.0,
+      1.0,
+      735.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "canonical_to_s02": [
+    [
+      0.0,
+      1.0,
+      0.0,
+      -0.0
+    ],
+    [
+      -0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      1.0,
+      -0.0,
+      0.0,
+      -735.0
+    ],
+    [
+      -0.0,
+      0.0,
+      -0.0,
+      1.0
+    ]
+  ],
+  "s02_axial_bounds": [
+    -15,
+    15
+  ],
+  "outer_radius_m": 20,
+  "wall_collections": [
+    "WORLD_S02_IRREGULAR_AUTHORITY",
+    "WORLD_S02_PHYSICAL_CUTAWAY"
+  ],
+  "legacy_collections": [
+    "WORLD_CASING_CUTAWAY",
+    "WORLD_CASING_FULL",
+    "WORLD_CEMENT_CUTAWAY",
+    "WORLD_CEMENT_FULL",
+    "WORLD_ENV",
+    "WORLD_FORMATION_IRREGULAR_CUTAWAY",
+    "WORLD_FORMATION_IRREGULAR_FULL",
+    "WORLD_FORMATION_NOMINAL_CUTAWAY",
+    "WORLD_FORMATION_NOMINAL_FULL",
+    "WORLD_FORMATION_SPIRAL_CUTAWAY",
+    "WORLD_FORMATION_SPIRAL_FULL",
+    "WORLD_IRREGULAR_CUTAWAY",
+    "WORLD_IRREGULAR_FULL",
+    "WORLD_MUD",
+    "WORLD_NOMINAL_CUTAWAY",
+    "WORLD_NOMINAL_FULL",
+    "WORLD_S02_IRREGULAR_AUTHORITY",
+    "WORLD_S02_PHYSICAL_CUTAWAY",
+    "WORLD_SHOE",
+    "WORLD_SPIRAL_CUTAWAY",
+    "WORLD_SPIRAL_FULL",
+    "WORLD_UPPER_FORMATION"
+  ],
+  "source_modules": {
+    "FORMATION": "04-Production\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\Formation_context_v002.blend",
+    "CASED-FORMATION": "04-Production\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\Formation_cased-section_v002.blend",
+    "CASING": "04-Production\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\CasedHole_v002.blend"
+  },
+  "policy": "Exactly one selected wall and outer formation per placement. S02 authority is physical shape only; no measurement samples or display animation included. S02 cutaway retains source angular opening. Legacy cutaways retain their original half-space. Layer visibility is controlled on local collection instances; no global changes to shared collection hide flags.",
+  "changes": [
+    {
+      "object": "FORMATION_IRREGULAR_CUTAWAY",
+      "outer_vertices": 18018,
+      "inner_unchanged": true
+    },
+    {
+      "object": "FORMATION_IRREGULAR_FULL",
+      "outer_vertices": 17654,
+      "inner_unchanged": true
+    },
+    {
+      "object": "FORMATION_NOMINAL_CUTAWAY",
+      "outer_vertices": 18018,
+      "inner_unchanged": true
+    },
+    {
+      "object": "FORMATION_NOMINAL_FULL",
+      "outer_vertices": 17654,
+      "inner_unchanged": true
+    },
+    {
+      "object": "FORMATION_SPIRAL_CUTAWAY",
+      "outer_vertices": 18018,
+      "inner_unchanged": true
+    },
+    {
+      "object": "FORMATION_SPIRAL_FULL",
+      "outer_vertices": 17654,
+      "inner_unchanged": true
+    },
+    {
+      "object": "WORLD_S02_PHYSICAL_CUTAWAY_MESH",
+      "outer_vertices": 48681,
+      "inner_unchanged": true
+    }
+  ],
+  "predecessor_native": "04-Production/Shared/Assets/Environment/Borehole/World_environment_v010.blend",
+  "predecessor_sha256": "67e789b370746ecb58fd186acf4678e4d64ad4da92aee1fb0a7e9bade1179538",
+  "regional": {
+    "collection": "WORLD_REGIONAL_DESCENT",
+    "connected_collection": "WORLD_DESCENT_CONNECTED",
+    "source_z_bounds_m": [
+      -1020,
+      -120
+    ],
+    "canonical_x_bounds_m": [
+      -285,
+      615
+    ],
+    "outer_radius_m": 180,
+    "source_cutaway_angular_bounds_deg": [
+      -5.000000424005013,
+      225.00000017261834
+    ],
+    "source_cutaway_policy": "Same angular opening and full faceted profile as preserved S02 cutaway; viewed from negative sourceY",
+    "host_material": "Earth stratum 20",
+    "host_unit_source_z_bounds_m": [
+      -805,
+      -660
+    ],
+    "bedding_coordinate_space": "TextureCoord Object local canonical X; exact destination/host material unmodified",
+    "units_source_z_boundaries_m": [
+      -120.0,
+      -245.0,
+      -390.0,
+      -515.0,
+      -660.0,
+      -805.0,
+      -925.0,
+      -1020.0
+    ],
+    "bore_radius_outside_destination_m": [
+      0.193,
+      0.207
+    ],
+    "reserved_source_z_m": [
+      -750,
+      -720
+    ],
+    "reserved_canonical_x_m": [
+      -15,
+      15
+    ],
+    "destination_policy": "Exact preserved WORLD_S02_PHYSICAL_CUTAWAY supplies bore to20m; regional outer boundary uses every actual faceted20m edge vertex and identical angular opening(-5..225degrees). Original destination is unchanged.",
+    "internal_face_policy": "No duplicate regional r20 interface faces; no separate floating bedding slabs.",
+    "provenance": "Illustrative broad units, not field geology, engineering truth or calibrated logs.",
+    "ownership": "World owns geology/physical walls; section datasets and cameras remain local."
+  },
+  "native_sha256": "ac3dc7ca00498eb90dbcb099f6fb5bed7242a2bc04a2455b4488ff6c4f2a08f2",
+  "default_scene_root": [
+    "WORLD_DESCENT_CONNECTED"
+  ],
+  "retained_collection_policy": "All predecessor variants retained as selectable fake-user library collections; collection hide flags unchanged."
+}

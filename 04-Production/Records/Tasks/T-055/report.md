@@ -1,5 +1,7 @@
 # ECCO-055 — Shared surface and descent
 
+Current revision: [Surface v006 / World v011](Revision_v006/report.md), authorized by Radzi on31October2026. Earlier implementation history below is retained; current paths are in the new review record.
+
 The detailed rig and pictured subsea assembly now sit in copies of the established descent scene. The surrounding earth uses shared mesh data while camera, timing and opening motion remain local. The continuous S01–S02 copy links the released irregular World at its destination.
 
 Task `977d9ffb-39db-41e3-aed7-e27abb712d45`; delegated by owner-authorized ECCO-051. Worker `ECCO-055-builder-20261030`, run `b278521f-5649-4336-963f-0c80b6059e40`. Base checkout `bb9a503c8d69ae0cf5ba20273a5280d130cc1949`. Technical checks and master visual inspection are complete. Master owns Git integration and review submission; no worker Git changes performed. Publication and Radzi's acceptance remain pending.

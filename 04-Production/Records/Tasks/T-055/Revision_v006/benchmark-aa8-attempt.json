@@ -1,0 +1,110 @@
+{
+  "pass": true,
+  "engine": "BLENDER_WORKBENCH",
+  "resolution": [
+    450,
+    800
+  ],
+  "aa": "8",
+  "rows": [
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 1,
+      "seconds": 4.081601399928331,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_001.png",
+      "pass": true
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 60,
+      "seconds": 1.796842599986121,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_060.png",
+      "pass": true
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 94,
+      "seconds": 1.6313435999909416,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_094.png",
+      "pass": true
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 110,
+      "seconds": 1.4682100999634713,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_110.png",
+      "pass": true
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 112,
+      "seconds": 1.3276626999722794,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_112.png",
+      "pass": true
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 120,
+      "seconds": 2.091985800070688,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_120.png",
+      "pass": true
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 180,
+      "seconds": 2.0415342999622226,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_180.png",
+      "pass": true
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 220,
+      "seconds": 1.6620728999841958,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_220.png",
+      "pass": true
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 240,
+      "seconds": 1.2495761999161914,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_240.png",
+      "pass": true
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 241,
+      "seconds": 1.8119135999586433,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_241.png",
+      "pass": true
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 264,
+      "seconds": 1.4492796000558883,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_264.png",
+      "pass": true
+    },
+    {
+      "scene": "Surface \u2014 waterline",
+      "frame": 1,
+      "seconds": 1.4341334999771789,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\waterline.png",
+      "pass": true
+    },
+    {
+      "scene": "Surface \u2014 water column",
+      "frame": 1,
+      "seconds": 0.8022739000152797,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\water_column.png",
+      "pass": true
+    },
+    {
+      "scene": "World \u2014 layered descent",
+      "frame": 1,
+      "seconds": 1.1044155999552459,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\layered_descent.png",
+      "pass": true
+    }
+  ],
+  "image_paths_superseded_by_final_preview": true
+}

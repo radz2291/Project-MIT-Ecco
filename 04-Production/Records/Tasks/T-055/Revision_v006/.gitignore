@@ -1,0 +1,6 @@
+Previews/*
+!Previews/waterline.png
+!Previews/water_column.png
+!Previews/layered_descent.png
+Build-backups/
+*.log

@@ -1,0 +1,222 @@
+{
+  "pass": true,
+  "engine": "BLENDER_WORKBENCH",
+  "resolution": [
+    360,
+    640
+  ],
+  "aa": "5",
+  "rows": [
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 1,
+      "seconds": 2.3770748000824824,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_001.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 60,
+      "seconds": 0.9318766000214964,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_060.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 94,
+      "seconds": 1.1387542999582365,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_094.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 110,
+      "seconds": 1.0951868999982253,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_110.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 112,
+      "seconds": 0.8511791999917477,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_112.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 120,
+      "seconds": 0.7823587999446318,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_120.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 147,
+      "seconds": 0.9653239999897778,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_147.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 180,
+      "seconds": 1.0065338000422344,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_180.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 220,
+      "seconds": 1.044385900022462,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_220.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 240,
+      "seconds": 1.0031084000365809,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_240.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 241,
+      "seconds": 1.2713000000221655,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_241.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Descent \u2014 connected S01-S02",
+      "frame": 264,
+      "seconds": 0.9715864999452606,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\benchmark_264.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Surface \u2014 waterline",
+      "frame": 1,
+      "seconds": 0.8020848999731243,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\waterline.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "Surface \u2014 water column",
+      "frame": 1,
+      "seconds": 0.9052275998983532,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\water_column.png",
+      "pass": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    },
+    {
+      "scene": "World \u2014 layered descent",
+      "frame": 1,
+      "seconds": 0.9999643999617547,
+      "path": "04-Production\\Records\\Tasks\\T-055\\Revision_v006\\Previews\\layered_descent.png",
+      "pass": true,
+      "resolution": [
+        360,
+        640
+      ],
+      "aa": "5",
+      "shadows": false,
+      "cavity": false
+    }
+  ],
+  "export_profile": "Workbench AA5, shadows/cavity off, 640x360 landscape or360x640 portrait"
+}

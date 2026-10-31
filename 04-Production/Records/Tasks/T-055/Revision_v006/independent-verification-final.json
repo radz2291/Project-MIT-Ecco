@@ -1,0 +1,1066 @@
+{
+  "verifier": "ECCO-052 independent of Surface/World/demo authors",
+  "scope": "read-only background Blender; official MCP path query first; dirty interactive scene untouched",
+  "checks": {
+    "pontoons_submerged": true,
+    "deck_above_sea": true,
+    "ocean_alternatives_retained": true,
+    "surface_no_geology_camera_light_action": true,
+    "all_predecessor_meshes_unchanged": true,
+    "world_no_cameras_lights_actions": true,
+    "exact_wall_geometry": true,
+    "all528_camera_lens_identical": true,
+    "no_old_slabs": true,
+    "world_present_constant_from1": true,
+    "world_demo_links_v011": true,
+    "libraries_resolve": true,
+    "native_inputs_unchanged": true,
+    "released_world_hash": true,
+    "profile_followup_masters_unchanged": true,
+    "reduced_surface_demo_profile": true,
+    "camera_followup_samples_match": true,
+    "followup_demo_links_resolve": true,
+    "followup_no_building": true,
+    "followup_native_read_unchanged": true,
+    "world_packaging_followup": true
+  },
+  "source": {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend",
+    "sha256": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "matches_T050": true,
+    "wall_vertices": 97362,
+    "wall_polygons": 97200
+  },
+  "surface": {
+    "objects": 563,
+    "cameras_lights": [],
+    "actions": [],
+    "geology_candidates": [],
+    "collections": [
+      "SURFACE_OCEAN_CUTAWAY",
+      "SURFACE_OCEAN_FULL",
+      "SURFACE_RIG_SUBSEA_v004",
+      "SURFACE_RIG_v004",
+      "SURFACE_SUBSEA_v004"
+    ],
+    "pontoons": [
+      {
+        "name": "RIG_SubmergedPontoon",
+        "min": [
+          -27.5,
+          -23.0,
+          -20.0
+        ],
+        "max": [
+          -18.5,
+          23.0,
+          -14.0
+        ]
+      },
+      {
+        "name": "RIG_SubmergedPontoon.001",
+        "min": [
+          18.5,
+          -23.0,
+          -20.0
+        ],
+        "max": [
+          27.5,
+          23.0,
+          -14.0
+        ]
+      }
+    ],
+    "deck": [
+      {
+        "name": "RIG_DeckWing",
+        "min": [
+          -29.0,
+          -21.0,
+          10.5
+        ],
+        "max": [
+          -5.0,
+          21.0,
+          13.5
+        ]
+      },
+      {
+        "name": "RIG_DeckWing.001",
+        "min": [
+          5.0,
+          -21.0,
+          10.5
+        ],
+        "max": [
+          29.0,
+          21.0,
+          13.5
+        ]
+      },
+      {
+        "name": "RIG_MoonpoolCrossDeck",
+        "min": [
+          -5.0,
+          -21.0,
+          10.5
+        ],
+        "max": [
+          5.0,
+          -7.0,
+          13.5
+        ]
+      },
+      {
+        "name": "RIG_MoonpoolCrossDeck.001",
+        "min": [
+          -5.0,
+          7.0,
+          10.5
+        ],
+        "max": [
+          5.0,
+          21.0,
+          13.5
+        ]
+      }
+    ],
+    "libraries": []
+  },
+  "predecessor_mesh_count": 21,
+  "world": {
+    "exact_wall_vertices": 97362,
+    "max_source_wall_vertex_delta_m": 19.680002443974427,
+    "source_inner_vertex_delta_m": 0.0,
+    "source_inner_vertices": 48681,
+    "topology_matches": true,
+    "predecessor_v010_wall_exact": true,
+    "connected_members": [
+      "REGIONAL_UNIT_01_OUTER_120_245",
+      "REGIONAL_UNIT_01_INNER_120_245",
+      "REGIONAL_UNIT_02_OUTER_245_390",
+      "REGIONAL_UNIT_02_INNER_245_390",
+      "REGIONAL_UNIT_03_OUTER_390_515",
+      "REGIONAL_UNIT_03_INNER_390_515",
+      "REGIONAL_UNIT_04_OUTER_515_660",
+      "REGIONAL_UNIT_04_INNER_515_660",
+      "REGIONAL_UNIT_05_OUTER_750_805",
+      "REGIONAL_UNIT_05_OUTER_720_750",
+      "REGIONAL_UNIT_05_OUTER_660_720",
+      "REGIONAL_UNIT_05_INNER_750_805",
+      "REGIONAL_UNIT_05_INNER_660_720",
+      "REGIONAL_UNIT_06_OUTER_805_925",
+      "REGIONAL_UNIT_06_INNER_805_925",
+      "REGIONAL_UNIT_07_OUTER_925_1020",
+      "REGIONAL_UNIT_07_INNER_925_1020",
+      "WORLD_S02_PHYSICAL_CUTAWAY_MESH"
+    ],
+    "wall_action": false,
+    "libraries": [],
+    "scope": "v010 expanded outer soil preserved exactly; original S02 inner bore compared separately."
+  },
+  "demo": {
+    "scenes": [
+      "Descent \u2014 connected S01-S02",
+      "Surface \u2014 water column",
+      "Surface \u2014 waterline",
+      "World \u2014 layered descent"
+    ],
+    "old_slab_objects": [],
+    "world_instance_states": [
+      {
+        "frame": 1,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            4.371138828673793e-08,
+            0.0
+          ],
+          [
+            0.0,
+            -4.371138828673793e-08,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            4.371138828673793e-08,
+            1.910685676922942e-15,
+            -735.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "hide_render": false,
+        "collection": "WORLD_DESCENT_CONNECTED"
+      },
+      {
+        "frame": 240,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            4.371138828673793e-08,
+            0.0
+          ],
+          [
+            0.0,
+            -4.371138828673793e-08,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            4.371138828673793e-08,
+            1.910685676922942e-15,
+            -735.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "hide_render": false,
+        "collection": "WORLD_DESCENT_CONNECTED"
+      },
+      {
+        "frame": 241,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            4.371138828673793e-08,
+            0.0
+          ],
+          [
+            0.0,
+            -4.371138828673793e-08,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            4.371138828673793e-08,
+            1.910685676922942e-15,
+            -735.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "hide_render": false,
+        "collection": "WORLD_DESCENT_CONNECTED"
+      },
+      {
+        "frame": 528,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            4.371138828673793e-08,
+            0.0
+          ],
+          [
+            0.0,
+            -4.371138828673793e-08,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            4.371138828673793e-08,
+            1.910685676922942e-15,
+            -735.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "hide_render": false,
+        "collection": "WORLD_DESCENT_CONNECTED"
+      }
+    ],
+    "world_action": false,
+    "world_drivers": 0,
+    "libraries": [
+      {
+        "path": "//..\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\Assets\\Environment\\Surface\\Surface_descent_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\Assets\\Environment\\Borehole\\World_environment_v011.blend",
+        "exists": true
+      }
+    ]
+  },
+  "world_demo": {
+    "libraries": [
+      {
+        "path": "//..\\Assets\\Environment\\Borehole\\World_environment_v011.blend",
+        "exists": true
+      }
+    ],
+    "scenes": [
+      "World \u2014 borehole detail",
+      "World \u2014 outer extent"
+    ]
+  },
+  "native_hashes": {
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend": "7f85ad2f9fe97ff25d75d994cebceb20778895a6ad8fc96657f0138a5ff1bbed",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v006.blend": "1560468aaa916e0a7960ef6f80c73467cecbbb6a80191e4072d5b43d1c8f8561",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Borehole\\World_environment_v011.blend": "ac3dc7ca00498eb90dbcb099f6fb5bed7242a2bc04a2455b4488ff6c4f2a08f2",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Surface_descent_demo_v002.blend": "876c4a4d2fbd165659a3d374d276c0659369469ff35a6f75cbc0fa9a1356d992",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\World_demo_v002.blend": "0418f209b4ce0239d26e48e7ba555661f1919473fdbe1c6b7f40321d0e3d70b7"
+  },
+  "pass": true,
+  "review_state": "Final released native read-only verification; visual acceptance belongs to Radzi. No render performed.",
+  "profile_followup": {
+    "reason": "Root changed demo render profile after frame112 exceeded5s; first full528 proof retained for unchanged moving-camera/data/actions, corroborated by fresh six-frame camera comparison and unchanged master hashes. This read does not certify render timing.",
+    "master_hashes_unchanged": true,
+    "demos": [
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Surface_descent_demo_v002.blend",
+        "sha256": "876c4a4d2fbd165659a3d374d276c0659369469ff35a6f75cbc0fa9a1356d992",
+        "libraries": [
+          {
+            "path": "//..\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+            "exists": true
+          },
+          {
+            "path": "//..\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+            "exists": true
+          },
+          {
+            "path": "//..\\Assets\\Environment\\Surface\\Surface_descent_v006.blend",
+            "exists": true
+          },
+          {
+            "path": "//..\\Assets\\Environment\\Borehole\\World_environment_v011.blend",
+            "exists": true
+          }
+        ],
+        "profiles": [
+          {
+            "scene": "Descent \u2014 connected S01-S02",
+            "engine": "BLENDER_WORKBENCH",
+            "resolution": [
+              800,
+              450,
+              100
+            ],
+            "aa": "8"
+          },
+          {
+            "scene": "Surface \u2014 water column",
+            "engine": "BLENDER_WORKBENCH",
+            "resolution": [
+              800,
+              450,
+              100
+            ],
+            "aa": "8"
+          },
+          {
+            "scene": "Surface \u2014 waterline",
+            "engine": "BLENDER_WORKBENCH",
+            "resolution": [
+              800,
+              450,
+              100
+            ],
+            "aa": "8"
+          },
+          {
+            "scene": "World \u2014 layered descent",
+            "engine": "BLENDER_WORKBENCH",
+            "resolution": [
+              450,
+              800,
+              100
+            ],
+            "aa": "8"
+          }
+        ],
+        "unchanged_during_read": true,
+        "source_camera_samples_match": true,
+        "sample_frames": [
+          1,
+          112,
+          240,
+          241,
+          288,
+          528
+        ],
+        "reduced_profiles_correct": true,
+        "no_removed_building": true
+      },
+      {
+        "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\World_demo_v002.blend",
+        "sha256": "0418f209b4ce0239d26e48e7ba555661f1919473fdbe1c6b7f40321d0e3d70b7",
+        "libraries": [
+          {
+            "path": "//..\\Assets\\Environment\\Borehole\\World_environment_v011.blend",
+            "exists": true
+          }
+        ],
+        "profiles": [
+          {
+            "scene": "World \u2014 borehole detail",
+            "engine": "BLENDER_WORKBENCH",
+            "resolution": [
+              640,
+              360,
+              100
+            ],
+            "aa": "8"
+          },
+          {
+            "scene": "World \u2014 outer extent",
+            "engine": "BLENDER_WORKBENCH",
+            "resolution": [
+              640,
+              360,
+              100
+            ],
+            "aa": "8"
+          }
+        ],
+        "unchanged_during_read": true
+      }
+    ],
+    "prior_verified_demo_hashes": {}
+  },
+  "world_packaging_followup": {
+    "prior_verified_world_sha256": "39387e654f33ff63931f7863860b957064777c3587fe1a4f6207d8003589e8df",
+    "released_world_sha256": "ac3dc7ca00498eb90dbcb099f6fb5bed7242a2bc04a2455b4488ff6c4f2a08f2",
+    "scene_roots": {
+      "Scene": [
+        "WORLD_DESCENT_CONNECTED"
+      ]
+    },
+    "retained_original_collections": [
+      "WORLD_CASING_CUTAWAY",
+      "WORLD_CASING_FULL",
+      "WORLD_CEMENT_CUTAWAY",
+      "WORLD_CEMENT_FULL",
+      "WORLD_ENV",
+      "WORLD_FORMATION_IRREGULAR_CUTAWAY",
+      "WORLD_FORMATION_IRREGULAR_FULL",
+      "WORLD_FORMATION_NOMINAL_CUTAWAY",
+      "WORLD_FORMATION_NOMINAL_FULL",
+      "WORLD_FORMATION_SPIRAL_CUTAWAY",
+      "WORLD_FORMATION_SPIRAL_FULL",
+      "WORLD_IRREGULAR_CUTAWAY",
+      "WORLD_IRREGULAR_FULL",
+      "WORLD_MUD",
+      "WORLD_NOMINAL_CUTAWAY",
+      "WORLD_NOMINAL_FULL",
+      "WORLD_S02_IRREGULAR_AUTHORITY",
+      "WORLD_S02_PHYSICAL_CUTAWAY",
+      "WORLD_SHOE",
+      "WORLD_SPIRAL_CUTAWAY",
+      "WORLD_SPIRAL_FULL",
+      "WORLD_UPPER_FORMATION"
+    ],
+    "original_mesh_count": 21,
+    "connected_mesh_count": 18,
+    "connected_mesh_fingerprints": {
+      "REGIONAL_UNIT_01_INNER_120_245": {
+        "mesh_sha256": "b5bb7ce99548abb6a1cb4a7cf04a799b7c8300f18a42e2e4aff1d018cb755858",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_01_OUTER_120_245": {
+        "mesh_sha256": "569bdad366d0f65bb1819cf58c4fb8b1cce8e47257c021b1b79fcbbf52934448",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_02_INNER_245_390": {
+        "mesh_sha256": "852863c6f1dc10265452e9c4e12f9b93f5a755bd8a10280c564d93d64b2454ff",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_02_OUTER_245_390": {
+        "mesh_sha256": "94d482ab040ea5181c55a7820d6de286f56caebc0a3e5afc4398219463983bb0",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_03_INNER_390_515": {
+        "mesh_sha256": "51918f6b1ff5b4772390d4ffd8edd0be63aa8560c346eb5ab1923830a6bc518d",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_03_OUTER_390_515": {
+        "mesh_sha256": "4c173a862e5a2ad8e0502219f6ce3413f1558839a1dfc44a5cd558a179819482",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_04_INNER_515_660": {
+        "mesh_sha256": "851b662d10cf37c0f8b469b6ad06d480835525040d71a4073ecf1eb888ba29fd",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_04_OUTER_515_660": {
+        "mesh_sha256": "7e60051a13ef717128be6c90b271dea9fa8eb0e2d6cc93d5a80211d6a6fa6dc9",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_05_INNER_660_720": {
+        "mesh_sha256": "628d43f3d7367c38c3f17c76ab5d348751d521eab9e953940bb47275cd68ab7d",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_05_INNER_750_805": {
+        "mesh_sha256": "51061dfd466776daec8f0e26e20156eb9a36fe2bf2625792486b288d803fb455",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_05_OUTER_660_720": {
+        "mesh_sha256": "3660cde29e7c2454bcf3ffe3842a62658c59bcf14e7a4e34093d80abf9f156ed",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_05_OUTER_720_750": {
+        "mesh_sha256": "59423060c2a0a967598033184dd720d5f25a7932ff5b5c7e4d473fdc1f509f46",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_05_OUTER_750_805": {
+        "mesh_sha256": "7b7e8b4ee54f37f779d2857f91835cb7def6d48df4232fbe0729668408cead70",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_06_INNER_805_925": {
+        "mesh_sha256": "cbba84baea5d0f0c341d94381ba2eed8b2077775c2c716015f2e82ec438f366d",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_06_OUTER_805_925": {
+        "mesh_sha256": "c32703792c3cf5634e31c2eb215ee80feed8ee060580452cb2caec4254745323",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_07_INNER_925_1020": {
+        "mesh_sha256": "3592e87789010ae1f0af3c6c7daafe6c19122ad8759782e543271715ae50124c",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "REGIONAL_UNIT_07_OUTER_925_1020": {
+        "mesh_sha256": "3b7b122fff742c659ce5c55693e03ed9c31875e131a41b65518b9b35e93f3efe",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "WORLD_S02_PHYSICAL_CUTAWAY_MESH": {
+        "mesh_sha256": "272a9e4ef2b01f1ac56749d0c26c67adb2c173c206ab9a84aa7e8b7652b9cda3",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    "libraries": [],
+    "demo_libraries": [
+      {
+        "path": "//..\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\Assets\\Environment\\Surface\\Surface_descent_v006.blend",
+        "exists": true
+      },
+      {
+        "path": "//..\\Assets\\Environment\\Borehole\\World_environment_v011.blend",
+        "exists": true
+      }
+    ],
+    "checks": {
+      "world_only_connected_scene_root": true,
+      "v010_geometry_keys_transforms_exact": true,
+      "original_collection_memberships_hideflags_exact": true,
+      "previous_connected_members_exact": true,
+      "builder_geometry_preservation_bound_to_current_hash": true,
+      "expected_final_world_sha": true,
+      "world_libraries_resolve": true,
+      "demo_connected_geometry_matches_master": true,
+      "demo_links_resolve": true,
+      "demo_bytes_same_as_previous_camera_proof": true,
+      "all_read_inputs_unchanged": true
+    },
+    "proof_reuse": "Original full528 camera proof retained because demo bytes unchanged. Fresh v010 comparison independently rechecks original geometry/keys/transforms/membership/hide flags. Regional before-after preservation is builder-attested and bound to released hash; fresh demo linked collection matches current master."
+  }
+}
