@@ -1,0 +1,46 @@
+{
+  "size": [
+    1280,
+    720
+  ],
+  "method": "GPU viewport scene with fixed-pixel guides",
+  "timing": "frame evaluation through PNG saved",
+  "records": [
+    {
+      "frame": 1,
+      "seconds": 1.3629982999991626
+    },
+    {
+      "frame": 80,
+      "seconds": 1.6554309999919496
+    },
+    {
+      "frame": 95,
+      "seconds": 1.5369245000038063
+    },
+    {
+      "frame": 106,
+      "seconds": 1.5106391000008443
+    },
+    {
+      "frame": 123,
+      "seconds": 0.9559192000015173
+    },
+    {
+      "frame": 157,
+      "seconds": 0.8786712000000989
+    },
+    {
+      "frame": 318,
+      "seconds": 0.8767885999986902
+    },
+    {
+      "frame": 432,
+      "seconds": 1.076224500007811
+    },
+    {
+      "frame": 528,
+      "seconds": 1.3114861000067322
+    }
+  ]
+}

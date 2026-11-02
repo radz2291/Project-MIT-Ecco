@@ -1,0 +1,26 @@
+{
+  "size": [
+    1920,
+    1080
+  ],
+  "method": "GPU viewport scene with fixed-pixel guides",
+  "timing": "frame evaluation through PNG saved",
+  "records": [
+    {
+      "frame": 80,
+      "seconds": 1.5605648000055226
+    },
+    {
+      "frame": 106,
+      "seconds": 1.6926856000063708
+    },
+    {
+      "frame": 432,
+      "seconds": 1.15950540000631
+    },
+    {
+      "frame": 528,
+      "seconds": 1.459846000012476
+    }
+  ]
+}
