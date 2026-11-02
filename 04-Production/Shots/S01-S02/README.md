@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v017.blend`. Camera pullback restored after scan three while scans four to six continue. Actual previs v011 arc/lens change is aligned to the current close-up and retimed to 474–720, then wide hold to756. All six approved shared-v021 exchanges retain their timing and geometry. Shot viewing wedge now protects all six target panels. [Current camera handoff](Notes/camera_v017_handoff.md). Scene31.5seconds; component approved, whole-shot review remains open. v016 and its full preview are retained as the prior camera version.
+Current: `Scenes/S01-S02_production_v018.blend`. Final-display content review: old previs target plates/history helpers excluded from viewport exports; decorative measurement point markers disabled in a local style copy, with surface lines/fill retained. Approved shared-v021 exchanges and v017 camera remain. Two1920x1080stills: `Previews/Final-display-v018/close_final_v018.png` (335) and `wide_final_v018.png` (756). [Visibility profile and current handoff](Notes/final_display_v018_handoff.md). Owner confirmation pending; no new full animation render or AI stylization performed.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 

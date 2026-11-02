@@ -1,0 +1,27 @@
+{
+  "status": "complete",
+  "rows": [
+    {
+      "frame": 335,
+      "size": [
+        1920,
+        1080
+      ],
+      "seconds": 0.3669299000011961,
+      "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\Final-display-v018\\close_final_v018.png"
+    },
+    {
+      "frame": 756,
+      "size": [
+        1920,
+        1080
+      ],
+      "seconds": 0.5721025000002555,
+      "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\Final-display-v018\\wide_final_v018.png"
+    }
+  ],
+  "content": "Owner final-display content review for AI-reference pipeline, Workbench, no UI overlays. Native24FPS scene; only two stills rendered.",
+  "excluded": "Old previs target plates/history helpers and extra point markers.",
+  "preserved": "Native surface lines/fill/tile animation, beam/pulse/contact, physical BHA/environment, v017 camera and owner-approved environment motion grids.",
+  "owner_confirmation": "pending"
+}

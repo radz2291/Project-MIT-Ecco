@@ -1,0 +1,49 @@
+{
+  "status": "complete",
+  "rows": [
+    {
+      "frame": 315,
+      "size": [
+        640,
+        360
+      ],
+      "seconds": 0.335882399998809
+    },
+    {
+      "frame": 756,
+      "size": [
+        640,
+        360
+      ],
+      "seconds": 0.351047699999981
+    },
+    {
+      "frame": 315,
+      "size": [
+        1920,
+        1080
+      ],
+      "seconds": 0.5953318000010768
+    },
+    {
+      "frame": 756,
+      "size": [
+        1920,
+        1080
+      ],
+      "seconds": 0.4772823999992397
+    },
+    {
+      "frame": 335,
+      "size": [
+        1920,
+        1080
+      ],
+      "seconds": 0.48977259999992384
+    }
+  ],
+  "content": "Final display candidate for AI-reference playblast; Workbench material view, no UI overlays. Owner confirmation pending.",
+  "not_included": "Old target plates/history helpers, extra fine-point overlay, obsolete impact effects.",
+  "selected_close_frame": 335,
+  "selected_wide_frame": 756
+}
