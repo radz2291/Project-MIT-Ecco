@@ -1,0 +1,313 @@
+{
+  "frame_tested": 106,
+  "checks": {
+    "preset": {
+      "World pixel_CUT_FACES": {
+        "edges": 164,
+        "axes": {
+          "0": 92,
+          "1": 72
+        }
+      },
+      "World pixel_SEABED": {
+        "edges": 140,
+        "axes": {
+          "2": 140
+        }
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 34400,
+        "axes": {
+          "3": 18080,
+          "4": 16320
+        }
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 40552,
+        "axes": {
+          "3": 11752,
+          "4": 28800
+        }
+      }
+    },
+    "Show bore off": {
+      "World pixel_CUT_FACES": {
+        "edges": 164,
+        "axes": {
+          "0": 92,
+          "1": 72
+        }
+      },
+      "World pixel_SEABED": {
+        "edges": 140,
+        "axes": {
+          "2": 140
+        }
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 0,
+        "axes": {}
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 0,
+        "axes": {}
+      }
+    },
+    "Show cut faces off": {
+      "World pixel_CUT_FACES": {
+        "edges": 0,
+        "axes": {}
+      },
+      "World pixel_SEABED": {
+        "edges": 140,
+        "axes": {
+          "2": 140
+        }
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 34400,
+        "axes": {
+          "3": 18080,
+          "4": 16320
+        }
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 40552,
+        "axes": {
+          "3": 11752,
+          "4": 28800
+        }
+      }
+    },
+    "Show seabed off": {
+      "World pixel_CUT_FACES": {
+        "edges": 164,
+        "axes": {
+          "0": 92,
+          "1": 72
+        }
+      },
+      "World pixel_SEABED": {
+        "edges": 0,
+        "axes": {}
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 34400,
+        "axes": {
+          "3": 18080,
+          "4": 16320
+        }
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 40552,
+        "axes": {
+          "3": 11752,
+          "4": 28800
+        }
+      }
+    },
+    "Enabled off": {
+      "World pixel_CUT_FACES": {
+        "edges": 0,
+        "axes": {}
+      },
+      "World pixel_SEABED": {
+        "edges": 0,
+        "axes": {}
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 0,
+        "axes": {}
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 0,
+        "axes": {}
+      }
+    },
+    "Bore ring spacing m test": {
+      "World pixel_CUT_FACES": {
+        "edges": 164,
+        "axes": {
+          "0": 92,
+          "1": 72
+        }
+      },
+      "World pixel_SEABED": {
+        "edges": 140,
+        "axes": {
+          "2": 140
+        }
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 88400,
+        "axes": {
+          "3": 72080,
+          "4": 16320
+        }
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 75652,
+        "axes": {
+          "3": 46852,
+          "4": 28800
+        }
+      }
+    },
+    "Bore lengthwise spacing deg test": {
+      "World pixel_CUT_FACES": {
+        "edges": 164,
+        "axes": {
+          "0": 92,
+          "1": 72
+        }
+      },
+      "World pixel_SEABED": {
+        "edges": 140,
+        "axes": {
+          "2": 140
+        }
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 58880,
+        "axes": {
+          "3": 18080,
+          "4": 40800
+        }
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 76552,
+        "axes": {
+          "3": 11752,
+          "4": 64800
+        }
+      }
+    },
+    "Depth spacing m test": {
+      "World pixel_CUT_FACES": {
+        "edges": 146,
+        "axes": {
+          "0": 74,
+          "1": 72
+        }
+      },
+      "World pixel_SEABED": {
+        "edges": 140,
+        "axes": {
+          "2": 140
+        }
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 34400,
+        "axes": {
+          "3": 18080,
+          "4": 16320
+        }
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 40552,
+        "axes": {
+          "3": 11752,
+          "4": 28800
+        }
+      }
+    },
+    "Radial spacing m test": {
+      "World pixel_CUT_FACES": {
+        "edges": 128,
+        "axes": {
+          "0": 92,
+          "1": 36
+        }
+      },
+      "World pixel_SEABED": {
+        "edges": 140,
+        "axes": {
+          "2": 140
+        }
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 34400,
+        "axes": {
+          "3": 18080,
+          "4": 16320
+        }
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 40552,
+        "axes": {
+          "3": 11752,
+          "4": 28800
+        }
+      }
+    }
+  },
+  "restored": {
+    "Enabled": true,
+    "Show cut faces": true,
+    "Show seabed": true,
+    "Show bore": true,
+    "Depth spacing m": 20.0,
+    "Radial spacing m": 5.0,
+    "Seabed spacing m": 10.0,
+    "Bore ring spacing m": 4.0,
+    "Stroke shade": 0.008,
+    "meaning": "World-anchored edge guides drawn with a fixed screen-pixel GPU stroke. Run pixel_guides_viewport.py install() after reopening; use export() for playblast.",
+    "Line width px": 1.2,
+    "Line opacity": 0.8,
+    "Bore lengthwise spacing deg": 90.0
+  },
+  "panel_registered": true,
+  "native": {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v006.blend",
+    "sha256": "7690e730e755d30c9db458d91d906c5a71413845bf6da52f92da25fe73d69094",
+    "reopened": true,
+    "panel_restored": true,
+    "frame": 220
+  },
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v015.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v013.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v014.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v003.blend",
+      "exists": true
+    }
+  ]
+}

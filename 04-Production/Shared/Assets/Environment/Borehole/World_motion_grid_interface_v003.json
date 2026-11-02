@@ -1,0 +1,48 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v003.blend",
+  "sha256": "347e5eb24bd0f2fc3febde9b5ea20ab17cacda25c7715f1e42a80e116e132322",
+  "predecessor": "World_motion_grid_v002.blend",
+  "node_group": "WORLD pixel guide controls v003",
+  "defaults": {
+    "Enabled": false,
+    "Show cut faces": true,
+    "Show seabed": true,
+    "Show bore": true,
+    "Depth spacing m": 20.0,
+    "Radial spacing m": 5.0,
+    "Seabed spacing m": 10.0,
+    "Bore ring spacing m": 4.0,
+    "Bore lengthwise spacing deg": 90.0
+  },
+  "records": [
+    {
+      "object": "WORLD_PIXEL_CUT_FACES",
+      "vertices": 4324,
+      "edges": 2162,
+      "faces": 0
+    },
+    {
+      "object": "WORLD_PIXEL_SEABED",
+      "vertices": 2872,
+      "edges": 1436,
+      "faces": 0
+    },
+    {
+      "object": "WORLD_PIXEL_BORE_RETAINED",
+      "vertices": 225760,
+      "edges": 112880,
+      "faces": 0
+    },
+    {
+      "object": "WORLD_PIXEL_BORE_FRONT",
+      "vertices": 223304,
+      "edges": 111652,
+      "faces": 0
+    }
+  ],
+  "consumer": "S01-S02 production v006 only",
+  "renderer_script": "Scripts/pixel_guides_viewport.py",
+  "stroke": "Fixed screen pixels, no surface strips",
+  "source_world": "World_environment_v014.blend",
+  "status": "Owner-requested sparse cave/denser cut-face trial; not accepted or measured data"
+}

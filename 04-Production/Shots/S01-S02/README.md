@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v005.blend`, saved/open at frame106. Updated2 November2026: optional fixed-pixel guides on cut faces, seabed and bore. Run embedded START HERE pixel-guides text after reopening; see latest [handoff](Notes/pixel_grid_v005_handoff.md). Prior [entry handoff](Notes/entry_v004_handoff.md); [shared successors](../../Shared/Assets/Entry_presentation_v001.md).
+Current: `Scenes/S01-S02_production_v006.blend`, saved/open at frame220. Updated2 November2026: much sparser cave grid, denser cut-earth grid; N → World Grid panel has density and independent visibility controls. Run embedded START HERE pixel-guides text after reopening; see latest [handoff](Notes/grid_v006_handoff.md). Prior [entry handoff](Notes/entry_v004_handoff.md); [shared successors](../../Shared/Assets/Entry_presentation_v001.md).
 ECCO-057: 2cd3cc2d-92b1-456c-92c6-556fb4526f4f. First collaboration checkpoint; incomplete, not submitted for acceptance.
 
 Baseline: `05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend`, frames 1–528 at 24 fps (22 seconds); handoff frame 240. Source preserved. Camera matrices/lenses match eight sampled frames; original event animation retained.
