@@ -1,0 +1,24 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v024.blend",
+  "sha256": "895302d15e6a50e548b1bdff1c28f5d562256cf94580b431f56308fc5cd4301d",
+  "source": "S01-S02_production_v023.blend",
+  "original_reference_object": "ONE GRID - every fourth contour",
+  "previous_radius_m": 0.00019999999494757503,
+  "restored_radius_m": 0.0020000000949949026,
+  "material": "Unified wall pale major contours",
+  "rgba": [
+    0.6000000238418579,
+    0.8999999761581421,
+    1.0,
+    0.949999988079071
+  ],
+  "spacing_m": 0.24,
+  "scope": "Only major contour curve profile thickness restored. Old independently timed curve objects stay disabled.",
+  "preserved": [
+    "v023gentlerevealvisible520",
+    "laterupwardsweep/camera",
+    "sixapprovedscans/blue/continuation/closedwide",
+    "finaldisplaycleanup",
+    "sharedmasters"
+  ]
+}

@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v023.blend`. Upward reveal gently visible at520instead of550; only early history timing advanced, smoothly rejoining v022by620. Camera, sixbeam/localtileanimations and later sweep retained. [Current handoff](Notes/early_onset_v023_handoff.md). Short reviewed12FPSproof: `Previews/Early-onset-v023/early_onset_v023.mp4` (508–572,2.75seconds). Owner review remains open.
+Current: `Scenes/S01-S02_production_v024.blend`. Restored pale major contour rings at the original2mmradius; they remain generated from the revealed shell, synchronized to approved v023motionat520. [Current handoff](Notes/major_contours_v024_handoff.md). Two1080pstills: `Previews/Major-contours-v024/during_reveal.png` (620), `wide.png` (756). Camera/reveal timing unchanged; owner review remains open.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 
