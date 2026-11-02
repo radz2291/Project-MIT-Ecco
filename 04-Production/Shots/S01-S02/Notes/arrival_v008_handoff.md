@@ -1,4 +1,6 @@
-# Progressive product-arrival trial — v008
+# Progressive product-arrival trial — v008 (not selected)
+
+Owner decision2 November2026: keep original v007 motion. v008 is retained as an unused comparison trial; v007 is restored as current.
 
 ECCO-057,2 November2026. Owner requests a clear fade in travel speed before the product close-up so the viewer feels the approach is nearly complete. Owner clarified the slowdown should be around180. This matches the first product arrival: the trial is clearly braking around180 and settles into the close-up at240. The affected camera span is141–240.
 
