@@ -1,0 +1,19 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v004.blend",
+  "sha256": "e9eb5fee8885814bbbb8936ae94271c2d7c67244dfdc249bc1b78014f10db245",
+  "saved_frame": 95,
+  "range": [
+    85,
+    105
+  ],
+  "fps": 24,
+  "frames": 21,
+  "max_render_to_file_s": 1.0640787000011187,
+  "min_render_to_file_s": 0.9280193000013242,
+  "source_camera_entry_retime": "Smooth up to2-frame advance89\u2013112, rock at95. Original action retained; later112\u2013528 curves match exactly.",
+  "assets": [
+    "Surface v008 trial",
+    "World v014 unchanged"
+  ],
+  "media_backup": "Local only, no new off-machine backup."
+}

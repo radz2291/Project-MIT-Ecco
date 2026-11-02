@@ -1,0 +1,62 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v008.blend",
+  "sha256": "556c1d41d30ae86928e9431e6965bc78edb1d37176756ae5fcf503e41eeb001c",
+  "sources": {
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v007.blend": "af156a2ea1aa6d8c6609c954ae213755c71572762acd03c72ca5fb1a30743e94",
+    "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Archive\\2026-10-31\\Assets\\Surface\\Surface_descent_v004.blend": "ee75cfb3bd6f225ff28b97d1692ee8ba7931ecaf77008b6f4c8f12377acbefc2"
+  },
+  "restored_objects": [
+    "RIG_MarineRiser",
+    "SUBSEA_RiserCoupling",
+    "SUBSEA_RiserCoupling.001",
+    "SUBSEA_RiserCoupling.002",
+    "SUBSEA_RiserCoupling.003",
+    "SUBSEA_RiserCoupling.004",
+    "SUBSEA_RiserCoupling.005",
+    "SUBSEA_RiserCoupling.006",
+    "SUBSEA_RiserCoupling.007",
+    "SUBSEA_RiserCoupling.008",
+    "SUBSEA_RiserCoupling.009",
+    "SUBSEA_RiserCoupling.010",
+    "SUBSEA_RiserCoupling.011",
+    "SUBSEA_RiserCoupling.012",
+    "SUBSEA_RiserCoupling.013",
+    "SUBSEA_Foundation",
+    "SUBSEA_BOPStack",
+    "SUBSEA_BOPStack.001",
+    "SUBSEA_BOPStack.002",
+    "SUBSEA_BOPStack.003"
+  ],
+  "rerouted_auxiliary_lines": [
+    "SUBSEA_AuxiliaryLine",
+    "SUBSEA_AuxiliaryLine.001",
+    "SUBSEA_AuxiliaryLine.002",
+    "SUBSEA_AuxiliaryLine.003",
+    "SUBSEA_AuxiliaryLine.004",
+    "SUBSEA_AuxiliaryLine.005",
+    "SUBSEA_AuxiliaryLine.006",
+    "SUBSEA_AuxiliaryLine.007",
+    "SUBSEA_AuxiliaryLine.008",
+    "SUBSEA_AuxiliaryLine.009",
+    "SUBSEA_AuxiliaryLine.010",
+    "SUBSEA_AuxiliaryLine.011"
+  ],
+  "passage_radius_m": 0.66,
+  "upper_riser_bounds_z": [
+    10,
+    -100
+  ],
+  "sleeve_z": [
+    -100,
+    -120
+  ],
+  "sleeve_inner_radius_m": [
+    1.1,
+    0.63
+  ],
+  "sleeve_terminal_outer_radius_m": 0.65,
+  "camera_actions": 0,
+  "side_wedge": false,
+  "consumer": "S01-S02 production v004 only",
+  "status": "Illustrative camera-entry trial, owner visual review pending; no engineering approval."
+}

@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v003.blend`, saved/open in Blender at frame106. Updated2 November2026 after owner-authorized enclosed-entry restoration. Latest [handoff](Notes/entry_v003_handoff.md); [shared successors](../../Shared/Assets/Entry_presentation_v001.md).
+Current: `Scenes/S01-S02_production_v004.blend`, saved/open in Blender at frame95. Updated2 November2026: continuous pipe-entry trial, rock interior begins95. Latest [handoff](Notes/entry_v004_handoff.md); [shared successors](../../Shared/Assets/Entry_presentation_v001.md).
 ECCO-057: 2cd3cc2d-92b1-456c-92c6-556fb4526f4f. First collaboration checkpoint; incomplete, not submitted for acceptance.
 
 Baseline: `05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend`, frames 1–528 at 24 fps (22 seconds); handoff frame 240. Source preserved. Camera matrices/lenses match eight sampled frames; original event animation retained.
@@ -15,4 +15,4 @@ New previews: `Previews/measurement_cycle1_v002.mp4` (299–326 at24fps) and `Pr
 
 Full-environment640×360 AA5 stills passed2.89–4.50s. A later480×270 test failed at528 (5.514s) and stopped; see Notes/motion_benchmarks_v002.json. Culling benchmark passes1.47–3.20s. No unrestricted full-scene batch profile is claimed. Saved480×270 defaults are inspection settings; benchmark again before any full-scene batch. Rough-v001 stills and evidence retained.
 
-Latest owner priority implemented in v003: World v014 supplies closed start and front sector, with shot-local source-derived widening/retraction; Surface v007 supplies the illustrative subsea viewing passage. Proof `Previews/Entry-v003/S01-S02_entry_reveal_v003.mp4` covers80–152 at24fps, full environment present,0.90–1.26s/frame. Exact camera source samples preserved; enclosure/seabed probes pass; later evaluated measurement wall unchanged. See latest handoff above for evidence/limits. Earlier v002 records below remain historical. Final look, full-journey proof and owner acceptance remain open. Wrap only on his instruction.
+Latest trial v004 replaces the early visible slit with Surface v008's complete viewing passage and flared entry sleeve. Camera timing advances smoothly by up to2f over89–112 so rock begins95, then returns to original timing; later112–528 curves and World v014 reveal unchanged. Proof `Previews/Entry-v004/S01-S02_pipe_to_rock_v004.mp4` covers85–105 at24fps,0.93–1.06s/frame, full environment. Earlier v003 proof remains for comparison. See latest handoff for geometry/timing details and sampled checks. Final look, full-journey proof and owner acceptance remain open. Wrap only on his instruction.
