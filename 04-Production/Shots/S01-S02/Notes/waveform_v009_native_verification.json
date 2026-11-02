@@ -1,0 +1,232 @@
+{
+  "pass": true,
+  "records": [
+    {
+      "version": "007",
+      "camera": "c828c61884330b7eb93d477d70b905e6dadfdc07452fc30342d37b2e759a3b75",
+      "lens": "0a3c2ef4981fe779d267d625766a9b721e10835e10592c9dcb4b945ebe0ec3cb",
+      "wall": {
+        "299": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+        "309": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+        "311": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+        "318": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+        "328": "6edfefac2aa7a41d035c2f44eafaf32fcd2a3a30d7b1d5d83b7950e8a37630a1",
+        "336": "1b3931c5878edb0e67343a0a302b980e8aec4405401a5c9298dc71bbe9470ed7"
+      },
+      "field": {
+        "299": {
+          "vertices": 0,
+          "out": null,
+          "ret": null
+        },
+        "309": {
+          "vertices": 7552,
+          "out": null,
+          "ret": null
+        },
+        "311": {
+          "vertices": 2944,
+          "out": null,
+          "ret": null
+        },
+        "318": {
+          "vertices": 8576,
+          "out": null,
+          "ret": null
+        },
+        "328": {
+          "vertices": 0,
+          "out": null,
+          "ret": null
+        },
+        "336": {
+          "vertices": 0,
+          "out": null,
+          "ret": null
+        }
+      },
+      "wave_groups": {
+        "WF sequence event 1": [
+          "WF_FIELD_LIVE_v014"
+        ],
+        "WF sequence event 2": [
+          "WF_FIELD_LIVE_v014"
+        ],
+        "WF sequence event 3": [
+          "WF_FIELD_LIVE_v014"
+        ],
+        "WF sequence event 4": [
+          "WF_FIELD_LIVE_v014"
+        ],
+        "WF sequence event 5": [
+          "WF_FIELD_LIVE_v014"
+        ],
+        "WF sequence event 6": [
+          "WF_FIELD_LIVE_v014"
+        ]
+      },
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v008.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v015.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v013.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v014.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v003.blend",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "version": "009",
+      "camera": "c828c61884330b7eb93d477d70b905e6dadfdc07452fc30342d37b2e759a3b75",
+      "lens": "0a3c2ef4981fe779d267d625766a9b721e10835e10592c9dcb4b945ebe0ec3cb",
+      "wall": {
+        "299": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+        "309": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+        "311": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+        "318": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+        "328": "6edfefac2aa7a41d035c2f44eafaf32fcd2a3a30d7b1d5d83b7950e8a37630a1",
+        "336": "1b3931c5878edb0e67343a0a302b980e8aec4405401a5c9298dc71bbe9470ed7"
+      },
+      "field": {
+        "299": {
+          "vertices": 0,
+          "out": null,
+          "ret": null
+        },
+        "309": {
+          "vertices": 20608,
+          "out": 1.0,
+          "ret": 0.0
+        },
+        "311": {
+          "vertices": 15616,
+          "out": 0.5,
+          "ret": 0.17860622704029083
+        },
+        "318": {
+          "vertices": 0,
+          "out": null,
+          "ret": null
+        },
+        "328": {
+          "vertices": 0,
+          "out": null,
+          "ret": null
+        },
+        "336": {
+          "vertices": 0,
+          "out": null,
+          "ret": null
+        }
+      },
+      "wave_groups": {
+        "WF sequence event 1": [
+          "WF_FIELD_LIVE_v016"
+        ],
+        "WF sequence event 2": [
+          "WF_FIELD_LIVE_v014"
+        ],
+        "WF sequence event 3": [
+          "WF_FIELD_LIVE_v014"
+        ],
+        "WF sequence event 4": [
+          "WF_FIELD_LIVE_v014"
+        ],
+        "WF sequence event 5": [
+          "WF_FIELD_LIVE_v014"
+        ],
+        "WF sequence event 6": [
+          "WF_FIELD_LIVE_v014"
+        ]
+      },
+      "libraries": [
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v008.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v015.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v016.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v013.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v014.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v001.blend",
+          "exists": true
+        },
+        {
+          "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v003.blend",
+          "exists": true
+        }
+      ]
+    }
+  ],
+  "no_native_save": true
+}

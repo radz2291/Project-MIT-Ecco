@@ -1,0 +1,74 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Waveform_demo_v016.blend",
+  "cases": [
+    {
+      "name": "01 Organic reference",
+      "preset": 0,
+      "start": 8.0,
+      "contact": 20.0,
+      "receipt": 62.0,
+      "delay": 0.0,
+      "travel": 12.0,
+      "return": 12.0,
+      "gap": 0.0245758537,
+      "cased": 0,
+      "range": [
+        1,
+        96
+      ],
+      "measure": 68.0
+    },
+    {
+      "name": "02 Short S01-S02",
+      "preset": 1,
+      "start": 300.0,
+      "contact": 309.0,
+      "receipt": 318.0,
+      "delay": 1.0,
+      "travel": 9.0,
+      "return": 8.0,
+      "gap": 0.0245758519,
+      "cased": 0,
+      "range": [
+        298,
+        326
+      ],
+      "measure": 319.0
+    },
+    {
+      "name": "03 Short S04 open",
+      "preset": 1,
+      "start": 72.59999847,
+      "contact": 80.91999817,
+      "receipt": 90.51999664,
+      "delay": 0.63999939,
+      "travel": 8.31999969,
+      "return": 8.95999908,
+      "gap": 0.0278588248,
+      "cased": 0,
+      "range": [
+        70,
+        96
+      ],
+      "measure": 91.51999664
+    },
+    {
+      "name": "04 Short S04 cased",
+      "preset": 1,
+      "start": 184.6000061,
+      "contact": 192.91999817,
+      "receipt": 202.52000427,
+      "delay": 0.63999939,
+      "travel": 8.31999207,
+      "return": 8.96000671,
+      "gap": 0.0278711039,
+      "cased": 1,
+      "range": [
+        182,
+        208
+      ],
+      "measure": 203.52000427
+    }
+  ],
+  "scope": "isolated reusable fixtures, no approved S04 integration"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "waveform_v009",
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\Waveform-v009\\S01-S02_waveform_v009.mp4",
+    "frames": 38,
+    "fps": 24,
+    "decode_passed": true,
+    "sha256": "755EA4F44F36786621981CED36AEBC216EA0AD535C6F296150969579414EB02E"
+  },
+  {
+    "name": "waveform_v016_organic",
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Previews\\Waveform_v016\\organic_v016.mp4",
+    "frames": 96,
+    "fps": 24,
+    "decode_passed": true,
+    "sha256": "89AED0D4292DD053FE47786D20B4CEE37BC6A2A05B5A2967313F26E345BDFCBC"
+  },
+  {
+    "name": "waveform_v016_open",
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Previews\\Waveform_v016\\open_v016.mp4",
+    "frames": 27,
+    "fps": 24,
+    "decode_passed": true,
+    "sha256": "8463E85290EDC61E0257ACC79F5B68CA01E1279E477889EB56B3A0E01C331D9C"
+  },
+  {
+    "name": "waveform_v016_cased",
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Previews\\Waveform_v016\\cased_v016.mp4",
+    "frames": 27,
+    "fps": 24,
+    "decode_passed": true,
+    "sha256": "2D6645F2DE41F4AFC58FCAD34592DCC4FF879C4D39010A71D9E89B8EDCC5D3DC"
+  },
+  {
+    "name": "waveform_v009_comparison",
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\Waveform-v009\\compare_v007_left_v009_right.mp4",
+    "frames": 38,
+    "fps": 24,
+    "decode_passed": true,
+    "sha256": "1CE197C6AE35D5B7C48224C7B885D4371F7AD9414823C339E4CBB7347BDF2217"
+  },
+  {
+    "name": "waveform_v009_comparison_3x",
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\Waveform-v009\\compare_v007_left_v009_right_3x.mp4",
+    "frames": 114,
+    "fps": 24,
+    "decode_passed": true,
+    "sha256": "A8E47CF3B87401487A33C270CA25609041782D4F12097EECE2C4E0FF05BF06BD"
+  }
+]

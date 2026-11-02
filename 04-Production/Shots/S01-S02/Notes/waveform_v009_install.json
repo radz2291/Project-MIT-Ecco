@@ -1,0 +1,48 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v009.blend",
+  "object": "WF sequence event 1",
+  "before": {
+    "Start Frame": 300.0,
+    "Playback Override": 1.0,
+    "Duration Override": 3.0,
+    "Travel Override": 9.0,
+    "Echo Delay Frames": 1.0,
+    "Return Travel Override": 8.0,
+    "Outbound End Frame": 309.010009765625,
+    "Return End Frame": 318.010009765625,
+    "Lock Event Timing": 1.0,
+    "Frequency Override": 1.0,
+    "Strength Override": 1.0,
+    "Echo Override": 1.0,
+    "Decay Override": 1.0,
+    "Radius Override": 3.0,
+    "Width Override": 1.0,
+    "Height Override": 1.0,
+    "Gap Length m": 0.0245758518576622,
+    "Preset 0 Open 1 Cased": 0,
+    "Enabled": 1.0,
+    "Route Axis": [
+      0.358367919921875,
+      -0.9335803985595703,
+      0.0
+    ],
+    "Transverse Axis": [
+      -0.9335805177688599,
+      -0.3583679497241974,
+      0.0
+    ],
+    "Up Axis": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "changes": {
+    "Motion Preset 0 Organic 1 Short": 1,
+    "Contact Frame": 309.0,
+    "Receipt Frame": 318.0,
+    "Radius Override": 1.0
+  },
+  "other_events": "2\u20136 remain v015",
+  "camera": "original v007 action unchanged"
+}

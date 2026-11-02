@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v007.blend`. Owner chose the original approach on2 November2026 after comparing v008; the slowdown trial is retained but not selected. Full22s1080p render: [v007 handoff](Notes/full_v007_handoff.md). Grids remain horizontal/vertical5m, cave4m/90deg; N → World Grid controls. Run embedded START HERE pixel-guides text after reopening.
+Current waveform trial: `Scenes/S01-S02_production_v009.blend`, saved/open311. Sharedv016 Short preset is applied to event1 only; other events stayv015. Originalv007 camera is retained. [Candidate proof and comparison](Notes/waveform_v009_handoff.md); full22s baseline remains [v007](Notes/full_v007_handoff.md). v008 slowdown remains unselected. Grid controls: N → World Grid; run START HERE pixel-guides text after reopening.
 ECCO-057: 2cd3cc2d-92b1-456c-92c6-556fb4526f4f. First collaboration checkpoint; incomplete, not submitted for acceptance.
 
 Baseline: `05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend`, frames 1–528 at 24 fps (22 seconds); handoff frame 240. Source preserved. Camera matrices/lenses match eight sampled frames; original event animation retained.

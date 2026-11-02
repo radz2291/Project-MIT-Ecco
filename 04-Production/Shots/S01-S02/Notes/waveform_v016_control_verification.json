@@ -1,0 +1,17 @@
+{
+  "pass": true,
+  "organic_unaffected_by_short_style": true,
+  "seven_shared_controls_change_and_restore_geometry": [
+    "Short Crests",
+    "Short Packet Fraction",
+    "Short Contact Blend Frames",
+    "Short Return Fade Frames",
+    "Short Stroke Factor",
+    "Short Taper Power",
+    "Short Height Fraction"
+  ],
+  "locked_playback_does_not_move_or_change_event": true,
+  "s04_rotated_basis_max_error_m": 2.199371601507849e-09,
+  "master_file_unchanged": true,
+  "no_native_save": true
+}

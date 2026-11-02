@@ -1,0 +1,1131 @@
+{
+  "cases": [
+    {
+      "case": {
+        "name": "01 Organic reference",
+        "preset": 0,
+        "start": 8.0,
+        "contact": 20.0,
+        "receipt": 62.0,
+        "delay": 0.0,
+        "travel": 12.0,
+        "return": 12.0,
+        "gap": 0.0245758537,
+        "cased": 0,
+        "range": [
+          1,
+          96
+        ],
+        "measure": 68.0
+      },
+      "samples": {
+        "1": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        },
+        "12": {
+          "vertices": 7680,
+          "height": 0.0025699154939502478,
+          "width": 0.01630546897649765,
+          "hash": "0f5387b348be07db20daf46ffc4ff3820d457fca5336cb74ebba9b33fa73ce47",
+          "out": 0.0,
+          "ret": 0.0,
+          "radius_min": 1.7999671399593353e-05,
+          "radius_max": 1.8000137060886543e-05
+        },
+        "30": {
+          "vertices": 23168,
+          "height": 0.03521919157356024,
+          "width": 0.04003600776195526,
+          "hash": "3b7720b26c581d25f519de6e80a6063bf3a294809e3adcde3103c4e5eb60e920",
+          "out": 0.0,
+          "ret": 0.0,
+          "radius_min": 1.7999671399593353e-05,
+          "radius_max": 1.8000602722544414e-05
+        },
+        "54": {
+          "vertices": 15360,
+          "height": 0.006791527383029461,
+          "width": 0.025779295712709427,
+          "hash": "a81b0e7290f198f1d167defddd16763efee16a243721565fc545d42b3d837a9e",
+          "out": 0.0,
+          "ret": 0.0,
+          "radius_min": 1.7999671399593353e-05,
+          "radius_max": 1.8000137060904188e-05
+        },
+        "62": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        },
+        "96": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        }
+      }
+    },
+    {
+      "case": {
+        "name": "02 Short S01-S02",
+        "preset": 1,
+        "start": 300.0,
+        "contact": 309.0,
+        "receipt": 318.0,
+        "delay": 1.0,
+        "travel": 9.0,
+        "return": 8.0,
+        "gap": 0.0245758519,
+        "cased": 0,
+        "range": [
+          298,
+          326
+        ],
+        "measure": 319.0
+      },
+      "samples": {
+        "before": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        },
+        "onset": {
+          "vertices": 2560,
+          "height": 0.00256416795309633,
+          "width": 0.015143253840506077,
+          "hash": "858b806d7534854551e6faa91f6f1a19cbba2f114ded297866162bd1bb46cdf6",
+          "out": 0.1430351436138153,
+          "ret": 0.0,
+          "radius_min": 1.6041667549870908e-07,
+          "radius_max": 7.627997547388077e-06
+        },
+        "precontact": {
+          "vertices": 20608,
+          "height": 0.023022733628749847,
+          "width": 0.04005400836467743,
+          "hash": "5d3241dc72358ae7557a928b0f9c5fcb0e976dff85e29a48759389b79232f364",
+          "out": 1.0,
+          "ret": 0.0,
+          "radius_min": 1.603621058166027e-07,
+          "radius_max": 2.7000904083251953e-05
+        },
+        "blend": {
+          "vertices": 15616,
+          "height": 0.011215936858206987,
+          "width": 0.02831868827342987,
+          "hash": "742dc4053de719cd30631cda7035ae3422b1637307782f281de85b3131be4ac1",
+          "out": 0.5,
+          "ret": 0.17860622704029083,
+          "radius_min": 1.0222720447927713e-07,
+          "radius_max": 1.7206650227308273e-05
+        },
+        "return": {
+          "vertices": 17280,
+          "height": 0.00878577958792448,
+          "width": 0.029851095750927925,
+          "hash": "b3aacf1a61463e01800b03e60e71fd34f013a3aa8c8238bc5944c676e2ebb4cc",
+          "out": 0.0,
+          "ret": 0.7407407164573669,
+          "radius_min": 1.0947405826300383e-07,
+          "radius_max": 1.8426391761749983e-05
+        },
+        "receipt": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        },
+        "after": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        }
+      },
+      "context_switch_restores": true
+    },
+    {
+      "case": {
+        "name": "03 Short S04 open",
+        "preset": 1,
+        "start": 72.59999847,
+        "contact": 80.91999817,
+        "receipt": 90.51999664,
+        "delay": 0.63999939,
+        "travel": 8.31999969,
+        "return": 8.95999908,
+        "gap": 0.0278588248,
+        "cased": 0,
+        "range": [
+          70,
+          96
+        ],
+        "measure": 91.51999664
+      },
+      "samples": {
+        "before": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        },
+        "onset": {
+          "vertices": 2816,
+          "height": 0.002988409425597638,
+          "width": 0.0163107980042696,
+          "hash": "dd9b75350d0c3fd6f5bb9fc5e8efff40507f4ba6c7c2d9734ced36dca4087b04",
+          "out": 0.16593390703201294,
+          "ret": 0.0,
+          "radius_min": 8.882489055395126e-08,
+          "radius_max": 8.400995284318924e-06
+        },
+        "precontact": {
+          "vertices": 20736,
+          "height": 0.023084004409611225,
+          "width": 0.04005395621061325,
+          "hash": "5dc6b8e381836b24478f17aedfa2e0f30a9ad21810443a9050e79bd282acb708",
+          "out": 0.9999974966049194,
+          "ret": 0.0,
+          "radius_min": 6.191385182319209e-09,
+          "radius_max": 2.6999972760693025e-05
+        },
+        "blend": {
+          "vertices": 15232,
+          "height": 0.0101606291718781,
+          "width": 0.02831830084323883,
+          "hash": "41a3b150c9022a0d3cf7881f63e40f10fd94bba82766d0cd907eb742736a1824",
+          "out": 0.49998635053634644,
+          "ret": 0.25541770458221436,
+          "radius_min": 6.80010998621583e-08,
+          "radius_max": 1.7206300981342793e-05
+        },
+        "return": {
+          "vertices": 17920,
+          "height": 0.00854718079790473,
+          "width": 0.0298509169369936,
+          "hash": "5b155bf91a345b24b706730a61e6420d2ab026ad15fa2ee6977b18e68ec14e9c",
+          "out": 0.0,
+          "ret": 0.7407317757606506,
+          "radius_min": 8.477582014165819e-08,
+          "radius_max": 1.842621713876868e-05
+        },
+        "receipt": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        },
+        "after": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        }
+      },
+      "context_switch_restores": true
+    },
+    {
+      "case": {
+        "name": "04 Short S04 cased",
+        "preset": 1,
+        "start": 184.6000061,
+        "contact": 192.91999817,
+        "receipt": 202.52000427,
+        "delay": 0.63999939,
+        "travel": 8.31999207,
+        "return": 8.96000671,
+        "gap": 0.0278711039,
+        "cased": 1,
+        "range": [
+          182,
+          208
+        ],
+        "measure": 203.52000427
+      },
+      "samples": {
+        "before": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        },
+        "onset": {
+          "vertices": 2816,
+          "height": 0.002072095579933375,
+          "width": 0.013628426007926464,
+          "hash": "1f576f153f4adf65a1cd6753009b6d54ee108cb1307a12c9a10f1d42fccc8797",
+          "out": 0.11585719883441925,
+          "ret": 0.0,
+          "radius_min": 2.831075107678771e-08,
+          "radius_max": 6.651505827903748e-06
+        },
+        "precontact": {
+          "vertices": 20736,
+          "height": 0.022951284423470497,
+          "width": 0.040053945034742355,
+          "hash": "4fb88231899f0a91ede9a5d018ae2babb7c2f68dcc9c6b4163009b51bcffcf17",
+          "out": 0.9999970197677612,
+          "ret": 0.0,
+          "radius_min": 1.1582415027078241e-09,
+          "radius_max": 2.6999972760677338e-05
+        },
+        "blend": {
+          "vertices": 15232,
+          "height": 0.00995240081101656,
+          "width": 0.028318224474787712,
+          "hash": "7ee8656a3c1f2ca0a5e9007c5df1df2cb93fcb99ff7687ae1c842b2fd3d54803",
+          "out": 0.49998360872268677,
+          "ret": 0.19440187513828278,
+          "radius_min": 2.248260422277326e-08,
+          "radius_max": 1.7206213669851422e-05
+        },
+        "return": {
+          "vertices": 17920,
+          "height": 0.006754309171810746,
+          "width": 0.029850881546735764,
+          "hash": "0ae73bf6c4576795c41430bb075d1ec27e2227e41ed0cf35ebe8263eb00cdedc",
+          "out": 0.0,
+          "ret": 0.7407300472259521,
+          "radius_min": 2.8898284654133022e-08,
+          "radius_max": 1.842621713877299e-05
+        },
+        "receipt": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        },
+        "after": {
+          "vertices": 0,
+          "height": 0.0,
+          "width": 0.0,
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "out": 0.0,
+          "ret": 0.0
+        }
+      },
+      "context_switch_restores": true
+    }
+  ],
+  "benchmarks": [
+    {
+      "scene": "01 Organic reference",
+      "seconds": 1.3381047999864677,
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "scene": "02 Short S01-S02",
+      "seconds": 0.16341790001024492,
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "scene": "03 Short S04 open",
+      "seconds": 0.16211639999528416,
+      "size": [
+        1280,
+        720
+      ]
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "seconds": 0.18963690000236966,
+      "size": [
+        1280,
+        720
+      ]
+    }
+  ],
+  "batch": [
+    {
+      "scene": "01 Organic reference",
+      "frame": 1,
+      "seconds": 0.08231189999787603
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 2,
+      "seconds": 0.06573950000165496
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 3,
+      "seconds": 0.08292849999270402
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 4,
+      "seconds": 0.08449569999356754
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 5,
+      "seconds": 0.08321260000229813
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 6,
+      "seconds": 0.06909239999367855
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 7,
+      "seconds": 0.06287670000165235
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 8,
+      "seconds": 0.06171280000125989
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 9,
+      "seconds": 0.06392210000194609
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 10,
+      "seconds": 0.06371529999887571
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 11,
+      "seconds": 0.06553920000442304
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 12,
+      "seconds": 0.0651849999994738
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 13,
+      "seconds": 0.08719739998923615
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 14,
+      "seconds": 0.08600090000254568
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 15,
+      "seconds": 0.07698700000764802
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 16,
+      "seconds": 0.10722700000042096
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 17,
+      "seconds": 0.11172179999994114
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 18,
+      "seconds": 0.07519039999169763
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 19,
+      "seconds": 0.0712679999996908
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 20,
+      "seconds": 0.08224120001250412
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 21,
+      "seconds": 0.06623910000780597
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 22,
+      "seconds": 0.07423189999826718
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 23,
+      "seconds": 0.0651681000017561
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 24,
+      "seconds": 0.08153549999406096
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 25,
+      "seconds": 0.09013019999838434
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 26,
+      "seconds": 0.06934810000529978
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 27,
+      "seconds": 0.0711927999946056
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 28,
+      "seconds": 0.06385130000126082
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 29,
+      "seconds": 0.07903120000264607
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 30,
+      "seconds": 0.09656309999991208
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 31,
+      "seconds": 0.06580630000098608
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 32,
+      "seconds": 0.06452930001250934
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 33,
+      "seconds": 0.06596100000024308
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 34,
+      "seconds": 0.0714501000038581
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 35,
+      "seconds": 0.08443499999702908
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 36,
+      "seconds": 0.080183300000499
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 37,
+      "seconds": 0.10844039999938104
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 38,
+      "seconds": 0.09171999999671243
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 39,
+      "seconds": 0.09460569999646395
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 40,
+      "seconds": 0.07770029999664985
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 41,
+      "seconds": 0.08786400000099093
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 42,
+      "seconds": 0.07781919999979436
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 43,
+      "seconds": 0.07354360001045279
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 44,
+      "seconds": 0.07624900000519119
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 45,
+      "seconds": 0.07789460000640247
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 46,
+      "seconds": 0.0790809000027366
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 47,
+      "seconds": 0.08881899999687448
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 48,
+      "seconds": 0.06528029999753926
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 49,
+      "seconds": 0.07656919999863021
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 50,
+      "seconds": 0.12968140000884887
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 51,
+      "seconds": 0.41732090000004973
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 52,
+      "seconds": 0.1640285000030417
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 53,
+      "seconds": 0.10761669999919832
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 54,
+      "seconds": 0.09073550000903197
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 55,
+      "seconds": 0.08567390000098385
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 56,
+      "seconds": 0.07638269999006297
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 57,
+      "seconds": 0.07504460000200197
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 58,
+      "seconds": 0.10334630000579637
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 59,
+      "seconds": 0.09575900000345428
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 60,
+      "seconds": 0.08136510000622366
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 61,
+      "seconds": 0.07294519999413751
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 62,
+      "seconds": 0.07205240000621416
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 63,
+      "seconds": 0.05795239999133628
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 64,
+      "seconds": 0.07291569998778868
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 65,
+      "seconds": 0.07440319999295752
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 66,
+      "seconds": 0.060131600010208786
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 67,
+      "seconds": 0.0686715999909211
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 68,
+      "seconds": 0.07670190000499133
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 69,
+      "seconds": 0.08918920000724029
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 70,
+      "seconds": 0.0981783000024734
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 71,
+      "seconds": 0.0652336000057403
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 72,
+      "seconds": 0.06478369999967981
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 73,
+      "seconds": 0.07037099999433849
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 74,
+      "seconds": 0.06687880000390578
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 75,
+      "seconds": 0.07460400000854861
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 76,
+      "seconds": 0.08002229999692645
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 77,
+      "seconds": 0.07433509999827947
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 78,
+      "seconds": 0.07315350000862963
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 79,
+      "seconds": 0.06802569999126717
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 80,
+      "seconds": 0.06589890000759624
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 81,
+      "seconds": 0.05931860000418965
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 82,
+      "seconds": 0.061039899999741465
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 83,
+      "seconds": 0.06152230000589043
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 84,
+      "seconds": 0.059135999996215105
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 85,
+      "seconds": 0.062276199998450466
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 86,
+      "seconds": 0.06877709999389481
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 87,
+      "seconds": 0.07993239999632351
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 88,
+      "seconds": 0.08037830000102986
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 89,
+      "seconds": 0.12332250000326894
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 90,
+      "seconds": 0.077334300003713
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 91,
+      "seconds": 0.06314620000193827
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 92,
+      "seconds": 0.06865329999709502
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 93,
+      "seconds": 0.08243110000330489
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 94,
+      "seconds": 0.0905437999899732
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 95,
+      "seconds": 0.06344309999258257
+    },
+    {
+      "scene": "01 Organic reference",
+      "frame": 96,
+      "seconds": 0.07476670001051389
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 70,
+      "seconds": 0.0756701000063913
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 71,
+      "seconds": 0.07188460000907071
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 72,
+      "seconds": 0.18365209999319632
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 73,
+      "seconds": 0.15395839999837335
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 74,
+      "seconds": 0.0787311000021873
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 75,
+      "seconds": 0.09833279998565558
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 76,
+      "seconds": 0.14176399999996647
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 77,
+      "seconds": 0.1364839000016218
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 78,
+      "seconds": 0.07512639999913517
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 79,
+      "seconds": 0.08201720000943169
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 80,
+      "seconds": 0.09831429999030661
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 81,
+      "seconds": 0.1287158999912208
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 82,
+      "seconds": 0.08420469998964109
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 83,
+      "seconds": 0.08222509999177419
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 84,
+      "seconds": 0.07997099999920465
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 85,
+      "seconds": 0.06787949999852572
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 86,
+      "seconds": 0.06863770000927616
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 87,
+      "seconds": 0.07142029999522492
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 88,
+      "seconds": 0.08648440000251867
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 89,
+      "seconds": 0.07216619999962859
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 90,
+      "seconds": 0.08843959998921491
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 91,
+      "seconds": 0.06640359999437351
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 92,
+      "seconds": 0.06866739998804405
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 93,
+      "seconds": 0.07236950000515208
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 94,
+      "seconds": 0.07615540000551846
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 95,
+      "seconds": 0.07739639999635983
+    },
+    {
+      "scene": "03 Short S04 open",
+      "frame": 96,
+      "seconds": 0.08196559999487363
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 182,
+      "seconds": 0.0942566000012448
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 183,
+      "seconds": 0.0776456000021426
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 184,
+      "seconds": 0.07768580000265501
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 185,
+      "seconds": 0.08726349999778904
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 186,
+      "seconds": 0.0696507999964524
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 187,
+      "seconds": 0.07411099999444559
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 188,
+      "seconds": 0.0787038999987999
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 189,
+      "seconds": 0.07446049999271054
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 190,
+      "seconds": 0.09732239998993464
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 191,
+      "seconds": 0.11944619999849238
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 192,
+      "seconds": 0.10333680000621825
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 193,
+      "seconds": 0.08048560000315774
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 194,
+      "seconds": 0.08248779999848921
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 195,
+      "seconds": 0.08147260000987444
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 196,
+      "seconds": 0.2789881999924546
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 197,
+      "seconds": 0.09387480000441428
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 198,
+      "seconds": 0.11502670000481885
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 199,
+      "seconds": 0.10595480000483803
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 200,
+      "seconds": 0.10505399999965448
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 201,
+      "seconds": 0.08260579999478068
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 202,
+      "seconds": 0.08192870000493713
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 203,
+      "seconds": 0.06927149998955429
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 204,
+      "seconds": 0.0730524999962654
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 205,
+      "seconds": 0.07132630000705831
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 206,
+      "seconds": 0.08402799999748822
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 207,
+      "seconds": 0.09782880000420846
+    },
+    {
+      "scene": "04 Short S04 cased",
+      "frame": 208,
+      "seconds": 0.08393819999764673
+    }
+  ],
+  "master_unchanged": true,
+  "libraries": [
+    {
+      "path": "//..\\Assets\\Effects\\Waveform\\Waveform_shared_v016.blend",
+      "exists": true
+    }
+  ],
+  "pass": true
+}

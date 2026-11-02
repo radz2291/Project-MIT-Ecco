@@ -1,0 +1,91 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v016.blend",
+  "sha256": "6b40c0843070cd33dc04cc7fffcecc844e36de191cfe28c613de2fb7bdd3748e",
+  "source_v015_sha256": "077d1049759723738849003552311f3346b5ff1abdf75146e195e6da853a1914",
+  "source_unchanged": true,
+  "organic_reference_checks": [
+    {
+      "frame": 1,
+      "vertices": 0,
+      "max_error_m": 0.0
+    },
+    {
+      "frame": 12,
+      "vertices": 7680,
+      "max_error_m": 0.0
+    },
+    {
+      "frame": 18,
+      "vertices": 19200,
+      "max_error_m": 0.0
+    },
+    {
+      "frame": 26,
+      "vertices": 23168,
+      "max_error_m": 0.0
+    },
+    {
+      "frame": 30,
+      "vertices": 23168,
+      "max_error_m": 0.0
+    },
+    {
+      "frame": 38,
+      "vertices": 23168,
+      "max_error_m": 0.0
+    },
+    {
+      "frame": 54,
+      "vertices": 15360,
+      "max_error_m": 0.0
+    },
+    {
+      "frame": 62,
+      "vertices": 0,
+      "max_error_m": 0.0
+    },
+    {
+      "frame": 68,
+      "vertices": 0,
+      "max_error_m": 0.0
+    },
+    {
+      "frame": 96,
+      "vertices": 0,
+      "max_error_m": 0.0
+    }
+  ],
+  "group": "WF_FIELD_LIVE_v016",
+  "presets": {
+    "0": "Organic v015 exact",
+    "1": "Short Event rolling/tapered"
+  },
+  "shared_short_controls": {
+    "Short Crests": 2.0,
+    "Short Packet Fraction": 0.9,
+    "Short Contact Blend Frames": 4.0,
+    "Short Return Fade Frames": 3.0,
+    "Short Stroke Factor": 1.5,
+    "Short Taper Power": 0.65,
+    "Short Height Fraction": 0.65
+  },
+  "local_landmarks": [
+    "Start Frame",
+    "Contact Frame",
+    "Receipt Frame",
+    "Echo Delay Frames"
+  ],
+  "consumers": [
+    "S01-S02 waveform trial v009",
+    "S04 open/cased fixture proof only"
+  ],
+  "status": "candidate, not owner accepted",
+  "shared_counts": {
+    "objects": 2,
+    "meshes": 2,
+    "materials": 1,
+    "groups": 4,
+    "cameras": 0,
+    "libraries": 0
+  }
+}
