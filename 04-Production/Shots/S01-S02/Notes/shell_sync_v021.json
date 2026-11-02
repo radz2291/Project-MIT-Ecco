@@ -1,0 +1,119 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v021.blend",
+  "sha256": "679e7e1074d0f77147d842ef574e44e674ddc1333d243d5a1666bc41e3e01dbe",
+  "common_settled_rgba": [
+    0.03347112161536643,
+    0.4285815403767629,
+    0.92245185324864,
+    0.20103341394569724
+  ],
+  "old_top_z": -724.699951171875,
+  "new_top_z": -720.9189453125,
+  "extension_rings": 253,
+  "original_faces": 41472,
+  "new_faces": 73728,
+  "front_samples": [
+    {
+      "frame": 474,
+      "z": -729.499931640625
+    },
+    {
+      "frame": 486,
+      "z": -729.499931640625
+    },
+    {
+      "frame": 498,
+      "z": -729.499931640625
+    },
+    {
+      "frame": 510,
+      "z": -729.4699316406251
+    },
+    {
+      "frame": 522,
+      "z": -729.379931640625
+    },
+    {
+      "frame": 534,
+      "z": -729.3199316406251
+    },
+    {
+      "frame": 546,
+      "z": -729.259931640625
+    },
+    {
+      "frame": 558,
+      "z": -729.169931640625
+    },
+    {
+      "frame": 570,
+      "z": -729.0799316406251
+    },
+    {
+      "frame": 582,
+      "z": -728.929931640625
+    },
+    {
+      "frame": 594,
+      "z": -728.7199316406251
+    },
+    {
+      "frame": 606,
+      "z": -728.4499316406251
+    },
+    {
+      "frame": 618,
+      "z": -728.0899316406251
+    },
+    {
+      "frame": 630,
+      "z": -727.6099316406251
+    },
+    {
+      "frame": 642,
+      "z": -726.9499316406251
+    },
+    {
+      "frame": 654,
+      "z": -726.019931640625
+    },
+    {
+      "frame": 666,
+      "z": -724.879931640625
+    },
+    {
+      "frame": 678,
+      "z": -723.5899316406251
+    },
+    {
+      "frame": 690,
+      "z": -722.3599316406251
+    },
+    {
+      "frame": 702,
+      "z": -721.6099316406251
+    },
+    {
+      "frame": 714,
+      "z": -721.2199316406251
+    }
+  ],
+  "front_final_z": -721.159931640625,
+  "camera_pull": [
+    474,
+    720
+  ],
+  "reveal_rule": "Camera-projected upper/right .88 crop frontier grows beyond1.12crop; monotonic height and native4frame settling.",
+  "current_faces_preserved": 96,
+  "unchanged": [
+    "six scan events/beam/pulse/contact timing",
+    "camera motion",
+    "closed wide cutaway",
+    "final-display exclusions",
+    "shared masters"
+  ],
+  "legacy_history_grid_disabled": true,
+  "actual_extension_rings": 252,
+  "extension_note": "Explicit absolute ring Z avoids accumulated float step drift; last continuation rows use interpolated recorded camera-front samples.",
+  "scan_tile_edges_preserved": true
+}

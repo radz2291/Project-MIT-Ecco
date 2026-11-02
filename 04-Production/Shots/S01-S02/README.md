@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v020.blend`. Camera-viewing strip closes smoothly474–540 and stays closed for the wide shot. All six acquired patches retain blue after the beam instead of fading almost transparent. v019glitch-derived edges, v018final-display exclusions and v017camera retained. [Current handoff](Notes/persistent_blue_v020_handoff.md). Two1080pproofs: `Previews/Persistent-blue-v020/after_second_beam.png` (414) and `closed_shell_wide.png` (756). Owner visual review remains open; scene31.5seconds, no new full animation render.
+Current: `Scenes/S01-S02_production_v021.blend`. Scanned patches and history settle to one blue; shell extends past the final crop; upward history reveal follows the actual474–720camera pullback. Approved beam/pulse/local tile animation and closed wide shell retained. [Current handoff](Notes/shell_sync_v021_handoff.md). Quick8FPSchanged-section preview: `Previews/Shell-sync-v021-final/camera_reveal_v021.mp4`; two1080pstills beside it. Scene remains31.5seconds/24FPS. Owner review open; no full-shot rerender.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 
