@@ -1,0 +1,66 @@
+{
+  "file": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v007.blend",
+  "sha256": "3364cb533d83d16000e0e15afd516a8a3f817cfa91479121099632fccde724c2",
+  "frame_restored": 155,
+  "controls": {
+    "Enabled": true,
+    "Show cut faces": true,
+    "Show seabed": true,
+    "Show bore": true,
+    "Depth spacing m": 5.0,
+    "Radial spacing m": 5.0,
+    "Seabed spacing m": 10.0,
+    "Bore ring spacing m": 4.0,
+    "Stroke shade": 0.008,
+    "meaning": "World-anchored edge guides drawn with a fixed screen-pixel GPU stroke. Run pixel_guides_viewport.py install() after reopening; use export() for playblast.",
+    "Line width px": 1.2,
+    "Line opacity": 0.8,
+    "Bore lengthwise spacing deg": 90.0
+  },
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v015.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v013.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v014.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v003.blend",
+      "exists": true
+    }
+  ]
+}

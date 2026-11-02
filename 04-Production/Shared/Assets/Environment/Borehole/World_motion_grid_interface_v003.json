@@ -40,7 +40,7 @@
       "faces": 0
     }
   ],
-  "consumer": "S01-S02 production v006 only",
+  "consumer": "S01-S02 production v006 and v007",
   "renderer_script": "Scripts/pixel_guides_viewport.py",
   "stroke": "Fixed screen pixels, no surface strips",
   "source_world": "World_environment_v014.blend",

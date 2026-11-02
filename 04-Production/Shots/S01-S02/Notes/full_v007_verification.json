@@ -1,0 +1,18 @@
+{
+  "frames": 528,
+  "fps": 24,
+  "duration_seconds": 22,
+  "size": [
+    1920,
+    1080
+  ],
+  "all_png_present": true,
+  "decode_passed": true,
+  "minimum_seconds": 0.46194649999961257,
+  "maximum_seconds": 1.451162800003658,
+  "average_seconds": 0.6301102986738194,
+  "export_elapsed_seconds": 440.1254024505615,
+  "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\Full-v007\\S01-S02_full_1080_v007.mp4",
+  "video_sha256": "9804767CDC42E9DB7C7A8C8F5B8C0B8DDA3F3D05688B2FD66876EFFDD6C53EF1",
+  "local_only": true
+}

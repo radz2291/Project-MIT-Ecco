@@ -87,7 +87,7 @@ class ECCO_PT_world_pixel_guides(bpy.types.Panel):
         body.enabled = bool(c.get('Enabled', False))
         for title, toggle, fields in [
             ('Cave', 'Show bore', [('Bore ring spacing m','Ring spacing (m)'),('Bore lengthwise spacing deg','Lengthwise spacing (deg)')]),
-            ('Cut earth', 'Show cut faces', [('Depth spacing m','Depth spacing (m)'),('Radial spacing m','Across-face spacing (m)')]),
+            ('Cut earth', 'Show cut faces', [('Depth spacing m','Horizontal spacing (m)'),('Radial spacing m','Vertical spacing (m)')]),
             ('Seabed', 'Show seabed', [('Seabed spacing m','Spacing (m)')])]:
             box=body.box()
             box.prop(c, '["'+toggle+'"]', text=title)
