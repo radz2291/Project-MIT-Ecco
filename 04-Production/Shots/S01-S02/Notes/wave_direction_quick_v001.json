@@ -1,0 +1,199 @@
+{
+  "proof": "Fixed axial coordinates and anchors; two independent traveling phases change bends, no object translation or moving packet envelope. Disposable direction test, no contact/receipt behavior integrated.",
+  "frames": 48,
+  "fps": 24,
+  "rows": [
+    {
+      "frame": 1,
+      "seconds": 0.15692259999923408
+    },
+    {
+      "frame": 2,
+      "seconds": 0.05125699999916833
+    },
+    {
+      "frame": 3,
+      "seconds": 0.046058699997956865
+    },
+    {
+      "frame": 4,
+      "seconds": 0.044291000012890436
+    },
+    {
+      "frame": 5,
+      "seconds": 0.04342640000686515
+    },
+    {
+      "frame": 6,
+      "seconds": 0.04491339999367483
+    },
+    {
+      "frame": 7,
+      "seconds": 0.04575520000071265
+    },
+    {
+      "frame": 8,
+      "seconds": 0.04629269998986274
+    },
+    {
+      "frame": 9,
+      "seconds": 0.04316770000150427
+    },
+    {
+      "frame": 10,
+      "seconds": 0.047766899995622225
+    },
+    {
+      "frame": 11,
+      "seconds": 0.05194989999290556
+    },
+    {
+      "frame": 12,
+      "seconds": 0.05477440000686329
+    },
+    {
+      "frame": 13,
+      "seconds": 0.05681260001438204
+    },
+    {
+      "frame": 14,
+      "seconds": 0.051490699988789856
+    },
+    {
+      "frame": 15,
+      "seconds": 0.054021499992813915
+    },
+    {
+      "frame": 16,
+      "seconds": 0.05424440000206232
+    },
+    {
+      "frame": 17,
+      "seconds": 0.05055270000593737
+    },
+    {
+      "frame": 18,
+      "seconds": 0.059835399995790794
+    },
+    {
+      "frame": 19,
+      "seconds": 0.05701870001212228
+    },
+    {
+      "frame": 20,
+      "seconds": 0.0516248999920208
+    },
+    {
+      "frame": 21,
+      "seconds": 0.05939559999387711
+    },
+    {
+      "frame": 22,
+      "seconds": 0.05688310001278296
+    },
+    {
+      "frame": 23,
+      "seconds": 0.06605749999289401
+    },
+    {
+      "frame": 24,
+      "seconds": 0.06663960000150837
+    },
+    {
+      "frame": 25,
+      "seconds": 0.06478400000196416
+    },
+    {
+      "frame": 26,
+      "seconds": 0.061145700004999526
+    },
+    {
+      "frame": 27,
+      "seconds": 0.05725620000157505
+    },
+    {
+      "frame": 28,
+      "seconds": 0.060865699997521006
+    },
+    {
+      "frame": 29,
+      "seconds": 0.056032099993899465
+    },
+    {
+      "frame": 30,
+      "seconds": 0.05691830000432674
+    },
+    {
+      "frame": 31,
+      "seconds": 0.058644999997341074
+    },
+    {
+      "frame": 32,
+      "seconds": 0.057293199992273
+    },
+    {
+      "frame": 33,
+      "seconds": 0.06078549999801908
+    },
+    {
+      "frame": 34,
+      "seconds": 0.046261499999673106
+    },
+    {
+      "frame": 35,
+      "seconds": 0.05009180000342894
+    },
+    {
+      "frame": 36,
+      "seconds": 0.05576659999496769
+    },
+    {
+      "frame": 37,
+      "seconds": 0.0503918999893358
+    },
+    {
+      "frame": 38,
+      "seconds": 0.06358770000224467
+    },
+    {
+      "frame": 39,
+      "seconds": 0.057086899993009865
+    },
+    {
+      "frame": 40,
+      "seconds": 0.06046190000779461
+    },
+    {
+      "frame": 41,
+      "seconds": 0.05970690000685863
+    },
+    {
+      "frame": 42,
+      "seconds": 0.06338340000365861
+    },
+    {
+      "frame": 43,
+      "seconds": 0.06459799999720417
+    },
+    {
+      "frame": 44,
+      "seconds": 0.06099460000405088
+    },
+    {
+      "frame": 45,
+      "seconds": 0.058064299999387003
+    },
+    {
+      "frame": 46,
+      "seconds": 0.055934400006663054
+    },
+    {
+      "frame": 47,
+      "seconds": 0.05592320000869222
+    },
+    {
+      "frame": 48,
+      "seconds": 0.05567319999681786
+    }
+  ]
+}
