@@ -18,3 +18,5 @@ Latest refinement: [v015 six-second exchange polish](../../../Shots/S01-S02/Note
 
 Owner requested full preview: productionv016 rendered756frames/31.5s at640x360. Wall551.806s, active383.355s, avg0.507s/frame, max1.157s; decodecomplete zero drops/duplicates. Full-shot review remains open; native unchanged/video local only. Sequence README links full timing record.
 
+
+Owner camera correction: [v017 handoff](../../../Shots/S01-S02/Notes/camera_v017_handoff.md). Restore actual previs arc/lens after scan3 while4–6continue; preserve first474camera checkpoints, all approved exchanges and hardware. Viewing-mask correction protects all six16face target panels. Native reopened with valid relative links; six-event timing/target and continuous-motion checks pass. Owner restarted Blender after preview crash; correction was saved and intact, fresh proof resumed. Whole-shot acceptance remains open.

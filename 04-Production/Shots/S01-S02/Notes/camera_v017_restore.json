@@ -1,0 +1,120 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v017.blend",
+  "sha256": "cdc2b5276928e4b1641e6839865521be2ae1f801e1d77f041e5684254bae1c2c",
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-02_Measurement-History\\v011\\Continuation\\Scenes\\S01-S02_continuous_v011.blend",
+  "source_pull": [
+    408,
+    528
+  ],
+  "retimed_pull": [
+    474,
+    720
+  ],
+  "final_hold": [
+    720,
+    756
+  ],
+  "sequence_frames": 756,
+  "fps": 24,
+  "scan_starts": [
+    300,
+    360,
+    420,
+    480,
+    540,
+    600
+  ],
+  "third_scan_return_complete": 469,
+  "third_beam_closed": 472,
+  "third_hold_ends": 474,
+  "reason": "Restore close-up to wide discovery during scans four to six, rather than after all six. Actual previs arc/lens aligned rigidly to current third-scan camera, retimed to approved longer exchanges.",
+  "camera_before_and_at_start_max_error": 0.0,
+  "hardware_action_unchanged": true,
+  "shared_waveform_groups_unchanged": true,
+  "relative_links_resolve_on_reopen": true,
+  "samples": [
+    {
+      "frame": 474,
+      "camera": [
+        0.2111969143152237,
+        -0.26721951365470886,
+        -729.4861450195312
+      ],
+      "lens": 119.99995422363281
+    },
+    {
+      "frame": 480,
+      "camera": [
+        0.21109691262245178,
+        -0.26808658242225647,
+        -729.4867553710938
+      ],
+      "lens": 119.99103546142578
+    },
+    {
+      "frame": 528,
+      "camera": [
+        0.15836109220981598,
+        -0.7143088579177856,
+        -729.7708740234375
+      ],
+      "lens": 115.18709564208984
+    },
+    {
+      "frame": 540,
+      "camera": [
+        0.12288141250610352,
+        -1.0145187377929688,
+        -729.962158203125
+      ],
+      "lens": 111.95511627197266
+    },
+    {
+      "frame": 600,
+      "camera": [
+        -0.1618857979774475,
+        -3.424065589904785,
+        -731.49658203125
+      ],
+      "lens": 86.0146713256836
+    },
+    {
+      "frame": 654,
+      "camera": [
+        -0.41403794288635254,
+        -5.557645320892334,
+        -732.8553466796875
+      ],
+      "lens": 63.04520034790039
+    },
+    {
+      "frame": 660,
+      "camera": [
+        -0.43297815322875977,
+        -5.717904567718506,
+        -732.9573364257812
+      ],
+      "lens": 61.31990051269531
+    },
+    {
+      "frame": 720,
+      "camera": [
+        -0.5023555159568787,
+        -6.3049397468566895,
+        -733.3311767578125
+      ],
+      "lens": 55.0
+    },
+    {
+      "frame": 756,
+      "camera": [
+        -0.5023555159568787,
+        -6.3049397468566895,
+        -733.3311767578125
+      ],
+      "lens": 55.0
+    }
+  ],
+  "scope": "Camera/lens correction plus shot viewing-mask target protection; shared masters, scan events, hardware and signal/reveal animation unchanged.",
+  "target_protection": "Shot camera viewing wedge excludes all six current scan target patches using receipt-frame attributes."
+}

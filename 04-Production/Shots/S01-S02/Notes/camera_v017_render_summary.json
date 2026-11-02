@@ -1,0 +1,13 @@
+{
+  "status": "complete",
+  "frames": 154,
+  "active_seconds": 120.00197560000015,
+  "average_seconds": 0.7792336077922087,
+  "max_seconds": 3.8713092999987566,
+  "successful_attempt_wall_seconds": 148.22154712677002,
+  "interrupted": true,
+  "preview_fps": 12,
+  "preview_seconds": 12.833333333333334,
+  "native_fps": 24,
+  "native_seconds": 31.5
+}

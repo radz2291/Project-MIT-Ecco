@@ -1,0 +1,39 @@
+{
+  "six_event_checks": [
+    {
+      "event": 1,
+      "return_timing_unchanged": true,
+      "target_faces_retained_during_feedback": 16
+    },
+    {
+      "event": 2,
+      "return_timing_unchanged": true,
+      "target_faces_retained_during_feedback": 16
+    },
+    {
+      "event": 3,
+      "return_timing_unchanged": true,
+      "target_faces_retained_during_feedback": 16
+    },
+    {
+      "event": 4,
+      "return_timing_unchanged": true,
+      "target_faces_retained_during_feedback": 16
+    },
+    {
+      "event": 5,
+      "return_timing_unchanged": true,
+      "target_faces_retained_during_feedback": 16
+    },
+    {
+      "event": 6,
+      "return_timing_unchanged": true,
+      "target_faces_retained_during_feedback": 16
+    }
+  ],
+  "max_camera_step_m": 0.05481664518608104,
+  "max_camera_rotation_step_degrees": 1.6437349695218741,
+  "first_pullback_step_m": 6.492785451939674e-05,
+  "camera_transition_no_single_frame_jump": true,
+  "scene_seconds": 31.5
+}

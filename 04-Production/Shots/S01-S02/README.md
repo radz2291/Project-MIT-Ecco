@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v016.blend`, six exchanges using approved shared waveform v021. Contact patch, centered hit and center-out glitch match quickv022. Starts 300/360/420/480/540/600; 54-frame exchanges plus six-frame turns. Scene ends 756 at 24 FPS (31.5 seconds). [Current handoff](Notes/approved_v016_handoff.md). Component appearance approved; whole-shot review remains open. Older versions retained.
+Current: `Scenes/S01-S02_production_v017.blend`. Camera pullback restored after scan three while scans four to six continue. Actual previs v011 arc/lens change is aligned to the current close-up and retimed to 474–720, then wide hold to756. All six approved shared-v021 exchanges retain their timing and geometry. Shot viewing wedge now protects all six target panels. [Current camera handoff](Notes/camera_v017_handoff.md). Scene31.5seconds; component approved, whole-shot review remains open. v016 and its full preview are retained as the prior camera version.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 
