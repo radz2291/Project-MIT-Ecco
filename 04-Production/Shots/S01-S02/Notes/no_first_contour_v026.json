@@ -1,0 +1,39 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v026.blend",
+  "sha256": "2aa8d05af5b7eaa72d0610dfbb2cd22eba6e851c5d2d63deb944855cc3674f08",
+  "source": "v025",
+  "omitted_ring_z": -729.5599365234375,
+  "mask_threshold_z": -729.4399365234375,
+  "major_faces_before": 15456,
+  "major_faces_after": 15360,
+  "later_major_faces_preserved": 15360,
+  "first_ring_removed": true,
+  "stills": [
+    {
+      "frame": 536,
+      "seconds": 0.5211689000025217
+    },
+    {
+      "frame": 620,
+      "seconds": 0.4569364000017231
+    },
+    {
+      "frame": 756,
+      "seconds": 0.4859721000029822
+    }
+  ],
+  "scope": "Only first major contour branch selection changed; fitted wall, later contours, controls, blue reveal and all camera/beam animation preserved. Shared masters unchanged.",
+  "reopen_verified": true,
+  "missing_libraries": [],
+  "stills_after_reopen": [
+    {
+      "frame": 536,
+      "seconds": 0.5934347999973397
+    },
+    {
+      "frame": 756,
+      "seconds": 0.4915724999991653
+    }
+  ],
+  "later_contours_visual_review": "Later pale rings present at620 and756 after reopening; first bottom ring absent536."
+}

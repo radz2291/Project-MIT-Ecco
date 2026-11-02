@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v025.blend`. Measurement fitted to the actual bore interior with clearance for2mm contours. Rings build over4frames,2frames behind the blue reveal, then persist. On/off, delay and build duration controls are native object properties. [Current handoff](Notes/refinements_v025_handoff.md). Pullback preview: `Previews/Fitted-contours-v025/fitted_contours_v025.mp4`;1080p stills in the same folder. Approved camera/reveal timing retained; shared masters unchanged; owner review open.
+Current: `Scenes/S01-S02_production_v026.blend`. Owner-marked first bottom contour omitted; later contours and all timing retained. See `Notes/no_first_contour_v026.json` and `Previews/No-first-contour-v026/first_panel.png`. Previous v025 refinement details follow. Measurement fitted to the actual bore interior with clearance for2mm contours. Rings build over4frames,2frames behind the blue reveal, then persist. On/off, delay and build duration controls are native object properties. [Current handoff](Notes/refinements_v025_handoff.md). Pullback preview: `Previews/Fitted-contours-v025/fitted_contours_v025.mp4`;1080p stills in the same folder. Approved camera/reveal timing retained; shared masters unchanged; owner review open.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 
