@@ -1,0 +1,27 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\Waveform_pulse_fast_v016.blend",
+  "scope": "First exchange4second review, whole scene migration pending pulse approval",
+  "settings": {
+    "Travel frames": 18.0,
+    "Return travel override": 18.0,
+    "Tail allowance": 16.0,
+    "Reflection delay": 8.0,
+    "Pulse width": 1.5,
+    "Spike width": 0.65,
+    "Height m": 0.0075,
+    "Pre dip": 0.12,
+    "Undershoot": 0.28,
+    "Rebound": 0.1,
+    "Dispersion": 0.25,
+    "Strand phase offset": 0.22,
+    "Amplitude breath": 0.22,
+    "Breath period frames": 32.0
+  },
+  "beam": "unchanged5frameopening,cyan/violet,continuous,nodots",
+  "frames": [
+    300,
+    395
+  ],
+  "fps": 24,
+  "tile_impact": 330
+}
