@@ -1,0 +1,19 @@
+{
+  "saved": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_rough_v001.blend",
+  "camera_sample_checks": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "libraries": 6,
+  "gaps": [
+    "Waveform v015 linked but disabled pending event binding",
+    "Measurement reveal groups linked; existing animated reconstruction retained",
+    "BHA v008 not yet placed; source string retained"
+  ]
+}
