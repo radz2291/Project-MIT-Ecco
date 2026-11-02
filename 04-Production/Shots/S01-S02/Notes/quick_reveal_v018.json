@@ -1,0 +1,25 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\Waveform_reveal_fast_v018.blend",
+  "scope": "Surface-only first-exchange review; approved v017 signal unchanged",
+  "original_reveal_source": "S01-S02_production_v007.blend current-cell diffuse actions",
+  "material_timing": "old impact318 maps322, original flicker timing scaled.5",
+  "tile_groups": {
+    "3": 2,
+    "2": 4,
+    "1": 8,
+    "0": 2
+  },
+  "geometry_stagger_offsets": [
+    0,
+    1.5,
+    3,
+    4.5
+  ],
+  "settle_per_tile_frames": 4,
+  "signal_geometry_hash_315_unchanged": "dcd759c0667b7b6b2207b5231383e202bdad907819191a7bd155f6fa5c139413",
+  "preview": [
+    300,
+    353
+  ],
+  "fps": 24
+}
