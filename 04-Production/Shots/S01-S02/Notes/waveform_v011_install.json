@@ -1,0 +1,81 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v011.blend",
+  "sha256": "47c6548ff9234ea18478a0d366be42a8998a7738425a401e9524fce7dc80455e",
+  "events": [
+    {
+      "event": 1,
+      "start": 300,
+      "landmarks": {
+        "Send head arrival": 316.0,
+        "Send tail arrival": 336.0,
+        "Return start": 338.0,
+        "Return head arrival": 354.0,
+        "Return tail arrival": 374.0,
+        "Cycle frames": 96.0
+      }
+    },
+    {
+      "event": 2,
+      "start": 342,
+      "landmarks": {
+        "Send head arrival": 358.0,
+        "Send tail arrival": 378.0,
+        "Return start": 380.0,
+        "Return head arrival": 396.0,
+        "Return tail arrival": 416.0,
+        "Cycle frames": 96.0
+      }
+    },
+    {
+      "event": 3,
+      "start": 384,
+      "landmarks": {
+        "Send head arrival": 400.0,
+        "Send tail arrival": 420.0,
+        "Return start": 422.0,
+        "Return head arrival": 438.0,
+        "Return tail arrival": 458.0,
+        "Cycle frames": 96.0
+      }
+    },
+    {
+      "event": 4,
+      "start": 432,
+      "landmarks": {
+        "Send head arrival": 448.0,
+        "Send tail arrival": 468.0,
+        "Return start": 470.0,
+        "Return head arrival": 486.0,
+        "Return tail arrival": 506.0,
+        "Cycle frames": 96.0
+      }
+    },
+    {
+      "event": 5,
+      "start": 480,
+      "landmarks": {
+        "Send head arrival": 496.0,
+        "Send tail arrival": 516.0,
+        "Return start": 518.0,
+        "Return head arrival": 534.0,
+        "Return tail arrival": 554.0,
+        "Cycle frames": 96.0
+      }
+    },
+    {
+      "event": 6,
+      "start": 510,
+      "landmarks": {
+        "Send head arrival": 526.0,
+        "Send tail arrival": 546.0,
+        "Return start": 548.0,
+        "Return head arrival": 564.0,
+        "Return tail arrival": 584.0,
+        "Cycle frames": 96.0
+      }
+    }
+  ],
+  "configuration": "exact v017 approved demo timing including Speed1,Travel16,Train20,Delay2,Loop96; only scene start/placement differ",
+  "measurement": "old reveal cues retained for this visual trial; no longer synchronized with longer return. Needs timing decision after waveform review.",
+  "camera": "unchanged from v010"
+}
