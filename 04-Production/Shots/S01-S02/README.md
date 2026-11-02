@@ -21,3 +21,6 @@ Full-environment640×360 AA5 stills passed2.89–4.50s. A later480×270 test fai
 Latest trial v004 replaces the early visible slit with Surface v008's complete viewing passage and flared entry sleeve. Camera timing advances smoothly by up to2f over89–112 so rock begins95, then returns to original timing; later112–528 curves and World v014 reveal unchanged. Proof `Previews/Entry-v004/S01-S02_pipe_to_rock_v004.mp4` covers85–105 at24fps,0.93–1.06s/frame, full environment. Earlier v003 proof remains for comparison. See latest handoff for geometry/timing details and sampled checks. Final look, full-journey proof and owner acceptance remain open. Wrap only on his instruction.
 
 Waveform investigation: [organic demo comparison and shared amendment recommendation](Notes/waveform_review_v001.md). Read-only review; v007/master unchanged.
+
+Full v016 preview now available: `Previews/Full-v016/S01-S02_full_v016.mp4`. 756 frames at24FPS,31.5seconds,640x360. Render job wall time551.806s (9m11.8s); active export383.355s, average0.507s/frame; wall average0.730s/frame, max1.157s. Decode756frames/31.5seconds, zero drops/duplicates. Native unchanged; full-shot owner review pending. [Timing record](Notes/full_v016_summary.json). Video local only.
+

@@ -1,0 +1,28 @@
+{
+  "benchmarks": [
+    {
+      "seconds": 0.7575753,
+      "frame": 1
+    },
+    {
+      "seconds": 0.8484535,
+      "frame": 95
+    },
+    {
+      "seconds": 0.5180229,
+      "frame": 180
+    },
+    {
+      "seconds": 0.910117,
+      "frame": 641
+    }
+  ],
+  "duration_seconds": 31.5,
+  "cap_seconds": 5,
+  "fps": 24,
+  "size": [
+    640,
+    360
+  ],
+  "frame_count": 756
+}

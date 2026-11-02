@@ -1,0 +1,20 @@
+{
+  "decoded_duration_seconds": 31.5,
+  "max_export_seconds": 1.1573826000003464,
+  "render_job_wall_seconds": 551.8062162399292,
+  "video_sha256": "01BA1CF4227E280A19E335A6B49474949FD3DFD4579BD8EBF7DB2608C5EB7DBF",
+  "active_export_average_seconds": 0.5070832251322542,
+  "duration_seconds": 31.5,
+  "dropped_frames": 0,
+  "frames": 756,
+  "fps": 24,
+  "encoding_time": "not independently timed",
+  "decoded_frames": 756,
+  "size": [
+    640,
+    360
+  ],
+  "duplicated_frames": 0,
+  "active_export_total_seconds": 383.35491819998424,
+  "wall_average_seconds_per_frame": 0.7299024024337688
+}
