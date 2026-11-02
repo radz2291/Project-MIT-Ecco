@@ -1,12 +1,14 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v026.blend`. Owner-marked first bottom contour omitted; later contours and all timing retained. See `Notes/no_first_contour_v026.json` and `Previews/No-first-contour-v026/first_panel.png`. Previous v025 refinement details follow. Measurement fitted to the actual bore interior with clearance for2mm contours. Rings build over4frames,2frames behind the blue reveal, then persist. On/off, delay and build duration controls are native object properties. [Current handoff](Notes/refinements_v025_handoff.md). Pullback preview: `Previews/Fitted-contours-v025/fitted_contours_v025.mp4`;1080p stills in the same folder. Approved camera/reveal timing retained; shared masters unchanged; owner review open.
+Final editable handoff: **`Scenes/S01-S02_production_v027_clean.blend`**. Owner-requested cleanup removed558unused legacy objects; native19.1→3.3MB. Thirty sampled camera/BHA/wall/signal checks and five visual comparisons preserve the v026 presentation. [Closure, controls and deferred work](Notes/closure_v027.md) · [Deliverable hashes](Notes/closure_manifest_v027.json). DOF remains investigation-only; it is not applied to production. Execution prepared for human Review on3November2026.
+
+Visual source preserved: `Scenes/S01-S02_production_v026.blend`. Owner-marked first bottom contour omitted; later contours and all timing retained. See `Notes/no_first_contour_v026.json` and `Previews/No-first-contour-v026/first_panel.png`. Measurement follows the actual bore interior with clearance for2mm contours. Rings build over4frames,2frames behind the blue reveal, then persist. On/off, delay and build duration controls are native object properties. Earlier [refinement handoff](Notes/refinements_v025_handoff.md).
 
 Full v026 scene render: `Previews/Full-v026/S01-S02_full_v026.mp4` —31.5seconds,1080p24FPS. [Render and review handoff](Notes/full_v026_handoff.md). Active7m47s, elapsed11m32s including crash recovery, avg0.618s/frame.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 
-ECCO-057: 2cd3cc2d-92b1-456c-92c6-556fb4526f4f. First collaboration checkpoint; incomplete, not submitted for acceptance.
+ECCO-057: 2cd3cc2d-92b1-456c-92c6-556fb4526f4f. Owner requested wrap and cleanup; final execution handoff prepared for Review. Historical collaboration checkpoints below are superseded by the closure record.
 
 Baseline: `05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend`, frames 1–528 at 24 fps (22 seconds); handoff frame 240. Source preserved. Camera matrices/lenses match eight sampled frames; original event animation retained.
 

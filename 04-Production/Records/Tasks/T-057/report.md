@@ -1,10 +1,18 @@
-# ECCO-057 working checkpoint
+# ECCO-057 — closure report
+
+Owner authority: Radzi requested ticket wrap on3November2026, then cleanup of unused Blender assets. Final handoff is `04-Production/Shots/S01-S02/Scenes/S01-S02_production_v027_clean.blend`; sourcev026 and original inputs remain preserved. [Final implemented direction, evidence, controls, limits and next action](../../../Shots/S01-S02/Notes/closure_v027.md) · [Manifest/hashes](../../../Shots/S01-S02/Notes/closure_manifest_v027.json).
+
+Completed: continuous BHA/shared-environment production shot, approved sharedv021 connected signals/contact/glitch behavior, final-intent visibility, bore-fitted persistent blue measurement, coordinated upward reveal/contours, first-ring omission, complete1080p24FPS31.5s video. Cleanup removed558unused legacy objects; file19,112,763→3,315,355bytes. Thirty evaluated camera/BHA/wall/six-signal samples match; five image comparisons inspected. Saved clean native reopened; nine relative library dependencies resolve. Current video remains the reviewedv026 full render, with sampled cleanup equivalence; no new fullv027 render claimed.
+
+Full render:756frames, zero decode drops/duplicates; active467.019s, average0.61775s/frame, max1.39382s; elapsed691.809s includes recovery. DOF investigation delivered a feasible layered still only; no production integration. No remaining blocker to this scoped handoff. A later DOF/motion/linear-alpha/1080p budget test would require a new scope. Native/video local-only, no off-machine backup verified. Task scripts/records/selected stills synchronized on `codex/ecco057-continuous-production`; exact closure commit/report pinned in Work. Unrelated workspace reorganization preserved. Execution complete for human Review; Radzi retains acceptance, film assembly and client decisions.
+
+## Historical checkpoints
 
 Ticket2cd3cc2d-92b1-456c-92c6-556fb4526f4f. Owner-authorized collaborative S01–S02 production and 2 November BHA/waveform/reveal integration. Base0cfd75e3a8745d1ff3790fe7dcae2abe72bed336.
 
-Current versions, source links, checks, limits and next action: [Sequence README](../../../Shots/S01-S02/README.md). Native SHA256: sequence Notes/native_manifest_v002.json.
+Working versions, source links and historical checks: [Sequence README](../../../Shots/S01-S02/README.md). Historicalv002native hash is in Notes/native_manifest_v002.json; finalv027hash is in the closure manifest above.
 
-In progress; no final Review submission or owner acceptance. Native scenes/videos local only. Permitted scripts/notes/stills synchronized separately, exact remote commit attached to Work.
+The following entries describe earlier checkpoints, before the owner-requested closure above. Native scenes/videos remain local only.
 
 2 November: Radzi approved the sharp waveform and 360° quickv006 proof. [Shared v017](../../../Shared/Assets/Effects/Waveform/README_v017.md) packages this as live native controls with a linked four-case demo and behavioral/render evidence. This component approval is recorded separately from whole-shot acceptance. Production shots remain pinned pending deliberate integration; the originalv007 camera remains selected.
 

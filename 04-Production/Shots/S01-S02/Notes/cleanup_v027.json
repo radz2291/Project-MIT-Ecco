@@ -1,0 +1,2365 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v026.blend",
+  "source_sha256": "2aa8d05af5b7eaa72d0610dfbb2cd22eba6e851c5d2d63deb944855cc3674f08",
+  "clean_scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v027_clean.blend",
+  "clean_sha256": "e09bc5fe622303b00caa0e69cbb58ec63188d58614969bfdcb6724f5690afa9b",
+  "source_bytes": 19112763,
+  "clean_bytes": 3315355,
+  "scene_objects_before": 616,
+  "scene_objects_after": 58,
+  "counts_before": {
+    "objects": 1348,
+    "collections": 31,
+    "meshes": 1128,
+    "curves": 187,
+    "materials": 965,
+    "node_groups": 24,
+    "actions": 1292,
+    "libraries": 16
+  },
+  "counts_after": {
+    "objects": 770,
+    "collections": 16,
+    "meshes": 746,
+    "curves": 0,
+    "materials": 715,
+    "node_groups": 12,
+    "actions": 638,
+    "libraries": 9
+  },
+  "removed_objects": [
+    {
+      "name": "Ocean horizon",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front0 core",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front3 halo",
+      "library": null
+    },
+    {
+      "name": "DW 6 ECHO front2 core",
+      "library": null
+    },
+    {
+      "name": "DW 1 ECHO front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 09",
+      "library": null
+    },
+    {
+      "name": "Formation rear 11",
+      "library": null
+    },
+    {
+      "name": "MEASURE 3 CENTRAL COLUMN",
+      "library": null
+    },
+    {
+      "name": "DW 4 ECHO front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 07 side 1",
+      "library": null
+    },
+    {
+      "name": "DW 4 ECHO front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "Earth seam 04",
+      "library": null
+    },
+    {
+      "name": "Opening front 08 1",
+      "library": null
+    },
+    {
+      "name": "DW 5 ECHO front1 core",
+      "library": null
+    },
+    {
+      "name": "Formation rear 16",
+      "library": null
+    },
+    {
+      "name": "Opening front 23 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 23",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front3 core",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 09 side -1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 1 joins existing recent pattern",
+      "library": null
+    },
+    {
+      "name": "Opening front 29 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 29 side 1",
+      "library": null
+    },
+    {
+      "name": "Opening front 06 1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 08",
+      "library": null
+    },
+    {
+      "name": "Formation rear 10",
+      "library": null
+    },
+    {
+      "name": "DW 6 ECHO front1 halo",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front3 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 1 ECHO front2 core",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front0 halo",
+      "library": null
+    },
+    {
+      "name": "MEASURE 2 temporary contact at same centre",
+      "library": null
+    },
+    {
+      "name": "DW 3 ECHO front1 halo",
+      "library": null
+    },
+    {
+      "name": "S02 v002 OLDER wall-fixed barycentric history",
+      "library": null
+    },
+    {
+      "name": "MEASURE 4 temporary contact at same centre",
+      "library": null
+    },
+    {
+      "name": "Earth seam 11",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 13 side -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 28 side -1",
+      "library": null
+    },
+    {
+      "name": "DW 1 ECHO front1 core",
+      "library": null
+    },
+    {
+      "name": "Opening front 27 1",
+      "library": null
+    },
+    {
+      "name": "Formation rear 22",
+      "library": null
+    },
+    {
+      "name": "DW 5 localized contact contour 0.012",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 01 side -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 15",
+      "library": null
+    },
+    {
+      "name": "Opening front 16 1",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 4 ECHO front1 core",
+      "library": null
+    },
+    {
+      "name": "Earth seam 00",
+      "library": null
+    },
+    {
+      "name": "DW 2 ECHO front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front0 core",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front1 core",
+      "library": null
+    },
+    {
+      "name": "Earth seam 14",
+      "library": null
+    },
+    {
+      "name": "Opening front 24 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 25",
+      "library": null
+    },
+    {
+      "name": "Opening front 28 1",
+      "library": null
+    },
+    {
+      "name": "Opening front 06 -1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 2 OUTER COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front3 core",
+      "library": null
+    },
+    {
+      "name": "DW 6 ECHO front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 1 ECHO front1 halo",
+      "library": null
+    },
+    {
+      "name": "MEASURE 5 temporary contact at same centre",
+      "library": null
+    },
+    {
+      "name": "MEASURE RECENT completed fine connections",
+      "library": null
+    },
+    {
+      "name": "Formation rear 12",
+      "library": null
+    },
+    {
+      "name": "Shared continuous World",
+      "library": null
+    },
+    {
+      "name": "DW 3 localized contact contour 0.038",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 04",
+      "library": null
+    },
+    {
+      "name": "DW 2 localized contact contour 0.012",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 19",
+      "library": null
+    },
+    {
+      "name": "Opening front 21 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 16 side 1",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front1 halo",
+      "library": null
+    },
+    {
+      "name": "Upper building",
+      "library": null
+    },
+    {
+      "name": "S02 geological contact wall 4",
+      "library": null
+    },
+    {
+      "name": "Opening front 03 1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 07 side -1",
+      "library": null
+    },
+    {
+      "name": "Opening front 15 1",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front1 core",
+      "library": null
+    },
+    {
+      "name": "Formation rear 29",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front0 halo",
+      "library": null
+    },
+    {
+      "name": "Earth seam 13",
+      "library": null
+    },
+    {
+      "name": "MEASURE 4 NEAREST COLUMNS",
+      "library": null
+    },
+    {
+      "name": "Opening front 05 1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 06",
+      "library": null
+    },
+    {
+      "name": "Formation rear 08",
+      "library": null
+    },
+    {
+      "name": "MEASURE 2 OUTER COLUMNS",
+      "library": null
+    },
+    {
+      "name": "DW 6 ECHO front1 core",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front2 halo",
+      "library": null
+    },
+    {
+      "name": "DW 1 ECHO front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "Opening front 20 -1",
+      "library": null
+    },
+    {
+      "name": "S02 3 SEND",
+      "library": null
+    },
+    {
+      "name": "DW 4 contact digital nodes 0.025",
+      "library": null
+    },
+    {
+      "name": "DW 1 contact digital nodes 0.038",
+      "library": null
+    },
+    {
+      "name": "Opening front 25 1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 26 side -1",
+      "library": null
+    },
+    {
+      "name": "Earth seam 07",
+      "library": null
+    },
+    {
+      "name": "DW 4 localized contact contour 0.012",
+      "library": null
+    },
+    {
+      "name": "Opening front 10 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 11",
+      "library": null
+    },
+    {
+      "name": "Formation rear 19",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front1 core",
+      "library": null
+    },
+    {
+      "name": "Earth seam 25",
+      "library": null
+    },
+    {
+      "name": "DW 2 ECHO front0 core",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 20 side -1",
+      "library": null
+    },
+    {
+      "name": "Opening front 24 1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 26",
+      "library": null
+    },
+    {
+      "name": "MEASURE 3 OUTER COLUMNS",
+      "library": null
+    },
+    {
+      "name": "Formation rear 25",
+      "library": null
+    },
+    {
+      "name": "DW 5 localized digital overlay dimple",
+      "library": null
+    },
+    {
+      "name": "S02 5 ECHO",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "Earth seam 12",
+      "library": null
+    },
+    {
+      "name": "Opening front 05 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 05",
+      "library": null
+    },
+    {
+      "name": "Formation rear 07",
+      "library": null
+    },
+    {
+      "name": "MEASURE 2 NEAREST COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "MEASURE 5 NEAREST COLUMNS",
+      "library": null
+    },
+    {
+      "name": "Opening front 07 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 10 side 1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 1 OUTER COLUMNS",
+      "library": null
+    },
+    {
+      "name": "DW 3 ECHO front2 halo",
+      "library": null
+    },
+    {
+      "name": "S02 WALL AUTHORITY full irregular inner surface",
+      "library": null
+    },
+    {
+      "name": "MEASURE 3 OUTER COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "S02 5 RECORDED after reception wall-fixed",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front3 core",
+      "library": null
+    },
+    {
+      "name": "MEASURE 5 joins existing recent pattern",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 14 side 1",
+      "library": null
+    },
+    {
+      "name": "Unified measurement 3 contact",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front2 halo",
+      "library": null
+    },
+    {
+      "name": "RECONSTRUCTION local confirmed region 5",
+      "library": null
+    },
+    {
+      "name": "DW 2 ECHO front1 core",
+      "library": null
+    },
+    {
+      "name": "DW 3 ECHO front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "S02 v002 subtle actual-wall contours",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 18 side 1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 6 temporary contact at same centre",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 05 side -1",
+      "library": null
+    },
+    {
+      "name": "Opening front 13 1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 3 NEAREST COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "Formation rear 24",
+      "library": null
+    },
+    {
+      "name": "DW 5 localized contact contour 0.038",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front0 core",
+      "library": null
+    },
+    {
+      "name": "DW 4 ECHO front2 core",
+      "library": null
+    },
+    {
+      "name": "Earth seam 03",
+      "library": null
+    },
+    {
+      "name": "Deck side.001",
+      "library": null
+    },
+    {
+      "name": "Opening front 08 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 07",
+      "library": null
+    },
+    {
+      "name": "DW 2 localized digital overlay dimple",
+      "library": null
+    },
+    {
+      "name": "Opening front 22 1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 22",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front2 halo",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 08 side 1",
+      "library": null
+    },
+    {
+      "name": "S02 6 temporary contact",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 04 side 1",
+      "library": null
+    },
+    {
+      "name": "Opening front 13 -1",
+      "library": null
+    },
+    {
+      "name": "DW 6 ECHO front0 core",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 18 side -1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 3 NEAREST COLUMNS",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front3 digital samples",
+      "library": null
+    },
+    {
+      "name": "S02 4 SEND",
+      "library": null
+    },
+    {
+      "name": "Formation rear 05",
+      "library": null
+    },
+    {
+      "name": "MEASURE 2 joins existing recent pattern",
+      "library": null
+    },
+    {
+      "name": "MEASURE 4 OUTER COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "Earth seam 10",
+      "library": null
+    },
+    {
+      "name": "DW 4 localized digital overlay dimple",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 12 side 1",
+      "library": null
+    },
+    {
+      "name": "DW 1 ECHO front0 halo",
+      "library": null
+    },
+    {
+      "name": "Opening front 27 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 27 side 1",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row shared edge 22",
+      "library": null
+    },
+    {
+      "name": "Formation rear 21",
+      "library": null
+    },
+    {
+      "name": "DW 5 fixed native contact pin",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.006",
+      "library": null
+    },
+    {
+      "name": "Opening front 02 1",
+      "library": null
+    },
+    {
+      "name": "Opening front 11 1",
+      "library": null
+    },
+    {
+      "name": "DW 4 ECHO front0 halo",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 04 side -1",
+      "library": null
+    },
+    {
+      "name": "S02 6 SEND",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front3 core",
+      "library": null
+    },
+    {
+      "name": "DW 6 contact digital nodes 0.038",
+      "library": null
+    },
+    {
+      "name": "Opening front 12 1",
+      "library": null
+    },
+    {
+      "name": "S02 4 RECORDED after reception wall-fixed",
+      "library": null
+    },
+    {
+      "name": "MEASURE 3 joins existing recent pattern",
+      "library": null
+    },
+    {
+      "name": "MEASURE 6 OUTER COLUMNS",
+      "library": null
+    },
+    {
+      "name": "Earth seam 09",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 22 side -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 29",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 12 side -1",
+      "library": null
+    },
+    {
+      "name": "MEASURE RECENT completed diamond pattern",
+      "library": null
+    },
+    {
+      "name": "Service building",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 03",
+      "library": null
+    },
+    {
+      "name": "DW 3 localized contact contour 0.025",
+      "library": null
+    },
+    {
+      "name": "Earth seam 17",
+      "library": null
+    },
+    {
+      "name": "MEASURE 4 CENTRAL COLUMN connections",
+      "library": null
+    },
+    {
+      "name": "S02 6 ECHO",
+      "library": null
+    },
+    {
+      "name": "DW 2 fixed native contact pin",
+      "library": null
+    },
+    {
+      "name": "Platform leg.001",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 16 side -1",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "S02 geological contact wall 3",
+      "library": null
+    },
+    {
+      "name": "Unified measurement 6 contact",
+      "library": null
+    },
+    {
+      "name": "Opening front 03 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 06 side 1",
+      "library": null
+    },
+    {
+      "name": "Opening front 15 -1",
+      "library": null
+    },
+    {
+      "name": "Formation rear 04",
+      "library": null
+    },
+    {
+      "name": "Formation rear 28",
+      "library": null
+    },
+    {
+      "name": "MEASURE 3 CENTRAL COLUMN connections",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front1 core",
+      "library": null
+    },
+    {
+      "name": "DW 2 ECHO front2 core",
+      "library": null
+    },
+    {
+      "name": "MEASURE 6 NEAREST COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front2 halo",
+      "library": null
+    },
+    {
+      "name": "DW 6 contact digital nodes 0.025",
+      "library": null
+    },
+    {
+      "name": "DW 3 ECHO front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "S02 side sensor 3",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 03 side 1",
+      "library": null
+    },
+    {
+      "name": "Opening front 12 -1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 4 joins existing recent pattern",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front3 halo",
+      "library": null
+    },
+    {
+      "name": "Roof trim",
+      "library": null
+    },
+    {
+      "name": "DW 6 ECHO front0 halo",
+      "library": null
+    },
+    {
+      "name": "Formation rear 09",
+      "library": null
+    },
+    {
+      "name": "DW 4 contact digital nodes 0.012",
+      "library": null
+    },
+    {
+      "name": "Earth seam 06",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row shared edge 26",
+      "library": null
+    },
+    {
+      "name": "DW 4 fixed native contact pin",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 25 side 1",
+      "library": null
+    },
+    {
+      "name": "DW 1 contact digital nodes 0.025",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row lower edge 24",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front3 digital samples",
+      "library": null
+    },
+    {
+      "name": "MEASURE 2 CENTRAL COLUMN connections",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 10",
+      "library": null
+    },
+    {
+      "name": "Formation rear 18",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front0 halo",
+      "library": null
+    },
+    {
+      "name": "Earth seam 24",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front2 core",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 2 contact digital nodes 0.038",
+      "library": null
+    },
+    {
+      "name": "DW 6 fixed native contact pin",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 19 side 1",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front0 halo",
+      "library": null
+    },
+    {
+      "name": "S02 history longitudinal samples.002",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 10 side -1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 6 OUTER COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 18",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front3 digital samples",
+      "library": null
+    },
+    {
+      "name": "MEASURE 6 NEAREST COLUMNS",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row lower edge 20",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front3 core",
+      "library": null
+    },
+    {
+      "name": "RECONSTRUCTION local confirmed region 2",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row shared edge 23",
+      "library": null
+    },
+    {
+      "name": "DW 2 ECHO front1 halo",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "S02 history longitudinal samples.007",
+      "library": null
+    },
+    {
+      "name": "MEASURE 1 NEAREST COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 14 side -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 29 side -1",
+      "library": null
+    },
+    {
+      "name": "Unified measurement 2 contact",
+      "library": null
+    },
+    {
+      "name": "Formation rear 00",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 02 side -1",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "Opening front 17 1",
+      "library": null
+    },
+    {
+      "name": "DW 4 ECHO front1 halo",
+      "library": null
+    },
+    {
+      "name": "MEASURE 5 CENTRAL COLUMN connections",
+      "library": null
+    },
+    {
+      "name": "Formation rear 01",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 02 side 1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 17",
+      "library": null
+    },
+    {
+      "name": "MEASURE 6 joins existing recent pattern",
+      "library": null
+    },
+    {
+      "name": "Unified exact hit 5",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front3 halo",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front2 core",
+      "library": null
+    },
+    {
+      "name": "WF_MASTER_CONTROLS",
+      "library": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v019.blend"
+    },
+    {
+      "name": "S02 history longitudinal samples.006",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 23 side 1",
+      "library": null
+    },
+    {
+      "name": "Deck side",
+      "library": null
+    },
+    {
+      "name": "S02 history longitudinal samples.008",
+      "library": null
+    },
+    {
+      "name": "ONE GRID - every fourth contour",
+      "library": null
+    },
+    {
+      "name": "Opening front 07 1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 6 CENTRAL COLUMN connections",
+      "library": null
+    },
+    {
+      "name": "DW 5 ECHO front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "Formation rear 14",
+      "library": null
+    },
+    {
+      "name": "DW 3 ECHO front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "Earth seam 20",
+      "library": null
+    },
+    {
+      "name": "DW 2 localized contact contour 0.038",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 17 side 1",
+      "library": null
+    },
+    {
+      "name": "RECONSTRUCTION already-recorded uphole wall",
+      "library": null
+    },
+    {
+      "name": "DW 1 localized contact contour 0.038",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 21",
+      "library": null
+    },
+    {
+      "name": "Opening front 22 -1",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 08 side -1",
+      "library": null
+    },
+    {
+      "name": "S02 geological contact wall 6",
+      "library": null
+    },
+    {
+      "name": "Opening front 04 1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 1 CENTRAL COLUMN",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front0 core",
+      "library": null
+    },
+    {
+      "name": "S02 history longitudinal samples.005",
+      "library": null
+    },
+    {
+      "name": "Unified exact hit 4",
+      "library": null
+    },
+    {
+      "name": "DW 5 contact digital nodes 0.012",
+      "library": null
+    },
+    {
+      "name": "Drill string - axis",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 24 side 1",
+      "library": null
+    },
+    {
+      "name": "RECONSTRUCTION fine wall-attached grid",
+      "library": null
+    },
+    {
+      "name": "DW 5 ECHO front2 core",
+      "library": null
+    },
+    {
+      "name": "Opening front 19 1",
+      "library": null
+    },
+    {
+      "name": "S02 3 RECORDED after reception wall-fixed",
+      "library": null
+    },
+    {
+      "name": "DW 3 ECHO front1 core",
+      "library": null
+    },
+    {
+      "name": "MEASURE 4 OUTER COLUMNS",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front1 halo",
+      "library": null
+    },
+    {
+      "name": "S02 side sensor 2",
+      "library": null
+    },
+    {
+      "name": "S02 1 SEND",
+      "library": null
+    },
+    {
+      "name": "DW 5 contact digital nodes 0.038",
+      "library": null
+    },
+    {
+      "name": "DW 4 localized contact contour 0.038",
+      "library": null
+    },
+    {
+      "name": "DW 4 ECHO front0 core",
+      "library": null
+    },
+    {
+      "name": "DW 1 ECHO front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "Opening front 26 1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 27 side -1",
+      "library": null
+    },
+    {
+      "name": "Unified exact hit 3",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row shared edge 21",
+      "library": null
+    },
+    {
+      "name": "Opening front 02 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 00 side -1",
+      "library": null
+    },
+    {
+      "name": "Opening front 11 -1",
+      "library": null
+    },
+    {
+      "name": "Earth seam 28",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.005",
+      "library": null
+    },
+    {
+      "name": "DW 5 ECHO front2 halo",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 13",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front1 halo",
+      "library": null
+    },
+    {
+      "name": "DW 2 ECHO front0 halo",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front3 core",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 21 side 1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 28",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 21 side -1",
+      "library": null
+    },
+    {
+      "name": "DW 6 localized contact contour 0.038",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 24 side -1",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.012",
+      "library": null
+    },
+    {
+      "name": "RECONSTRUCTION circumferential history contours",
+      "library": null
+    },
+    {
+      "name": "DW 1 localized digital overlay dimple",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front2 core",
+      "library": null
+    },
+    {
+      "name": "Earth seam 22",
+      "library": null
+    },
+    {
+      "name": "Opening front 01 -1",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.003",
+      "library": null
+    },
+    {
+      "name": "DW 3 ECHO front0 core",
+      "library": null
+    },
+    {
+      "name": "DW 5 ECHO front1 halo",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 11 side 1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 5 OUTER COLUMNS",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.013",
+      "library": null
+    },
+    {
+      "name": "MEASURE HISTORICAL completed fine connections",
+      "library": null
+    },
+    {
+      "name": "MEASURE 1 temporary contact at same centre",
+      "library": null
+    },
+    {
+      "name": "DW 3 localized contact contour 0.012",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 02",
+      "library": null
+    },
+    {
+      "name": "WF_MASTER_CONTROLS",
+      "library": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v017.blend"
+    },
+    {
+      "name": "MEASURE 4 CENTRAL COLUMN",
+      "library": null
+    },
+    {
+      "name": "DW 2 ECHO front2 halo",
+      "library": null
+    },
+    {
+      "name": "S02 5 temporary contact",
+      "library": null
+    },
+    {
+      "name": "DW 1 ECHO front2 halo",
+      "library": null
+    },
+    {
+      "name": "Platform leg",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front1 halo",
+      "library": null
+    },
+    {
+      "name": "Earth seam 16",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front2 core",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 15 side 1",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front1 core",
+      "library": null
+    },
+    {
+      "name": "S02 geological contact wall 2",
+      "library": null
+    },
+    {
+      "name": "Unified measurement 5 contact",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 06 side -1",
+      "library": null
+    },
+    {
+      "name": "Formation rear 03",
+      "library": null
+    },
+    {
+      "name": "Opening front 14 1",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "Formation rear 27",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front3 digital samples",
+      "library": null
+    },
+    {
+      "name": "Rig machinery",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.011",
+      "library": null
+    },
+    {
+      "name": "DW 3 contact digital nodes 0.038",
+      "library": null
+    },
+    {
+      "name": "Earth seam 21",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 14",
+      "library": null
+    },
+    {
+      "name": "S02 history longitudinal samples.003",
+      "library": null
+    },
+    {
+      "name": "Opening front 00 1",
+      "library": null
+    },
+    {
+      "name": "Opening front 09 1",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.002",
+      "library": null
+    },
+    {
+      "name": "ECCO actual linked product",
+      "library": null
+    },
+    {
+      "name": "S02 2 temporary contact",
+      "library": null
+    },
+    {
+      "name": "Opening front 18 1",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row lower edge 25",
+      "library": null
+    },
+    {
+      "name": "Opening front 19 -1",
+      "library": null
+    },
+    {
+      "name": "DW 6 ECHO front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front3 halo",
+      "library": null
+    },
+    {
+      "name": "S02 3 ECHO",
+      "library": null
+    },
+    {
+      "name": "DW 4 ECHO front2 halo",
+      "library": null
+    },
+    {
+      "name": "Earth seam 05",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row shared edge 25",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 25 side -1",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row lower edge 23",
+      "library": null
+    },
+    {
+      "name": "DW 1 contact digital nodes 0.012",
+      "library": null
+    },
+    {
+      "name": "MEASURE 2 CENTRAL COLUMN",
+      "library": null
+    },
+    {
+      "name": "Opening front 09 -1",
+      "library": null
+    },
+    {
+      "name": "Opening front 00 -1",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.001",
+      "library": null
+    },
+    {
+      "name": "DW 5 ECHO front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "Formation rear 17",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "Earth seam 23",
+      "library": null
+    },
+    {
+      "name": "DW 6 ECHO front2 halo",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front1 halo",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front0 core",
+      "library": null
+    },
+    {
+      "name": "DW 2 contact digital nodes 0.025",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 19 side -1",
+      "library": null
+    },
+    {
+      "name": "RECONSTRUCTION local confirmed region 1",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "S02 history longitudinal samples.001",
+      "library": null
+    },
+    {
+      "name": "Opening front 23 1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 24",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 09 side 1",
+      "library": null
+    },
+    {
+      "name": "Unified exact hit 1",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front0 halo",
+      "library": null
+    },
+    {
+      "name": "DW 6 localized contact contour 0.012",
+      "library": null
+    },
+    {
+      "name": "Opening front 18 -1",
+      "library": null
+    },
+    {
+      "name": "S02 2 SEND",
+      "library": null
+    },
+    {
+      "name": "Formation rear 15",
+      "library": null
+    },
+    {
+      "name": "Earth seam 02",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 00 side 1",
+      "library": null
+    },
+    {
+      "name": "Earth seam 29",
+      "library": null
+    },
+    {
+      "name": "MEASURE 5 OUTER COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "MEASURE 1 NEAREST COLUMNS",
+      "library": null
+    },
+    {
+      "name": "DW 3 ECHO front2 core",
+      "library": null
+    },
+    {
+      "name": "S02 v002 RECENT fine wall-fixed samples",
+      "library": null
+    },
+    {
+      "name": "S02 4 temporary contact",
+      "library": null
+    },
+    {
+      "name": "MEASURE 5 CENTRAL COLUMN",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 13 side 1",
+      "library": null
+    },
+    {
+      "name": "Opening front 28 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 28 side 1",
+      "library": null
+    },
+    {
+      "name": "S02 6 RECORDED after reception wall-fixed",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.010",
+      "library": null
+    },
+    {
+      "name": "Unified measurement 1 contact",
+      "library": null
+    },
+    {
+      "name": "Unified exact hit 6",
+      "library": null
+    },
+    {
+      "name": "Formation rear 23",
+      "library": null
+    },
+    {
+      "name": "DW 5 localized contact contour 0.025",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 01 side 1",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front3 digital samples",
+      "library": null
+    },
+    {
+      "name": "RECONSTRUCTION local confirmed region 3",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.007",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front2 core",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 16",
+      "library": null
+    },
+    {
+      "name": "S02 2 ECHO",
+      "library": null
+    },
+    {
+      "name": "Opening front 17 -1",
+      "library": null
+    },
+    {
+      "name": "WF_MASTER_CONTROLS",
+      "library": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v018.blend"
+    },
+    {
+      "name": "DW 2 SEND front2 halo",
+      "library": null
+    },
+    {
+      "name": "DW 4 ECHO front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "Earth seam 01",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.009",
+      "library": null
+    },
+    {
+      "name": "DW 3 contact digital nodes 0.012",
+      "library": null
+    },
+    {
+      "name": "DW 5 ECHO front0 halo",
+      "library": null
+    },
+    {
+      "name": "S02 2 RECORDED after reception wall-fixed",
+      "library": null
+    },
+    {
+      "name": "MEASURE 1 CENTRAL COLUMN connections",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary",
+      "library": null
+    },
+    {
+      "name": "Deck end",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 22 side 1",
+      "library": null
+    },
+    {
+      "name": "Platform leg.002",
+      "library": null
+    },
+    {
+      "name": "DW 1 localized contact contour 0.012",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "Deck end.001",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 23 side -1",
+      "library": null
+    },
+    {
+      "name": "DW 6 contact digital nodes 0.012",
+      "library": null
+    },
+    {
+      "name": "MEASURE 6 CENTRAL COLUMN",
+      "library": null
+    },
+    {
+      "name": "DW 5 ECHO front0 core",
+      "library": null
+    },
+    {
+      "name": "Formation rear 13",
+      "library": null
+    },
+    {
+      "name": "Earth seam 19",
+      "library": null
+    },
+    {
+      "name": "S02 1 ECHO",
+      "library": null
+    },
+    {
+      "name": "DW 2 localized contact contour 0.025",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 17 side -1",
+      "library": null
+    },
+    {
+      "name": "Platform leg.003",
+      "library": null
+    },
+    {
+      "name": "DW 1 localized contact contour 0.025",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 20",
+      "library": null
+    },
+    {
+      "name": "Opening front 21 1",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front2 core",
+      "library": null
+    },
+    {
+      "name": "S02 geological contact wall 5",
+      "library": null
+    },
+    {
+      "name": "Opening front 04 -1",
+      "library": null
+    },
+    {
+      "name": "Waveform v015 \u2014 pending shot binding",
+      "library": null
+    },
+    {
+      "name": "Main solid building",
+      "library": null
+    },
+    {
+      "name": "Opening front 16 -1",
+      "library": null
+    },
+    {
+      "name": "Formation rear 06",
+      "library": null
+    },
+    {
+      "name": "WF_MASTER_CONTROLS",
+      "library": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v020.blend"
+    },
+    {
+      "name": "DW 1 fixed native contact pin",
+      "library": null
+    },
+    {
+      "name": "S02 HISTORY wall-fixed pre-existing 4.8m",
+      "library": null
+    },
+    {
+      "name": "ONE GRID - settled shared cell boundaries",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front3 halo",
+      "library": null
+    },
+    {
+      "name": "RECONSTRUCTION local confirmed region 4",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.008",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row lower edge 22",
+      "library": null
+    },
+    {
+      "name": "S02 history longitudinal samples",
+      "library": null
+    },
+    {
+      "name": "Earth seam 18",
+      "library": null
+    },
+    {
+      "name": "DW 3 ECHO front0 halo",
+      "library": null
+    },
+    {
+      "name": "MEASURE 4 NEAREST COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "S02 side sensor 1",
+      "library": null
+    },
+    {
+      "name": "S02 1 RECORDED after reception wall-fixed",
+      "library": null
+    },
+    {
+      "name": "DW 5 contact digital nodes 0.025",
+      "library": null
+    },
+    {
+      "name": "Earth seam 08",
+      "library": null
+    },
+    {
+      "name": "DW 4 localized contact contour 0.025",
+      "library": null
+    },
+    {
+      "name": "Opening front 20 1",
+      "library": null
+    },
+    {
+      "name": "S02 3 temporary contact",
+      "library": null
+    },
+    {
+      "name": "DW 6 localized digital overlay dimple",
+      "library": null
+    },
+    {
+      "name": "DW 4 contact digital nodes 0.038",
+      "library": null
+    },
+    {
+      "name": "DW 1 ECHO front0 core",
+      "library": null
+    },
+    {
+      "name": "Opening front 26 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 26 side 1",
+      "library": null
+    },
+    {
+      "name": "Unified exact hit 2",
+      "library": null
+    },
+    {
+      "name": "World motion reference grid",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row shared edge 20",
+      "library": null
+    },
+    {
+      "name": "MEASURE 2 NEAREST COLUMNS",
+      "library": null
+    },
+    {
+      "name": "Opening front 01 1",
+      "library": null
+    },
+    {
+      "name": "Opening front 10 1",
+      "library": null
+    },
+    {
+      "name": "S02 sectioned bore boundary.004",
+      "library": null
+    },
+    {
+      "name": "Earth seam 27",
+      "library": null
+    },
+    {
+      "name": "S02 4 ECHO",
+      "library": null
+    },
+    {
+      "name": "DW 5 ECHO front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 12",
+      "library": null
+    },
+    {
+      "name": "Formation rear 20",
+      "library": null
+    },
+    {
+      "name": "DW 2 SEND front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 03 side -1",
+      "library": null
+    },
+    {
+      "name": "DW 2 ECHO front0 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front2 halo",
+      "library": null
+    },
+    {
+      "name": "DW 3 SEND front1 core",
+      "library": null
+    },
+    {
+      "name": "DW 6 localized contact contour 0.025",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 20 side 1",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row lower edge 21",
+      "library": null
+    },
+    {
+      "name": "S02 geological wall retained section",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front3 halo",
+      "library": null
+    },
+    {
+      "name": "Unified acquired row shared edge 24",
+      "library": null
+    },
+    {
+      "name": "DW 6 ECHO front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 2 contact digital nodes 0.012",
+      "library": null
+    },
+    {
+      "name": "DW 3 localized digital overlay dimple",
+      "library": null
+    },
+    {
+      "name": "S02 1 temporary contact",
+      "library": null
+    },
+    {
+      "name": "Earth seam 26",
+      "library": null
+    },
+    {
+      "name": "Opening front 25 -1",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 27",
+      "library": null
+    },
+    {
+      "name": "S02 history longitudinal samples.004",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 11 side -1",
+      "library": null
+    },
+    {
+      "name": "MEASURE 5 NEAREST COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "MEASURE HISTORICAL completed diamond pattern",
+      "library": null
+    },
+    {
+      "name": "MEASURE 1 OUTER COLUMNS connections",
+      "library": null
+    },
+    {
+      "name": "Seabed around drilled opening",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 01",
+      "library": null
+    },
+    {
+      "name": "DW 3 fixed native contact pin",
+      "library": null
+    },
+    {
+      "name": "MEASURE 3 temporary contact at same centre",
+      "library": null
+    },
+    {
+      "name": "S02 5 SEND",
+      "library": null
+    },
+    {
+      "name": "DW 2 ECHO front2 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 4 SEND front1 digital samples",
+      "library": null
+    },
+    {
+      "name": "DW 1 SEND front1 halo",
+      "library": null
+    },
+    {
+      "name": "Earth seam 15",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 15 side -1",
+      "library": null
+    },
+    {
+      "name": "DW 6 SEND front0 halo",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth rear 00",
+      "library": null
+    },
+    {
+      "name": "Opening front 29 1",
+      "library": null
+    },
+    {
+      "name": "S02 geological contact wall 1",
+      "library": null
+    },
+    {
+      "name": "Unified measurement 4 contact",
+      "library": null
+    },
+    {
+      "name": "Cutaway earth 05 side 1",
+      "library": null
+    },
+    {
+      "name": "Opening front 14 -1",
+      "library": null
+    },
+    {
+      "name": "DW 5 SEND front0 core",
+      "library": null
+    },
+    {
+      "name": "RECONSTRUCTION local confirmed region 6",
+      "library": null
+    },
+    {
+      "name": "Formation rear 26",
+      "library": null
+    },
+    {
+      "name": "Formation rear 02",
+      "library": null
+    },
+    {
+      "name": "DW 3 contact digital nodes 0.025",
+      "library": null
+    }
+  ],
+  "protected_dependencies": [
+    {
+      "name": "WF_MASTER_CONTROLS",
+      "library": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v021.blend"
+    }
+  ],
+  "removed_empty_collections": [
+    "REPLACED original waveform travel 1",
+    "REPLACED original waveform travel 2",
+    "REPLACED original waveform travel 3",
+    "REPLACED original waveform travel 4",
+    "REPLACED original waveform travel 5",
+    "REPLACED original waveform travel 6",
+    "REPLACED standalone product and original string",
+    "S02 DIGITAL WAVEFRONT v009",
+    "S02 ONE MEASUREMENT SYSTEM v005",
+    "S02 RECORDED WALL SURFACE v006",
+    "SOURCE PROXIES \u2014 retained disabled"
+  ],
+  "unused_local_fake_users_cleared": [
+    {
+      "kind": "actions",
+      "name": "CAM_S01_ContinuousAction"
+    }
+  ],
+  "orphan_datablocks_purged": 1744,
+  "verified_sample_frames": [
+    1,
+    94,
+    95,
+    120,
+    300,
+    322,
+    340,
+    354,
+    360,
+    382,
+    400,
+    414,
+    420,
+    442,
+    460,
+    474,
+    480,
+    502,
+    520,
+    534,
+    540,
+    562,
+    580,
+    594,
+    600,
+    620,
+    622,
+    640,
+    654,
+    756
+  ],
+  "camera_bha_wall_six_signals_identical": true,
+  "matched_visual_checks": [
+    {
+      "frame": 1,
+      "seconds": 0.6688395000019227,
+      "identical_pixels": false,
+      "mean_abs_linear_error": 1.559663360239938e-05,
+      "max_abs_linear_error": 0.2627451419830322
+    },
+    {
+      "frame": 95,
+      "seconds": 0.4646437000010337,
+      "identical_pixels": true,
+      "mean_abs_linear_error": 0.0,
+      "max_abs_linear_error": 0.0
+    },
+    {
+      "frame": 386,
+      "seconds": 0.2667667000023357,
+      "identical_pixels": true,
+      "mean_abs_linear_error": 0.0,
+      "max_abs_linear_error": 0.0
+    },
+    {
+      "frame": 620,
+      "seconds": 0.2956350000022212,
+      "identical_pixels": false,
+      "mean_abs_linear_error": 1.702069596376532e-08,
+      "max_abs_linear_error": 0.011764705181121826
+    },
+    {
+      "frame": 756,
+      "seconds": 0.2884388000020408,
+      "identical_pixels": false,
+      "mean_abs_linear_error": 1.1914491437892138e-07,
+      "max_abs_linear_error": 0.039215683937072754
+    }
+  ],
+  "saved_reopen": true,
+  "missing_libraries": [],
+  "dof_enabled": false,
+  "source_full_video": "Previews/Full-v026/S01-S02_full_v026.mp4",
+  "render_policy": "Existing v026 full render retained; visual equivalence checked at five frames, not newly full-rendered."
+}

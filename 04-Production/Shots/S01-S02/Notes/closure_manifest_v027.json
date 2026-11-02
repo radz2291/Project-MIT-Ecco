@@ -1,0 +1,92 @@
+{
+  "date_local": "2026-11-03",
+  "ticket": "ECCO-057",
+  "final_native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v027_clean.blend",
+  "range": [
+    1,
+    756
+  ],
+  "fps": 24,
+  "dof_enabled": false,
+  "linked_libraries": [
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+      "absolute": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+      "absolute": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+      "absolute": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+      "absolute": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\..\\..\\..\\Shared\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+      "absolute": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v008.blend",
+      "absolute": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\..\\..\\..\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v021.blend",
+      "absolute": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v021.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v014.blend",
+      "absolute": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v014.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v003.blend",
+      "absolute": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v003.blend",
+      "exists": true
+    }
+  ],
+  "retained_deliverables": [
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v027_clean.blend",
+      "bytes": 3315355,
+      "sha256": "e09bc5fe622303b00caa0e69cbb58ec63188d58614969bfdcb6724f5690afa9b",
+      "storage": "local-only cleaned handoff native"
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v026.blend",
+      "bytes": 19112763,
+      "sha256": "2aa8d05af5b7eaa72d0610dfbb2cd22eba6e851c5d2d63deb944855cc3674f08",
+      "storage": "local-only preserved pre-cleanup source"
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\Full-v026\\S01-S02_full_v026.mp4",
+      "bytes": 9415204,
+      "sha256": "031ffb22281781b0abadbdcedf348fc3922e519c3da78d55cdc4e2366eeb292d",
+      "storage": "local-only reviewed full render of v026; matched cleanup checks, not a new v027 full render"
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_DOF_investigation_v002.blend",
+      "bytes": 19081890,
+      "sha256": "a6cdd8fa94283ffe4f7f97dc1bf7c5ec8176f1b978439314918d71c1d5c58cc1",
+      "storage": "local-only frozen-frame investigation, not production"
+    },
+    {
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\DOF-investigation-v002\\separate_composite.png",
+      "bytes": 430040,
+      "sha256": "3e1939d13fd76d9bfb781afa60cd545eae650e0325ab78962b5cf9ecc92ed3c0",
+      "storage": "Git-tracked selected research still"
+    }
+  ],
+  "backup": "Originals/predecessors retained locally; no off-machine native/video backup verified. Selected records/stills synchronized separately.",
+  "verification": "v027 reopened; nine libraries resolve. cleanup_v027.json:30 matching camera/BHA/wall/six-signal samples and five matched visual frames. Full v026 video decode/chronological review evidence retained."
+}

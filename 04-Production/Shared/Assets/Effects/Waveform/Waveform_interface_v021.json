@@ -73,6 +73,7 @@
     "cameras": 0
   },
   "consumers": [
+    "04-Production/Shots/S01-S02/Scenes/S01-S02_production_v027_clean.blend: final cleaned six-exchange handoff; v026 reviewed full render preserved",
     "04-Production/Shots/S01-S02/Scenes/S01-S02_production_v016.blend: six exchanges",
     "04-Production/Shared/Demos/Beam_exchange_approved_demo_v021.blend: inspection fixture"
   ]
