@@ -1,0 +1,12 @@
+{
+  "status": "complete",
+  "frames": 97,
+  "fps": 12,
+  "duration_seconds": 8.083333333333334,
+  "wall_seconds": 73.50558662414551,
+  "active_seconds": 43.650917800008756,
+  "average_seconds": 0.45000946185576035,
+  "max_seconds": 1.1112319999992906,
+  "decoded_review_frames": 97,
+  "review_method": "Entire encoded sequence decoded into five chronological pages, all pages inspected; last page has one real frame and padding."
+}

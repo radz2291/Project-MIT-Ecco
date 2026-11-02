@@ -1,0 +1,128 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v022.blend",
+  "sha256": "623f4396931c1e02ce32ec507533553fdba1ad3cb0867d777da93dabc5862ed9",
+  "source": "S01-S02_production_v021.blend",
+  "visual_review_failure": "v021 reveal stayed mostly above the crop; camera uncovered already-blue geometry, not a visible advancing front.",
+  "reveal_start": 532,
+  "front_exit_target": 700,
+  "camera_pull": [
+    474,
+    720
+  ],
+  "screen_front_samples": [
+    {
+      "frame": 474,
+      "progress": 0.0,
+      "z": -729.499931640625,
+      "screen_front": [
+        1.8452346324920654,
+        1.3049041032791138
+      ]
+    },
+    {
+      "frame": 532,
+      "progress": 0.0,
+      "z": -729.499931640625,
+      "screen_front": [
+        0.6639301776885986,
+        0.38555198907852173
+      ]
+    },
+    {
+      "frame": 550,
+      "progress": 0.035816326530612244,
+      "z": -729.4931437800329,
+      "screen_front": [
+        0.5464270114898682,
+        0.41614773869514465
+      ]
+    },
+    {
+      "frame": 580,
+      "progress": 0.22204081632653064,
+      "z": -729.3980443902619,
+      "screen_front": [
+        0.5217138528823853,
+        0.5358226299285889
+      ]
+    },
+    {
+      "frame": 600,
+      "progress": 0.4019349962207106,
+      "z": -729.1702924110491,
+      "screen_front": [
+        0.5510246157646179,
+        0.6281439065933228
+      ]
+    },
+    {
+      "frame": 620,
+      "progress": 0.5999697656840515,
+      "z": -728.6389591201277,
+      "screen_front": [
+        0.619504988193512,
+        0.7412065863609314
+      ]
+    },
+    {
+      "frame": 640,
+      "progress": 0.7934693877551022,
+      "z": -727.5876401763701,
+      "screen_front": [
+        0.7317376732826233,
+        0.8640738725662231
+      ]
+    },
+    {
+      "frame": 660,
+      "progress": 0.9597581254724112,
+      "z": -725.86189279733,
+      "screen_front": [
+        0.871569812297821,
+        0.9735921621322632
+      ]
+    },
+    {
+      "frame": 680,
+      "progress": 1.0761602418745275,
+      "z": -723.7652820270079,
+      "screen_front": [
+        0.9970366954803467,
+        1.0495030879974365
+      ]
+    },
+    {
+      "frame": 700,
+      "progress": 1.12,
+      "z": -722.4336521321254,
+      "screen_front": [
+        1.0583103895187378,
+        1.0774996280670166
+      ]
+    },
+    {
+      "frame": 720,
+      "progress": 1.12,
+      "z": -722.247767903266,
+      "screen_front": [
+        1.064640998840332,
+        1.0774109363555908
+      ]
+    }
+  ],
+  "history_faces_retimed": 73216,
+  "preserved": [
+    "camera",
+    "sixbeam/pulse/contact/localtileanimations",
+    "settledbluecolor",
+    "extendedclosedwideshell",
+    "finaldisplaycleanupandedgefix",
+    "sharedmasters"
+  ],
+  "native_settle_frames": 4,
+  "cell_start_stagger_frames": [
+    0,
+    2
+  ],
+  "review_required": "Entire decoded new motion sequence, not just endpoint coverage."
+}

@@ -1,0 +1,63 @@
+{
+  "saved_native_reopens": true,
+  "settled_color_match_events": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "common_rgba": [
+    0.03347112238407135,
+    0.4285815358161926,
+    0.9224518537521362,
+    0.20103341341018677
+  ],
+  "upward_front_progress": [
+    {
+      "frame": 474,
+      "revealed_faces": 48,
+      "front_z": -729.4999389648438
+    },
+    {
+      "frame": 528,
+      "revealed_faces": 64,
+      "front_z": -729.4999389648438
+    },
+    {
+      "frame": 600,
+      "revealed_faces": 2894,
+      "front_z": -729.1548461914062
+    },
+    {
+      "frame": 660,
+      "revealed_faces": 31152,
+      "front_z": -725.7646484375
+    },
+    {
+      "frame": 720,
+      "revealed_faces": 61920,
+      "front_z": -722.2539672851562
+    },
+    {
+      "frame": 756,
+      "revealed_faces": 61920,
+      "front_z": -722.2539672851562
+    }
+  ],
+  "revealed_front_outside_final_crop": true,
+  "revealed_front_projected_bounds": {
+    "x": [
+      1.0421088253916801,
+      1.0869016890296386
+    ],
+    "y": [
+      1.0361868533862153,
+      1.1183184703486009
+    ]
+  },
+  "relative_links_resolve": true,
+  "current_patch_faces": 96,
+  "scene_seconds": 31.5
+}

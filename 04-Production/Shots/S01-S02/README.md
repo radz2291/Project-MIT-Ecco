@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v021.blend`. Scanned patches and history settle to one blue; shell extends past the final crop; upward history reveal follows the actual474–720camera pullback. Approved beam/pulse/local tile animation and closed wide shell retained. [Current handoff](Notes/shell_sync_v021_handoff.md). Quick8FPSchanged-section preview: `Previews/Shell-sync-v021-final/camera_reveal_v021.mp4`; two1080pstills beside it. Scene remains31.5seconds/24FPS. Owner review open; no full-shot rerender.
+Current: `Scenes/S01-S02_production_v022.blend`. Upward reveal reworked after full encoded-video review showed v021front stayed offscreen. The recorded surface now advances visibly through the picture after the fourth exchange, then leaves the crop near the end of the unchanged pullback. Matchedblue/continuation/closedwide and sixapprovedscananimationsretained. [Current visual review and handoff](Notes/visible_front_v022_handoff.md). Preview: `Previews/Visible-front-v022/camera_reveal_v022.mp4`,97frames/12FPS/8.083seconds, source528–720. Whole-shot owner review remains open.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 
