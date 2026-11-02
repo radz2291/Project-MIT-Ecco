@@ -1,0 +1,983 @@
+{
+  "settings": {
+    "engine": "WORKBENCH",
+    "resolution": [
+      1280,
+      720
+    ],
+    "AA": 8,
+    "fps": 24
+  },
+  "rows": [
+    {
+      "label": "maximum density overlap",
+      "frame": 36,
+      "seconds": 1.2781151000090176
+    },
+    {
+      "label": "approved default",
+      "frame": 18,
+      "seconds": 0.2568923999933759
+    },
+    {
+      "label": "approved orbit",
+      "frame": 1,
+      "seconds": 0.195562399996561
+    },
+    {
+      "label": "approved orbit",
+      "frame": 2,
+      "seconds": 0.15503280000120867
+    },
+    {
+      "label": "approved orbit",
+      "frame": 3,
+      "seconds": 0.16714540000248235
+    },
+    {
+      "label": "approved orbit",
+      "frame": 4,
+      "seconds": 0.23205740000412334
+    },
+    {
+      "label": "approved orbit",
+      "frame": 5,
+      "seconds": 0.23526669999409933
+    },
+    {
+      "label": "approved orbit",
+      "frame": 6,
+      "seconds": 0.23456810000061523
+    },
+    {
+      "label": "approved orbit",
+      "frame": 7,
+      "seconds": 0.2134583000006387
+    },
+    {
+      "label": "approved orbit",
+      "frame": 8,
+      "seconds": 0.21610410000721458
+    },
+    {
+      "label": "approved orbit",
+      "frame": 9,
+      "seconds": 0.1817538000032073
+    },
+    {
+      "label": "approved orbit",
+      "frame": 10,
+      "seconds": 0.18759280000813305
+    },
+    {
+      "label": "approved orbit",
+      "frame": 11,
+      "seconds": 0.20139709999784827
+    },
+    {
+      "label": "approved orbit",
+      "frame": 12,
+      "seconds": 0.22628529999929015
+    },
+    {
+      "label": "approved orbit",
+      "frame": 13,
+      "seconds": 0.2154731000046013
+    },
+    {
+      "label": "approved orbit",
+      "frame": 14,
+      "seconds": 0.19382780000159983
+    },
+    {
+      "label": "approved orbit",
+      "frame": 15,
+      "seconds": 0.1885516999900574
+    },
+    {
+      "label": "approved orbit",
+      "frame": 16,
+      "seconds": 0.21795760000532027
+    },
+    {
+      "label": "approved orbit",
+      "frame": 17,
+      "seconds": 0.20059910000418313
+    },
+    {
+      "label": "approved orbit",
+      "frame": 18,
+      "seconds": 0.28207329999713693
+    },
+    {
+      "label": "approved orbit",
+      "frame": 19,
+      "seconds": 0.37870820000534877
+    },
+    {
+      "label": "approved orbit",
+      "frame": 20,
+      "seconds": 0.3014409000024898
+    },
+    {
+      "label": "approved orbit",
+      "frame": 21,
+      "seconds": 0.21725079999305308
+    },
+    {
+      "label": "approved orbit",
+      "frame": 22,
+      "seconds": 0.18945890000031795
+    },
+    {
+      "label": "approved orbit",
+      "frame": 23,
+      "seconds": 0.2163702999969246
+    },
+    {
+      "label": "approved orbit",
+      "frame": 24,
+      "seconds": 0.23463009999250062
+    },
+    {
+      "label": "approved orbit",
+      "frame": 25,
+      "seconds": 0.23360210000828374
+    },
+    {
+      "label": "approved orbit",
+      "frame": 26,
+      "seconds": 0.2674466000025859
+    },
+    {
+      "label": "approved orbit",
+      "frame": 27,
+      "seconds": 0.23031430000264663
+    },
+    {
+      "label": "approved orbit",
+      "frame": 28,
+      "seconds": 0.23741159999917727
+    },
+    {
+      "label": "approved orbit",
+      "frame": 29,
+      "seconds": 0.22039349999977276
+    },
+    {
+      "label": "approved orbit",
+      "frame": 30,
+      "seconds": 0.20122919999994338
+    },
+    {
+      "label": "approved orbit",
+      "frame": 31,
+      "seconds": 0.19726319999608677
+    },
+    {
+      "label": "approved orbit",
+      "frame": 32,
+      "seconds": 0.20625350000045728
+    },
+    {
+      "label": "approved orbit",
+      "frame": 33,
+      "seconds": 0.17571229999884963
+    },
+    {
+      "label": "approved orbit",
+      "frame": 34,
+      "seconds": 0.18331590000889264
+    },
+    {
+      "label": "approved orbit",
+      "frame": 35,
+      "seconds": 0.21954040000855457
+    },
+    {
+      "label": "approved orbit",
+      "frame": 36,
+      "seconds": 0.2581135000073118
+    },
+    {
+      "label": "approved orbit",
+      "frame": 37,
+      "seconds": 0.22119729999394622
+    },
+    {
+      "label": "approved orbit",
+      "frame": 38,
+      "seconds": 0.1951855999941472
+    },
+    {
+      "label": "approved orbit",
+      "frame": 39,
+      "seconds": 0.20027040000422858
+    },
+    {
+      "label": "approved orbit",
+      "frame": 40,
+      "seconds": 0.3429090999998152
+    },
+    {
+      "label": "approved orbit",
+      "frame": 41,
+      "seconds": 0.26393000000098255
+    },
+    {
+      "label": "approved orbit",
+      "frame": 42,
+      "seconds": 0.23571179999271408
+    },
+    {
+      "label": "approved orbit",
+      "frame": 43,
+      "seconds": 0.18950190000759903
+    },
+    {
+      "label": "approved orbit",
+      "frame": 44,
+      "seconds": 0.22861239999474492
+    },
+    {
+      "label": "approved orbit",
+      "frame": 45,
+      "seconds": 0.21308530001260806
+    },
+    {
+      "label": "approved orbit",
+      "frame": 46,
+      "seconds": 0.2285583999910159
+    },
+    {
+      "label": "approved orbit",
+      "frame": 47,
+      "seconds": 0.25505409999459516
+    },
+    {
+      "label": "approved orbit",
+      "frame": 48,
+      "seconds": 0.20624699999461882
+    },
+    {
+      "label": "approved orbit",
+      "frame": 49,
+      "seconds": 0.1791646000056062
+    },
+    {
+      "label": "approved orbit",
+      "frame": 50,
+      "seconds": 0.17784889999893494
+    },
+    {
+      "label": "approved orbit",
+      "frame": 51,
+      "seconds": 0.18271059999824502
+    },
+    {
+      "label": "approved orbit",
+      "frame": 52,
+      "seconds": 0.23457839999173302
+    },
+    {
+      "label": "approved orbit",
+      "frame": 53,
+      "seconds": 0.22578529999009334
+    },
+    {
+      "label": "approved orbit",
+      "frame": 54,
+      "seconds": 0.22607439999410417
+    },
+    {
+      "label": "approved orbit",
+      "frame": 55,
+      "seconds": 0.21844640000199433
+    },
+    {
+      "label": "approved orbit",
+      "frame": 56,
+      "seconds": 0.24946610000915825
+    },
+    {
+      "label": "approved orbit",
+      "frame": 57,
+      "seconds": 0.24596610000298824
+    },
+    {
+      "label": "approved orbit",
+      "frame": 58,
+      "seconds": 0.289508100002422
+    },
+    {
+      "label": "approved orbit",
+      "frame": 59,
+      "seconds": 0.4397640999959549
+    },
+    {
+      "label": "approved orbit",
+      "frame": 60,
+      "seconds": 0.24034849999588914
+    },
+    {
+      "label": "approved orbit",
+      "frame": 61,
+      "seconds": 0.22462940000696108
+    },
+    {
+      "label": "approved orbit",
+      "frame": 62,
+      "seconds": 0.2811703000043053
+    },
+    {
+      "label": "approved orbit",
+      "frame": 63,
+      "seconds": 0.28072949999477714
+    },
+    {
+      "label": "approved orbit",
+      "frame": 64,
+      "seconds": 0.24227620000601746
+    },
+    {
+      "label": "approved orbit",
+      "frame": 65,
+      "seconds": 0.21144170001207385
+    },
+    {
+      "label": "approved orbit",
+      "frame": 66,
+      "seconds": 0.18950119998771697
+    },
+    {
+      "label": "approved orbit",
+      "frame": 67,
+      "seconds": 0.23299420000694226
+    },
+    {
+      "label": "approved orbit",
+      "frame": 68,
+      "seconds": 0.2295081000047503
+    },
+    {
+      "label": "approved orbit",
+      "frame": 69,
+      "seconds": 0.1935446999996202
+    },
+    {
+      "label": "approved orbit",
+      "frame": 70,
+      "seconds": 0.20441679999930784
+    },
+    {
+      "label": "approved orbit",
+      "frame": 71,
+      "seconds": 0.20416300000215415
+    },
+    {
+      "label": "approved orbit",
+      "frame": 72,
+      "seconds": 0.20824050001101568
+    },
+    {
+      "label": "approved orbit",
+      "frame": 73,
+      "seconds": 0.23311849999299739
+    },
+    {
+      "label": "approved orbit",
+      "frame": 74,
+      "seconds": 0.20047260000137612
+    },
+    {
+      "label": "approved orbit",
+      "frame": 75,
+      "seconds": 0.23423170000023674
+    },
+    {
+      "label": "approved orbit",
+      "frame": 76,
+      "seconds": 0.3944508999993559
+    },
+    {
+      "label": "approved orbit",
+      "frame": 77,
+      "seconds": 0.2509511999960523
+    },
+    {
+      "label": "approved orbit",
+      "frame": 78,
+      "seconds": 0.22199940000427887
+    },
+    {
+      "label": "approved orbit",
+      "frame": 79,
+      "seconds": 0.2365570999972988
+    },
+    {
+      "label": "approved orbit",
+      "frame": 80,
+      "seconds": 0.2512510999949882
+    },
+    {
+      "label": "approved orbit",
+      "frame": 81,
+      "seconds": 0.21729630000481848
+    },
+    {
+      "label": "approved orbit",
+      "frame": 82,
+      "seconds": 0.1741710000060266
+    },
+    {
+      "label": "approved orbit",
+      "frame": 83,
+      "seconds": 0.17105769999034237
+    },
+    {
+      "label": "approved orbit",
+      "frame": 84,
+      "seconds": 0.18008360000385437
+    },
+    {
+      "label": "approved orbit",
+      "frame": 85,
+      "seconds": 0.22202180000022054
+    },
+    {
+      "label": "approved orbit",
+      "frame": 86,
+      "seconds": 0.21746390000043903
+    },
+    {
+      "label": "approved orbit",
+      "frame": 87,
+      "seconds": 0.16923110000789165
+    },
+    {
+      "label": "approved orbit",
+      "frame": 88,
+      "seconds": 0.20478580000053626
+    },
+    {
+      "label": "approved orbit",
+      "frame": 89,
+      "seconds": 0.21816299999773037
+    },
+    {
+      "label": "approved orbit",
+      "frame": 90,
+      "seconds": 0.19986980000976473
+    },
+    {
+      "label": "approved orbit",
+      "frame": 91,
+      "seconds": 0.21037880000949372
+    },
+    {
+      "label": "approved orbit",
+      "frame": 92,
+      "seconds": 0.18329270000685938
+    },
+    {
+      "label": "approved orbit",
+      "frame": 93,
+      "seconds": 0.20549670000036713
+    },
+    {
+      "label": "approved orbit",
+      "frame": 94,
+      "seconds": 0.18560749999596737
+    },
+    {
+      "label": "approved orbit",
+      "frame": 95,
+      "seconds": 0.24695620000420604
+    },
+    {
+      "label": "approved orbit",
+      "frame": 96,
+      "seconds": 0.2718100000056438
+    },
+    {
+      "label": "approved orbit",
+      "frame": 97,
+      "seconds": 0.2365455999970436
+    },
+    {
+      "label": "approved orbit",
+      "frame": 98,
+      "seconds": 0.23279240001284052
+    },
+    {
+      "label": "approved orbit",
+      "frame": 99,
+      "seconds": 0.2708331000030739
+    },
+    {
+      "label": "approved orbit",
+      "frame": 100,
+      "seconds": 0.24189669999759644
+    },
+    {
+      "label": "approved orbit",
+      "frame": 101,
+      "seconds": 0.1865453000064008
+    },
+    {
+      "label": "approved orbit",
+      "frame": 102,
+      "seconds": 0.17803419999836478
+    },
+    {
+      "label": "approved orbit",
+      "frame": 103,
+      "seconds": 0.19840710000426043
+    },
+    {
+      "label": "approved orbit",
+      "frame": 104,
+      "seconds": 0.2346791000018129
+    },
+    {
+      "label": "approved orbit",
+      "frame": 105,
+      "seconds": 0.21440119999169838
+    },
+    {
+      "label": "approved orbit",
+      "frame": 106,
+      "seconds": 0.1966437999944901
+    },
+    {
+      "label": "approved orbit",
+      "frame": 107,
+      "seconds": 0.1981973000074504
+    },
+    {
+      "label": "approved orbit",
+      "frame": 108,
+      "seconds": 0.19962249998934567
+    },
+    {
+      "label": "approved orbit",
+      "frame": 109,
+      "seconds": 0.2121461999922758
+    },
+    {
+      "label": "approved orbit",
+      "frame": 110,
+      "seconds": 0.21731619999627583
+    },
+    {
+      "label": "approved orbit",
+      "frame": 111,
+      "seconds": 0.2300002999982098
+    },
+    {
+      "label": "approved orbit",
+      "frame": 112,
+      "seconds": 0.2455889999982901
+    },
+    {
+      "label": "approved orbit",
+      "frame": 113,
+      "seconds": 0.19357090000994503
+    },
+    {
+      "label": "approved orbit",
+      "frame": 114,
+      "seconds": 0.22071839999989606
+    },
+    {
+      "label": "approved orbit",
+      "frame": 115,
+      "seconds": 0.43379290000302717
+    },
+    {
+      "label": "approved orbit",
+      "frame": 116,
+      "seconds": 0.3323240000026999
+    },
+    {
+      "label": "approved orbit",
+      "frame": 117,
+      "seconds": 0.23614490000181831
+    },
+    {
+      "label": "approved orbit",
+      "frame": 118,
+      "seconds": 0.2379038000071887
+    },
+    {
+      "label": "approved orbit",
+      "frame": 119,
+      "seconds": 0.19205650000367314
+    },
+    {
+      "label": "approved orbit",
+      "frame": 120,
+      "seconds": 0.2272060999966925
+    },
+    {
+      "label": "approved orbit",
+      "frame": 121,
+      "seconds": 0.25154579999798443
+    },
+    {
+      "label": "approved orbit",
+      "frame": 122,
+      "seconds": 0.20761340000899509
+    },
+    {
+      "label": "approved orbit",
+      "frame": 123,
+      "seconds": 0.19842480000806972
+    },
+    {
+      "label": "approved orbit",
+      "frame": 124,
+      "seconds": 0.23124909999023657
+    },
+    {
+      "label": "approved orbit",
+      "frame": 125,
+      "seconds": 0.22963220000383444
+    },
+    {
+      "label": "approved orbit",
+      "frame": 126,
+      "seconds": 0.29893219999212306
+    },
+    {
+      "label": "approved orbit",
+      "frame": 127,
+      "seconds": 0.23775149999710266
+    },
+    {
+      "label": "approved orbit",
+      "frame": 128,
+      "seconds": 0.19323989999247715
+    },
+    {
+      "label": "approved orbit",
+      "frame": 129,
+      "seconds": 0.1742577999975765
+    },
+    {
+      "label": "approved orbit",
+      "frame": 130,
+      "seconds": 0.21175750000111293
+    },
+    {
+      "label": "approved orbit",
+      "frame": 131,
+      "seconds": 0.21507320000091568
+    },
+    {
+      "label": "approved orbit",
+      "frame": 132,
+      "seconds": 0.21961290000763256
+    },
+    {
+      "label": "approved orbit",
+      "frame": 133,
+      "seconds": 0.20056850000401028
+    },
+    {
+      "label": "approved orbit",
+      "frame": 134,
+      "seconds": 0.23693789998651482
+    },
+    {
+      "label": "approved orbit",
+      "frame": 135,
+      "seconds": 0.34685190000163857
+    },
+    {
+      "label": "approved orbit",
+      "frame": 136,
+      "seconds": 0.2841327000060119
+    },
+    {
+      "label": "approved orbit",
+      "frame": 137,
+      "seconds": 0.2833077000104822
+    },
+    {
+      "label": "approved orbit",
+      "frame": 138,
+      "seconds": 0.21992209999007173
+    },
+    {
+      "label": "approved orbit",
+      "frame": 139,
+      "seconds": 0.18977610000001732
+    },
+    {
+      "label": "approved orbit",
+      "frame": 140,
+      "seconds": 0.16375890000199433
+    },
+    {
+      "label": "approved orbit",
+      "frame": 141,
+      "seconds": 0.16879779999726452
+    },
+    {
+      "label": "approved orbit",
+      "frame": 142,
+      "seconds": 0.1917087000038009
+    },
+    {
+      "label": "approved orbit",
+      "frame": 143,
+      "seconds": 0.2482462000043597
+    },
+    {
+      "label": "approved orbit",
+      "frame": 144,
+      "seconds": 0.23164290000568144
+    },
+    {
+      "label": "approved orbit",
+      "frame": 145,
+      "seconds": 0.20575320000352804
+    },
+    {
+      "label": "approved orbit",
+      "frame": 146,
+      "seconds": 0.2271136000053957
+    },
+    {
+      "label": "approved orbit",
+      "frame": 147,
+      "seconds": 0.24296760000288486
+    },
+    {
+      "label": "approved orbit",
+      "frame": 148,
+      "seconds": 0.22129950000089593
+    },
+    {
+      "label": "approved orbit",
+      "frame": 149,
+      "seconds": 0.2502163000026485
+    },
+    {
+      "label": "approved orbit",
+      "frame": 150,
+      "seconds": 0.2125837999919895
+    },
+    {
+      "label": "approved orbit",
+      "frame": 151,
+      "seconds": 0.1815582999988692
+    },
+    {
+      "label": "approved orbit",
+      "frame": 152,
+      "seconds": 0.1948827999876812
+    },
+    {
+      "label": "approved orbit",
+      "frame": 153,
+      "seconds": 0.22000840000691824
+    },
+    {
+      "label": "approved orbit",
+      "frame": 154,
+      "seconds": 0.4109399000008125
+    },
+    {
+      "label": "approved orbit",
+      "frame": 155,
+      "seconds": 0.3221768999937922
+    },
+    {
+      "label": "approved orbit",
+      "frame": 156,
+      "seconds": 0.22573710000142455
+    },
+    {
+      "label": "approved orbit",
+      "frame": 157,
+      "seconds": 0.21870990000024904
+    },
+    {
+      "label": "approved orbit",
+      "frame": 158,
+      "seconds": 0.20516079998924397
+    },
+    {
+      "label": "approved orbit",
+      "frame": 159,
+      "seconds": 0.2312975000095321
+    },
+    {
+      "label": "approved orbit",
+      "frame": 160,
+      "seconds": 0.24484500000835396
+    },
+    {
+      "label": "approved orbit",
+      "frame": 161,
+      "seconds": 0.18924799999513198
+    },
+    {
+      "label": "approved orbit",
+      "frame": 162,
+      "seconds": 0.2014257999981055
+    },
+    {
+      "label": "approved orbit",
+      "frame": 163,
+      "seconds": 0.21858919999795035
+    },
+    {
+      "label": "approved orbit",
+      "frame": 164,
+      "seconds": 0.22775020000699442
+    },
+    {
+      "label": "approved orbit",
+      "frame": 165,
+      "seconds": 0.2717096999986097
+    },
+    {
+      "label": "approved orbit",
+      "frame": 166,
+      "seconds": 0.23500680000870489
+    },
+    {
+      "label": "approved orbit",
+      "frame": 167,
+      "seconds": 0.19555509999918286
+    },
+    {
+      "label": "approved orbit",
+      "frame": 168,
+      "seconds": 0.19692679999570828
+    },
+    {
+      "label": "approved orbit",
+      "frame": 169,
+      "seconds": 0.21950849999848288
+    },
+    {
+      "label": "approved orbit",
+      "frame": 170,
+      "seconds": 0.2073631000093883
+    },
+    {
+      "label": "approved orbit",
+      "frame": 171,
+      "seconds": 0.22228290000930429
+    },
+    {
+      "label": "approved orbit",
+      "frame": 172,
+      "seconds": 0.22328739998920355
+    },
+    {
+      "label": "approved orbit",
+      "frame": 173,
+      "seconds": 0.19280750000325497
+    },
+    {
+      "label": "approved orbit",
+      "frame": 174,
+      "seconds": 0.25080190000880975
+    },
+    {
+      "label": "approved orbit",
+      "frame": 175,
+      "seconds": 0.28844499999831896
+    },
+    {
+      "label": "approved orbit",
+      "frame": 176,
+      "seconds": 0.2485031000105664
+    },
+    {
+      "label": "approved orbit",
+      "frame": 177,
+      "seconds": 0.21507790000759996
+    },
+    {
+      "label": "approved orbit",
+      "frame": 178,
+      "seconds": 0.2278059999953257
+    },
+    {
+      "label": "approved orbit",
+      "frame": 179,
+      "seconds": 0.1904391999996733
+    },
+    {
+      "label": "approved orbit",
+      "frame": 180,
+      "seconds": 0.17502719999174587
+    },
+    {
+      "label": "approved orbit",
+      "frame": 181,
+      "seconds": 0.18096030000015162
+    },
+    {
+      "label": "approved orbit",
+      "frame": 182,
+      "seconds": 0.18505100000766106
+    },
+    {
+      "label": "approved orbit",
+      "frame": 183,
+      "seconds": 0.20623029999842402
+    },
+    {
+      "label": "approved orbit",
+      "frame": 184,
+      "seconds": 0.23323559999698773
+    },
+    {
+      "label": "approved orbit",
+      "frame": 185,
+      "seconds": 0.23577780000050552
+    },
+    {
+      "label": "approved orbit",
+      "frame": 186,
+      "seconds": 0.21323369999299757
+    },
+    {
+      "label": "approved orbit",
+      "frame": 187,
+      "seconds": 0.18216860000393353
+    },
+    {
+      "label": "approved orbit",
+      "frame": 188,
+      "seconds": 0.16231949999928474
+    },
+    {
+      "label": "approved orbit",
+      "frame": 189,
+      "seconds": 0.17474010000296403
+    },
+    {
+      "label": "approved orbit",
+      "frame": 190,
+      "seconds": 0.18945419999363367
+    },
+    {
+      "label": "approved orbit",
+      "frame": 191,
+      "seconds": 0.2382759000029182
+    },
+    {
+      "label": "approved orbit",
+      "frame": 192,
+      "seconds": 0.1771739000105299
+    }
+  ]
+}

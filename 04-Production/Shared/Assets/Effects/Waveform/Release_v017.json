@@ -1,0 +1,32 @@
+{
+  "status": "approved design; shared native technically finalized",
+  "approved_reference": "Waveform_direction_quick_v006.blend",
+  "behavior_checks": 54,
+  "all_pass": true,
+  "sample_correspondence": {
+    "samples": 960,
+    "max_error_m": 3.7066638469696045e-07
+  },
+  "rendered_frames": 192,
+  "duration_seconds": 8,
+  "max_full_render_seconds": 1.2781151000090176,
+  "render_settings": {
+    "engine": "WORKBENCH",
+    "resolution": [
+      1280,
+      720
+    ],
+    "AA": 8,
+    "fps": 24
+  },
+  "source_sha256": "1729dba51adf74121ac8dc982f945c77ee37464716ffc7e23d28543b88c5c20b",
+  "demo_sha256": "a54b69205f4ee49f7f931386364fab6a3e1f0c2dff38a218e67c74550674ced6",
+  "preview": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Previews\\Waveform_v017\\approved_pulse_360_v017.mp4",
+  "preview_sha256": "70c1ed733240bb1f0ae9c7ce04a92dd6ee483f547b6c49bd5ecd952c2cc466f2",
+  "decode": "192 frames / 8.000s, zero dropped/duplicated; ffmpeg decode completed",
+  "consumers": [
+    "Shared/Demos/Waveform_demo_v017.blend"
+  ],
+  "production_migration": "pending, no shot links changed",
+  "native_media_backup": "local only; no off-machine backup claimed"
+}

@@ -1,0 +1,433 @@
+{
+  "checks": [
+    {
+      "name": "clean library",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "native groups",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "finite visible field",
+      "pass": true,
+      "detail": 8444
+    },
+    {
+      "name": "Send head arrival",
+      "pass": true,
+      "detail": 21.0
+    },
+    {
+      "name": "Send tail arrival",
+      "pass": true,
+      "detail": 41.0
+    },
+    {
+      "name": "Return start",
+      "pass": true,
+      "detail": 43.0
+    },
+    {
+      "name": "Return head arrival",
+      "pass": true,
+      "detail": 59.0
+    },
+    {
+      "name": "Return tail arrival",
+      "pass": true,
+      "detail": 79.0
+    },
+    {
+      "name": "Cycle frames",
+      "pass": true,
+      "detail": 96.0
+    },
+    {
+      "name": "quiet frame 1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "quiet frame 4",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "quiet frame 80",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "quiet frame 96",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "loop matches",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "live shared Pulse count",
+      "pass": true,
+      "detail": {
+        "base": [
+          8444,
+          3.150668691585515,
+          1.1678044128649328
+        ],
+        "changed": [
+          4724,
+          2.1904843940669774,
+          1.0589950920139728
+        ]
+      }
+    },
+    {
+      "name": "live shared Pulse spacing",
+      "pass": true,
+      "detail": {
+        "base": [
+          8444,
+          3.150668691585515,
+          1.1678044128649328
+        ],
+        "changed": [
+          8444,
+          2.348220394916502,
+          1.1607381644405508
+        ]
+      }
+    },
+    {
+      "name": "live shared Variation seed",
+      "pass": true,
+      "detail": {
+        "base": [
+          8444,
+          3.150668691585515,
+          1.1678044128649328
+        ],
+        "changed": [
+          8444,
+          3.30341214442522,
+          1.1734692665953004
+        ]
+      }
+    },
+    {
+      "name": "live shared Spike width",
+      "pass": true,
+      "detail": {
+        "base": [
+          8444,
+          3.150668691585515,
+          1.1678044128649328
+        ],
+        "changed": [
+          8444,
+          8.618907971729184,
+          1.1814006198832703
+        ]
+      }
+    },
+    {
+      "name": "live shared Height m",
+      "pass": true,
+      "detail": {
+        "base": [
+          8444,
+          3.150668691585515,
+          1.1678044128649328
+        ],
+        "changed": [
+          8444,
+          5.728488454773097,
+          1.2421453156432087
+        ]
+      }
+    },
+    {
+      "name": "live shared Strand count",
+      "pass": true,
+      "detail": {
+        "base": [
+          8444,
+          3.150668691585515,
+          1.1678044128649328
+        ],
+        "changed": [
+          28412,
+          10.70797411705171,
+          3.8988010867492067
+        ]
+      }
+    },
+    {
+      "name": "live shared Strand separation",
+      "pass": true,
+      "detail": {
+        "base": [
+          8444,
+          3.150668691585515,
+          1.1678044128649328
+        ],
+        "changed": [
+          8444,
+          3.145198944447817,
+          1.1622254832293628
+        ]
+      }
+    },
+    {
+      "name": "live shared Ribbon depth m",
+      "pass": true,
+      "detail": {
+        "base": [
+          8444,
+          3.150668691585515,
+          1.1678044128649328
+        ],
+        "changed": [
+          8444,
+          3.150668691585515,
+          1.194765970783068
+        ]
+      }
+    },
+    {
+      "name": "live shared Strand radius m",
+      "pass": true,
+      "detail": {
+        "base": [
+          8444,
+          3.150668691585515,
+          1.1678044128649328
+        ],
+        "changed": [
+          8444,
+          3.1506686797985695,
+          1.1681011816922713
+        ]
+      }
+    },
+    {
+      "name": "live shared Show head tail",
+      "pass": true,
+      "detail": {
+        "base": [
+          8444,
+          3.150668691585515,
+          1.1678044128649328
+        ],
+        "changed": [
+          8320,
+          3.150668692485191,
+          1.1430739266444654
+        ]
+      }
+    },
+    {
+      "name": "instance Enabled",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "instance Mode 0 Both 1 Send 2 Return",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "instance Pulse count override",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "instance Strand count override",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "instance Strand separation override",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "instance Strength multiplier",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "instance Width multiplier",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "instance Radius multiplier",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "instance Show markers",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "return disabled",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "one shot remains quiet",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "return-only immediate",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "FPS duration",
+      "pass": true,
+      "detail": 97.49999237060547
+    },
+    {
+      "name": "speed coherently scales",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "fit exact completion",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "color driver safe with scripts disabled",
+      "pass": true,
+      "detail": [
+        0.800000011920929,
+        0.20000000298023224,
+        0.10000000149011612,
+        1.0
+      ]
+    },
+    {
+      "name": "anchor basis (0.02, 0.03, 0.01)(0, 0, 1)",
+      "pass": true,
+      "detail": [
+        0.0162500012665987,
+        0.02437499538064003,
+        0.008125003427267075
+      ]
+    },
+    {
+      "name": "anchor basis (0, 0, 0.1)(0, 0, 1)",
+      "pass": true,
+      "detail": [
+        2.816499637681158e-12,
+        8.708306645233144e-12,
+        0.08124998211860657
+      ]
+    },
+    {
+      "name": "anchor basis (0.1, 0, 0)(1, 0, 0)",
+      "pass": true,
+      "detail": [
+        0.08125001192092896,
+        8.708306645233144e-12,
+        9.38833212560386e-13
+      ]
+    },
+    {
+      "name": "anchor basis (0.1, 0, 0)(0, 0, 0)",
+      "pass": true,
+      "detail": [
+        0.08125001192092896,
+        8.708306645233144e-12,
+        9.38833212560386e-13
+      ]
+    },
+    {
+      "name": "independent instance values",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "shared change reaches both",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "local style isolates consumer",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "approved proof found",
+      "pass": true,
+      "detail": [
+        "CYAN outgoing packet.001",
+        "VIOLET reflected packet.001"
+      ]
+    },
+    {
+      "name": "approved geometry correspondence",
+      "pass": true,
+      "detail": {
+        "samples": 960,
+        "max_error_m": 3.7066638469696045e-07
+      }
+    },
+    {
+      "name": "relative source link",
+      "pass": true,
+      "detail": [
+        "//..\\Assets\\Effects\\Waveform\\Waveform_shared_v017.blend"
+      ]
+    },
+    {
+      "name": "four independent demo cases",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "render cap 01 Approved360",
+      "pass": true,
+      "detail": 1.1596478999999817
+    },
+    {
+      "name": "render cap 03 Local variation",
+      "pass": true,
+      "detail": 0.17445510000106879
+    },
+    {
+      "name": "render cap 04 Fit-end30fps",
+      "pass": true,
+      "detail": 0.1692821000033291
+    }
+  ],
+  "renders": [
+    {
+      "scene": "01 Approved360",
+      "frame": 18,
+      "seconds": 1.1596478999999817,
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Previews\\Waveform_v017\\01_frame018.png"
+    },
+    {
+      "scene": "03 Local variation",
+      "frame": 18,
+      "seconds": 0.17445510000106879,
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Previews\\Waveform_v017\\03_frame018.png"
+    },
+    {
+      "scene": "04 Fit-end30fps",
+      "frame": 18,
+      "seconds": 0.1692821000033291,
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Previews\\Waveform_v017\\04_frame018.png"
+    }
+  ]
+}

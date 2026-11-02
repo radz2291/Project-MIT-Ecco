@@ -1,0 +1,88 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Waveform_demo_v017.blend",
+  "cases": [
+    {
+      "name": "01 Approved360",
+      "frames": 192,
+      "fps": 24,
+      "orbit": true,
+      "start": [
+        0,
+        0,
+        0
+      ],
+      "end": [
+        0.008807201869785786,
+        -0.022943535819649696,
+        0.0
+      ],
+      "settings": {}
+    },
+    {
+      "name": "02 Fixed review",
+      "frames": 96,
+      "fps": 24,
+      "orbit": false,
+      "start": [
+        0,
+        0,
+        0
+      ],
+      "end": [
+        0.008807201869785786,
+        -0.022943535819649696,
+        0.0
+      ],
+      "settings": {}
+    },
+    {
+      "name": "03 Local variation",
+      "frames": 112,
+      "fps": 24,
+      "orbit": false,
+      "start": [
+        -0.02,
+        0.01,
+        -0.005
+      ],
+      "end": [
+        0.02,
+        0.024,
+        0.007
+      ],
+      "settings": {
+        "Use master style": false,
+        "Pulse count": 5,
+        "Strand count": 9,
+        "Strand separation": 0.8,
+        "Width variation": 0.3,
+        "Pulse spacing": 4.8,
+        "Echo strength": 0.6,
+        "Use material overrides": true
+      }
+    },
+    {
+      "name": "04 Fit-end30fps",
+      "frames": 60,
+      "fps": 30,
+      "orbit": false,
+      "start": [
+        0,
+        0,
+        0
+      ],
+      "end": [
+        0.008807201869785786,
+        -0.022943535819649696,
+        0.0
+      ],
+      "settings": {
+        "Pulse count override": 1,
+        "Strand count override": 3,
+        "Fit end frame": 48.0,
+        "Loop": false
+      }
+    }
+  ],
+  "source": "Waveform_shared_v017.blend"
+}
