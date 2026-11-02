@@ -1,0 +1,103 @@
+{
+  "blue_holds_after_all_six_beams_and_to_end": [
+    {
+      "event": 1,
+      "frame": 353,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 1,
+      "frame": 756,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 2,
+      "frame": 413,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 2,
+      "frame": 756,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 3,
+      "frame": 473,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 3,
+      "frame": 756,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 4,
+      "frame": 533,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 4,
+      "frame": 756,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 5,
+      "frame": 593,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 5,
+      "frame": 756,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 6,
+      "frame": 653,
+      "min_blue_opacity": 0.4000000059604645
+    },
+    {
+      "event": 6,
+      "frame": 756,
+      "min_blue_opacity": 0.4000000059604645
+    }
+  ],
+  "shell_closure": [
+    {
+      "frame": 474,
+      "half_angle": 30.0,
+      "enabled": true
+    },
+    {
+      "frame": 507,
+      "half_angle": 15.0,
+      "enabled": true
+    },
+    {
+      "frame": 540,
+      "half_angle": 0.0,
+      "enabled": false
+    },
+    {
+      "frame": 600,
+      "half_angle": 0.0,
+      "enabled": false
+    },
+    {
+      "frame": 756,
+      "half_angle": 0.0,
+      "enabled": false
+    }
+  ],
+  "renders": [
+    {
+      "frame": 414,
+      "seconds": 0.5591531999998551
+    },
+    {
+      "frame": 756,
+      "seconds": 0.5998667000003479
+    }
+  ],
+  "links_resolve": true,
+  "no_early_legacy_borders": true
+}

@@ -1,0 +1,141 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v020.blend",
+  "sha256": "4c837ae204a0ad05eb3678a98fd1d58d7504933d86a2e99b63370254c7e9334c",
+  "source": "S01-S02_production_v019.blend",
+  "material_changes": [
+    {
+      "material": "Approved tile glitch 0",
+      "opacity": 0.4000000059604645,
+      "holds_from": 323.5
+    },
+    {
+      "material": "Approved tile glitch 1",
+      "opacity": 0.4000000059604645,
+      "holds_from": 324.5
+    },
+    {
+      "material": "Approved tile glitch 2",
+      "opacity": 0.4000000059604645,
+      "holds_from": 325.5
+    },
+    {
+      "material": "Approved tile glitch 3",
+      "opacity": 0.4000000059604645,
+      "holds_from": 326.5
+    },
+    {
+      "material": "Approved tile glitch 0.001",
+      "opacity": 0.4000000059604645,
+      "holds_from": 383.5
+    },
+    {
+      "material": "Approved tile glitch 1.001",
+      "opacity": 0.4000000059604645,
+      "holds_from": 384.5
+    },
+    {
+      "material": "Approved tile glitch 2.001",
+      "opacity": 0.4000000059604645,
+      "holds_from": 385.5
+    },
+    {
+      "material": "Approved tile glitch 3.001",
+      "opacity": 0.4000000059604645,
+      "holds_from": 386.5
+    },
+    {
+      "material": "Approved tile glitch 0.002",
+      "opacity": 0.4000000059604645,
+      "holds_from": 443.5
+    },
+    {
+      "material": "Approved tile glitch 1.002",
+      "opacity": 0.4000000059604645,
+      "holds_from": 444.5
+    },
+    {
+      "material": "Approved tile glitch 2.002",
+      "opacity": 0.4000000059604645,
+      "holds_from": 445.5
+    },
+    {
+      "material": "Approved tile glitch 3.002",
+      "opacity": 0.4000000059604645,
+      "holds_from": 446.5
+    },
+    {
+      "material": "Approved tile glitch 0.003",
+      "opacity": 0.4000000059604645,
+      "holds_from": 503.5
+    },
+    {
+      "material": "Approved tile glitch 1.003",
+      "opacity": 0.4000000059604645,
+      "holds_from": 504.5
+    },
+    {
+      "material": "Approved tile glitch 2.003",
+      "opacity": 0.4000000059604645,
+      "holds_from": 505.5
+    },
+    {
+      "material": "Approved tile glitch 3.003",
+      "opacity": 0.4000000059604645,
+      "holds_from": 506.5
+    },
+    {
+      "material": "Approved tile glitch 0.004",
+      "opacity": 0.4000000059604645,
+      "holds_from": 563.5
+    },
+    {
+      "material": "Approved tile glitch 1.004",
+      "opacity": 0.4000000059604645,
+      "holds_from": 564.5
+    },
+    {
+      "material": "Approved tile glitch 2.004",
+      "opacity": 0.4000000059604645,
+      "holds_from": 565.5
+    },
+    {
+      "material": "Approved tile glitch 3.004",
+      "opacity": 0.4000000059604645,
+      "holds_from": 566.5
+    },
+    {
+      "material": "Approved tile glitch 0.005",
+      "opacity": 0.4000000059604645,
+      "holds_from": 623.5
+    },
+    {
+      "material": "Approved tile glitch 1.005",
+      "opacity": 0.4000000059604645,
+      "holds_from": 624.5
+    },
+    {
+      "material": "Approved tile glitch 2.005",
+      "opacity": 0.4000000059604645,
+      "holds_from": 625.5
+    },
+    {
+      "material": "Approved tile glitch 3.005",
+      "opacity": 0.4000000059604645,
+      "holds_from": 626.5
+    }
+  ],
+  "shell_closes": [
+    474,
+    540
+  ],
+  "wide_cutaway_enabled": false,
+  "scope": "Local measurement material opacity and shot cutaway input animation only.",
+  "unchanged": [
+    "beam/pulse/contact and tile geometry/reveal timing",
+    "camera and BHA motion",
+    "v019 glitch-derived edge fix",
+    "final-display cleanup",
+    "shared masters"
+  ],
+  "reason": "Owner requests connected shell in wide view and persistent blue records after send/receive."
+}

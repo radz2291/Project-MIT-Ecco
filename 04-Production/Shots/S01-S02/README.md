@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v019.blend`. Second-panel border fixed by disabling obsolete independently timed acquired-row borders; actual tile-derived edges establish with the glitch. Final-displayv018 exclusions/point-free surface styling and v017camera retained. [Latest border fix and gap inspection](Notes/panel_edges_v019_handoff.md). Central blue-shell opening is the existing camera cutaway; wide-shot closure recommended, not included in this fix. Scene31.5seconds; owner review remains open. Priorv018close/wide1080p content-review stills remain retained.
+Current: `Scenes/S01-S02_production_v020.blend`. Camera-viewing strip closes smoothly474–540 and stays closed for the wide shot. All six acquired patches retain blue after the beam instead of fading almost transparent. v019glitch-derived edges, v018final-display exclusions and v017camera retained. [Current handoff](Notes/persistent_blue_v020_handoff.md). Two1080pproofs: `Previews/Persistent-blue-v020/after_second_beam.png` (414) and `closed_shell_wide.png` (756). Owner visual review remains open; scene31.5seconds, no new full animation render.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 
