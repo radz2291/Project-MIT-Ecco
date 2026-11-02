@@ -1,0 +1,96 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v018.blend",
+  "sha256": "84aecd743ad93df4769193b84443b11aa4e616cb82d571eddf14423c6ac77f64",
+  "approved_reference": "Waveform_direction_quick_v006.blend",
+  "objects": [
+    "WF_MASTER_CONTROLS",
+    "WF_PULSE_FIELD"
+  ],
+  "field_group": "WF_PULSE_SYSTEM_v018",
+  "timing_group": "WF_PULSE_TIMING_v018",
+  "style": {
+    "Pulse count": 3,
+    "Pulse spacing": 6.4,
+    "Spacing variation": 0.2,
+    "Amplitude variation": 0.25,
+    "Width variation": 0.13,
+    "Variation seed": 0,
+    "Tail allowance": 7.2,
+    "Pulse width": 1.0,
+    "Pre dip": 0.16,
+    "Spike width": 0.27,
+    "Undershoot": 0.45,
+    "Rebound": 0.18,
+    "Ringing": 0.08,
+    "Ring period": 2.4,
+    "Ring decay": 2.4,
+    "Dispersion": 0.12,
+    "Attenuation": 0.25,
+    "Height m": 0.011,
+    "Ribbon depth m": 0.003,
+    "Strand count": 5,
+    "Strand separation": 0.65,
+    "Strand phase offset": 0.1,
+    "Strand radius m": 8E-05,
+    "End height fraction": 0.35,
+    "Head fade": 0.8,
+    "Tail fade": 1.2,
+    "Echo strength": 0.75,
+    "Show head tail": true,
+    "Head radius m": 0.00035,
+    "Tail radius m": 0.0002,
+    "Reference FPS": 24.0,
+    "Lead rest frames": 0.0,
+    "Flat after age": 0.0
+  },
+  "colors": {
+    "Outgoing color": [
+      0.02,
+      0.85,
+      1.0,
+      1.0
+    ],
+    "Reflected color": [
+      0.75,
+      0.22,
+      1.0,
+      1.0
+    ]
+  },
+  "timing": {
+    "Enabled": true,
+    "Mode 0 Both 1 Send 2 Return": 0,
+    "Start frame": 5.0,
+    "Travel frames": 16.0,
+    "Train duration override": 0.0,
+    "Reflection enabled": true,
+    "Reflection after tail": true,
+    "Reflection delay": 2.0,
+    "Return travel override": 0.0,
+    "Return train scale": 1.0,
+    "Flip reflected pulse": false,
+    "Speed": 1.0,
+    "Fit end frame": 0.0,
+    "Follow scene FPS": true,
+    "Loop": true,
+    "Loop quiet frames": 22.0,
+    "Loop period override": 0.0
+  },
+  "capacity": {
+    "pulses": 5,
+    "strands": 17,
+    "route_samples": 513
+  },
+  "counts": {
+    "objects": 2,
+    "meshes": 2,
+    "materials": 38,
+    "groups": 3,
+    "libraries": 0,
+    "cameras": 0
+  },
+  "runtime": "native GN and simple material drivers; no handlers, autoexec scripts or shape-key baking",
+  "consumers": [
+    "Shots/S01-S02/Scenes/S01-S02_production_v013.blend"
+  ]
+}

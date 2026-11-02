@@ -1,0 +1,15 @@
+# Flat tails and coordinated scan cycles
+
+Owner correction: a flat trailing section, not a wider spike. Remove circular impacts; the surface tile reveal is sufficient. Retiming is authorized so reflected signals land correctly.
+
+Current scene `Scenes/S01-S02_production_v013.blend` links shared waveformv018. New reusable controls **Lead rest frames** and **Flat after age** separate blank space from pulse width; both default0 for compatibility. Shot: one pulse, original width1, lead2, response cut flat after age6, ringing0,14frame packet. Flat tail persists after the spike; no marker dots. v017 and older scenes are preserved.
+
+Root cause: signal endpoints were fixed while BHA rotated during the longer return. Six new cycles start300/348/396/444/492/540. Each holds the hardware pose42frames, then turns over6frames. The signal path is ray-bound to the nearest real hardware surface: all six hit the removable acoustic cap of Imaging port2, gap24.52–24.58mm. This is geometric registration to the illustrative asset, not MIT certification of a sensor interface.
+
+Each cycle: send at0, head reaches wall6, main spike arrives about10, tile reveal starts10, full tail reaches20, reflection begins22, return head reaches cap28, complete return tail42. Rotation starts after that. A visible pulse spike arrives at about32 on return, before its flat tail finishes. All16faces of the relevant tile receive the new reveal cue. Prior contact contours, contact-node/dimple effects and circular contact curves are hidden non-destructively.
+
+The first attempted starts240..480 placed the first signal outside the close-up. That rejected framing proof is retained in `Previews/Waveform-v013-initial-framing`. Current timing keeps the first signal at300 and stretches the existing close-up camera path300..528 across300..588, then holds to600. Frames1..299 retain prior camera keys. Scene now600frames/25seconds at24FPS. This extends the shot by3seconds to show the cycles clearly; Radzi retains final assembly.
+
+Native/landmarks/removed-object list: `waveform_v013_install.json`. Proofs: `Previews/Waveform-v013/sequenced_cycles_v013.mp4` (299–396), `final_cycle_v013.mp4` (539–588). Render log `waveform_v013_render.json` includes benchmarks before batch, strict<5s/full frame. Separate pixel-guide helper remains necessary for viewport grids; waveform geometry is native. Heavy native/media local-only; no off-machine backup claimed. Whole-ticket acceptance remains open.
+
+Completed after owner computer restart: official MCP read/write and fresh-open succeed; resumed final5frames from saved index146. All151 exports pass, max2.267s/full1080p frame. Both movies decode98/50frames at24FPS with zero dropped/duplicated frames. Outgoing310, return332 and late570 visually inspected. Scene open332 for review. Verification:855 flat-tail ring centers max offset2.89e-12m;12 cap-return ray checks max0.0611mm; v018 default coordinates exactly matchv017; fresh relative library links resolve. These are targeted cycle proofs, not a full25second movie render.

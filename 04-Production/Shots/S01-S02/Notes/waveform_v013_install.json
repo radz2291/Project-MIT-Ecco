@@ -1,0 +1,234 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v013.blend",
+  "sha256": "40a529025c1ffad61030f49187728d374a9ec49f493fbd4a0dfcbde6038c2d09",
+  "events": [
+    {
+      "event": 1,
+      "start": 300,
+      "impact_tile": 310,
+      "return_start": 322,
+      "return_complete": 342,
+      "surface": "TEMP | Imaging port 2 | removable acoustic cap",
+      "surface_hit": [
+        0.04694615304470062,
+        -0.12229900807142258,
+        -729.5299682617188
+      ],
+      "wall": [
+        0.055753353983163834,
+        -0.1452425718307495,
+        -729.5299682617188
+      ],
+      "gap": 0.0245758811943233,
+      "tile_faces": 16,
+      "landmarks": {
+        "Send head arrival": 306.0,
+        "Send tail arrival": 320.0,
+        "Return start": 322.0,
+        "Return head arrival": 328.0,
+        "Return tail arrival": 342.0,
+        "Cycle frames": 64.0
+      }
+    },
+    {
+      "event": 2,
+      "start": 348,
+      "impact_tile": 358,
+      "return_start": 370,
+      "return_complete": 390,
+      "surface": "TEMP | Imaging port 2 | removable acoustic cap",
+      "surface_hit": [
+        0.02171328291296959,
+        -0.1291879415512085,
+        -729.5305786132812
+      ],
+      "wall": [
+        0.025781486183404922,
+        -0.15339259803295135,
+        -729.5305786132812
+      ],
+      "gap": 0.024544159416109324,
+      "tile_faces": 16,
+      "landmarks": {
+        "Send head arrival": 354.0,
+        "Send tail arrival": 368.0,
+        "Return start": 370.0,
+        "Return head arrival": 376.0,
+        "Return tail arrival": 390.0,
+        "Cycle frames": 64.0
+      }
+    },
+    {
+      "event": 3,
+      "start": 396,
+      "impact_tile": 406,
+      "return_start": 418,
+      "return_complete": 438,
+      "surface": "TEMP | Imaging port 2 | removable acoustic cap",
+      "surface_hit": [
+        -0.00438522407785058,
+        -0.13092656433582306,
+        -729.5311279296875
+      ],
+      "wall": [
+        -0.005206243135035038,
+        -0.15543918311595917,
+        -729.5311279296875
+      ],
+      "gap": 0.02452636537964281,
+      "tile_faces": 16,
+      "landmarks": {
+        "Send head arrival": 402.0,
+        "Send tail arrival": 416.0,
+        "Return start": 418.0,
+        "Return head arrival": 424.0,
+        "Return tail arrival": 438.0,
+        "Cycle frames": 64.0
+      }
+    },
+    {
+      "event": 4,
+      "start": 444,
+      "impact_tile": 454,
+      "return_start": 466,
+      "return_complete": 486,
+      "surface": "TEMP | Imaging port 2 | removable acoustic cap",
+      "surface_hit": [
+        -0.03664063662290573,
+        -0.12577150762081146,
+        -729.5318603515625
+      ],
+      "wall": [
+        -0.043500036001205444,
+        -0.14931686222553253,
+        -729.5318603515625
+      ],
+      "gap": 0.024524173815734684,
+      "tile_faces": 16,
+      "landmarks": {
+        "Send head arrival": 450.0,
+        "Send tail arrival": 464.0,
+        "Return start": 466.0,
+        "Return head arrival": 472.0,
+        "Return tail arrival": 486.0,
+        "Cycle frames": 64.0
+      }
+    },
+    {
+      "event": 5,
+      "start": 492,
+      "impact_tile": 502,
+      "return_start": 514,
+      "return_complete": 534,
+      "surface": "TEMP | Imaging port 2 | removable acoustic cap",
+      "surface_hit": [
+        -0.06661790609359741,
+        -0.11279652267694473,
+        -729.5325317382812
+      ],
+      "wall": [
+        -0.07909897714853287,
+        -0.1339292824268341,
+        -729.5325927734375
+      ],
+      "gap": 0.024543242529034615,
+      "tile_faces": 16,
+      "landmarks": {
+        "Send head arrival": 498.0,
+        "Send tail arrival": 512.0,
+        "Return start": 514.0,
+        "Return head arrival": 520.0,
+        "Return tail arrival": 534.0,
+        "Cycle frames": 64.0
+      }
+    },
+    {
+      "event": 6,
+      "start": 540,
+      "impact_tile": 550,
+      "return_start": 562,
+      "return_complete": 582,
+      "surface": "TEMP | Imaging port 2 | removable acoustic cap",
+      "surface_hit": [
+        -0.07964198291301727,
+        -0.10401038825511932,
+        -729.5330200195312
+      ],
+      "wall": [
+        -0.09455037862062454,
+        -0.12348036468029022,
+        -729.532958984375
+      ],
+      "gap": 0.024522241204977036,
+      "tile_faces": 16,
+      "landmarks": {
+        "Send head arrival": 546.0,
+        "Send tail arrival": 560.0,
+        "Return start": 562.0,
+        "Return head arrival": 568.0,
+        "Return tail arrival": 582.0,
+        "Cycle frames": 64.0
+      }
+    }
+  ],
+  "hidden_impact_objects": [
+    "MEASURE 1 temporary contact at same centre",
+    "MEASURE 2 temporary contact at same centre",
+    "MEASURE 3 temporary contact at same centre",
+    "MEASURE 4 temporary contact at same centre",
+    "MEASURE 5 temporary contact at same centre",
+    "MEASURE 6 temporary contact at same centre",
+    "Unified measurement 1 contact",
+    "Unified measurement 2 contact",
+    "Unified measurement 3 contact",
+    "Unified measurement 4 contact",
+    "Unified measurement 5 contact",
+    "Unified measurement 6 contact",
+    "DW 1 localized digital overlay dimple",
+    "DW 1 localized contact contour 0.012",
+    "DW 1 contact digital nodes 0.012",
+    "DW 1 localized contact contour 0.025",
+    "DW 1 contact digital nodes 0.025",
+    "DW 1 localized contact contour 0.038",
+    "DW 1 contact digital nodes 0.038",
+    "DW 2 localized digital overlay dimple",
+    "DW 2 localized contact contour 0.012",
+    "DW 2 contact digital nodes 0.012",
+    "DW 2 localized contact contour 0.025",
+    "DW 2 contact digital nodes 0.025",
+    "DW 2 localized contact contour 0.038",
+    "DW 2 contact digital nodes 0.038",
+    "DW 3 localized digital overlay dimple",
+    "DW 3 localized contact contour 0.012",
+    "DW 3 contact digital nodes 0.012",
+    "DW 3 localized contact contour 0.025",
+    "DW 3 contact digital nodes 0.025",
+    "DW 3 localized contact contour 0.038",
+    "DW 3 contact digital nodes 0.038",
+    "DW 4 localized digital overlay dimple",
+    "DW 4 localized contact contour 0.012",
+    "DW 4 contact digital nodes 0.012",
+    "DW 4 localized contact contour 0.025",
+    "DW 4 contact digital nodes 0.025",
+    "DW 4 localized contact contour 0.038",
+    "DW 4 contact digital nodes 0.038",
+    "DW 5 localized digital overlay dimple",
+    "DW 5 localized contact contour 0.012",
+    "DW 5 contact digital nodes 0.012",
+    "DW 5 localized contact contour 0.025",
+    "DW 5 contact digital nodes 0.025",
+    "DW 5 localized contact contour 0.038",
+    "DW 5 contact digital nodes 0.038",
+    "DW 6 localized digital overlay dimple",
+    "DW 6 localized contact contour 0.012",
+    "DW 6 contact digital nodes 0.012",
+    "DW 6 localized contact contour 0.025",
+    "DW 6 contact digital nodes 0.025",
+    "DW 6 localized contact contour 0.038",
+    "DW 6 contact digital nodes 0.038"
+  ],
+  "shared": "v018 adds Lead rest frames and Flat after age, defaults0 preserve v017",
+  "timing": "6 cycles start300..540 every48; each holds BHA42frames then6frame turn; spike width restored1, duration14 includes flat lead2 and flat trailing region; tile at spike arrival; return ends before turn",
+  "camera": "frames1..299 retained; close-up path300..528 stretched to300..588 then held to600; BHA/tile cues retimed with owner authorization",
+  "scope": "authored illustrative scan, physical housing ray intersections, not certified sensor interface"
+}

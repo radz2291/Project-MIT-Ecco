@@ -1,0 +1,10 @@
+{
+  "default_v018_equals_v017": true,
+  "flat_tail_ring_centers_count": 855,
+  "max_flat_tail_offset_m": 2.8849513923623338e-12,
+  "fresh_reopen_links": true,
+  "hidden_impact_rings": true,
+  "return_cap_ray_error_max_m": 6.103515670474735e-05,
+  "return_samples": 12,
+  "scene_frames": 600
+}
