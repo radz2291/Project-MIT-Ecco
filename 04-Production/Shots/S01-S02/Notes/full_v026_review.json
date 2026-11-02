@@ -1,0 +1,15 @@
+{
+  "source_hash_unchanged": true,
+  "all_frames_consecutive": true,
+  "decoded_frames": 756,
+  "decoded_contact_pages": 16,
+  "review": "All756 encoded frames inspected chronologically using16 decoded contact sheets; entry, exchanges, persistent blue, upward sweep, later contours, omitted first ring and wide hold reviewed.",
+  "detail_source_frames": [
+    318,
+    536,
+    620,
+    756
+  ],
+  "native_saved_changes": false,
+  "initial_crash": "After112 frames, Blender save_render native access violation; resumed113 with persistent buffers; no further failure."
+}

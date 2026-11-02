@@ -1,0 +1,16 @@
+{
+  "frames": 756,
+  "size": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "duration_seconds": 31.5,
+  "active_render_seconds": 467.018557700012,
+  "average_seconds": 0.6177494149471059,
+  "max_seconds": 1.3938153999988572,
+  "elapsed_seconds": 691.8090677261353,
+  "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\Full-v026\\S01-S02_full_v026.mp4",
+  "video_sha256": "031FFB22281781B0ABADBDCEDF348FC3922E519C3DA78D55CDC4E2366EEB292D",
+  "decode_completed": true
+}
