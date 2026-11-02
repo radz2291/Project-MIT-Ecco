@@ -1,0 +1,129 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v014.blend",
+  "sha256": "821f29cfde60b24fcc59c1fee148b335d543f5704203ce856463a0df994db332",
+  "events": [
+    {
+      "event": 1,
+      "beam_start": 300.0,
+      "fully_connected": 301.0,
+      "pulse_launch": 303.0,
+      "tile_impact": 311.0,
+      "feedback_launch": 321.0,
+      "feedback_pulse_arrival": 329.0,
+      "exchange_complete": 337.0,
+      "beam_closed": 338.0,
+      "tool_moves": 342.0,
+      "readouts": {
+        "Send head arrival": 309.0,
+        "Send tail arrival": 319.0,
+        "Return start": 321.0,
+        "Return head arrival": 327.0,
+        "Return tail arrival": 337.0,
+        "Cycle frames": 60.0
+      }
+    },
+    {
+      "event": 2,
+      "beam_start": 348.0,
+      "fully_connected": 349.0,
+      "pulse_launch": 351.0,
+      "tile_impact": 359.0,
+      "feedback_launch": 369.0,
+      "feedback_pulse_arrival": 377.0,
+      "exchange_complete": 385.0,
+      "beam_closed": 386.0,
+      "tool_moves": 390.0,
+      "readouts": {
+        "Send head arrival": 357.0,
+        "Send tail arrival": 367.0,
+        "Return start": 369.0,
+        "Return head arrival": 375.0,
+        "Return tail arrival": 385.0,
+        "Cycle frames": 60.0
+      }
+    },
+    {
+      "event": 3,
+      "beam_start": 396.0,
+      "fully_connected": 397.0,
+      "pulse_launch": 399.0,
+      "tile_impact": 407.0,
+      "feedback_launch": 417.0,
+      "feedback_pulse_arrival": 425.0,
+      "exchange_complete": 433.0,
+      "beam_closed": 434.0,
+      "tool_moves": 438.0,
+      "readouts": {
+        "Send head arrival": 405.0,
+        "Send tail arrival": 415.0,
+        "Return start": 417.0,
+        "Return head arrival": 423.0,
+        "Return tail arrival": 433.0,
+        "Cycle frames": 60.0
+      }
+    },
+    {
+      "event": 4,
+      "beam_start": 444.0,
+      "fully_connected": 445.0,
+      "pulse_launch": 447.0,
+      "tile_impact": 455.0,
+      "feedback_launch": 465.0,
+      "feedback_pulse_arrival": 473.0,
+      "exchange_complete": 481.0,
+      "beam_closed": 482.0,
+      "tool_moves": 486.0,
+      "readouts": {
+        "Send head arrival": 453.0,
+        "Send tail arrival": 463.0,
+        "Return start": 465.0,
+        "Return head arrival": 471.0,
+        "Return tail arrival": 481.0,
+        "Cycle frames": 60.0
+      }
+    },
+    {
+      "event": 5,
+      "beam_start": 492.0,
+      "fully_connected": 493.0,
+      "pulse_launch": 495.0,
+      "tile_impact": 503.0,
+      "feedback_launch": 513.0,
+      "feedback_pulse_arrival": 521.0,
+      "exchange_complete": 529.0,
+      "beam_closed": 530.0,
+      "tool_moves": 534.0,
+      "readouts": {
+        "Send head arrival": 501.0,
+        "Send tail arrival": 511.0,
+        "Return start": 513.0,
+        "Return head arrival": 519.0,
+        "Return tail arrival": 529.0,
+        "Cycle frames": 60.0
+      }
+    },
+    {
+      "event": 6,
+      "beam_start": 540.0,
+      "fully_connected": 541.0,
+      "pulse_launch": 543.0,
+      "tile_impact": 551.0,
+      "feedback_launch": 561.0,
+      "feedback_pulse_arrival": 569.0,
+      "exchange_complete": 577.0,
+      "beam_closed": 578.0,
+      "tool_moves": 582.0,
+      "readouts": {
+        "Send head arrival": 549.0,
+        "Send tail arrival": 559.0,
+        "Return start": 561.0,
+        "Return head arrival": 567.0,
+        "Return tail arrival": 577.0,
+        "Cycle frames": 60.0
+      }
+    }
+  ],
+  "color": "cyan outgoing/handshake; violet return; continuous beam changes color at return launch",
+  "camera_BHA": "retainedv013, holds until after closure",
+  "shared": "v019 optional Beam mode, default false preserves previous mode"
+}

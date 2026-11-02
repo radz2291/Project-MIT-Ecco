@@ -1,0 +1,233 @@
+{
+  "v019_beamoff_exactly_v018": true,
+  "native_reopen_links": true,
+  "beam_connected_every_frame301_337": true,
+  "straight_handshake301_302": true,
+  "outgoing_cyan_then_feedback_violet": true,
+  "markers_absent": true,
+  "beam_closed_before_tool_turn342": true,
+  "samples": [
+    {
+      "frame": 301,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 302,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 303,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 304,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.000834204867715016
+    },
+    {
+      "frame": 305,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.006017627543769777
+    },
+    {
+      "frame": 306,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.008369858376681805
+    },
+    {
+      "frame": 307,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.013035314157605171
+    },
+    {
+      "frame": 308,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.015319881262257695
+    },
+    {
+      "frame": 309,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.01303376816213131
+    },
+    {
+      "frame": 310,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.008195862174034119
+    },
+    {
+      "frame": 311,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.0049753530183807015
+    },
+    {
+      "frame": 312,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.00213867099955678
+    },
+    {
+      "frame": 313,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.0012098085135221481
+    },
+    {
+      "frame": 314,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.0008391849405597895
+    },
+    {
+      "frame": 315,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 0.00017514272076368798
+    },
+    {
+      "frame": 316,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 317,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 318,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 319,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 320,
+      "vertices": 10260,
+      "phase": 1,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 321,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 322,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.0006256536435103044
+    },
+    {
+      "frame": 323,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.004513220745138824
+    },
+    {
+      "frame": 324,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.006277393666096032
+    },
+    {
+      "frame": 325,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.009776484221220016
+    },
+    {
+      "frame": 326,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.011489909840747714
+    },
+    {
+      "frame": 327,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.00977532658725977
+    },
+    {
+      "frame": 328,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.006146896514110267
+    },
+    {
+      "frame": 329,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.0037315143272280693
+    },
+    {
+      "frame": 330,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.001604003249667585
+    },
+    {
+      "frame": 331,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.0009073565161088482
+    },
+    {
+      "frame": 332,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.0006293886253843084
+    },
+    {
+      "frame": 333,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 0.00013135703666478094
+    },
+    {
+      "frame": 334,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 335,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 336,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 2.8849513923623338e-12
+    },
+    {
+      "frame": 337,
+      "vertices": 10260,
+      "phase": 2,
+      "max_center_height": 2.8849513923623338e-12
+    }
+  ]
+}
