@@ -1,0 +1,20 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v023.blend",
+  "sha256": "368896a34dc3e467b1993e17441a70f7ad6f89ced706326d559c1083193eacde",
+  "source": "S01-S02_production_v022.blend",
+  "old_first_cell": 550.0,
+  "new_first_cell": 518.0,
+  "visible_motion_frame": 520,
+  "native_cell_settle_frames": 4,
+  "rejoins_previous_timing_by": 620.0,
+  "early_history_faces_retimed": 7040,
+  "late_history_faces_unchanged": 66176,
+  "preserved": [
+    "camera/BHA motion",
+    "sixbeam/pulse/contact/localtilereveals",
+    "bluecolor/continuation/closedwide",
+    "latev022upwardsweepfrom620",
+    "finaldisplayexclusions",
+    "sharedmasters"
+  ]
+}

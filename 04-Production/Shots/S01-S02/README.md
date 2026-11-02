@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v022.blend`. Upward reveal reworked after full encoded-video review showed v021front stayed offscreen. The recorded surface now advances visibly through the picture after the fourth exchange, then leaves the crop near the end of the unchanged pullback. Matchedblue/continuation/closedwide and sixapprovedscananimationsretained. [Current visual review and handoff](Notes/visible_front_v022_handoff.md). Preview: `Previews/Visible-front-v022/camera_reveal_v022.mp4`,97frames/12FPS/8.083seconds, source528–720. Whole-shot owner review remains open.
+Current: `Scenes/S01-S02_production_v023.blend`. Upward reveal gently visible at520instead of550; only early history timing advanced, smoothly rejoining v022by620. Camera, sixbeam/localtileanimations and later sweep retained. [Current handoff](Notes/early_onset_v023_handoff.md). Short reviewed12FPSproof: `Previews/Early-onset-v023/early_onset_v023.mp4` (508–572,2.75seconds). Owner review remains open.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 
