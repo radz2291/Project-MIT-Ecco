@@ -1,0 +1,209 @@
+{
+  "missing_libraries": [],
+  "reveal_groups": [
+    "ECCO Fine Surface Style v001",
+    "ECCO Stored Surface Reveal v001"
+  ],
+  "events": [
+    {
+      "event": 1,
+      "samples": [
+        [
+          299,
+          0
+        ],
+        [
+          303,
+          7552
+        ],
+        [
+          312,
+          5760
+        ],
+        [
+          320,
+          0
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "event": 2,
+      "samples": [
+        [
+          341,
+          0
+        ],
+        [
+          345,
+          7552
+        ],
+        [
+          354,
+          5760
+        ],
+        [
+          362,
+          0
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "event": 3,
+      "samples": [
+        [
+          383,
+          0
+        ],
+        [
+          387,
+          7552
+        ],
+        [
+          396,
+          5760
+        ],
+        [
+          404,
+          0
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "event": 4,
+      "samples": [
+        [
+          431,
+          0
+        ],
+        [
+          435,
+          7552
+        ],
+        [
+          444,
+          5760
+        ],
+        [
+          452,
+          0
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "event": 5,
+      "samples": [
+        [
+          479,
+          0
+        ],
+        [
+          483,
+          7552
+        ],
+        [
+          492,
+          5760
+        ],
+        [
+          500,
+          0
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "event": 6,
+      "samples": [
+        [
+          509,
+          0
+        ],
+        [
+          513,
+          9856
+        ],
+        [
+          520,
+          7680
+        ],
+        [
+          526,
+          0
+        ]
+      ],
+      "pass": true
+    }
+  ],
+  "reveal_samples": [
+    [
+      299,
+      0
+    ],
+    [
+      318,
+      0
+    ],
+    [
+      319,
+      16
+    ],
+    [
+      360,
+      16
+    ],
+    [
+      361,
+      32
+    ],
+    [
+      441,
+      48
+    ],
+    [
+      480,
+      7844
+    ],
+    [
+      528,
+      41056
+    ]
+  ],
+  "fit": [
+    {
+      "frame": 240,
+      "tested": 5478,
+      "outside_samples": 0,
+      "uncovered_cutaway": 3066,
+      "worst_radial_excess_m": -0.0029451828041189287,
+      "objects_outside": []
+    },
+    {
+      "frame": 300,
+      "tested": 5478,
+      "outside_samples": 0,
+      "uncovered_cutaway": 3066,
+      "worst_radial_excess_m": -0.0029451828041189287,
+      "objects_outside": []
+    },
+    {
+      "frame": 432,
+      "tested": 5417,
+      "outside_samples": 0,
+      "uncovered_cutaway": 3127,
+      "worst_radial_excess_m": -3.2808794500516214e-05,
+      "objects_outside": []
+    },
+    {
+      "frame": 528,
+      "tested": 5444,
+      "outside_samples": 0,
+      "uncovered_cutaway": 3100,
+      "worst_radial_excess_m": -0.002256654054548446,
+      "objects_outside": []
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v002.blend",
+  "events": [
+    {
+      "event": 1,
+      "object": "WF sequence event 1",
+      "start": 300,
+      "contact": 309,
+      "echo_start": 310,
+      "receipt": 318,
+      "sensor": [
+        0.04694615676999092,
+        -0.12229903787374496,
+        -729.5299682617188
+      ],
+      "wall": [
+        0.055753353983163834,
+        -0.1452425718307495,
+        -729.5299682617188
+      ],
+      "settings": {
+        "Start Frame": 300.0,
+        "Duration Override": 3.0,
+        "Travel Override": 9.0,
+        "Return Travel Override": 8.0,
+        "Echo Delay Frames": 1.0,
+        "Outbound End Frame": 309.01,
+        "Return End Frame": 318.01,
+        "Lock Event Timing": 1.0,
+        "Gap Length m": 0.024575851476624954,
+        "Route Axis": [
+          0.358367919921875,
+          -0.9335803985595703,
+          0.0
+        ],
+        "Transverse Axis": [
+          -0.9335805177688599,
+          -0.3583679497241974,
+          0.0
+        ],
+        "Up Axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Preset 0 Open 1 Cased": 0,
+        "Radius Override": 3.0
+      },
+      "geometry_checks": [
+        [
+          299,
+          0
+        ],
+        [
+          303,
+          7552
+        ],
+        [
+          312,
+          5760
+        ],
+        [
+          320,
+          0
+        ]
+      ]
+    },
+    {
+      "event": 2,
+      "object": "WF sequence event 2",
+      "start": 342,
+      "contact": 351,
+      "echo_start": 352,
+      "receipt": 360,
+      "sensor": [
+        0.02171328477561474,
+        -0.12918797135353088,
+        -729.5305786132812
+      ],
+      "wall": [
+        0.025781486183404922,
+        -0.15339259803295135,
+        -729.5305786132812
+      ],
+      "settings": {
+        "Start Frame": 342.0,
+        "Duration Override": 3.0,
+        "Travel Override": 9.0,
+        "Return Travel Override": 8.0,
+        "Echo Delay Frames": 1.0,
+        "Outbound End Frame": 351.01,
+        "Return End Frame": 360.01,
+        "Lock Event Timing": 1.0,
+        "Gap Length m": 0.02454412783628174,
+        "Route Axis": [
+          0.16575050354003906,
+          -0.9861677289009094,
+          0.0
+        ],
+        "Transverse Axis": [
+          -0.9861677289009094,
+          -0.16575050354003906,
+          0.0
+        ],
+        "Up Axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Preset 0 Open 1 Cased": 0,
+        "Radius Override": 3.0
+      },
+      "geometry_checks": [
+        [
+          341,
+          0
+        ],
+        [
+          345,
+          7552
+        ],
+        [
+          354,
+          5760
+        ],
+        [
+          362,
+          0
+        ]
+      ]
+    },
+    {
+      "event": 3,
+      "object": "WF sequence event 3",
+      "start": 384,
+      "contact": 393,
+      "echo_start": 394,
+      "receipt": 402,
+      "sensor": [
+        -0.004385229200124741,
+        -0.13092657923698425,
+        -729.5311279296875
+      ],
+      "wall": [
+        -0.005206243135035038,
+        -0.15543918311595917,
+        -729.5311279296875
+      ],
+      "settings": {
+        "Start Frame": 384.0,
+        "Duration Override": 3.0,
+        "Travel Override": 9.0,
+        "Return Travel Override": 8.0,
+        "Echo Delay Frames": 1.0,
+        "Outbound End Frame": 393.01,
+        "Return End Frame": 402.01,
+        "Lock Event Timing": 1.0,
+        "Gap Length m": 0.024526348973488044,
+        "Route Axis": [
+          -0.033474769443273544,
+          -0.999439537525177,
+          0.0
+        ],
+        "Transverse Axis": [
+          -0.999439537525177,
+          0.033474769443273544,
+          0.0
+        ],
+        "Up Axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Preset 0 Open 1 Cased": 0,
+        "Radius Override": 3.0
+      },
+      "geometry_checks": [
+        [
+          383,
+          0
+        ],
+        [
+          387,
+          7552
+        ],
+        [
+          396,
+          5760
+        ],
+        [
+          404,
+          0
+        ]
+      ]
+    },
+    {
+      "event": 4,
+      "object": "WF sequence event 4",
+      "start": 432,
+      "contact": 441,
+      "echo_start": 442,
+      "receipt": 450,
+      "sensor": [
+        -0.03664063662290573,
+        -0.12577149271965027,
+        -729.5318603515625
+      ],
+      "wall": [
+        -0.043500036001205444,
+        -0.14931686222553253,
+        -729.5318603515625
+      ],
+      "settings": {
+        "Start Frame": 432.0,
+        "Duration Override": 3.0,
+        "Travel Override": 9.0,
+        "Return Travel Override": 8.0,
+        "Echo Delay Frames": 1.0,
+        "Outbound End Frame": 441.01,
+        "Return End Frame": 450.01,
+        "Lock Event Timing": 1.0,
+        "Gap Length m": 0.02452418784743949,
+        "Route Axis": [
+          -0.2796993553638458,
+          -0.9600875973701477,
+          0.0
+        ],
+        "Transverse Axis": [
+          -0.9600877165794373,
+          0.2796993851661682,
+          0.0
+        ],
+        "Up Axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Preset 0 Open 1 Cased": 0,
+        "Radius Override": 3.0
+      },
+      "geometry_checks": [
+        [
+          431,
+          0
+        ],
+        [
+          435,
+          7552
+        ],
+        [
+          444,
+          5760
+        ],
+        [
+          452,
+          0
+        ]
+      ]
+    },
+    {
+      "event": 5,
+      "object": "WF sequence event 5",
+      "start": 480,
+      "contact": 489,
+      "echo_start": 490,
+      "receipt": 498,
+      "sensor": [
+        -0.0666179209947586,
+        -0.11279652267694473,
+        -729.5325927734375
+      ],
+      "wall": [
+        -0.07909897714853287,
+        -0.1339292824268341,
+        -729.5325927734375
+      ],
+      "settings": {
+        "Start Frame": 480.0,
+        "Duration Override": 3.0,
+        "Travel Override": 9.0,
+        "Return Travel Override": 8.0,
+        "Echo Delay Frames": 1.0,
+        "Outbound End Frame": 489.01,
+        "Return End Frame": 498.01,
+        "Lock Event Timing": 1.0,
+        "Gap Length m": 0.02454323333749097,
+        "Route Axis": [
+          -0.5085334777832031,
+          -0.8610422015190125,
+          0.0
+        ],
+        "Transverse Axis": [
+          -0.8610422015190125,
+          0.5085334777832031,
+          0.0
+        ],
+        "Up Axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Preset 0 Open 1 Cased": 0,
+        "Radius Override": 3.0
+      },
+      "geometry_checks": [
+        [
+          479,
+          0
+        ],
+        [
+          483,
+          7552
+        ],
+        [
+          492,
+          5760
+        ],
+        [
+          500,
+          0
+        ]
+      ]
+    },
+    {
+      "event": 6,
+      "object": "WF sequence event 6",
+      "start": 510,
+      "contact": 517,
+      "echo_start": 518,
+      "receipt": 524,
+      "sensor": [
+        -0.07964198291301727,
+        -0.10401037335395813,
+        -729.532958984375
+      ],
+      "wall": [
+        -0.09455037862062454,
+        -0.12348036468029022,
+        -729.532958984375
+      ],
+      "settings": {
+        "Start Frame": 510.0,
+        "Duration Override": 3.0,
+        "Travel Override": 7.0,
+        "Return Travel Override": 6.0,
+        "Echo Delay Frames": 1.0,
+        "Outbound End Frame": 517.01,
+        "Return End Frame": 524.01,
+        "Lock Event Timing": 1.0,
+        "Gap Length m": 0.024522251679152493,
+        "Route Axis": [
+          -0.6079537868499756,
+          -0.7939724326133728,
+          0.0
+        ],
+        "Transverse Axis": [
+          -0.7939724326133728,
+          0.6079537868499756,
+          0.0
+        ],
+        "Up Axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Preset 0 Open 1 Cased": 0,
+        "Radius Override": 3.0
+      },
+      "geometry_checks": [
+        [
+          509,
+          0
+        ],
+        [
+          513,
+          9856
+        ],
+        [
+          520,
+          7680
+        ],
+        [
+          526,
+          0
+        ]
+      ]
+    }
+  ],
+  "wall_faces": {
+    "history": 40960,
+    "current": 96,
+    "unrecorded": 416,
+    "settled": 0
+  },
+  "all_528_camera_and_assembly_matrices_preserved": true,
+  "string_join": "Core collar x=-1.5 => source Z+1.5, top30m; source cylindrical string data normalized, local drivers."
+}

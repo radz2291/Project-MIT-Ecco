@@ -1,14 +1,18 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_rough_v001.blend`, open in Blender at frame 240.
+Current: `Scenes/S01-S02_production_v002.blend`, saved/open in Blender at frame 305. Updated 2 November 2026 after owner-authorized BHA/waveform/reveal integration.
 ECCO-057: 2cd3cc2d-92b1-456c-92c6-556fb4526f4f. First collaboration checkpoint; incomplete, not submitted for acceptance.
 
 Baseline: `05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend`, frames 1–528 at 24 fps (22 seconds); handoff frame 240. Source preserved. Camera matrices/lenses match eight sampled frames; original event animation retained.
 
 Linked: Surface v006, World v013 using canonical_to_s02 placement, ECCO v003, waveform v015, measurement-reveal v001 node groups. Relative libraries resolve on reopen. Source environment proxies retained in a disabled collection. Existing local measurement/history geometry and source string remain.
 
-Pending: bind waveform v015 to source events (currently disabled); apply shared reveal styling to the existing receipt/history attributes; place BHA v008; refine underground wall readability and framing together. No shared masters changed. No appearance or engineering acceptance claimed.
+Implemented v002: BHA v008 WORLD_HARDWARE replaces standalone ECCO, with internal ECCO v003 and original movement. Sequence string connects to inspected collar endpoint X=-1.5m, continuing to source Z=30m. Original standalone instance/string retained disabled; optional shared 12m continuation is not stacked onto the sequence string. Six waveform v015 objects use individual source send/contact/echo/receipt windows and sensor/wall routes. Old travelling graphics retained disabled; contact cues stay local. Shared measurement reveal reads shot-local receipt frames318/360/402/450/498/524, history starts and reveal order. Shared fine styling follows the revealed wall; source topology/material animation retained. No shared masters changed. Signals and geology remain illustrative, not measured or certified physics.
 
-Previews: `Previews/rough_v001_f*.png`; Workbench 640×360 AA5, no shadows/cavity. Five full render-to-file checks took 0.912–1.386 seconds; see Notes/verification_v001.json. No motion preview yet. Native/media are local only; no off-machine backup claimed.
+Preserved unsaved session: `Scenes/S01-S02_session_before_v002.blend`. Base commit0cfd75e3a8745d1ff3790fe7dcae2abe72bed336. All528 camera matrix/lens and assembly transforms match the preserved session. Reopen has no missing library paths; both reveal groups survive. Six waveform events pass before/during/after geometry checks. Sampled BHA radial-fit checks found no outside samples on covered directions at240/300/432/528; cutaway rays without wall hits are explicitly uncovered, not certified. Near-contact at432 remains a review point. See Notes/integration_v002.json, verification_v002.json and native_manifest_v002.json (exact native SHA256).
 
-Next: review the rough in Blender with Radzi, then make small visible iterations. Wrap only on his instruction.
+New previews: `Previews/measurement_cycle1_v002.mp4` (299–326 at24fps) and `Previews/stored_history_v002.mp4` (440–464 at24fps), no retiming; both decode successfully. Workbench480×270 AA off, shadows/cavity off. Underground preview only culls distant rig/ocean/regional geology; exact linked local physical wall retained. Full scene restored before saving production native. Cycle frames1.34–1.56s; history0.67–1.76s full render-to-file. Logs: Notes/motion_cycle1_v002.json and motion_history_v002.json. Clips prove hardware/effects behavior, not final lighting or full surface descent. Native/media local only; no off-machine backup claimed.
+
+Full-environment640×360 AA5 stills passed2.89–4.50s. A later480×270 test failed at528 (5.514s) and stopped; see Notes/motion_benchmarks_v002.json. Culling benchmark passes1.47–3.20s. No unrestricted full-scene batch profile is claimed. Saved480×270 defaults are inspection settings; benchmark again before any full-scene batch. Rough-v001 stills and evidence retained.
+
+Next: review integration with Radzi, then refine wall readability, effect appearance and framing in small visible iterations. Final look, full-journey proof and owner acceptance remain open. Wrap only on his instruction.
