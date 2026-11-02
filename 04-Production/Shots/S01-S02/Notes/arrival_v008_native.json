@@ -1,0 +1,57 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v008.blend",
+  "sha256": "0e30332df3f99d760dee8fff58fa2cf87b36c3605b2841b0c58758d4546cef3f",
+  "reopened": true,
+  "frame": 168,
+  "camera_action": "S01-S02 progressive product arrival v008",
+  "lens_action": "CAM_S01_ContinuousAction",
+  "source_action_retained": true,
+  "max_positive_speed_increment_m_per_frame": 6.103515625e-05,
+  "outside_changed_scope_integer_curve_error": 0.0,
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v015.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v013.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v014.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v003.blend",
+      "exists": true
+    }
+  ]
+}

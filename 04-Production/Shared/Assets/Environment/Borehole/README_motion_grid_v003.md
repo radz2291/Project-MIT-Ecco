@@ -1,6 +1,6 @@
 # Optional World pixel guides v003
 
-Owner-requested ECCO-057 sparse-cave/denser-cut-earth successor. Native `World_motion_grid_v003.blend`; [interface](World_motion_grid_interface_v003.json). Consumers: S01-S02 productionv006 and v007. v007 uses the same master with horizontal cut-face spacing5m; other preset values remain as v006. Prior consumers remain pinned.
+Owner-requested ECCO-057 sparse-cave/denser-cut-earth successor. Native `World_motion_grid_v003.blend`; [interface](World_motion_grid_interface_v003.json). Consumers: S01-S02 productionv006, v007 and camera trialv008. v007/v008 use the same master with horizontal cut-face spacing5m; other preset values remain as v006. Prior consumers remain pinned.
 
 Four edge-only meshes, zero faces, no surface strips. Existing visibility/spacing node group now also filters lengthwise bore guides by angular spacing. Defaults: rings4m, lengthwise90deg, cut-earth20m depth/5m radial, seabed10m; master disabled. Shared control empty supplies master and independent region switches. Shot controls remain local and adjustable.
 

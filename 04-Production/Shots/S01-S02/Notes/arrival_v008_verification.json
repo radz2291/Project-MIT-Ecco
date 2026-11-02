@@ -1,0 +1,21 @@
+{
+  "frames": 137,
+  "source_range": [
+    128,
+    264
+  ],
+  "fps": 24,
+  "duration_seconds": 5.708333333333333,
+  "size": [
+    1920,
+    1080
+  ],
+  "minimum_seconds": 0.46867590000329074,
+  "maximum_seconds": 0.7111330000043381,
+  "average_seconds": 0.5252874985406937,
+  "video": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\Arrival-v008\\S01-S02_product_arrival_v008.mp4",
+  "video_sha256": "786C0612CC25D3B48DAA74F5B3D53045491BC0DC4413A6E63B22E58726079A92",
+  "comparison": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Previews\\Arrival-v008\\compare_v007_left_v008_right.mp4",
+  "both_decode_passed": true,
+  "local_only": true
+}
