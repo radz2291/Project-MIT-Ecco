@@ -24,3 +24,5 @@ Waveform [v017 approved sharp-pulse master](Effects/Waveform/README_v017.md) is 
 [v018 flat-tail extension](Effects/Waveform/README_v018.md) supports the owner-requested S01-S02v013 iteration. Lead rest and Flat after age controls default0, preservingv017 behavior. Only the explicit v013 consumer uses this successor; approved demo reference remainsv017 pending appearance selection.
 
 [v019 persistent-beam extension](Effects/Waveform/README_v019.md) supports S01-S02v014: straight handshake first, connected line throughout cyan send/violet feedback, then close and turn. Optional Beam mode defaults off and matchesv018 exactly. Current shot iteration usesv019; approved demo reference remainsv017.
+
+[v020 amplitude extension](Effects/Waveform/README_v020.md) supports the latest S01-S02v015 six-second exchange trial:5frame beam opening,30frame pulse travel, optional native amplitude breathing. Defaults retainv019 geometry. Source remains pinned per consumer; appearance awaits owner review.

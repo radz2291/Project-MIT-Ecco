@@ -1,0 +1,35 @@
+{
+  "default_v020_exact_v019": true,
+  "reopen_links": true,
+  "opening_route_fractions": [
+    0,
+    0.19921875,
+    0.3984375,
+    0.599609375,
+    0.798828125,
+    1.0
+  ],
+  "straight_setup_306_307": true,
+  "continuous_endpoints_and_colors": true,
+  "amplitude_on_off_ratio_at323": 1.295641379206209,
+  "expected_ratio": 1.2956414504036118,
+  "held_targets": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "max_cap_ray_error_m": 6.103515670474735e-05,
+  "scene_frames": 1248,
+  "cycle_seconds": 6,
+  "all_target_tile_faces_retained_with_viewing_wedge": [
+    16,
+    16,
+    16,
+    16,
+    16,
+    16
+  ]
+}
