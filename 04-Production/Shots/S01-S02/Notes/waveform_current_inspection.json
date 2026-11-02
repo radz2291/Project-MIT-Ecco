@@ -1,0 +1,302 @@
+[
+  {
+    "object": "WF sequence event 1",
+    "group": "WF_FIELD_LIVE_v014",
+    "location": [
+      0.04694615676999092,
+      -0.12229903787374496,
+      -729.5299682617188
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "values": {
+      "Start Frame": 300.0,
+      "Playback Override": 1.0,
+      "Duration Override": 3.0,
+      "Travel Override": 9.0,
+      "Echo Delay Frames": 1.0,
+      "Return Travel Override": 8.0,
+      "Outbound End Frame": 309.010009765625,
+      "Return End Frame": 318.010009765625,
+      "Lock Event Timing": 1.0,
+      "Frequency Override": 1.0,
+      "Strength Override": 1.0,
+      "Echo Override": 1.0,
+      "Decay Override": 1.0,
+      "Radius Override": 3.0,
+      "Width Override": 1.0,
+      "Height Override": 1.0,
+      "Gap Length m": 0.0245758518576622,
+      "Preset 0 Open 1 Cased": 0,
+      "Enabled": 1.0,
+      "Route Axis": [
+        0.358367919921875,
+        -0.9335803985595703,
+        0.0
+      ],
+      "Transverse Axis": [
+        -0.9335805177688599,
+        -0.3583679497241974,
+        0.0
+      ],
+      "Up Axis": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "object": "WF sequence event 2",
+    "group": "WF_FIELD_LIVE_v014",
+    "location": [
+      0.02171328477561474,
+      -0.12918797135353088,
+      -729.5305786132812
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "values": {
+      "Start Frame": 342.0,
+      "Playback Override": 1.0,
+      "Duration Override": 3.0,
+      "Travel Override": 9.0,
+      "Echo Delay Frames": 1.0,
+      "Return Travel Override": 8.0,
+      "Outbound End Frame": 351.010009765625,
+      "Return End Frame": 360.010009765625,
+      "Lock Event Timing": 1.0,
+      "Frequency Override": 1.0,
+      "Strength Override": 1.0,
+      "Echo Override": 1.0,
+      "Decay Override": 1.0,
+      "Radius Override": 3.0,
+      "Width Override": 1.0,
+      "Height Override": 1.0,
+      "Gap Length m": 0.0245441272854805,
+      "Preset 0 Open 1 Cased": 0,
+      "Enabled": 1.0,
+      "Route Axis": [
+        0.16575050354003906,
+        -0.9861677289009094,
+        0.0
+      ],
+      "Transverse Axis": [
+        -0.9861677289009094,
+        -0.16575050354003906,
+        0.0
+      ],
+      "Up Axis": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "object": "WF sequence event 3",
+    "group": "WF_FIELD_LIVE_v014",
+    "location": [
+      -0.004385229200124741,
+      -0.13092657923698425,
+      -729.5311279296875
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "values": {
+      "Start Frame": 384.0,
+      "Playback Override": 1.0,
+      "Duration Override": 3.0,
+      "Travel Override": 9.0,
+      "Echo Delay Frames": 1.0,
+      "Return Travel Override": 8.0,
+      "Outbound End Frame": 393.010009765625,
+      "Return End Frame": 402.010009765625,
+      "Lock Event Timing": 1.0,
+      "Frequency Override": 1.0,
+      "Strength Override": 1.0,
+      "Echo Override": 1.0,
+      "Decay Override": 1.0,
+      "Radius Override": 3.0,
+      "Width Override": 1.0,
+      "Height Override": 1.0,
+      "Gap Length m": 0.02452634833753109,
+      "Preset 0 Open 1 Cased": 0,
+      "Enabled": 1.0,
+      "Route Axis": [
+        -0.033474769443273544,
+        -0.999439537525177,
+        0.0
+      ],
+      "Transverse Axis": [
+        -0.999439537525177,
+        0.033474769443273544,
+        0.0
+      ],
+      "Up Axis": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "object": "WF sequence event 4",
+    "group": "WF_FIELD_LIVE_v014",
+    "location": [
+      -0.03664063662290573,
+      -0.12577149271965027,
+      -729.5318603515625
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "values": {
+      "Start Frame": 432.0,
+      "Playback Override": 1.0,
+      "Duration Override": 3.0,
+      "Travel Override": 9.0,
+      "Echo Delay Frames": 1.0,
+      "Return Travel Override": 8.0,
+      "Outbound End Frame": 441.010009765625,
+      "Return End Frame": 450.010009765625,
+      "Lock Event Timing": 1.0,
+      "Frequency Override": 1.0,
+      "Strength Override": 1.0,
+      "Echo Override": 1.0,
+      "Decay Override": 1.0,
+      "Radius Override": 3.0,
+      "Width Override": 1.0,
+      "Height Override": 1.0,
+      "Gap Length m": 0.024524187669157982,
+      "Preset 0 Open 1 Cased": 0,
+      "Enabled": 1.0,
+      "Route Axis": [
+        -0.2796993553638458,
+        -0.9600875973701477,
+        0.0
+      ],
+      "Transverse Axis": [
+        -0.9600877165794373,
+        0.2796993851661682,
+        0.0
+      ],
+      "Up Axis": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "object": "WF sequence event 5",
+    "group": "WF_FIELD_LIVE_v014",
+    "location": [
+      -0.0666179209947586,
+      -0.11279652267694473,
+      -729.5325927734375
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "values": {
+      "Start Frame": 480.0,
+      "Playback Override": 1.0,
+      "Duration Override": 3.0,
+      "Travel Override": 9.0,
+      "Echo Delay Frames": 1.0,
+      "Return Travel Override": 8.0,
+      "Outbound End Frame": 489.010009765625,
+      "Return End Frame": 498.010009765625,
+      "Lock Event Timing": 1.0,
+      "Frequency Override": 1.0,
+      "Strength Override": 1.0,
+      "Echo Override": 1.0,
+      "Decay Override": 1.0,
+      "Radius Override": 3.0,
+      "Width Override": 1.0,
+      "Height Override": 1.0,
+      "Gap Length m": 0.02454323321580887,
+      "Preset 0 Open 1 Cased": 0,
+      "Enabled": 1.0,
+      "Route Axis": [
+        -0.5085334777832031,
+        -0.8610422015190125,
+        0.0
+      ],
+      "Transverse Axis": [
+        -0.8610422015190125,
+        0.5085334777832031,
+        0.0
+      ],
+      "Up Axis": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "object": "WF sequence event 6",
+    "group": "WF_FIELD_LIVE_v014",
+    "location": [
+      -0.07964198291301727,
+      -0.10401037335395813,
+      -729.532958984375
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "values": {
+      "Start Frame": 510.0,
+      "Playback Override": 1.0,
+      "Duration Override": 3.0,
+      "Travel Override": 7.0,
+      "Echo Delay Frames": 1.0,
+      "Return Travel Override": 6.0,
+      "Outbound End Frame": 517.010009765625,
+      "Return End Frame": 524.010009765625,
+      "Lock Event Timing": 1.0,
+      "Frequency Override": 1.0,
+      "Strength Override": 1.0,
+      "Echo Override": 1.0,
+      "Decay Override": 1.0,
+      "Radius Override": 3.0,
+      "Width Override": 1.0,
+      "Height Override": 1.0,
+      "Gap Length m": 0.02452225238084793,
+      "Preset 0 Open 1 Cased": 0,
+      "Enabled": 1.0,
+      "Route Axis": [
+        -0.6079537868499756,
+        -0.7939724326133728,
+        0.0
+      ],
+      "Transverse Axis": [
+        -0.7939724326133728,
+        0.6079537868499756,
+        0.0
+      ],
+      "Up Axis": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Waveform_demo_v015.blend",
+    "scene": "WAVEFORM \u2014 minimal linked demo",
+    "frames": [
+      1,
+      96
+    ],
+    "fps": 24,
+    "camera": "DEMO_CAMERA",
+    "objects": [
+      {
+        "name": "FIELD_EMISSION",
+        "in_scene": true,
+        "properties": {
+          "README": "Master demonstration cue, native GN timing follows shared speed/duration/travel. Shot consumers retain their source cues."
+        },
+        "modifiers": [
+          {
+            "group": "WF_NATIVE_CUE_0",
+            "values": {}
+          }
+        ]
+      },
+      {
+        "name": "FIELD_MEASUREMENT_AFTER_RECEIPT",
+        "in_scene": true,
+        "properties": {
+          "README": "Master demonstration cue, native GN timing follows shared speed/duration/travel. Shot consumers retain their source cues."
+        },
+        "modifiers": [
+          {
+            "group": "WF_NATIVE_CUE_3",
+            "values": {}
+          }
+        ]
+      },
+      {
+        "name": "FIELD_SENSOR_RECEIPT",
+        "in_scene": true,
+        "properties": {
+          "README": "Master demonstration cue, native GN timing follows shared speed/duration/travel. Shot consumers retain their source cues."
+        },
+        "modifiers": [
+          {
+            "group": "WF_NATIVE_CUE_2",
+            "values": {}
+          }
+        ]
+      },
+      {
+        "name": "FIELD_WALL_CONTACT",
+        "in_scene": true,
+        "properties": {
+          "README": "Master demonstration cue, native GN timing follows shared speed/duration/travel. Shot consumers retain their source cues."
+        },
+        "modifiers": [
+          {
+            "group": "WF_NATIVE_CUE_1",
+            "values": {}
+          }
+        ]
+      },
+      {
+        "name": "WF_MASTER_CONTROLS",
+        "in_scene": true,
+        "properties": {
+          "README": "Edit modifier MASTER CONTROLS, save source, reload consumers. Native GN, no handlers. Display values only."
+        },
+        "modifiers": [
+          {
+            "group": "WF_MASTER_CONTROL_VALUES",
+            "values": {
+              "Playback Speed": 1.0,
+              "Frequency Multiplier": 1.0,
+              "Strength": 1.0,
+              "Echo Strength": 0.5,
+              "Decay Tightness": 1.0,
+              "Source Duration Frames": 30.0,
+              "One Way Frames": 12.0,
+              "Reference Height m": 0.0400390625,
+              "Width m": 0.040000006556510925,
+              "Emission": 3.5,
+              "Strand Radius m": 1.8000000636675395e-05,
+              "Opacity Power": 0.6499999761581421,
+              "Color Violet": [
+                0.10999999940395355,
+                0.03999999910593033,
+                0.6000000238418579,
+                1.0
+              ],
+              "Color Cyan": [
+                0.02500000037252903,
+                0.8500000238418579,
+                1.0,
+                1.0
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "WF_LIVE_FIELD",
+        "in_scene": true,
+        "properties": {},
+        "modifiers": [
+          {
+            "group": "WF_FIELD_LIVE_v014",
+            "values": {
+              "Start Frame": 8.0,
+              "Playback Override": 1.0,
+              "Duration Override": 0.0,
+              "Travel Override": 0.0,
+              "Echo Delay Frames": 0.0,
+              "Return Travel Override": 0.0,
+              "Outbound End Frame": 0.0,
+              "Return End Frame": 0.0,
+              "Lock Event Timing": 0.0,
+              "Frequency Override": 1.0,
+              "Strength Override": 1.0,
+              "Echo Override": 1.0,
+              "Decay Override": 1.0,
+              "Radius Override": 1.0,
+              "Width Override": 1.0,
+              "Height Override": 1.0,
+              "Gap Length m": 0.02457585372030735,
+              "Preset 0 Open 1 Cased": 0,
+              "Enabled": 1.0,
+              "Route Axis": [
+                0.3583680987358093,
+                -0.9335803985595703,
+                0.0
+              ],
+              "Transverse Axis": [
+                -0.9335803985595703,
+                -0.3583680987358093,
+                0.0
+              ],
+              "Up Axis": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "START HERE \u2014 demo": "Minimal sensor/wall fixture demonstrating the linked shared waveform. Edit the separate Waveform_shared_v015.blend master controls, save, then reopen this file. Demo cue groups read the same linked controls. Authored illustrative display, no shot dataset or camera.1\u201396 at24fps. Older v013/v014 and consumers remain untouched, outside this delivery."
+    },
+    "libraries": [
+      {
+        "path": "//..\\Assets\\Effects\\Waveform\\Waveform_shared_v015.blend",
+        "exists": true
+      }
+    ],
+    "sha256": "652a7e11ed3b75dc8647f956d3a49c9286c47e47d8db066c186cbfd51dab8ae6",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v015.blend",
+    "scene": "WAVEFORM \u2014 reusable field only",
+    "frames": [
+      1,
+      96
+    ],
+    "fps": 24,
+    "camera": null,
+    "objects": [
+      {
+        "name": "WF_LIVE_FIELD",
+        "in_scene": true,
+        "properties": {},
+        "modifiers": [
+          {
+            "group": "WF_FIELD_LIVE_v014",
+            "values": {
+              "Start Frame": 8.0,
+              "Playback Override": 1.0,
+              "Duration Override": 0.0,
+              "Travel Override": 0.0,
+              "Echo Delay Frames": 0.0,
+              "Return Travel Override": 0.0,
+              "Outbound End Frame": 0.0,
+              "Return End Frame": 0.0,
+              "Lock Event Timing": 0.0,
+              "Frequency Override": 1.0,
+              "Strength Override": 1.0,
+              "Echo Override": 1.0,
+              "Decay Override": 1.0,
+              "Radius Override": 1.0,
+              "Width Override": 1.0,
+              "Height Override": 1.0,
+              "Gap Length m": 0.02457585372030735,
+              "Preset 0 Open 1 Cased": 0,
+              "Enabled": 1.0,
+              "Route Axis": [
+                0.3583680987358093,
+                -0.9335803985595703,
+                0.0
+              ],
+              "Transverse Axis": [
+                -0.9335803985595703,
+                -0.3583680987358093,
+                0.0
+              ],
+              "Up Axis": [
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "WF_MASTER_CONTROLS",
+        "in_scene": true,
+        "properties": {
+          "README": "Edit modifier MASTER CONTROLS, save source, reload consumers. Native GN, no handlers. Display values only."
+        },
+        "modifiers": [
+          {
+            "group": "WF_MASTER_CONTROL_VALUES",
+            "values": {
+              "Playback Speed": 1.0,
+              "Frequency Multiplier": 1.0,
+              "Strength": 1.0,
+              "Echo Strength": 0.5,
+              "Decay Tightness": 1.0,
+              "Source Duration Frames": 30.0,
+              "One Way Frames": 12.0,
+              "Reference Height m": 0.0400390625,
+              "Width m": 0.040000006556510925,
+              "Emission": 3.5,
+              "Strand Radius m": 1.8000000636675395e-05,
+              "Opacity Power": 0.6499999761581421,
+              "Color Violet": [
+                0.10999999940395355,
+                0.03999999910593033,
+                0.6000000238418579,
+                1.0
+              ],
+              "Color Cyan": [
+                0.02500000037252903,
+                0.8500000238418579,
+                1.0,
+                1.0
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "START HERE \u2014 shared waveform": "REUSABLE LIBRARY ONLY. Two objects at origin. Select WF_MASTER_CONTROLS > Modifiers to edit shared speed, frequency, strength, decay, dimensions and appearance. WF_LIVE_FIELD has local overrides and illustrative open/cased selector. Save and reopen linked demo to refresh. No rig/camera/history/dataset. No measured RF or calibrated physics. All animation native Geometry Nodes; no scripts/handlers needed. Demonstration is separately saved under T056/Demos/Waveform_demo_v015.blend."
+    },
+    "libraries": [],
+    "sha256": "077d1049759723738849003552311f3346b5ff1abdf75146e195e6da853a1914",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Archive\\2026-10-31\\Assets\\Acoustics\\RibbonWaveform_v013\\S02_rolling-wave-field_v013.blend",
+    "scene": "S01 continuous descent - rough camera study",
+    "frames": [
+      1,
+      96
+    ],
+    "fps": 24,
+    "camera": "RIBBON_CONTEXT_REVIEW_20PCT_WIDER",
+    "objects": [
+      {
+        "name": "COHERENT_EVOLVING_FIELD_v013",
+        "in_scene": true,
+        "properties": {},
+        "modifiers": []
+      },
+      {
+        "name": "FIELD_EMISSION",
+        "in_scene": true,
+        "properties": {},
+        "modifiers": []
+      },
+      {
+        "name": "FIELD_MEASUREMENT_AFTER_RECEIPT",
+        "in_scene": true,
+        "properties": {},
+        "modifiers": []
+      },
+      {
+        "name": "FIELD_SENSOR_RECEIPT",
+        "in_scene": true,
+        "properties": {},
+        "modifiers": []
+      },
+      {
+        "name": "FIELD_WALL_CONTACT",
+        "in_scene": true,
+        "properties": {},
+        "modifiers": []
+      }
+    ],
+    "texts": {},
+    "libraries": [
+      {
+        "path": "//..\\..\\ECCO\\ECCO_film_v002.blend",
+        "exists": true
+      }
+    ],
+    "sha256": "049a1aa27a256b302ae5c65822f863333f92ba826c36ac412e1f313f31d11d15",
+    "unchanged": true
+  }
+]
