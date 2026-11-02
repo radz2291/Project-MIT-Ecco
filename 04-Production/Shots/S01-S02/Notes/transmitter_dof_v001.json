@@ -1,0 +1,57 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_transmitter_DOF_test_v001.blend",
+  "sha256": "b06f5bf96a5df37c8c215d42cf1f3809a3cfeb1aed8fdeff408ad2d94c7a3b86",
+  "source": "S01-S02_production_v026.blend preserved",
+  "frame": 386,
+  "focus": "DOF focus \u2014 transmitter face",
+  "focus_parent": "BHA sequence assembly",
+  "focus_world": [
+    0.021713286638259888,
+    -0.1291879415512085,
+    -729.5305786132812
+  ],
+  "lens_mm": 119.99995422363281,
+  "focus_depth_m": 0.25876837968826294,
+  "selected_fstop": null,
+  "stills": [
+    {
+      "name": "sharp_reference",
+      "fstop": 64,
+      "enabled": false,
+      "seconds": 0.6321246000006795
+    },
+    {
+      "name": "subtle_f64",
+      "fstop": 64,
+      "enabled": true,
+      "seconds": 0.3808052999993379
+    },
+    {
+      "name": "stronger_f32",
+      "fstop": 32,
+      "enabled": true,
+      "seconds": 0.34990819999802625
+    }
+  ],
+  "scope": "Close-up physical camera depth-of-field proof only; focus attached to transmitter source. Full-shot focus transition and motion not yet designed/reviewed.",
+  "camera_view_required": true,
+  "camera_view_stills": [
+    {
+      "name": "subtle_f64",
+      "fstop": 64,
+      "seconds": 0.5088476999990235
+    },
+    {
+      "name": "stronger_f32",
+      "fstop": 32,
+      "seconds": 0.4087245000009716
+    }
+  ],
+  "result": "Camera-view DOF appears but softens transmitter behind transparent foreground geometry. Separate simple overlay blur also failed to preserve signal visibility. No accepted camera look produced. Recommend proper depth-aware/layer-aware compositing or render path before integration.",
+  "layer_render_seconds": [
+    1.5028887999978906,
+    0.7762304000025324
+  ],
+  "status": "Not production-ready; proof rejected internally",
+  "production_changes": false
+}
