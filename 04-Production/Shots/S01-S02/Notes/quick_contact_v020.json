@@ -1,0 +1,24 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\Waveform_contact_fast_v020.blend",
+  "scope": "First-exchange small contact cue only",
+  "point": [
+    0.045059915632009506,
+    -0.14854182302951813,
+    -729.5299682617188
+  ],
+  "patch_size_mm": 3,
+  "surface_clearance_mm": 0.12,
+  "appearance_frames": [
+    305,
+    310
+  ],
+  "hidden_before": 305,
+  "gone_at": 311,
+  "beam_arrival": 305,
+  "signal_and_main_tile_reveal": "unchanged from quickv019",
+  "preview": [
+    300,
+    353
+  ],
+  "fps": 24
+}
