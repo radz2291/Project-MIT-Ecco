@@ -1,0 +1,18 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\Waveform_active_patch_fast_v022.blend",
+  "change": "gentle continuous size/brightness breathing on contact patch; persists until glitch",
+  "size_range_mm": [
+    2.34,
+    3.0
+  ],
+  "breath_period_frames": 4,
+  "visible_from": 305,
+  "holds_through": 322,
+  "gone": 323,
+  "beam_pulse_glitch": "unchanged from quickv021",
+  "preview": [
+    300,
+    353
+  ],
+  "fps": 24
+}
