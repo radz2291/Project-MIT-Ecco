@@ -1,0 +1,11 @@
+{
+  "approved_waveform_sample_frames": 9,
+  "max_intrinsic_position_error_m": 1.895104138657882e-09,
+  "contact_patch_scale_color_matches_approved_frames": 24,
+  "max_tile_color_error": 0.0,
+  "source_master_clean_objects": 2,
+  "runtime": "native geometry/material actions, optional authoring helpers only",
+  "reference": "Waveform_active_patch_fast_v022.blend",
+  "contact_enabled_switch_checked": true,
+  "authoring_landmarks_and_contact_key_timing_30fps_checked": true
+}

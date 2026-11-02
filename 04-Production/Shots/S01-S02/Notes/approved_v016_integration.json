@@ -1,0 +1,278 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v016.blend",
+  "sha256": "a1f3b4ef1c2a855c9d45fa0d456eeb4e2b6da22bc1d9046e67ef567e9d889f1a",
+  "shared": "Waveform_shared_v021.blend",
+  "preset": "Approved_beam_exchange_v001.json",
+  "approved_review": "Waveform_active_patch_fast_v022.blend",
+  "frames": 756,
+  "fps": 24,
+  "seconds": 31.5,
+  "events": [
+    {
+      "event": 1,
+      "start": 300,
+      "source": [
+        0.04694615304470062,
+        -0.12229900807142258,
+        -729.5299682617188
+      ],
+      "target": [
+        0.045059915632009506,
+        -0.14854182302951813,
+        -729.5299682617188
+      ],
+      "center_error_mm": 0.0,
+      "landmarks": {
+        "beam_contact": 305,
+        "pulse_launch": 306,
+        "surface_reveal": 322,
+        "feedback_start": 328,
+        "feedback_complete": 349,
+        "beam_closed": 352,
+        "review_end": 354
+      },
+      "tool_hold_until": 354,
+      "next_event": 360,
+      "faces": [
+        100,
+        101,
+        102,
+        103,
+        228,
+        229,
+        230,
+        231,
+        356,
+        357,
+        358,
+        359,
+        484,
+        485,
+        486,
+        487
+      ]
+    },
+    {
+      "event": 2,
+      "start": 360,
+      "source": [
+        0.02171328291296959,
+        -0.1291879415512085,
+        -729.5305786132812
+      ],
+      "target": [
+        0.015217689797282219,
+        -0.154504656791687,
+        -729.5299682617188
+      ],
+      "center_error_mm": 0.0,
+      "landmarks": {
+        "beam_contact": 365,
+        "pulse_launch": 366,
+        "surface_reveal": 382,
+        "feedback_start": 388,
+        "feedback_complete": 409,
+        "beam_closed": 412,
+        "review_end": 414
+      },
+      "tool_hold_until": 414,
+      "next_event": 420,
+      "faces": [
+        96,
+        97,
+        98,
+        99,
+        224,
+        225,
+        226,
+        227,
+        352,
+        353,
+        354,
+        355,
+        480,
+        481,
+        482,
+        483
+      ]
+    },
+    {
+      "event": 3,
+      "start": 420,
+      "source": [
+        -0.00438522407785058,
+        -0.13092656433582306,
+        -729.5311279296875
+      ],
+      "target": [
+        -0.015217678621411324,
+        -0.15450464189052582,
+        -729.5299682617188
+      ],
+      "center_error_mm": 0.0,
+      "landmarks": {
+        "beam_contact": 425,
+        "pulse_launch": 426,
+        "surface_reveal": 442,
+        "feedback_start": 448,
+        "feedback_complete": 469,
+        "beam_closed": 472,
+        "review_end": 474
+      },
+      "tool_hold_until": 474,
+      "next_event": 480,
+      "faces": [
+        92,
+        93,
+        94,
+        95,
+        220,
+        221,
+        222,
+        223,
+        348,
+        349,
+        350,
+        351,
+        476,
+        477,
+        478,
+        479
+      ]
+    },
+    {
+      "event": 4,
+      "start": 480,
+      "source": [
+        -0.03664063662290573,
+        -0.12577150762081146,
+        -729.5318603515625
+      ],
+      "target": [
+        -0.045059897005558014,
+        -0.1485419124364853,
+        -729.5299682617188
+      ],
+      "center_error_mm": 0.0,
+      "landmarks": {
+        "beam_contact": 485,
+        "pulse_launch": 486,
+        "surface_reveal": 502,
+        "feedback_start": 508,
+        "feedback_complete": 529,
+        "beam_closed": 532,
+        "review_end": 534
+      },
+      "tool_hold_until": 534,
+      "next_event": 540,
+      "faces": [
+        88,
+        89,
+        90,
+        91,
+        216,
+        217,
+        218,
+        219,
+        344,
+        345,
+        346,
+        347,
+        472,
+        473,
+        474,
+        475
+      ]
+    },
+    {
+      "event": 5,
+      "start": 540,
+      "source": [
+        -0.06661790609359741,
+        -0.11279652267694473,
+        -729.5325317382812
+      ],
+      "target": [
+        -0.0731729194521904,
+        -0.13689741492271423,
+        -729.5299682617188
+      ],
+      "center_error_mm": 0.0,
+      "landmarks": {
+        "beam_contact": 545,
+        "pulse_launch": 546,
+        "surface_reveal": 562,
+        "feedback_start": 568,
+        "feedback_complete": 589,
+        "beam_closed": 592,
+        "review_end": 594
+      },
+      "tool_hold_until": 594,
+      "next_event": 600,
+      "faces": [
+        84,
+        85,
+        86,
+        87,
+        212,
+        213,
+        214,
+        215,
+        340,
+        341,
+        342,
+        343,
+        468,
+        469,
+        470,
+        471
+      ]
+    },
+    {
+      "event": 6,
+      "start": 600,
+      "source": [
+        -0.07964198291301727,
+        -0.10401038825511932,
+        -729.5330200195312
+      ],
+      "target": [
+        -0.09849075227975845,
+        -0.12001180648803711,
+        -729.5299682617188
+      ],
+      "center_error_mm": 0.0,
+      "landmarks": {
+        "beam_contact": 605,
+        "pulse_launch": 606,
+        "surface_reveal": 622,
+        "feedback_start": 628,
+        "feedback_complete": 649,
+        "beam_closed": 652,
+        "review_end": 654
+      },
+      "tool_hold_until": 654,
+      "next_event": 660,
+      "faces": [
+        80,
+        81,
+        82,
+        83,
+        208,
+        209,
+        210,
+        211,
+        336,
+        337,
+        338,
+        339,
+        464,
+        465,
+        466,
+        467
+      ]
+    }
+  ],
+  "timing": "54frame approved exchange/hold +6frame target turn, last event then finishing pullback660..756",
+  "approval": "Owner approved component appearance; whole-shot review remains open"
+}

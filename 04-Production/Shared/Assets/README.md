@@ -1,6 +1,6 @@
 # Shared production assets — current catalog
 
-Updated 31 October 2026. Open the versioned master for editing; use its separate demo for inspection. Supporting files remain beside the asset in Dependencies or Scripts. Earlier releases and experimental work are preserved outside Assets.
+Updated 2 November 2026. Open the versioned master for editing; use its separate demo for inspection. Supporting files remain beside the asset in Dependencies or Scripts. Earlier releases and experimental work are preserved outside Assets.
 
 | Asset | Shared master | Demo |
 |---|---|---|
@@ -8,7 +8,7 @@ Updated 31 October 2026. Open the versioned master for editing; use its separate
 | BHA | [BHA_film_v008.blend](Hardware/BHA/BHA_film_v008.blend) | [Hardware_demo_v001.blend](../Demos/Hardware_demo_v001.blend) |
 | Borehole | [World_environment_v013.blend](Environment/Borehole/World_environment_v013.blend) | [World_demo_v002.blend](../Demos/World_demo_v002.blend) |
 | Surface | [Surface_descent_v006.blend](Environment/Surface/Surface_descent_v006.blend) | [Surface_descent_demo_v004.blend](../Demos/Surface_descent_demo_v004.blend) |
-| Waveform | [Waveform_shared_v017.blend](Effects/Waveform/Waveform_shared_v017.blend) | [Waveform_demo_v017.blend](../Demos/Waveform_demo_v017.blend) |
+| Waveform | [Waveform_shared_v021.blend](Effects/Waveform/Waveform_shared_v021.blend) | [Beam_exchange_approved_demo_v021.blend](../Demos/Beam_exchange_approved_demo_v021.blend) |
 | Digital environment | [Digital_context_lines_v004.blend](Effects/DigitalEnvironment/Digital_context_lines_v004.blend) | [Digital_environment_demo_v005.blend](../Demos/Digital_environment_demo_v005.blend) |
 | Measurement reveal | [Measurement_reveal_v001.blend](Effects/MeasurementReveal/Measurement_reveal_v001.blend) | [Measurement_reveal_demo_v002.blend](../Demos/Measurement_reveal_demo_v002.blend) |
 | Hydraulics | [Hydraulics_v003.blend](Effects/Hydraulics/Hydraulics_v003.blend) | Retained Section5 evidence |
@@ -19,10 +19,4 @@ The migration map and verification are in `Records/Tasks/T-051/Reorganization/`.
 
 Surface v006 owns equipment and ocean. World v011 owns regional geology and the existing S02 wall. The connected Surface demo shows both. World v010 remains active for explicitly pinned existing Digital and other consumers; they were not upgraded.
 
-Waveform [v017 approved sharp-pulse master](Effects/Waveform/README_v017.md) is the current choice for new uses: live shape, finite head/tail, separate send/return colors, shared style and local timing/placement/overrides. Radzi approved quickv006's 360° proof; v017 packages that motion. Existing shots remain pinned to their prior versions until explicitly migrated. [v016](Effects/Waveform/README_v016.md) remains an unselected rolling-organic comparison; v015 remains available for pinned consumers.
-
-[v018 flat-tail extension](Effects/Waveform/README_v018.md) supports the owner-requested S01-S02v013 iteration. Lead rest and Flat after age controls default0, preservingv017 behavior. Only the explicit v013 consumer uses this successor; approved demo reference remainsv017 pending appearance selection.
-
-[v019 persistent-beam extension](Effects/Waveform/README_v019.md) supports S01-S02v014: straight handshake first, connected line throughout cyan send/violet feedback, then close and turn. Optional Beam mode defaults off and matchesv018 exactly. Current shot iteration usesv019; approved demo reference remainsv017.
-
-[v020 amplitude extension](Effects/Waveform/README_v020.md) supports the latest S01-S02v015 six-second exchange trial:5frame beam opening,30frame pulse travel, optional native amplitude breathing. Defaults retainv019 geometry. Source remains pinned per consumer; appearance awaits owner review.
+Waveform [v021 approved connected exchange](Effects/Waveform/README_v021.md) is the current reusable preset: five-frame beam opening, bipolar cyan send/violet feedback, amplitude breathing, active held contact patch and center-out tile glitch. S01–S02 production v016 uses it on six exchanges. Camera, actual targets and choreography remain shot-owned. Earlier v015–v020 masters/demos remain preserved for pinned consumers and comparisons. Whole-shot acceptance remains open.

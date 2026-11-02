@@ -1,0 +1,53 @@
+{
+  "reopen_links": true,
+  "first_event_matches_approved_sample_frames": 9,
+  "max_position_error_m": 0.0,
+  "six_event_checks": [
+    {
+      "event": 1,
+      "shared_version": "v021",
+      "center_error_mm": 0.0,
+      "returns_before_turn": true,
+      "patch_holds_and_hands_over": true
+    },
+    {
+      "event": 2,
+      "shared_version": "v021",
+      "center_error_mm": 0.0,
+      "returns_before_turn": true,
+      "patch_holds_and_hands_over": true
+    },
+    {
+      "event": 3,
+      "shared_version": "v021",
+      "center_error_mm": 0.0,
+      "returns_before_turn": true,
+      "patch_holds_and_hands_over": true
+    },
+    {
+      "event": 4,
+      "shared_version": "v021",
+      "center_error_mm": 0.0,
+      "returns_before_turn": true,
+      "patch_holds_and_hands_over": true
+    },
+    {
+      "event": 5,
+      "shared_version": "v021",
+      "center_error_mm": 0.0,
+      "returns_before_turn": true,
+      "patch_holds_and_hands_over": true
+    },
+    {
+      "event": 6,
+      "shared_version": "v021",
+      "center_error_mm": 0.0,
+      "returns_before_turn": true,
+      "patch_holds_and_hands_over": true
+    }
+  ],
+  "demo": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Demos\\Beam_exchange_approved_demo_v021.blend",
+  "demo_sha256": "57b40f77ab6034aaa496b962caa09313b024eb9901910703bee0f2f4716bfecd",
+  "demo_relative_links_resolve": true,
+  "production_unchanged_by_demo_save": true
+}

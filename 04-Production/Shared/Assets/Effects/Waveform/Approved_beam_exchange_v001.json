@@ -1,0 +1,380 @@
+{
+  "name": "Approved connected bipolar exchange",
+  "approval": "Radzi approved quickv022 signal/center-out glitch/active held patch,2November2026",
+  "source_review": "Waveform_active_patch_fast_v022.blend",
+  "shared_master": "Waveform_shared_v021.blend",
+  "reference_fps": 24,
+  "style": {
+    "Pulse count": 1,
+    "Pulse spacing": 6.400000095367432,
+    "Spacing variation": 0.20000000298023224,
+    "Amplitude variation": 0.25,
+    "Width variation": 0.12999999523162842,
+    "Variation seed": 0,
+    "Tail allowance": 9.0,
+    "Pulse width": 1.2999999523162842,
+    "Pre dip": 0.20000000298023224,
+    "Spike width": 0.5,
+    "Undershoot": 1.0,
+    "Rebound": 0.07999999821186066,
+    "Ringing": 0.0,
+    "Ring period": 2.4000000953674316,
+    "Ring decay": 2.4000000953674316,
+    "Dispersion": 0.15000000596046448,
+    "Attenuation": 0.25,
+    "Height m": 0.008500000461935997,
+    "Ribbon depth m": 0.003000000026077032,
+    "Strand count": 5,
+    "Strand separation": 0.6499999761581421,
+    "Strand phase offset": 0.2199999988079071,
+    "Strand radius m": 7.999999797903001e-05,
+    "End height fraction": 0.3499999940395355,
+    "Head fade": 0.800000011920929,
+    "Tail fade": 1.2000000476837158,
+    "Echo strength": 0.75,
+    "Show head tail": true,
+    "Head radius m": 0.0003499999875202775,
+    "Tail radius m": 0.00019999999494757503,
+    "Reference FPS": 24.0,
+    "Lead rest frames": 0.0,
+    "Flat after age": 5.0
+  },
+  "timing": {
+    "Enabled": true,
+    "Mode 0 Both 1 Send 2 Return": 0,
+    "Start frame": 1.0,
+    "Travel frames": 12.0,
+    "Train duration override": 0.0,
+    "Reflection enabled": true,
+    "Reflection after tail": true,
+    "Reflection delay": 1.0,
+    "Return travel override": 12.0,
+    "Return train scale": 1.0,
+    "Flip reflected pulse": false,
+    "Speed": 1.0,
+    "Fit end frame": 0.0,
+    "Follow scene FPS": true,
+    "Loop": false,
+    "Loop quiet frames": 22.0,
+    "Loop period override": 0.0,
+    "Amplitude breath": 0.2199999988079071,
+    "Breath period frames": 32.0,
+    "Beam mode": true,
+    "Beam opening frames": 5.0,
+    "Beam setup frames": 6.0,
+    "Beam closing frames": 3.0
+  },
+  "quick": {
+    "Strength multiplier": 1.0,
+    "Width multiplier": 1.0,
+    "Radius multiplier": 1.0,
+    "Show markers": false
+  },
+  "landmarks_relative": {
+    "beam_contact": 5,
+    "pulse_launch": 6,
+    "surface_reveal": 22,
+    "feedback_start": 28,
+    "feedback_complete": 49,
+    "beam_closed": 52,
+    "review_end": 54
+  },
+  "surface": {
+    "rows": 4,
+    "columns": 4,
+    "order": "four central faces first, then distance-ranked groups outward toward rectangle edges/corners",
+    "group_offsets": [
+      0,
+      1.5,
+      3,
+      4.5
+    ],
+    "settle_frames": 4,
+    "color_profiles": {
+      "0": [
+        {
+          "frame": 0.0,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 22.0,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 22.5,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 23.5,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.4000000059604645
+          ]
+        },
+        {
+          "frame": 29.5,
+          "color": [
+            0.08825600147247314,
+            0.5547680258750916,
+            0.9682559967041016,
+            0.27937281131744385
+          ]
+        },
+        {
+          "frame": 38.5,
+          "color": [
+            0.019999999552965164,
+            0.3499999940395355,
+            0.8999999761581421,
+            0.019999999552965164
+          ]
+        },
+        {
+          "frame": 54.0,
+          "color": [
+            0.019999999552965164,
+            0.3499999940395355,
+            0.8999999761581421,
+            0.019999999552965164
+          ]
+        }
+      ],
+      "1": [
+        {
+          "frame": 0.0,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 23.0,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 23.5,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 24.5,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.4000000059604645
+          ]
+        },
+        {
+          "frame": 30.5,
+          "color": [
+            0.08825600147247314,
+            0.5547680258750916,
+            0.9682559967041016,
+            0.27937281131744385
+          ]
+        },
+        {
+          "frame": 39.5,
+          "color": [
+            0.019999999552965164,
+            0.3499999940395355,
+            0.8999999761581421,
+            0.019999999552965164
+          ]
+        },
+        {
+          "frame": 54.0,
+          "color": [
+            0.019999999552965164,
+            0.3499999940395355,
+            0.8999999761581421,
+            0.019999999552965164
+          ]
+        }
+      ],
+      "2": [
+        {
+          "frame": 0.0,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 24.0,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 24.5,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 25.5,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.4000000059604645
+          ]
+        },
+        {
+          "frame": 31.5,
+          "color": [
+            0.08825600147247314,
+            0.5547680258750916,
+            0.9682559967041016,
+            0.27937281131744385
+          ]
+        },
+        {
+          "frame": 40.5,
+          "color": [
+            0.019999999552965164,
+            0.3499999940395355,
+            0.8999999761581421,
+            0.019999999552965164
+          ]
+        },
+        {
+          "frame": 54.0,
+          "color": [
+            0.019999999552965164,
+            0.3499999940395355,
+            0.8999999761581421,
+            0.019999999552965164
+          ]
+        }
+      ],
+      "3": [
+        {
+          "frame": 0.0,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 25.0,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 25.5,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "frame": 26.5,
+          "color": [
+            0.11999999731779099,
+            0.6499999761581421,
+            1.0,
+            0.4000000059604645
+          ]
+        },
+        {
+          "frame": 32.5,
+          "color": [
+            0.08825600147247314,
+            0.5547680258750916,
+            0.9682559967041016,
+            0.27937281131744385
+          ]
+        },
+        {
+          "frame": 41.5,
+          "color": [
+            0.019999999552965164,
+            0.3499999940395355,
+            0.8999999761581421,
+            0.019999999552965164
+          ]
+        },
+        {
+          "frame": 54.0,
+          "color": [
+            0.019999999552965164,
+            0.3499999940395355,
+            0.8999999761581421,
+            0.019999999552965164
+          ]
+        }
+      ]
+    }
+  },
+  "contact_patch": {
+    "size_m": 0.003,
+    "surface_clearance_m": 0.00012,
+    "color": [
+      0.17,
+      0.43,
+      0.46,
+      1.0
+    ],
+    "min_scale": 0.78,
+    "breath_period_frames": 4,
+    "arrival_after": 5,
+    "reveal_after": 22,
+    "handover_frames": 1,
+    "enabled": true
+  },
+  "shot_owned": [
+    "start frames",
+    "actual hardware and wall intersections",
+    "target patch face assignment and dimensions",
+    "camera/lighting",
+    "tool hold/turn choreography"
+  ],
+  "native_media": "local only, no off-machine backup claimed"
+}

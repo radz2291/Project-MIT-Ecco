@@ -1,8 +1,9 @@
 # S01–S02 collaborative production
 
-Fast waveform review: `Scenes/Waveform_direction_quick_v006.blend` is open. Owner preferred v002 sharp heartbeat-like pulse over the rolling/water-like shape; v003 adds three varied pulses; v004 adds Strand separation; v005 adds a finite cyan send train followed by a violet reflected train, with explicit head/tail markers; v006 gives a perspective360-degree orbit over two cycles. These are disposable shape/motion proofs; shared masters and shot integration are unchanged.
+Current: `Scenes/S01-S02_production_v016.blend`, six exchanges using approved shared waveform v021. Contact patch, centered hit and center-out glitch match quickv022. Starts 300/360/420/480/540/600; 54-frame exchanges plus six-frame turns. Scene ends 756 at 24 FPS (31.5 seconds). [Current handoff](Notes/approved_v016_handoff.md). Component appearance approved; whole-shot review remains open. Older versions retained.
 
-Latest contact review: `Scenes/Waveform_active_patch_fast_v022.blend`, first exchange only,2.25seconds/640×360. Tiny contact patch softly animates size/brightness while held305–322, handing over to glitch by323. Centered beam, approved pulse and middle-to-edge reveal retained. [Activity settings](Notes/quick_active_patch_v022.json), [alignment/spread](Notes/quick_center_reveal_v019.json). Full scene remains `Scenes/S01-S02_production_v015.blend` pending selection/migration; [v015 handoff](Notes/waveform_v015_handoff.md). Shared waveformv020 unchanged. Grid controls: N → World Grid; run START HERE pixel-guides text after reopening.
+Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
+
 ECCO-057: 2cd3cc2d-92b1-456c-92c6-556fb4526f4f. First collaboration checkpoint; incomplete, not submitted for acceptance.
 
 Baseline: `05-Previs/Section-02_Measurement-History/v011/Continuation/Scenes/S01-S02_continuous_v011.blend`, frames 1–528 at 24 fps (22 seconds); handoff frame 240. Source preserved. Camera matrices/lenses match eight sampled frames; original event animation retained.
