@@ -1,0 +1,66 @@
+{
+  "panel1_panel2_relative_reveal_samples": [
+    {
+      "event": 1,
+      "offset": 18,
+      "revealed_faces": 0
+    },
+    {
+      "event": 1,
+      "offset": 22,
+      "revealed_faces": 4
+    },
+    {
+      "event": 1,
+      "offset": 25,
+      "revealed_faces": 12
+    },
+    {
+      "event": 1,
+      "offset": 31,
+      "revealed_faces": 16
+    },
+    {
+      "event": 2,
+      "offset": 18,
+      "revealed_faces": 0
+    },
+    {
+      "event": 2,
+      "offset": 22,
+      "revealed_faces": 4
+    },
+    {
+      "event": 2,
+      "offset": 25,
+      "revealed_faces": 12
+    },
+    {
+      "event": 2,
+      "offset": 31,
+      "revealed_faces": 16
+    }
+  ],
+  "matching_reveal_progress": true,
+  "legacy_borders_disabled": 13,
+  "renders": [
+    {
+      "frame": 378,
+      "seconds": 0.3691295999997237
+    },
+    {
+      "frame": 382,
+      "seconds": 0.3608022999997047
+    },
+    {
+      "frame": 386,
+      "seconds": 0.3630253999999695
+    },
+    {
+      "frame": 392,
+      "seconds": 0.3596639999996114
+    }
+  ],
+  "gap_cutaway_unchanged": true,
+  "all_links_resolve": true
+}

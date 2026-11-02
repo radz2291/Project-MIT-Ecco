@@ -1,0 +1,524 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v019.blend",
+  "sha256": "fdfa5b8e6cedaf8a282b36f3301e30bf024e0d7ad4a849972766b498fc6349e1",
+  "source": "S01-S02_production_v018.blend",
+  "cause": "Independent acquired-row borders retained original previs timing: second row turns on371, current second glitch starts382. First border329 overlaps first glitch322..331, hiding the mismatch.",
+  "fix": "Disable duplicate old acquired-row borders for all six targets. Existing tile-derived edges now establish exactly with revealed geometry, including center-out glitch motion.",
+  "disabled_legacy_borders": [
+    {
+      "object": "Unified acquired row shared edge 25",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              328.0,
+              1.0
+            ],
+            [
+              329.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              328.0,
+              1.0
+            ],
+            [
+              329.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row shared edge 26",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              328.0,
+              1.0
+            ],
+            [
+              329.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              328.0,
+              1.0
+            ],
+            [
+              329.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row shared edge 24",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              370.0,
+              1.0
+            ],
+            [
+              371.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              370.0,
+              1.0
+            ],
+            [
+              371.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row shared edge 23",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              412.0,
+              1.0
+            ],
+            [
+              413.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              412.0,
+              1.0
+            ],
+            [
+              413.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row shared edge 22",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              460.0,
+              1.0
+            ],
+            [
+              461.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              460.0,
+              1.0
+            ],
+            [
+              461.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row shared edge 21",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              508.0,
+              1.0
+            ],
+            [
+              509.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              508.0,
+              1.0
+            ],
+            [
+              509.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row shared edge 20",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              534.0,
+              1.0
+            ],
+            [
+              535.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              534.0,
+              1.0
+            ],
+            [
+              535.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row lower edge 25",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              328.0,
+              1.0
+            ],
+            [
+              329.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              328.0,
+              1.0
+            ],
+            [
+              329.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row lower edge 24",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              370.0,
+              1.0
+            ],
+            [
+              371.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              370.0,
+              1.0
+            ],
+            [
+              371.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row lower edge 23",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              412.0,
+              1.0
+            ],
+            [
+              413.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              412.0,
+              1.0
+            ],
+            [
+              413.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row lower edge 22",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              460.0,
+              1.0
+            ],
+            [
+              461.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              460.0,
+              1.0
+            ],
+            [
+              461.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row lower edge 21",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              508.0,
+              1.0
+            ],
+            [
+              509.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              508.0,
+              1.0
+            ],
+            [
+              509.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "object": "Unified acquired row lower edge 20",
+      "old_visibility": [
+        {
+          "path": "hide_render",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              534.0,
+              1.0
+            ],
+            [
+              535.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "path": "hide_viewport",
+          "keys": [
+            [
+              240.0,
+              1.0
+            ],
+            [
+              534.0,
+              1.0
+            ],
+            [
+              535.0,
+              0.0
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "unchanged": [
+    "camera",
+    "beam/pulse/contact/tile timings and shape",
+    "final-display exclusions and point-free lines/fill style",
+    "shared masters",
+    "camera viewing wedge"
+  ],
+  "gap_investigation": "Blue-shell central opening is the existing camera viewing wedge; no physical BHA discontinuity. Diagnostic recorded separately; no gap edit included."
+}

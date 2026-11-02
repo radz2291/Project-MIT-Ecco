@@ -1,0 +1,16 @@
+{
+  "frame": 528,
+  "camera_cutaway_half_angle_degrees": 30,
+  "comparison": [
+    {
+      "cutaway": true,
+      "evaluated_faces": 34304
+    },
+    {
+      "cutaway": false,
+      "evaluated_faces": 41024
+    }
+  ],
+  "restored_original_cutaway": true,
+  "scope": "Read-only geometry evaluation and temporary diagnostic stills; no gap edit saved."
+}

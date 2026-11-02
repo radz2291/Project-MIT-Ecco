@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v018.blend`. Final-display content review: old previs target plates/history helpers excluded from viewport exports; decorative measurement point markers disabled in a local style copy, with surface lines/fill retained. Approved shared-v021 exchanges and v017 camera remain. Two1920x1080stills: `Previews/Final-display-v018/close_final_v018.png` (335) and `wide_final_v018.png` (756). [Visibility profile and current handoff](Notes/final_display_v018_handoff.md). Owner confirmation pending; no new full animation render or AI stylization performed.
+Current: `Scenes/S01-S02_production_v019.blend`. Second-panel border fixed by disabling obsolete independently timed acquired-row borders; actual tile-derived edges establish with the glitch. Final-displayv018 exclusions/point-free surface styling and v017camera retained. [Latest border fix and gap inspection](Notes/panel_edges_v019_handoff.md). Central blue-shell opening is the existing camera cutaway; wide-shot closure recommended, not included in this fix. Scene31.5seconds; owner review remains open. Priorv018close/wide1080p content-review stills remain retained.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 
