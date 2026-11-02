@@ -7,3 +7,5 @@ Current versions, source links, checks, limits and next action: [Sequence README
 In progress; no final Review submission or owner acceptance. Native scenes/videos local only. Permitted scripts/notes/stills synchronized separately, exact remote commit attached to Work.
 
 2 November: Radzi approved the sharp waveform and 360° quickv006 proof. [Shared v017](../../../Shared/Assets/Effects/Waveform/README_v017.md) packages this as live native controls with a linked four-case demo and behavioral/render evidence. This component approval is recorded separately from whole-shot acceptance. Production shots remain pinned pending deliberate integration; the originalv007 camera remains selected.
+
+Follow-up owner authorization: [actual scenev010](../../../Shots/S01-S02/Notes/waveform_v010_handoff.md) migrates all six signals to sharedv017. Contact and receipt now bind complete pulse-tail arrival; existing measurement timing and all528 camera matrices/lenses are preserved. Versionedv007/v009 remain intact. First/late event previews are scoped integration proofs, not a whole-film render or final acceptance.

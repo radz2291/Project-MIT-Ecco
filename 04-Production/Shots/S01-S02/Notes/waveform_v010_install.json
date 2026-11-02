@@ -1,0 +1,236 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v010.blend",
+  "sha256": "c7d1928eeeab9b97b86aa0de5d1cd16ef96edf381234da4e68bec157318ef7e1",
+  "events": [
+    {
+      "event": 1,
+      "settings": {
+        "Start frame": 300.0,
+        "Follow scene FPS": false,
+        "Speed": 6.666666666666667,
+        "Loop": false,
+        "Travel frames": 40.0,
+        "Return travel override": 33.333333333333336,
+        "Reflection delay": 6.666666666666667,
+        "Gap length m": 0.024575851476624954,
+        "Route axis": [
+          0.358367919921875,
+          -0.9335803985595703,
+          0.0
+        ],
+        "Transverse axis": [
+          -0.9335805177688599,
+          -0.3583679497241974,
+          0.0
+        ],
+        "Up axis": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "landmarks": {
+        "Send head arrival": 306.0,
+        "Send tail arrival": 309.0,
+        "Return start": 310.0,
+        "Return head arrival": 315.0,
+        "Return tail arrival": 318.0,
+        "Cycle frames": 21.30000114440918
+      }
+    },
+    {
+      "event": 2,
+      "settings": {
+        "Start frame": 342.0,
+        "Follow scene FPS": false,
+        "Speed": 6.666666666666667,
+        "Loop": false,
+        "Travel frames": 40.0,
+        "Return travel override": 33.333333333333336,
+        "Reflection delay": 6.666666666666667,
+        "Gap length m": 0.02454412783628174,
+        "Route axis": [
+          0.16575050354003906,
+          -0.9861677289009094,
+          0.0
+        ],
+        "Transverse axis": [
+          -0.9861677289009094,
+          -0.16575050354003906,
+          0.0
+        ],
+        "Up axis": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "landmarks": {
+        "Send head arrival": 348.0,
+        "Send tail arrival": 351.0,
+        "Return start": 352.0,
+        "Return head arrival": 357.0,
+        "Return tail arrival": 360.0,
+        "Cycle frames": 21.30000114440918
+      }
+    },
+    {
+      "event": 3,
+      "settings": {
+        "Start frame": 384.0,
+        "Follow scene FPS": false,
+        "Speed": 6.666666666666667,
+        "Loop": false,
+        "Travel frames": 40.0,
+        "Return travel override": 33.333333333333336,
+        "Reflection delay": 6.666666666666667,
+        "Gap length m": 0.024526348973488044,
+        "Route axis": [
+          -0.033474769443273544,
+          -0.999439537525177,
+          0.0
+        ],
+        "Transverse axis": [
+          -0.999439537525177,
+          0.033474769443273544,
+          0.0
+        ],
+        "Up axis": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "landmarks": {
+        "Send head arrival": 390.0,
+        "Send tail arrival": 393.0,
+        "Return start": 394.0,
+        "Return head arrival": 399.0,
+        "Return tail arrival": 402.0,
+        "Cycle frames": 21.30000114440918
+      }
+    },
+    {
+      "event": 4,
+      "settings": {
+        "Start frame": 432.0,
+        "Follow scene FPS": false,
+        "Speed": 6.666666666666667,
+        "Loop": false,
+        "Travel frames": 40.0,
+        "Return travel override": 33.333333333333336,
+        "Reflection delay": 6.666666666666667,
+        "Gap length m": 0.02452418784743949,
+        "Route axis": [
+          -0.2796993553638458,
+          -0.9600875973701477,
+          0.0
+        ],
+        "Transverse axis": [
+          -0.9600877165794373,
+          0.2796993851661682,
+          0.0
+        ],
+        "Up axis": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "landmarks": {
+        "Send head arrival": 438.0,
+        "Send tail arrival": 441.0,
+        "Return start": 442.0,
+        "Return head arrival": 447.0,
+        "Return tail arrival": 450.0,
+        "Cycle frames": 21.30000114440918
+      }
+    },
+    {
+      "event": 5,
+      "settings": {
+        "Start frame": 480.0,
+        "Follow scene FPS": false,
+        "Speed": 6.666666666666667,
+        "Loop": false,
+        "Travel frames": 40.0,
+        "Return travel override": 33.333333333333336,
+        "Reflection delay": 6.666666666666667,
+        "Gap length m": 0.02454323333749097,
+        "Route axis": [
+          -0.5085334777832031,
+          -0.8610422015190125,
+          0.0
+        ],
+        "Transverse axis": [
+          -0.8610422015190125,
+          0.5085334777832031,
+          0.0
+        ],
+        "Up axis": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "landmarks": {
+        "Send head arrival": 486.0,
+        "Send tail arrival": 489.0,
+        "Return start": 490.0,
+        "Return head arrival": 495.0,
+        "Return tail arrival": 498.0,
+        "Cycle frames": 21.30000114440918
+      }
+    },
+    {
+      "event": 6,
+      "settings": {
+        "Start frame": 510.0,
+        "Follow scene FPS": false,
+        "Speed": 6.666666666666667,
+        "Loop": false,
+        "Travel frames": 26.666666666666668,
+        "Return travel override": 20.0,
+        "Reflection delay": 6.666666666666667,
+        "Gap length m": 0.024522251679152493,
+        "Route axis": [
+          -0.6079537868499756,
+          -0.7939724326133728,
+          0.0
+        ],
+        "Transverse axis": [
+          -0.7939724326133728,
+          0.6079537868499756,
+          0.0
+        ],
+        "Up axis": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "landmarks": {
+        "Send head arrival": 514.0,
+        "Send tail arrival": 517.0,
+        "Return start": 518.0,
+        "Return head arrival": 521.0,
+        "Return tail arrival": 524.0,
+        "Cycle frames": 17.299999237060547
+      }
+    }
+  ],
+  "camera_all528": "exact evaluated equality to v007",
+  "measurement_sample_hashes": {
+    "299": "1391876e63685b7da0e6a923dc6c4c106590930a70cdf4665088614cae243c44",
+    "309": "1391876e63685b7da0e6a923dc6c4c106590930a70cdf4665088614cae243c44",
+    "318": "1391876e63685b7da0e6a923dc6c4c106590930a70cdf4665088614cae243c44",
+    "360": "b1defd37c124cba698d37de498c58d05a9d993e07fdd53cd93648ffd8a8b329c",
+    "402": "98e146101ceedd86348891e88fb507b859ccc7b25c01431c3634748722827764",
+    "450": "3527990b5c5ce021638676670a6775d71f938e5666b704e09cff4e309ab96773",
+    "498": "3a405d68a0b2646958876204167fd43703b82bbb558208cf8098d250fbab87e7",
+    "524": "231ba9bf5d6e44cce5efbcfe77c876d7b54e2ceb621054dd9e58dfdf8da2217d"
+  },
+  "fresh_reopen_links": "all resolve",
+  "master": "linked v017; unchanged defaults",
+  "timing": "3-frame train; outgoing and reflected TAIL completion retain contact and receipt cues; head reaches earlier; camera not retimed"
+}

@@ -67,6 +67,6 @@ Limits: authored illustrative signal, not calibrated acoustics. A five-pulse tra
 
 ## Consumer/version status
 
-v017 is the approved sharp-pulse family and the current catalog choice for new uses. Its only current consumer is `Shared/Demos/Waveform_demo_v017.blend`. S01-S02 productionv007 remains pinned to v015; trialv009 uses v016 on its first event. Other existing shots remain pinned. No shot silently changes version; fitting this design into their shorter event windows is a deliberate next integration step. v016's rolling organic family was not selected by this approval.
+v017 is the approved sharp-pulse family and current catalog choice for new uses. Consumers: `Shared/Demos/Waveform_demo_v017.blend` and owner-authorized `Shots/S01-S02/Scenes/S01-S02_production_v010.blend` (all six signal events). [Shot integration](../../../../Shots/S01-S02/Notes/waveform_v010_handoff.md) compresses the complete train into the existing event windows and preserves contact/receipt cues. Retained productionv007 remains pinned to v015; trialv009 uses v016 on its first event. Other existing shots remain pinned. v016's rolling organic family was not selected by this approval.
 
 Native master/demo, raw frame sequence and MP4 remain local excluded media. Exact native SHA256 is in the interface manifest. Scripts, manifests, evidence and documentation are versioned; no off-machine native/media backup is claimed. ECCO-057 remains an ongoing collaborative shot ticket; this shared component approval does not close the whole ticket.
