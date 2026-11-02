@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Fast waveform review: `Scenes/Waveform_direction_quick_v003.blend` is open. Owner preferred v002 sharp heartbeat-like pulse over the rolling/water-like shape; v003 adds three varied pulses. These are disposable shape/motion proofs; shared masters and shot integration are unchanged.
+Fast waveform review: `Scenes/Waveform_direction_quick_v004.blend` is open. Owner preferred v002 sharp heartbeat-like pulse over the rolling/water-like shape; v003 adds three varied pulses; v004 adds the native Strand separation slider (tight0 / wide0.65). These are disposable shape/motion proofs; shared masters and shot integration are unchanged.
 
 Current waveform trial: `Scenes/S01-S02_production_v009.blend`, saved/open311. Sharedv016 Short preset is applied to event1 only; other events stayv015. Originalv007 camera is retained. [Candidate proof and comparison](Notes/waveform_v009_handoff.md); full22s baseline remains [v007](Notes/full_v007_handoff.md). v008 slowdown remains unselected. Grid controls: N → World Grid; run START HERE pixel-guides text after reopening.
 ECCO-057: 2cd3cc2d-92b1-456c-92c6-556fb4526f4f. First collaboration checkpoint; incomplete, not submitted for acceptance.
