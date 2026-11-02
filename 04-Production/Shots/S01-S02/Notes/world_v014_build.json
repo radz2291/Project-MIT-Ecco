@@ -1,0 +1,11 @@
+{
+  "source_sha256": "ed8dd0ff271ea90145470065f142c46c23c3071e5a5914885bed61c544c3eca7",
+  "native_sha256": "45542e9a18a5a94ba6569cd9a1a09b78e4fe26e092f2ece68804987d79b1da43",
+  "preserved_original_meshes": 38,
+  "front_meshes": 14,
+  "actions": 0,
+  "consumers": [
+    "S01-S02 production v003"
+  ],
+  "pinned_consumers_unchanged": true
+}

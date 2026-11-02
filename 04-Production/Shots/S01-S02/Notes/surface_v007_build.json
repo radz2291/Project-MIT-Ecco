@@ -1,0 +1,31 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v007.blend",
+  "sha256": "af156a2ea1aa6d8c6609c954ae213755c71572762acd03c72ca5fb1a30743e94",
+  "predecessor_sha256": "1560468aaa916e0a7960ef6f80c73467cecbbb6a80191e4072d5b43d1c8f8561",
+  "camera_access_radius_m": 0.66,
+  "modified_objects": [
+    "SUBSEA_RiserCoupling",
+    "SUBSEA_RiserCoupling.001",
+    "SUBSEA_RiserCoupling.002",
+    "SUBSEA_RiserCoupling.003",
+    "SUBSEA_RiserCoupling.004",
+    "SUBSEA_RiserCoupling.005",
+    "SUBSEA_RiserCoupling.006",
+    "SUBSEA_RiserCoupling.007",
+    "SUBSEA_RiserCoupling.008",
+    "SUBSEA_RiserCoupling.009",
+    "SUBSEA_RiserCoupling.010",
+    "SUBSEA_RiserCoupling.011",
+    "SUBSEA_RiserCoupling.012",
+    "SUBSEA_RiserCoupling.013",
+    "SUBSEA_Foundation",
+    "SUBSEA_BOPStack",
+    "SUBSEA_BOPStack.001",
+    "SUBSEA_BOPStack.002",
+    "SUBSEA_BOPStack.003"
+  ],
+  "consumers": [
+    "S01-S02 production v003"
+  ],
+  "unchanged": "Riser, ocean and all other equipment; no source file overwrite; no other consumer migration."
+}

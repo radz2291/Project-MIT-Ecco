@@ -1,0 +1,20 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v003.blend",
+  "sha256": "1e2b7f13bd0a9794590f1559131a42301848952a882b764829bce6e0df2674cf",
+  "saved_frame": 106,
+  "preview": "Previews/Entry-v003/S01-S02_entry_reveal_v003.mp4",
+  "range": [
+    80,
+    152
+  ],
+  "fps": 24,
+  "frames": 73,
+  "max_render_to_file_s": 1.26285509999434,
+  "min_render_to_file_s": 0.8978706000052625,
+  "assets": [
+    "World v014",
+    "Surface v007"
+  ],
+  "native_backup": "Local only; no off-machine backup claimed.",
+  "approach_final_timings": "entry_v003_approach_final_timings.json"
+}

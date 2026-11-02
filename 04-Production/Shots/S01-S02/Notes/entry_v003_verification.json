@@ -1,0 +1,94 @@
+{
+  "missing_libraries": [],
+  "source_camera_sample_max_error": 0.0,
+  "enclosed106": {
+    "rays": 72,
+    "missing": 0,
+    "min_camera_to_wall_m": 0.28930696845054626,
+    "camera_clip_start_m": 0.03999999910593033
+  },
+  "intact_seabed80": {
+    "rays": 144,
+    "missing": 0,
+    "expected_hit_distance_m": 0.5,
+    "max_distance_error_m": 4.26173210144043e-06
+  },
+  "control_samples": [
+    {
+      "frame": 94,
+      "bore_scale": 4.178049087524414,
+      "front_reveal": 0.0,
+      "unit01_front_faces": 54052
+    },
+    {
+      "frame": 106,
+      "bore_scale": 4.178049087524414,
+      "front_reveal": 0.0,
+      "unit01_front_faces": 54052
+    },
+    {
+      "frame": 114,
+      "bore_scale": 4.1317219734191895,
+      "front_reveal": 0.0,
+      "unit01_front_faces": 54052
+    },
+    {
+      "frame": 115,
+      "bore_scale": 4.076419353485107,
+      "front_reveal": 0.03429330140352249,
+      "unit01_front_faces": 54052
+    },
+    {
+      "frame": 120,
+      "bore_scale": 3.547999858856201,
+      "front_reveal": 0.7407408356666565,
+      "unit01_front_faces": 54052
+    },
+    {
+      "frame": 123,
+      "bore_scale": 3.0919642448425293,
+      "front_reveal": 1.0,
+      "unit01_front_faces": 0
+    },
+    {
+      "frame": 132,
+      "bore_scale": 1.6300498247146606,
+      "front_reveal": 1.0,
+      "unit01_front_faces": 0
+    },
+    {
+      "frame": 141,
+      "bore_scale": 1.0,
+      "front_reveal": 1.0,
+      "unit01_front_faces": 0
+    },
+    {
+      "frame": 169,
+      "bore_scale": 1.0,
+      "front_reveal": 1.0,
+      "unit01_front_faces": 0
+    },
+    {
+      "frame": 300,
+      "bore_scale": 1.0,
+      "front_reveal": 1.0,
+      "unit01_front_faces": 0
+    },
+    {
+      "frame": 528,
+      "bore_scale": 1.0,
+      "front_reveal": 1.0,
+      "unit01_front_faces": 0
+    }
+  ],
+  "nominal_measurement_wall169": {
+    "same_vertices": true,
+    "max_local_position_error_m": 0.0,
+    "reference": "Evaluated original linked source mesh with its existing Outer_soil_margin_25m shape key; no presentation modifier."
+  },
+  "source_files_unchanged": {
+    "World v013": true,
+    "Surface v006": true
+  },
+  "pass": true
+}
