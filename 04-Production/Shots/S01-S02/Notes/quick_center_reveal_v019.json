@@ -1,0 +1,122 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\Waveform_center_reveal_fast_v019.blend",
+  "scope": "first exchange alignment/reveal review; approved pulse shape and timing unchanged",
+  "old_endpoint": [
+    0.055753353983163834,
+    -0.1452425718307495,
+    -729.5299682617188
+  ],
+  "new_endpoint": [
+    0.045059915632009506,
+    -0.14854182302951813,
+    -729.5299682617188
+  ],
+  "patch_middle_grid_point": [
+    0.045059915632009506,
+    -0.14854182302951813,
+    -729.5299682617188
+  ],
+  "patch_center_alignment_mm": 0.0,
+  "beam_wall_error_mm": 0.0,
+  "group_order": [
+    {
+      "face": 358,
+      "group": 0,
+      "distance_mm": 8.418493991745137
+    },
+    {
+      "face": 357,
+      "group": 0,
+      "distance_mm": 8.418539008592647
+    },
+    {
+      "face": 229,
+      "group": 0,
+      "distance_mm": 8.418541689204291
+    },
+    {
+      "face": 230,
+      "group": 0,
+      "distance_mm": 8.472970538318433
+    },
+    {
+      "face": 359,
+      "group": 1,
+      "distance_mm": 13.670778623061668
+    },
+    {
+      "face": 228,
+      "group": 1,
+      "distance_mm": 13.671157430386925
+    },
+    {
+      "face": 356,
+      "group": 1,
+      "distance_mm": 13.671168440523653
+    },
+    {
+      "face": 231,
+      "group": 1,
+      "distance_mm": 13.704370572804658
+    },
+    {
+      "face": 101,
+      "group": 2,
+      "distance_mm": 22.78344071517972
+    },
+    {
+      "face": 102,
+      "group": 2,
+      "distance_mm": 22.841580851644782
+    },
+    {
+      "face": 486,
+      "group": 2,
+      "distance_mm": 22.841856835041433
+    },
+    {
+      "face": 485,
+      "group": 2,
+      "distance_mm": 22.841872425888543
+    },
+    {
+      "face": 100,
+      "group": 3,
+      "distance_mm": 25.205969780886907
+    },
+    {
+      "face": 487,
+      "group": 3,
+      "distance_mm": 25.254117474776436
+    },
+    {
+      "face": 484,
+      "group": 3,
+      "distance_mm": 25.25432376051895
+    },
+    {
+      "face": 103,
+      "group": 3,
+      "distance_mm": 25.254796540340646
+    }
+  ],
+  "center_cells": [
+    358,
+    357,
+    229,
+    230
+  ],
+  "edge_spread_offsets": [
+    0,
+    1.5,
+    3,
+    4.5
+  ],
+  "topology": "existing patch/grid retained, beam retargeted to central grid intersection; four central tiles then outward to edges/corners",
+  "signal": "only route basis and gap changed; waveform style/timing untouched",
+  "preview": [
+    300,
+    353
+  ],
+  "fps": 24
+}
