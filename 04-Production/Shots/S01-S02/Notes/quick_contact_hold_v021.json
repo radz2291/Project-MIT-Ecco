@@ -1,0 +1,11 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\Waveform_contact_hold_fast_v021.blend",
+  "change": "contact patch persists from handshake arrival305 through glitch onset322; one-frame handover, gone323",
+  "patch_size_mm": 3,
+  "pulse_and_tile_reveal": "unchanged from quickv020",
+  "preview": [
+    300,
+    353
+  ],
+  "fps": 24
+}
