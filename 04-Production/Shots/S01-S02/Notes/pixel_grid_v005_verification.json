@@ -1,0 +1,110 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v005.blend",
+  "sha256": "1a0132f24a106e35924adf0322a6c3b8035f7bf71b61f2e134ad13622c1c962e",
+  "controls": {
+    "Enabled": true,
+    "Show cut faces": true,
+    "Show seabed": true,
+    "Show bore": true,
+    "Depth spacing m": 25.0,
+    "Radial spacing m": 10.0,
+    "Seabed spacing m": 10.0,
+    "Bore ring spacing m": 1.0,
+    "Stroke shade": 0.008,
+    "meaning": "World-anchored edge guides drawn with a fixed screen-pixel GPU stroke. Run pixel_guides_viewport.py install() after reopening; use export() for playblast.",
+    "Line width px": 1.2,
+    "Line opacity": 0.8
+  },
+  "evaluated_toggle_check_at_frame169": {
+    "False": {
+      "World pixel_CUT_FACES": {
+        "edges": 0,
+        "faces": 0
+      },
+      "World pixel_SEABED": {
+        "edges": 0,
+        "faces": 0
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 0,
+        "faces": 0
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 0,
+        "faces": 0
+      }
+    },
+    "True": {
+      "World pixel_CUT_FACES": {
+        "edges": 110,
+        "faces": 0
+      },
+      "World pixel_SEABED": {
+        "edges": 140,
+        "faces": 0
+      },
+      "World pixel_BORE_RETAINED": {
+        "edges": 112880,
+        "faces": 0
+      },
+      "World pixel_BORE_FRONT": {
+        "edges": 0,
+        "faces": 0
+      }
+    }
+  },
+  "libraries": [
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Surface\\Surface_descent_v008.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v015.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v013.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v014.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v001.blend",
+      "exists": true
+    },
+    {
+      "path": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v002.blend",
+      "exists": true
+    }
+  ],
+  "base_world_unchanged": true,
+  "stroke_method": "Depth-tested GPU polyline, 1.2 output pixels; not 3D tubes or strips",
+  "local_only": true,
+  "reopen": {
+    "frame": 106,
+    "live_helper_restored": true,
+    "export_seconds": 0.8992533999989973
+  }
+}

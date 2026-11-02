@@ -1,0 +1,24 @@
+{
+  "objects": [
+    "World pixel_CUT_FACES",
+    "World pixel_SEABED",
+    "World pixel_BORE_RETAINED",
+    "World pixel_BORE_FRONT"
+  ],
+  "controls": "World pixel guide controls",
+  "defaults": {
+    "Enabled": true,
+    "Show cut faces": true,
+    "Show seabed": true,
+    "Show bore": true,
+    "Depth spacing m": 25.0,
+    "Radial spacing m": 10.0,
+    "Seabed spacing m": 10.0,
+    "Bore ring spacing m": 15.0
+  },
+  "stroke": "Edge-only source data, drawn via pixel_guides_viewport.py as fixed-width GPU strokes against scene depth.",
+  "bore_behavior": "Linked original World presentation groups follow bore widening/front retraction.",
+  "source_module": "World_motion_grid_v002.blend",
+  "renderer_script": "04-Production/Shared/Assets/Environment/Borehole/Scripts/pixel_guides_viewport.py",
+  "native_viewport_render_includes_custom_overlay": false
+}

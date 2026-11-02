@@ -9,3 +9,5 @@ Owner-authorized ECCO-057 successors,2 November2026. Additive to the existing sh
 | Continuous pipe-entry trial | Environment/Surface/Surface_descent_v008.blend | [Controls](Environment/Surface/README_v008.md), Surface_interface_v008.json; S01–S02 v004 only |
 
 World v014 / Surface v007 consumer: `04-Production/Shots/S01-S02/Scenes/S01-S02_production_v003.blend`; proof in Previews/Entry-v003. Latest continuous-entry trial: `04-Production/Shots/S01-S02/Scenes/S01-S02_production_v004.blend` consumes World v014 and Surface v008; proof in Previews/Entry-v004. Earlier masters and pinned consumers preserved. Other demos/shots not migrated. Native/media stay local only.
+
+Optional motion-reference successor: [World pixel guides v002](Environment/Borehole/README_motion_grid_v002.md), used by S01-S02 production v005 only. Cut faces, seabed and bore; fixed-pixel GPU strokes and explicit viewport/export helper. Original World/Surface geometry unchanged.

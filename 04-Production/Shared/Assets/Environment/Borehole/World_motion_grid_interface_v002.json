@@ -1,0 +1,48 @@
+{
+  "native": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Borehole\\World_motion_grid_v002.blend",
+  "sha256": "cfd267a36096f12a44391f9519519339c5a723c06a05b7103f9d6112a6bab81f",
+  "source_world": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shared\\Assets\\Environment\\Borehole\\World_environment_v014.blend",
+  "source_world_sha256": "45542e9a18a5a94ba6569cd9a1a09b78e4fe26e092f2ece68804987d79b1da43",
+  "node_group": "WORLD pixel guide controls v002",
+  "records": [
+    {
+      "object": "WORLD_PIXEL_CUT_FACES",
+      "vertices": 4324,
+      "edges": 2162,
+      "faces": 0
+    },
+    {
+      "object": "WORLD_PIXEL_SEABED",
+      "vertices": 2872,
+      "edges": 1436,
+      "faces": 0
+    },
+    {
+      "object": "WORLD_PIXEL_BORE_RETAINED",
+      "vertices": 225760,
+      "edges": 112880,
+      "faces": 0
+    },
+    {
+      "object": "WORLD_PIXEL_BORE_FRONT",
+      "vertices": 223304,
+      "edges": 111652,
+      "faces": 0
+    }
+  ],
+  "stroke": "Edge-only source data, drawn via pixel_guides_viewport.py as fixed-width GPU strokes against scene depth.",
+  "default_enabled": false,
+  "consumer": "S01-S02 production v005 only",
+  "controls": {
+    "Depth spacing m": 25,
+    "Radial spacing m": 10,
+    "Seabed spacing m": 10,
+    "Bore ring spacing m": 15
+  },
+  "source_spacing_resolution_m": 1,
+  "bore_offset_m": 0.003,
+  "seabed_hole_exclusion_m": 1.0,
+  "status": "Reference guide trial; no measured-data meaning or tested AI finishing.",
+  "renderer_script": "04-Production/Shared/Assets/Environment/Borehole/Scripts/pixel_guides_viewport.py",
+  "native_viewport_render_includes_custom_overlay": false
+}
