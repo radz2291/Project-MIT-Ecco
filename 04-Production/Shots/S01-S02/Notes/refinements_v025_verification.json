@@ -1,0 +1,141 @@
+{
+  "cold_reopen": true,
+  "camera_samples_unchanged": 18,
+  "reveal_face_attributes_unchanged": true,
+  "missing_libraries": [],
+  "clearance_samples": [
+    {
+      "frame": 520,
+      "wall": {
+        "samples": 264,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 2.8680940294251167,
+        "penetrations_over_0_1mm": 0
+      },
+      "overlay": {
+        "samples": 1640,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 2.001690272822154,
+        "penetrations_over_0_1mm": 0
+      },
+      "contour_birth_attribute": true,
+      "soft_materials": [
+        "Contour soft build 0/4 v025",
+        "Contour soft build 1/4 v025",
+        "Contour soft build 2/4 v025",
+        "Contour soft build 3/4 v025"
+      ]
+    },
+    {
+      "frame": 550,
+      "wall": {
+        "samples": 716,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 2.8431563984181727,
+        "penetrations_over_0_1mm": 0
+      },
+      "overlay": {
+        "samples": 3064,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 2.001690272822154,
+        "penetrations_over_0_1mm": 0
+      },
+      "contour_birth_attribute": true,
+      "soft_materials": [
+        "Contour soft build 0/4 v025",
+        "Contour soft build 1/4 v025",
+        "Contour soft build 2/4 v025",
+        "Contour soft build 3/4 v025"
+      ]
+    },
+    {
+      "frame": 600,
+      "wall": {
+        "samples": 3692,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 2.591334801910844,
+        "penetrations_over_0_1mm": 0
+      },
+      "overlay": {
+        "samples": 12356,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 1.997986780126193,
+        "penetrations_over_0_1mm": 0
+      },
+      "contour_birth_attribute": true,
+      "soft_materials": [
+        "Contour soft build 0/4 v025",
+        "Contour soft build 1/4 v025",
+        "Contour soft build 2/4 v025",
+        "Contour soft build 3/4 v025"
+      ]
+    },
+    {
+      "frame": 650,
+      "wall": {
+        "samples": 23422,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 2.4868567092915517,
+        "penetrations_over_0_1mm": 0
+      },
+      "overlay": {
+        "samples": 24752,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 1.981861296199705,
+        "penetrations_over_0_1mm": 0
+      },
+      "contour_birth_attribute": true,
+      "soft_materials": [
+        "Contour soft build 0/4 v025",
+        "Contour soft build 1/4 v025",
+        "Contour soft build 2/4 v025",
+        "Contour soft build 3/4 v025"
+      ]
+    },
+    {
+      "frame": 700,
+      "wall": {
+        "samples": 30302,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 2.4962210834233725,
+        "penetrations_over_0_1mm": 0
+      },
+      "overlay": {
+        "samples": 27193,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 1.9896740135739166,
+        "penetrations_over_0_1mm": 0
+      },
+      "contour_birth_attribute": true,
+      "soft_materials": [
+        "Contour soft build 0/4 v025",
+        "Contour soft build 1/4 v025",
+        "Contour soft build 2/4 v025",
+        "Contour soft build 3/4 v025"
+      ]
+    },
+    {
+      "frame": 756,
+      "wall": {
+        "samples": 31026,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 3.999964909264686,
+        "penetrations_over_0_1mm": 0
+      },
+      "overlay": {
+        "samples": 24350,
+        "uncovered": 0,
+        "minimum_radial_clearance_mm": 1.981861296199705,
+        "penetrations_over_0_1mm": 0
+      },
+      "contour_birth_attribute": true,
+      "soft_materials": [
+        "Contour soft build 0/4 v025",
+        "Contour soft build 1/4 v025",
+        "Contour soft build 2/4 v025",
+        "Contour soft build 3/4 v025"
+      ]
+    }
+  ],
+  "scope": "Radial rays against retained physical wall plus actual closed-front source geometry; evaluated wall and overlay include reveal offsets and major-ring thickness. Not engineering certification."
+}

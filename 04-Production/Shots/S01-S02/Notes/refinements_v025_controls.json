@@ -1,0 +1,22 @@
+{
+  "cold_reopen": true,
+  "scene_sha256": "4eedfad4c055986525bd78acb4dea73fa4c67068ac6db1c4bdcbb34e94e1d011",
+  "native_control_tests": [
+    {
+      "property": "Contour rings enabled",
+      "test_value": false,
+      "driven_value": 0.0
+    },
+    {
+      "property": "Contour delay frames",
+      "test_value": 3,
+      "driven_value": 3.0
+    },
+    {
+      "property": "Contour build frames",
+      "test_value": 5,
+      "driven_value": 5.0
+    }
+  ],
+  "source_file_modified": false
+}

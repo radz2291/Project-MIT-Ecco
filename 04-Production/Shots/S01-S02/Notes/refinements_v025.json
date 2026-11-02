@@ -1,0 +1,117 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v025.blend",
+  "sha256": "4eedfad4c055986525bd78acb4dea73fa4c67068ac6db1c4bdcbb34e94e1d011",
+  "source": "S01-S02_production_v024.blend",
+  "fit_sources": [
+    "SHOT WORLD | WORLD_S02_PHYSICAL_CUTAWAY_MESH",
+    "SHOT WORLD | WORLD_FRONT_UNIT_05_HALF_0",
+    "SHOT WORLD | WORLD_FRONT_UNIT_05_HALF_1"
+  ],
+  "minimum_normal_clearance_m": 0.004,
+  "vertices": 73856,
+  "max_vertex_move_mm": 50.30269494033864,
+  "mean_vertex_move_mm": 9.440953380000844,
+  "retargeted_beams": [
+    {
+      "event": 1,
+      "source": [
+        0.04694615304470062,
+        -0.12229900807142258,
+        -729.5299682617188
+      ],
+      "target": [
+        0.04526588320732117,
+        -0.14567622542381287,
+        -729.5299682617188
+      ],
+      "target_shift_mm": 2.8729900874778487,
+      "gap_m": 0.023437524883761832
+    },
+    {
+      "event": 2,
+      "source": [
+        0.02171328291296959,
+        -0.1291879415512085,
+        -729.5305786132812
+      ],
+      "target": [
+        0.015904249623417854,
+        -0.15182878077030182,
+        -729.530029296875
+      ],
+      "target_shift_mm": 2.763223174517288,
+      "gap_m": 0.023380638274784402
+    },
+    {
+      "event": 3,
+      "source": [
+        -0.00438522407785058,
+        -0.13092656433582306,
+        -729.5311279296875
+      ],
+      "target": [
+        -0.01413714699447155,
+        -0.15215274691581726,
+        -729.5300903320312
+      ],
+      "target_shift_mm": 2.591111662547356,
+      "gap_m": 0.023382203926486614
+    },
+    {
+      "event": 4,
+      "source": [
+        -0.03664063662290573,
+        -0.12577150762081146,
+        -729.5318603515625
+      ],
+      "target": [
+        -0.04426514729857445,
+        -0.14639246463775635,
+        -729.5301513671875
+      ],
+      "target_shift_mm": 2.2989737822595724,
+      "gap_m": 0.02205170429413166
+    },
+    {
+      "event": 5,
+      "source": [
+        -0.06661790609359741,
+        -0.11279652267694473,
+        -729.5325317382812
+      ],
+      "target": [
+        -0.07259413599967957,
+        -0.13476940989494324,
+        -729.5302124023438
+      ],
+      "target_shift_mm": 2.2187835478477487,
+      "gap_m": 0.022888914811851842
+    },
+    {
+      "event": 6,
+      "source": [
+        -0.07964198291301727,
+        -0.10401038825511932,
+        -729.5330200195312
+      ],
+      "target": [
+        -0.09689240902662277,
+        -0.11865491420030594,
+        -729.5302124023438
+      ],
+      "target_shift_mm": 2.110796661140893,
+      "gap_m": 0.02280179952016172
+    }
+  ],
+  "contour_delay_frames": 2,
+  "contour_build_frames": 4,
+  "contour_radius_m": 0.002,
+  "preserved": [
+    "camera and scan timings",
+    "early upward onset520",
+    "blue colors and extent",
+    "closed shell",
+    "shared masters unchanged"
+  ],
+  "controls": "Object custom properties on Shared fine measurement display: Contour rings enabled, Contour delay frames, Contour build frames"
+}

@@ -1,6 +1,6 @@
 # S01–S02 collaborative production
 
-Current: `Scenes/S01-S02_production_v024.blend`. Restored pale major contour rings at the original2mmradius; they remain generated from the revealed shell, synchronized to approved v023motionat520. [Current handoff](Notes/major_contours_v024_handoff.md). Two1080pstills: `Previews/Major-contours-v024/during_reveal.png` (620), `wide.png` (756). Camera/reveal timing unchanged; owner review remains open.
+Current: `Scenes/S01-S02_production_v025.blend`. Measurement fitted to the actual bore interior with clearance for2mm contours. Rings build over4frames,2frames behind the blue reveal, then persist. On/off, delay and build duration controls are native object properties. [Current handoff](Notes/refinements_v025_handoff.md). Pullback preview: `Previews/Fitted-contours-v025/fitted_contours_v025.mp4`;1080p stills in the same folder. Approved camera/reveal timing retained; shared masters unchanged; owner review open.
 
 Grid controls: N → World Grid; run START HERE pixel-guides text after reopening. Entries below describe historical implementation stages.
 
