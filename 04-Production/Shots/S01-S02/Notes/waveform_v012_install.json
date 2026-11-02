@@ -1,0 +1,85 @@
+{
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S01-S02\\Scenes\\S01-S02_production_v012.blend",
+  "sha256": "ffcdea273a2afd3466454a5d0685282ed5fff1f795e33b42a9b5a7d31c573525",
+  "settings": {
+    "Use master style": false,
+    "Pulse count override": 1,
+    "Pulse count": 1,
+    "Pulse width": 1.6,
+    "Tail allowance": 12.0,
+    "Head fade": 1.2,
+    "Tail fade": 2.4,
+    "Loop": false
+  },
+  "events": [
+    {
+      "event": 1,
+      "landmarks": {
+        "Send head arrival": 316.0,
+        "Send tail arrival": 328.0,
+        "Return start": 330.0,
+        "Return head arrival": 346.0,
+        "Return tail arrival": 358.0,
+        "Cycle frames": 80.0
+      }
+    },
+    {
+      "event": 2,
+      "landmarks": {
+        "Send head arrival": 358.0,
+        "Send tail arrival": 370.0,
+        "Return start": 372.0,
+        "Return head arrival": 388.0,
+        "Return tail arrival": 400.0,
+        "Cycle frames": 80.0
+      }
+    },
+    {
+      "event": 3,
+      "landmarks": {
+        "Send head arrival": 400.0,
+        "Send tail arrival": 412.0,
+        "Return start": 414.0,
+        "Return head arrival": 430.0,
+        "Return tail arrival": 442.0,
+        "Cycle frames": 80.0
+      }
+    },
+    {
+      "event": 4,
+      "landmarks": {
+        "Send head arrival": 448.0,
+        "Send tail arrival": 460.0,
+        "Return start": 462.0,
+        "Return head arrival": 478.0,
+        "Return tail arrival": 490.0,
+        "Cycle frames": 80.0
+      }
+    },
+    {
+      "event": 5,
+      "landmarks": {
+        "Send head arrival": 496.0,
+        "Send tail arrival": 508.0,
+        "Return start": 510.0,
+        "Return head arrival": 526.0,
+        "Return tail arrival": 538.0,
+        "Cycle frames": 80.0
+      }
+    },
+    {
+      "event": 6,
+      "landmarks": {
+        "Send head arrival": 526.0,
+        "Send tail arrival": 538.0,
+        "Return start": 540.0,
+        "Return head arrival": 556.0,
+        "Return tail arrival": 568.0,
+        "Cycle frames": 80.0
+      }
+    }
+  ],
+  "shared_master": "v017 unchanged; instance style copies start at approved defaults",
+  "camera_and_measurement": "unchanged from v011; old cues pending synchronization",
+  "semantics": "one pulse each direction per event; no looping, one spike retains pre-dip/undershoot/rebound/ringing; width1.6 lengthens approach and response, train12 extends trailing baseline"
+}
