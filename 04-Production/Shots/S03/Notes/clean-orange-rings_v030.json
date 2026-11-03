@@ -1,0 +1,38 @@
+{
+  "removed_objects": [
+    "Nominal cylinder supporting rail0",
+    "Nominal cylinder supporting rail1",
+    "Nominal cylinder supporting rail2",
+    "Radial witness station0 0 -1",
+    "Radial witness station1 0 1",
+    "Radial witness station1 1 -1",
+    "Radial witness station2 0 -1",
+    "Radial witness station3 1 1",
+    "Radial witness station4 0 -1",
+    "Radial witness station4 0 1",
+    "Radial witness station4 1 -1",
+    "Radial witness station5 0 1",
+    "Radial witness station5 1 -1",
+    "Radial witness station6 0 -1",
+    "Radial witness station6 1 1",
+    "Radial witness station7 0 -1",
+    "Radial witness station7 0 1",
+    "ILLUSTRATIVE GEOMETRY - NOT FIELD DATA",
+    "ILLUSTRATIVE ACOUSTIC IMAGE - NOT FIELD DATA",
+    "ILLUSTRATIVE RECORDED WALL - NOT FIELD DATA",
+    "NOMINAL REFERENCE | R156 mm",
+    "v018 ILLUSTRATIVE RECONSTRUCTION - NOT FIELD DATA",
+    "NOMINAL REFERENCE  |  R156 mm",
+    "v034 nominal spatial station 1",
+    "v034 nominal spatial station 2",
+    "v034 nominal spatial station 3",
+    "v034 nominal spatial station 4"
+  ],
+  "measured_color": [
+    1.0,
+    0.25,
+    0.035,
+    1.0
+  ],
+  "measured_line_width_multiplier": 1.65
+}

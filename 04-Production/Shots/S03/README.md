@@ -123,3 +123,7 @@ The entrance shows white nominal rings. The three measured profiles draw and fad
 ## Held measurement rings v029
 
 The Nominal Reference is fixed near the upper-left third. White rings remain visible through the interior passage. Measured rings and their world-space labels stay after reveal and leave the view through camera motion. Local native: Scenes/S03_held-measurements_v029.blend. The first 10 seconds are in Previews/S03_held-measurements_v029_first-10s.mp4. Decoded all 240 frames at 960 × 540 and 24 fps. Render resumed after intermittent time spikes. Slowest accepted frame 4.305 seconds. The full 23-second render remains pending.
+
+## Clean orange measurement rings v030
+
+Removed the circled duplicate Nominal Reference and footer text, plus the nominal supporting rails and radial witness ticks. The fixed upper-left label stays. Measurement station lines are orange and 1.65 times the previous line thickness. White rings still represent nominal. The room grid and reveal timing carry forward. Local native: Scenes/S03_clean-orange-rings_v030.blend. Reopened and rendered frames 48, 122, 172 and 222 at 960 × 540. Evidence: Notes/clean-orange-rings_v030.json. The cold still exceeded the batch cap, so no new motion render was run.
