@@ -1,0 +1,277 @@
+{
+  "settings": "480x270 EEVEE 4 samples, compositor and ray tracing off",
+  "cold": [
+    {
+      "frame": 246,
+      "seconds": 4.072
+    }
+  ],
+  "benchmark": [
+    {
+      "frame": 246,
+      "seconds": 1.045
+    },
+    {
+      "frame": 258,
+      "seconds": 0.859
+    },
+    {
+      "frame": 270,
+      "seconds": 0.982
+    },
+    {
+      "frame": 282,
+      "seconds": 1.075
+    },
+    {
+      "frame": 306,
+      "seconds": 0.863
+    }
+  ],
+  "render": [
+    {
+      "frame": 246,
+      "seconds": 0.982
+    },
+    {
+      "frame": 247,
+      "seconds": 0.903
+    },
+    {
+      "frame": 248,
+      "seconds": 0.846
+    },
+    {
+      "frame": 249,
+      "seconds": 0.86
+    },
+    {
+      "frame": 250,
+      "seconds": 0.897
+    },
+    {
+      "frame": 251,
+      "seconds": 0.989
+    },
+    {
+      "frame": 252,
+      "seconds": 0.885
+    },
+    {
+      "frame": 253,
+      "seconds": 1.514
+    },
+    {
+      "frame": 254,
+      "seconds": 0.999
+    },
+    {
+      "frame": 255,
+      "seconds": 0.892
+    },
+    {
+      "frame": 256,
+      "seconds": 0.86
+    },
+    {
+      "frame": 257,
+      "seconds": 0.834
+    },
+    {
+      "frame": 258,
+      "seconds": 0.839
+    },
+    {
+      "frame": 259,
+      "seconds": 0.928
+    },
+    {
+      "frame": 260,
+      "seconds": 0.8
+    },
+    {
+      "frame": 261,
+      "seconds": 0.85
+    },
+    {
+      "frame": 262,
+      "seconds": 0.83
+    },
+    {
+      "frame": 263,
+      "seconds": 0.813
+    },
+    {
+      "frame": 264,
+      "seconds": 0.813
+    },
+    {
+      "frame": 265,
+      "seconds": 1.155
+    },
+    {
+      "frame": 266,
+      "seconds": 1.395
+    },
+    {
+      "frame": 267,
+      "seconds": 1.006
+    },
+    {
+      "frame": 268,
+      "seconds": 0.915
+    },
+    {
+      "frame": 269,
+      "seconds": 0.937
+    },
+    {
+      "frame": 270,
+      "seconds": 0.935
+    },
+    {
+      "frame": 271,
+      "seconds": 0.897
+    },
+    {
+      "frame": 272,
+      "seconds": 0.897
+    },
+    {
+      "frame": 273,
+      "seconds": 0.876
+    },
+    {
+      "frame": 274,
+      "seconds": 0.863
+    },
+    {
+      "frame": 275,
+      "seconds": 0.886
+    },
+    {
+      "frame": 276,
+      "seconds": 0.882
+    },
+    {
+      "frame": 277,
+      "seconds": 1.145
+    },
+    {
+      "frame": 278,
+      "seconds": 1.161
+    },
+    {
+      "frame": 279,
+      "seconds": 1.004
+    },
+    {
+      "frame": 280,
+      "seconds": 0.964
+    },
+    {
+      "frame": 281,
+      "seconds": 0.97
+    },
+    {
+      "frame": 282,
+      "seconds": 0.993
+    },
+    {
+      "frame": 283,
+      "seconds": 0.865
+    },
+    {
+      "frame": 284,
+      "seconds": 0.897
+    },
+    {
+      "frame": 285,
+      "seconds": 0.883
+    },
+    {
+      "frame": 286,
+      "seconds": 0.838
+    },
+    {
+      "frame": 287,
+      "seconds": 0.783
+    },
+    {
+      "frame": 288,
+      "seconds": 0.778
+    },
+    {
+      "frame": 289,
+      "seconds": 0.77
+    },
+    {
+      "frame": 290,
+      "seconds": 0.771
+    },
+    {
+      "frame": 291,
+      "seconds": 0.774
+    },
+    {
+      "frame": 292,
+      "seconds": 1.103
+    },
+    {
+      "frame": 293,
+      "seconds": 0.834
+    },
+    {
+      "frame": 294,
+      "seconds": 0.925
+    },
+    {
+      "frame": 295,
+      "seconds": 0.863
+    },
+    {
+      "frame": 296,
+      "seconds": 0.878
+    },
+    {
+      "frame": 297,
+      "seconds": 0.878
+    },
+    {
+      "frame": 298,
+      "seconds": 0.903
+    },
+    {
+      "frame": 299,
+      "seconds": 0.842
+    },
+    {
+      "frame": 300,
+      "seconds": 0.888
+    },
+    {
+      "frame": 301,
+      "seconds": 0.897
+    },
+    {
+      "frame": 302,
+      "seconds": 0.92
+    },
+    {
+      "frame": 303,
+      "seconds": 0.954
+    },
+    {
+      "frame": 304,
+      "seconds": 0.976
+    },
+    {
+      "frame": 305,
+      "seconds": 0.879
+    },
+    {
+      "frame": 306,
+      "seconds": 0.886
+    }
+  ]
+}

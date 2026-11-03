@@ -1,0 +1,10 @@
+{
+  "decoded_frames": 552,
+  "fps": 24,
+  "new_frames": [
+    246,
+    306
+  ],
+  "reused_frames": 491,
+  "max_unchanged_camera_matrix_delta": 0.0
+}

@@ -111,3 +111,7 @@ Rebuilt the two marked local constrictions from v024 with irregular surface vari
 ## Selected v024 full render
 
 Radzi reverted the added Tight patches and selected Scenes/S03_subtle-titles_v024.blend. Full preview: Previews/S03_extended-orbit_v024_full.mp4. FFmpeg decoded 552 frames at 24 fps (23 seconds). 480 × 270 EEVEE at four samples, compositor and ray tracing disabled. First cold startup exceeded the cap and the retry passed. Slowest accepted frame 3.679 seconds. Native and MP4 remain local.
+
+## Smooth orbit entry v027
+
+At the 11-second handoff, frame 270 had a camera aim spike and abrupt BHA appearance. v027 smooths camera rotation around that point and fades the exposed BHA ends in across frames 270–290. Exact center tracking resumes after the short blend. The frame-270 turn fell from 3.515 to 2.184 degrees per frame. Frames 246–306 were rerendered at matching v024 settings. The other 491 PNGs were reused after verifying zero camera-matrix difference and identical lens and shift on all reused frames. Full preview decoded 552 frames at 24 fps. Local native: Scenes/S03_smooth-orbit-entry_v027.blend. Full preview: Previews/S03_smooth-orbit_v027_full.mp4.
