@@ -69,3 +69,7 @@ Radzi clarified the orbit with an overhead sketch. v016 starts from v014 and ble
 ## Centered orbit and closed room v017
 
 v017 keeps the wraparound camera positions and centers the bore midpoint in the image throughout frames 270–432. The camera aim and lens shift ease into center over frames 258–270. A front wall and ceiling meet the existing room panels, giving four walls, floor and ceiling. After reopen, the maximum normalized center error was 0.000000477 and minimum camera clearance across all six planes was 1.555 scene units. The local native was opened in Blender at frame 270 for viewport review. Scene: Scenes/S03_centered-orbit-closed-room_v017.blend. No v017 render was run.
+
+## Orbit-only BHA wireframe v018
+
+Derived 7,355 feature edges from 15 parts of shared BHA_film_v008, including ECCO housing, collars, adapters and bit. The shot-local copy is reduced radially to 69.6% and axially to 98.2% for illustrative fit inside the bore. The source master was not edited. The wireframe is hidden through frame 269 and visible from 270. The wall becomes translucent during the orbit so the wire reads through the amplitude display. Reopen checks passed at frames 1, 145, 241, 269, 270, 372 and 432. Frame 432 rendered at 480 × 270 in 4.810 seconds. Native: Scenes/S03_orbit-BHA-wireframe_v018.blend, saved at frame 372. No full animation render.
