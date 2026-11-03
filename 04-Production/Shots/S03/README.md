@@ -21,3 +21,7 @@ The current World pin passes. The opening-frame lines-only proof exceeded the re
 ## Paired shared environment proof v003
 
 The linked World ground and matching digital lines reopen correctly together. The opening frame exceeded the render cap and still shows cyan slivers along the bore edge. See [the paired proof note](Notes/shared-environment-proof_v003.md).
+
+## Compute-space look proof v006
+
+The owner redirected S03 to a floating borehole in a shot-local compute space. See [the look proof](Notes/compute-space-proof_v006.md).
