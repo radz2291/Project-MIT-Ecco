@@ -81,3 +81,5 @@ The v018 x-ray shader was removed and the original opaque wall output restored. 
 ## Section 2 BHA sizing v020
 
 S02 v027 at frame 756 uses a unit-scale BHA assembly with the bit pointing down the negative Z axis and a 127 mm diameter uphole string. v020 restores full source scale to the S03 wire. The traced BHA has a 310.429 mm maximum outside envelope and 4.725 m axial span. The tail uses the 127 mm S02 diameter, and the drill tip still extends 0.62 m outside the bore. A radial ray check found no wall crossings at 8,056 sampled wire endpoints inside the bore. Minimum sampled radial clearance was 3.947 mm before line thickness. The orange wall remains opaque. This is a visual fit check of the sampled wire geometry. Local scene: Scenes/S03_orbit-BHA-source-scale_v020.blend. No v020 render.
+
+Full v020 preview: Previews/S03_orbit-BHA_v020_full.mp4. All 432 frames decoded, 18 seconds at 24 fps. 480 × 270 EEVEE at four samples, compositor and ray tracing disabled. The first cold startup exceeded the cap. The retry passed and the maximum accepted render-to-file frame was 4.846 seconds. The native and MP4 stay local.
