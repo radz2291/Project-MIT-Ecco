@@ -95,3 +95,7 @@ Clipped the BHA wires to the exposed drill and pipe ends outside the bore axial 
 ## Extended orbit and fixed titles v023
 
 The timeline extends by 120 frames to 552 at 24 fps (23 seconds). The orbit carries through frame 385 into a 205-degree continuation that eases to a stop. Smoothed entry camera transforms around the reported frames 272–278. Geometry Through Depth and Acoustic Amplitude / Recorded Data now face camera in a fixed screen position with lens-compensated size and the existing visibility timing. The saved scene reopened with the bore centered and camera inside the room through the extended orbit. Local native: Scenes/S03_extended-orbit_v023.blend. No v023 render. Evidence: Notes/extended-orbit_v023.json.
+
+## Subtle fixed titles v024
+
+Both camera-fixed titles are 34% smaller and use a muted blue-white. The local scene reopened and was launched at frame 380 for viewport review. Scene: Scenes/S03_subtle-titles_v024.blend. No v024 render.
