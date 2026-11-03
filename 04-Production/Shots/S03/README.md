@@ -127,3 +127,7 @@ The Nominal Reference is fixed near the upper-left third. White rings remain vis
 ## Clean orange measurement rings v030
 
 Removed the circled duplicate Nominal Reference and footer text, plus the nominal supporting rails and radial witness ticks. The fixed upper-left label stays. Measurement station lines are orange and 1.65 times the previous line thickness. White rings still represent nominal. The room grid and reveal timing carry forward. Local native: Scenes/S03_clean-orange-rings_v030.blend. Reopened and rendered frames 48, 122, 172 and 222 at 960 × 540. Evidence: Notes/clean-orange-rings_v030.json. The cold still exceeded the batch cap, so no new motion render was run.
+
+## Thinner green rings and entrance-only label v032
+
+Measured rings are teal-green based on Radzi's supplied reference and about 30% thinner than v030. The white reference rings remain visible through the bore. The fixed Nominal Reference text fades as the camera enters, from frame 49 to 78, before the first measured label. Reopened and checked the opacity timing. Rendered frames 48, 172 and 222 at 960 × 540. Local scene: Scenes/S03_green-rings_v032.blend. Stills only.
