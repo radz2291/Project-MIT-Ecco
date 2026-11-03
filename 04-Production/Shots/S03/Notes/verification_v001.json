@@ -1,0 +1,67 @@
+{
+  "saved": {
+    "scene": "Section 3 v033 - smooth drone pullback ending",
+    "range": [
+      1,
+      432
+    ],
+    "fps": 24.0,
+    "camera": "S03 continuous camera - established choreography",
+    "markers": [
+      [
+        1,
+        "Expected size - continuous approach"
+      ],
+      [
+        49,
+        "Enter the geological opening"
+      ],
+      [
+        121,
+        "Axial discovery"
+      ],
+      [
+        193,
+        "Tight wall inspection"
+      ],
+      [
+        241,
+        "Open foreground and pull outward"
+      ],
+      [
+        313,
+        "Fixed amplitude data reveal"
+      ]
+    ],
+    "actions": 1172,
+    "objects": 1153,
+    "libraries": {},
+    "missing": [
+      "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-03_The-Earth-Revealed\\v006\\Scenes\\S03_v006_amplitude-test.blend"
+    ]
+  },
+  "engine": "BLENDER_EEVEE",
+  "resolution": [
+    960,
+    540,
+    100
+  ],
+  "render_to_png": [
+    {
+      "frame": 1,
+      "seconds": 2.945
+    },
+    {
+      "frame": 216,
+      "seconds": 1.34
+    },
+    {
+      "frame": 241,
+      "seconds": 1.343
+    },
+    {
+      "frame": 432,
+      "seconds": 1.552
+    }
+  ]
+}
