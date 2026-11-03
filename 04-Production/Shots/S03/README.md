@@ -87,3 +87,7 @@ Full v020 preview: Previews/S03_orbit-BHA_v020_full.mp4. All 432 frames decoded,
 ## Camera polish v021
 
 Reviewed v020 camera transforms and identified the fastest zoom around frames 205–211, the sharpest turn around 254–258, and the reframing and speed change into the orbit. Smoothed the inspection zoom and pullback handoff. After reopening, the handoff peak turn fell from 4.065 to 2.760 degrees per frame, peak lens shift per frame from 0.02064 to 0.01086, and the peak positional second difference from 0.02161 to 0.01646 scene units. The orbit center and room clearance checks pass. See Notes/camera-polish_v021.json. Scene: Scenes/S03_camera-polish_v021.blend, opened for viewport review at frame 245. No new motion render.
+
+## Exposed BHA ends and full render v022
+
+Clipped the BHA wires to the exposed drill and pipe ends outside the bore axial span, avoiding interior bleed-through while retaining the v021 camera polish. Orbit visibility starts at frame 270. Native: Scenes/S03_exposed-BHA-ends_v022.blend. Full MP4: Previews/S03_exposed-BHA_v022_full.mp4. All 432 frames decoded at 24 fps, 18 seconds, 480 × 270. Slowest production frame 1.039 seconds. Native and MP4 remain local.
