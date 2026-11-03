@@ -41,3 +41,7 @@ The room is about 44% wider, 32% deeper and 42% taller than v008. The review cam
 ## Wider compute room proof v010
 
 The room width increases from 6.2 to 8.7 scene units (40%). The side and back walls remain visible at the same review angle. Local scene: Scenes/S03_compute-room-proof_v010.blend. Stills: Previews/S03_compute-room_v010_angle.png and Previews/S03_compute-room_v010_opening.png. Reopened with zero linked libraries. At 960 × 540, the cold opening took 5.242 seconds and the angled still 2.240 seconds. Full motion and batch settings remain unqualified.
+
+## Wider back wall v011
+
+The room widens toward the back from 8.7 to 11.745 scene units, with the foreground width, depth, height and cameras retained from v010. The side wall and back corner remain visible. Local scene: Scenes/S03_compute-room-proof_v011.blend. Stills: Previews/S03_compute-room_v011_angle.png and Previews/S03_compute-room_v011_opening.png. The scene reopened without library links. The 960 × 540 opening and angle took 9.370 and 2.281 seconds. Motion and batch settings are pending.
