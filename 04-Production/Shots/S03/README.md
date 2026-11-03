@@ -107,3 +107,7 @@ Added two small illustrative radial constrictions at the marked frame-216 locati
 ## Textured Tight accents v026
 
 Rebuilt the two marked local constrictions from v024 with irregular surface variation and a feathered boundary. They use the same radius classifier as the existing Tight region. The independent amplitude map stays separate. Saved and reopened Scenes/S03_tight-accents_v026.blend, then rendered frame 216 to Previews/S03_tight-accents_v026_f0216.png. This was one still at 480 × 270, which took 7.8 seconds. No batch was run. Evidence: Notes/tight-accents_v026.json.
+
+## Selected v024 full render
+
+Radzi reverted the added Tight patches and selected Scenes/S03_subtle-titles_v024.blend. Full preview: Previews/S03_extended-orbit_v024_full.mp4. FFmpeg decoded 552 frames at 24 fps (23 seconds). 480 × 270 EEVEE at four samples, compositor and ray tracing disabled. First cold startup exceeded the cap and the retry passed. Slowest accepted frame 3.679 seconds. Native and MP4 remain local.
