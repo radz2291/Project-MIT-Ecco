@@ -45,3 +45,9 @@ The room width increases from 6.2 to 8.7 scene units (40%). The side and back wa
 ## Wider back wall v011
 
 The room widens toward the back from 8.7 to 11.745 scene units, with the foreground width, depth, height and cameras retained from v010. The side wall and back corner remain visible. Local scene: Scenes/S03_compute-room-proof_v011.blend. Stills: Previews/S03_compute-room_v011_angle.png and Previews/S03_compute-room_v011_opening.png. The scene reopened without library links. The 960 × 540 opening and angle took 9.370 and 2.281 seconds. Motion and batch settings are pending.
+
+## S02 profile match proof v012
+
+S03 v012 fits the visible continuous wall to the full bore surface of the actual S02 v027 reveal carrier before its viewing wedge. The S03 recorded-wall placement restores the same source depth and the azimuth is retained. All 473,548 vertices hit the source with zero misses. Maximum radial change 49.33 mm. The S03 room and cameras carry forward from v011. Existing contour graphics and amplitude are separate displays and were not re-fitted in this proof. The depth bounds are clamped by 0.1 mm at the source ends to avoid edge misses.
+
+Local scene: Scenes/S03_matched-S02-proof_v012.blend. Reopened without linked libraries. Opening and angle stills: Previews/S03_matched-S02_v012_opening.png and Previews/S03_matched-S02_v012_angle.png. Two 640 × 360 stills took 3.015 and 1.141 seconds. Motion and full overlay alignment remain pending.
