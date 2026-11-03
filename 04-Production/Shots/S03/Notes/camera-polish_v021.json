@@ -1,0 +1,16 @@
+{
+  "before": {
+    "peak_turn_deg_per_frame_245_275": 4.064798224409352,
+    "peak_shift_per_frame_245_275": 0.020640432834625244,
+    "peak_zoom_mm_per_frame_195_225": 0.6352195739746094,
+    "peak_position_second_difference_270_315": 0.021612178005276147
+  },
+  "after": {
+    "peak_turn_deg_per_frame_245_275": 2.7599691490933553,
+    "peak_shift_per_frame_245_275": 0.010862722992897034,
+    "peak_zoom_mm_per_frame_195_225": 0.5885810852050781,
+    "peak_position_second_difference_270_315": 0.01645826234981703
+  },
+  "max_orbit_center_error": 4.76837158203125e-07,
+  "min_orbit_room_clearance": 1.5694527545516337
+}
