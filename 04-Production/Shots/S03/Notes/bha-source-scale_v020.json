@@ -1,0 +1,13 @@
+{
+  "S02_assembly_scale": [
+    1.0000001192092896,
+    1.0,
+    1.0000001192092896
+  ],
+  "S02_pipe_diameter": 0.12700000405311584,
+  "S03_BHA_wire_max_diameter": 0.31042869988902605,
+  "S03_BHA_wire_length": 4.725000023841858,
+  "sampled_min_radial_clearance": 0.003947404163260199,
+  "sampled_inside_bore": 8056,
+  "sampled_points_crossing_wall": 0
+}

@@ -77,3 +77,7 @@ Derived 7,355 feature edges from 15 parts of shared BHA_film_v008, including ECC
 ## Opaque bore with contextual BHA v019
 
 The v018 x-ray shader was removed and the original opaque wall output restored. The subdued BHA wire remains orbit-only from frame 270. The drill tip projects 0.62 scene units beyond the bore end. The sparse rear wire pipe continues from local Z 1.5 to 8.4. The frame 380 still rendered in 4.463 seconds at 480 × 270 and shows the orange surface taking priority, with contextual wire extending outside the crop. The native was reopened and visibility verified. Local scene: Scenes/S03_orbit-BHA-context_v019.blend. Still: Previews/S03_orbit-BHA-context_v019_f0380.png. Full animation render pending.
+
+## Section 2 BHA sizing v020
+
+S02 v027 at frame 756 uses a unit-scale BHA assembly with the bit pointing down the negative Z axis and a 127 mm diameter uphole string. v020 restores full source scale to the S03 wire. The traced BHA has a 310.429 mm maximum outside envelope and 4.725 m axial span. The tail uses the 127 mm S02 diameter, and the drill tip still extends 0.62 m outside the bore. A radial ray check found no wall crossings at 8,056 sampled wire endpoints inside the bore. Minimum sampled radial clearance was 3.947 mm before line thickness. The orange wall remains opaque. This is a visual fit check of the sampled wire geometry. Local scene: Scenes/S03_orbit-BHA-source-scale_v020.blend. No v020 render.
