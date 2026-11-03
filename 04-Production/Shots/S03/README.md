@@ -135,3 +135,7 @@ Measured rings are teal-green based on Radzi's supplied reference and about 30% 
 ## Nominal Reference fade-in v033
 
 Entrance label fades in over frames 1–15, holds through frame 49, and fades out by frame 78. Saved and reopened Scenes/S03_nominal-fade-in_v033.blend and checked both fades at endpoints and intermediate frames. No v033 render.
+
+## Full v033 preview
+
+Full preview: Previews/S03_nominal-fade-in_v033_full.mp4. FFmpeg decoded all 552 frames at 24 fps (23 seconds). 960 × 540 EEVEE at eight samples, compositor and ray tracing disabled. Cold startup measured separately. Slowest accepted render-to-file frame 4.355 seconds. Blender native, MP4 and PNGs remain local.
