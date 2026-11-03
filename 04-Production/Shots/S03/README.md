@@ -159,3 +159,7 @@ The room panels use the floor's navy material and both grids share the floor gri
 ## Orbit title fades v038
 
 Geometry Through Depth fades in on frames 280–290 and out on 301–312. Acoustic Amplitude / Recorded Data fades in on 313–327 and out on 530–552. Both stay camera-fixed and have separate opacity animation. Verified endpoints and mid-fades after reopening. Rendered frames 286, 320 and 542 at 960 × 540. Local scene: Scenes/S03_title-fades_v038.blend. Final batch pending.
+
+## Earlier and longer Geometry Through Depth v039
+
+Geometry Through Depth fades in on frames 260–271, holds through 319, then fades out by 330. Acoustic Amplitude starts fading in at 331 as the orange reveal begins and keeps its existing ending fade. Timing was checked after reopening, with stills at 271, 325 and 338. Local native: Scenes/S03_title-fades_v039.blend. No full render.
