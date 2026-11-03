@@ -147,3 +147,7 @@ Nominal Reference starts fading in with the third newly drawn nominal ring at fr
 ## Unified room grid v035
 
 Rebuilt the floor and four wall grids with shared corner endpoints and roughly 0.72-unit spacing. The walls use lower emission and thinner strokes. The room widens toward the back, so cross-room cells widen slightly with it. Saved scene: Scenes/S03_unified-room-grid_v035.blend. Reopened and verified grid counts. Frame 300 and 552 stills at 960 × 540 took 5.877 and 0.819 seconds. No batch render. Evidence: Notes/unified-room-grid_v035.json.
+
+## Visible floor and wall grid v036
+
+Increased the wall-grid stroke and emission so it reads beside the floor grid. Saved and reopened Scenes/S03_floor-and-wall-grid_v036.blend. Rendered frames 300 and 552 at 960 × 540 in 4.130 and 0.932 seconds. Stills only. Previews: S03_floor-and-wall-grid_v036_f0300.png and S03_floor-and-wall-grid_v036_f0552.png.
