@@ -139,3 +139,7 @@ Entrance label fades in over frames 1–15, holds through frame 49, and fades ou
 ## Full v033 preview
 
 Full preview: Previews/S03_nominal-fade-in_v033_full.mp4. FFmpeg decoded all 552 frames at 24 fps (23 seconds). 960 × 540 EEVEE at eight samples, compositor and ray tracing disabled. Cold startup measured separately. Slowest accepted render-to-file frame 4.355 seconds. Blender native, MP4 and PNGs remain local.
+
+## White-ring pullback v034
+
+Nominal Reference starts fading in with the third newly drawn nominal ring at frame 35. The bore exit check places the end of interior measured rings and labels at frame 254. The middle pullback carries white reference rings only, fading them across frames 320–337 as the amplitude reveal takes over. Removed the stray overview contour object and classified fragments. The BHA wire remains. The saved scene reopened and rendered frames 42, 300 and 552 at 960 × 540. Local scene: Scenes/S03_white-ring-pullback_v034.blend. No full motion render.
