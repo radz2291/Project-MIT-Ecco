@@ -37,3 +37,7 @@ The side and back walls form a visible corner around the floating bore. See [the
 ## Larger compute room proof v009
 
 The room is about 44% wider, 32% deeper and 42% taller than v008. The review camera and bore framing are retained. Both the side and back walls remain visible. Local proof: Scenes/S03_compute-room-proof_v009.blend. Review stills: Previews/S03_compute-room_v009_angle.png and Previews/S03_compute-room_v009_opening.png. The scene reopened with zero linked libraries. Opening and angled stills took 4.978 and 2.540 seconds at 960 × 540. Motion and batch qualification remain pending.
+
+## Wider compute room proof v010
+
+The room width increases from 6.2 to 8.7 scene units (40%). The side and back walls remain visible at the same review angle. Local scene: Scenes/S03_compute-room-proof_v010.blend. Stills: Previews/S03_compute-room_v010_angle.png and Previews/S03_compute-room_v010_opening.png. Reopened with zero linked libraries. At 960 × 540, the cold opening took 5.242 seconds and the angled still 2.240 seconds. Full motion and batch settings remain unqualified.
