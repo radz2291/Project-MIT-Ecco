@@ -1,0 +1,10 @@
+{
+  "target_spacing": 0.72,
+  "divisions": [
+    24,
+    38,
+    12
+  ],
+  "floor_strokes": 60,
+  "wall_strokes": 164
+}

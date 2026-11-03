@@ -143,3 +143,7 @@ Full preview: Previews/S03_nominal-fade-in_v033_full.mp4. FFmpeg decoded all 552
 ## White-ring pullback v034
 
 Nominal Reference starts fading in with the third newly drawn nominal ring at frame 35. The bore exit check places the end of interior measured rings and labels at frame 254. The middle pullback carries white reference rings only, fading them across frames 320–337 as the amplitude reveal takes over. Removed the stray overview contour object and classified fragments. The BHA wire remains. The saved scene reopened and rendered frames 42, 300 and 552 at 960 × 540. Local scene: Scenes/S03_white-ring-pullback_v034.blend. No full motion render.
+
+## Unified room grid v035
+
+Rebuilt the floor and four wall grids with shared corner endpoints and roughly 0.72-unit spacing. The walls use lower emission and thinner strokes. The room widens toward the back, so cross-room cells widen slightly with it. Saved scene: Scenes/S03_unified-room-grid_v035.blend. Reopened and verified grid counts. Frame 300 and 552 stills at 960 × 540 took 5.877 and 0.819 seconds. No batch render. Evidence: Notes/unified-room-grid_v035.json.
