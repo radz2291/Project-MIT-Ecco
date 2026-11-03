@@ -17,3 +17,7 @@ The Blender file and preview media remain local. Off-machine backup is unverifie
 ## Shared context proof v002
 
 The current World pin passes. The opening-frame lines-only proof exceeded the render cap and shows visible cyan line endings at the bore edge. v001 remains the working scene. See [the proof note](Notes/shared-lines-proof_v002.md).
+
+## Paired shared environment proof v003
+
+The linked World ground and matching digital lines reopen correctly together. The opening frame exceeded the render cap and still shows cyan slivers along the bore edge. See [the paired proof note](Notes/shared-environment-proof_v003.md).
