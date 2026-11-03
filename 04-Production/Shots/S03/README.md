@@ -103,3 +103,7 @@ Both camera-fixed titles are 34% smaller and use a muted blue-white. The local s
 ## Two Tight accents v025
 
 Added two small illustrative radial constrictions at the marked frame-216 locations. They use the existing radius-based color classification, with the independent amplitude map retained. The saved 552-frame scene reopened and frame 216 rendered at 480 × 270 in 3.850 seconds. Local native: Scenes/S03_tight-accents_v025.blend. Still: Previews/S03_tight-accents_v025_f0216.png. Evidence: Notes/tight-accents_v025.json. Full motion pending.
+
+## Textured Tight accents v026
+
+Rebuilt the two marked local constrictions from v024 with irregular surface variation and a feathered boundary. They use the same radius classifier as the existing Tight region. The independent amplitude map stays separate. Saved and reopened Scenes/S03_tight-accents_v026.blend, then rendered frame 216 to Previews/S03_tight-accents_v026_f0216.png. This was one still at 480 × 270, which took 7.8 seconds. No batch was run. Evidence: Notes/tight-accents_v026.json.
