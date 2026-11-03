@@ -99,3 +99,7 @@ The timeline extends by 120 frames to 552 at 24 fps (23 seconds). The orbit carr
 ## Subtle fixed titles v024
 
 Both camera-fixed titles are 34% smaller and use a muted blue-white. The local scene reopened and was launched at frame 380 for viewport review. Scene: Scenes/S03_subtle-titles_v024.blend. No v024 render.
+
+## Two Tight accents v025
+
+Added two small illustrative radial constrictions at the marked frame-216 locations. They use the existing radius-based color classification, with the independent amplitude map retained. The saved 552-frame scene reopened and frame 216 rendered at 480 × 270 in 3.850 seconds. Local native: Scenes/S03_tight-accents_v025.blend. Still: Previews/S03_tight-accents_v025_f0216.png. Evidence: Notes/tight-accents_v025.json. Full motion pending.
