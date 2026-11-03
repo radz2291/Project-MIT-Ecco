@@ -151,3 +151,7 @@ Rebuilt the floor and four wall grids with shared corner endpoints and roughly 0
 ## Visible floor and wall grid v036
 
 Increased the wall-grid stroke and emission so it reads beside the floor grid. Saved and reopened Scenes/S03_floor-and-wall-grid_v036.blend. Rendered frames 300 and 552 at 960 × 540 in 4.130 and 0.932 seconds. Stills only. Previews: S03_floor-and-wall-grid_v036_f0300.png and S03_floor-and-wall-grid_v036_f0552.png.
+
+## Matched floor and wall color v037
+
+The room panels use the floor's navy material and both grids share the floor grid material. The saved scene reopened and both material assignments were verified. Frame 552 rendered at 960 × 540 in 6.32 seconds on cold startup. Local scene: Scenes/S03_floor-and-wall-grid_v037.blend. Still: Previews/S03_floor-and-wall-grid_v037_f0552.png. No motion batch.
