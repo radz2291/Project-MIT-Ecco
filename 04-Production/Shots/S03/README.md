@@ -131,3 +131,7 @@ Removed the circled duplicate Nominal Reference and footer text, plus the nomina
 ## Thinner green rings and entrance-only label v032
 
 Measured rings are teal-green based on Radzi's supplied reference and about 30% thinner than v030. The white reference rings remain visible through the bore. The fixed Nominal Reference text fades as the camera enters, from frame 49 to 78, before the first measured label. Reopened and checked the opacity timing. Rendered frames 48, 172 and 222 at 960 × 540. Local scene: Scenes/S03_green-rings_v032.blend. Stills only.
+
+## Nominal Reference fade-in v033
+
+Entrance label fades in over frames 1–15, holds through frame 49, and fades out by frame 78. Saved and reopened Scenes/S03_nominal-fade-in_v033.blend and checked both fades at endpoints and intermediate frames. No v033 render.
