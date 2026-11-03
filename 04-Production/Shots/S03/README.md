@@ -73,3 +73,7 @@ v017 keeps the wraparound camera positions and centers the bore midpoint in the 
 ## Orbit-only BHA wireframe v018
 
 Derived 7,355 feature edges from 15 parts of shared BHA_film_v008, including ECCO housing, collars, adapters and bit. The shot-local copy is reduced radially to 69.6% and axially to 98.2% for illustrative fit inside the bore. The source master was not edited. The wireframe is hidden through frame 269 and visible from 270. The wall becomes translucent during the orbit so the wire reads through the amplitude display. Reopen checks passed at frames 1, 145, 241, 269, 270, 372 and 432. Frame 432 rendered at 480 × 270 in 4.810 seconds. Native: Scenes/S03_orbit-BHA-wireframe_v018.blend, saved at frame 372. No full animation render.
+
+## Opaque bore with contextual BHA v019
+
+The v018 x-ray shader was removed and the original opaque wall output restored. The subdued BHA wire remains orbit-only from frame 270. The drill tip projects 0.62 scene units beyond the bore end. The sparse rear wire pipe continues from local Z 1.5 to 8.4. The frame 380 still rendered in 4.463 seconds at 480 × 270 and shows the orange surface taking priority, with contextual wire extending outside the crop. The native was reopened and visibility verified. Local scene: Scenes/S03_orbit-BHA-context_v019.blend. Still: Previews/S03_orbit-BHA-context_v019_f0380.png. Full animation render pending.
