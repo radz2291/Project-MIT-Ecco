@@ -155,3 +155,7 @@ Increased the wall-grid stroke and emission so it reads beside the floor grid. S
 ## Matched floor and wall color v037
 
 The room panels use the floor's navy material and both grids share the floor grid material. The saved scene reopened and both material assignments were verified. Frame 552 rendered at 960 × 540 in 6.32 seconds on cold startup. Local scene: Scenes/S03_floor-and-wall-grid_v037.blend. Still: Previews/S03_floor-and-wall-grid_v037_f0552.png. No motion batch.
+
+## Orbit title fades v038
+
+Geometry Through Depth fades in on frames 280–290 and out on 301–312. Acoustic Amplitude / Recorded Data fades in on 313–327 and out on 530–552. Both stay camera-fixed and have separate opacity animation. Verified endpoints and mid-fades after reopening. Rendered frames 286, 320 and 542 at 960 × 540. Local scene: Scenes/S03_title-fades_v038.blend. Final batch pending.
