@@ -29,3 +29,7 @@ The owner redirected S03 to a floating borehole in a shot-local compute space. S
 ## Rectangular compute room proof v007
 
 A wide planar grid replaces the cylindrical coordinate field. See [the box-room proof](Notes/compute-box-proof_v007.md).
+
+## Compute room with walls v008
+
+The side and back walls form a visible corner around the floating bore. See [the v008 proof note](Notes/compute-room-proof_v008.md).
