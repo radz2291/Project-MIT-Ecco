@@ -65,3 +65,7 @@ Full v014 motion preview: Previews/S03_compute-room_v014_full.mp4. All 432 frame
 ## Wraparound establishing orbit v016
 
 Radzi clarified the orbit with an overhead sketch. v016 starts from v014 and blends the existing pullback into a 265-degree elliptical path around the bore, with the camera aimed toward its midpoint. Frames 270–432 were verified after reopen for saved position, rotation and room clearance, minimum 1.555 scene units. The scene opens in Blender Camera View at frame 270 for direct review. Local native: Scenes/S03_wraparound-orbit_v016.blend. No v016 motion render was requested for this checkpoint.
+
+## Centered orbit and closed room v017
+
+v017 keeps the wraparound camera positions and centers the bore midpoint in the image throughout frames 270–432. The camera aim and lens shift ease into center over frames 258–270. A front wall and ceiling meet the existing room panels, giving four walls, floor and ceiling. After reopen, the maximum normalized center error was 0.000000477 and minimum camera clearance across all six planes was 1.555 scene units. The local native was opened in Blender at frame 270 for viewport review. Scene: Scenes/S03_centered-orbit-closed-room_v017.blend. No v017 render was run.
