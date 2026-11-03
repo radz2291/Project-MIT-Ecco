@@ -119,3 +119,7 @@ At the 11-second handoff, frame 270 had a camera aim spike and abrupt BHA appear
 ## Measurement rings follow labels v028
 
 The entrance shows white nominal rings. The three measured profiles draw and fade with their corresponding Near Nominal, Enlarged and Tight labels at stations 0, 1 and 2. The white reference remains beside each active measured profile. The measured lines use a modest emission lift, and the Tight line is fitted just inside the visible surface to avoid occlusion. Overview contours are held until the outgoing view. The saved v028 passed visibility spot checks and rendered frames 1, 122, 172 and 222. The cold opening exceeded five seconds; no full batch ran. Local scene: Scenes/S03_label-synced-rings_v028.blend. Evidence: Notes/label-synced-rings_v028.json.
+
+## Held measurement rings v029
+
+The Nominal Reference is fixed near the upper-left third. White rings remain visible through the interior passage. Measured rings and their world-space labels stay after reveal and leave the view through camera motion. Local native: Scenes/S03_held-measurements_v029.blend. The first 10 seconds are in Previews/S03_held-measurements_v029_first-10s.mp4. Decoded all 240 frames at 960 × 540 and 24 fps. Render resumed after intermittent time spikes. Slowest accepted frame 4.305 seconds. The full 23-second render remains pending.

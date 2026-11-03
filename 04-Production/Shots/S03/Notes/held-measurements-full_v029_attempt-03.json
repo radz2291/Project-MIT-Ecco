@@ -1,0 +1,24 @@
+{
+  "settings": "960x540 EEVEE 8 samples, compositor and ray tracing off",
+  "cold": [
+    {
+      "frame": 1,
+      "seconds": 3.995
+    }
+  ],
+  "benchmark": [
+    {
+      "frame": 1,
+      "seconds": 1.844
+    },
+    {
+      "frame": 48,
+      "seconds": 2.113
+    },
+    {
+      "frame": 96,
+      "seconds": 8.665
+    }
+  ],
+  "render": []
+}
