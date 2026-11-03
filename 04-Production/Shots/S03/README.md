@@ -33,3 +33,7 @@ A wide planar grid replaces the cylindrical coordinate field. See [the box-room 
 ## Compute room with walls v008
 
 The side and back walls form a visible corner around the floating bore. See [the v008 proof note](Notes/compute-room-proof_v008.md).
+
+## Larger compute room proof v009
+
+The room is about 44% wider, 32% deeper and 42% taller than v008. The review camera and bore framing are retained. Both the side and back walls remain visible. Local proof: Scenes/S03_compute-room-proof_v009.blend. Review stills: Previews/S03_compute-room_v009_angle.png and Previews/S03_compute-room_v009_opening.png. The scene reopened with zero linked libraries. Opening and angled stills took 4.978 and 2.540 seconds at 960 × 540. Motion and batch qualification remain pending.
