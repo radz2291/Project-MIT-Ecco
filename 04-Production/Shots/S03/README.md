@@ -171,3 +171,7 @@ Previews/S03_title-fades_v039_full.mp4 decoded all 552 frames at 960 × 540, 24 
 ## Restored interior labels and complete v040 rerender
 
 The exit hide keys introduced in v034 evaluated as hidden before their first key on the three interior labels. v040 explicitly keys visibility through frame 253 and hides at 254. Original opacity and reveal timing carry forward. Near Nominal, Enlarged and Tight were visually verified in frames 122, 172 and 222 decoded from the final MP4. All 552 frames were rerendered and decoded at 960 × 540, 24 fps, 23 seconds. Slowest accepted frame 4.927 seconds. Local native: Scenes/S03_restored-interior-labels_v040.blend. Full video: Previews/S03_restored-interior-labels_v040_full.mp4. Decoded check: Previews/S03_v040_decoded-label-check.png.
+
+## Wrapped selection
+
+Radzi confirmed v040 and directed wrap on 3 November 2026. See [the ECCO-058 wrap report](../../Records/Tasks/T-058/report.md) for the selected local Blender scene, MP4, verified hashes and render checks.
