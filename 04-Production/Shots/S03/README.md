@@ -13,3 +13,7 @@ The saved candidate has zero linked Blender libraries. Blender's general path sc
 Shared contextual lines v004 were derived from World v010, pinned to SHA-256 9cb7d5c946e8573abc05af4ee3c12492610a982c1773a6437f90a762055fb540. The local v010 hash is 67e789b370746ecb58fd186acf4678e4d64ad4da92aee1fb0a7e9bade1179538. The checkpoint keeps the v036 context. Any shared context integration needs the matching World source or regenerated lines and a check through the actual S03 camera.
 
 The Blender file and preview media remain local. Off-machine backup is unverified. The next collaborative decision is whether the framing jump at the cut should stay or be softened. Ticket wrap awaits Radzi's direction.
+
+## Shared context proof v002
+
+The current World pin passes. The opening-frame lines-only proof exceeded the render cap and shows visible cyan line endings at the bore edge. v001 remains the working scene. See [the proof note](Notes/shared-lines-proof_v002.md).
