@@ -163,3 +163,7 @@ Geometry Through Depth fades in on frames 280–290 and out on 301–312. Acoust
 ## Earlier and longer Geometry Through Depth v039
 
 Geometry Through Depth fades in on frames 260–271, holds through 319, then fades out by 330. Acoustic Amplitude starts fading in at 331 as the orange reveal begins and keeps its existing ending fade. Timing was checked after reopening, with stills at 271, 325 and 338. Local native: Scenes/S03_title-fades_v039.blend. No full render.
+
+## Final v039 render
+
+Previews/S03_title-fades_v039_full.mp4 decoded all 552 frames at 960 × 540, 24 fps (23 seconds). Resumed from 364 saved frames after interruption. Per-frame timings were retained for the resumed run, with a maximum accepted frame of 2.27 seconds. Native and video are local.
