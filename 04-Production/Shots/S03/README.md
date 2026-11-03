@@ -91,3 +91,7 @@ Reviewed v020 camera transforms and identified the fastest zoom around frames 20
 ## Exposed BHA ends and full render v022
 
 Clipped the BHA wires to the exposed drill and pipe ends outside the bore axial span, avoiding interior bleed-through while retaining the v021 camera polish. Orbit visibility starts at frame 270. Native: Scenes/S03_exposed-BHA-ends_v022.blend. Full MP4: Previews/S03_exposed-BHA_v022_full.mp4. All 432 frames decoded at 24 fps, 18 seconds, 480 × 270. Slowest production frame 1.039 seconds. Native and MP4 remain local.
+
+## Extended orbit and fixed titles v023
+
+The timeline extends by 120 frames to 552 at 24 fps (23 seconds). The orbit carries through frame 385 into a 205-degree continuation that eases to a stop. Smoothed entry camera transforms around the reported frames 272–278. Geometry Through Depth and Acoustic Amplitude / Recorded Data now face camera in a fixed screen position with lens-compensated size and the existing visibility timing. The saved scene reopened with the bore centered and camera inside the room through the extended orbit. Local native: Scenes/S03_extended-orbit_v023.blend. No v023 render. Evidence: Notes/extended-orbit_v023.json.
