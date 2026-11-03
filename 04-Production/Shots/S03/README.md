@@ -25,3 +25,7 @@ The linked World ground and matching digital lines reopen correctly together. Th
 ## Compute-space look proof v006
 
 The owner redirected S03 to a floating borehole in a shot-local compute space. See [the look proof](Notes/compute-space-proof_v006.md).
+
+## Rectangular compute room proof v007
+
+A wide planar grid replaces the cylindrical coordinate field. See [the box-room proof](Notes/compute-box-proof_v007.md).
