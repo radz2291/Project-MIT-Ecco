@@ -115,3 +115,7 @@ Radzi reverted the added Tight patches and selected Scenes/S03_subtle-titles_v02
 ## Smooth orbit entry v027
 
 At the 11-second handoff, frame 270 had a camera aim spike and abrupt BHA appearance. v027 smooths camera rotation around that point and fades the exposed BHA ends in across frames 270–290. Exact center tracking resumes after the short blend. The frame-270 turn fell from 3.515 to 2.184 degrees per frame. Frames 246–306 were rerendered at matching v024 settings. The other 491 PNGs were reused after verifying zero camera-matrix difference and identical lens and shift on all reused frames. Full preview decoded 552 frames at 24 fps. Local native: Scenes/S03_smooth-orbit-entry_v027.blend. Full preview: Previews/S03_smooth-orbit_v027_full.mp4.
+
+## Measurement rings follow labels v028
+
+The entrance shows white nominal rings. The three measured profiles draw and fade with their corresponding Near Nominal, Enlarged and Tight labels at stations 0, 1 and 2. The white reference remains beside each active measured profile. The measured lines use a modest emission lift, and the Tight line is fitted just inside the visible surface to avoid occlusion. Overview contours are held until the outgoing view. The saved v028 passed visibility spot checks and rendered frames 1, 122, 172 and 222. The cold opening exceeded five seconds; no full batch ran. Local scene: Scenes/S03_label-synced-rings_v028.blend. Evidence: Notes/label-synced-rings_v028.json.
