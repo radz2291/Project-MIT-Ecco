@@ -1,0 +1,36 @@
+{
+  "settings": "480x270 EEVEE 4 samples",
+  "cold": [
+    {
+      "frame": 1,
+      "seconds": 4.377
+    }
+  ],
+  "benchmark": [
+    {
+      "frame": 1,
+      "seconds": 1.011
+    },
+    {
+      "frame": 145,
+      "seconds": 0.95
+    },
+    {
+      "frame": 217,
+      "seconds": 0.978
+    },
+    {
+      "frame": 241,
+      "seconds": 1.017
+    },
+    {
+      "frame": 337,
+      "seconds": 1.212
+    },
+    {
+      "frame": 432,
+      "seconds": 17.306
+    }
+  ],
+  "render": []
+}

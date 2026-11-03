@@ -59,3 +59,5 @@ Based on the selected v011 room and original S03 bore. The v011 pullback left th
 ## Establishing room edges v014
 
 Following the marked final still, v014 moves the visible side wall 3.5 scene units outward and extends the room panels toward the foreground, back and above the frame. At frame 432 the room covers the former foreground gap and the amber bore display stays visible. Frames 241–432 retain 1.16 scene units minimum clearance to the checked room planes. The original S03 bore profile and camera move carry through. Saved scene: Scenes/S03_compute-room-proof_v014.blend. Stills: Previews/S03_compute-room_v014_opening.png, S03_compute-room_v014_pullback.png and S03_compute-room_v014_establishing.png. The 640 × 360 spot checks took 8.864, 52.193 and 39.634 seconds. No batch settings qualified in this run.
+
+Full v014 motion preview: Previews/S03_compute-room_v014_full.mp4. All 432 frames decoded, 18 seconds at 24 fps. 480 × 270 EEVEE, four samples, compositor and ray tracing disabled. Slow render attempts stopped and resumed from retained frames. Maximum accepted render-to-file frame 4.114 seconds. Native scene and MP4 are local.

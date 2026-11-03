@@ -1,0 +1,165 @@
+{
+  "settings": "480x270 EEVEE 4 samples, compositor and ray tracing off",
+  "cold": [
+    {
+      "frame": 1,
+      "seconds": 2.32
+    }
+  ],
+  "benchmark": [
+    {
+      "frame": 1,
+      "seconds": 0.676
+    },
+    {
+      "frame": 145,
+      "seconds": 0.701
+    },
+    {
+      "frame": 217,
+      "seconds": 0.763
+    },
+    {
+      "frame": 241,
+      "seconds": 0.815
+    },
+    {
+      "frame": 337,
+      "seconds": 0.787
+    },
+    {
+      "frame": 432,
+      "seconds": 0.766
+    }
+  ],
+  "render": [
+    {
+      "frame": 221,
+      "seconds": 0.759
+    },
+    {
+      "frame": 222,
+      "seconds": 0.755
+    },
+    {
+      "frame": 223,
+      "seconds": 0.81
+    },
+    {
+      "frame": 224,
+      "seconds": 0.849
+    },
+    {
+      "frame": 225,
+      "seconds": 0.873
+    },
+    {
+      "frame": 226,
+      "seconds": 0.939
+    },
+    {
+      "frame": 227,
+      "seconds": 0.862
+    },
+    {
+      "frame": 228,
+      "seconds": 0.916
+    },
+    {
+      "frame": 229,
+      "seconds": 1.149
+    },
+    {
+      "frame": 230,
+      "seconds": 0.81
+    },
+    {
+      "frame": 231,
+      "seconds": 0.794
+    },
+    {
+      "frame": 232,
+      "seconds": 0.983
+    },
+    {
+      "frame": 233,
+      "seconds": 1.024
+    },
+    {
+      "frame": 234,
+      "seconds": 0.831
+    },
+    {
+      "frame": 235,
+      "seconds": 0.847
+    },
+    {
+      "frame": 236,
+      "seconds": 0.833
+    },
+    {
+      "frame": 237,
+      "seconds": 0.817
+    },
+    {
+      "frame": 238,
+      "seconds": 0.798
+    },
+    {
+      "frame": 239,
+      "seconds": 0.786
+    },
+    {
+      "frame": 240,
+      "seconds": 0.778
+    },
+    {
+      "frame": 241,
+      "seconds": 0.811
+    },
+    {
+      "frame": 242,
+      "seconds": 0.889
+    },
+    {
+      "frame": 243,
+      "seconds": 0.875
+    },
+    {
+      "frame": 244,
+      "seconds": 1.482
+    },
+    {
+      "frame": 245,
+      "seconds": 1.571
+    },
+    {
+      "frame": 246,
+      "seconds": 0.969
+    },
+    {
+      "frame": 247,
+      "seconds": 1.038
+    },
+    {
+      "frame": 248,
+      "seconds": 1.247
+    },
+    {
+      "frame": 249,
+      "seconds": 1.736
+    },
+    {
+      "frame": 250,
+      "seconds": 1.449
+    },
+    {
+      "frame": 251,
+      "seconds": 2.679
+    },
+    {
+      "frame": 252,
+      "seconds": 11.797
+    }
+  ]
+}
