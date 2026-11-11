@@ -1,0 +1,37 @@
+{
+  "source": [
+    -0.31999993324279785,
+    0.10180610418319702,
+    0.08244095742702484
+  ],
+  "cap_face": 62,
+  "target": [
+    -0.31999993324279785,
+    0.12345647811889648,
+    0.09997308254241943
+  ],
+  "steel_face": 3586,
+  "gap_mm": 27.858824757848154,
+  "landmarks": {
+    "beam_contact": 102.0,
+    "pulse_launch": 103.0,
+    "surface_reveal": 119.0,
+    "feedback_start": 125.0,
+    "feedback_complete": 146.0,
+    "beam_closed": 149.0,
+    "review_end": 151.0
+  },
+  "frame_end": 153,
+  "preview_span_px_xy": [
+    93.4412670135498,
+    -46.671515107154846
+  ],
+  "unchanged_v005_sensor_poses": [
+    1,
+    49,
+    73,
+    97
+  ],
+  "hardware": "BHA_film_v008 / ECCO_film_v003",
+  "waveform": "Waveform_shared_v021"
+}
