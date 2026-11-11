@@ -1,0 +1,26 @@
+{
+  "source": "S04_continuous_relinked_v035.blend",
+  "candidate": "S04_continuous-opening-camera_v037.blend",
+  "v005_camera_reference_frames": [
+    1,
+    92
+  ],
+  "changed_camera_frames": [
+    1,
+    62
+  ],
+  "unchanged_camera_start": 63,
+  "protected_camera_samples": 739,
+  "max_difference": 0.0,
+  "frame_62_to_63_camera_step_m": 0.0002617121141669039,
+  "frame_62_to_63_rotation_radians": 0.0,
+  "linked_libraries": [
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\Acoustics\\Acoustics_v003.blend",
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\BHA\\BHA_film_v007.blend",
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\BHA\\BHA_film_v006.blend",
+    "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\CasedHole_v002.blend",
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\Formation_cased-section_v002.blend",
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\WellAssembly\\World_environment_v009.blend"
+  ]
+}

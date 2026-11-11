@@ -2,7 +2,7 @@
 
 **Current Blender scene** · [S04_continuous_relinked_v035.blend](Scenes/S04_continuous_relinked_v035.blend)
 
-**Intro-only v036 proof** · [Play the new entry and first signal](Previews/S04_entry-first-sensor_v036.mp4) · [Editable preview scene](Scenes/S04_entry-first-sensor_v036.blend). The full sequence remains on v035.
+**Camera-only v037 candidate** · [Play the opening and first response](Previews/S04_opening-camera_v037.mp4) · [Full editable sequence](Scenes/S04_continuous-opening-camera_v037.blend). The v005 approach is fitted to the selected previs and joins the original camera at frame 63.
 
 **First playback** · [Supported and reduced backing](Previews/S04_response-comparison_v035.mp4), 4 seconds at 1280 × 720 and 24 fps. The first two seconds show supported backing, followed by two seconds of reduced backing. The clip uses the original v033 render at the original scale.
 
