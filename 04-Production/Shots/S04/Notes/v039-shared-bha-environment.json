@@ -1,0 +1,36 @@
+{
+  "source": "S04_continuous-shared-ecco_v038.blend",
+  "candidate": "S04_continuous-shared-bha-environment_v039.blend",
+  "assembly": "BHA_film_v008.blend",
+  "exact_core_mesh_matches": 126,
+  "exact_continuation_mesh_matches": 2,
+  "checked_frames": [
+    1,
+    31,
+    63,
+    85,
+    190,
+    261,
+    300,
+    336,
+    370,
+    432
+  ],
+  "max_world_matrix_difference": 0,
+  "camera_and_acquisition_front_match_at_samples": true,
+  "cement": "CasedHole_v002 / CASED_CEMENT",
+  "formation": "Formation_cased-section_v002 / FORMATION_CasedSection_v005",
+  "environment_application": "Prepared shared finishes with existing local cutaway geometry and fade",
+  "relative_libraries": [
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\Acoustics\\Acoustics_v003.blend",
+    "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\BHA\\BHA_film_v006.blend",
+    "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+    "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\CasedHole_v002.blend",
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+    "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\Formation_cased-section_v002.blend",
+    "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\WellAssembly\\World_environment_v009.blend"
+  ]
+}

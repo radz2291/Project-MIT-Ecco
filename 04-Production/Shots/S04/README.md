@@ -1,6 +1,6 @@
 # S04 · Beneath the Steel
 
-**Current Blender candidate** · [S04_continuous-shared-ecco_v038.blend](Scenes/S04_continuous-shared-ecco_v038.blend). The v037 opening camera with shared ECCO v003. [Casing entry still](Previews/S04_casing-entry_v038.png).
+**Current Blender candidate** · [S04_continuous-shared-bha-environment_v039.blend](Scenes/S04_continuous-shared-bha-environment_v039.blend). Shared BHA v008 and ECCO v003, with the prepared cement and ground finishes on the existing cutaway. [Casing entry still](Previews/S04_casing-entry_v039.png).
 
 **Camera-only v037 review** · [Play the opening and first response](Previews/S04_opening-camera_v037.mp4) · [Full editable sequence](Scenes/S04_continuous-opening-camera_v037.blend). The v005 approach is fitted to the selected previs and joins the original camera at frame 63.
 
