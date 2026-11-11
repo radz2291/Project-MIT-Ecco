@@ -1,0 +1,79 @@
+{
+  "source": "S04_continuous-opening-camera_v037.blend",
+  "candidate": "S04_continuous-shared-ecco_v038.blend",
+  "master": "ECCO_film_v003.blend",
+  "mesh_matches": [
+    [
+      "ECCO unchanged source housing - D technical transparency.001",
+      "ECCO_HOUSING_SOURCE_MESH"
+    ],
+    [
+      "ECCO_CUTTER_PREVIEW_ONLY",
+      "ECCO_CUTTER_PREVIEW_ONLY"
+    ],
+    [
+      "TEMP | Service port 3 | removable metal plug",
+      "TEMP | Service port 3 | removable metal plug"
+    ],
+    [
+      "TEMP | Service port 2 | removable metal plug",
+      "TEMP | Service port 2 | removable metal plug"
+    ],
+    [
+      "TEMP | Service port 1 | removable metal plug",
+      "TEMP | Service port 1 | removable metal plug"
+    ],
+    [
+      "TEMP | Service cover 3 | removable fitted plate",
+      "TEMP | Service cover 3 | removable fitted plate"
+    ],
+    [
+      "TEMP | Service cover 2 | removable fitted plate",
+      "TEMP | Service cover 2 | removable fitted plate"
+    ],
+    [
+      "TEMP | Service cover 1 | removable fitted plate",
+      "TEMP | Service cover 1 | removable fitted plate"
+    ],
+    [
+      "TEMP | Imaging port 3 | removable acoustic cap",
+      "TEMP | Imaging port 3 | removable acoustic cap"
+    ],
+    [
+      "TEMP | Imaging port 2 | removable acoustic cap",
+      "TEMP | Imaging port 2 | removable acoustic cap"
+    ],
+    [
+      "TEMP | Imaging port 1 | removable acoustic cap",
+      "TEMP | Imaging port 1 | removable acoustic cap"
+    ]
+  ],
+  "v003_controls_and_sensor_markers": 7,
+  "verification_frames": [
+    1,
+    49,
+    63,
+    85,
+    190,
+    262,
+    300,
+    336,
+    365,
+    400,
+    432
+  ],
+  "hardware_matrix_max_difference": 1.936049116579852e-07,
+  "camera_unchanged_at_samples": true,
+  "acquisition_front_unchanged_at_samples": true,
+  "housing_fade_unchanged_at_samples": true,
+  "relative_links": {
+    "Acoustics_v003.blend": "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\Acoustics\\Acoustics_v003.blend",
+    "BHA_film_v007.blend": "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\BHA\\BHA_film_v007.blend",
+    "BHA_film_v006.blend": "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\BHA\\BHA_film_v006.blend",
+    "CasedHole_v002.blend": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\CasedHole_v002.blend",
+    "ECCO_film_v002.blend": "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "ECCO_film_v003.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+    "Formation_cased-section_v002.blend": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\Formation_cased-section_v002.blend",
+    "World_environment_v009.blend": "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\WellAssembly\\World_environment_v009.blend"
+  }
+}

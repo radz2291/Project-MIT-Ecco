@@ -1,8 +1,8 @@
 # S04 · Beneath the Steel
 
-**Current Blender scene** · [S04_continuous_relinked_v035.blend](Scenes/S04_continuous_relinked_v035.blend)
+**Current Blender candidate** · [S04_continuous-shared-ecco_v038.blend](Scenes/S04_continuous-shared-ecco_v038.blend). The v037 opening camera with shared ECCO v003. [Casing entry still](Previews/S04_casing-entry_v038.png).
 
-**Camera-only v037 candidate** · [Play the opening and first response](Previews/S04_opening-camera_v037.mp4) · [Full editable sequence](Scenes/S04_continuous-opening-camera_v037.blend). The v005 approach is fitted to the selected previs and joins the original camera at frame 63.
+**Camera-only v037 review** · [Play the opening and first response](Previews/S04_opening-camera_v037.mp4) · [Full editable sequence](Scenes/S04_continuous-opening-camera_v037.blend). The v005 approach is fitted to the selected previs and joins the original camera at frame 63.
 
 **First playback** · [Supported and reduced backing](Previews/S04_response-comparison_v035.mp4), 4 seconds at 1280 × 720 and 24 fps. The first two seconds show supported backing, followed by two seconds of reduced backing. The clip uses the original v033 render at the original scale.
 
