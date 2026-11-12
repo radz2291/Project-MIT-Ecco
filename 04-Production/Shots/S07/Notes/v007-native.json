@@ -1,0 +1,62 @@
+{
+  "baseline": "Sequence_v006/Scenes/S07_Monumental-Precision_v006.blend",
+  "baseline_sha256": "62cc6fefc08b75a2506ba8c13297c1a5bcfef2a41d079dd42f1f3584edf2c548",
+  "candidate": "Scenes/S07_shared-product-hero_v007.blend",
+  "candidate_sha256": "b5003d994df0c0a7f0ccf61aa135d97f6596936cafb67f2a0bb3f2ebcc2f7ed2",
+  "frames": [
+    1,
+    192
+  ],
+  "fps": 24,
+  "markers": [
+    [
+      "SHOT 1 | unchanged",
+      1
+    ],
+    [
+      "SHOT 2 | unchanged",
+      61
+    ],
+    [
+      "SHOT 3 | close moving pullback",
+      121
+    ],
+    [
+      "Pullback settles into full hero",
+      156
+    ],
+    [
+      "Fade to black",
+      164
+    ],
+    [
+      "Black endpoint",
+      190
+    ]
+  ],
+  "camera_light_hardware_samples_matched": 192,
+  "mesh_digests": {
+    "ECCO_HOUSING_SOURCE_MESH": "42eae00e4736cc99656f3b3b409d0eebfce14aa074f6d6ca37f4452ed9846228",
+    "TEMP | Imaging port 1 | removable acoustic cap": "b6220358b2da099933ca18b9f156150806c4b15dd7fd13804ba05ae1e0de2d3f",
+    "TEMP | Imaging port 2 | removable acoustic cap": "b6220358b2da099933ca18b9f156150806c4b15dd7fd13804ba05ae1e0de2d3f",
+    "TEMP | Imaging port 3 | removable acoustic cap": "b6220358b2da099933ca18b9f156150806c4b15dd7fd13804ba05ae1e0de2d3f",
+    "TEMP | Service cover 1 | removable fitted plate": "d604b9e4e21bec8a37c541529f18101d8f9be920fdfc50c5a28ff4649e8d83bb",
+    "TEMP | Service cover 2 | removable fitted plate": "d604b9e4e21bec8a37c541529f18101d8f9be920fdfc50c5a28ff4649e8d83bb",
+    "TEMP | Service cover 3 | removable fitted plate": "d604b9e4e21bec8a37c541529f18101d8f9be920fdfc50c5a28ff4649e8d83bb",
+    "TEMP | Service port 1 | removable metal plug": "ed70a7b9cbb773e96523861f2442aa2cdfabb756fe111dca2e4a3bf46899d429",
+    "TEMP | Service port 2 | removable metal plug": "ed70a7b9cbb773e96523861f2442aa2cdfabb756fe111dca2e4a3bf46899d429",
+    "TEMP | Service port 3 | removable metal plug": "ed70a7b9cbb773e96523861f2442aa2cdfabb756fe111dca2e4a3bf46899d429"
+  },
+  "libraries": {
+    "ECCO_film_v003.blend": {
+      "link": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+      "path": "Shared/Assets/Hardware/ECCO/ECCO_film_v003.blend",
+      "sha256": "3d9dd35fcb42e320c9a90b447f473ff6bb9b87de7a86afb2422935d6148e5fc5"
+    },
+    "Satin_finish_v001.blend": {
+      "link": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+      "path": "Shared/Assets/Hardware/ECCO/Dependencies/Satin_finish_v001.blend",
+      "sha256": "19cdac6471673b8b1d1970e689f99ea501331b1353782fdb95771d2173b46742"
+    }
+  }
+}

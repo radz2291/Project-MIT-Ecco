@@ -1,13 +1,7 @@
-# Section 7 — Product Hero
+# Section 7 · Product hero
 
-**Selected: Sequence_v006. Owner approved and closed, 25 October 2026.**
+**Production preview v007** · [Three-second MP4](Previews/S07_shared-product-hero_v007_preview.mp4) · [Editable Blender scene](Scenes/S07_shared-product-hero_v007.blend) · [Decoded frame check](Previews/S07_shared-product-hero_v007_preview-check.png)
 
-- [Approved eight-second edit](Sequence_v006/Previews/S07_Monumental-Precision_v006.mp4)
-- [Individual shot clips](Sequence_v006/Previews/Individual-Shots/)
-- [Editable Blender scene](Sequence_v006/Scenes/S07_Monumental-Precision_v006.blend)
-- [Approval record](Sequence_v006/Records/owner-approval_2026-10-25.md)
-- [Production and closure report](Sequence_v006/Records/production-report.md)
+The preview shows the end of the reverse-angle shot, the cut into the final pullback, and the start of the fade. It uses the shared ECCO film v003 meshes and satin finish with the approved v006 camera, studio lighting and eight-second edit.
 
-Three shots: detail glide, reverse beauty, and close-to-wide hero pullback. No logo; product fades to black. Owner supplies the separate logo frame, audio and final film assembly. Native/media stay local; hash-verified same-machine recovery at `D:/MIT-ECCO-Render-Recovery/S07-Monumental-Precision_v006`.
-
-Sequences v001–v005 and historical shot folders remain retained history. They are not the selected delivery. Shared masters and other sections are preserved.
+[Approved v006 previs and direction](Sequence_v006/README.md) · [Production handoff](../../Records/Tasks/T-062/report.md)
