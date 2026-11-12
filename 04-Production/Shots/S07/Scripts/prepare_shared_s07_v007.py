@@ -131,8 +131,9 @@ def build():
     })
 
 
-def render_preview(width, height, samples):
-    scene = open_scene(candidate)
+def render_preview(width, height, samples, *, scene_path=candidate, frames=preview_frames,
+                   checks=benchmark_frames, version="v007"):
+    scene = open_scene(scene_path)
     scene.render.resolution_x = width
     scene.render.resolution_y = height
     scene.render.resolution_percentage = 100
@@ -140,7 +141,7 @@ def render_preview(width, height, samples):
     scene.render.image_settings.file_format = "PNG"
     scene.render.image_settings.color_mode = "RGB"
     scene.render.image_settings.color_depth = "8"
-    cache = section / f"Cache/v007/preview-{width}x{height}-{samples}spp"
+    cache = section / f"Cache/{version}/preview-{width}x{height}-{samples}spp"
     cache.mkdir(parents=True, exist_ok=True)
     profile = {"size": [width, height], "samples": samples, "fps": 24, "engine": scene.render.engine,
                "compositor": scene.render.use_compositing, "sequencer": scene.render.use_sequencer}
@@ -157,11 +158,11 @@ def render_preview(width, height, samples):
         return seconds
 
     profile["warmup_seconds"] = render(121, "warmup.png")
-    profile["benchmarks_seconds"] = {frame: render(frame, f"bench-{frame:03d}.png") for frame in benchmark_frames}
+    profile["benchmarks_seconds"] = {frame: render(frame, f"bench-{frame:03d}.png") for frame in checks}
     write_json(cache / "timings.json", profile)
     assert max(profile["benchmarks_seconds"].values()) < 5, "Benchmark exceeded five seconds"
     timings = {}
-    for frame in preview_frames:
+    for frame in frames:
         seconds = render(frame, f"frame-{frame:03d}.png")
         timings[frame] = seconds
         if seconds >= 5:
@@ -170,13 +171,14 @@ def render_preview(width, height, samples):
     write_json(cache / "timings.json", {**profile, "preview_seconds": timings})
 
 
-parser = argparse.ArgumentParser()
-parser.add_argument("stage", choices=("build", "preview"))
-parser.add_argument("--width", type=int, default=960)
-parser.add_argument("--height", type=int, default=540)
-parser.add_argument("--samples", type=int, default=16)
-args = parser.parse_args(sys.argv[sys.argv.index("--") + 1:])
-if args.stage == "build":
-    build()
-else:
-    render_preview(args.width, args.height, args.samples)
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("stage", choices=("build", "preview"))
+    parser.add_argument("--width", type=int, default=960)
+    parser.add_argument("--height", type=int, default=540)
+    parser.add_argument("--samples", type=int, default=16)
+    args = parser.parse_args(sys.argv[sys.argv.index("--") + 1:])
+    if args.stage == "build":
+        build()
+    else:
+        render_preview(args.width, args.height, args.samples)
