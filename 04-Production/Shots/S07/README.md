@@ -1,5 +1,9 @@
 # Section 7 · Product hero
 
+**Turn during pullback v009** · [Ending preview](Previews/S07_turn-during-pullback_v009_preview.mp4) · [Editable Blender scene](Scenes/S07_turn-during-pullback_v009.blend)
+
+The tool starts turning as the close-up cuts in, slows as the camera pulls away, and keeps turning through the fade.
+
 **Soft ending v008** · [Ending preview](Previews/S07_soft-ending_v008_preview.mp4) · [Editable Blender scene](Scenes/S07_soft-ending_v008.blend) · [Decoded frame check](Previews/S07_soft-ending_v008_preview-check.png)
 
 The tool eases into a slow 16° turn on its long axis as the camera settles. The excerpt plays through the fade to black.
