@@ -1,0 +1,34 @@
+{
+  "source": "S05_graded-ground-grid_v027.blend",
+  "scene": "S05_stretched-grid_v028.blend",
+  "frames": [
+    50,
+    205,
+    432
+  ],
+  "geometry_and_uv_sha256": "28156853247abc9592c8bbf226d1be17cf654d07d3e29eaf2a1ea89d60020be5",
+  "seam_cell_width_m": 0.04072762280702591,
+  "seam_axial_pitch_m": 0.1035,
+  "axial_anchor_m": 0.207,
+  "axial_stretch_samples": {
+    "0.0": 1.0,
+    "0.18": 1.4200000000000002,
+    "0.36": 2.05,
+    "0.72": 2.6800000000000006,
+    "1.44": 2.976470588235294
+  },
+  "stills": [
+    {
+      "frame": 50,
+      "seconds": 3.8829072000007727
+    },
+    {
+      "frame": 205,
+      "seconds": 0.6475116000001435
+    },
+    {
+      "frame": 432,
+      "seconds": 0.7304684000046109
+    }
+  ]
+}

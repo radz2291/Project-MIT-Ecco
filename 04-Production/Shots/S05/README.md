@@ -1,8 +1,8 @@
 # S05 · Hydraulic Enhancement
 
-**Graded ground grid v027** · [Frames 50, 205 and 432](Previews/S05_graded-ground-grid_v027_look.png) · [Editable look trial](Scenes/S05_graded-ground-grid_v027.blend). Small cells cluster along the bore edge and widen across the same continuous ground.
+**Continuous stretched grid v028** · [Frames 50, 205 and 432](Previews/S05_stretched-grid_v028_look.png) · [Editable look trial](Scenes/S05_stretched-grid_v028.blend). Grid lines align at the bore lip and curve smoothly across the ground as the cells stretch.
 
-[Navy room trial v023](Previews/S05_navy-room_v023_look.png) · [Slate cutaway trial v024](Previews/S05_stylized-cutaway_v024_look.png) · [Wireframe wall trial v025](Previews/S05_wireframe-wall_v025_look.png) · [Continuous borehole and ground v026](Previews/S05_continuous-ground_v026_look.png).
+[Navy room trial v023](Previews/S05_navy-room_v023_look.png) · [Slate cutaway trial v024](Previews/S05_stylized-cutaway_v024_look.png) · [Wireframe wall trial v025](Previews/S05_wireframe-wall_v025_look.png) · [Continuous borehole and ground v026](Previews/S05_continuous-ground_v026_look.png) · [Stepped ground grid v027](Previews/S05_graded-ground-grid_v027_look.png).
 
 The current editable candidate is [S05 shared BHA v022](Scenes/S05_shared-bha_v022.blend). It carries the approved 18-second v020 previs camera, timing and amber circulation into production. The connected BHA v008 and its uphole joint follow the existing tool rotation. The assembly uses shared ECCO v003 and Satin finish v001. The custom ground and cement, hydraulic paths and cuttings stay in the shot.
 
