@@ -24,9 +24,11 @@ if "--existing" in args:
     assert destination.is_file()
 cache.mkdir(parents=True, exist_ok=True)
 join = 125
-preview_end = 132
+preview_end = int(args[args.index("--end") + 1]) if "--end" in args else 132
 surface_name = "A | reconstructed wall beginning to open"
 frames_to_check = (1, 25, 52, 76, 96, 112, 124, 125, 132)
+if preview_end > 132:
+    frames_to_check += (144, preview_end)
 
 
 def ease(t):
@@ -209,7 +211,7 @@ def render(frame, path=None):
     return perf_counter() - started
 
 
-state["setup"].append({str(frame): render(frame) for frame in (1, 76, 96, 112, 132)})
+state["setup"].append({str(frame): render(frame) for frame in dict.fromkeys((1, 76, 96, 112, 132, preview_end))})
 save()
 if not state["benchmark"]:
     results = {}
