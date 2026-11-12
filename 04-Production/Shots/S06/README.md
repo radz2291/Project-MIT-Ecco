@@ -1,5 +1,7 @@
 # S06 · Reconstruction and report
 
+**Camera review v007** · [5.5-second opening preview](Previews/S06_camera-polish_v007_opening.mp4) · [Editable scene](Scenes/S06_camera-polish_v007.blend). The camera opens wider on the borehole and eases into the original unfolding move at frame 125.
+
 **Production candidate v005** · [Editable scene](Scenes/S06_shared-reconstruction_v005.blend) · [Four-second opening preview](Previews/S06_shared-reconstruction_v005_opening.mp4).
 
 The approved polished v004 previs supplies the 12-second camera and section data. v005 uses the shared ECCO housing and closures with the satin finish, the compatible shared digital borehole context, and the shared fine-contour group on the existing opening paths. The reconstruction, unfolding, amplitude panel and illustrative laptop report retain their local source and timing.
