@@ -1,0 +1,36 @@
+{
+  "video": "S04_waveform-crest-sync_v042_full.mp4",
+  "sha256": "800a9356337d99df918d9d48c8b9bfca404be5e59bbccaf4036187a88d863e85",
+  "native_sha256": "aea7f4dc4c5cc88687cb23620ea49d9c741b05c4558c7b449b3920075b43fdcb",
+  "backend": "vulkan",
+  "percent": 75,
+  "resolution": [
+    960,
+    540
+  ],
+  "samples": 8,
+  "fps": 24,
+  "frame_count": 432,
+  "duration_seconds": 18,
+  "all_frames_decoded": true,
+  "render_mean_seconds": 1.184823707175926,
+  "render_max_seconds": 4.713404399997671,
+  "render_total_seconds": 511.84384150000005,
+  "renderer_setup_seconds": [
+    {
+      "1": 1.5169188999934704,
+      "82": 0.9008544000025722,
+      "195": 2.481543000001693,
+      "285": 2.908234900001844,
+      "300": 1.0061627000031876,
+      "330": 0.8566307000000961,
+      "370": 0.7370741999984602
+    },
+    {
+      "82_v042": 2.387117700003728
+    },
+    {
+      "82_v042": 2.0303313999975217
+    }
+  ]
+}
