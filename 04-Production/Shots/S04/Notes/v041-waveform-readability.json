@@ -1,0 +1,38 @@
+{
+  "events": [
+    {
+      "case": "Supported",
+      "impact_frame": 82,
+      "readouts": {
+        "Send head arrival": 82.0,
+        "Send tail arrival": 88.75,
+        "Return start": 89.5,
+        "Return head arrival": 98.5,
+        "Return tail arrival": 105.25,
+        "Cycle frames": 55.5
+      },
+      "previous_amplitude_projection_factor": 0.3162279255011988,
+      "amplitude_multiplier": 2.1,
+      "line_radius_multiplier": 1.45,
+      "return_train_scale": 1.0
+    },
+    {
+      "case": "Reduced support",
+      "impact_frame": 194,
+      "readouts": {
+        "Send head arrival": 194.0,
+        "Send tail arrival": 200.75,
+        "Return start": 201.5,
+        "Return head arrival": 210.5,
+        "Return tail arrival": 221.6374969482422,
+        "Cycle frames": 59.88749694824219
+      },
+      "previous_amplitude_projection_factor": 0.3162279702046824,
+      "amplitude_multiplier": 2.1,
+      "line_radius_multiplier": 1.45,
+      "return_train_scale": 1.65
+    }
+  ],
+  "legacy_tail_curves_hidden": 5,
+  "intent": "Longer illustrative reduced-support ring-down in the same violet return. Existing steel impact and tiles retain their animation."
+}
