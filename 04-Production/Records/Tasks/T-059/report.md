@@ -110,3 +110,7 @@ Radzi pointed out that the older proof used several echoes to make longer decay 
 ### v045 connected decay proof
 
 The second return is one connected violet waveform with a damped tail. Its oscillation height falls into the beam before the beam closes. v045 uses the linked shared v021 field with local return-phase controls. The sampled outgoing geometry and the send and leading echo timing match v043. The original impacts and first return are retained. The local scene is Scenes/S04_connected-decay_v045.blend. The local caption-free proof is Previews/S04_connected-decay_v045.mp4. All 47 frames decoded and the return was visually sampled across the decay. The full clean render is v043.
+
+### Final clean v045 render
+
+Radzi approved the connected decay and directed the final render. The clean local 18-second video is Previews/S04_connected-decay_v045_final.mp4 under Shots/S04. The 47 rendered v045 frames cover 190–236 and the other 385 are reused from the verified v043 clean raw sequence. All 432 frames decoded at 960 × 540, 24 fps, with no drops or duplicates. Sampled playback confirms the two responses, travel, connected decay and original wireframe ending without captions or bars. Video SHA-256 0740c9dfe4fda561f5a4d8263e81fed6c8bd29243feadb963c28986b4a4963ba. The editable native is Scenes/S04_connected-decay_v045.blend, SHA-256 fec45c9631d202ce088f77e2e7b3f023dc6c1ecc945e549f38a25346ede56262. Native and media are local. Off-machine backup is unverified.
