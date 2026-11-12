@@ -1,6 +1,6 @@
 # S04 · Beneath the Steel
 
-**Current Blender candidate** · [S04_continuous-shared-bha-environment_v039.blend](Scenes/S04_continuous-shared-bha-environment_v039.blend). Shared BHA v008 and ECCO v003, with the prepared cement and ground finishes on the existing cutaway. [Casing entry still](Previews/S04_casing-entry_v039.png).
+**Current S04 render v040** · [Play the full 18-second sequence](Previews/S04_continuous-shared-waveform_v040_full.mp4) · [Editable Blender scene](Scenes/S04_continuous-shared-waveform_v040.blend). Shared v021 send and echo with the existing S04 casing glitch.
 
 **Camera-only v037 review** · [Play the opening and first response](Previews/S04_opening-camera_v037.mp4) · [Full editable sequence](Scenes/S04_continuous-opening-camera_v037.blend). The v005 approach is fitted to the selected previs and joins the original camera at frame 63.
 

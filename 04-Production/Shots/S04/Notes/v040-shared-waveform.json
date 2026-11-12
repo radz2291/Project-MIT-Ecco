@@ -1,0 +1,121 @@
+{
+  "source": "S04_continuous-shared-bha-environment_v039.blend",
+  "scene": "S04_continuous-shared-waveform_v040.blend",
+  "waveform": "Waveform_shared_v021.blend",
+  "events": [
+    {
+      "case": "Supported",
+      "start": 68.5,
+      "speed": 1.3333333333333333,
+      "launch": 73,
+      "glitch": 82,
+      "cap_face": 62,
+      "steel_face": 4233,
+      "gap_mm": 27.858824757848154,
+      "source_m": [
+        -0.31999993324279785,
+        0.10180610418319702,
+        0.08244095742702484
+      ],
+      "target_m": [
+        -0.31999993324279785,
+        0.12345647811889648,
+        0.09997308254241943
+      ],
+      "preset_landmarks": {
+        "beam_contact": 72.25,
+        "pulse_launch": 73.0,
+        "surface_reveal": 85.0,
+        "feedback_start": 89.5,
+        "feedback_complete": 105.25,
+        "beam_closed": 107.5,
+        "review_end": 109.0
+      },
+      "native_readouts_at_glitch": {
+        "Send head arrival": 82.0,
+        "Send tail arrival": 88.75,
+        "Return start": 89.5,
+        "Return head arrival": 98.5,
+        "Return tail arrival": 105.25,
+        "Cycle frames": 55.5
+      }
+    },
+    {
+      "case": "Reduced support",
+      "start": 180.5,
+      "speed": 1.3333333333333333,
+      "launch": 185,
+      "glitch": 194,
+      "cap_face": 62,
+      "steel_face": 4178,
+      "gap_mm": 27.858824757848154,
+      "source_m": [
+        -1.5,
+        0.10180610418319702,
+        0.08244095742702484
+      ],
+      "target_m": [
+        -1.5,
+        0.12345647811889648,
+        0.09997308254241943
+      ],
+      "preset_landmarks": {
+        "beam_contact": 184.25,
+        "pulse_launch": 185.0,
+        "surface_reveal": 197.0,
+        "feedback_start": 201.5,
+        "feedback_complete": 217.25,
+        "beam_closed": 219.5,
+        "review_end": 221.0
+      },
+      "native_readouts_at_glitch": {
+        "Send head arrival": 194.0,
+        "Send tail arrival": 200.75,
+        "Return start": 201.5,
+        "Return head arrival": 210.5,
+        "Return tail arrival": 217.25,
+        "Cycle frames": 55.5
+      }
+    }
+  ],
+  "legacy_wavefronts_hidden": 12,
+  "impact_objects_retained": 293,
+  "impact_camera_and_sensor_match": true,
+  "verification_frames": [
+    1,
+    63,
+    73,
+    81,
+    82,
+    85,
+    91,
+    100,
+    141,
+    175,
+    185,
+    193,
+    194,
+    198,
+    206,
+    229,
+    235,
+    261,
+    300,
+    336,
+    370,
+    432
+  ],
+  "relative_links": [
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\Acoustics\\Acoustics_v003.blend",
+    "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\BHA\\BHA_film_v006.blend",
+    "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+    "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\CasedHole_v002.blend",
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\ECCO\\ECCO_film_v002.blend",
+    "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+    "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\Dependencies\\Formation_cased-section_v002.blend",
+    "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+    "//..\\..\\..\\Shared\\Assets\\Effects\\Waveform\\Waveform_shared_v021.blend",
+    "//..\\..\\..\\Shared\\Archive\\2026-10-31\\Assets\\WellAssembly\\World_environment_v009.blend"
+  ]
+}

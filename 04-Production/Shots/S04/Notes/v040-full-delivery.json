@@ -1,0 +1,30 @@
+{
+  "video": "S04_continuous-shared-waveform_v040_full.mp4",
+  "sha256": "c9ba6f29dfa6230b2947ae1811b3575182a41b3281b6bd305d888c9a1b42ef34",
+  "native_sha256": "ae3e1df36ed1e0c74301d2f41b918c2c9937bb3d5802a8a0f12fc47eec894853",
+  "backend": "vulkan",
+  "percent": 75,
+  "resolution": [
+    960,
+    540
+  ],
+  "samples": 8,
+  "fps": 24,
+  "frame_count": 432,
+  "duration_seconds": 18,
+  "all_frames_decoded": true,
+  "render_mean_seconds": 1.1480746509260253,
+  "render_max_seconds": 4.713404399997671,
+  "render_total_seconds": 495.9682492000429,
+  "renderer_setup_seconds": [
+    {
+      "1": 1.5169188999934704,
+      "82": 0.9008544000025722,
+      "195": 2.481543000001693,
+      "285": 2.908234900001844,
+      "300": 1.0061627000031876,
+      "330": 0.8566307000000961,
+      "370": 0.7370741999984602
+    }
+  ]
+}
