@@ -1,0 +1,33 @@
+{
+  "source": "S05_shared-bha_v022.blend",
+  "look_reference": "S03_restored-interior-labels_v040",
+  "scene": "S05_navy-room_v023.blend",
+  "review_frames": [
+    50,
+    205,
+    432
+  ],
+  "minimum_camera_to_room_plane_m": 1.449999988079071,
+  "grid_pitch_m": 0.4,
+  "relative_libraries": {
+    "BHA_core_satin_v001.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+    "BHA_film_v008.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+    "ECCO_film_v003.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+    "Satin_finish_v001.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend"
+  },
+  "preserved": "Matched camera optics and transforms, BHA, custom cutaway, and section hydraulics at all three frames.",
+  "stills": [
+    {
+      "frame": 50,
+      "seconds": 7.836771700000099
+    },
+    {
+      "frame": 205,
+      "seconds": 0.6481373999995412
+    },
+    {
+      "frame": 432,
+      "seconds": 0.6866440000012517
+    }
+  ]
+}

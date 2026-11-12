@@ -1,5 +1,7 @@
 # S05 · Hydraulic Enhancement
 
+**Navy room look trial v023** · [Three requested stills](Previews/S05_navy-room_v023_look.png) · [Editable look trial](Scenes/S05_navy-room_v023.blend). Frames 50, 205 and 432 are ready for review.
+
 The current editable candidate is [S05 shared BHA v022](Scenes/S05_shared-bha_v022.blend). It carries the approved 18-second v020 previs camera, timing and amber circulation into production. The connected BHA v008 and its uphole joint follow the existing tool rotation. The assembly uses shared ECCO v003 and Satin finish v001. The custom ground and cement, hydraulic paths and cuttings stay in the shot.
 
 - [Shared BHA first look across A, B and C](Previews/S05_shared-bha_v022_look.png)
