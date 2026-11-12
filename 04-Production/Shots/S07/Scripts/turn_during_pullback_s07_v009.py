@@ -93,10 +93,14 @@ def build():
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("stage", choices=("build", "preview"))
+parser.add_argument("stage", choices=("build", "preview", "full"))
 args = parser.parse_args(sys.argv[sys.argv.index("--") + 1:])
 if args.stage == "build":
     build()
-else:
+elif args.stage == "preview":
     render_preview(960, 540, 16, scene_path=successor, frames=range(first, last + 1),
                    checks=(121, 122, 128, 136, 156, 162, 174, 190, 192), version="v009")
+else:
+    render_preview(960, 540, 16, scene_path=successor, frames=range(1, 105),
+                   checks=(1, 16, 38, 60, 61, 78, 98, 104, 105, 120, 121, 136, 156, 162, 174, 190, 192),
+                   version="v009", cache_kind="full")

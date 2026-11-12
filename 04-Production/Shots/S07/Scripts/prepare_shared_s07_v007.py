@@ -132,7 +132,7 @@ def build():
 
 
 def render_preview(width, height, samples, *, scene_path=candidate, frames=preview_frames,
-                   checks=benchmark_frames, version="v007"):
+                   checks=benchmark_frames, version="v007", cache_kind="preview"):
     scene = open_scene(scene_path)
     scene.render.resolution_x = width
     scene.render.resolution_y = height
@@ -141,7 +141,7 @@ def render_preview(width, height, samples, *, scene_path=candidate, frames=previ
     scene.render.image_settings.file_format = "PNG"
     scene.render.image_settings.color_mode = "RGB"
     scene.render.image_settings.color_depth = "8"
-    cache = section / f"Cache/{version}/preview-{width}x{height}-{samples}spp"
+    cache = section / f"Cache/{version}/{cache_kind}-{width}x{height}-{samples}spp"
     cache.mkdir(parents=True, exist_ok=True)
     profile = {"size": [width, height], "samples": samples, "fps": 24, "engine": scene.render.engine,
                "compositor": scene.render.use_compositing, "sequencer": scene.render.use_sequencer}

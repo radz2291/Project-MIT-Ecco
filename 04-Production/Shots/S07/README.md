@@ -1,5 +1,9 @@
 # Section 7 · Product hero
 
+**Full Section 7 v009** · [Eight-second MP4](Previews/S07_turn-during-pullback_v009_full.mp4) · [Editable Blender scene](Scenes/S07_turn-during-pullback_v009.blend) · [Encoded frame check](Previews/S07_turn-during-pullback_v009_full-check.png)
+
+The full picture includes the opening detail glide, reverse angle, and close-up turn through the final pullback and fade. 960 × 540 at 24 fps, with all 192 frames decoded.
+
 **Turn during pullback v009** · [Ending preview](Previews/S07_turn-during-pullback_v009_preview.mp4) · [Editable Blender scene](Scenes/S07_turn-during-pullback_v009.blend)
 
 The tool starts turning as the close-up cuts in, slows as the camera pulls away, and keeps turning through the fade.
