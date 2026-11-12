@@ -1,0 +1,65 @@
+{
+  "source": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\05-Previs\\Section-05_Hydraulic-Enhancement\\Camera-Proof_v020\\Scenes\\S05_continuous-camera_v020.blend",
+  "scene": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S05\\Scenes\\S05_shared-hardware_v021.blend",
+  "timeline": [
+    1,
+    432,
+    24
+  ],
+  "camera_and_object_samples": [
+    1,
+    50,
+    72,
+    120,
+    165,
+    205,
+    246,
+    330,
+    390,
+    432
+  ],
+  "tracked_hydraulic_objects": 79,
+  "fixed_section_materials": [
+    [
+      "S05_DarkNeutralFormation_v018",
+      true
+    ],
+    [
+      "S05_SectionFace_v018",
+      true
+    ]
+  ],
+  "matching_hardware_mesh_hashes": {
+    "S05_ECCO_HOUSING_SOURCE_MESH": "bf1a85a51b86640b489b781ff23ae0788955fa5968f90607363a93a3f519ad36",
+    "S05_TEMP | Service port 3 | removable metal plug": "9e6ac2f1fad90d0bce6205a34c44e84c3b8e5a59905186935ec3330906caee30",
+    "S05_TEMP | Service port 2 | removable metal plug": "9e6ac2f1fad90d0bce6205a34c44e84c3b8e5a59905186935ec3330906caee30",
+    "S05_TEMP | Service port 1 | removable metal plug": "9e6ac2f1fad90d0bce6205a34c44e84c3b8e5a59905186935ec3330906caee30",
+    "S05_TEMP | Service cover 3 | removable fitted plate": "d9e3c52bb2951835bc349d2d5991aa755618f603e1e0d1733d75ce03c966ba42",
+    "S05_TEMP | Service cover 2 | removable fitted plate": "d9e3c52bb2951835bc349d2d5991aa755618f603e1e0d1733d75ce03c966ba42",
+    "S05_TEMP | Service cover 1 | removable fitted plate": "d9e3c52bb2951835bc349d2d5991aa755618f603e1e0d1733d75ce03c966ba42",
+    "S05_TEMP | Imaging port 3 | removable acoustic cap": "613b107414fdaba1880fdba712d67b72dc1624be8003797c57c46bdeef69dfa9",
+    "S05_TEMP | Imaging port 2 | removable acoustic cap": "613b107414fdaba1880fdba712d67b72dc1624be8003797c57c46bdeef69dfa9",
+    "S05_TEMP | Imaging port 1 | removable acoustic cap": "613b107414fdaba1880fdba712d67b72dc1624be8003797c57c46bdeef69dfa9"
+  },
+  "relative_libraries": [
+    "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+    "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend"
+  ],
+  "proof_renders": [
+    {
+      "frame": 50,
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S05\\Previews\\S05_shared-hardware_v021_f0050.png",
+      "seconds": 9.741975299999467
+    },
+    {
+      "frame": 205,
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S05\\Previews\\S05_shared-hardware_v021_f0205.png",
+      "seconds": 0.6819182999970508
+    },
+    {
+      "frame": 390,
+      "path": "C:\\Users\\RZ1\\Desktop\\RZ\\261013-MIT-Ecco\\04-Production\\Shots\\S05\\Previews\\S05_shared-hardware_v021_f0390.png",
+      "seconds": 0.710175000000163
+    }
+  ]
+}
