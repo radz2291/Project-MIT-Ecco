@@ -1,0 +1,35 @@
+{
+  "source": "S06_direct-sweep_v010.blend",
+  "previous_glide_reference": "S06_opening-glide_v011.blend",
+  "scene": "S06_continuous-glide_v012.blend",
+  "native_sha256": "4e1993d16269e1aadebf6a6857441d495754e078ab31574cc80c068968e69abb",
+  "changed_camera_positions": [
+    1,
+    30
+  ],
+  "matching_camera_frames": [
+    31,
+    288
+  ],
+  "rotation_keys_match_v010": true,
+  "old_first_30_frames": {
+    "max_direction_step_deg": 33.23852136940926,
+    "max_velocity_step_m": 0.011807405378581406,
+    "minimum_travel_m_per_frame": 0.018494229671745716,
+    "travel_frames_14_to_16_m": [
+      0.02152265355251825,
+      0.018494229671745716,
+      0.019848285038275175
+    ]
+  },
+  "new_first_30_frames": {
+    "max_direction_step_deg": 1.4826614998115197,
+    "max_velocity_step_m": 0.0034336115349993235,
+    "minimum_travel_m_per_frame": 0.03241891805287871,
+    "travel_frames_14_to_16_m": [
+      0.04081606274923426,
+      0.03937354233559137,
+      0.03807771709413795
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "video": "S06_continuous-glide_v012_opening.mp4",
+  "sha256": "7bec4f7287418429b2725b6dc537aed13852a239e77db2e81bbd3f5c89a2f425",
+  "settings": {
+    "resolution": [
+      960,
+      540
+    ],
+    "samples": 8,
+    "backend": "Vulkan",
+    "compositing": true,
+    "fps": 24
+  },
+  "frames": [
+    1,
+    150
+  ],
+  "seconds": 6.25,
+  "decoded_frames": 150,
+  "relative_libraries": {
+    "Digital_style_v001.blend.001": "//..\\..\\..\\Shared\\Assets\\Effects\\DigitalEnvironment\\Dependencies\\Digital_style_v001.blend",
+    "Digital_world_v001.blend.001": "//..\\..\\..\\Shared\\Assets\\Effects\\DigitalEnvironment\\Dependencies\\Digital_world_v001.blend",
+    "ECCO_film_v003.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+    "Measurement_reveal_v001.blend": "//..\\..\\..\\Shared\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+    "Satin_finish_v001.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+    "World_environment_v010.blend.001": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v010.blend"
+  },
+  "benchmark": {
+    "1": 3.7962629000103334,
+    "8": 2.760077299986733,
+    "15": 3.38756290001038,
+    "22": 3.260230500003672,
+    "30": 4.4060045999940485
+  },
+  "setup_seconds": [
+    {
+      "1": 4.999660699992091,
+      "30": 2.8220737999945413
+    }
+  ],
+  "max_seconds": 4.986089900005027,
+  "mean_seconds": 2.2522982133332214,
+  "total_seconds": 337.8447319999832,
+  "retries": [],
+  "reused_frames": [
+    31,
+    150
+  ],
+  "reused_from": "v010"
+}

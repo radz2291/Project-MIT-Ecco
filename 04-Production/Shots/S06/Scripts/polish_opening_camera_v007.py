@@ -3,6 +3,7 @@
 from hashlib import sha256
 import json
 from math import degrees
+import os
 from pathlib import Path
 import sys
 from time import perf_counter
@@ -25,10 +26,18 @@ if "--existing" in args:
 cache.mkdir(parents=True, exist_ok=True)
 join = 125
 preview_end = int(args[args.index("--end") + 1]) if "--end" in args else 132
+reuse_cache = None
+reuse_start = preview_end + 1
 surface_name = "A | reconstructed wall beginning to open"
 frames_to_check = (1, 25, 52, 76, 96, 112, 124, 125, 132)
 if preview_end > 132:
     frames_to_check += (144, preview_end)
+if "--reuse-tail" in args:
+    index = args.index("--reuse-tail")
+    reuse_cache = shot / "Cache" / args[index + 1] / "preview"
+    reuse_start = int(args[index + 2])
+    assert 1 < reuse_start <= preview_end
+    frames_to_check = tuple(dict.fromkeys(1 + (reuse_start - 2) * i // 4 for i in range(5)))
 
 
 def ease(t):
@@ -194,6 +203,11 @@ state = json.loads(timings.read_text(encoding="utf-8")) if timings.exists() else
     "relative_libraries": {lib.name: lib.filepath for lib in bpy.data.libraries},
 }
 assert state["settings"] == settings
+if reuse_cache:
+    previous = json.loads((reuse_cache / "timings.json").read_text(encoding="utf-8"))
+    assert previous["settings"] == settings
+    state["reused_frames"] = [reuse_start, preview_end]
+    state["reused_from"] = reuse_cache.parent.name
 
 
 def save():
@@ -212,7 +226,8 @@ def render(frame, path=None):
     return perf_counter() - started
 
 
-state["setup"].append({str(frame): render(frame) for frame in dict.fromkeys((1, 76, 96, 112, 132, preview_end))})
+setup_frames = (1, reuse_start - 1) if reuse_cache else (1, 76, 96, 112, 132, preview_end)
+state["setup"].append({str(frame): render(frame) for frame in dict.fromkeys(setup_frames)})
 save()
 if not state["benchmark"]:
     results = {}
@@ -228,7 +243,7 @@ if not state["benchmark"]:
     state["benchmark"] = results
     save()
 assert max(state["benchmark"].values()) < 5
-for frame in range(1, preview_end + 1):
+for frame in range(1, reuse_start):
     key = str(frame)
     output = cache / f"S06_{frame:04d}.png"
     if key in state["frames"] and output.is_file() and output.stat().st_size:
@@ -246,4 +261,14 @@ for frame in range(1, preview_end + 1):
     save()
     if frame == 1 or frame % 24 == 0:
         print("FRAME", frame, round(elapsed, 3), flush=True)
+if reuse_cache:
+    for frame in range(reuse_start, preview_end + 1):
+        key = str(frame)
+        name = f"S06_{frame:04d}.png"
+        existing, copied = reuse_cache / name, cache / name
+        if not copied.is_file():
+            os.link(existing, copied)
+        assert existing.samefile(copied) and previous["frames"][key] < 5
+        state["frames"][key] = previous["frames"][key]
+    save()
 print("COMPLETE", len(state["frames"]), round(max(state["frames"].values()), 3), flush=True)

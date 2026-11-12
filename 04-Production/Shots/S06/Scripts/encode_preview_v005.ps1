@@ -49,5 +49,9 @@ $record = [ordered]@{
     total_seconds = $measure.Sum
     retries = $state.over_cap_attempts
 }
+if ($state.Contains('reused_frames')) {
+    $record.reused_frames = $state.reused_frames
+    $record.reused_from = $state.reused_from
+}
 $record | ConvertTo-Json -Depth 8 | Set-Content -LiteralPath $verification -Encoding utf8
 $record | ConvertTo-Json -Depth 8
