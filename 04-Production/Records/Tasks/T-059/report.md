@@ -102,3 +102,7 @@ The earlier composition clip omitted both measurement beats because it was an ex
 ### Clean full-cadence v043 render
 
 Radzi requested picture only, with all captions and the bottom bar removed. S04_diagonal-composition_v043_clean.mp4 in Shots/S04/Previews is 960 × 540, 24 fps, 18 seconds. The clean encode uses 161 newly rendered v043 frames, 162 earlier raw v043 frames and 109 unchanged raw ending frames. Every timeline frame has its own sample. All 432 frames decoded with no drops or duplicates. Decoded samples confirm both waveforms, travel, crossing and the uncaptioned wireframe reveal. New frames peaked at 3.113 seconds render-to-file. SHA-256 5fe3fbc7902a1977704b8f90b58671f359bea7778a8858e55884e75a0521cad3. Native and media are local.
+
+### v044 reduced-support echo proof
+
+Radzi pointed out that the older proof used several echoes to make longer decay visible. v044 keeps the first exchange and both original impacts, and gives the second exchange a primary return followed by three diminishing violet packets on the same route. Their strengths are 65%, 43%, 28% of the main return. They begin at frames 213, 224 and 235 and finish while the sensor remains held. Geometry checks show return-only components. The caption-free local comparison is Previews/S04_fading-echoes_v044.mp4, 106 decoded frames at 24 fps. Native is Scenes/S04_fading-echoes_v044.blend. See Notes/v044-fading-echoes.json. The full clean video is still v043.

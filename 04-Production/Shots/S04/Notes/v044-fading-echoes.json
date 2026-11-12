@@ -1,0 +1,39 @@
+{
+  "extra_returns": [
+    {
+      "echo": 1,
+      "relative_amplitude": 0.65,
+      "Send head arrival": 222.0,
+      "Send tail arrival": 228.75,
+      "Return start": 213.0,
+      "Return head arrival": 222.0,
+      "Return tail arrival": 226.5225067138672,
+      "Cycle frames": 30.022499084472656
+    },
+    {
+      "echo": 2,
+      "relative_amplitude": 0.43,
+      "Send head arrival": 233.0,
+      "Send tail arrival": 239.75,
+      "Return start": 224.0,
+      "Return head arrival": 233.0,
+      "Return tail arrival": 237.5225067138672,
+      "Cycle frames": 30.022499084472656
+    },
+    {
+      "echo": 3,
+      "relative_amplitude": 0.28,
+      "Send head arrival": 244.0,
+      "Send tail arrival": 250.75,
+      "Return start": 235.0,
+      "Return head arrival": 244.0,
+      "Return tail arrival": 248.5225067138672,
+      "Cycle frames": 30.022499084472656
+    }
+  ],
+  "unchanged_glitch_frames": [
+    82,
+    194
+  ],
+  "interpretation": "Progressively weaker return packets illustrate longer casing ring-down."
+}
