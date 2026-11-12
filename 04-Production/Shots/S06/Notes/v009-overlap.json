@@ -1,0 +1,93 @@
+{
+  "source": "S06_close-swipe_v008.blend",
+  "scene": "S06_overlapped-reveal_v009.blend",
+  "native_sha256": "58e00061dcc51c68bde2a9adde0563f43069ad9ecc3d7d2dc63966b1c266edac",
+  "matched_later_camera": [
+    125,
+    288
+  ],
+  "new_guide_fade_frames": [
+    10,
+    70
+  ],
+  "samples": {
+    "1": {
+      "source_camera_frame": 1.0,
+      "camera_move_since_start_m": 0.0,
+      "guide_fade": 0.0
+    },
+    "10": {
+      "source_camera_frame": 18.648508760122937,
+      "camera_move_since_start_m": 0.06430990739702358,
+      "guide_fade": 0.0
+    },
+    "21": {
+      "source_camera_frame": 57.0,
+      "camera_move_since_start_m": 0.2619819971886623,
+      "guide_fade": 0.04607613384723663
+    },
+    "32": {
+      "source_camera_frame": 79.0,
+      "camera_move_since_start_m": 0.29438838050142657,
+      "guide_fade": 0.26176172494888306
+    },
+    "42": {
+      "source_camera_frame": 89.39655172413792,
+      "camera_move_since_start_m": 0.541872606746543,
+      "guide_fade": 0.5622738003730774
+    },
+    "52": {
+      "source_camera_frame": 97.0,
+      "camera_move_since_start_m": 1.1705423168288904,
+      "guide_fade": 0.8369200229644775
+    },
+    "64": {
+      "source_camera_frame": 104.44889655172413,
+      "camera_move_since_start_m": 2.037521284085837,
+      "guide_fade": 0.9914399981498718
+    },
+    "70": {
+      "source_camera_frame": 107.25802155172413,
+      "camera_move_since_start_m": 2.3609371508453534,
+      "guide_fade": 1.0
+    },
+    "80": {
+      "source_camera_frame": 110.30370370370372,
+      "camera_move_since_start_m": 2.6862453038000185,
+      "guide_fade": 1.0
+    },
+    "96": {
+      "source_camera_frame": 114.0,
+      "camera_move_since_start_m": 3.045134384638143,
+      "guide_fade": 1.0
+    },
+    "112": {
+      "source_camera_frame": 118.6414702297234,
+      "camera_move_since_start_m": 3.4593318202520904,
+      "guide_fade": 1.0
+    },
+    "125": {
+      "source_camera_frame": 125.0,
+      "camera_move_since_start_m": 4.018206393790678,
+      "guide_fade": 1.0
+    }
+  },
+  "join_step_m": [
+    0.058599354307060564,
+    0.06794390829049728,
+    0.07922316956641798,
+    0.09268353774449721,
+    0.10101387450105809,
+    0.10293368572906181,
+    0.1045115889603877
+  ],
+  "join_turn_degrees": [
+    0.6679296417425418,
+    0.7176394917176301,
+    0.7401887209321926,
+    0.7433541934473761,
+    0.7143600937815249,
+    0.6477026234849308,
+    0.5868397149254463
+  ]
+}
