@@ -1,0 +1,66 @@
+{
+  "baseline": "Studies\\S06_Report-Recreation_v004\\Scenes\\S06_cinematic-study_v004_polished.blend",
+  "shared_context_source": "Records\\Tasks\\T-054\\Consumers\\S06_shared-digital_v002.blend",
+  "source_sha256": "7f2a0086992be7c12c0896505d6fafbc42d82c7967a89ef9686f885bb06374a3",
+  "native_sha256": "7eb6f378a54048affd2cc0d86f3d767317108d8f22aad1dd8869555cb9a75ba0",
+  "matching_camera_and_data_states": 288,
+  "data_hashes": {
+    "A | reconstructed wall beginning to open": "d071914e4730550fa62a9588c43336d90bc892c4918c63de0dae4bea14937f9f",
+    "B | independent amplitude": "ed335f956f79332eaf4e839c4f47e55ef41feb2f2b6e78e2544b9e43ed1f0759",
+    "C | same geometry reconstruction": "86ec92d1088b1c275e7c602a87a36a126ca4f7cfd9f1067eadc74f6b68d5a809",
+    "A | indexed reconstruction samples": "d4aaf03e54d01d499b840559d0f3f20d8336e28b865e06d5678308dff921fb69",
+    "B | amplitude samples": "9abf8597ad43ce31fbe56d210b551efab7b0cc748fc5025b3e43e938ac5928af"
+  },
+  "matching_hardware_meshes": {
+    "ECCO_HOUSING_SOURCE_MESH": "9cef0261e363cb81e8a573f83e2649fd2a7c04717149110f57fe4b73649a2b4c",
+    "TEMP | Service port 3 | removable metal plug": "1813427458b4dbd3998a2c0a989a2e79faf2413b07af291c2d5bbb65291a08ee",
+    "TEMP | Service port 2 | removable metal plug": "1813427458b4dbd3998a2c0a989a2e79faf2413b07af291c2d5bbb65291a08ee",
+    "TEMP | Service port 1 | removable metal plug": "1813427458b4dbd3998a2c0a989a2e79faf2413b07af291c2d5bbb65291a08ee",
+    "TEMP | Service cover 3 | removable fitted plate": "2bca62558af560f32209fafda2ea5dcbb96c78f437e8668fc492ff1ebdeff037",
+    "TEMP | Service cover 2 | removable fitted plate": "2bca62558af560f32209fafda2ea5dcbb96c78f437e8668fc492ff1ebdeff037",
+    "TEMP | Service cover 1 | removable fitted plate": "2bca62558af560f32209fafda2ea5dcbb96c78f437e8668fc492ff1ebdeff037",
+    "TEMP | Imaging port 3 | removable acoustic cap": "61d836cd7289ec12b20ccdefc152949fd64ca34bba95759745fc8495126e67ff",
+    "TEMP | Imaging port 2 | removable acoustic cap": "61d836cd7289ec12b20ccdefc152949fd64ca34bba95759745fc8495126e67ff",
+    "TEMP | Imaging port 1 | removable acoustic cap": "61d836cd7289ec12b20ccdefc152949fd64ca34bba95759745fc8495126e67ff"
+  },
+  "matched_text_objects": 9,
+  "linked_fine_contours": 33,
+  "context_states": {
+    "1": {
+      "world_faces": 6800,
+      "world_hidden": false
+    },
+    "52": {
+      "world_faces": 6800,
+      "world_hidden": false
+    },
+    "96": {
+      "world_faces": 6800,
+      "world_hidden": false
+    },
+    "106": {
+      "world_faces": 6800,
+      "world_hidden": false
+    },
+    "124": {
+      "world_faces": 6800,
+      "world_hidden": false
+    },
+    "144": {
+      "world_faces": 6800,
+      "world_hidden": false
+    },
+    "220": {
+      "world_faces": 6800,
+      "world_hidden": true
+    },
+    "250": {
+      "world_faces": 6800,
+      "world_hidden": true
+    },
+    "288": {
+      "world_faces": 6800,
+      "world_hidden": true
+    }
+  }
+}

@@ -1,0 +1,7 @@
+# S06 · Reconstruction and report
+
+**Production candidate v005** · [Editable scene](Scenes/S06_shared-reconstruction_v005.blend) · [Four-second opening preview](Previews/S06_shared-reconstruction_v005_opening.mp4).
+
+The approved polished v004 previs supplies the 12-second camera and section data. v005 uses the shared ECCO housing and closures with the satin finish, the compatible shared digital borehole context, and the shared fine-contour group on the existing opening paths. The reconstruction, unfolding, amplitude panel and illustrative laptop report retain their local source and timing.
+
+[Task record](../../Records/Tasks/T-061/report.md) · [Native checks](Notes/v005-integration.json) · [Preview verification](Notes/v005-preview-delivery.json)
