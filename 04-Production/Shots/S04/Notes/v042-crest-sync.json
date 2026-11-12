@@ -1,0 +1,34 @@
+[
+  {
+    "case": "Supported",
+    "glitch": 82,
+    "advance_frames": 2.75,
+    "old_crest_fraction": 0.6933594055592048,
+    "new_crest_fraction": 0.9882812378164882,
+    "crest_height_m": 0.006911089876666665,
+    "readouts": {
+      "Send head arrival": 79.25,
+      "Send tail arrival": 86.0,
+      "Return start": 89.5,
+      "Return head arrival": 98.5,
+      "Return tail arrival": 105.25,
+      "Cycle frames": 58.250003814697266
+    }
+  },
+  {
+    "case": "Reduced support",
+    "glitch": 194,
+    "advance_frames": 2.75,
+    "old_crest_fraction": 0.6933593888441681,
+    "new_crest_fraction": 0.9882812378164882,
+    "crest_height_m": 0.006911090109497309,
+    "readouts": {
+      "Send head arrival": 191.25,
+      "Send tail arrival": 198.0,
+      "Return start": 201.5,
+      "Return head arrival": 210.5,
+      "Return tail arrival": 221.6374969482422,
+      "Cycle frames": 62.63749694824219
+    }
+  }
+]

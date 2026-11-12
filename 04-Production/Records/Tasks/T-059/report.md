@@ -85,3 +85,7 @@ Both shared v021 waveforms face the camera and use 2.1× amplitude and 1.45× li
 - Native is `04-Production/Shots/S04/Scenes/S04_waveform-readability_v041.blend`, SHA-256 `abdc5ea17f64ff37266ea4af2ade76a4149ce163d3ca948ca64cbba8e873fb23`.
 - Review clip is `04-Production/Shots/S04/Previews/S04_waveform-readability_v041.mp4`, SHA-256 `953effb132ababf8f046bc5b99595729780b5066fa9d092cd17afc25ae314d61`. All 89 frames decoded at 960 × 540 and 24 fps. Contact and return samples were visually checked. The full rendered reference is v040.
 - [Waveform verification](../../../Shots/S04/Notes/v041-waveform-readability.json). Native and media are local. Off-machine backup is unverified.
+
+## Visible crest sync v042 · 12 November 2026
+
+v042 advances both shared sends by 2.75 frames so the visible crest is 98.8% across the gap when the original glitch starts at frames 82 and 194. The v041 crest was only 69.3% across. The return delay compensates for the advance, preserving the v041 violet return timing. Glitch keys and the larger camera-facing style are retained. The saved native is `Scenes/S04_waveform-crest-sync_v042.blend` and the 69-frame, 24 fps proof is `Previews/S04_waveform-crest-sync_v042.mp4`, both under `04-Production/Shots/S04`. All proof frames decoded. Contact frames and their neighbors were visually sampled. [Measured timing](../../../Shots/S04/Notes/v042-crest-sync.json).
