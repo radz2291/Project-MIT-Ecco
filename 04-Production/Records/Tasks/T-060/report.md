@@ -19,3 +19,11 @@ The saved production file reopened with both relative libraries resolved. The fr
 Rendered and inspected frames 50, 205 and 390 at the saved previs settings, 960 × 540 in EEVEE using Vulkan. They show the lower tool tracking, interaction and final detail with the shared finish and amber circulation. The cold first still took 9.742 seconds. The next two took 0.682 and 0.710 seconds. This is a still proof. A representative warmed benchmark across the complete shot is still needed before a full batch under the strict five-second cap.
 
 The local three-frame proof is `04-Production/Shots/S05/Previews/S05_shared-hardware_v021_look.png`. Native and preview are local, with off-machine backup unverified. The focused proof is ready for Radzi’s feedback before the complete picture-only render.
+
+## Shared BHA v022
+
+Radzi directed the use of shared BHA. The production candidate is `04-Production/Shots/S05/Scenes/S05_shared-bha_v022.blend`, SHA-256 `3d9049828000f6dd8a8de70ec74ae05f4f04ef88def8e12ccd9260fe2f39cea8`. The shared BHA v008 core and standard uphole joint follow the existing axial rotation at source scale. The extra 12 m continuation starts beyond the local cutaway and was omitted from the shot. The single connected assembly supplies ECCO v003 and the shared satin finish. v021 remains available as the earlier ECCO-only copy.
+
+At ten timeline samples, the ten ECCO parts matched source mesh geometry and their prior poses within 2.13e-7 maximum matrix-component difference. The 126 accessory meshes use their shared links. Added mesh vertices inside the cutaway reached a maximum radius of 107.0 mm against the 155.57 mm wall radius. The check concerns the visual fit in this scene. Camera, cutaway and section-owned hydraulic transforms and visibility matched at all ten samples. All four relative libraries resolved on reopen.
+
+Five 960 × 540 EEVEE Vulkan stills cover opening, lower body, interaction, detail and ending. Render-to-file times ranged from 0.608 to 2.923 seconds in this session. The sampled images show the flow and custom cutaway around the shared assembly. The local three-frame look proof is `04-Production/Shots/S05/Previews/S05_shared-bha_v022_look.png`. [Scene checks and timings](../../../Shots/S05/Notes/v022-shared-bha.json)

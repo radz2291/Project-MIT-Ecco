@@ -1,0 +1,49 @@
+{
+  "source": "S05_shared-hardware_v021.blend",
+  "scene": "S05_shared-bha_v022.blend",
+  "relative_libraries": {
+    "BHA_core_satin_v001.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+    "BHA_film_v008.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+    "ECCO_film_v003.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+    "Satin_finish_v001.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend"
+  },
+  "registered_ecco_parts": 10,
+  "max_ecco_matrix_component_delta": 2.1218112777887654e-07,
+  "shared_accessory_meshes": 126,
+  "sample_frames": [
+    1,
+    50,
+    72,
+    120,
+    165,
+    205,
+    246,
+    330,
+    390,
+    432
+  ],
+  "cutaway_inner_radius_m": 0.15557,
+  "max_added_radius_inside_cutaway_m": 0.10700018920029637,
+  "proof_renders": [
+    {
+      "frame": 1,
+      "seconds": 2.922534599994833
+    },
+    {
+      "frame": 50,
+      "seconds": 0.6081930000000284
+    },
+    {
+      "frame": 205,
+      "seconds": 0.6840148000046611
+    },
+    {
+      "frame": 390,
+      "seconds": 0.7085995000015828
+    },
+    {
+      "frame": 432,
+      "seconds": 0.8069295000022976
+    }
+  ]
+}
