@@ -1,0 +1,17 @@
+{
+  "source": "S06_continuous-glide_v012.blend",
+  "scene": "S06_stable-reconstruction_v013.blend",
+  "native_sha256": "310afaaacbf3d233cc09c69394addbc1f3de79e9a6d696f3258e528ad754cbb8",
+  "material": "S06 local visibility | shared digital earth",
+  "previous_method": "BLENDED",
+  "revised_method": "DITHERED",
+  "reconstruction_material": "A | reconstructed wall beginning to open material",
+  "matched_camera_and_fade_frames": [
+    64,
+    135
+  ],
+  "reconstruction_fade_at_90_and_92": [
+    0.07500000298023224,
+    0.07500000298023224
+  ]
+}

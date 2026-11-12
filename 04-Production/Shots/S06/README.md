@@ -1,5 +1,7 @@
 # S06 · Reconstruction and report
 
+**Reconstruction fade fix v013** · [Three-second transition proof](Previews/S06_stable-reconstruction_v013_transition.mp4) · [Editable scene](Scenes/S06_stable-reconstruction_v013.blend). The colored scan stays visible through the borehole fade and into the unwrap.
+
 **Continuous glide v012** · [6.25-second preview](Previews/S06_continuous-glide_v012_opening.mp4) · [Editable scene](Scenes/S06_continuous-glide_v012.blend). The camera's travel along the steel eases directly into the pullback.
 
 **Opening glide v011** · [6.25-second preview](Previews/S06_opening-glide_v011_opening.mp4) · [Editable scene](Scenes/S06_opening-glide_v011.blend). A quick pass along the steel leads into the continuous sweep, with the grid reveal during the move.

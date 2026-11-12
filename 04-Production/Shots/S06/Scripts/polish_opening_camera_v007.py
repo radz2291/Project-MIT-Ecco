@@ -26,12 +26,17 @@ if "--existing" in args:
 cache.mkdir(parents=True, exist_ok=True)
 join = 125
 preview_end = int(args[args.index("--end") + 1]) if "--end" in args else 132
+preview_start = int(args[args.index("--start") + 1]) if "--start" in args else 1
 reuse_cache = None
 reuse_start = preview_end + 1
 surface_name = "A | reconstructed wall beginning to open"
 frames_to_check = (1, 25, 52, 76, 96, 112, 124, 125, 132)
 if preview_end > 132:
     frames_to_check += (144, preview_end)
+if preview_start != 1:
+    frames_to_check = tuple(sorted({preview_start, preview_end, *(
+        f for f in (76, 89, 92, 96, 108, 124, 132) if preview_start <= f <= preview_end
+    )}))
 if "--reuse-tail" in args:
     index = args.index("--reuse-tail")
     reuse_cache = shot / "Cache" / args[index + 1] / "preview"
@@ -226,7 +231,9 @@ def render(frame, path=None):
     return perf_counter() - started
 
 
-setup_frames = (1, reuse_start - 1) if reuse_cache else (1, 76, 96, 112, 132, preview_end)
+setup_frames = (1, reuse_start - 1) if reuse_cache else (
+    preview_start, *(f for f in (76, 96, 112, 132) if preview_start <= f <= preview_end), preview_end
+)
 state["setup"].append({str(frame): render(frame) for frame in dict.fromkeys(setup_frames)})
 save()
 if not state["benchmark"]:
@@ -243,7 +250,7 @@ if not state["benchmark"]:
     state["benchmark"] = results
     save()
 assert max(state["benchmark"].values()) < 5
-for frame in range(1, reuse_start):
+for frame in range(preview_start, reuse_start):
     key = str(frame)
     output = cache / f"S06_{frame:04d}.png"
     if key in state["frames"] and output.is_file() and output.stat().st_size:
@@ -259,7 +266,7 @@ for frame in range(1, reuse_start):
     pending.replace(output)
     state["frames"][key] = elapsed
     save()
-    if frame == 1 or frame % 24 == 0:
+    if frame == preview_start or frame % 24 == 0:
         print("FRAME", frame, round(elapsed, 3), flush=True)
 if reuse_cache:
     for frame in range(reuse_start, preview_end + 1):

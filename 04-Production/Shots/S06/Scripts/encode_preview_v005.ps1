@@ -3,7 +3,8 @@ param(
     [string]$Cache,
     [string]$Video,
     [string]$Verification,
-    [int]$FrameCount = 96
+    [int]$FrameCount = 96,
+    [int]$StartFrame = 1
 )
 
 $ErrorActionPreference = 'Stop'
@@ -20,7 +21,7 @@ $duration = [TimeSpan]::FromSeconds($seconds).ToString('hh\:mm\:ss\.ffffff')
 $partial = [IO.Path]::ChangeExtension($video, '.encoding.mp4')
 $encode = @(
     '-nostdin', '-hide_banner', '-loglevel', 'error', '-xerror', '-y',
-    '-framerate', '24', '-start_number', '1', '-i', (Join-Path $cache 'S06_%04d.png'),
+    '-framerate', '24', '-start_number', [string]$StartFrame, '-i', (Join-Path $cache 'S06_%04d.png'),
     '-frames:v', [string]$FrameCount, '-an', '-c:v', 'libx264', '-preset', 'fast', '-crf', '17',
     '-pix_fmt', 'yuv420p', '-movflags', '+faststart', $partial
 )
@@ -38,7 +39,7 @@ $record = [ordered]@{
     video = [IO.Path]::GetFileName($video)
     sha256 = (Get-FileHash -LiteralPath $video).Hash.ToLowerInvariant()
     settings = $state.settings
-    frames = @(1,$FrameCount)
+    frames = @($StartFrame,($StartFrame + $FrameCount - 1))
     seconds = $seconds
     decoded_frames = $FrameCount
     relative_libraries = $state.relative_libraries
