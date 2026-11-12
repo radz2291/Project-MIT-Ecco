@@ -1,5 +1,7 @@
 # S06 · Reconstruction and report
 
+**Opening glide v011** · [6.25-second preview](Previews/S06_opening-glide_v011_opening.mp4) · [Editable scene](Scenes/S06_opening-glide_v011.blend). A quick pass along the steel leads into the continuous sweep, with the grid reveal during the move.
+
 **Direct sweep v010** · [6.25-second preview](Previews/S06_direct-sweep_v010_opening.mp4) · [Editable scene](Scenes/S06_direct-sweep_v010.blend). One curved camera move links the close tool view to the unfold, with the grid appearing during the pullback.
 
 **Pullback and grid overlap v009** · [5.5-second preview](Previews/S06_overlapped-reveal_v009_opening.mp4) · [Editable scene](Scenes/S06_overlapped-reveal_v009.blend). The camera pulls back from the close opening as the grid appears around the tool.

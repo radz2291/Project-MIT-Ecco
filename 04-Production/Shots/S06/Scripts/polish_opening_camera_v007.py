@@ -182,10 +182,11 @@ else:
     scene = open_scene(destination)
 
 samples = int(args[0])
-scene.render.resolution_x, scene.render.resolution_y = 960, 540
+size = tuple(map(int, args[args.index("--size") + 1:args.index("--size") + 3])) if "--size" in args else (960, 540)
+scene.render.resolution_x, scene.render.resolution_y = size
 scene.render.resolution_percentage = 100
 scene.render.image_settings.file_format = "PNG"
-settings = {"resolution": [960, 540], "samples": samples, "backend": "Vulkan",
+settings = {"resolution": list(size), "samples": samples, "backend": "Vulkan",
             "compositing": scene.render.use_compositing, "fps": 24}
 timings = cache / "timings.json"
 state = json.loads(timings.read_text(encoding="utf-8")) if timings.exists() else {

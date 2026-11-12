@@ -1,0 +1,31 @@
+{
+  "source": "S06_direct-sweep_v010.blend",
+  "scene": "S06_opening-glide_v011.blend",
+  "native_sha256": "bcac60571ac373aad9d02583f6878b0398c52447b24ab62c0f189858b017dc9e",
+  "product_glide_frames": [
+    1,
+    15
+  ],
+  "product_glide_seconds": 0.5833333333333334,
+  "travel_m": 0.7032210379870052,
+  "glide_end_position_and_aim_match_v010_frame_1": true,
+  "glide_join_steps_m": [
+    0.028503930921452075,
+    0.02152265355251825,
+    0.018494229671745716,
+    0.019848285038275175
+  ],
+  "glide_join_turn_degrees": [
+    0.16785874238244658,
+    0.2017411097196981,
+    0.24389311525432933,
+    0.2683407902126115,
+    0.2825484107794578,
+    0.2960750401417127
+  ],
+  "later_camera_match": [
+    145,
+    288
+  ],
+  "grid_visibility_matched": true
+}
