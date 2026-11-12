@@ -106,3 +106,7 @@ Radzi requested picture only, with all captions and the bottom bar removed. S04_
 ### v044 reduced-support echo proof
 
 Radzi pointed out that the older proof used several echoes to make longer decay visible. v044 keeps the first exchange and both original impacts, and gives the second exchange a primary return followed by three diminishing violet packets on the same route. Their strengths are 65%, 43%, 28% of the main return. They begin at frames 213, 224 and 235 and finish while the sensor remains held. Geometry checks show return-only components. The caption-free local comparison is Previews/S04_fading-echoes_v044.mp4, 106 decoded frames at 24 fps. Native is Scenes/S04_fading-echoes_v044.blend. See Notes/v044-fading-echoes.json. The full clean video is still v043.
+
+### v045 connected decay proof
+
+The second return is one connected violet waveform with a damped tail. Its oscillation height falls into the beam before the beam closes. v045 uses the linked shared v021 field with local return-phase controls. The sampled outgoing geometry and the send and leading echo timing match v043. The original impacts and first return are retained. The local scene is Scenes/S04_connected-decay_v045.blend. The local caption-free proof is Previews/S04_connected-decay_v045.mp4. All 47 frames decoded and the return was visually sampled across the decay. The full clean render is v043.

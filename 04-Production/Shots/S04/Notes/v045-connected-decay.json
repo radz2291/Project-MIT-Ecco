@@ -1,0 +1,25 @@
+{
+  "return": {
+    "Send head arrival": 191.25,
+    "Send tail arrival": 198.0,
+    "Return start": 201.5,
+    "Return head arrival": 210.5,
+    "Return tail arrival": 232.10000610351562,
+    "Cycle frames": 73.0999984741211
+  },
+  "unchanged_send_samples": [
+    188,
+    191,
+    194,
+    197,
+    201
+  ],
+  "impact_frames": [
+    82,
+    194
+  ],
+  "ring_amplitude": 0.45,
+  "ring_period": 1.8,
+  "ring_decay": 3.2,
+  "source": "v043 single linked waveform with shot-local reduced-support return shape"
+}
