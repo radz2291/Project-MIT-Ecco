@@ -98,3 +98,7 @@ The bit side points down-right at 53 degrees through frames 1–261. The tighten
 ### Continuous v043 review
 
 The earlier composition clip omitted both measurement beats because it was an excerpt. The v043 native retains both responses, BHA/camera travel, crossing and original wireframe ending. The complete local review is Previews/S04_diagonal-composition_v043_full.mp4 under Shots/S04. It uses alternate-frame sampling through frame 323 and the original v042 ending from frame 324 at its original cadence. All 432 encoded frames decoded at 960 × 540, 24 fps, 18 seconds. Decoded samples include both contacts and echoes, travel, crossing and wear. Video SHA-256 bd34cbc7ab6ebf1c2ae48d72ed56eed6f56e59a667ea90cf42e66e532b981841.
+
+### Clean full-cadence v043 render
+
+Radzi requested picture only, with all captions and the bottom bar removed. S04_diagonal-composition_v043_clean.mp4 in Shots/S04/Previews is 960 × 540, 24 fps, 18 seconds. The clean encode uses 161 newly rendered v043 frames, 162 earlier raw v043 frames and 109 unchanged raw ending frames. Every timeline frame has its own sample. All 432 frames decoded with no drops or duplicates. Decoded samples confirm both waveforms, travel, crossing and the uncaptioned wireframe reveal. New frames peaked at 3.113 seconds render-to-file. SHA-256 5fe3fbc7902a1977704b8f90b58671f359bea7778a8858e55884e75a0521cad3. Native and media are local.
