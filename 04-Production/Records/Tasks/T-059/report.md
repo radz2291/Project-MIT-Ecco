@@ -94,3 +94,7 @@ v042 advances both shared sends by 2.75 frames so the visible crest is 98.8% acr
 ## Composition proof v043
 
 The bit side points down-right at 53 degrees through frames 1–261. The tightened opening crops the physical bit tip beyond the lower edge to keep the ground model boundary out of view. The roll eases back across 262–323. Reopened camera matrices, lens and shifts match v042 within 1e-6 on every frame from 324–432. The motion proof uses half-rate samples for the opening and crossing, then uses the original v042 wireframe ending. All 235 encoded frames decoded. The full-length native is Scenes/S04_diagonal-composition_v043.blend and the local proof is Previews/S04_diagonal-composition_v043.mp4. Native and media are local. See Notes/v043-camera-composition.json.
+
+### Continuous v043 review
+
+The earlier composition clip omitted both measurement beats because it was an excerpt. The v043 native retains both responses, BHA/camera travel, crossing and original wireframe ending. The complete local review is Previews/S04_diagonal-composition_v043_full.mp4 under Shots/S04. It uses alternate-frame sampling through frame 323 and the original v042 ending from frame 324 at its original cadence. All 432 encoded frames decoded at 960 × 540, 24 fps, 18 seconds. Decoded samples include both contacts and echoes, travel, crossing and wear. Video SHA-256 bd34cbc7ab6ebf1c2ae48d72ed56eed6f56e59a667ea90cf42e66e532b981841.
