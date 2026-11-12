@@ -1,0 +1,52 @@
+{
+  "output": "S05_stretched-grid_v028_final.mp4",
+  "sha256": "21f6bdd609dc6a88266f65f5c0f20e80592ca80294e4dca2c72f18de65f7a0b6",
+  "profile": {
+    "source": "S05_stretched-grid_v028.blend",
+    "native_sha256": "1c6d91b97d595eaee7d91cd373631bed5506c11b3f990b02419e24d8188ca95c",
+    "engine": "BLENDER_EEVEE",
+    "backend": "Vulkan",
+    "resolution": [
+      960,
+      540
+    ],
+    "fps": 24,
+    "samples": 4,
+    "ray_tracing": false,
+    "compositing": false
+  },
+  "codec": "H.264, yuv420p, CRF 17",
+  "duration_seconds": 18,
+  "decoded_frames": 432,
+  "distinct_decoded_images": 432,
+  "audio_streams": 0,
+  "benchmark_frames": {
+    "1": 2.7746335999981966,
+    "25": 2.9620834999950603,
+    "50": 2.9543503999884706,
+    "72": 3.3515225000010105,
+    "96": 1.9767772000050172,
+    "120": 1.9894507999997586,
+    "144": 1.6781412999989698,
+    "165": 1.488977300003171,
+    "185": 2.115298500008066,
+    "205": 1.7847260999988066,
+    "222": 1.8378124000009848,
+    "246": 1.8660283999925014,
+    "270": 1.9438098999962676,
+    "300": 1.5403813000011723,
+    "330": 1.987764800011064,
+    "360": 4.587960799995926,
+    "390": 3.076883600006113,
+    "416": 2.9560288000066066,
+    "432": 3.023193499990157
+  },
+  "maximum_benchmark_seconds": 4.587960799995926,
+  "render_mean_seconds": 0.9901618391202781,
+  "render_maximum_seconds": 3.236688100005267,
+  "render_total_seconds": 427.74991449996014,
+  "renderer_setup_seconds": [
+    39.161198899993906
+  ],
+  "over_cap_attempts": []
+}

@@ -1,5 +1,7 @@
 # S05 · Hydraulic Enhancement
 
+**Full picture render v028** · [18-second MP4](Previews/S05_stretched-grid_v028_final.mp4) · [Editable scene](Scenes/S05_stretched-grid_v028.blend) · [Encoded frame check](Previews/S05_stretched-grid_v028_decoded-check.png). 960 × 540 at 24 fps. All 432 frames decoded.
+
 **Continuous stretched grid v028** · [Frames 50, 205 and 432](Previews/S05_stretched-grid_v028_look.png) · [Editable look trial](Scenes/S05_stretched-grid_v028.blend). Grid lines align at the bore lip and curve smoothly across the ground as the cells stretch.
 
 [Navy room trial v023](Previews/S05_navy-room_v023_look.png) · [Slate cutaway trial v024](Previews/S05_stylized-cutaway_v024_look.png) · [Wireframe wall trial v025](Previews/S05_wireframe-wall_v025_look.png) · [Continuous borehole and ground v026](Previews/S05_continuous-ground_v026_look.png) · [Stepped ground grid v027](Previews/S05_graded-ground-grid_v027_look.png).
