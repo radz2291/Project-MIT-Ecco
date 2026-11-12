@@ -1,0 +1,34 @@
+{
+  "source": "S05_navy-room_v023.blend",
+  "scene": "S05_stylized-cutaway_v024.blend",
+  "review_frames": [
+    50,
+    205,
+    432
+  ],
+  "cutaway_geometry_and_material_indices_sha256": "a80cdd399cac457d1561b3957f3634c1fe72bc9e630682fb6822ab99c7f9ecc8",
+  "cutaway_materials": [
+    "S05 borehole wall | blue charcoal",
+    "S05 cement cut face | slate"
+  ],
+  "relative_libraries": {
+    "BHA_core_satin_v001.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+    "BHA_film_v008.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+    "ECCO_film_v003.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+    "Satin_finish_v001.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend"
+  },
+  "stills": [
+    {
+      "frame": 50,
+      "seconds": 12.539255499999854
+    },
+    {
+      "frame": 205,
+      "seconds": 1.9925539000032586
+    },
+    {
+      "frame": 432,
+      "seconds": 2.1215229999943404
+    }
+  ]
+}

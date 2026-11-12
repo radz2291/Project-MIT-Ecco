@@ -1,6 +1,8 @@
 # S05 · Hydraulic Enhancement
 
-**Navy room look trial v023** · [Three requested stills](Previews/S05_navy-room_v023_look.png) · [Editable look trial](Scenes/S05_navy-room_v023.blend). Frames 50, 205 and 432 are ready for review.
+**Stylized cutaway look trial v024** · [Frames 50, 205 and 432](Previews/S05_stylized-cutaway_v024_look.png) · [Editable look trial](Scenes/S05_stylized-cutaway_v024.blend). Blue-charcoal borehole walls and slate cut faces carry the navy room palette into the custom geometry.
+
+[Navy room trial v023](Previews/S05_navy-room_v023_look.png) remains available for comparison.
 
 The current editable candidate is [S05 shared BHA v022](Scenes/S05_shared-bha_v022.blend). It carries the approved 18-second v020 previs camera, timing and amber circulation into production. The connected BHA v008 and its uphole joint follow the existing tool rotation. The assembly uses shared ECCO v003 and Satin finish v001. The custom ground and cement, hydraulic paths and cuttings stay in the shot.
 
