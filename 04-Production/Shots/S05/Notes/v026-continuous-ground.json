@@ -1,0 +1,33 @@
+{
+  "source": "S05_wireframe-wall_v025.blend",
+  "scene": "S05_continuous-ground_v026.blend",
+  "review_frames": [
+    50,
+    205,
+    432
+  ],
+  "source_bore_radius_m": 0.15557499197051167,
+  "source_arc_samples": 97,
+  "connected_surface_faces": 294,
+  "camera_coverage_rays": 15120,
+  "relative_libraries": {
+    "BHA_core_satin_v001.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\Dependencies\\BHA_core_satin_v001.blend",
+    "BHA_film_v008.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\BHA\\BHA_film_v008.blend",
+    "ECCO_film_v003.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+    "Satin_finish_v001.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend"
+  },
+  "stills": [
+    {
+      "frame": 50,
+      "seconds": 5.910672400001204
+    },
+    {
+      "frame": 205,
+      "seconds": 1.4007051000007777
+    },
+    {
+      "frame": 432,
+      "seconds": 2.2778275000018766
+    }
+  ]
+}
