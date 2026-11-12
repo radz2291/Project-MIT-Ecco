@@ -1,6 +1,6 @@
 # S06 · Reconstruction and report
 
-**Full Section 6 render v013** · [12-second MP4](Previews/S06_stable-reconstruction_v013_full.mp4) · [Editable scene](Scenes/S06_stable-reconstruction_v013.blend) · [Encoded frame check](Previews/S06_stable-reconstruction_v013_full-check.png). 800 × 450 at 24 fps. All 288 frames decoded.
+**Approved Section 6 picture v013** · [12-second MP4](Previews/S06_stable-reconstruction_v013_full.mp4) · [Editable scene](Scenes/S06_stable-reconstruction_v013.blend) · [Encoded frame check](Previews/S06_stable-reconstruction_v013_full-check.png). 800 × 450 at 24 fps. All 288 frames decoded. Radzi approved this render and directed wrap on 12 November 2026.
 
 **Reconstruction fade fix v013** · [Three-second transition proof](Previews/S06_stable-reconstruction_v013_transition.mp4) · [Editable scene](Scenes/S06_stable-reconstruction_v013.blend). The colored scan stays visible through the borehole fade and into the unwrap.
 
