@@ -14,8 +14,14 @@ from mathutils import Vector
 
 shot = Path(__file__).resolve().parents[1]
 source = shot / "Scenes/S06_shared-reconstruction_v005.blend"
+args = sys.argv[sys.argv.index("--") + 1:] if "--" in sys.argv else ["8"]
 destination = shot / "Scenes/S06_camera-polish_v007.blend"
 cache = shot / "Cache/v007/preview"
+if "--existing" in args:
+    version_index = args.index("--existing")
+    destination = shot / "Scenes" / args[version_index + 1]
+    cache = shot / "Cache" / args[version_index + 2] / "preview"
+    assert destination.is_file()
 cache.mkdir(parents=True, exist_ok=True)
 join = 125
 preview_end = 132
@@ -173,7 +179,7 @@ if not destination.exists():
 else:
     scene = open_scene(destination)
 
-samples = int(sys.argv[sys.argv.index("--") + 1]) if "--" in sys.argv else 8
+samples = int(args[0])
 scene.render.resolution_x, scene.render.resolution_y = 960, 540
 scene.render.resolution_percentage = 100
 scene.render.image_settings.file_format = "PNG"

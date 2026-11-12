@@ -1,0 +1,24 @@
+{
+  "source": "S06_shared-reconstruction_v005.blend",
+  "scene": "S06_close-swipe_v008.blend",
+  "native_sha256": "a496390e3ab559222492fe479b842c078180bbb8bed3d4a10adf6a5b8ebd8934",
+  "edited_camera_frames": [
+    1,
+    124
+  ],
+  "exact_camera_match": [
+    125,
+    288
+  ],
+  "original_handoff_motion": {
+    "max_travel_m": 0.14540660822121929,
+    "max_change_of_travel_m": 0.01072060894432109,
+    "max_turn_deg": 1.8169816506021899
+  },
+  "revised_handoff_motion": {
+    "max_travel_m": 0.12315624680101066,
+    "max_change_of_travel_m": 0.009053211361322703,
+    "max_turn_deg": 1.636098391142977
+  },
+  "frame_1_offset_m": 0.13292479648818822
+}

@@ -1,5 +1,7 @@
 # S06 · Reconstruction and report
 
+**Close opening v008** · [5.5-second preview](Previews/S06_close-swipe_v008_opening.mp4) · [Editable scene](Scenes/S06_close-swipe_v008.blend). The original close composition has a gentle tracking move along the tool and a softer handoff to the unfold.
+
 **Camera review v007** · [5.5-second opening preview](Previews/S06_camera-polish_v007_opening.mp4) · [Editable scene](Scenes/S06_camera-polish_v007.blend). The camera opens wider on the borehole and eases into the original unfolding move at frame 125.
 
 **Production candidate v005** · [Editable scene](Scenes/S06_shared-reconstruction_v005.blend) · [Four-second opening preview](Previews/S06_shared-reconstruction_v005_opening.mp4).
