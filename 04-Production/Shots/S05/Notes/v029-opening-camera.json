@@ -1,0 +1,29 @@
+{
+  "establishing_reference": "S05_full-cinematic_v018.blend",
+  "source": "S05_stretched-grid_v028.blend",
+  "scene": "S05_establishing-opening_v029.blend",
+  "scene_sha256": "fc845e796569a3e32e911dc2ec2475ce0742dc10d5d0df041b2db7a84c247e0f",
+  "changed_camera_frames": [
+    1,
+    56
+  ],
+  "wide_source_only_frames": [
+    1,
+    9
+  ],
+  "first_frame_camera_matches_v018": true,
+  "unchanged_tail_camera_samples": 751,
+  "join_step_m": [
+    0.005458879353991114,
+    0.005029197749781473,
+    0.004569838800312858,
+    0.004100783984038938
+  ],
+  "join_step_deg": [
+    0.356082280744668,
+    0.3380409230214611,
+    0.3090101377692475,
+    0.2797646284450016
+  ],
+  "camera_coverage_rays": 504
+}

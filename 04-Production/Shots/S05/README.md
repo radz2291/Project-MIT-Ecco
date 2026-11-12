@@ -1,6 +1,8 @@
 # S05 · Hydraulic Enhancement
 
-**Full picture render v028** · [18-second MP4](Previews/S05_stretched-grid_v028_final.mp4) · [Editable scene](Scenes/S05_stretched-grid_v028.blend) · [Encoded frame check](Previews/S05_stretched-grid_v028_decoded-check.png). 960 × 540 at 24 fps. All 432 frames decoded.
+**Full picture render v029 with establishing opening** · [18-second MP4](Previews/S05_establishing-opening_v029_final.mp4) · [Editable scene](Scenes/S05_establishing-opening_v029.blend) · [Encoded frame check](Previews/S05_establishing-opening_v029_decoded-check.png). The wide v018 opening blends into the approved tracking move at frame 57. 960 × 540 at 24 fps. All 432 frames decoded.
+
+[Earlier full picture render v028](Previews/S05_stretched-grid_v028_final.mp4) · [Encoded frame check](Previews/S05_stretched-grid_v028_decoded-check.png).
 
 **Continuous stretched grid v028** · [Frames 50, 205 and 432](Previews/S05_stretched-grid_v028_look.png) · [Editable look trial](Scenes/S05_stretched-grid_v028.blend). Grid lines align at the bore lip and curve smoothly across the ground as the cells stretch.
 

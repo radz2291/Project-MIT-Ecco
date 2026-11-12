@@ -1,11 +1,16 @@
-param([Parameter(Mandatory)][string]$Ffmpeg)
+param(
+    [Parameter(Mandatory)][string]$Ffmpeg,
+    [string]$Cache,
+    [string]$Output,
+    [string]$Verification
+)
 
 $ErrorActionPreference = 'Stop'
 $shot = Split-Path -Parent $PSScriptRoot
-$cache = Join-Path $shot 'Cache/v028/full-vulkan'
-$output = Join-Path $shot 'Previews/S05_stretched-grid_v028_final.mp4'
+$cache = if ($Cache) { $Cache } else { Join-Path $shot 'Cache/v028/full-vulkan' }
+$output = if ($Output) { $Output } else { Join-Path $shot 'Previews/S05_stretched-grid_v028_final.mp4' }
 $partial = [IO.Path]::ChangeExtension($output, '.encoding.mp4')
-$verification = Join-Path $shot 'Notes/v028-full-delivery.json'
+$verification = if ($Verification) { $Verification } else { Join-Path $shot 'Notes/v028-full-delivery.json' }
 $state = Get-Content -LiteralPath (Join-Path $cache 'timings.json') -Raw | ConvertFrom-Json -AsHashtable
 if (Test-Path -LiteralPath $output) { throw "Output already exists: $output" }
 if ($state.frames.Count -ne 432) { throw 'Expected timings for all 432 frames.' }
@@ -61,6 +66,16 @@ $result = [ordered]@{
     render_total_seconds = $times.Sum
     renderer_setup_seconds = $state.setup
     over_cap_attempts = $state.over_cap_attempts
+}
+if ($state.Contains('reused_frames')) {
+    $newTimes = $state.frames.GetEnumerator() |
+        Where-Object { [int]$_.Key -notin $state.reused_frames } |
+        ForEach-Object Value | Measure-Object -Maximum -Sum
+    $result.newly_rendered_frames = $state.frames.Count - $state.reused_frames.Count
+    $result.newly_rendered_maximum_seconds = $newTimes.Maximum
+    $result.newly_rendered_total_seconds = $newTimes.Sum
+    $result.reused_frames = $state.reused_frames
+    $result.reused_source = $state.reused_source
 }
 $result | ConvertTo-Json -Depth 8 | Set-Content -LiteralPath $verification -Encoding utf8
 $result | ConvertTo-Json -Depth 8
