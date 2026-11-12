@@ -1,0 +1,23 @@
+{
+  "target_screen_diagonal_degrees": -53,
+  "measured_screen_angles": {
+    "1": -52.999994347829514,
+    "31": -53.0000004768501,
+    "63": -52.99999095724361,
+    "82": -52.99999095724361,
+    "194": -52.9999912990477,
+    "261": -53.00000913917259,
+    "285": -31.098427938529692,
+    "310": 45.72215201819537,
+    "323": 52.6016137728467
+  },
+  "original_camera_matches_within_1e-6_frames": [
+    324,
+    432
+  ],
+  "transition_frames": [
+    262,
+    323
+  ],
+  "scope": "Camera rotation and opening lens/shift only"
+}
