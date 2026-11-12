@@ -114,3 +114,10 @@ The second return is one connected violet waveform with a damped tail. Its oscil
 ### Final clean v045 render
 
 Radzi approved the connected decay and directed the final render. The clean local 18-second video is Previews/S04_connected-decay_v045_final.mp4 under Shots/S04. The 47 rendered v045 frames cover 190–236 and the other 385 are reused from the verified v043 clean raw sequence. All 432 frames decoded at 960 × 540, 24 fps, with no drops or duplicates. Sampled playback confirms the two responses, travel, connected decay and original wireframe ending without captions or bars. Video SHA-256 0740c9dfe4fda561f5a4d8263e81fed6c8bd29243feadb963c28986b4a4963ba. The editable native is Scenes/S04_connected-decay_v045.blend, SHA-256 fec45c9631d202ce088f77e2e7b3f023dc6c1ecc945e549f38a25346ede56262. Native and media are local. Off-machine backup is unverified.
+
+
+## Owner approval and handoff · 12 November 2026
+
+Radzi approved the final clean v045 render in Codex and directed wrap. The local MP4 is the approved S04 picture for film assembly. It runs 18 seconds at 960 × 540 and 24 fps, with no audio, top captions or bottom text bar. The editable v045 scene reopened in Blender 5.2.3 with all ten relative libraries resolved and the 1–432 timeline intact. Both deliverable hashes match the final render record above.
+
+The approved sequence shows the first supported exchange, BHA and camera travel to the second measurement, the reduced-support exchange with a connected diminishing return, and the final wireframe wear reveal. The earlier dark-band look observation was reviewed in context and was outside the approved final changes. Radzi owns film assembly and client delivery. Native and MP4 remain local, with off-machine backup unverified. Rolladice Work carries the pinned handoff records for Review.
