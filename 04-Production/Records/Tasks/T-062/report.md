@@ -39,3 +39,9 @@ Radzi requested the complete Section 7 render after reviewing the v009 close-up 
 The Vulkan EEVEE profile uses 16 samples and the existing compositor and sequencer, matching the v009 preview. Seventeen warmed benchmarks across all three shots peaked at 0.546 seconds. Cold warmup took 2.173 seconds. The `full` stage of the revision script rendered frames 1–104, with a 1.271-second maximum. Frames 105–192 reuse the verified preview images. Fresh full-run checks for frames 105, 121, 136, 174 and 192 matched those cached images pixel for pixel. Raw frames and timings are local at `04-Production/Shots/S07/Cache/v009/full-960x540-16spp`.
 
 FFmpeg encoded frames 1–192 to H.264 CRF 17, YUV420p, with no audio stream. All 192 frames decoded. The 189 frames before the closing black were distinct. Twelve decoded samples were inspected across both cuts, the cache join, the pullback and the black ending. The local review sheet is `04-Production/Shots/S07/Previews/S07_turn-during-pullback_v009_full-check.png`. Native and video stay local, with off-machine backup unverified. [Full delivery verification](../../../Shots/S07/Notes/v009-full-delivery.json)
+
+## Owner approval and handoff · 12 November 2026
+
+Radzi approved the complete v009 render and directed wrap in Codex. The eight-second picture-only MP4 above is the selected Section 7 picture for film assembly. The matching v009 Blender scene is the editable handoff. Earlier versions remain available as production history.
+
+At wrap, both deliverable hashes matched the recorded v009 values. A fresh decode confirmed 192 frames at 960 × 540 and 24 fps, with 189 distinct frames before the closing black and no audio stream. Blender 5.2.3 reopened the scene and verified its 1–192 frame range and both relative libraries. The native and MP4 are retained locally. Off-machine backup remains unverified. Radzi owns logo insertion, audio, film assembly and client delivery.

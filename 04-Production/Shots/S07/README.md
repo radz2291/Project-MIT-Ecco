@@ -1,8 +1,8 @@
 # Section 7 · Product hero
 
-**Full Section 7 v009** · [Eight-second MP4](Previews/S07_turn-during-pullback_v009_full.mp4) · [Editable Blender scene](Scenes/S07_turn-during-pullback_v009.blend) · [Encoded frame check](Previews/S07_turn-during-pullback_v009_full-check.png)
+**Approved Section 7 picture v009** · [Eight-second MP4](Previews/S07_turn-during-pullback_v009_full.mp4) · [Editable Blender scene](Scenes/S07_turn-during-pullback_v009.blend) · [Encoded frame check](Previews/S07_turn-during-pullback_v009_full-check.png)
 
-The full picture includes the opening detail glide, reverse angle, and close-up turn through the final pullback and fade. 960 × 540 at 24 fps, with all 192 frames decoded.
+The full picture includes the opening detail glide, reverse angle, and close-up turn through the final pullback and fade. Radzi approved this 960 × 540, 24 fps render and directed wrap on 12 November 2026. All 192 frames decoded.
 
 **Turn during pullback v009** · [Ending preview](Previews/S07_turn-during-pullback_v009_preview.mp4) · [Editable Blender scene](Scenes/S07_turn-during-pullback_v009.blend)
 
