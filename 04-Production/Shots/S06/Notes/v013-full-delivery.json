@@ -1,0 +1,92 @@
+{
+  "video": "S06_stable-reconstruction_v013_full.mp4",
+  "sha256": "6f03ab07ee9fae768a7f26d9e0be6fd9f344ec1a5d74efa8112cdc03fe39680d",
+  "settings": {
+    "resolution": [
+      800,
+      450
+    ],
+    "samples": 8,
+    "backend": "Vulkan",
+    "compositing": true,
+    "fps": 24
+  },
+  "frames": [
+    1,
+    288
+  ],
+  "seconds": 12,
+  "decoded_frames": 288,
+  "relative_libraries": {
+    "Digital_style_v001.blend.001": "//..\\..\\..\\Shared\\Assets\\Effects\\DigitalEnvironment\\Dependencies\\Digital_style_v001.blend",
+    "Digital_world_v001.blend.001": "//..\\..\\..\\Shared\\Assets\\Effects\\DigitalEnvironment\\Dependencies\\Digital_world_v001.blend",
+    "ECCO_film_v003.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\ECCO_film_v003.blend",
+    "Measurement_reveal_v001.blend": "//..\\..\\..\\Shared\\Assets\\Effects\\MeasurementReveal\\Measurement_reveal_v001.blend",
+    "Satin_finish_v001.blend": "//..\\..\\..\\Shared\\Assets\\Hardware\\ECCO\\Dependencies\\Satin_finish_v001.blend",
+    "World_environment_v010.blend.001": "//..\\..\\..\\Shared\\Assets\\Environment\\Borehole\\World_environment_v010.blend"
+  },
+  "benchmark": {
+    "1": 2.2079507000016747,
+    "25": 3.0903014999930747,
+    "52": 1.5757808999915142,
+    "76": 1.9488827000022866,
+    "96": 3.3894690000015544,
+    "112": 4.796262599993497,
+    "124": 4.692045100004179,
+    "125": 4.544905300004757,
+    "132": 4.023693699986325,
+    "144": 2.9937470000004396,
+    "156": 1.7016596000030404,
+    "176": 1.130951200000709,
+    "192": 1.0041248000052292,
+    "204": 1.5127118000091286,
+    "216": 1.6620330000005197,
+    "228": 2.086756000004243,
+    "236": 1.8128317999944557,
+    "244": 2.1488949000049615,
+    "250": 3.924318500008667,
+    "264": 1.9377945000014734,
+    "276": 1.6104748000070686,
+    "288": 0.9618523999961326
+  },
+  "setup_seconds": [
+    {
+      "1": 5.058390299993334,
+      "76": 3.326565900002606,
+      "96": 3.6267512000049464,
+      "112": 4.328891099998145,
+      "132": 3.0995636000006925,
+      "192": 1.0000690999877406,
+      "216": 0.6982388999895193,
+      "236": 1.9062474999955157,
+      "250": 3.313652299999376,
+      "288": 1.06378150000819
+    }
+  ],
+  "max_seconds": 2.4123233999998774,
+  "mean_seconds": 1.032115438888569,
+  "total_seconds": 297.24924639990786,
+  "retries": [],
+  "reused_frames": [
+    64,
+    135
+  ],
+  "reused_from": "v013",
+  "distinct_decoded_images": 288,
+  "audio_streams": 0,
+  "native_sha256": "310afaaacbf3d233cc09c69394addbc1f3de79e9a6d696f3258e528ad754cbb8",
+  "decoded_visual_samples": [
+    1,
+    14,
+    52,
+    89,
+    92,
+    108,
+    133,
+    176,
+    204,
+    228,
+    250,
+    288
+  ]
+}

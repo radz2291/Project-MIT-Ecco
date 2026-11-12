@@ -5,6 +5,7 @@ import json
 from math import degrees
 import os
 from pathlib import Path
+import shutil
 import sys
 from time import perf_counter
 
@@ -23,16 +24,22 @@ if "--existing" in args:
     destination = shot / "Scenes" / args[version_index + 1]
     cache = shot / "Cache" / args[version_index + 2] / "preview"
     assert destination.is_file()
+if "--cache-name" in args:
+    cache = cache.with_name(args[args.index("--cache-name") + 1])
 cache.mkdir(parents=True, exist_ok=True)
+assert shutil.disk_usage(cache).free > 6 * 1024**3
 join = 125
 preview_end = int(args[args.index("--end") + 1]) if "--end" in args else 132
 preview_start = int(args[args.index("--start") + 1]) if "--start" in args else 1
 reuse_cache = None
 reuse_start = preview_end + 1
+reuse_end = preview_end
 surface_name = "A | reconstructed wall beginning to open"
 frames_to_check = (1, 25, 52, 76, 96, 112, 124, 125, 132)
 if preview_end > 132:
     frames_to_check += (144, preview_end)
+if preview_end > 150:
+    frames_to_check += (156, 176, 192, 204, 216, 228, 236, 244, 250, 264, 276)
 if preview_start != 1:
     frames_to_check = tuple(sorted({preview_start, preview_end, *(
         f for f in (76, 89, 92, 96, 108, 124, 132) if preview_start <= f <= preview_end
@@ -43,6 +50,12 @@ if "--reuse-tail" in args:
     reuse_start = int(args[index + 2])
     assert 1 < reuse_start <= preview_end
     frames_to_check = tuple(dict.fromkeys(1 + (reuse_start - 2) * i // 4 for i in range(5)))
+elif "--reuse-range" in args:
+    index = args.index("--reuse-range")
+    reuse_cache = shot / "Cache" / args[index + 1] / "preview"
+    reuse_start, reuse_end = map(int, args[index + 2:index + 4])
+    assert preview_start <= reuse_start <= reuse_end <= preview_end
+frames_to_check = tuple(sorted(set(frames_to_check)))
 
 
 def ease(t):
@@ -211,7 +224,7 @@ assert state["settings"] == settings
 if reuse_cache:
     previous = json.loads((reuse_cache / "timings.json").read_text(encoding="utf-8"))
     assert previous["settings"] == settings
-    state["reused_frames"] = [reuse_start, preview_end]
+    state["reused_frames"] = [reuse_start, reuse_end]
     state["reused_from"] = reuse_cache.parent.name
 
 
@@ -231,8 +244,8 @@ def render(frame, path=None):
     return perf_counter() - started
 
 
-setup_frames = (1, reuse_start - 1) if reuse_cache else (
-    preview_start, *(f for f in (76, 96, 112, 132) if preview_start <= f <= preview_end), preview_end
+setup_frames = (1, reuse_start - 1) if "--reuse-tail" in args else (
+    preview_start, *(f for f in (76, 96, 112, 132, 192, 216, 236, 250) if preview_start <= f <= preview_end), preview_end
 )
 state["setup"].append({str(frame): render(frame) for frame in dict.fromkeys(setup_frames)})
 save()
@@ -250,9 +263,17 @@ if not state["benchmark"]:
     state["benchmark"] = results
     save()
 assert max(state["benchmark"].values()) < 5
-for frame in range(preview_start, reuse_start):
+for frame in range(preview_start, preview_end + 1):
     key = str(frame)
     output = cache / f"S06_{frame:04d}.png"
+    if reuse_cache and reuse_start <= frame <= reuse_end:
+        existing = reuse_cache / output.name
+        if not output.is_file():
+            os.link(existing, output)
+        assert existing.samefile(output) and previous["frames"][key] < 5
+        state["frames"][key] = previous["frames"][key]
+        save()
+        continue
     if key in state["frames"] and output.is_file() and output.stat().st_size:
         continue
     pending = cache / "pending.png"
@@ -268,14 +289,4 @@ for frame in range(preview_start, reuse_start):
     save()
     if frame == preview_start or frame % 24 == 0:
         print("FRAME", frame, round(elapsed, 3), flush=True)
-if reuse_cache:
-    for frame in range(reuse_start, preview_end + 1):
-        key = str(frame)
-        name = f"S06_{frame:04d}.png"
-        existing, copied = reuse_cache / name, cache / name
-        if not copied.is_file():
-            os.link(existing, copied)
-        assert existing.samefile(copied) and previous["frames"][key] < 5
-        state["frames"][key] = previous["frames"][key]
-    save()
 print("COMPLETE", len(state["frames"]), round(max(state["frames"].values()), 3), flush=True)

@@ -1,5 +1,7 @@
 # S06 · Reconstruction and report
 
+**Full Section 6 render v013** · [12-second MP4](Previews/S06_stable-reconstruction_v013_full.mp4) · [Editable scene](Scenes/S06_stable-reconstruction_v013.blend) · [Encoded frame check](Previews/S06_stable-reconstruction_v013_full-check.png). 800 × 450 at 24 fps. All 288 frames decoded.
+
 **Reconstruction fade fix v013** · [Three-second transition proof](Previews/S06_stable-reconstruction_v013_transition.mp4) · [Editable scene](Scenes/S06_stable-reconstruction_v013.blend). The colored scan stays visible through the borehole fade and into the unwrap.
 
 **Continuous glide v012** · [6.25-second preview](Previews/S06_continuous-glide_v012_opening.mp4) · [Editable scene](Scenes/S06_continuous-glide_v012.blend). The camera's travel along the steel eases directly into the pullback.
